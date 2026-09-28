@@ -1,0 +1,1278 @@
+:	88VA
+:	:	´±ÊÝÀ°.DUP
+:	:	½Ëß°ÃÞ¨.DUP
+:	:	ÈºÒ°¶°.DUP
+:	:	×ÝÅ°½ÞÊ².DUP
+:	ACTION
+:	:	DIA_EXP.__1
+:	:	:	DISK.DUP
+:	:	DIA_EXP2.__1
+:	:	:	DISK.DUP
+:	:	DISCO_SC.__1
+:	:	:	DISK.DUP
+:	:	GARDIS_2.__1
+:	:	:	GARDIS_V.DUP
+:	:	GROBÓÄÞ·.__1
+:	:	:	GROBDA.DUP
+:	:	GYAOS.__1
+:	:	:	‚f‚x‚`‚n.DUP
+:	:	LUSTERSQ.__1
+:	:	:	DISK.DUP
+:	:	MAD_GEAR.__1
+:	:	:	DISK.DUP
+:	:	SILV_BAL.__1
+:	:	:	DISK.DUP
+:	:	SP_LANDI.__1
+:	:	:	DISK.DUP
+:	:	STOX.__1
+:	:	:	‚r‚s‚n‚j.DUP
+:	:	‚ ‚é‚é‚é.__1
+:	:	:	‚ ‚é‚é‚é.DUP
+:	:	ŒˆíÀÞ°¸.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	î¹–³—p2.__1
+:	:	:	î‚¯–³—p.DUP
+:	:	’nãí.__1
+:	:	:	’nãí.DUP
+:	:	’´”š’e‚Q.__1
+:	:	:	DISK.DUP
+:	:	•sŽv‹c•¨.__1
+:	:	:	•sŽv‹c•¨.DUP
+:	:	–‚–@‚Ìí.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	±½ÃÛ²ÄÞ¸.__1
+:	:	:	DISK.DUP
+:	:	³²¯Ìß½2.__1
+:	:	:	‚v‚h‚o‚r.DUP
+:	:	¼¬ÎÞÝ‹Ê.__1
+:	:	:	DISK.DUP
+:	:	½¶ÎßÛ¼Þ².__1
+:	:	:	‚·‚©‚Û‚ë.DUP
+:	:	¾°×°V.__1
+:	:	:	DISK.DUP
+:	:	ÀÞÌÞÙÀ°¹.__1
+:	:	:	DISK.DUP
+:	:	ÎÞÖÝÎÞÖÝ.__1
+:	:	:	ƒ{ƒˆƒ“ƒ{.DUP
+:	:	Îß°ÄÀÜ°.__1
+:	:	:	ƒ||ƒgƒ^.DUP
+:	:	Ï°ÌÞÙÏ¼Þ.__1
+:	:	:	ƒ}[ƒuƒ‹.DUP
+:	ADV
+:	:	EFF.__1
+:	:	:	‚d‚†‚†.DUP
+:	:	ERIONQUE.__1
+:	:	:	DISK.DUP
+:	:	HALFMIND.__1
+:	:	:	DISK.DUP
+:	:	LASTPIE2.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	SDŽž‚ÌŒ®.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	SENEGAL.__1
+:	:	:	‚r‚d‚m‚d.DUP
+:	:	SHELL.__1
+:	:	:	‚r‚g‚d‚k.DUP
+:	:	SMŽÅ‹¬.__1
+:	:	:	‚r‚lŽÅ‹.DUP
+:	:	VISION.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	WATERBLU.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	‰Æ’ë‹³‚Q.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	‰Æ’ë‹³Žt.__1
+:	:	:	‰Æ’ë‹³Žt.DUP
+:	:	Žž‚ÌŒ®.__2
+:	:	:	DISK_A.DUP
+:	:	:	SYS.DUP
+:	:	¹ÙÅŠw‰€.__1
+:	:	:	¹ƒ‹ƒiŠw.DUP
+:	:	Ô‚¸‚«‚ñ.__1
+:	:	:	DISK.DUP
+:	:	“‘¾˜Y.__1
+:	:	:	“‘¾˜Y.DUP
+:	:	“‘¾˜Y‚Q.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	“Á‘{ŒYŽ–.__1
+:	:	:	“ÁŽBŒYŽ–.DUP
+:	:	±ÔÁ¬Ý½°Ì.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	±Ý½ÞFLY.__1
+:	:	:	‚ ‚ñ‚¸‚e.DUP
+:	:	²Ï¿ÞÏÝ.__1
+:	:	:	ƒCƒ}ƒ]ƒ}.DUP
+:	:	¶Ü²¿³.__1
+:	:	:	DISK.DUP
+:	:	¶Ü²¿³2.__1
+:	:	:	DISK.DUP
+:	:	¶Ü²¿³Š®.__2
+:	:	:	DEMO.DUP
+:	:	:	DISK.DUP
+:	:	½¶ÀÝÊ²½¸.__1
+:	:	:	DISK.DUP
+:	:	ÃÙÐÈ°Á¬Ý.__1
+:	:	:	DISK.DUP
+:	:	Ä·Ò·×ÝÄ2.__3
+:	:	:	DISK_1.DUP
+:	:	:	DISK_2.DUP
+:	:	:	DISK_3.DUP
+:	:	Ä·Ò·×ÝÄÞ.__2
+:	:	:	PC_SIDE.DUP
+:	:	:	X_SIDE.DUP
+:	:	Ê°ÄµÌÞ»Ì.__4
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	:	DISK_C.DUP
+:	:	:	DISK_D.DUP
+:	:	Ê²Ò¶Þ¼½À.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	ÊÞÚÝÀ²ÝÃ.__1
+:	:	:	DISK.DUP
+:	:	Î×°µÌÞCR.__1
+:	:	:	DISK.DUP
+:	:	ÓÓºÁ¬ÝÌ§.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	×²Ñ×²Ä.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	×ÑŠë‹@ˆê.__1
+:	:	:	DISK.DUP
+:	:	×ÑÁ¬ÝºÐ¹.__1
+:	:	:	DISK.DUP
+:	:	Ø¨±“`à.__1
+:	:	:	DISK.DUP
+:	:	ØÊÞÃ¨HG.__1
+:	:	:	DISK.DUP
+:	:	ÙÅÃ¯¸Ì§Ý.__1
+:	:	:	DISK.DUP
+:	CARD
+:	:	BJ68K2.__1
+:	:	:	DISK.DUP
+:	:	DC_CARD.__2
+:	:	:	DAT.DUP
+:	:	:	SYS.DUP
+:	:	DION.__1
+:	:	:	‚c‚h‚n‚m.DUP
+:	:	GALMIND2.__2
+:	:	:	DAT.DUP
+:	:	:	SYS.DUP
+:	:	POP_CARD.__2
+:	:	:	SYS.DUP
+:	:	:	µÌß.DUP
+:	:	SUP¸Þ×Ì¨.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	UNO.__1
+:	:	:	‚t‚m‚n.DUP
+:	:	WAKAO_G.__1
+:	:	:	‚v‚`‚j‚`.DUP
+:	:	‹NŽ€‰ñ¶.__1
+:	:	:	‹NŽ€‰ñ¶.DUP
+:	:	í‚¦‘æ‚W.__1
+:	:	:	í‚¦‘æ‚W.DUP
+:	:	‘å•x‹Šw.__1
+:	:	:	‘å•x‹Šw.DUP
+:	:	”]“V‚Q.__1
+:	:	:	”]“V’¼Œ‚.DUP
+:	:	”]“V‚R.__1
+:	:	:	”]“V’¼Œ‚.DUP
+:	:	”]“V’¼Œ‚.__1
+:	:	:	”]“V’¼Œ‚.DUP
+:	:	”vŒðŠ·.__2
+:	:	:	SYSTEM.DUP
+:	:	:	ÅºÙÙ.DUP
+:	:	”Ï”Y–³—p.__1
+:	:	:	”Ï”Y–³—p.DUP
+:	:	–ƒ“V‘.__1
+:	:	:	–ƒ“V‘.DUP
+:	:	—LŠQ¶¼ÞÉ.__1
+:	:	:	DISK.DUP
+:	:	±ÝÐ×‘å•n.__1
+:	:	:	‘å•n–¯.DUP
+:	:	·¬Ù¶Ý.__1
+:	:	:	DISK.DUP
+:	:	¼°½Ù°2.__1
+:	:	:	DISK.DUP
+:	:	¼Ý¹²½²¼Þ.__1
+:	:	:	‚µ‚ñ‚¯‚¢.DUP
+:	:	½°Êß°J.__1
+:	:	:	DISK.DUP
+:	:	½ÄÆ¬Ý.__1
+:	:	:	ƒXƒg‚É‚á.DIM
+:	:	½ÄÆ¬ÝDAS.__1
+:	:	:	‚·‚Æ‚É‚á.DIM
+:	:	¾°×°Q.__1
+:	:	:	DISK.DUP
+:	:	¾×ÑÝÊÞÄ×.__1
+:	:	:	‚¹‚ç‚Þ‚ñ.DUP
+:	:	Á®¯ÄHÅ‘å.__1
+:	:	:	‘å•n–¯.DUP
+:	:	ÄÓÐÁ¬ÝÉÄ.__1
+:	:	:	‚c‚n‚a‚n.DUP
+:	:	Å°ÊÞ½BJ.__1
+:	:	:	‚m‚d‚q‚u.DUP
+:	:	ÌÞÚ²¸ÀÞ³.__2
+:	:	:	DAT.DUP
+:	:	:	SYS.DUP
+:	:	Îß°¶°¼½À.__1
+:	:	:	DISK.DUP
+:	:	ÓÝ2.__1
+:	:	:	DISK.DUP
+:	:	ÓÝ2EX.__1
+:	:	:	DISK.DUP
+:	:	ÓÝ2_Œo2.__1
+:	:	:	DISK.DUP
+:	:	ÓÝ2_Œo3.__1
+:	:	:	DISK.DUP
+:	CG
+:	:	100NET2.__1
+:	:	:	DISK.DUP
+:	:	1ELAN.__1
+:	:	:	‚d‚q‚`‚m.DUP
+:	:	2ESPRIT.__1
+:	:	:	‚d‚r‚o‚q.DUP
+:	:	3EXCEL.__1
+:	:	:	‚d‚w‚b‚d.DUP
+:	:	3X3ALLPA.__1
+:	:	:	DISK.DUP
+:	:	4ELITE.__1
+:	:	:	‚d‚k‚h‚s.DUP
+:	:	ASB01.__1
+:	:	:	ASB01.DUP
+:	:	BBS_SP.__1
+:	:	:	DISK.DUP
+:	:	CLEANUP.__1
+:	:	:	DISK.DUP
+:	:	COTE_DAZ.__2
+:	:	:	DISK.DUP
+:	:	:	”üá2.DUP
+:	:	COUNTZE1.__1
+:	:	:	DISK.DUP
+:	:	DAP1_3.__1
+:	:	:	DISK.DUP
+:	:	DAP_4.__1
+:	:	:	DISK.DUP
+:	:	DAP_5.__1
+:	:	:	CGWVOL5.DUP
+:	:	DA_COL2.__1
+:	:	:	DISK.DUP
+:	:	DIG_ART1.__1
+:	:	:	DISK.DUP
+:	:	DIG_TOO.__1
+:	:	:	DISK.DUP
+:	:	DTEN—í–².__1
+:	:	:	DISK.DUP
+:	:	DUMMY2.__1
+:	:	:	DISK.DUP
+:	:	DUMMYSEL.__1
+:	:	:	DUMMY_PR.DUP
+:	:	FLEUR.__1
+:	:	:	FLEUR.DUP
+:	:	FS_COMP.__1
+:	:	:	DISK.DUP
+:	:	FULON.__1
+:	:	:	DISK.DUP
+:	:	GIGA2.__1
+:	:	:	DISK.DUP
+:	:	HEADBAT.__1
+:	:	:	‚g‚d‚`‚c.DUP
+:	:	INTELOU3.__1
+:	:	:	DISK.DUP
+:	:	ION.__1
+:	:	:	DISK.DUP
+:	:	KDD4.__1
+:	:	:	DISK.DUP
+:	:	LIVERESO.__1
+:	:	:	LIVE_RES.DUP
+:	:	LUNACY_1.__1
+:	:	:	LUNACY_Á.DUP
+:	:	MC_LETTL.__1
+:	:	:	MC_LETTL.DUP
+:	:	MILLENIU.__1
+:	:	:	DISK.DUP
+:	:	MIYAGOE.__1
+:	:	:	DISK.DUP
+:	:	MIZUGIPA.__1
+:	:	:	DISK.DUP
+:	:	MONOTON3.__1
+:	:	:	MONOTONE.DUP
+:	:	MONOTON4.__1
+:	:	:	MONOTONE.DUP
+:	:	MOONFLA1.__1
+:	:	:	DISK.DUP
+:	:	NEEDLE1.__1
+:	:	:	NEEDLE_G.DUP
+:	:	NEEDLE2.__1
+:	:	:	NEEDLE_G.DUP
+:	:	NEOSOFT.__2
+:	:	:	DISK_1.DUP
+:	:	:	DISK_2.DUP
+:	:	NONSECTI.__1
+:	:	:	DISK.DUP
+:	:	SION.__1
+:	:	:	DISK.DUP
+:	:	SM_SP.__1
+:	:	:	DISK.DUP
+:	:	ST_VALEN.__1
+:	:	:	DISK.DUP
+:	:	SUP_NOVA.__1
+:	:	:	DISK.DUP
+:	:	SWEETPO4.__1
+:	:	:	DISK.DUP
+:	:	THEATER.__1
+:	:	:	THEATER_.DUP
+:	:	WATER_M1.__1
+:	:	:	DISK.DUP
+:	:	WATER_M2.__1
+:	:	:	DISK.DUP
+:	:	XCG_VOL2.__1
+:	:	:	‚w‚b‚f.DUP
+:	:	‚ ‚Ø‚Ó‚¿.__1
+:	:	:	‚ ‚Ø‚Ó‚¿.DUP
+:	:	‚¤‚Ó‚Ó‚T.__1
+:	:	:	‚¤‚Ó‚Ó‚b.DUP
+:	:	‚¤‚Ó‚Ó‚U.__1
+:	:	:	‚¤‚Ó‚Ó‚b.DUP
+:	:	‚¨‚µ‚¨‚«.__1
+:	:	:	‚¨‚µ‚¨‚«.DUP
+:	:	‚·‚Á‚Û‚ñ.__1
+:	:	:	DISK.DUP
+:	:	‚¿‚å‚Á‚Æ.__1
+:	:	:	‚¿‚å‚Á‚Æ.DUP
+:	:	‚Ä‚Ó‚Ä‚Ó.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	‚È‚±×ÌÞ2.__1
+:	:	:	DISK.DUP
+:	:	‚È‚²‚È‚².__1
+:	:	:	‚È‚²‚È‚².DUP
+:	:	‚Ê‚èC46.__1
+:	:	:	‚Ê‚è‚Ê‚è.DUP
+:	:	‚Ê‚èC47.__1
+:	:	:	‚Ê‚è‚Ê‚è.DUP
+:	:	‚Ó‚Ý‚Q.__1
+:	:	:	‚Ó‚Ý‚è‚ë.DUP
+:	:	‚Ó‚Ý‚w.__1
+:	:	:	‚Ó‚Ý‚è‚ë.DUP
+:	:	‚Õ‚É‚Õ‚É.__1
+:	:	:	‚Õ‚É‚Õ‚É.DUP
+:	:	‚Ü‚¢1.__1
+:	:	:	‚Ü‚¢‚Þ‚Ü.DUP
+:	:	‚Ü‚¢2.__1
+:	:	:	‚Ü‚¢‚Þ‚Ü.DUP
+:	:	‚Ü‚¢3.__1
+:	:	:	‚Ü‚¢‚Þ‚Ü.DUP
+:	:	‚Ü‚¢†ŠO.__1
+:	:	:	‚Ü‚¢‚Þ‚Ü.DUP
+:	:	‚Ý‚ ‚Ì¼­.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	‚Þ‚µ‚ã‚ß.__1
+:	:	:	DISK.DUP
+:	:	‚Þ‚Á‚¿‚á.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	‚í‚ñ1_2.__1
+:	:	:	DISK.DUP
+:	:	‚í‚ñ3.__1
+:	:	:	DISK.DUP
+:	:	ƒAƒŠƒX‚Ì.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	‰F’ˆ‘âì.__1
+:	:	:	‰F’ˆ‘âì.DUP
+:	:	‰¹Šy­—.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	‰Ä­—.__1
+:	:	:	‰Ä­—.DUP
+:	:	‹à•Ô‚¹.__1
+:	:	:	‹à•Ô‚¹.DUP
+:	:	Œ{‚Ì‘ƒ‚Q.__4
+:	:	:	DISK1.DUP
+:	:	:	DISK2.DUP
+:	:	:	DISK3.DUP
+:	:	:	DISK4.DUP
+:	:	ŒŽ‚©‚Ù.__1
+:	:	:	ŒŽ‚©‚Ù.DUP
+:	:	ŽR‚­‚ç‚°.__1
+:	:	:	DISK.DUP
+:	:	G‘éSP.__1
+:	:	:	G–›‚b‚f.DUP
+:	:	­—‰æ1.__1
+:	:	:	­—‰æ˜L.DUP
+:	:	…•PGRAF.__1
+:	:	:	DISK.DUP
+:	:	’´ØÎÞÝ13.__1
+:	:	:	DISK.DUP
+:	:	“‘¾˜Y91.__1
+:	:	:	“‘¾˜Y“`.DUP
+:	:	”’”LŠÙ.__1
+:	:	:	DISK.DUP
+:	:	”ü­—‚T.__1
+:	:	:	DISK.DUP
+:	:	–²‚Ì’†‚Ö.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	—d‚µ‚¢1.__1
+:	:	:	DISK.DUP
+:	:	—û“û²ÁºÞ.__1
+:	:	:	—û“ûä•.DUP
+:	:	±¶·ÞÂÈ.__1
+:	:	:	DISK.DUP
+:	:	±¼­×ÊÞ½2.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	±ÝÐ×.__1
+:	:	:	DISK.DUP
+:	:	±ÝÐ×2.__1
+:	:	:	DISK.DUP
+:	:	±ÝÐ×3.__1
+:	:	:	DISK.DUP
+:	:	·Ý·Þ®•P.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	¾×ÑÝTHE.__1
+:	:	:	DISK.DUP
+:	:	¾×ÑÝÃÞ¨½.__1
+:	:	:	‚¹‚ç‚Þ‚ñ.DUP
+:	:	Ò¸Þ±²2.__1
+:	:	:	‚ß‚®‚Ý‚ .DUP
+:	:	ÚÓÝ1.__1
+:	:	:	DISK.DUP
+:	:	ÚÓÝ2.__1
+:	:	:	DISK.DUP
+:	:	ÚÓÝ3.__1
+:	:	:	DISK.DUP
+:	ETC_GAME
+:	:	BAD_ROAD.__1
+:	:	:	DISK.DUP
+:	:	BLINDSPO.__1
+:	:	:	DISK.DUP
+:	:	B_POINT.__1
+:	:	:	DISK.DUP
+:	:	CAVECROW.__1
+:	:	:	DISK.DUP
+:	:	CLEARRAP.__1
+:	:	:	DISK.DUP
+:	:	DEG_ON.__1
+:	:	:	DISK.DUP
+:	:	ED_ELEM2.__2
+:	:	:	DISK1.DUP
+:	:	:	DISK2.DUP
+:	:	ELRIN‚¾M.__1
+:	:	:	SYSTEM.DUP
+:	:	EZORIS.__1
+:	:	:	DISK.DUP
+:	:	F1Ì§½Ã½Ä.__1
+:	:	:	DISK.DUP
+:	:	FANCYQIX.__1
+:	:	:	DISK.DUP
+:	:	FLIPFLOP.__1
+:	:	:	DISK.DUP
+:	:	FORMULAX.__1
+:	:	:	DISK.DUP
+:	:	GETREADY.__1
+:	:	:	DISK.DUP
+:	:	HI&LOW.__1
+:	:	:	DISK.DUP
+:	:	HIROSHI.__1
+:	:	:	DISK.DUP
+:	:	HIROSHI2.__1
+:	:	:	‚g‚h‚q‚n.DUP
+:	:	HOTJUMP.__1
+:	:	:	DISK.DUP
+:	:	INTRO2.__1
+:	:	:	INTROPRO.DUP
+:	:	LOCKON.__2
+:	:	:	A_DISK.DUP
+:	:	:	B_DISK.DUP
+:	:	LOCKON2.__1
+:	:	:	‚k‚n‚b‚j.DUP
+:	:	LOCKON3.__1
+:	:	:	‚k‚n‚b‚j.DUP
+:	:	MUSICBOX.__1
+:	:	:	MUSIC_BO.DUP
+:	:	OH‹Ø2.__1
+:	:	:	DISK.DUP
+:	:	OH‹Ø3.__1
+:	:	:	DISK.DUP
+:	:	OH‹ØSP93.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	OH‹ØSP_1.__1
+:	:	:	DISK.DUP
+:	:	POLETOWI.__1
+:	:	:	POLE_TO_.DUP
+:	:	POWÚ°¼Ý¸.__1
+:	:	:	POWERRAC.DUP
+:	:	PROFIT.__1
+:	:	:	‚o‚q‚n‚e.DUP
+:	:	PROJDHN1.__3
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	:	DISK_C.DUP
+:	:	PROJDHN2.__3
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	:	DISK_C.DUP
+:	:	PROJDHN3.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	REAL.__3
+:	:	:	DATA_1.DUP
+:	:	:	DATA_2.DUP
+:	:	:	SYSTEM.DUP
+:	:	ROLLDOW2.__1
+:	:	:	DISK.DUP
+:	:	SUP_X_DA.__1
+:	:	:	SUPER_X_.DIM
+:	:	SUP“ä‚P.__1
+:	:	:	PONJAN.DUP
+:	:	THEDIVER.__1
+:	:	:	THE_DIVE.DUP
+:	:	THE_DEEP.__1
+:	:	:	DISK.DUP
+:	:	TILL»ÞWA.__1
+:	:	:	‚v‚`‚k‚k.DUP
+:	:	TORIDESP.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	TWINS.__1
+:	:	:	‚s‚v‚h‚m.DUP
+:	:	W_TANK.__1
+:	:	:	DISK.DUP
+:	:	YIPPEE1.__1
+:	:	:	DISK.DUP
+:	:	YIPPEE2.__1
+:	:	:	DISK.DUP
+:	:	‚Ï‚é‚é.__1
+:	:	:	DISK.DUP
+:	:	‚Ó‚Ÿ‚Ü‚·.__1
+:	:	:	‚Ó‚Ÿ‚Ü‚·.DUP
+:	:	‚à‚®.__1
+:	:	:	‚à‚®.DUP
+:	:	¸“V.__1
+:	:	:	¸“V.DUP
+:	:	íŽÔí.__1
+:	:	:	DISK.DUP
+:	:	ô”]VOL1.__1
+:	:	:	DISK.DUP
+:	:	ô”]‰i‰“.__1
+:	:	:	DISK.DUP
+:	:	‘åí—ª2U.__1
+:	:	:	DISK.DUP
+:	:	“SŒ§Ù.__1
+:	:	:	“SŒ§Ù.DUP
+:	:	“Œ‹žHŒ|.__4
+:	:	:	”ÑŽR‚ÌA.DUP
+:	:	:	”ÑŽR‚ÌB.DUP
+:	:	:	Ì§°½ÄÒ²Ý.DUP
+:	:	:	ØÎßËÞÀÝ.DUP
+:	:	“ä‚ÌÛ°ÀÞ.__1
+:	:	:	DISK.DUP
+:	:	“ä‚PONJ.__1
+:	:	:	“ä‚PONJ.DUP
+:	:	”š’e—V‹Y.__1
+:	:	:	”š’e—V‹Y.DUP
+:	:	”š—ôŒZ‹M.__1
+:	:	:	”š—ôŒZ‹M.DUP
+:	:	–Ú‚ÌöŠo.__1
+:	:	:	–Ú‚ÌöŠo.DUP
+:	:	—LŠQWARS.__1
+:	:	:	—LŠQ‚v‚`.DUP
+:	:	±Ý91‰ºŠª.__1
+:	:	:	DISK.DUP
+:	:	±Ý91ãŠª.__1
+:	:	:	DISK.DUP
+:	:	±Ý‘Š§.__1
+:	:	:	DISK.DUP
+:	:	±ÝÌ«°Ï¯Ä.__1
+:	:	:	DISK.DUP
+:	:	·ÞÙ¶ÞÒFI.__1
+:	:	:	DISK.DUP
+:	:	¸Ú°ŽËŒ‚.__1
+:	:	:	DISK.DUP
+:	:	¼Þ¬Ý¹Ý¸×.__1
+:	:	:	DISK.DUP
+:	:	½¶°Ä1.__1
+:	:	:	DISK.DUP
+:	:	½¶°Ä2.__1
+:	:	:	”ü­—ƒX.DUP
+:	:	½¶°Ä3.__1
+:	:	:	”ü­—ƒX.DUP
+:	:	½Ã¨Ù¶ÞÝÏ.__1
+:	:	:	DISK.DUP
+:	:	¾ÊÞ½Á¬Ý.__1
+:	:	:	ƒZƒoƒXƒ`.DUP
+:	:	Ã×ÄÞ×²ÌÞ.__1
+:	:	:	DISK.DUP
+:	:	ÃÞ°½ÚJON.__1
+:	:	:	DISK.DUP
+:	:	Å²½¼Þ¬Ý.__1
+:	:	:	DISK.DUP
+:	:	Å¹ÔØíŽÔ.__1
+:	:	:	‚È‚°‚â‚è.DUP
+:	:	Æ¾DQV½ºÞ.__3
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	:	DISK_C.DUP
+:	:	ÉØº’µËÞÏ.__1
+:	:	:	ƒmƒŠƒR’µ.DUP
+:	:	Ê²Îß¼Þ¼®.__1
+:	:	:	DISK.DUP
+:	:	ÊÔÌÞ»Â°Ù.__1
+:	:	:	HAYABUSA.DUP
+:	:	ËÞÖÖÝ¶°.__1
+:	:	:	‚Ñ‚æ‚æ‚ñ.DUP
+:	:	ÌÝÃÞµ¼Ï².__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	ÌßÆÝ¾½Ò¶.__1
+:	:	:	‚Õ‚É‚ñ‚¹.DUP
+:	:	ÌßØÝ¾½ËÞ.__1
+:	:	:	ƒvƒŠƒ“ƒZ.DUP
+:	:	Ï»ÖÁ¬Ý.__2
+:	:	:	DISK_1.DUP
+:	:	:	DISK_2.DUP
+:	:	Ò¶ÞPOW¼Þ.__1
+:	:	:	DISK.DUP
+:	:	Ó¸Þ×±À¯¶.__1
+:	:	:	DISK.DUP
+:	PUZZLE
+:	:	15Êß½ÞÙ.__1
+:	:	:	DISK.DUP
+:	:	BL_STOC.__1
+:	:	BL_STOC2.__1
+:	:	:	DISK.DUP
+:	:	C—ÍŒŸ¸3.__2
+:	:	:	DATA.DUP
+:	:	:	SYS.DUP
+:	:	DRINKY&S.__1
+:	:	:	DISK.DUP
+:	:	FEVIE.__1
+:	:	:	‚e‚d‚u‚h.DUP
+:	:	GEMDROP.__1
+:	:	:	DISK.DUP
+:	:	JAMMES.__1
+:	:	:	‚i‚`‚l‚l.DUP
+:	:	LEXUS2.__1
+:	:	:	DISK.DUP
+:	:	MOLO_Q.__1
+:	:	:	‚l‚n‚k‚n.DUP
+:	:	PLASER.__1
+:	:	:	‚o‚k‚d‚r.DUP
+:	:	POYOPOYO.__2
+:	:	:	DAT.DUP
+:	:	:	SYS.DUP
+:	:	SOLITAIR.__1
+:	:	:	DISK.DUP
+:	:	SUPPAKEX.__1
+:	:	:	DISK.DUP
+:	:	SUP_”éÅ.__1
+:	:	:	‚rUPER_.DUP
+:	:	TETPANI2.__1
+:	:	:	„S„E„S„Q.DUP
+:	:	TETRIS1.__1
+:	:	:	DISK.DUP
+:	:	TETRIS3.__1
+:	:	:	DISK.DUP
+:	:	TETRIS5.__1
+:	:	:	DISK.DUP
+:	:	TINYº×Ñ½.__1
+:	:	:	DISK.DUP
+:	:	‚±‚ç‚±‚ç.__1
+:	:	:	‚±‚ç‚±‚ç.DUP
+:	:	‚Ú‚æ‚æ‚ñ.__1
+:	:	:	‚Ú‚æ‚æ‚ñ.DIM
+:	:	‰Ô’¹•—ŒŽ.__1
+:	:	:	‰Ô’¹•—ŒŽ.DUP
+:	:	”š’e–‚.__1
+:	:	:	”š’e–‚.DUP
+:	:	•óÎŽg‚¢.__1
+:	:	:	•óÎŽg‚¢.DUP
+:	:	—LŠQÁª²½.__1
+:	:	:	—LŠQƒ`ƒF.DUP
+:	:	—LŠQÊß½Þ.__1
+:	:	:	—LŠQƒpƒY.DUP
+:	:	³»·ÞJUMP.__1
+:	:	:	‚¤‚³‚¬‚¶.DUP
+:	:	´ÙÌÉ¬–º.__1
+:	:	:	ƒGƒ‹ƒt‚Ì.DUP
+:	:	¸Ø½ÀÙÀÜ°.__1
+:	:	:	DISK.DUP
+:	:	¸Ù¸ÙÊß½Þ.__1
+:	:	:	DISK.DUP
+:	:	¼ÙÊÞ¸Ø½À.__1
+:	:	:	DISK.DUP
+:	:	¾Ù¼µÝ.__1
+:	:	:	¾Ù¼µÝPRO.DUP
+:	:	ÃÞËÞÙÁª².__1
+:	:	:	DISK.DUP
+:	:	Ä×²±ÝÊ°Â.__1
+:	:	:	DISK.DUP
+:	:	ÊÞ¶ÒÃÞ½.__1
+:	:	:	ƒoƒJƒƒf.DUP
+:	:	Êß½ÞÙ.__1
+:	:	:	ƒpƒYƒ‹.DUP
+:	:	Êß½ÞÙÃÞÊ.__1
+:	:	:	DISK.DUP
+:	:	Íß¼Íß¼.__1
+:	:	:	DISK.DUP
+:	:	Íß¼Íß¼2.__1
+:	:	:	DISK.DUP
+:	:	ÍßÝÀØ½.__1
+:	:	:	DISK.DUP
+:	:	Ï°ÌÞÙÊßÆ.__1
+:	:	:	MARBLE_P.DUP
+:	:	Û°Ã°¼®Ý.__2
+:	:	:	DATA_1.DUP
+:	:	:	SYSTEM.DUP
+:	:	Û°Ã°Ä.__1
+:	:	:	‚q‚n‚s‚`.DUP
+:	:	Û°Ã°ÄVUP.__1
+:	:	:	VERUP.DUP
+:	QUIZE
+:	:	ADVCÙ°Ð.__1
+:	:	:	DISK.DUP
+:	:	ADVCÙ°Ð2.__1
+:	:	:	DISK.DUP
+:	:	FIRSTCRI.__1
+:	:	:	DISK.DUP
+:	:	HALFMIND.__1
+:	:	:	DISK.DUP
+:	:	MONEY.__1
+:	:	:	‚l‚n‚m‚d.DUP
+:	:	NONSECTI.__1
+:	:	:	DISK.DUP
+:	:	REFRESH.__1
+:	:	:	‚q‚d‚e‚q.DUP
+:	:	SEIFUKU.__1
+:	:	:	DISK.DUP
+:	:	SUP_CGQ.__1
+:	:	:	DISK.DUP
+:	:	‚Ö‚ë‚P.__1
+:	:	:	‚Ö‚ë‚Ö‚ë.DUP
+:	:	‚Ö‚ë‚U.__1
+:	:	:	‚Ö‚ë‚Ö‚ë.DUP
+:	:	‚Ö‚ë‚W.__1
+:	:	:	‚Ö‚ë‚Ö‚ë.DUP
+:	:	ˆó“xl‚Ì.__1
+:	:	:	ˆó“xl‚Ì.DUP
+:	:	‰pŒê‹³Žº.__1
+:	:	:	DISK.DUP
+:	:	ŽŽŒ±‚¤‚é.__1
+:	:	:	ŽŽŒ±‚Éo.DUP
+:	:	ŽŽŒ±‚ß‚¼.__1
+:	:	:	o‚È‚¢‚ß.DUP
+:	:	:	o‚é‚ß‚¼.DUP
+:	:	º—D‘åW.__1
+:	:	:	º—D‘åW.DUP
+:	:	“d”]Šw‰€.__3
+:	:	:	DISKA.DUP
+:	:	:	DISKB.DUP
+:	:	:	DISKC.DUP
+:	:	“d”]‘å•.__1
+:	:	:	DISK.DUP
+:	:	•‘ŽqÁ¬Ý.__1
+:	:	:	ŠëŒ¯‚È–é.DUP
+:	:	–Ÿ‰æ‰Æ‚Ì.__1
+:	:	:	–Ÿ‰æ‰Æ‚Ì.DUP
+:	:	—LŠQŠw‚Q.__1
+:	:	:	—LŠQŠw‰€.DUP
+:	:	—LŠQŠw‰€.__1
+:	:	:	—LŠQŠw‰€.DUP
+:	:	—‡‹¹‹äŠy.__1
+:	:	:	—‡‹¹‹äŠy.DUP
+:	:	³Ê³Ê2.__1
+:	:	:	‚¤‚Í‚¤‚Í.DUP
+:	:	¸²½Þ’n–.__1
+:	:	:	ƒNƒCƒY’n.DUP
+:	:	¸²½Þ¼Þ¬Ý.__1
+:	:	:	ƒNƒCƒY‚¶.DUP
+:	:	¸²½Þ½Å²Ê.__1
+:	:	:	DISK.DUP
+:	:	¸²½ÞÃÞÎß.__2
+:	:	:	ƒ|ƒ“A.DUP
+:	:	:	ƒ|ƒ“B.DUP
+:	:	¸²½ÞÌ§²À.__1
+:	:	:	DISK.DUP
+:	:	¸´½Ä¸´¯¼.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	»ÃÞ¨½Ã¨¯.__1
+:	:	:	DISK.DUP
+:	:	¼Þ®¯·°.__1
+:	:	:	DISK.DUP
+:	:	½É°Å·ÌÞÝ.__1
+:	:	:	DISK.DUP
+:	:	Å¯ÌßÙ¼Ã1.__1
+:	:	:	DISK.DUP
+:	:	Å¯ÌßÙ¼Ã2.__1
+:	:	:	DISK.DUP
+:	:	ÎÞ¯Á¬ÏÊß.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	Ñ°ÝÃ¨±×.__1
+:	:	:	DISK.DUP
+:	RPG
+:	:	DASTARD.__1
+:	:	:	‚c‚`‚r‚s.DUP
+:	:	DRACROSS.__1
+:	:	:	DISK.DUP
+:	:	DUNGSEEK.__1
+:	:	:	DISK.DUP
+:	:	D_PROVIN.__3
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	:	DISK_C.DUP
+:	:	D_SLAYE2.__1
+:	:	:	DISK.DUP
+:	:	D_SLAYE3.__3
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	:	DISK_C.DUP
+:	:	D_SLAYER.__1
+:	:	:	DISK.DUP
+:	:	MAGERY.__1
+:	:	:	DISK.DUP
+:	:	MAGERY2.__1
+:	:	:	ƒƒCƒWƒŠ.DUP
+:	:	MAGERY3.__1
+:	:	:	ƒƒCƒWƒŠ.DUP
+:	:	MAGERYŠO.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	RAGUNA.__1
+:	:	:	‚q‚`‚f‚t.DUP
+:	:	RESERVE.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	SCRAP.__2
+:	:	:	DAT.DUP
+:	:	:	SYS.DUP
+:	:	VAYSTARN.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	‚Ø‚à‚Ø‚à.__1
+:	:	:	‚Ø‚à‚Ø‚à.DUP
+:	:	³ÙÃ¨Ò²ÄÏ.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	¸´½Ä×ÝÄÞ.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	½×²ÑÏ½À°.__1
+:	:	:	DISK.DUP
+:	:	¿°ÄÞÏ½À°.__1
+:	:	:	DISK.DUP
+:	:	ÄÞ·ÄÞ·±Ï.__1
+:	:	:	DISK.DUP
+:	:	ÌßØÝ½&Ìß.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	ØØ¶ÙÊßÃ¨.__1
+:	:	:	ƒŠƒŠƒJƒ‹.DUP
+:	SHOOTING
+:	:	ALFARNE.__1
+:	:	:	DISK.DUP
+:	:	ARTEMIS.__1
+:	:	:	‚`RTEMIS.DUP
+:	:	BLUEKNIG.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	CRANLED.__3
+:	:	:	ARROW_A.DUP
+:	:	:	ARROW_B.DUP
+:	:	:	ARROW_C.DUP
+:	:	DAMGEFI2.__1
+:	:	:	DISK.DUP
+:	:	DANGERAR.__1
+:	:	:	DISK.DUP
+:	:	DIVE_ON.__1
+:	:	:	DISK.DUP
+:	:	DIVON2ŽŽ.__1
+:	:	:	DIVE_ON2.DUP
+:	:	ERICE.__1
+:	:	:	‚d‚q‚h‚b.DUP
+:	:	FANT_SHO.__1
+:	:	:	DISK.DUP
+:	:	FINALMIS.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	FIRIA.__1
+:	:	:	DISK.DUP
+:	:	FIRSTBLO.__1
+:	:	:	DISK.DUP
+:	:	FIRSTMIS.__1
+:	:	:	DISK.DUP
+:	:	FLYSHOOT.__1
+:	:	:	DISK.DUP
+:	:	GAIAFIGH.__1
+:	:	:	DISK.DUP
+:	:	GAIARM.__1
+:	:	:	DISK.DUP
+:	:	GAME_X.__1
+:	:	:	DISK.DUP
+:	:	GLACIER.__2
+:	:	:	‚f‚k‚`‚b.DUP
+:	:	:	’Ç‰Á¼ÅØµ.DUP
+:	:	GUARDIAN.__1
+:	:	:	‚f‚t‚`‚q.DUP
+:	:	JALECK.__1
+:	:	:	‚i‚`‚k‚d.DUP
+:	:	JASTIS.__1
+:	:	:	‚i‚`‚r‚s.DUP
+:	:	MARSS.__1
+:	:	:	‚l‚`‚q‚r.DUP
+:	:	MCHA.__1
+:	:	:	‚l‚b‚g‚`.DUP
+:	:	MISS_ADL.__2
+:	:	:	A_DISK.DUP
+:	:	:	B_DISK.DUP
+:	:	NEMESIS.__1
+:	:	:	NEMESIS.DUP
+:	:	REDARMS.__1
+:	:	:	DISK.DUP
+:	:	SADES.__1
+:	:	:	‚r‚`‚c‚d.DUP
+:	:	SHOOT2.__1
+:	:	:	‚r‚g‚n‚n.DUP
+:	:	SILSTEEL.__1
+:	:	:	SILSTEEL.DUP
+:	:	SOLWILL2.__1
+:	:	:	DISK.DUP
+:	:	SPACESOL.__1
+:	:	:	DISK.DUP
+:	:	SPANNERA.__1
+:	:	:	DISK.DUP
+:	:	SPÊØ±°.__1
+:	:	:	½Íß¼¬ÙÊØ.DUP
+:	:	SSS.__1
+:	:	:	DISK.DUP
+:	:	SSS_V2.__1
+:	:	:	DISK.DUP
+:	:	STARWAR.__1
+:	:	:	DISK.DUP
+:	:	SUP_XADL.__1
+:	:	:	SUPER_XA.DUP
+:	:	SUP_±ÙÃÐ.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	TARGET.__1
+:	:	:	‚s‚`‚q‚f.DUP
+:	:	TWINSOUL.__1
+:	:	:	DISK.DUP
+:	:	VULQAR.__1
+:	:	:	‚u‚t‚k‚p.DUP
+:	:	WINDBLAS.__1
+:	:	:	DISK.DUP
+:	:	XADLAK.__1
+:	:	:	‚w‚`‚c‚k.DUP
+:	:	XRAY_V3.__1
+:	:	:	DISK.DUP
+:	:	Y2.__2
+:	:	:	Y2_A.DUP
+:	:	:	Y2_B.DUP
+:	:	ZERO.__1
+:	:	:	‚y‚d‚q‚n.DUP
+:	:	ZERO2.__1
+:	:	:	‚y‚d‚q‚n.DUP
+:	:	ZERO_.__1
+:	:	:	‚y‚d‚q‚n.DUP
+:	:	ZERO_FIN.__1
+:	:	:	DISK.DUP
+:	:	‚Æ‚ñ‚±‚Â.__1
+:	:	:	‚Æ‚ñ‚±‚Â.DUP
+:	:	ŠC‘¯.__1
+:	:	:	ŠC‘¯.DUP
+:	:	Ò‘DXŽŽ.__1
+:	:	:	Ò‘‚c‚w.DUP
+:	:	’´˜AŽË.__1
+:	:	:	’´˜AŽË68.DUP
+:	:	±»ÙÄÊÞ½À.__1
+:	:	:	DISK.DUP
+:	:	¶ÞÝÊÚÊß².__1
+:	:	:	DISK.DUP
+:	:	¸Û½Ì§²EX.__1
+:	:	:	CROSS_FI.DUP
+:	:	»²ºÊØ±°.__1
+:	:	:	DISK.DUP
+:	:	½ÄØ°ÄÊØ±.__1
+:	:	:	½ÄØ°ÄÊØ±.DUP
+:	:	ÊÞÄÙÕÆ¯2.__1
+:	:	:	ƒoƒgƒ‹ƒ†.DUP
+:	:	ÊÞÄÙÕÆ¯Ä.__1
+:	:	:	ƒoƒgƒ‹ƒ†.DUP
+:	:	Ì×ÐÝ¸ÞÀÞ.__1
+:	:	:	DISK.DUP
+:	:	ÌÚ²Ñ³²Ý.__1
+:	:	:	ƒtƒŒƒCƒ€.DUP
+:	:	ÌÞØ°ÄÞŽŽ.__1
+:	:	:	ŽŽ—p”Å.DUP
+:	:	ÌÞÙ³ª°SP.__1
+:	:	:	DISK.DUP
+:	:	ÌÞÙÌªÆ¯¸.__1
+:	:	:	BLUE_PHO.DUP
+:	:	ÌßØÃ¨ÊØ±.__1
+:	:	:	DISK.DUP
+:	:	ÍÙÊ³ÝÄÞ.__1
+:	:	:	DISK.DUP
+:	:	Ð¯¸ÝFLY.__1
+:	:	:	DISK.DUP
+:	:	×ÌßØÝ¾½.__1
+:	:	:	CROISSAN.DUP
+:	:	Ù°Ð¯¸ÊØ±.__1
+:	:	:	DISK.DUP
+:	:	ÚÍÞÙÎß²2.__1
+:	:	:	LEVEL_PO.DUP
+:	:	ÚÍÞÙÎß²Ý.__1
+:	:	:	DISK.DUP
+:	SLG
+:	:	METALUNI.__1
+:	:	:	METAL_UN.DUP
+:	:	POW_UNI.__3
+:	:	:	DISK_1.DUP
+:	:	:	DISK_2.DUP
+:	:	:	DISK_3.DUP
+:	:	PROSTÒ°¶.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	»Þ»Ã×²Ä.__1
+:	:	:	THE_SATE.DUP
+:	:	»Þ»Ã×²Ä2.__1
+:	:	:	THE_SATE.DUP
+:	:	ÏÙÒ´¶±.__1
+:	:	:	‚Ü‚é‚ß‚¦.DUP
+:	SPORTS
+:	:	FORM»¯¶°.__1
+:	:	:	FOMESION.DUP
+:	:	R3GOLF.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	TEABLE
+:	:	TINNA.__1
+:	:	:	‚s‚h‚m‚m.DUP
+:	:	ÌªÆ¯¸½¸².__1
+:	:	:	DISK.DUP
+:	:	Ìß×È¯ÄIN.__1
+:	:	:	DISK.DUP
+:	Ši“¬
+:	:	SDÌ§²À°.__1
+:	:	:	DISK.DUP
+:	:	SMSX»ÝÌß.__1
+:	:	:	SMSX_SAM.DUP
+:	:	SUP_FISS.__1
+:	:	:	DISK.DUP
+:	:	SÑ°ÝÌ§².__1
+:	:	:	SM_UNPRO.ZIP
+:	:	:	SUPER_MO.DIM
+:	:	‚½‚±46.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	‚½‚±47.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	ˆêŠpíŽm.__1
+:	:	:	ˆêŠpíŽm.DUP
+:	:	‰ß˜J“`à.__1
+:	:	:	‰ß˜J“`à.DIM
+:	:	ŠO“¹“`à.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	ŠO“¹—ñ“`.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	—’é‚Q.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	—’é‚R.__2
+:	:	:	DISK_A.DIM
+:	:	:	DISK_B.DIM
+:	:	—’é‚S.__3
+:	:	:	DISK_A.DIM
+:	:	:	DISK_B.DIM
+:	:	:	DISK_C.DIM
+:	:	—’éí‹L.__1
+:	:	:	—’éí‹L.DUP
+:	:	í‚¦‚±EX.__2
+:	:	:	DISK_A.DIM
+:	:	:	DISK_B.DIM
+:	:	“V’n–³—p.__1
+:	:	:	Ši“¬¹Þ°Ñ.DUP
+:	:	“¬—“`à.__1
+:	:	:	“¬—“`à.DUP
+:	:	±ÒØ¶ÝË°Û.__1
+:	:	:	DISK.DUP
+:	:	·¯¸‰¤2.__1
+:	:	:	ƒLƒbƒN‰¤.DUP
+:	:	½ÄØÄ³¯·2.__1
+:	:	:	DISK.DUP
+:	:	¾°×°VFIN.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	¾°×°VV2.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	¾°×°V_3.__1
+:	:	:	ƒZ|ƒ‰|.DUP
+:	:	¾°×°V_5.__1
+:	:	:	ƒZ|ƒ‰|.DUP
+:	:	Á¬Á¬Ì§²À.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	ÃÞ½Ì§²À°.__1
+:	:	:	DISK.DUP
+:	:	Å²Ä±Ø°Å.__3
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	:	DISK_C.DUP
+:	:	ÊÞ¸Þ×ÝÂX.__2
+:	:	:	DISK1.DUP
+:	:	:	DISK2.DUP
+:	:	ÊÞÙ¾ÛÅ“Á.__1
+:	:	:	DISK.DUP
+:	:	ÊÞÙ¾ÛÅÌ§.__1
+:	:	:	DISK.DUP
+:	:	Ï¼Þ¶Ù¸×¯.__2
+:	:	:	DAT.DUP
+:	:	:	SYS.DUP
+:	:	Ñ°Ý¿Ù¼Þ¬.__1
+:	:	:	MOON_SOL.DIM
+:	:	ÑÝÌ§²210.__1
+:	:	:	DISK.DUP
+:	:	ÑÝÌ§²211.__1
+:	:	:	MOON_FIG.DIM
+:	:	ØÄÙÁ¬²DA.__1
+:	:	:	DISK.DUP
+:	:	ØÄÙÁ¬²FI.__1
+:	:	:	DISK.DUP
+:	:	ØÄÙÁ¬²Æ°.__1
+:	:	:	ØÄÙÁ¬²Æ°.DUP
+:	:	ÚÃÞ¨Ì§²À.__1
+:	:	:	DISK.DUP
+:	“ä
+:	:	SAZAETRE.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	XDEMO.__1
+:	:	:	DISK.DUP
+:	:	XDEMO3.__1
+:	:	:	X_DEMO3.LZH
+:	:	XEXEDEMO.__1
+:	:	:	‚w‚d‚w‚d.DUP
+:	:	¢ŠEˆê‚Ì.__1
+:	:	:	¢ŠEˆê‚Ì.DUP
+:	:	º—DDATA.__1
+:	:	:	º—Dƒf|.DUP
+:	:	”LŽ¨·¾¶´.__1
+:	:	:	DISK.DUP
+:	:	–œ”LOP.__2
+:	:	:	NUKU_A_F.DIM
+:	:	:	NUKU_B_F.DIM
+:	:	ž½Žq‚©‚ç.__1
+:	:	:	ž½Žq‚©‚ç.DUP
+:	:	³´Ëß°OP.__2
+:	:	:	PEACH_A_.DIM
+:	:	:	PEACH_B_.DIM
+:	:	¶×°±À¼ÉÊ.__2
+:	:	:	¶×°_A.DUP
+:	:	:	¶×°_B.DUP
+:	:	·¾¶´Á¬Ñ2.__1
+:	:	:	DISK.DUP
+:	:	¸ÞÙ¸ÞÙED.__2
+:	:	:	GE_A_FIL.DIM
+:	:	:	GE_B_FIL.DIM
+:	:	¸ÞÙ¸ÞÙOP.__2
+:	:	:	GO_A_FIL.DIM
+:	:	:	GO_B_FIL.DIM
+:	:	½Ú²Ô°½OP.__2
+:	:	:	SO_A_FIL.DIM
+:	:	:	SO_B_FIL.DIM
+:	:	Ì¼·ÞOP.__2
+:	:	:	YUGI_A_F.DIM
+:	:	:	YUGI_B_F.DIM
+:	:	ØØ¶OP.__2
+:	:	:	LILICA_A.DIM
+:	:	:	LILICA_B.DIM
+:	:	Ù°Ð¯¸±²º.__1
+:	:	:	DISK.DUP
+:	:	Ú²±°½OP.__2
+:	:	:	REY_A_FI.DIM
+:	:	:	REY_B_FI.DIM
+:	:	Ú²ÄÚ±Æ10.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	Ú²ÄÚ±Æ11.__2
+:	:	:	11_A.DUP
+:	:	:	11_B.DUP
+:	:	Ú²ÄÚ±Æ12.__2
+:	:	:	12_A.DUP
+:	:	:	12_B.DUP
+:	:	Ú²ÄÚ±Æ9.__2
+:	:	:	9_A.DUP
+:	:	:	9_B.DUP
+:	:	ÜÀ¼ÉÊßËß.__1
+:	:	:	DISK.DUP
+:	•s–¾
+:	:	ACCESS_H.__1
+:	:	:	ACCESS_H.DUP
+:	:	FX.__2
+:	:	:	“Á•Ê”Å_A.DUP
+:	:	:	—\‘I”Å_B.DUP
+:	:	LAST_TEM.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	NET”z•z
+:	:	:	BABA_FIG.__3
+:	:	:	:	DISK_A.DUP
+:	:	:	:	DISK_B.DUP
+:	:	:	:	DISK_C.DUP
+:	:	:	DARIBALL.__1
+:	:	:	:	ƒ_ƒ‰ƒCƒ{.DUP
+:	:	:	DARIUS.__1
+:	:	:	:	‚c‚`‚q‚h.DUP
+:	:	:	DESPERAD.__1
+:	:	:	:	‚cESPERA.DUP
+:	:	:	SORC‘o˜Z.__1
+:	:	:	:	¿°»Ø±Ý‘o.DUP
+:	:	:	‚¿‚á‚Ý.__1
+:	:	:	:	‚¿‚á‚Ý.DUP
+:	:	:	Œå‚è.__1
+:	:	:	:	Œå‚è.DUP
+:	:	:	’n‹…‹V.__1
+:	:	:	:	’n‹…‹V.DUP
+:	:	:	ÎÞÃÞ¨ÀÞÏ.__1
+:	:	:	:	ƒ{ƒfƒBƒ_.DUP
+:	:	PROTECT
+:	:	:	PAROR300.DUP
+:	:	:	PARORAN.DUP
+:	:	:	PARO_VUP.DUP
+:	:	:	TAKE_OUT.DUP
+:	:	:	‹¿.DUP
+:	:	SPANNERX.__2
+:	:	:	DISK_A.DUP
+:	:	:	DISK_B.DUP
+:	:	”z•z
+:	:	:	KONAMI_A.DUP
+:	:	:	KONAMI_B.DUP
+:	:	:	‚É‚á|‚±.DUP
+:	:	”Ï”Y2.__2
+:	:	:	DAT_VER1.DUP
+:	:	:	SYS_VER1.DUP
+:	:	”Ï”Y2DAS.__1
+:	:	:	BONNOH2D.DUP
+:	:	ÏÏÚ°ÄÎÞÑ.__1
+:	:	:	DISK.DUP

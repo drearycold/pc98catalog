@@ -1,0 +1,32 @@
+[DVD] mame0.80_disc4_cojag(cdi+rr5).part1.rar
+79ebeffb3d934ed23e5da48bf8a40e1e
+
+[DVD] mame0.80_disc4_cojag(cdi+rr5).part2.rar
+b05d25caf997aa3a4b7c5792a6268532
+
+[DVD] mame0.80_disc4_cojag(cdi+rr5).part3.rar
+e211970454c235bf34fce23cfa445136
+
+[DVD] mame0.80_disc4_cojag(cdi+rr5).part4.rar
+4e5f11c5d0117a3e7495e3e7f84cd15c
+
+[DVD] mame0.80_disc4_cojag(cdi+rr5).part5.rar
+2a10c63058ebdf973625c83fdd6cc05e
+
+:	roms
+:	:	a51mxr3k.zip
+:	:	area51.zip
+:	:	area51a.zip
+:	:	area51mx.zip
+:	:	maxf_102.zip
+:	:	maxforce.zip
+:	:	vcircle.zip
+:	:	area51
+:	:	:	area51.chd
+:	:	area51mx
+:	:	:	area51mx.chd
+:	:	maxforce
+:	:	:	maxforce.chd
+:	:	vcircle
+:	:	:	vcircle.chd
+16

@@ -1,0 +1,35 @@
+死者の顔面（Quas Corp）
+地震（Kal Vas Ylem Por）
+死語（Kal Wis Corp）
+岩の肉体（Rel Sanct Ylem）
+死者の召還（Kal Corp Xen）
+開地（Des Por Yelm）
+ゴーレム（In Ort Ylem Xen）
+蘇生（Vas An Corp）
+永眠（In Vas Corp）
+癒しの手（In Mani）
+風の従者（Kal Ort Xen）
+発見（Ort Lor）
+完治（Vas In Mani）
+不可視（Quas An Lor）
+跳躍（Vas Hun Por）
+真実の声	（An Quas Lor）
+仲裁（In Sanct An Jux）
+蘇生（Vas An Corp）
+消火（An Flam）
+点火（In Flam）
+閃光（Flam Por）
+炎の矢（In Ort Flam）
+耐熱（Sanct Flam）
+炎の障壁（In Flam An Por）
+炎の鎧（Vas Sanct Flam）
+火の創出（In Flam Ylem）
+爆破（Vas Ort Flam）
+デーモン召喚（Kal Flam Corp Xen）
+デーモン追放（An Flam Corp Xen）
+大火災（Kal Vas Flam Corp Xen）
+混乱（In Quas Wis）
+流星群（Kal Des Flam Ylem）
+猛獣召喚（Kal Xen）
+破壊（Kal Vas Grav Por）
+全滅（In Vas Ort Corp）

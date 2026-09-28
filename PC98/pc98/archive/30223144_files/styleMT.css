@@ -1,0 +1,303 @@
+@import url("style.css");
+
+
+
+/* entry */
+div.entry {
+	margin: 2em 0 4em;
+	padding: 0;
+	line-height: normal;
+}
+p.entryCategory {
+	color: #393;
+	font-size: 80%;
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+	list-styp
+}
+
+ul.entryCategory {
+	color: #393;
+	font-size: 80%;
+	font-weight: bold;
+	margin: 0 0 0 2em;
+	padding: 0;
+	list-style-type: square;
+}
+h3.entryTitle {
+	color: #393;
+	font-size: 120%;
+	font-weight: bold;
+	margin: 0;
+	padding: 1px 1em;
+	border-color: #393;
+	border-width: 1px 0px 0px 1ex;
+	border-style: solid;
+	border-top-left-radius: 100%;
+	-moz-border-radius-topleft: 100%;
+}
+h3.entryTitle a:link {
+	color: #393;
+}
+h3.entryTitle a:visited {
+	color: #363;
+}
+h3.entryTitle a:hover {
+	color: #000;
+	background-color: #cfc;
+}
+h3.entryTitle a:active {
+	color: #393;
+	background-color: #cfc;
+}
+div.entryContent {
+	line-height: 140%;
+	padding: 0;
+	margin: 1em;
+}
+div.entryContent a {
+	text-decoration: underline;
+}
+div.entryContent a.inside {
+	text-decoration: none;
+}
+div.entryContent a.outside {
+	text-decoration: underline;
+}
+div.entryExtension {
+}
+h4.entryExtensionTitle {
+	color: #393;
+	font-size: 100%;
+	font-style: italic;
+	text-decoration: underline;
+	margin-left: -1em;
+}
+div.entryExtensionContent {
+}
+
+
+
+/* response */
+div.response {
+	margin: 2em 0;
+	padding: 0;
+}
+p.responseNotice {
+	font-weight: bold;
+	text-align: center;
+}
+form.commentForm ul, div.trackbackURL ul {
+	font-size: 80%;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+form.commentForm td.remember {
+	text-align: right;
+	vertical-align: middle;
+	padding-right: 1em;
+}
+form.commentForm input#preview, form.commentForm input#post {
+	width: 5em;
+}
+
+div.trackbackURL {
+	text-align: center;
+	margin: auto;
+}
+div.trackbackURL table {
+	text-align: left;
+	background-color: #cfc;
+	margin: auto;
+	border: #6c6 1px solid;
+}
+div.trackbackURL caption {
+	text-align: center;
+	margin: auto;
+}
+div.trackbackURL th {
+	text-align: right;
+}
+
+
+
+/* archives */
+ul.indexList {
+	margin: 1em;
+	padding: 0;
+}
+ul.indexList li {
+	margin-left: 0;
+	padding: 0;
+}
+
+dl.indexList {
+	margin: 1em;
+	padding: 0;
+}
+dl.indexList dt {
+	font-weight: normal;
+	margin: 0;
+	padding: 0;
+	display: list-item;
+	list-style-type: disc;
+}
+dl.indexList dd {
+	margin-left: 2em;
+}
+dl.subcategoryIndexList {
+	margin: 0;
+	padding: 0;
+}
+dl.subcategoryIndexList dt {
+	list-style-type: circle;
+}
+
+/* tagList */
+ul.tagList {
+	vertical-align: middle;
+}
+ul.tagList li.tagRank1 {
+	font-size: 180%;
+}
+ul.tagList li.tagRank2 {
+	font-size: 160%;
+}
+ul.tagList li.tagRank3 {
+	font-size: 140%;
+}
+ul.tagList li.tagRank4 {
+	font-size: 120%;
+}
+ul.tagList li.tagRank5 {
+	font-size: 100%;
+}
+ul.tagList li.tagRank6 {
+	font-size: 80%;
+}
+
+
+
+/* entryIndex */
+div.entryIndex {
+	margin: 2em 0;
+	padding: 0;
+}
+div.entryIndex h3.entryTitle {
+	font-size:100%;
+}
+div.entryIndex p.entryContent {
+	font-size: 80%;
+	margin: 1em;
+	padding: 0;
+}
+
+
+
+div.categoryStructure {
+	text-align: left;
+	margin: 1em 10%;
+}
+dl.categoryStructure {
+	font-weight: bold;
+	text-align: left;
+	margin: 1em 10%;
+}
+
+
+
+h3.weekMon, h3.weekTue, h3.weekWed, h3.weekThu, h3.weekFri {
+	color: #990;
+	background-color: #ffc;
+	border-color: #ffc;
+}
+h3.weekSat {
+	color: #009;
+	background-color: #ccf;
+	border-color: #ccf;
+}
+h3.weekSun {
+	color: #900;
+	background-color: #fcc;
+	border-color: #fcc;
+}
+
+table.archiveList {
+	font-size: 80%;
+}
+
+
+
+/* calendar */
+div.calendar {
+	text-align: center;
+}
+table.calendar {
+	color: #000;
+	font-size: 80%;
+	font-weight: normal;
+	text-align: center;
+	background-color: #fff;
+	margin: 0 auto;
+	padding: 0;
+	border-collapse: collapse;
+}
+table.calendar caption {
+	color: #000;
+	background-color: #9f9;
+	margin: 0 auto;
+	padding: 0;
+	border-color: #3c3;
+	border-width: 1px 1px 0;
+	border-style: solid;
+}
+table.calendar th {
+	font-family: monospace;
+	font-weight: bold;
+	border: #3c3 1px solid;
+}
+table.calendar td {
+	border: #3c3 1px solid;
+}
+table.calendar td.entryDay {
+	background-color: #cfc
+}
+table.calendar td.noEntryDay {
+}
+table.calendar td.noDay {
+	background-color: #fff;
+}
+table.calendar .weekMon,
+table.calendar .weekTue,
+table.calendar .weekWed,
+table.calendar .weekThu,
+table.calendar .weekFri {
+	color: #990;
+	background-color: #ffc;
+}
+table.calendar .weekSat {
+	color: #009;
+	background-color: #ccf;
+}
+table.calendar .weekSun {
+	color: #900;
+	background-color: #fcc;
+}
+
+
+
+h4.cite {
+	text-decoration: underline;
+}
+
+h5 {
+	font-size: 100%;
+	font-weight: bold;
+}
+
+/*
+div.entry table.defaultTable {
+	font-size: 80%;
+}
+*/

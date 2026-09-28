@@ -1,0 +1,3676 @@
+[EMU ROM] PC98 3004ファイル (本体･ツール類含む) (file).rar
+1,653,415,057
+739c72cb1e2d71dba73e3bc00bcedaaf・6688dcfe42625b463d4a0a62d5e3f56e0d5820b6
+
+:	Pc98
+:	:	APP
+:	:	:	ANEX86_WIN2000
+:	:	:	:	ANECDXNT.E86
+:	:	:	:	ANECDXNT.TXT
+:	:	:	:	ANECOM2.E86
+:	:	:	:	ANECOM2A.E86
+:	:	:	:	ANEFSXR.E86
+:	:	:	:	ANEFSXR.TXT
+:	:	:	:	ANEMIDI2.E86
+:	:	:	:	ANEPRN.E86
+:	:	:	:	ANERTC.E86
+:	:	:	:	ANEX86.EXE
+:	:	:	:	ANEX86.TXT
+:	:	:	:	ANEXSW.E86
+:	:	:	:	ANEXX21.E86
+:	:	:	:	ANXDIET.ZIP
+:	:	:	:	CDX.SYS
+:	:	:	:	FSX.COM
+:	:	:	:	README.TXT
+:	:	:	:	START.TXT
+:	:	:	ANEX86_WIN98
+:	:	:	:	50_AH..fdi
+:	:	:	:	Boot.fdi
+:	:	:	:	Boot1.fdi
+:	:	:	:	HDIEXP.EXE
+:	:	:	:	PC98.fdi
+:	:	:	:	VMware.txt
+:	:	:	:	anecdx9a.dll
+:	:	:	:	anecdx9x.e86
+:	:	:	:	anecdx9x.txt
+:	:	:	:	anecdxnt.e86
+:	:	:	:	anecdxnt.txt
+:	:	:	:	anecom.e86
+:	:	:	:	anecom2.e86
+:	:	:	:	anecom2a.e86
+:	:	:	:	anefsx.e86
+:	:	:	:	anefsxr.e86
+:	:	:	:	anefsxr.txt
+:	:	:	:	anemidi.e86
+:	:	:	:	anemidi2.e86
+:	:	:	:	aneopn1b.e86
+:	:	:	:	aneopn1c.e86
+:	:	:	:	aneopn44.e86
+:	:	:	:	aneopn4c.e86
+:	:	:	:	aneopn4d.e86
+:	:	:	:	aneopn5c.e86
+:	:	:	:	aneopn5d.e86
+:	:	:	:	aneprn.e86
+:	:	:	:	anertc.e86
+:	:	:	:	anesnd.e86
+:	:	:	:	anesnd2.e86
+:	:	:	:	anex86.exe
+:	:	:	:	anex86.txt
+:	:	:	:	anex86_213.exe
+:	:	:	:	anex86_Boot.fdi
+:	:	:	:	anexsw.e86
+:	:	:	:	anexx21.e86
+:	:	:	:	anvfat.dll
+:	:	:	:	anvfat.inf
+:	:	:	:	anvfat.txt
+:	:	:	:	anvfat.zip
+:	:	:	:	anvfat_95.inf
+:	:	:	:	anxdiet.zip
+:	:	:	:	cdx.sys
+:	:	:	:	editdisk.cnt
+:	:	:	:	editdisk.exe
+:	:	:	:	editdisk.hlp
+:	:	:	:	editdisk.ini
+:	:	:	:	fsx.com
+:	:	:	:	nop.fdi
+:	:	:	:	readme.txt
+:	:	:	:	start.txt
+:	:	:	:	types.ini
+:	:	:	:	LZH
+:	:	:	:	:	Anex86 2.13
+:	:	:	:	:	:	ANECDX9X.ZIP
+:	:	:	:	:	:	ANECOM.ZIP
+:	:	:	:	:	:	ANEFSXR.ZIP
+:	:	:	:	:	:	ANEMIDI.ZIP
+:	:	:	:	:	:	ANEOPN1B.ZIP
+:	:	:	:	:	:	ANEOPN1C.ZIP
+:	:	:	:	:	:	ANEOPN44.ZIP
+:	:	:	:	:	:	ANEOPN4C.ZIP
+:	:	:	:	:	:	ANEOPN4D.ZIP
+:	:	:	:	:	:	ANEOPN5C.ZIP
+:	:	:	:	:	:	ANEOPN5D.ZIP
+:	:	:	:	:	:	ANEPRN.ZIP
+:	:	:	:	:	:	ANERTC.ZIP
+:	:	:	:	:	:	ANEX86DX.ZIP
+:	:	:	:	:	:	ANEXSW.ZIP
+:	:	:	:	:	:	ANEXX21.ZIP
+:	:	:	:	:	Anex86 2.15
+:	:	:	:	:	:	ANECDX9X.ZIP
+:	:	:	:	:	:	ANECOM.ZIP
+:	:	:	:	:	:	ANEFSXR.ZIP
+:	:	:	:	:	:	ANEMIDI.ZIP
+:	:	:	:	:	:	ANEPRN.ZIP
+:	:	:	:	:	:	ANERTC.ZIP
+:	:	:	:	:	:	ANESND.ZIP
+:	:	:	:	:	:	ANEX86DX.ZIP
+:	:	:	:	:	:	ANEXSW.ZIP
+:	:	:	:	:	:	ANEXX21.ZIP
+:	:	:	:	:	Anex86 2.16
+:	:	:	:	:	:	ANECDX9X.ZIP
+:	:	:	:	:	:	ANECOM.ZIP
+:	:	:	:	:	:	ANEFSXR.ZIP
+:	:	:	:	:	:	ANEMIDI.ZIP
+:	:	:	:	:	:	ANEPRN.ZIP
+:	:	:	:	:	:	ANERTC.ZIP
+:	:	:	:	:	:	ANESND.ZIP
+:	:	:	:	:	:	ANEX86DX.ZIP
+:	:	:	:	:	:	ANEXSW.ZIP
+:	:	:	:	:	:	ANEXX21.ZIP
+:	:	:	:	:	Anex86 2.17a
+:	:	:	:	:	:	ANEX86.LZH
+:	:	:	:	:	Anex86 2.19
+:	:	:	:	:	:	ANECDX9X.ZIP
+:	:	:	:	:	:	ANECOM.ZIP
+:	:	:	:	:	:	ANEFSXR.ZIP
+:	:	:	:	:	:	ANEMIDI.ZIP
+:	:	:	:	:	:	ANEPRN.ZIP
+:	:	:	:	:	:	ANERTC.ZIP
+:	:	:	:	:	:	ANESND.ZIP
+:	:	:	:	:	:	ANEX86EX.ZIP
+:	:	:	:	:	:	ANEXSW.ZIP
+:	:	:	:	:	:	ANEXX21.ZIP
+:	:	:	:	:	:	anex86j_219.zip
+:	:	:	:	:	Anex86 2.20
+:	:	:	:	:	:	ANECDX9X.ZIP
+:	:	:	:	:	:	ANECDXNT.ZIP
+:	:	:	:	:	:	ANECOM.ZIP
+:	:	:	:	:	:	ANEFSXR.ZIP
+:	:	:	:	:	:	ANEMIDI.ZIP
+:	:	:	:	:	:	ANEMIDI2.ZIP
+:	:	:	:	:	:	ANEPRN.ZIP
+:	:	:	:	:	:	ANERTC.ZIP
+:	:	:	:	:	:	ANESND.ZIP
+:	:	:	:	:	:	ANEX86EX.ZIP
+:	:	:	:	:	:	ANEXSW.ZIP
+:	:	:	:	:	:	ANEXX21.ZIP
+:	:	:	:	:	:	anex86j_220.zip
+:	:	:	:	:	:	anex86j_220
+:	:	:	:	:	:	:	anex86j_220.exe
+:	:	:	:	:	:	:	readme.txt
+:	:	:	:	:	Anex86 2.21a
+:	:	:	:	:	:	ANECDX9X.ZIP
+:	:	:	:	:	:	ANECDXNT.ZIP
+:	:	:	:	:	:	ANECOM.ZIP
+:	:	:	:	:	:	ANEFSXR.ZIP
+:	:	:	:	:	:	ANEMIDI.ZIP
+:	:	:	:	:	:	ANEMIDI2.ZIP
+:	:	:	:	:	:	ANEPRN.ZIP
+:	:	:	:	:	:	ANERTC.ZIP
+:	:	:	:	:	:	ANESND.ZIP
+:	:	:	:	:	:	ANEX86EX.ZIP
+:	:	:	:	:	:	ANEXSW.ZIP
+:	:	:	:	:	:	ANEXX21.ZIP
+:	:	:	:	:	Anex86 2.23
+:	:	:	:	:	:	ANECDX9X.ZIP
+:	:	:	:	:	:	ANECDXNT.ZIP
+:	:	:	:	:	:	ANECOM.ZIP
+:	:	:	:	:	:	ANEFSXR.ZIP
+:	:	:	:	:	:	ANEMIDI2.ZIP
+:	:	:	:	:	:	ANEPRN.ZIP
+:	:	:	:	:	:	ANERTC.ZIP
+:	:	:	:	:	:	ANEX86EX.ZIP
+:	:	:	:	:	:	ANEXSW.ZIP
+:	:	:	:	:	:	ANEXX21.ZIP
+:	:	:	:	:	Anex86 2.24
+:	:	:	:	:	:	ANECDX9X.ZIP
+:	:	:	:	:	:	ANECDXNT.ZIP
+:	:	:	:	:	:	ANECOM.ZIP
+:	:	:	:	:	:	ANEFSXR.ZIP
+:	:	:	:	:	:	ANEMIDI2.ZIP
+:	:	:	:	:	:	ANEPRN.ZIP
+:	:	:	:	:	:	ANERTC.ZIP
+:	:	:	:	:	:	ANEX86EX.ZIP
+:	:	:	:	:	:	ANEXSW.ZIP
+:	:	:	:	:	:	ANEXX21.ZIP
+:	:	:	:	:	Anex86 2.25
+:	:	:	:	:	:	ANECDX9X.ZIP
+:	:	:	:	:	:	ANECDXNT.ZIP
+:	:	:	:	:	:	ANECOM.ZIP
+:	:	:	:	:	:	ANEFSXR.ZIP
+:	:	:	:	:	:	ANEMIDI2.ZIP
+:	:	:	:	:	:	ANEPRN.ZIP
+:	:	:	:	:	:	ANERTC.ZIP
+:	:	:	:	:	:	ANEX86EX.ZIP
+:	:	:	:	:	:	ANEXSW.ZIP
+:	:	:	:	:	:	ANEXX21.ZIP
+:	:	:	:	:	Anex86 2.27
+:	:	:	:	:	:	ANECDX9X.ZIP
+:	:	:	:	:	:	ANECDXNT.ZIP
+:	:	:	:	:	:	ANECOM.ZIP
+:	:	:	:	:	:	ANEFSXR.ZIP
+:	:	:	:	:	:	ANEMIDI2.ZIP
+:	:	:	:	:	:	ANEPRN.ZIP
+:	:	:	:	:	:	ANERTC.ZIP
+:	:	:	:	:	:	ANEX86EX.ZIP
+:	:	:	:	:	:	ANEXSW.ZIP
+:	:	:	:	:	:	ANEXX21.ZIP
+:	:	:	:	:	Anex86 2.29
+:	:	:	:	:	:	ANECDX9X.ZIP
+:	:	:	:	:	:	ANECDXNT.ZIP
+:	:	:	:	:	:	ANECOM.ZIP
+:	:	:	:	:	:	ANEFSXR.ZIP
+:	:	:	:	:	:	ANEMIDI2.ZIP
+:	:	:	:	:	:	ANEPRN.ZIP
+:	:	:	:	:	:	ANERTC.ZIP
+:	:	:	:	:	:	ANEX86EX.ZIP
+:	:	:	:	:	:	ANEXSW.ZIP
+:	:	:	:	:	:	ANEXX21.ZIP
+:	:	:	:	:	Anex86 2.30
+:	:	:	:	:	:	ANECDX9X.ZIP
+:	:	:	:	:	:	ANECDXNT.ZIP
+:	:	:	:	:	:	ANECOM2.ZIP
+:	:	:	:	:	:	ANEFSXR.ZIP
+:	:	:	:	:	:	ANEMIDI2.ZIP
+:	:	:	:	:	:	ANEPRN.ZIP
+:	:	:	:	:	:	ANERTC.ZIP
+:	:	:	:	:	:	ANEX86EX.ZIP
+:	:	:	:	:	:	ANEXSW.ZIP
+:	:	:	:	:	:	ANEXX21.ZIP
+:	:	:	:	:	Anex86 2.31
+:	:	:	:	:	:	ANECDX9X.ZIP
+:	:	:	:	:	:	ANECDXNT.ZIP
+:	:	:	:	:	:	ANECOM2.ZIP
+:	:	:	:	:	:	ANEFSXR.ZIP
+:	:	:	:	:	:	ANEMIDI2.ZIP
+:	:	:	:	:	:	ANEPRN.ZIP
+:	:	:	:	:	:	ANERTC.ZIP
+:	:	:	:	:	:	ANEX86EX.ZIP
+:	:	:	:	:	:	ANEXSW.ZIP
+:	:	:	:	:	:	ANEXX21.ZIP
+:	:	:	:	:	Anex86 2.32
+:	:	:	:	:	:	ANECDX9X.ZIP
+:	:	:	:	:	:	ANECDXNT.ZIP
+:	:	:	:	:	:	ANECOM2.ZIP
+:	:	:	:	:	:	ANEFSXR.ZIP
+:	:	:	:	:	:	ANEMIDI2.ZIP
+:	:	:	:	:	:	ANEPRN.ZIP
+:	:	:	:	:	:	ANERTC.ZIP
+:	:	:	:	:	:	ANEX86EX.ZIP
+:	:	:	:	:	:	ANEXSW.ZIP
+:	:	:	:	:	:	ANEXX21.ZIP
+:	:	:	:	:	Anex86 2.33
+:	:	:	:	:	:	ANECDX9X.ZIP
+:	:	:	:	:	:	ANECDXNT.ZIP
+:	:	:	:	:	:	ANECOM2.ZIP
+:	:	:	:	:	:	ANEFSXR.ZIP
+:	:	:	:	:	:	ANEMIDI2.ZIP
+:	:	:	:	:	:	ANEPRN.ZIP
+:	:	:	:	:	:	ANERTC.ZIP
+:	:	:	:	:	:	ANEX86EX.ZIP
+:	:	:	:	:	:	ANEXSW.ZIP
+:	:	:	:	:	:	ANEXX21.ZIP
+:	:	:	:	:	Anex86 2.34
+:	:	:	:	:	:	ANECDX9X.ZIP
+:	:	:	:	:	:	ANECDXNT.ZIP
+:	:	:	:	:	:	ANECOM2.ZIP
+:	:	:	:	:	:	ANEFSXR.ZIP
+:	:	:	:	:	:	ANEMIDI2.ZIP
+:	:	:	:	:	:	ANEPRN.ZIP
+:	:	:	:	:	:	ANERTC.ZIP
+:	:	:	:	:	:	ANEX86EX.ZIP
+:	:	:	:	:	:	ANEXSW.ZIP
+:	:	:	:	:	:	ANEXX21.ZIP
+:	:	:	:	:	Anex86 2.35
+:	:	:	:	:	:	ANECDX9X.ZIP
+:	:	:	:	:	:	ANECDXNT.ZIP
+:	:	:	:	:	:	ANECOM2.ZIP
+:	:	:	:	:	:	ANEFSXR.ZIP
+:	:	:	:	:	:	ANEMIDI2.ZIP
+:	:	:	:	:	:	ANEPRN.ZIP
+:	:	:	:	:	:	ANERTC.ZIP
+:	:	:	:	:	:	ANEX86EX.ZIP
+:	:	:	:	:	:	ANEXSW.ZIP
+:	:	:	:	:	:	ANEXX21.ZIP
+:	:	:	:	:	Anex86 2.36
+:	:	:	:	:	:	ANECDX9X.ZIP
+:	:	:	:	:	:	ANECDXNT.ZIP
+:	:	:	:	:	:	ANECOM2.ZIP
+:	:	:	:	:	:	ANEFSXR.ZIP
+:	:	:	:	:	:	ANEMIDI2.ZIP
+:	:	:	:	:	:	ANEPRN.ZIP
+:	:	:	:	:	:	ANERTC.ZIP
+:	:	:	:	:	:	ANEX86EX.ZIP
+:	:	:	:	:	:	ANEXSW.ZIP
+:	:	:	:	:	:	ANEXX21.ZIP
+:	:	:	:	:	Anex86 2.38
+:	:	:	:	:	:	anecdx9x.zip
+:	:	:	:	:	:	anecdxnt.zip
+:	:	:	:	:	:	anecom2.zip
+:	:	:	:	:	:	anefsxr.zip
+:	:	:	:	:	:	anemidi2.zip
+:	:	:	:	:	:	aneprn.zip
+:	:	:	:	:	:	anertc.zip
+:	:	:	:	:	:	anex86ex.zip
+:	:	:	:	:	:	anexsw.zip
+:	:	:	:	:	:	anexx21.zip
+:	:	:	:	:	Anex86 2.39
+:	:	:	:	:	:	anecdx9x.zip
+:	:	:	:	:	:	anecdxnt.zip
+:	:	:	:	:	:	anecom2.zip
+:	:	:	:	:	:	anefsxr.zip
+:	:	:	:	:	:	anemidi2.zip
+:	:	:	:	:	:	aneprn.zip
+:	:	:	:	:	:	anertc.zip
+:	:	:	:	:	:	anex86ex.zip
+:	:	:	:	:	:	anexsw.zip
+:	:	:	:	:	:	anexx21.zip
+:	:	:	:	:	Anex86 2.40
+:	:	:	:	:	:	anecdx9x.zip
+:	:	:	:	:	:	anecdxnt.zip
+:	:	:	:	:	:	anecom2.zip
+:	:	:	:	:	:	anefsxr.zip
+:	:	:	:	:	:	anemidi2.zip
+:	:	:	:	:	:	aneprn.zip
+:	:	:	:	:	:	anertc.zip
+:	:	:	:	:	:	anex86ex.zip
+:	:	:	:	:	:	anexsw.zip
+:	:	:	:	:	:	anexx21.zip
+:	:	:	:	:	Anex86 2.41
+:	:	:	:	:	:	anecdx9x.zip
+:	:	:	:	:	:	anecdxnt.zip
+:	:	:	:	:	:	anecom2.zip
+:	:	:	:	:	:	anefsxr.zip
+:	:	:	:	:	:	anemidi2.zip
+:	:	:	:	:	:	aneprn.zip
+:	:	:	:	:	:	anertc.zip
+:	:	:	:	:	:	anex86ex.zip
+:	:	:	:	:	:	anexsw.zip
+:	:	:	:	:	:	anexx21.zip
+:	:	:	:	:	Anex86 2.42
+:	:	:	:	:	:	anecdx9x.zip
+:	:	:	:	:	:	anecdxnt.zip
+:	:	:	:	:	:	anecom2.zip
+:	:	:	:	:	:	anefsxr.zip
+:	:	:	:	:	:	anemidi2.zip
+:	:	:	:	:	:	aneprn.zip
+:	:	:	:	:	:	anertc.zip
+:	:	:	:	:	:	anex86ex.zip
+:	:	:	:	:	:	anexsw.zip
+:	:	:	:	:	:	anexx21.zip
+:	:	:	:	:	Anex86 2.43
+:	:	:	:	:	:	anecdx9x.zip
+:	:	:	:	:	:	anecdxnt.zip
+:	:	:	:	:	:	anecom2.zip
+:	:	:	:	:	:	anefsxr.zip
+:	:	:	:	:	:	anemidi2.zip
+:	:	:	:	:	:	aneprn.zip
+:	:	:	:	:	:	anertc.zip
+:	:	:	:	:	:	anex86ex.zip
+:	:	:	:	:	:	anexsw.zip
+:	:	:	:	:	:	anexx21.zip
+:	:	:	:	:	Anex86 2.44
+:	:	:	:	:	:	anecdx9x.zip
+:	:	:	:	:	:	anecdxnt.zip
+:	:	:	:	:	:	anecom2.zip
+:	:	:	:	:	:	anecom2a.zip
+:	:	:	:	:	:	anefsxr.zip
+:	:	:	:	:	:	anemidi2.zip
+:	:	:	:	:	:	aneprn.zip
+:	:	:	:	:	:	anertc.zip
+:	:	:	:	:	:	anex86ex.zip
+:	:	:	:	:	:	anexsw.zip
+:	:	:	:	:	:	anexx21.zip
+:	:	:	:	:	Anex86 2.46
+:	:	:	:	:	:	ANECDX9X.ZIP
+:	:	:	:	:	:	ANECDXNT.ZIP
+:	:	:	:	:	:	ANECOM2.ZIP
+:	:	:	:	:	:	ANECOM2A.ZIP
+:	:	:	:	:	:	ANEFSXR.ZIP
+:	:	:	:	:	:	ANEMIDI2.ZIP
+:	:	:	:	:	:	ANEPRN.ZIP
+:	:	:	:	:	:	ANERTC.ZIP
+:	:	:	:	:	:	ANEX86EX.ZIP
+:	:	:	:	:	:	ANEXSW.ZIP
+:	:	:	:	:	:	ANEXX21.ZIP
+:	:	:	Np2
+:	:	:	:	BIOS.ROM
+:	:	:	:	CONFIG.TXT
+:	:	:	:	FONT.TMP
+:	:	:	:	MEMO.TXT
+:	:	:	:	NP2.HED
+:	:	:	:	NP2.HLP
+:	:	:	:	NP2E.TXT
+:	:	:	:	NP2II.EXE
+:	:	:	:	NP2II.TXT
+:	:	:	:	NP2_Boot.fdi
+:	:	:	:	Np2.cnt
+:	:	:	:	PWRDNKIT.COM
+:	:	:	:	PWRDNKIT.TXT
+:	:	:	:	SOUND.ROM
+:	:	:	:	WHATSNEW.TXT
+:	:	:	:	fddseek.wav
+:	:	:	:	fddseek1.wav
+:	:	:	:	np2-0.25-v30_20010406.tar.gz
+:	:	:	:	np2.exe
+:	:	:	:	np2.ini
+:	:	:	:	np2.txt
+:	:	:	:	xnp2-20010916.tar.gz
+:	:	:	:	xnp2-20010923.tar.gz
+:	:	:	:	LZH
+:	:	:	:	:	NP2_028.ZIP
+:	:	:	:	:	NP2_028L.ZIP
+:	:	:	:	:	getbios.lzh
+:	:	:	:	:	np2_012m1.zip
+:	:	:	:	:	np2_019.zip
+:	:	:	:	:	np2_019s.zip
+:	:	:	:	:	np2_020.zip
+:	:	:	:	:	np2_020s.zip
+:	:	:	:	:	np2_021.zip
+:	:	:	:	:	np2_021s.zip
+:	:	:	:	:	np2_022.zip
+:	:	:	:	:	np2_022s.zip
+:	:	:	:	:	np2_023.zip
+:	:	:	:	:	np2_023s.zip
+:	:	:	:	:	np2_024.zip
+:	:	:	:	:	np2_024s.zip
+:	:	:	:	:	np2_025.zip
+:	:	:	:	:	np2_025s.zip
+:	:	:	:	:	np2_026.zip
+:	:	:	:	:	np2_026s.zip
+:	:	:	:	:	np2_027a.zip
+:	:	:	:	:	np2_027as.zip
+:	:	:	:	:	np2_027c.zip
+:	:	:	:	:	np2_028b.zip
+:	:	:	:	:	np2_028s.zip
+:	:	:	:	:	np2_029.zip
+:	:	:	:	:	np2_029g.zip
+:	:	:	:	:	np2_029m.lzh
+:	:	:	:	:	np2_029q.lzh
+:	:	:	:	:	np2_029r.lzh
+:	:	:	:	:	np2_029s.lzh
+:	:	:	:	:	np2_029s.zip
+:	:	:	:	:	np2_030.zip
+:	:	:	:	:	np2_030a.zip
+:	:	:	:	:	np2_030as.zip
+:	:	:	:	:	np2_030b.zip
+:	:	:	:	:	np2_030bs.zip
+:	:	:	:	:	np2_030s.zip
+:	:	:	:	:	np2_help.zip
+:	:	:	:	:	np2_makefont.zip
+:	:	:	:	:	np2_makefont32.zip
+:	:	:	:	:	np2_memsw.zip
+:	:	:	:	:	np2_pwoff.zip
+:	:	:	:	:	np2d_m.zip
+:	:	:	:	:	np2ii008.lzh
+:	:	:	:	:	np2w_029.zip
+:	:	:	:	:	vf010227.zip
+:	:	:	:	:	vficd88_120.zip
+:	:	:	:	:	MAC
+:	:	:	:	:	:	NP2_PR4.SIT
+:	:	:	:	:	:	NP2_PR4S.SIT
+:	:	:	:	Neko_tools
+:	:	:	:	:	np2_getbios
+:	:	:	:	:	:	DISWIN.EXE
+:	:	:	:	:	:	GETBIOS.ASM
+:	:	:	:	:	:	GETBIOS.COM
+:	:	:	:	:	:	GETBIOS.TXT
+:	:	:	:	:	np2_makefont32
+:	:	:	:	:	:	MAKEFONT.TXT
+:	:	:	:	:	:	font.bmp
+:	:	:	:	:	:	makefont32.exe
+:	:	:	:	:	np2_memsw
+:	:	:	:	:	:	MEMSW.EXE
+:	:	:	:	:	:	MEMSW.TXT
+:	:	:	:	:	np2_pwoff
+:	:	:	:	:	:	PWOFF.COM
+:	:	:	:	:	:	PWOFF.TXT
+:	:	:	:	:	vficd88_120
+:	:	:	:	:	:	exd88.txt
+:	:	:	:	:	:	exd88.vex
+:	:	:	:	:	:	ind88.txt
+:	:	:	:	:	:	ind88.vin
+:	:	:	T98Next
+:	:	:	:	CONFIG.SYS
+:	:	:	:	MAIN.INI
+:	:	:	:	Next.EXE
+:	:	:	:	Next.txt
+:	:	:	:	T98_Next_Boot.fdi
+:	:	:	:	readme.txt
+:	:	:	:	start.txt
+:	:	:	:	Device
+:	:	:	:	:	CDSDUP.ZIP
+:	:	:	:	:	Disk.dll
+:	:	:	:	:	Disk.nhw
+:	:	:	:	:	FONT.BMP
+:	:	:	:	:	GDC.dll
+:	:	:	:	:	GDC.nhw
+:	:	:	:	:	HOWTO.TXT
+:	:	:	:	:	Key.dll
+:	:	:	:	:	Key.nhw
+:	:	:	:	:	MOUSE.dll
+:	:	:	:	:	MOUSE.nhw
+:	:	:	:	:	MPU98.NHW
+:	:	:	:	:	MPU98.TXT
+:	:	:	:	:	PRINTER.NHW
+:	:	:	:	:	RS232C.NHW
+:	:	:	:	:	RS232C.TXT
+:	:	:	:	:	SCSI4CD.NHW
+:	:	:	:	:	SCSI4CD.TXT
+:	:	:	:	:	SCSI4CDN.ZIP
+:	:	:	:	:	SWITCH.nhw
+:	:	:	:	:	SYSTEM.dll
+:	:	:	:	:	SYSTEM.nhw
+:	:	:	:	:	Sound26K.nhw
+:	:	:	:	:	Sound86.dll
+:	:	:	:	:	Sound86.nhw
+:	:	:	:	:	Timer.dll
+:	:	:	:	:	Timer.nhw
+:	:	:	:	:	デバイスプラグインはここにおいてください
+:	:	:	:	Doc
+:	:	:	:	:	Next.txt
+:	:	:	:	:	START.TXT
+:	:	:	:	NTOOL002
+:	:	:	:	:	NFDMAKE.DOC
+:	:	:	:	:	NFDMAKE.EXE
+:	:	:	:	:	README.DOC
+:	:	:	:	:	ROMMAKE.DOC
+:	:	:	:	:	ROMMAKE.EXE
+:	:	:	:	ROM
+:	:	:	:	:	00000.ROM
+:	:	:	:	:	Bios.rom
+:	:	:	:	:	C0000.ROM
+:	:	:	:	:	C8000.ROM
+:	:	:	:	:	D0000.ROM
+:	:	:	:	:	D8000.ROM
+:	:	:	:	:	E8000.ROM
+:	:	:	:	:	F0000.ROM
+:	:	:	:	:	F8000.ROM
+:	:	:	:	:	FONT.ROM
+:	:	:	:	:	ITF.ROM
+:	:	:	:	:	ROMを使用する場合ここに置く
+:	:	:	:	:	SOUND.ROM
+:	:	:	:	:	ipl.dat
+:	:	:	:	:	ここにROMイメージを置くと自動的に読込まれます
+:	:	:	:	:	実機ROMはここにおいてください
+:	:	:	:	lzh
+:	:	:	:	:	KEY000814.LZH
+:	:	:	:	:	NDDK_RB4.LZH
+:	:	:	:	:	SOUND.rom
+:	:	:	:	:	T98-NEXT 10th
+:	:	:	:	:	:	KEY010515_B.LZH
+:	:	:	:	:	:	PRINTER010522_B.LZH
+:	:	:	:	:	:	PRINTER010620_B.LZH
+:	:	:	:	:	:	RS232C010523.LZH
+:	:	:	:	:	:	RS232C010528.LZH
+:	:	:	:	:	:	RS232C010603.LZH
+:	:	:	:	:	:	SYSTEM010522_B.LZH
+:	:	:	:	:	:	nddk_rb7.lzh
+:	:	:	:	:	:	next_rb10.lzh
+:	:	:	:	:	:	ntool006.lzh
+:	:	:	:	:	T98-NEXT 11th
+:	:	:	:	:	:	DISK010716_B.LZH
+:	:	:	:	:	:	next_rb11.lzh
+:	:	:	:	:	T98-NEXT 12.1th Beta
+:	:	:	:	:	:	next_rb121.lzh
+:	:	:	:	:	T98-NEXT 12ath
+:	:	:	:	:	:	DISK010911_B.LZH
+:	:	:	:	:	:	DISK011011_B.LZH
+:	:	:	:	:	:	GDC011003_OB.LZH
+:	:	:	:	:	:	KEY010927_B.LZH
+:	:	:	:	:	:	TIMER010913_B.LZH
+:	:	:	:	:	:	next_rb12a.lzh
+:	:	:	:	:	:	新規ﾃｷｽﾄ文書.txt
+:	:	:	:	:	T98-NEXT 12th
+:	:	:	:	:	:	GDC010810_B.LZH
+:	:	:	:	:	:	RS232C010819.LZH
+:	:	:	:	:	:	next_rb12.lzh
+:	:	:	:	:	T98-Next7
+:	:	:	:	:	:	NDDK_RB7.LZH
+:	:	:	:	:	:	NEXT_RB7.LZH
+:	:	:	:	:	T98-Next9
+:	:	:	:	:	:	DISK001212_B.LZH
+:	:	:	:	:	:	DISK001226_B.LZH
+:	:	:	:	:	:	DISK001229_B.LZH
+:	:	:	:	:	:	GDC001212_B.LZH
+:	:	:	:	:	:	GDC001220_B.LZH
+:	:	:	:	:	:	MAIN1212.LZH
+:	:	:	:	:	:	MAIN1213.LZH
+:	:	:	:	:	:	NTOOL002.LZH
+:	:	:	:	:	:	RS232C001231.LZH
+:	:	:	:	:	:	next_rb91.lzh
+:	:	:	:	:	:	next_rb92.lzh
+:	:	:	:	:	T98-Next9.5a
+:	:	:	:	:	:	DISK010301_B.LZH
+:	:	:	:	:	:	GDC010301_B.LZH
+:	:	:	:	:	:	GDC960.LZH
+:	:	:	:	:	:	KEY010219_B.LZH
+:	:	:	:	:	:	MPU98.ZIP
+:	:	:	:	:	:	NDDK_RB7.LZH
+:	:	:	:	:	:	NFDMAKE010227_B.LZH
+:	:	:	:	:	:	NTOOL004.LZH
+:	:	:	:	:	:	PRINTER010302_B.LZH
+:	:	:	:	:	:	RS232C.TXT
+:	:	:	:	:	:	RS232C010205.LZH
+:	:	:	:	:	:	SCSI4CD.ZIP
+:	:	:	:	:	:	index.html
+:	:	:	:	:	:	next_rb95a.lzh
+:	:	:	:	:	T98-Next9.6
+:	:	:	:	:	:	next_rb96.lzh
+:	:	:	:	:	:	ntool005.lzh
+:	:	:	:	:	うっほ のマウス T98-NEXT用Pulg-in
+:	:	:	:	:	:	uhho-mouse3.lzh
+:	:	:	:	:	うっほ の試作GDC T98-NEXT用Pulg-in
+:	:	:	:	:	:	uhho-gdc2.lzh
+:	:	:	たま
+:	:	:	:	LZH
+:	:	:	:	:	BIOSVW16.zip
+:	:	:	:	:	DBK3FS022.exe
+:	:	:	:	:	DBK3FS024.exe
+:	:	:	:	:	DBKRR16_100s.zip
+:	:	:	:	:	NP2-TAMA-022.exe
+:	:	:	:	:	NP2-TAMA-024.exe
+:	:	:	:	:	NP2-TAMA-025.exe
+:	:	:	:	:	cx210.zip
+:	:	:	:	:	dbk470.zip
+:	:	:	ねこー煮会
+:	:	:	:	BIOS.ROM
+:	:	:	:	FONT.TMP
+:	:	:	:	NP2-IA32.ini
+:	:	:	:	SOUND.ROM
+:	:	:	:	fddseek.wav
+:	:	:	:	fddseek1.wav
+:	:	:	:	hostdrv.exe
+:	:	:	:	np2-ia32.exe
+:	:	:	:	np2-ia32.txt
+:	:	:	:	readme.txt
+:	:	:	:	Lzh
+:	:	:	:	:	np2-0.29-fia32-20010620.zip
+:	:	:	:	:	np2-0.29-fia32-scsi-20010712.zip
+:	:	:	:	:	np2-0.29-ia32-scsi-hostdrv-20010902.zip
+:	:	:	:	:	np2-ia32-test-20010909.zip
+:	:	:	凍結
+:	:	:	:	Anex86AT
+:	:	:	:	:	anecdx9a.dll
+:	:	:	:	:	anecdx9x.e86
+:	:	:	:	:	anecdx9x.txt
+:	:	:	:	:	anemidi2.e86
+:	:	:	:	:	anertcw.e86
+:	:	:	:	:	anex86w.exe
+:	:	:	:	:	anex86w.txt
+:	:	:	:	:	anexx21w.e86
+:	:	:	:	:	cdx.sys
+:	:	:	:	:	readme.txt
+:	:	:	:	:	start.txt
+:	:	:	:	:	Disk
+:	:	:	:	:	:	98grp.bmp
+:	:	:	:	:	:	CONFIG.SYS
+:	:	:	:	:	:	pcx86.com
+:	:	:	:	:	LZH
+:	:	:	:	:	:	Anxsetw.exe
+:	:	:	:	:	:	anecdx9x.zip
+:	:	:	:	:	:	anecdxnt.zip
+:	:	:	:	:	:	anemidi2.zip
+:	:	:	:	:	:	anertcw.zip
+:	:	:	:	:	:	anexx21w.zip
+:	:	:	:	:	:	readme.txt
+:	:	:	:	:	anvfat
+:	:	:	:	:	:	anvfat.dll
+:	:	:	:	:	:	anvfat.inf
+:	:	:	:	:	:	anvfat.txt
+:	:	:	:	:	:	anvfat_95.inf
+:	:	:	:	Pc98e
+:	:	:	:	:	00000.ROM
+:	:	:	:	:	BIOS.ROM
+:	:	:	:	:	C0000.ROM
+:	:	:	:	:	C8000.ROM
+:	:	:	:	:	ChangeLog.ja
+:	:	:	:	:	D0000.ROM
+:	:	:	:	:	D8000.ROM
+:	:	:	:	:	E8000.ROM
+:	:	:	:	:	F0000.ROM
+:	:	:	:	:	F8000.ROM
+:	:	:	:	:	FONT.ROM
+:	:	:	:	:	ITF.ROM
+:	:	:	:	:	Manual
+:	:	:	:	:	Manual.ja
+:	:	:	:	:	NEWFILE
+:	:	:	:	:	PC98E.exe
+:	:	:	:	:	QuickStart
+:	:	:	:	:	QuickStart.ja
+:	:	:	:	:	README.ja
+:	:	:	:	:	SOUND.ROM
+:	:	:	:	:	Windows.txt
+:	:	:	:	:	cpli98.S
+:	:	:	:	:	cpli98.com
+:	:	:	:	:	dd_zero.cxx
+:	:	:	:	:	dd_zero.exe
+:	:	:	:	:	error.txt
+:	:	:	:	:	ipl.S
+:	:	:	:	:	ipl.dat
+:	:	:	:	:	mkbdf.cc
+:	:	:	:	:	mkcg.S
+:	:	:	:	:	mkcg.com
+:	:	:	:	:	mkimage.S
+:	:	:	:	:	mkimage.com
+:	:	:	:	:	mkimaged.S
+:	:	:	:	:	mkimaged.com
+:	:	:	:	:	mkrom.S
+:	:	:	:	:	mkrom.com
+:	:	:	:	:	pc98eio.asm
+:	:	:	:	:	pc98eio.def
+:	:	:	:	:	pc98eio.mak
+:	:	:	:	:	pc98eio.vxd
+:	:	:	:	:	writeipl.S
+:	:	:	:	:	writeipl.com
+:	:	:	:	:	LZH
+:	:	:	:	:	:	98E.LZH
+:	:	:	:	Run_Ｔ98
+:	:	:	:	:	Catalog.dat
+:	:	:	:	:	RUNT98.CNT
+:	:	:	:	:	RUNT98.HLP
+:	:	:	:	:	Runt98.txt
+:	:	:	:	:	anexsw.e86
+:	:	:	:	:	runt98.exe
+:	:	:	:	:	runt98.ini
+:	:	:	:	:	runt98_011.lzh
+:	:	:	:	:	コピー (2) ～ runt98.ini
+:	:	:	:	:	コピー ～ runt98.ini
+:	:	:	:	:	T98
+:	:	:	:	:	:	AUTOEXEC.BAT
+:	:	:	:	:	:	BOOT.TFD
+:	:	:	:	:	:	Change.TXT
+:	:	:	:	:	:	Config.sys
+:	:	:	:	:	:	CpuID.txt
+:	:	:	:	:	:	FDD2.TFD
+:	:	:	:	:	:	FONT.BMP
+:	:	:	:	:	:	HDD1.THD
+:	:	:	:	:	:	HIMEM.SYS
+:	:	:	:	:	:	Hdd0.thd
+:	:	:	:	:	:	Log.txt
+:	:	:	:	:	:	README.TXT
+:	:	:	:	:	:	T98 Wizard.exe
+:	:	:	:	:	:	T98 Wizard.html
+:	:	:	:	:	:	T98.TXT
+:	:	:	:	:	:	T98.exe
+:	:	:	:	:	:	T98K.exe
+:	:	:	:	:	:	T98_026A.LZH
+:	:	:	:	:	:	T98_026D.LZH
+:	:	:	:	:	:	old_Config.sys
+:	:	:	:	:	:	t98.ini
+:	:	:	:	:	:	コピー ～ T98.exe
+:	:	:	:	:	:	RSC
+:	:	:	:	:	:	:	486hx.bmp
+:	:	:	:	:	:	:	FONT.BMP
+:	:	:	:	:	:	:	SAVEA.CPU
+:	:	:	:	:	:	:	SAVEB.CPU
+:	:	:	:	:	:	T98 Wizard Graphics
+:	:	:	:	:	:	:	Dialog.gif
+:	:	:	:	:	:	:	NewHDD.gif
+:	:	:	:	:	:	:	T98 Wizard.gif
+:	:	:	:	:	:	Tools
+:	:	:	:	:	:	:	CPUID.TXT
+:	:	:	:	:	:	:	LHOFF.COM
+:	:	:	:	:	:	:	LHON.COM
+:	:	:	:	:	:	:	LOGOUT.COM
+:	:	:	:	:	:	:	LOGOUT.TXT
+:	:	:	:	:	:	:	REBOOT.TXT
+:	:	:	:	:	:	:	REBOOT.com
+:	:	:	:	:	:	:	TCNS.TXT
+:	:	:	:	:	:	:	Tcns.com
+:	:	:	:	:	:	:	XMMT98.SYS
+:	:	:	:	:	:	:	Xmmt98.txt
+:	:	:	:	:	:	:	cpuid.com
+:	:	:	:	:	:	:	readme.txt
+:	:	:	:	V98
+:	:	:	:	:	00000.ROM
+:	:	:	:	:	BIOS.ROM
+:	:	:	:	:	C0000.ROM
+:	:	:	:	:	C8000.ROM
+:	:	:	:	:	D0000.ROM
+:	:	:	:	:	D8000.ROM
+:	:	:	:	:	E8000.ROM
+:	:	:	:	:	F0000.ROM
+:	:	:	:	:	F8000.ROM
+:	:	:	:	:	FONT.ROM
+:	:	:	:	:	ITF.ROM
+:	:	:	:	:	SOUND.ROM
+:	:	:	:	:	Virtual98.exe
+:	:	:	:	:	Virtual98.ini
+:	:	:	:	:	Virtual98.txt
+:	:	:	:	:	ipl.dat
+:	:	:	:	:	LZH
+:	:	:	:	:	:	V98.lzh
+:	:	ROMS
+:	:	:	BIOS
+:	:	:	:	00000.ROM
+:	:	:	:	486hx.bmp
+:	:	:	:	BIOS.ROM
+:	:	:	:	C0000.ROM
+:	:	:	:	C8000.ROM
+:	:	:	:	D0000.ROM
+:	:	:	:	D8000.ROM
+:	:	:	:	E8000.ROM
+:	:	:	:	F0000.ROM
+:	:	:	:	F8000.ROM
+:	:	:	:	FONT.ROM
+:	:	:	:	ITF.ROM
+:	:	:	:	SOUND.ROM
+:	:	:	:	anex86.bmp
+:	:	:	:	ipl.dat
+:	:	:	:	LZH
+:	:	:	:	:	PC98.ZIP
+:	:	:	:	:	PC98E.ZIP
+:	:	:	:	:	PC98ROMS.ZIP
+:	:	:	:	:	V98_028.ZIP
+:	:	:	:	:	old.LZH
+:	:	:	:	PC486_BIOS
+:	:	:	:	:	BIOS.ROM
+:	:	:	:	:	FONT.ROM
+:	:	:	:	:	SOUND.ROM
+:	:	:	:	PC98_BIOS_PACK
+:	:	:	:	:	PC-9821Bios.zip
+:	:	:	:	:	pc98roms.zip
+:	:	:	DISK
+:	:	:	:	ゲーム
+:	:	:	:	:	POOL
+:	:	:	:	:	:	garu.lzh
+:	:	:	:	:	:	lb.lzh
+:	:	:	:	:	:	ob.lzh
+:	:	:	:	:	:	steel_gr.zip
+:	:	:	:	:	:	ys1_98.zip
+:	:	:	:	:	:	ys2_98.zip
+:	:	:	:	:	:	98games
+:	:	:	:	:	:	:	[遊撃隊 ～最強神復活之巻～]
+:	:	:	:	:	:	:	:	yug.lzh
+:	:	:	:	:	:	:	[遊撃隊・番外篇 -列強からの来訪者-]
+:	:	:	:	:	:	:	:	vps.lzh
+:	:	:	:	:	:	:	[遊撃隊２ ～邪神戦争～《前衛・ヘガス我狼陰の復讐》]
+:	:	:	:	:	:	:	:	notic.lzh
+:	:	:	:	:	:	:	:	yug2a.lzh
+:	:	:	:	:	:	:	:	yug2b.lzh
+:	:	:	:	:	:	:	:	yug2c.lzh
+:	:	:	:	:	:	:	Ａｇａｌｔａ
+:	:	:	:	:	:	:	:	agalta1.lzh
+:	:	:	:	:	:	:	Ａｇａｌｔａ ２
+:	:	:	:	:	:	:	:	agalta2.lzh
+:	:	:	:	:	:	:	Ａｇａｌｔａ ３
+:	:	:	:	:	:	:	:	agalta3.lzh
+:	:	:	:	:	:	:	りきゅ～る
+:	:	:	:	:	:	:	:	riql.lzh
+:	:	:	:	:	:	:	楼蘭 Music Disk
+:	:	:	:	:	:	:	:	mdisk1.lzh
+:	:	:	:	:	:	A Little Bit Of Lode Runner For PC-98
+:	:	:	:	:	:	:	LodeRunner.zip
+:	:	:	:	:	:	TSUKKAsoftware
+:	:	:	:	:	:	:	b_bunny.lzh
+:	:	:	:	:	:	:	chobirun.lzh
+:	:	:	:	:	:	:	crim88.lzh
+:	:	:	:	:	:	:	crim98.lzh
+:	:	:	:	:	:	:	dk.lzh
+:	:	:	:	:	:	:	final.lzh
+:	:	:	:	:	:	:	revival.lzh
+:	:	:	:	:	:	:	winmonky.lzh
+:	:	:	:	:	:	loderunner
+:	:	:	:	:	:	:	{a800_champloderunner.gif
+:	:	:	:	:	:	:	{a800_loderunner.gif
+:	:	:	:	:	:	:	{a800_loderunnersrescue.gif
+:	:	:	:	:	:	:	{a{p{p{l{e_c-loderunner.jpg
+:	:	:	:	:	:	:	{a{p{p{l{e_champloderunner.gif
+:	:	:	:	:	:	:	{a{p{p{l{e_loderunner.gif
+:	:	:	:	:	:	:	{a{p{p{l{e_loderunnerrevenge.gif
+:	:	:	:	:	:	:	{b{b{c_loderunner.gif
+:	:	:	:	:	:	:	{c64_c-loderunner_cart.jpg
+:	:	:	:	:	:	:	{c64_c-loderunner_disk.jpg
+:	:	:	:	:	:	:	{c64_champloderunner.gif
+:	:	:	:	:	:	:	{c64_loderunner(tape).gif
+:	:	:	:	:	:	:	{c64_loderunner.gif
+:	:	:	:	:	:	:	{c64_loderunnersrescue.gif
+:	:	:	:	:	:	:	{c64_proloderunner.gif
+:	:	:	:	:	:	:	{c{p{c_loderunner.gif
+:	:	:	:	:	:	:	{f{m7_champloderunner.gif
+:	:	:	:	:	:	:	{f{m7_loderunner.gif
+:	:	:	:	:	:	:	{g{b_hyperloderunner.gif
+:	:	:	:	:	:	:	{g{b_loderunner({c{o{l{o{r).gif
+:	:	:	:	:	:	:	{g{s_loderunner.gif
+:	:	:	:	:	:	:	{l{y{n{x_loderunner.gif
+:	:	:	:	:	:	:	{m{a{m{e_c-loderunner_b.jpg
+:	:	:	:	:	:	:	{m{a{m{e_c-loderunner_f.jpg
+:	:	:	:	:	:	:	{m{a{m{e_loderunner(set2).gif
+:	:	:	:	:	:	:	{m{a{m{e_loderunner.gif
+:	:	:	:	:	:	:	{m{a{m{e_loderunner2.gif
+:	:	:	:	:	:	:	{m{a{m{e_loderunner3.gif
+:	:	:	:	:	:	:	{m{a{m{e_loderunner4.gif
+:	:	:	:	:	:	:	{m{s{x_c-loderunner.gif
+:	:	:	:	:	:	:	{m{s{x_c-loderunner2.gif
+:	:	:	:	:	:	:	{m{s{x_champloderunner.gif
+:	:	:	:	:	:	:	{m{s{x_loderunner.gif
+:	:	:	:	:	:	:	{m{s{x_loderunner2.gif
+:	:	:	:	:	:	:	{m{s{x_superloderunner.gif
+:	:	:	:	:	:	:	{n{e{s_c-loderunner_fds.jpg
+:	:	:	:	:	:	:	{n{e{s_c-loderunner_nescarta.jpg
+:	:	:	:	:	:	:	{n{e{s_c-loderunner_nescartb.jpg
+:	:	:	:	:	:	:	{n{e{s_c-loderunner_nescartc.jpg
+:	:	:	:	:	:	:	{n{e{s_c-loderunner_nescartd.jpg
+:	:	:	:	:	:	:	{n{e{s_c-pack.jpg
+:	:	:	:	:	:	:	{n{e{s_champloderunner({n{e{s).gif
+:	:	:	:	:	:	:	{n{e{s_loderunner({n{e{s)({j).gif
+:	:	:	:	:	:	:	{n{e{s_loderunner({n{e{s)({u).gif
+:	:	:	:	:	:	:	{n{e{s_superloderunner({f{d{s).gif
+:	:	:	:	:	:	:	{n{e{s_superloderunner2({f{d{s).gif
+:	:	:	:	:	:	:	{p{c6_c-loderunner.jpg
+:	:	:	:	:	:	:	{p{c6_loderunner.gif
+:	:	:	:	:	:	:	{p{c88_c-champloderunner.gif
+:	:	:	:	:	:	:	{p{c88_c-loderunner.gif
+:	:	:	:	:	:	:	{p{c88_c-loderunner.jpg
+:	:	:	:	:	:	:	{p{c88_champloderunner.gif
+:	:	:	:	:	:	:	{p{c88_loderunner.gif
+:	:	:	:	:	:	:	{p{c98_loderunner.gif
+:	:	:	:	:	:	:	{p{c_c-loderunner_b.jpg
+:	:	:	:	:	:	:	{p{c_c-loderunner_f.jpg
+:	:	:	:	:	:	:	{p{c_loderunner.gif
+:	:	:	:	:	:	:	{p{c{e_battleloderunner.gif
+:	:	:	:	:	:	:	{p{c{e_c-battleloderunner.gif
+:	:	:	:	:	:	:	{p{c{e_c-loderunnerlostlabyrinth.gif
+:	:	:	:	:	:	:	{p{c{e_loderunnerlostlabyrinth.gif
+:	:	:	:	:	:	:	{s{g1000_loderunner.gif
+:	:	:	:	:	:	:	{s{m{s_champloderunner.gif
+:	:	:	:	:	:	:	{s{n{e{s_loderunner({n{e{s_{h{a{c{k).gif
+:	:	:	:	:	:	:	{s{n{e{s_loderunnertwin.gif
+:	:	:	:	:	:	:	{s{n{e{s_powerloderunner.gif
+:	:	:	:	:	:	:	{s{p{e{c{t{r{u{m_loderunner1.gif
+:	:	:	:	:	:	:	{s{p{e{c{t{r{u{m_loderunner2.gif
+:	:	:	:	:	:	:	{s{p{e{c{t{r{u{m_loderunner3.gif
+:	:	:	:	:	:	:	{s{t_loderunner.gif
+:	:	:	:	:	:	:	{v{i{c20_loderunner.gif
+:	:	:	:	:	:	:	{x1_loderunner.gif
+:	:	:	:	:	:	:	{x68_loderunner.gif
+:	:	:	:	:	:	lr98
+:	:	:	:	:	:	:	pc98_02.gif
+:	:	:	:	:	:	:	pc98_03.gif
+:	:	:	:	:	:	:	pc98_04.gif
+:	:	:	:	:	:	:	pc98_05.gif
+:	:	:	:	:	:	:	pc98_06.gif
+:	:	:	:	:	:	:	pc98_07.gif
+:	:	:	:	:	:	:	{lode{runner.zip
+:	:	:	:	:	１８禁
+:	:	:	:	:	:	18.txt
+:	:	:	:	:	:	_ＨＤＤ専用
+:	:	:	:	:	:	:	HDD_H.TXT
+:	:	:	:	:	:	:	ＡＬＩＣＥの館３
+:	:	:	:	:	:	:	:	disk_1.fdi
+:	:	:	:	:	:	:	:	disk_2.fdi
+:	:	:	:	:	:	:	:	disk_3.fdi
+:	:	:	:	:	:	:	:	disk_4.fdi
+:	:	:	:	:	:	:	:	disk_5.fdi
+:	:	:	:	:	:	:	:	disk_6.fdi
+:	:	:	:	:	:	:	ＥＶＥ ＢＵＲＳＴ ＥＲＲＯＲ
+:	:	:	:	:	:	:	:	ＥＶＥ ＢＵＲＳＴ ＥＲＲＯＲ.zip
+:	:	:	:	:	:	:	ＧＬＯＲＩＡ
+:	:	:	:	:	:	:	:	ＧＬＯＲＩＡ.zip
+:	:	:	:	:	:	:	ＧＯＫＫＯ Ｖｏｌ．３
+:	:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	:	ＭＡＲＩＯＮ
+:	:	:	:	:	:	:	:	ＭＡＲＩＯＮ.zip
+:	:	:	:	:	:	:	ねこまーじゃん
+:	:	:	:	:	:	:	:	ねこまーじゃん.LZH
+:	:	:	:	:	:	:	インモラルスタディ ０１
+:	:	:	:	:	:	:	:	インモラルスタディ ０１.LZH
+:	:	:	:	:	:	:	インモラルスタディ ０２
+:	:	:	:	:	:	:	:	インモラルスタディ ０２.LZH
+:	:	:	:	:	:	:	インモラルスタディ ０３
+:	:	:	:	:	:	:	:	インモラルスタディ ０３.LZH
+:	:	:	:	:	:	:	ウォーズ２
+:	:	:	:	:	:	:	:	ウォーズ２.LZH
+:	:	:	:	:	:	:	カスタムメイト１
+:	:	:	:	:	:	:	:	カスタムメイト１.zip
+:	:	:	:	:	:	:	カスタムメイト２
+:	:	:	:	:	:	:	:	カスタムメイト２.zip
+:	:	:	:	:	:	:	カスタムメイト３
+:	:	:	:	:	:	:	:	カスタムメイト３.zip
+:	:	:	:	:	:	:	シャドウキャスタン
+:	:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	:	:	:	DISK_5.FDI
+:	:	:	:	:	:	:	:	DISK_7.FDI
+:	:	:	:	:	:	:	:	Disk_6.fdi
+:	:	:	:	:	:	:	スーパーリアル麻雀 P2_&_P3_&_P4
+:	:	:	:	:	:	:	:	スーパーリアル麻雀 P2_&_P3_&_P4.LZH
+:	:	:	:	:	:	:	スーパーリアル麻雀ＰⅣ
+:	:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	:	DISK_10.FDI
+:	:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	:	:	:	DISK_5.FDI
+:	:	:	:	:	:	:	:	DISK_6.FDI
+:	:	:	:	:	:	:	:	DISK_7.FDI
+:	:	:	:	:	:	:	:	DISK_8.FDI
+:	:	:	:	:	:	:	:	DISK_9.FDI
+:	:	:	:	:	:	:	ナイト雀鬼
+:	:	:	:	:	:	:	:	ナイト雀鬼.zip
+:	:	:	:	:	:	:	バトルスキンパニック ９８２１
+:	:	:	:	:	:	:	:	バトルスキンパニック ９８２１.LZH
+:	:	:	:	:	:	:	ラブ・エスカレーター
+:	:	:	:	:	:	:	:	LOVE.SYS
+:	:	:	:	:	:	:	:	LOVE0.RES
+:	:	:	:	:	:	:	:	ラブ・エスカレーター.zip
+:	:	:	:	:	:	:	:	ラブ・エスカレーター
+:	:	:	:	:	:	:	:	:	BGM_01.M26
+:	:	:	:	:	:	:	:	:	BGM_01.M86
+:	:	:	:	:	:	:	:	:	BGM_04.M86
+:	:	:	:	:	:	:	:	:	BGM_07.M86
+:	:	:	:	:	:	:	:	:	BGM_08.M86
+:	:	:	:	:	:	:	:	:	BGM_09.M86
+:	:	:	:	:	:	:	:	:	BGM_12.M86
+:	:	:	:	:	:	:	:	:	BGM_21.M86
+:	:	:	:	:	:	:	:	:	DOS4GW.EXE
+:	:	:	:	:	:	:	:	:	EQAP32.EXE
+:	:	:	:	:	:	:	:	:	LOVE.BAT
+:	:	:	:	:	:	:	:	:	LOVE.EAR
+:	:	:	:	:	:	:	:	:	LOVE.ICO
+:	:	:	:	:	:	:	:	:	LOVE.SYS
+:	:	:	:	:	:	:	:	:	LOVE0.RES
+:	:	:	:	:	:	:	:	:	LOVE1.RES
+:	:	:	:	:	:	:	:	:	LOVE2.RES
+:	:	:	:	:	:	:	:	:	LOVE3.RES
+:	:	:	:	:	:	:	:	:	LOVE4.RES
+:	:	:	:	:	:	:	:	:	LOVE5.RES
+:	:	:	:	:	:	:	:	:	LOVE6.RES
+:	:	:	:	:	:	:	:	:	LOVE7.RES
+:	:	:	:	:	:	:	:	:	LOVE8.RES
+:	:	:	:	:	:	:	:	:	LOVE9.RES
+:	:	:	:	:	:	:	:	:	ONGCHK.COM
+:	:	:	:	:	:	:	:	:	PMD.COM
+:	:	:	:	:	:	:	:	:	PMDB2.COM
+:	:	:	:	:	:	:	:	:	PMDWin.dll
+:	:	:	:	:	:	:	:	:	UMI.M26
+:	:	:	:	:	:	:	:	:	UMI.M86
+:	:	:	:	:	:	:	:	:	ZATTOU4.M86
+:	:	:	:	:	:	:	:	:	winlove.exe
+:	:	:	:	:	:	:	:	:	winlove.htm
+:	:	:	:	:	:	:	:	:	新しいフォルダ (2)
+:	:	:	:	:	:	:	:	:	:	LOVE.SYS
+:	:	:	:	:	:	:	:	:	:	LOVE0.RES
+:	:	:	:	:	:	:	:	ラブ・エスカレーターfor Windows
+:	:	:	:	:	:	:	:	:	ls099d2.lzh
+:	:	:	:	:	:	:	:	:	wl1061.lzh
+:	:	:	:	:	:	:	:	:	wl1062.lzh
+:	:	:	:	:	:	:	:	:	FMPMD2000
+:	:	:	:	:	:	:	:	:	:	FMPMD022.lzh
+:	:	:	:	:	:	:	:	:	PMDWin
+:	:	:	:	:	:	:	:	:	:	PMDWin020.lzh
+:	:	:	:	:	:	:	:	:	WinFMP
+:	:	:	:	:	:	:	:	:	:	WinFMP006.lzh
+:	:	:	:	:	:	:	:	:	WinLoveDemo Ver 1.00G
+:	:	:	:	:	:	:	:	:	:	wldm100g.lzh
+:	:	:	:	:	:	:	:	:	:	wldm100g
+:	:	:	:	:	:	:	:	:	:	:	LOVEDEMO.EXE
+:	:	:	:	:	:	:	:	:	:	:	LOVEDEMO.HTM
+:	:	:	:	:	:	:	:	:	ラブ・エスカレーター オートデモ(PC9801用)
+:	:	:	:	:	:	:	:	:	:	LOVEDEMO.LZH
+:	:	:	:	:	:	:	亜紀子２
+:	:	:	:	:	:	:	:	亜紀子２.zip
+:	:	:	:	:	:	:	悪夢
+:	:	:	:	:	:	:	:	悪夢.zip
+:	:	:	:	:	:	:	下級生
+:	:	:	:	:	:	:	:	Kakyusei.zip
+:	:	:	:	:	:	:	学園ソドム
+:	:	:	:	:	:	:	:	学園ソドム.zip
+:	:	:	:	:	:	:	監獄
+:	:	:	:	:	:	:	:	監獄.LZH
+:	:	:	:	:	:	:	鬼頭島女子刑務所
+:	:	:	:	:	:	:	:	鬼頭島女子刑務所.zip
+:	:	:	:	:	:	:	透明人間
+:	:	:	:	:	:	:	:	透明人間.zip
+:	:	:	:	:	:	:	夢幻
+:	:	:	:	:	:	:	:	password.txt
+:	:	:	:	:	:	:	:	夢幻.LZH
+:	:	:	:	:	:	_できない
+:	:	:	:	:	:	:	NOT_H.TXT
+:	:	:	:	:	:	:	１８禁_できない.LZH
+:	:	:	:	:	:	:	BladeOfDarkness
+:	:	:	:	:	:	:	:	bod_data1.d88
+:	:	:	:	:	:	:	:	bod_data2.d88
+:	:	:	:	:	:	:	:	bod_data3.d88
+:	:	:	:	:	:	:	:	bod_data4.d88
+:	:	:	:	:	:	:	:	bod_system.d88
+:	:	:	:	:	:	:	HeartHeatGirls
+:	:	:	:	:	:	:	:	HHG_1.D88
+:	:	:	:	:	:	:	:	HHG_10.D88
+:	:	:	:	:	:	:	:	HHG_11.D88
+:	:	:	:	:	:	:	:	HHG_12.D88
+:	:	:	:	:	:	:	:	HHG_2.D88
+:	:	:	:	:	:	:	:	HHG_3.D88
+:	:	:	:	:	:	:	:	HHG_4.D88
+:	:	:	:	:	:	:	:	HHG_5.D88
+:	:	:	:	:	:	:	:	HHG_6.D88
+:	:	:	:	:	:	:	:	HHG_7.D88
+:	:	:	:	:	:	:	:	HHG_8.D88
+:	:	:	:	:	:	:	:	HHG_9.D88
+:	:	:	:	:	:	:	Marionette_Mind
+:	:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	ドラゴンピンク
+:	:	:	:	:	:	:	:	DORAP_A.D88
+:	:	:	:	:	:	:	:	DORAP_B.D88
+:	:	:	:	:	:	:	:	DORAP_C.D88
+:	:	:	:	:	:	:	:	DORAP_D.D88
+:	:	:	:	:	:	:	:	DORAP_E.D88
+:	:	:	:	:	:	_デモ版
+:	:	:	:	:	:	:	キング オブ デュエリスト 外伝 (デモ)
+:	:	:	:	:	:	:	:	DEMO.FDI
+:	:	:	:	:	:	:	チェリーマドレット (デモ版)
+:	:	:	:	:	:	:	:	CherryModerate.fdi
+:	:	:	:	:	:	:	私
+:	:	:	:	:	:	:	:	wa_demo.exe
+:	:	:	:	:	:	:	:	wa_setup.txt
+:	:	:	:	:	:	ＡＬＩＣＥの館２
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	ＡＮＧＬＥ
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	ＡＲＭＩＳＴ
+:	:	:	:	:	:	:	disk_1.fdi
+:	:	:	:	:	:	:	disk_2.fdi
+:	:	:	:	:	:	:	disk_3.fdi
+:	:	:	:	:	:	:	disk_4.fdi
+:	:	:	:	:	:	:	disk_5.fdi
+:	:	:	:	:	:	ＢＡＣＴＡ２
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	ＣＡＬ
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	ＣＡＲＡＴ
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	Disk_a.fdi
+:	:	:	:	:	:	ＣＡＴ'Ｓ ＰＡＲＴ１
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	ＤＡＬＫ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	ＤＥ・ＪＡ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	ＤＥＡＤ ＯＦ ＴＨＥ ＢＲＡＩＮ
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	ＤＥＡＤ ＯＦ ＴＨＥ ＢＲＡＩＮ２
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	ＤＥＳＩＲＥ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	ＤＯＲ
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	ＤＯＲ２
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	ＤＯＲ３
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	ＤＰＳ ＳＧ
+:	:	:	:	:	:	:	disk_ANTIQUE HOUSE.fdi
+:	:	:	:	:	:	:	disk_sys.fdi
+:	:	:	:	:	:	:	disk_いけない内科検診.fdi
+:	:	:	:	:	:	:	disk_朱い夜.fdi
+:	:	:	:	:	:	ＤＰＳ ＳＧ２
+:	:	:	:	:	:	:	disk_FAHNEN FLLEGER.fdi
+:	:	:	:	:	:	:	disk_sys.fdi
+:	:	:	:	:	:	:	disk_家庭教師はステキなお仕事.fdi
+:	:	:	:	:	:	:	disk_信長の淫謀.fdi
+:	:	:	:	:	:	ＤＰＳ ＳＧ３
+:	:	:	:	:	:	:	disk_sys.fdi
+:	:	:	:	:	:	:	disk_ラビット.fdi
+:	:	:	:	:	:	:	disk_新婚さん.fdi
+:	:	:	:	:	:	:	disk_卒業.fdi
+:	:	:	:	:	:	ＤＲＡＧＯＮ ＭＡＳＴＥＲ ＳＩＬＫ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	Ｄｒ．ＳＴＯＰ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	Ｅ．Ｓ．Ｐ
+:	:	:	:	:	:	:	esp.fdi
+:	:	:	:	:	:	ＥＬＬＥ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	ＦＥＣＨＩ
+:	:	:	:	:	:	:	DISK_1.fdi
+:	:	:	:	:	:	:	DISK_2.fdi
+:	:	:	:	:	:	ＦＯＸＹ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	ＦＯＸＹ2
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	Ｇ．Ｒ
+:	:	:	:	:	:	:	猿.fdi
+:	:	:	:	:	:	:	犬.fdi
+:	:	:	:	:	:	:	桃太郎.fdi
+:	:	:	:	:	:	ＧＯＫＫＯ Ｖ1
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	ＧＯＫＫＯ Ｖ２
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	:	:	DISK_5.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	ＩＭＡＧＥ
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	ＪＩＮＮ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	ＪＯＫＥＲ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	ＪＯＫＥＲ２
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	ＬＩＢＩＤＯ７
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	:	disk_sys.fdi
+:	:	:	:	:	:	ＭＡＤ ＰＡＲＡＤＯＸ
+:	:	:	:	:	:	:	disk_1.fdi
+:	:	:	:	:	:	:	disk_2.fdi
+:	:	:	:	:	:	:	disk_3.fdi
+:	:	:	:	:	:	:	disk_4.fdi
+:	:	:	:	:	:	:	disk_5.fdi
+:	:	:	:	:	:	:	disk_6.fdi
+:	:	:	:	:	:	ＭＡＲＩＮＥ ＢＵＳＴＥＲ
+:	:	:	:	:	:	:	marinb_1.FDI
+:	:	:	:	:	:	:	marinb_2.FDI
+:	:	:	:	:	:	:	readthis.txt
+:	:	:	:	:	:	ＭＥＴＡＬ ＥＹＥ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	:	DISK_G.FDI
+:	:	:	:	:	:	ＭＥＴＡＬ ＥＹＥ ＳＰ
+:	:	:	:	:	:	:	SP_A.FDI
+:	:	:	:	:	:	:	SP_B.FDI
+:	:	:	:	:	:	ＭＥＴＡＬ ＥＹＥ２
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	:	DISK_G.FDI
+:	:	:	:	:	:	:	DISK_H.FDI
+:	:	:	:	:	:	ＭＯＯＮ ＬＩＧＨＴ ＥＮＥＲＧＹ
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	ＭＹ ＥＹＥＳ！
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	Ｍゥーンライト ちゃん りん しゃん
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	ＮＯＶＡ
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	ＰＩＣ 同人
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	ＰＬＥＲＩＡ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	ＰＲＥＭＩＵＭ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	ＰＲＥＭＩＵＭ２
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	ＰＲＯ ＳＴＵＤＥＮＴ-Ｇ
+:	:	:	:	:	:	:	さんちゃん.fdi
+:	:	:	:	:	:	:	ちょこちゃん.fdi
+:	:	:	:	:	:	:	愛の悟郎.fdi
+:	:	:	:	:	:	:	沙織ちゃん.fdi
+:	:	:	:	:	:	:	法子先生.fdi
+:	:	:	:	:	:	:	本のディスク.fdi
+:	:	:	:	:	:	ＰＵＲＥ２
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	ＲＡＮＣＥ３ SP
+:	:	:	:	:	:	:	SP_SYS.FDI
+:	:	:	:	:	:	ＲＡＹ・ＧＵＮ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	ＲＥＤ
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	:	disk_e.fdi
+:	:	:	:	:	:	ＲＥＩＲＡ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	ＳＥＥＫ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	ＳＨＩＮＣ
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_sys.fdi
+:	:	:	:	:	:	ＳＨＯＷ ＤＯＷＮ
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	:	disk_e.fdi
+:	:	:	:	:	:	:	disk_f.fdi
+:	:	:	:	:	:	:	disk_g.fdi
+:	:	:	:	:	:	ＳＴＥＡＭ ＨＥＡＲＴ'Ｓ
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	:	disk_e.fdi
+:	:	:	:	:	:	ＳＴＲＵＳＨ
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	ＳＵＰＥＲ ＤＰＳ
+:	:	:	:	:	:	:	disk_a うれしたのし海賊稼業.fdi
+:	:	:	:	:	:	:	disk_a マリアとカンパン.fdi
+:	:	:	:	:	:	:	disk_a 遠野の森.fdi
+:	:	:	:	:	:	:	disk_b うれしたのし海賊稼業.fdi
+:	:	:	:	:	:	:	disk_b マリアとカンパン.fdi
+:	:	:	:	:	:	:	disk_b 遠野の森.fdi
+:	:	:	:	:	:	:	disk_sys.fdi
+:	:	:	:	:	:	ＳＷＥＥＴ ＡＮＧＬＥ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	ＴＲＩＧＧＥＲ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	:	DISK_G.FDI
+:	:	:	:	:	:	ＶＡＳＴＮＥＳＳ
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	:	disk_e.fdi
+:	:	:	:	:	:	:	disk_f.fdi
+:	:	:	:	:	:	:	disk_g.fdi
+:	:	:	:	:	:	:	コピー ～ disk_a.fdi
+:	:	:	:	:	:	ＶＩＰＥＲ ＧＴＳ
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	:	:	DISK_5.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	ＶＩＰＥＲ Ｖ１０
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	ＶＩＰＥＲ Ｖ６
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	ＶＩＰＥＲ Ｖ８
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	ＸＥＮＯＮ
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	:	disk_e.fdi
+:	:	:	:	:	:	ＹＥＳ！
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_DEM.FDI
+:	:	:	:	:	:	あにまーじゃん
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	DISK_GM.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	あぶない天狗伝説
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	あゆみちゃん物語
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	:	disk_e.fdi
+:	:	:	:	:	:	:	disk_f.fdi
+:	:	:	:	:	:	:	disk_g.fdi
+:	:	:	:	:	:	うろつき童子
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	うろつき童子
+:	:	:	:	:	:	:	:	Disk_1.FDI
+:	:	:	:	:	:	:	:	Disk_2.FDI
+:	:	:	:	:	:	きみだけに愛を
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	けっこう仮面 おしおきパラダイスの巻
+:	:	:	:	:	:	:	kekkou_1.FDI
+:	:	:	:	:	:	:	kekkou_2.FDI
+:	:	:	:	:	:	:	kekkou_3.FDI
+:	:	:	:	:	:	:	kekkou_4.FDI
+:	:	:	:	:	:	:	kekkou_5.FDI
+:	:	:	:	:	:	:	kekkou_6.FDI
+:	:	:	:	:	:	:	kekkou_7.FDI
+:	:	:	:	:	:	:	kekkou_8.FDI
+:	:	:	:	:	:	ごくらくアリーナ
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	:	disk_e.fdi
+:	:	:	:	:	:	:	disk_f.fdi
+:	:	:	:	:	:	なる麻雀
+:	:	:	:	:	:	:	Disk.txt
+:	:	:	:	:	:	:	narum_1.FDI
+:	:	:	:	:	:	:	narum_2.FDI
+:	:	:	:	:	:	:	narum_3.FDI
+:	:	:	:	:	:	はっちゃけあやよさん３
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	はっちゃけあやよさん５
+:	:	:	:	:	:	:	A5.TDH
+:	:	:	:	:	:	:	A5A.GDH
+:	:	:	:	:	:	:	A5B.GDH
+:	:	:	:	:	:	:	A5C.GDH
+:	:	:	:	:	:	:	A5D.GDH
+:	:	:	:	:	:	:	A5T.GDH
+:	:	:	:	:	:	:	AUTOEXEC.COM
+:	:	:	:	:	:	:	AV.BAT
+:	:	:	:	:	:	:	AYA4_02.EMI
+:	:	:	:	:	:	:	AYA4_04.EMI
+:	:	:	:	:	:	:	AYA4_06.EMI
+:	:	:	:	:	:	:	AYA4_08.EMI
+:	:	:	:	:	:	:	AYA4_09.EMI
+:	:	:	:	:	:	:	AYA4_15.EMI
+:	:	:	:	:	:	:	AYA4_18.EMI
+:	:	:	:	:	:	:	AYA4_20.EMI
+:	:	:	:	:	:	:	AYAOP.EMI
+:	:	:	:	:	:	:	AYAPOP.EMI
+:	:	:	:	:	:	:	AYAYO1.EMI
+:	:	:	:	:	:	:	BIBI.EMI
+:	:	:	:	:	:	:	BIN.EMI
+:	:	:	:	:	:	:	CHUN1.EMI
+:	:	:	:	:	:	:	CHUN2.EMI
+:	:	:	:	:	:	:	DISKA
+:	:	:	:	:	:	:	DISKB
+:	:	:	:	:	:	:	DISKC
+:	:	:	:	:	:	:	DISKD
+:	:	:	:	:	:	:	DODO.EMI
+:	:	:	:	:	:	:	DOGYA.EMI
+:	:	:	:	:	:	:	DOKON.EMI
+:	:	:	:	:	:	:	EMD.COM
+:	:	:	:	:	:	:	ENDING.EMI
+:	:	:	:	:	:	:	FDOS.EXT
+:	:	:	:	:	:	:	FDOS.SYS
+:	:	:	:	:	:	:	JOE.EMI
+:	:	:	:	:	:	:	KAAN.EMI
+:	:	:	:	:	:	:	LAST.EMI
+:	:	:	:	:	:	:	MANU.EMI
+:	:	:	:	:	:	:	NIS.EMI
+:	:	:	:	:	:	:	PEACH.EMI
+:	:	:	:	:	:	:	SARABA.GDH
+:	:	:	:	:	:	:	STARTUP.VSP
+:	:	:	:	:	:	:	TOMO1.EMI
+:	:	:	:	:	:	:	TOMO2.EMI
+:	:	:	:	:	:	:	VS2.EMI
+:	:	:	:	:	:	:	VS3.EMI
+:	:	:	:	:	:	:	VSPK.EFN
+:	:	:	:	:	:	:	VSPK.EXE
+:	:	:	:	:	:	:	YUKI.EMI
+:	:	:	:	:	:	:	YUKI3.EMI
+:	:	:	:	:	:	まーじゃんでポン
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	まゆみ
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	もっこりっまん ＲＰＧ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	:	DISK_G.FDI
+:	:	:	:	:	:	:	DISK_H.FDI
+:	:	:	:	:	:	アッシュ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	エイプハンターＪ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	ガンブレイズ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	キャンキャンバニー エクストラ
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	:	disk_e.fdi
+:	:	:	:	:	:	:	disk_edit.fdi
+:	:	:	:	:	:	:	disk_f.fdi
+:	:	:	:	:	:	:	disk_g.fdi
+:	:	:	:	:	:	:	disk_h.fdi
+:	:	:	:	:	:	キャンキャンバニー スペリオール
+:	:	:	:	:	:	:	disk_1.fdi
+:	:	:	:	:	:	:	disk_2.fdi
+:	:	:	:	:	:	キャンキャンバニー プルミエール
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	ギゼ
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	クリスタル リナール
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	:	DISK_G.FDI
+:	:	:	:	:	:	:	DISK_H.FDI
+:	:	:	:	:	:	:	DISK_I.FDI
+:	:	:	:	:	:	:	DISK_J.FDI
+:	:	:	:	:	:	:	DISK_K.FDI
+:	:	:	:	:	:	:	DISK_L.FDI
+:	:	:	:	:	:	クレセント
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	グラムキャッツ２
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	コンチネンタル
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	ゴイス
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	:	:	DISK_5.FDI
+:	:	:	:	:	:	:	DISK_6.FDI
+:	:	:	:	:	:	サクサク大盗賊
+:	:	:	:	:	:	:	disk_1.fdi
+:	:	:	:	:	:	:	disk_2.fdi
+:	:	:	:	:	:	シャングリラ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	:	DISK_G.FDI
+:	:	:	:	:	:	:	DISK_H.FDI
+:	:	:	:	:	:	シャングリラ ＳＰ
+:	:	:	:	:	:	:	SP_A.FDI
+:	:	:	:	:	:	:	SP_B.FDI
+:	:	:	:	:	:	シャングリラ２
+:	:	:	:	:	:	:	DISK_1.fdi
+:	:	:	:	:	:	:	DISK_2.fdi
+:	:	:	:	:	:	:	DISK_3.fdi
+:	:	:	:	:	:	:	DISK_4.fdi
+:	:	:	:	:	:	:	DISK_5.fdi
+:	:	:	:	:	:	:	DISK_6.fdi
+:	:	:	:	:	:	:	DISK_7.fdi
+:	:	:	:	:	:	:	DISK_8.fdi
+:	:	:	:	:	:	スーパーリアル麻雀
+:	:	:	:	:	:	:	disk_カスミとミキ.fdi
+:	:	:	:	:	:	:	disk_カスミとミキのカスミ.fdi
+:	:	:	:	:	:	:	disk_カスミとミキのミキ.fdi
+:	:	:	:	:	:	:	disk_ショーコ.fdi
+:	:	:	:	:	:	:	disk_三人お相手.fdi
+:	:	:	:	:	:	スウィートエモーション
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	ダイバーズ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	:	DISK_G.FDI
+:	:	:	:	:	:	:	DISK_H.FDI
+:	:	:	:	:	:	チャクラ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	ツーショット
+:	:	:	:	:	:	:	disk_sys.fdi
+:	:	:	:	:	:	:	disk_一ノ瀬絵里.fdi
+:	:	:	:	:	:	:	disk_岡結子.fdi
+:	:	:	:	:	:	:	disk_宮下久美子.fdi
+:	:	:	:	:	:	:	disk_佐伯美々.fdi
+:	:	:	:	:	:	:	disk_星ひかる.fdi
+:	:	:	:	:	:	:	disk_西野一美.fdi
+:	:	:	:	:	:	:	disk_谷口真紀.fdi
+:	:	:	:	:	:	:	disk_中原よしみ.fdi
+:	:	:	:	:	:	:	disk_中村彩.fdi
+:	:	:	:	:	:	:	disk_椎名麻理.fdi
+:	:	:	:	:	:	:	disk_飯田リカ.fdi
+:	:	:	:	:	:	:	disk_鈴木美奈.fdi
+:	:	:	:	:	:	テセラ
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	:	disk_e.fdi
+:	:	:	:	:	:	:	disk_f.fdi
+:	:	:	:	:	:	トゥルー・ラブ
+:	:	:	:	:	:	:	DISK_1.fdi
+:	:	:	:	:	:	:	DISK_2.fdi
+:	:	:	:	:	:	:	DISK_3.fdi
+:	:	:	:	:	:	:	DISK_4.fdi
+:	:	:	:	:	:	:	DISK_5.fdi
+:	:	:	:	:	:	:	DISK_6.fdi
+:	:	:	:	:	:	:	DISK_7.fdi
+:	:	:	:	:	:	:	DISK_8.fdi
+:	:	:	:	:	:	トップをねらえ！
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	ドラキュラ伯爵
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	:	ドラゴン・シティ
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	ドラゴンナイト
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	ドラゴンナイト２
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	:	ドラゴンナイト３
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	ドラゴンナイト３ (成人版)
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	ドラゴンナイト４
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	:	DISK_G.FDI
+:	:	:	:	:	:	:	DISK_H.FDI
+:	:	:	:	:	:	:	DISK_I.FDI
+:	:	:	:	:	:	:	DISK_J.FDI
+:	:	:	:	:	:	:	DISK_K.FDI
+:	:	:	:	:	:	:	DISK_L.FDI
+:	:	:	:	:	:	ナースゆうの夢魔戦線
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	ヌーク２
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	:	:	DISK_5.FDI
+:	:	:	:	:	:	:	DISK_6.FDI
+:	:	:	:	:	:	:	DISK_7.FDI
+:	:	:	:	:	:	ネクロノミコン
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	:	disk_e.fdi
+:	:	:	:	:	:	:	disk_f.fdi
+:	:	:	:	:	:	:	disk_g.fdi
+:	:	:	:	:	:	:	disk_h.fdi
+:	:	:	:	:	:	:	disk_i.fdi
+:	:	:	:	:	:	:	disk_j.fdi
+:	:	:	:	:	:	:	disk_k.fdi
+:	:	:	:	:	:	ハート ヒート ガールズ
+:	:	:	:	:	:	:	DISK_1.fdi
+:	:	:	:	:	:	:	DISK_10.fdi
+:	:	:	:	:	:	:	DISK_11.fdi
+:	:	:	:	:	:	:	DISK_12.fdi
+:	:	:	:	:	:	:	DISK_2.fdi
+:	:	:	:	:	:	:	DISK_3.fdi
+:	:	:	:	:	:	:	DISK_4.fdi
+:	:	:	:	:	:	:	DISK_5.fdi
+:	:	:	:	:	:	:	DISK_6.fdi
+:	:	:	:	:	:	:	DISK_7.fdi
+:	:	:	:	:	:	:	DISK_8.fdi
+:	:	:	:	:	:	:	DISK_9.fdi
+:	:	:	:	:	:	ハメングバード
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	バトルスキンパニック
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	バンパイア ハイスクール
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	:	disk_e.fdi
+:	:	:	:	:	:	:	disk_f.fdi
+:	:	:	:	:	:	:	disk_g.fdi
+:	:	:	:	:	:	:	disk_h.fdi
+:	:	:	:	:	:	:	disk_sys.fdi
+:	:	:	:	:	:	ブランマーカー
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	マーシャル エイジ
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	ミラージュ
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	:	disk_e.fdi
+:	:	:	:	:	:	ミラージュ２
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	:	disk_e.fdi
+:	:	:	:	:	:	レッスンエンジェル
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	ロゼ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	ワーズ ワース
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	:	DISK_G.FDI
+:	:	:	:	:	:	:	DISK_H.FDI
+:	:	:	:	:	:	:	DISK_I.FDI
+:	:	:	:	:	:	:	DISK_J.FDI
+:	:	:	:	:	:	:	DISK_K.FDI
+:	:	:	:	:	:	:	DISK_L.FDI
+:	:	:	:	:	:	ワーズ ワース ＳＰ
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	ヴァリアブル・ジオ
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	ヴァリアブル・ジオ２
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	:	disk_e.fdi
+:	:	:	:	:	:	:	disk_f.fdi
+:	:	:	:	:	:	:	disk_g.fdi
+:	:	:	:	:	:	:	年齢.txt
+:	:	:	:	:	:	ヴィーナス
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	:	DISK_G.FDI
+:	:	:	:	:	:	:	DISK_H.FDI
+:	:	:	:	:	:	亜紀子
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	愛姉妹
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	闇の稜線
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	:	DISK_G.FDI
+:	:	:	:	:	:	淫獣学園
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	:	disk_e.fdi
+:	:	:	:	:	:	:	disk_f.fdi
+:	:	:	:	:	:	淫獣幻夢
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	宇宙怪盗ファニーＢＥＥ
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	:	disk_e.fdi
+:	:	:	:	:	:	:	disk_f.fdi
+:	:	:	:	:	:	:	disk_g.fdi
+:	:	:	:	:	:	悦楽の学園
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	河原崎家の一族
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	花の記憶
+:	:	:	:	:	:	:	DATA.FDI
+:	:	:	:	:	:	:	SYSTEM.FDI
+:	:	:	:	:	:	華麗なる人生
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	華麗なる人生２
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	学園戦記
+:	:	:	:	:	:	:	disk_1.fdi
+:	:	:	:	:	:	:	disk_2.fdi
+:	:	:	:	:	:	:	disk_3.fdi
+:	:	:	:	:	:	:	disk_sys.fdi
+:	:	:	:	:	:	監禁
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	季節７ ＣＧ
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	禁断の血族
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	校内写生１
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	校内写生２
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	校内写生３
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	鋼鉄銃娘
+:	:	:	:	:	:	:	steel_gr.zip
+:	:	:	:	:	:	黒猫館
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	沙織
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	沙也香
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	雑音領域
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	:	disk_e.fdi
+:	:	:	:	:	:	:	disk_f.fdi
+:	:	:	:	:	:	:	disk_g.fdi
+:	:	:	:	:	:	尋問遊戯
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	雀ＪＡＫＡ雀
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	雀妃楼
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	星の砂物語
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	星の砂物語２
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	:	:	DISK_5.FDI
+:	:	:	:	:	:	:	DISK_6.FDI
+:	:	:	:	:	:	:	DISK_7.FDI
+:	:	:	:	:	:	:	DISK_8.FDI
+:	:	:	:	:	:	:	DISK_9.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	赤ずきんちゃん気つけて
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	赤ずきんチャチャ 同人
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	稚恵美
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	天使たちの午後 Ⅲ 番外
+:	:	:	:	:	:	:	disk_1.fdi
+:	:	:	:	:	:	:	disk_2.fdi
+:	:	:	:	:	:	天使たちの午後 Ⅳ
+:	:	:	:	:	:	:	disk_1.fdi
+:	:	:	:	:	:	:	disk_2.fdi
+:	:	:	:	:	:	天神乱魔
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	電撃ナース
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	:	disk_e.fdi
+:	:	:	:	:	:	電脳学園Ⅰ Ｖｅｒ １．０
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	電脳学園Ⅰ Ｖｅｒ ２．０
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	電脳天使
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	電脳美少女 デモ
+:	:	:	:	:	:	:	DEMO.FDI
+:	:	:	:	:	:	電話のベルが…
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	桃源郷
+:	:	:	:	:	:	:	TOGEN1.FDI
+:	:	:	:	:	:	:	TOGEN2.FDI
+:	:	:	:	:	:	:	TOGEN3.FDI
+:	:	:	:	:	:	闘神都市
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	:	disk_e.fdi
+:	:	:	:	:	:	:	disk_f.fdi
+:	:	:	:	:	:	:	disk_g.fdi
+:	:	:	:	:	:	闘神都市 ヒント
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	闘神都市２
+:	:	:	:	:	:	:	disk_1.fdi
+:	:	:	:	:	:	:	disk_10.fdi
+:	:	:	:	:	:	:	disk_11.fdi
+:	:	:	:	:	:	:	disk_2.fdi
+:	:	:	:	:	:	:	disk_3.fdi
+:	:	:	:	:	:	:	disk_4.fdi
+:	:	:	:	:	:	:	disk_5.fdi
+:	:	:	:	:	:	:	disk_6.fdi
+:	:	:	:	:	:	:	disk_7.fdi
+:	:	:	:	:	:	:	disk_8.fdi
+:	:	:	:	:	:	:	disk_9.fdi
+:	:	:	:	:	:	同級生２
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	:	DISK_G.FDI
+:	:	:	:	:	:	:	DISK_H.FDI
+:	:	:	:	:	:	:	DISK_I.FDI
+:	:	:	:	:	:	:	DISK_J.FDI
+:	:	:	:	:	:	:	DISK_K.FDI
+:	:	:	:	:	:	同人ソフト
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	:	:	DISK_5.FDI
+:	:	:	:	:	:	美姫
+:	:	:	:	:	:	:	disk_sys.fdi
+:	:	:	:	:	:	美穂
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	魔女っ子クミ
+:	:	:	:	:	:	:	disk_1.fdi
+:	:	:	:	:	:	:	disk_2.fdi
+:	:	:	:	:	:	:	disk_3.fdi
+:	:	:	:	:	:	:	disk_4.fdi
+:	:	:	:	:	:	無人島物語
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	:	disk_e.fdi
+:	:	:	:	:	:	問題考察’９２
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	Disk_a.fdi
+:	:	:	:	:	:	野々村の病院
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	誘惑の吐息
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	妖獣倶楽部
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	妖獣戦記
+:	:	:	:	:	:	:	disk_1.fdi
+:	:	:	:	:	:	:	disk_2.fdi
+:	:	:	:	:	:	:	disk_3.fdi
+:	:	:	:	:	:	:	disk_4.fdi
+:	:	:	:	:	:	:	disk_sys.fdi
+:	:	:	:	:	:	令嬢物語
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	通常
+:	:	:	:	:	:	通常.txt
+:	:	:	:	:	:	_ＨＤＤ専用
+:	:	:	:	:	:	:	HDD_N.TXT
+:	:	:	:	:	:	:	Eye Of Beholder Ⅲ
+:	:	:	:	:	:	:	:	INSTAL1.FDI
+:	:	:	:	:	:	:	:	INSTAL2.FDI
+:	:	:	:	:	:	:	:	INSTAL3.FDI
+:	:	:	:	:	:	:	:	INSTAL4.FDI
+:	:	:	:	:	:	:	:	STARTUP.FDI
+:	:	:	:	:	:	:	Neko2 for wiz
+:	:	:	:	:	:	:	:	np2w_029.zip
+:	:	:	:	:	:	:	ＣＨＥＣＫ ＳＩＸ２
+:	:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	:	シナリオ1.fdi
+:	:	:	:	:	:	:	ＬＵＮＡＴＩＣ ＤＯＷＮ
+:	:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	ＬＵＮＡＴＩＣ ＤＯＷＮ２
+:	:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	:	:	ＳＴＥＥＬ ＧＵＮ ＮＹＡＮ
+:	:	:	:	:	:	:	:	ＳＴＥＥＬ ＧＵＮ ＮＹＡＮ.LZH
+:	:	:	:	:	:	:	アマランス４
+:	:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	:	:	boot.FDI
+:	:	:	:	:	:	:	アローン イン ザ ダーク
+:	:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	:	:	:	注意.txt
+:	:	:	:	:	:	:	ウィザードリィ６ ＢＣＦ
+:	:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	ゴジラ
+:	:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	:	:	:	DISK_5.FDI
+:	:	:	:	:	:	:	:	DISK_6.FDI
+:	:	:	:	:	:	:	:	DISK_7.FDI
+:	:	:	:	:	:	:	:	DISK_8.FDI
+:	:	:	:	:	:	:	:	MINIGAME.FDI
+:	:	:	:	:	:	:	ブランディッシュ１／２／３
+:	:	:	:	:	:	:	:	ブランディッシュ.LZH
+:	:	:	:	:	:	:	:	ブランディッシュ２.LZH
+:	:	:	:	:	:	:	:	ブランディッシュ３.LZH
+:	:	:	:	:	:	:	銀河英雄伝説Ⅳ
+:	:	:	:	:	:	:	:	BakBoot.fdi
+:	:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	:	:	:	DISK_5.FDI
+:	:	:	:	:	:	:	:	DISK_6.FDI
+:	:	:	:	:	:	:	:	DISK_7.FDI
+:	:	:	:	:	:	:	:	DISK_8.FDI
+:	:	:	:	:	:	:	:	DISK_9.FDI
+:	:	:	:	:	:	:	:	Disk_起動.fdi
+:	:	:	:	:	:	:	緋王伝２
+:	:	:	:	:	:	:	:	DISK_ST.FDI
+:	:	:	:	:	:	:	:	INST1.FDI
+:	:	:	:	:	:	:	:	INST2.FDI
+:	:	:	:	:	:	:	:	INST3.FDI
+:	:	:	:	:	:	:	:	注意.txt
+:	:	:	:	:	:	_できない
+:	:	:	:	:	:	:	NOT_N.TXT
+:	:	:	:	:	:	:	通常_できない.LZH
+:	:	:	:	:	:	:	うる星やつら
+:	:	:	:	:	:	:	:	urusei.fdd
+:	:	:	:	:	:	_デモ版
+:	:	:	:	:	:	:	パワーシンガー (デモ)
+:	:	:	:	:	:	:	:	DEMO.FDI
+:	:	:	:	:	:	:	ブランディッシュVT体験版付オートデモ
+:	:	:	:	:	:	:	:	vt_demo.zip
+:	:	:	:	:	:	３ｘ３ＥＹＥＳ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	:	DISK_G.FDI
+:	:	:	:	:	:	:	DISK_H.FDI
+:	:	:	:	:	:	:	DISK_I.FDI
+:	:	:	:	:	:	:	DISK_J.FDI
+:	:	:	:	:	:	:	DISK_K.FDI
+:	:	:	:	:	:	:	DISK_L.FDI
+:	:	:	:	:	:	４６億年物語
+:	:	:	:	:	:	:	DISK_1_2.FDI
+:	:	:	:	:	:	:	DISK_3_4.FDI
+:	:	:	:	:	:	:	DISK_5_6.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	Ａ列車 Ⅲ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	Ａ列車 Ⅳ
+:	:	:	:	:	:	:	DISK_DAT.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	:	DISK_VIS.FDI
+:	:	:	:	:	:	ＢＬＵＥ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	ＤＣ コネクション
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	ＤＥＪＡＶＵ
+:	:	:	:	:	:	:	dejavu.FDI
+:	:	:	:	:	:	:	readthis.txt
+:	:	:	:	:	:	ＤＩＦＦＥＬＥＮＴ ＲＥＡＬＭ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	ＤＩＳＡ ＳＴＥＲ
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	ＥＤＧＥ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	Ｆ１-ＳＲＩＰ
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	Ｆ１５
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	:	T98NEX.TXT
+:	:	:	:	:	:	ＦＲＡＹ
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	:	Ｊリーグ サッカー
+:	:	:	:	:	:	:	DISK_DAT.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	ＫＩＧＥＮ
+:	:	:	:	:	:	:	DISK_OP.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	:	シナリオ.fdi
+:	:	:	:	:	:	ＫＯビースト三獣士
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_FOP.FDI
+:	:	:	:	:	:	:	注意.txt
+:	:	:	:	:	:	ＭＡＤＡＲＡ
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	:	:	DISK_5.FDI
+:	:	:	:	:	:	:	DISK_6.FDI
+:	:	:	:	:	:	:	DISK_7.FDI
+:	:	:	:	:	:	:	DISK_8.FDI
+:	:	:	:	:	:	ＭＥＲＣＵＲＩＵＳ ＰＲＥＴＴＹ
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	:	disk_e.fdi
+:	:	:	:	:	:	:	disk_f.fdi
+:	:	:	:	:	:	:	disk_g.fdi
+:	:	:	:	:	:	:	disk_h.fdi
+:	:	:	:	:	:	:	disk_i.fdi
+:	:	:	:	:	:	ＰＥＮＴＩＵＭ
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	:	コピー ～ DISK_SYS.FDI
+:	:	:	:	:	:	ＲＥＬＩＣＳ
+:	:	:	:	:	:	:	readme.txt
+:	:	:	:	:	:	:	rel_98.d88
+:	:	:	:	:	:	ＳＩＭ CITY
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	ＳＩＭ ＥＡＲＴＨ
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	ＳＷＡＰ
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	ＳＷＯＲＤ ＤＡＮＣＥＲ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_OP.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	:	DISK_VSL.FDI
+:	:	:	:	:	:	ＳＷＯＲＤ ＤＡＮＣＥＲ ９３ 増刊号
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	ＳＷＯＲＤ ＤＡＮＣＥＲ 凶刀の女神
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	:	disk_e.fdi
+:	:	:	:	:	:	:	disk_f.fdi
+:	:	:	:	:	:	:	disk_g.fdi
+:	:	:	:	:	:	ＳＷＯＲＤ ＤＡＮＣＥＲ 増刊号
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	ＴＨＥ ＡＴＬＡＳ
+:	:	:	:	:	:	:	DISK_DAT.FDI
+:	:	:	:	:	:	:	DISK_GM.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	ＴＲＩＡＬ ＯＦ ＦＯＵＲＳ
+:	:	:	:	:	:	:	tof.fdi
+:	:	:	:	:	:	ＸＡＫ 外伝 ガゼルの塔
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	ＸＡＫ２
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	ＺＡＶＡＳ２
+:	:	:	:	:	:	:	DISK_OP.FDI
+:	:	:	:	:	:	:	DISK_ST.FDI
+:	:	:	:	:	:	:	DISK_SW.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	:	DISK_WTA.FDI
+:	:	:	:	:	:	:	DISK_WTB.FDI
+:	:	:	:	:	:	ああっ！女神さまっ
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	:	disk_e.fdi
+:	:	:	:	:	:	:	disk_f.fdi
+:	:	:	:	:	:	きまぐれオレンジロード
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	なぞぷよ
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	ふしぎの海のナディア
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	:	DISK_G.FDI
+:	:	:	:	:	:	:	DISK_H.FDI
+:	:	:	:	:	:	ふしぎの海のナディアのオプション
+:	:	:	:	:	:	:	NADIA_OP.FDI
+:	:	:	:	:	:	ぷよぷよ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	ぽっぷるメイル
+:	:	:	:	:	:	:	DISK_DAT.FDI
+:	:	:	:	:	:	:	DISK_OP.FDI
+:	:	:	:	:	:	:	DISK_PRG.FDI
+:	:	:	:	:	:	ぽにおん
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	アークス３
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	アドバンスド ロードモナーク
+:	:	:	:	:	:	:	Disk_sys.fdi
+:	:	:	:	:	:	:	USER.FDI
+:	:	:	:	:	:	アマランス
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	アマランス２
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	アルシャーク
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	:	Disk_usr.fdi
+:	:	:	:	:	:	:	Disk_エンディング.fdi
+:	:	:	:	:	:	:	Disk_オープニング.fdi
+:	:	:	:	:	:	:	Disk_データ.fdi
+:	:	:	:	:	:	:	Disk_ビジュアル.fdi
+:	:	:	:	:	:	アルバリーク冒険紀
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_OP.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	イース３
+:	:	:	:	:	:	:	DISK_DAT.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	ウイニング ポスト
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	ウイニング ポスト パワーアップキット
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	エアーコンバット３
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	エメラルド ドラゴン
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_OP.FDI
+:	:	:	:	:	:	エルムナイト
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_10.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	:	:	DISK_5.FDI
+:	:	:	:	:	:	:	DISK_6.FDI
+:	:	:	:	:	:	:	DISK_7.FDI
+:	:	:	:	:	:	:	DISK_8.FDI
+:	:	:	:	:	:	:	DISK_9.FDI
+:	:	:	:	:	:	クイズ 知略の制覇
+:	:	:	:	:	:	:	Disk_a.FDI
+:	:	:	:	:	:	:	Disk_b.FDI
+:	:	:	:	:	:	クラッシック ロード
+:	:	:	:	:	:	:	DISK_DAT.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	クラッシック ロード２
+:	:	:	:	:	:	:	DISK_PRG.FDI
+:	:	:	:	:	:	:	DISK_SAV.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	クラッシック ロード３
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_program.fdi
+:	:	:	:	:	:	:	disk_save.fdi
+:	:	:	:	:	:	:	disk_sys.fdi
+:	:	:	:	:	:	グランド・プリックス・サーカス
+:	:	:	:	:	:	:	DISK_CS1.FDI
+:	:	:	:	:	:	:	DISK_CS2.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	コラムス
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	サイレント メビウス
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	:	:	DISK_5.FDI
+:	:	:	:	:	:	:	DISK_6.FDI
+:	:	:	:	:	:	:	DISK_7.FDI
+:	:	:	:	:	:	シュヴァルツシルト２
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	シュヴァルツシルト３
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	Disk_c.fdi
+:	:	:	:	:	:	ジンギスカン
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	スーパー野球道９３
+:	:	:	:	:	:	:	DISK_GM1.FDI
+:	:	:	:	:	:	:	DISK_GM2.FDI
+:	:	:	:	:	:	:	DISK_MK1.FDI
+:	:	:	:	:	:	:	DISK_MK2.FDI
+:	:	:	:	:	:	スザク
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	スレイヤーズ
+:	:	:	:	:	:	:	SLAYERS.TXT
+:	:	:	:	:	:	:	SLAYER_A.FDI
+:	:	:	:	:	:	:	SLAYER_B.FDI
+:	:	:	:	:	:	:	SLAYER_C.FDI
+:	:	:	:	:	:	:	SLAYER_D.FDI
+:	:	:	:	:	:	:	SLAYER_E.FDI
+:	:	:	:	:	:	:	SLAYER_F.FDI
+:	:	:	:	:	:	ゾーク Ⅰ
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	ダイナソア
+:	:	:	:	:	:	:	DISK_PRG.FDI
+:	:	:	:	:	:	:	DISK_S1.FDI
+:	:	:	:	:	:	:	DISK_S2.FDI
+:	:	:	:	:	:	:	注意.txt
+:	:	:	:	:	:	ダンジョン・マスター
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	テトリス
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	テラムバラム
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	ディガンの魔石
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	デルファイの神託
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	トップマネージメント２
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	ドラッケン
+:	:	:	:	:	:	:	DISK_PRG.FDI
+:	:	:	:	:	:	バランス　オブ パワー
+:	:	:	:	:	:	:	DISK_DAT.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	パズルトピア
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	パチンコ
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	パワードール
+:	:	:	:	:	:	:	Disk_sys(1).fdi
+:	:	:	:	:	:	:	disk_ブリーフィング.fdi
+:	:	:	:	:	:	:	disk_ミッション(2).fdi
+:	:	:	:	:	:	:	disk_リザルト.fdi
+:	:	:	:	:	:	ファーランド ストーリー
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	ブライ 下巻
+:	:	:	:	:	:	:	DISK_OP.FDI
+:	:	:	:	:	:	:	DISK_USR.FDI
+:	:	:	:	:	:	:	Disk_1.fdi
+:	:	:	:	:	:	:	Disk_2.fdi
+:	:	:	:	:	:	:	Disk_3.fdi
+:	:	:	:	:	:	ブライ 上巻
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_OP.FDI
+:	:	:	:	:	:	ブランディッシュ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	ブランディッシュ２
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	DISK_MPG.FDI
+:	:	:	:	:	:	:	DISK_OP.FDI
+:	:	:	:	:	:	:	DISK_PRG.FDI
+:	:	:	:	:	:	ブランディッシュ３
+:	:	:	:	:	:	:	DISK_0.FDI
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	:	:	DISK_5.FDI
+:	:	:	:	:	:	:	DISK_6.FDI
+:	:	:	:	:	:	:	DISK_7.FDI
+:	:	:	:	:	:	:	DISK_8.FDI
+:	:	:	:	:	:	プリンス オブ ペルシャ
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	プリンセス ミネルバ
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	:	シナリオ1.fdi
+:	:	:	:	:	:	:	シナリオ2.fdi
+:	:	:	:	:	:	:	シナリオ3.fdi
+:	:	:	:	:	:	:	ビジュアル1.fdi
+:	:	:	:	:	:	:	ビジュアル2.fdi
+:	:	:	:	:	:	プリンセスメーカー
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	:	DISK_G.FDI
+:	:	:	:	:	:	プリンセスメーカー２
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	:	DISK_G.FDI
+:	:	:	:	:	:	:	DISK_H.FDI
+:	:	:	:	:	:	:	DISK_I.FDI
+:	:	:	:	:	:	:	DISK_J.FDI
+:	:	:	:	:	:	:	DISK_K.FDI
+:	:	:	:	:	:	:	DISK_L.FDI
+:	:	:	:	:	:	ポピュラス
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	マイホーム
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	:	:	DISK_5.FDI
+:	:	:	:	:	:	:	Disk_save.fdi
+:	:	:	:	:	:	ミスター・プロ野球
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_D1.FDI
+:	:	:	:	:	:	:	DISK_D2.FDI
+:	:	:	:	:	:	モンスターメーカー
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	ラスト ハルマゲドン
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	ルーンワース２
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	ルーンワース３
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	レジオナルパワー２
+:	:	:	:	:	:	:	DISK_D1.FDI
+:	:	:	:	:	:	:	DISK_D2.FDI
+:	:	:	:	:	:	:	DISK_OP.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	レジオナルパワー３
+:	:	:	:	:	:	:	disk_1.fdi
+:	:	:	:	:	:	:	disk_2.fdi
+:	:	:	:	:	:	:	disk_sys.fdi
+:	:	:	:	:	:	:	disk_オープニング.fdi
+:	:	:	:	:	:	レミングス
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	ロードス島戦記
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	Disk_Usr.FDI
+:	:	:	:	:	:	ロードス島戦記２
+:	:	:	:	:	:	:	DISK_ADV.FDI
+:	:	:	:	:	:	:	DISK_MSY.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	:	Disk_Usr.FDI
+:	:	:	:	:	:	ロードモナーク
+:	:	:	:	:	:	:	DISK_PRG.FDI
+:	:	:	:	:	:	ログイン ポリゴンｼｭｰﾃｨﾝｸﾞ
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	ログイン付属
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	ロボクラッシュ２
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	ロボクラッシュ９８
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	ヴァリス２
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	注意.txt
+:	:	:	:	:	:	ヴェイン ドリーム
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_OP.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	ヴェイン ドリーム２
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_OP.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	伊忍道
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	永世名人Ⅲ
+:	:	:	:	:	:	:	SYS_DISK.FDI
+:	:	:	:	:	:	英雄伝説Ⅱ
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	DISK_MST.FDI
+:	:	:	:	:	:	:	DISK_PRG.FDI
+:	:	:	:	:	:	:	注意.txt
+:	:	:	:	:	:	怨霊戦記
+:	:	:	:	:	:	:	disk1.fdi
+:	:	:	:	:	:	:	disk2.fdi
+:	:	:	:	:	:	:	説明書.txt
+:	:	:	:	:	:	黄金の羅針盤
+:	:	:	:	:	:	:	DISK_DAT.FDI
+:	:	:	:	:	:	:	DISK_GM.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	我竜伝 秘伝の書
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	関ヶ原
+:	:	:	:	:	:	:	DISK_DAT.FDI
+:	:	:	:	:	:	:	DISK_GM.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	機甲師団
+:	:	:	:	:	:	:	DISK_DAT.FDI
+:	:	:	:	:	:	:	DISK_GM.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	起動戦士ガンダム A Year Of War
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	OPENING.FDI
+:	:	:	:	:	:	起動戦士ガンダム ＡＤＶＡＮＣＥＤ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	起動戦士ガンダム９２
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	起動戦士ガンダム９３
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	幻影都市
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	:	:	DISK_5.FDI
+:	:	:	:	:	:	:	DISK_6.FDI
+:	:	:	:	:	:	:	DISK_7.FDI
+:	:	:	:	:	:	三国志 天舞
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	:	三国志２
+:	:	:	:	:	:	:	DISK_DAT.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	三国志３
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	三国志４
+:	:	:	:	:	:	:	DISK_DAT.FDI
+:	:	:	:	:	:	:	DISK_ED.FDI
+:	:	:	:	:	:	:	DISK_GM.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	三国志４ パワーアップキット
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	斬２
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	思考錯誤
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	上海
+:	:	:	:	:	:	:	DISK_SYS.fdi
+:	:	:	:	:	:	信長の野望 郡勇伝
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	信長の野望 天翔紀
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	:	:	DISK_5.FDI
+:	:	:	:	:	:	:	DISK_6.FDI
+:	:	:	:	:	:	信長の野望 覇王伝
+:	:	:	:	:	:	:	DATA.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	:	ENDING.FDI
+:	:	:	:	:	:	:	SINARIO.FDI
+:	:	:	:	:	:	信長の野望 風雲録
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	新宿物語
+:	:	:	:	:	:	:	DISK_1.fdi
+:	:	:	:	:	:	:	DISK_2.fdi
+:	:	:	:	:	:	:	DISK_3.fdi
+:	:	:	:	:	:	:	DISK_4.fdi
+:	:	:	:	:	:	卒業
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	卒業２
+:	:	:	:	:	:	:	disk_a.fdi
+:	:	:	:	:	:	:	disk_b.fdi
+:	:	:	:	:	:	:	disk_c.fdi
+:	:	:	:	:	:	:	disk_d.fdi
+:	:	:	:	:	:	:	disk_e.fdi
+:	:	:	:	:	:	:	disk_f.fdi
+:	:	:	:	:	:	:	disk_g.fdi
+:	:	:	:	:	:	:	disk_h.fdi
+:	:	:	:	:	:	太閤立志伝
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	大戦略 Ⅱ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	大戦略 Ⅳ
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_SNR.FDI
+:	:	:	:	:	:	:	DISK_USR.FDI
+:	:	:	:	:	:	誕生
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	:	DISK_G.FDI
+:	:	:	:	:	:	:	DISK_H.FDI
+:	:	:	:	:	:	超時空要塞 マクロス ＬＯＶＥ ＳＴＯＲＩＥＳ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	超時空要塞 マクロス ＲＥＭＥＭＢＥＲ ＭＥ
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	:	超時空要塞 マクロス ＳＣＡＬ ＬＥＡＤＥＲ
+:	:	:	:	:	:	:	MAC2.TXT
+:	:	:	:	:	:	:	Macross 2 - Skull Leader Disk 1.fdi
+:	:	:	:	:	:	:	Macross 2 - Skull Leader Disk 2.fdi
+:	:	:	:	:	:	:	Macross 2 - Skull Leader Disk 3.fdi
+:	:	:	:	:	:	:	Macross 2 - Skull Leader Disk 4.fdi
+:	:	:	:	:	:	:	Macross 2 - Skull Leader Disk 5.fdi
+:	:	:	:	:	:	沈黙の艦隊
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_DAT.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	提督の決断２
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_END.FDI
+:	:	:	:	:	:	:	DISK_OP.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	天下御免
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	:	DISK_USR.FDI
+:	:	:	:	:	:	:	DISK_VSL.FDI
+:	:	:	:	:	:	天下統一Ⅱ
+:	:	:	:	:	:	:	tenka2_1.FDI
+:	:	:	:	:	:	:	tenka2_2.FDI
+:	:	:	:	:	:	天下統一Ⅱ パワーアップセット
+:	:	:	:	:	:	:	tenka2P_1.FDI
+:	:	:	:	:	:	:	tenka2P_2.FDI
+:	:	:	:	:	:	日立新人物語 ＳＩＤＥ ＳＴＯＲＹ
+:	:	:	:	:	:	:	KANRI.EXE
+:	:	:	:	:	:	緋王伝
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	魔導物語
+:	:	:	:	:	:	:	SYSTEM1.FDI
+:	:	:	:	:	:	:	SYSTEM2.FDI
+:	:	:	:	:	:	:	SYSTEM3.FDI
+:	:	:	:	:	:	:	サンプリング１.fdi
+:	:	:	:	:	:	:	サンプリング２.fdi
+:	:	:	:	:	:	:	サンプリング３.fdi
+:	:	:	:	:	:	魔道物語 １―２―３ ＡＲＳ
+:	:	:	:	:	:	:	DISK_D_A.FDI
+:	:	:	:	:	:	:	DISK_D_R.FDI
+:	:	:	:	:	:	:	DISK_D_S.FDI
+:	:	:	:	:	:	:	DISK_G_A.FDI
+:	:	:	:	:	:	:	DISK_G_R.FDI
+:	:	:	:	:	:	:	DISK_G_S.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	麻雀悟空
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	遥かなるオーガスタ
+:	:	:	:	:	:	:	DISK_DAT.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	遥かなるオーガスタ Ｔ＆Ｅ ＳＥＬＥＣＴＩＯＮ ゴルフ
+:	:	:	:	:	:	:	DISK_SC1.FDI
+:	:	:	:	:	:	:	DISK_SC2.FDI
+:	:	:	:	:	:	乱馬１／２
+:	:	:	:	:	:	:	RANMA.TXT
+:	:	:	:	:	:	:	RANMA_1.FDI
+:	:	:	:	:	:	:	RANMA_2.FDI
+:	:	:	:	:	:	:	RANMA_3.FDI
+:	:	:	:	:	:	:	RANMA_4.FDI
+:	:	:	:	:	:	:	RANMA_5.FDI
+:	:	:	:	:	:	:	RANMA_6.FDI
+:	:	:	:	:	:	:	RANMA_7.FDI
+:	:	:	:	:	:	:	RANMA_8.FDI
+:	:	:	:	:	:	零戦記
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	ツール
+:	:	:	:	:	POWER C.LZH
+:	:	:	:	:	ツール.txt
+:	:	:	:	:	_できない
+:	:	:	:	:	:	NOT_TOOL.TXT
+:	:	:	:	:	:	ツール_できない.LZH
+:	:	:	:	:	_デモ版
+:	:	:	:	:	:	FreeDOS(98) ディスクイメージ
+:	:	:	:	:	:	:	FD98.IMG
+:	:	:	:	:	:	:	README.TXT
+:	:	:	:	:	:	:	finito-web.com
+:	:	:	:	:	:	:	:	silphire
+:	:	:	:	:	:	:	:	:	freedos
+:	:	:	:	:	:	:	:	:	:	archive
+:	:	:	:	:	:	:	:	:	:	:	fd010507.lzh
+:	:	:	:	:	:	:	www.dosemu.org
+:	:	:	:	:	:	:	:	~bart
+:	:	:	:	:	:	:	:	:	ker2024c.zip
+:	:	:	:	:	:	ＰＣ９８ＢＸ デモンストレーション
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	ＡＣＴＯＲ ９８
+:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	ＣＤＶ－ＡＢ１６
+:	:	:	:	:	:	Disk_sys.fdi
+:	:	:	:	:	ＣＯＮＴＥＣ
+:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	ＤＩＧＴＡＬ_ＣＬＡＦＴ
+:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	DISK_UTY.FDI
+:	:	:	:	:	ＤＩＳＫ ＸⅡ
+:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	ＥＰＳＯＮ ＤＯＳ
+:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	DISK_DIC.FDI
+:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	ＦＯＮＴ ＷＡＶＥ Ｖ２.０
+:	:	:	:	:	:	01.fdi
+:	:	:	:	:	:	02.fdi
+:	:	:	:	:	:	03.fdi
+:	:	:	:	:	:	04.fdi
+:	:	:	:	:	:	05.fdi
+:	:	:	:	:	:	06.fdi
+:	:	:	:	:	:	07.fdi
+:	:	:	:	:	:	08.fdi
+:	:	:	:	:	:	09.fdi
+:	:	:	:	:	:	10.FDI
+:	:	:	:	:	:	11.FDI
+:	:	:	:	:	:	12.FDI
+:	:	:	:	:	ＧＲ－ＤＯＳ９８
+:	:	:	:	:	:	GR-DOS.HDM
+:	:	:	:	:	:	README.TXT
+:	:	:	:	:	:	gr960305.lzh
+:	:	:	:	:	:	grdoshdm.lzh
+:	:	:	:	:	ＧＲＤＯＳＨＤＭ
+:	:	:	:	:	:	GR-DOS.HDM
+:	:	:	:	:	:	README.TXT
+:	:	:	:	:	ＩＯ－１０ＳＴＤ
+:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	ＪＥＤＡＩ
+:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	ＫＩＤ９８
+:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	DISK_UTY.FDI
+:	:	:	:	:	ＬＡＮ ＭＡＮＡＧＥＲ
+:	:	:	:	:	:	1.fdi
+:	:	:	:	:	:	2.fdi
+:	:	:	:	:	:	3.fdi
+:	:	:	:	:	:	4.fdi
+:	:	:	:	:	:	5.fdi
+:	:	:	:	:	:	6.fdi
+:	:	:	:	:	:	pack.LZH
+:	:	:	:	:	ＭＡＳＭ Ｖ５．２
+:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	ＭＥＬ ＷＡＲＥ
+:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	DISK_WIN.FDI
+:	:	:	:	:	ＭＥＴ’Ｓ ＳＨＯＴ３
+:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	ＭＳ ＤＯＳ Ｖ２．１１
+:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	ＭＳ ＤＯＳ Ｖ３．３Ｂ
+:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	ＭＳ ＤＯＳ Ｖ３．３Ｄ
+:	:	:	:	:	:	disk_1.fdi
+:	:	:	:	:	:	disk_2.fdi
+:	:	:	:	:	:	disk_sys.fdi
+:	:	:	:	:	ＭＳ ＤＯＳ Ｖ５．０
+:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	UPDATE.FDI
+:	:	:	:	:	ＭＳ ＤＯＳ Ｖ６．２
+:	:	:	:	:	:	DISK_1.fdi
+:	:	:	:	:	:	DISK_2.fdi
+:	:	:	:	:	:	DISK_3.fdi
+:	:	:	:	:	:	DISK_4.fdi
+:	:	:	:	:	:	DISK_5.fdi
+:	:	:	:	:	:	DISK_6.fdi
+:	:	:	:	:	:	DISK_7.fdi
+:	:	:	:	:	:	DISK_8.fdi
+:	:	:	:	:	ＭＵＳＩＣ ＰＲＯ
+:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	Ｎ８８ ＢＡＳＩＣ (ＭＳ・ＤＯＳ版)
+:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	ＮＥＯ ＤＲＩＶＥ
+:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	ＱＵＩＣＫ Ｃ
+:	:	:	:	:	:	FONT.FDI
+:	:	:	:	:	:	LIB.FDI
+:	:	:	:	:	:	SETUP.FDI
+:	:	:	:	:	:	UTY.FDI
+:	:	:	:	:	ＴＵＲＢＯ Ｃ Ｖ２．０
+:	:	:	:	:	:	INCLUDE.FDI
+:	:	:	:	:	:	LIB.FDI
+:	:	:	:	:	:	SYSTEM.FDI
+:	:	:	:	:	ＴＵＲＢＯ Ｃ Ｖ２．１
+:	:	:	:	:	:	TC201.zip
+:	:	:	:	:	ＴＵＲＢＯ Ｃ＋＋ Ｖ１．０
+:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	ＴＵＲＢＯ ＤＥＢＵＧ＆ＴＯＯＬ
+:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	ＶＥＭ４８６
+:	:	:	:	:	:	VEM486N1.LZH
+:	:	:	:	:	ＶＺ ＥＤＩＴＯＲ  Ｖ１．５７Ａ
+:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	ＷＩＺＡＲＤ Ｖ３．０
+:	:	:	:	:	:	FILLER1.FDI
+:	:	:	:	:	:	FILLER2.FDI
+:	:	:	:	:	:	SYS_NEW.FDI
+:	:	:	:	:	:	SYS_OLD.FDI
+:	:	:	:	:	Ｗｉｎｄｏｗｓ Ｖ３．１
+:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	DISK_10.FDI
+:	:	:	:	:	:	DISK_11.FDI
+:	:	:	:	:	:	DISK_12.FDI
+:	:	:	:	:	:	DISK_13.FDI
+:	:	:	:	:	:	DISK_14.FDI
+:	:	:	:	:	:	DISK_15.FDI
+:	:	:	:	:	:	DISK_16.FDI
+:	:	:	:	:	:	DISK_17.FDI
+:	:	:	:	:	:	DISK_18.FDI
+:	:	:	:	:	:	DISK_19.FDI
+:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	DISK_20.FDI
+:	:	:	:	:	:	DISK_21.FDI
+:	:	:	:	:	:	DISK_22.FDI
+:	:	:	:	:	:	DISK_23.FDI
+:	:	:	:	:	:	DISK_24.FDI
+:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	:	DISK_5.FDI
+:	:	:	:	:	:	DISK_6.FDI
+:	:	:	:	:	:	DISK_7.FDI
+:	:	:	:	:	:	DISK_8.FDI
+:	:	:	:	:	:	DISK_9.FDI
+:	:	:	:	:	おっと アニメ君
+:	:	:	:	:	:	DISK_PRG.FDI
+:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	SAMPLE1.FDI
+:	:	:	:	:	:	SAMPLE2.FDI
+:	:	:	:	:	:	SAMPLE3.FDI
+:	:	:	:	:	アシストカルク Ｖ２.３
+:	:	:	:	:	:	DISK_DAT.FDI
+:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	アルゴリズム練習
+:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	セットアップ キューピット
+:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	ダ・ビンチ
+:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	バラード３
+:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	フリーツール
+:	:	:	:	:	:	UTY1.FDI
+:	:	:	:	:	:	UTY10.FDI
+:	:	:	:	:	:	UTY2.FDI
+:	:	:	:	:	:	UTY3.FDI
+:	:	:	:	:	:	UTY4.FDI
+:	:	:	:	:	:	UTY5.FDI
+:	:	:	:	:	:	UTY6.FDI
+:	:	:	:	:	:	UTY7.FDI
+:	:	:	:	:	:	UTY8.FDI
+:	:	:	:	:	:	UTY9.FDI
+:	:	:	:	:	ミュージック つくーる
+:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	メモリ セーバー
+:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	メモリ ブック
+:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	ロータス１２３ Ｖ２.２Ｊ
+:	:	:	:	:	:	SAMPLE.FDI
+:	:	:	:	:	:	SYSTEM.FDI
+:	:	:	:	:	:	UTY.FDI
+:	:	:	:	:	ロータス１２３ Ｖ２.４Ｊ
+:	:	:	:	:	:	123_HDD.lzh
+:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	一太郎 Ｖ５．０
+:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	DISK_10.FDI
+:	:	:	:	:	:	DISK_11.FDI
+:	:	:	:	:	:	DISK_12.FDI
+:	:	:	:	:	:	DISK_13.FDI
+:	:	:	:	:	:	DISK_14.FDI
+:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	:	DISK_5.FDI
+:	:	:	:	:	:	DISK_6.FDI
+:	:	:	:	:	:	DISK_7.FDI
+:	:	:	:	:	:	DISK_8.FDI
+:	:	:	:	:	:	DISK_9.FDI
+:	:	:	:	:	駅すぱーと
+:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	花子 Ｖ１.０
+:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	花子 Ｖ２.２
+:	:	:	:	:	:	FEP.FDI
+:	:	:	:	:	:	FONT22.FDI
+:	:	:	:	:	:	FONT24.FDI
+:	:	:	:	:	:	SYSTEM1.FDI
+:	:	:	:	:	:	SYSTEM2.FDI
+:	:	:	:	:	絵筆
+:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	FONT.FDI
+:	:	:	:	:	:	IRASUTO.FDI
+:	:	:	:	:	桐３
+:	:	:	:	:	:	Disk_1.fdi
+:	:	:	:	:	:	Disk_2.fdi
+:	:	:	:	:	:	シアター.fdi
+:	:	:	:	:	:	ドリル.fdi
+:	:	:	:	:	:	補助.fdi
+:	:	:	:	:	三四郎 Ｖｅｒ １.０
+:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	DISK_2.FDI
+:	:	:	:	:	:	DISK_3.FDI
+:	:	:	:	:	:	DISK_4.FDI
+:	:	:	:	:	:	Disk_5.fdi
+:	:	:	:	:	自己診断プログラム
+:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	販売管理
+:	:	:	:	:	:	DATA.FDI
+:	:	:	:	:	:	SYSTEM.FDI
+:	:	:	:	:	:	SYS_BACK.FDI
+:	:	:	:	:	:	TOOL_KIT.FDI
+:	:	:	:	:	:	UTY.FDI
+:	:	:	NEKO_Disk
+:	:	:	:	ゲーム
+:	:	:	:	:	１８禁
+:	:	:	:	:	:	_ＨＤＤ専用
+:	:	:	:	:	:	:	ブランマーカー２
+:	:	:	:	:	:	:	:	Disk_a.fdi
+:	:	:	:	:	:	:	:	Disk_b.fdi
+:	:	:	:	:	:	:	:	Disk_c.fdi
+:	:	:	:	:	:	:	:	Disk_d.fdi
+:	:	:	:	:	:	:	:	Disk_e.fdi
+:	:	:	:	:	:	:	:	Disk_f.fdi
+:	:	:	:	:	:	:	:	Disk_g.fdi
+:	:	:	:	:	:	:	:	Disk_h.fdi
+:	:	:	:	:	:	:	:	Disk_i.fdi
+:	:	:	:	:	:	:	:	Disk_j.fdi
+:	:	:	:	:	:	:	:	Disk_k.fdi
+:	:	:	:	:	:	:	:	Disk_l.fdi
+:	:	:	:	:	:	:	:	注意.txt
+:	:	:	:	:	:	ＡＭＢＩＶＡＬＥＮＺ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	:	DISK_G.FDI
+:	:	:	:	:	:	:	注意.txt
+:	:	:	:	:	:	ＮＵＴ ＢＥＲＲＹ
+:	:	:	:	:	:	:	DISK_A.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	:	DISK_C.FDI
+:	:	:	:	:	:	:	DISK_D.FDI
+:	:	:	:	:	:	:	DISK_E.FDI
+:	:	:	:	:	:	:	DISK_F.FDI
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	:	注意.txt
+:	:	:	:	:	:	キャンキャン バニー
+:	:	:	:	:	:	:	DISK_SYS.FDI
+:	:	:	:	:	:	:	注意.txt
+:	:	:	:	:	通常
+:	:	:	:	:	:	ＵＬＩＦＥ ＦＯＲＣＥ
+:	:	:	:	:	:	:	ulifeforce.d88
+:	:	:	:	:	:	沙羅曼蛇
+:	:	:	:	:	:	:	uramander.d88
+:	:	:	POOL
+:	:	:	:	MagicPolalamin.LZH
+:	:	:	:	ShootingHeart.LZH
+:	:	:	:	CD-SD Mini  汎用ドライバ for PC98
+:	:	:	:	:	mini06.lzh
+:	:	:	:	CONFIG & AUTOEXEC セレクタ for HSB
+:	:	:	:	:	hsbcas08.lzh
+:	:	:	:	DOS用telnetd
+:	:	:	:	:	TELNETD.ZIP
+:	:	:	:	FD for PC-98
+:	:	:	:	:	fd98_313.lzh
+:	:	:	:	:	miel258n.lzh
+:	:	:	:	FILMTN for PC-98グラフィック 2.47
+:	:	:	:	:	fm98g247.lzh
+:	:	:	:	PC8801SR以降エミュレータの部屋 for PC98
+:	:	:	:	:	DEBUG.DOC
+:	:	:	:	:	DEDIT.DOC
+:	:	:	:	:	DEDIT.EXE
+:	:	:	:	:	DISK.BIN
+:	:	:	:	:	DKCOPY.BIN
+:	:	:	:	:	DKCOPY.DOC
+:	:	:	:	:	DKCOPY.EXE
+:	:	:	:	:	FAQ.DOC
+:	:	:	:	:	FMT.DOC
+:	:	:	:	:	FMT.EXE
+:	:	:	:	:	GETJISHO.BIN
+:	:	:	:	:	GETJISHO.DOC
+:	:	:	:	:	GETJISHO.EXE
+:	:	:	:	:	GETROM.BIN
+:	:	:	:	:	GETROM.DOC
+:	:	:	:	:	GETROM.EXE
+:	:	:	:	:	GETROM_H.BIN
+:	:	:	:	:	HIS.DOC
+:	:	:	:	:	IPL2D.BIN
+:	:	:	:	:	IPL2HD.BIN
+:	:	:	:	:	MAKE_HD.DOC
+:	:	:	:	:	MAKE_HD.EXE
+:	:	:	:	:	P88SR.CFG
+:	:	:	:	:	P88SR.DOC
+:	:	:	:	:	P88SR.EXE
+:	:	:	:	:	PATCH.DOC
+:	:	:	:	:	PC88.LST
+:	:	:	:	:	README.DOC
+:	:	:	:	config.sys selector　
+:	:	:	:	:	cinit106.lzh
+:	:	:	:	t_yume
+:	:	:	:	:	CANBE.EXE
+:	:	:	:	:	Game.bat
+:	:	:	:	:	MAIN.EXE
+:	:	:	:	:	MAINL.EXE
+:	:	:	:	:	OP.EXE
+:	:	:	:	:	PMD.COM
+:	:	:	:	:	PMD86.COM
+:	:	:	:	:	PMDB2.COM
+:	:	:	:	:	TOUHOU.DAT
+:	:	:	:	:	YUME.CFG
+:	:	:	:	:	YUME.NEM
+:	:	:	:	:	ZUN.COM
+:	:	:	:	:	夢時空1.DAT
+:	:	:	:	:	夢時空2.DAT
+:	:	:	:	ＧＲ－ＤＯＳ フロッピーディスクイメージ
+:	:	:	:	:	grdoshdm.lzh
+:	:	:	:	:	grdoshdm.txt
+:	:	:	:	逆アセンブラ
+:	:	:	:	:	INSTALL.ASM
+:	:	:	:	:	INSTALL.EXE
+:	:	:	T98_Disk
+:	:	:	:	バックアップ.LZH
+:	:	:	:	ゲーム
+:	:	:	:	:	１８禁
+:	:	:	:	:	:	ＣＡＬ
+:	:	:	:	:	:	:	CAL_1.NFD
+:	:	:	:	:	:	:	CAL_2.NFD
+:	:	:	:	:	:	ＮＩＫＥ
+:	:	:	:	:	:	:	NIKE_1.NFD
+:	:	:	:	:	:	:	NIKE_2.NFD
+:	:	:	:	:	:	:	NIKE_3.NFD
+:	:	:	:	:	:	:	NIKE_4.NFD
+:	:	:	:	:	:	:	NIKE_IPL.NFD
+:	:	:	:	:	:	:	新しいフォルダ
+:	:	:	:	:	:	:	:	NIKE_1.NFD
+:	:	:	:	:	:	:	:	NIKE_2.NFD
+:	:	:	:	:	:	:	:	NIKE_3.NFD
+:	:	:	:	:	:	:	:	NIKE_4.NFD
+:	:	:	:	:	:	:	:	NIKE_IPL.NFD
+:	:	:	:	:	:	ＰＨＯＢＯＳ
+:	:	:	:	:	:	:	DISK_1.FDI
+:	:	:	:	:	:	:	DISK_B.FDI
+:	:	:	:	:	:	ＲＡＮＣＥ
+:	:	:	:	:	:	:	RANCE_A.NFD
+:	:	:	:	:	:	:	RANCE_B.NFD
+:	:	:	:	:	:	:	RANCE_C.NFD
+:	:	:	:	:	:	:	RANCE_D.NFD
+:	:	:	:	:	:	ＲＡＮＣＥ２
+:	:	:	:	:	:	:	RANCE2_A.NFD
+:	:	:	:	:	:	:	RANCE2_B.NFD
+:	:	:	:	:	:	:	RANCE2_C.NFD
+:	:	:	:	:	:	:	RANCE2_D.NFD
+:	:	:	:	:	:	:	RANCE2_E.NFD
+:	:	:	:	:	:	:	RANCE2_F.NFD
+:	:	:	:	:	:	ＲＡＮＣＥ３
+:	:	:	:	:	:	:	RANCE3_A.NFD
+:	:	:	:	:	:	:	RANCE3_B.NFD
+:	:	:	:	:	:	:	RANCE3_C.NFD
+:	:	:	:	:	:	:	RANCE3_D.NFD
+:	:	:	:	:	:	:	RANCE3_E.NFD
+:	:	:	:	:	:	:	RANCE3_F.NFD
+:	:	:	:	:	:	Ｘ’ＮＡ
+:	:	:	:	:	:	:	XNA_A.NFD
+:	:	:	:	:	:	:	XNA_B.NFD
+:	:	:	:	:	:	:	XNA_C.NFD
+:	:	:	:	:	:	ギゼ
+:	:	:	:	:	:	:	GIZE_A.NFD
+:	:	:	:	:	:	:	GIZE_B.NFD
+:	:	:	:	:	:	グラムキャッツ
+:	:	:	:	:	:	:	GR_CAT_1.NFD
+:	:	:	:	:	:	:	GR_CAT_2.NFD
+:	:	:	:	:	:	デリンジャー
+:	:	:	:	:	:	:	DERINJ_A.NFD
+:	:	:	:	:	:	:	DERINJ_B.NFD
+:	:	:	:	:	:	ポッキー
+:	:	:	:	:	:	:	POKKI_1.NFD
+:	:	:	:	:	:	:	POKKI_2.NFD
+:	:	:	:	:	:	私をゴルフに連れてって
+:	:	:	:	:	:	:	MYGOLF_A.NFD
+:	:	:	:	:	:	:	MYGOLF_B.NFD
+:	:	:	:	:	:	:	MYGOLF_C.NFD
+:	:	:	:	:	:	人形使い
+:	:	:	:	:	:	:	DOLL_1.NFD
+:	:	:	:	:	:	:	DOLL_2.NFD
+:	:	:	:	:	:	:	DOLL_PRG.NFD
+:	:	:	:	:	通常
+:	:	:	:	:	:	Ｄ’
+:	:	:	:	:	:	:	D_DASH.NFD
+:	:	:	:	:	:	ＹＳ２
+:	:	:	:	:	:	:	YS2_PRG.NFD
+:	:	:	:	:	:	:	YS2_SI.NFD
+:	:	:	:	:	:	ウェザードリィ５
+:	:	:	:	:	:	:	WIZ5_SYS.NFD
+:	:	:	:	:	:	ソーサリアン
+:	:	:	:	:	:	:	SOSA_1.NFD
+:	:	:	:	:	:	:	SOSA_2.NFD
+:	:	:	:	:	:	:	SOSA_3.NFD
+:	:	:	:	:	:	:	SOSA_SYS.NFD
+:	:	:	:	:	:	:	SOSA_USR.NFD
+:	:	:	:	:	:	ドラゴンスレイヤー４
+:	:	:	:	:	:	:	DRS4_EV.NFD
+:	:	:	:	:	:	:	DRS4_PRG.NFD
+:	:	:	:	:	:	:	DRS4_SR.NFD
+:	:	:	:	ツール
+:	:	:	:	:	_できない
+:	:	:	:	:	:	ベビーメーカー
+:	:	:	:	:	:	:	BABY_1.NFD
+:	:	:	:	:	:	:	BABY_2.NFD
+:	:	:	:	:	:	:	BABY_3.NFD
+:	:	:	:	:	:	:	BABY_4.NFD
+:	:	:	:	:	:	:	BABY_5.NFD
+:	:	:	:	:	ＣＯＰＹ ＡＩＤ
+:	:	:	:	:	:	COPYAID1.NFD
+:	:	:	:	:	:	COPYAID2.NFD
+:	:	:	:	:	ＭＵＳＩＵＭ４
+:	:	:	:	:	:	MUSIUM41.NFD
+:	:	:	:	:	:	MUSIUM42.NFD
+:	:	:	:	:	ＳＩＰ
+:	:	:	:	:	:	SIP223.NFD
+:	:	:	:	:	:	SIP227.NFD
+:	:	:	:	:	:	SIP302.NFD
+:	:	:	:	:	ファイルマスター２
+:	:	:	:	:	:	FILEM2F1.NFD
+:	:	:	:	:	:	FILEM2F2.NFD
+:	:	:	:	:	:	FILEM2_S.NFD
+:	:	:	:	:	忍者３
+:	:	:	:	:	:	NINJA3.NFD
+:	:	TOOLS
+:	:	:	Avtc
+:	:	:	:	AVTCONV.CFG
+:	:	:	:	AVTCONV.EXE
+:	:	:	:	AVTCONV.TXT
+:	:	:	:	HDIEXP.EXE
+:	:	:	:	MAKEHDD.TXT
+:	:	:	:	QuickStart.txt
+:	:	:	DISK_IMAGE
+:	:	:	:	Disk_Image.exe
+:	:	:	:	README.TXT
+:	:	:	DiskExplorer
+:	:	:	:	VMware.txt
+:	:	:	:	editdisk.cnt
+:	:	:	:	editdisk.exe
+:	:	:	:	editdisk.hlp
+:	:	:	:	editdisk.ini
+:	:	:	:	readme.txt
+:	:	:	:	types.ini
+:	:	:	:	lzh
+:	:	:	:	:	EDITD161.LZH
+:	:	:	:	:	EDITD164.LZH
+:	:	:	:	:	editd152.lzh
+:	:	:	:	:	editd156.lzh
+:	:	:	:	:	editd159.lzh
+:	:	:	:	:	editd165.lzh
+:	:	:	EGC MENU
+:	:	:	:	EGC078K5.LZH
+:	:	:	ENV
+:	:	:	:	DSPLNAVI.LZH
+:	:	:	:	VEMENV.LZH
+:	:	:	:	VMMENV.LZH
+:	:	:	:	XM2ENV.LZH
+:	:	:	:	XMZENV.LZH
+:	:	:	Fminit16
+:	:	:	:	FMINIT16.EXE
+:	:	:	:	FMINIT16.TXT
+:	:	:	FontMaker98_110
+:	:	:	:	Font Maker98.exe
+:	:	:	:	Font Maker98.html
+:	:	:	:	Font Maker98 Graphics
+:	:	:	:	:	Font Maker98.GIF
+:	:	:	:	:	Message.gif
+:	:	:	:	:	font.gif
+:	:	:	OPMDRV6A
+:	:	:	:	OPMDFUNC.TXT
+:	:	:	:	OPMDRV.COM
+:	:	:	:	OPMDRV.TXT
+:	:	:	PC98 486換装機でDOS6.2インストールのCPU誤判定を回避
+:	:	:	:	nise386.lzh
+:	:	:	PC98 TOOLS
+:	:	:	:	ＦＤを圧縮書庫ファイル化して保管するソフト
+:	:	:	:	:	eel0010.lzh
+:	:	:	:	ＦＤを検査・修復するソフト。壊れたディスクが復活！・・・するかも
+:	:	:	:	:	fscan410.lzh
+:	:	:	:	ＦＤを初期化するソフト。１．７ＭＢフォーマット対応。
+:	:	:	:	:	afmt210.lzh
+:	:	:	:	ＦＤを複写するソフト。変なフォーマットにも対応
+:	:	:	:	:	adcpi610.lzh
+:	:	:	:	ＶＦＡＴ対応ファイラ＋ＦＤを圧縮書庫ファイル化して保管するソフト
+:	:	:	:	:	edbs4800.lzh
+:	:	:	Vem486
+:	:	:	:	CACHE.DOC
+:	:	:	:	SETTEI.TXT
+:	:	:	:	TROUBLE.TXT
+:	:	:	:	VEM486.DOC
+:	:	:	:	VEM486.EXE
+:	:	:	:	VEM486.HED
+:	:	:	:	VEMEMM.SYS
+:	:	:	:	VEMHSB.SYS
+:	:	:	:	VEMRSM.SYS
+:	:	:	:	VEM486
+:	:	:	:	:	AUTOEXEC.BAT
+:	:	:	:	:	CACHE.DOC
+:	:	:	:	:	CONFIG.SYS
+:	:	:	:	:	SETTEI.TXT
+:	:	:	:	:	TROUBLE.TXT
+:	:	:	:	:	VEM486.DOC
+:	:	:	Vf101a
+:	:	:	:	BITMAP.H
+:	:	:	:	HED.TXT
+:	:	:	:	MANUAL.TXT
+:	:	:	:	VFONT.C
+:	:	:	:	VFONT.EXE
+:	:	:	Vfic
+:	:	:	:	exbkd.vex
+:	:	:	:	exd88.vex
+:	:	:	:	exdcu.vex
+:	:	:	:	exdim.vex
+:	:	:	:	exfdd.vex
+:	:	:	:	exfdi.vex
+:	:	:	:	exfil.vex
+:	:	:	:	exmhl.vex
+:	:	:	:	exnfd.vex
+:	:	:	:	extfd.vex
+:	:	:	:	exvfd.vex
+:	:	:	:	exxdf.vex
+:	:	:	:	history.txt
+:	:	:	:	history_e.txt
+:	:	:	:	inbkd.vin
+:	:	:	:	ind88.vin
+:	:	:	:	indbs.vin
+:	:	:	:	indcu.vin
+:	:	:	:	indfc.vin
+:	:	:	:	indim.vin
+:	:	:	:	indip.vin
+:	:	:	:	infdd.vin
+:	:	:	:	infdi.vin
+:	:	:	:	infim.vin
+:	:	:	:	infix.vin
+:	:	:	:	inmhl.vin
+:	:	:	:	innfd.vin
+:	:	:	:	inprs.vin
+:	:	:	:	inrfd.vin
+:	:	:	:	inslf.vin
+:	:	:	:	instd.vin
+:	:	:	:	invfd.vin
+:	:	:	:	invfl.vin
+:	:	:	:	plugin.txt
+:	:	:	:	plugin_e.txt
+:	:	:	:	readme.txt
+:	:	:	:	readme_e.txt
+:	:	:	:	vfic.exe
+:	:	:	:	vfic.txt
+:	:	:	:	vfic_e.txt
+:	:	:	:	LZH
+:	:	:	:	:	VF000914.ZIP
+:	:	:	:	:	vf010621.zip
+:	:	:	:	:	vf011010.zip
+:	:	:	dspl113
+:	:	:	:	!
+:	:	:	:	DISPELL.EXE
+:	:	:	:	DISPELL.FIN
+:	:	:	ＭＥＭＢＡＴ
+:	:	:	:	MEMBAT02.LZH
+:	:	:	ディスクイメージ関連
+:	:	:	:	D88XD103.LZH
+:	:	:	:	DDISK05.LZH
+:	:	:	:	MFD091F.EXE
+:	:	:	:	RWFD011.LZH
+:	:	:	:	VFLW160.LZH
+:	:	:	:	winima50j.zip
+:	:	:	:	D88XD103
+:	:	:	:	:	d88toxdf.exe
+:	:	:	:	:	d88toxdf.txt
+:	:	:	:	DDISK05
+:	:	:	:	:	DDISK.HLP
+:	:	:	:	:	DDisk.exe
+:	:	:	:	:	ReadMe.txt
+:	:	:	:	RWFD011
+:	:	:	:	:	RWFD.EXE
+:	:	:	:	:	RWFD.TXT
+:	:	:	:	:	SRC.LZH
+:	:	:	:	VFLW160
+:	:	:	:	:	VFLW.DOC
+:	:	:	:	:	VFLW.EXE
+:	:	:	:	:	VFLW.INI
+:	:	:	:	mfd091f
+:	:	:	:	:	MFC42.DLL
+:	:	:	:	:	MSVCRT.DLL
+:	:	:	:	:	mfd091f.txt
+:	:	:	:	:	motofd.exe
+:	:	:	:	winima50j
+:	:	:	:	:	FDREAD.EXE
+:	:	:	:	:	FILE_ID.DIZ
+:	:	:	:	:	ORDER.URL
+:	:	:	:	:	README.TXT
+:	:	:	:	:	WIM1632S.DLL
+:	:	:	:	:	WIM16T95.DLL
+:	:	:	:	:	WIM32T95.DLL
+:	:	:	:	:	WINIMAGE.EXE
+:	:	:	:	:	WINIMAJP.T32
+:	:	:	:	:	WINIMAUS.CNT
+:	:	:	:	:	WINIMAUS.HLP
+:	:	:	:	:	ご注文書.txt
+:	:	:	:	:	WINDOWS
+:	:	:	:	:	:	ﾃﾞｽｸﾄｯﾌﾟ
+:	:	:	:	:	:	:	お読み下さい.txt
+:	:	:	環境作成支援ツール
+:	:	:	:	MSDENV.LZH
+:	:	:	凍結
+:	:	:	:	P100B3.ZIP
+:	:	情報
+:	:	:	CG Hacks
+:	:	:	:	CanCanBunny5Extra.zip
+:	:	:	:	HoshiNoSunaMonogatari3.zip
+:	:	:	:	Isaku.zip
+:	:	:	:	Kakyusei.zip
+:	:	:	:	LoveEscalator.zip
+:	:	:	:	pc-alice.zip
+:	:	:	PC-9821ハードディスクIPL組み込みプログラム作成支援ソフト
+:	:	:	:	iplware.asm
+:	:	:	:	新規ﾃｷｽﾄ文書.txt
+:	:	:	PC98 ホットキー情報
+:	:	:	:	新規ﾃｷｽﾄ文書.txt
+:	:	:	PC98_FD
+:	:	:	:	5inch.htm
+:	:	:	:	5inch.files
+:	:	:	:	:	5inch.10.jpg
+:	:	:	:	:	5inch.11.jpg
+:	:	:	:	:	5inch.12.jpg
+:	:	:	:	:	5inch.13.jpg
+:	:	:	:	:	5inch.14.jpg
+:	:	:	:	:	5inch.15.jpg
+:	:	:	:	:	5inch.16.jpg
+:	:	:	:	:	5inch.17.jpg
+:	:	:	:	:	5inch.18.jpg
+:	:	:	:	:	5inch.19.jpg
+:	:	:	:	:	5inch.20.jpg
+:	:	:	:	:	5inch.21.jpg
+:	:	:	:	:	5inch.22.jpg
+:	:	:	:	:	5inch.9.jpg

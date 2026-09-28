@@ -1,0 +1,54 @@
+[EMU][NDS][ROM]ニンテンドーDS日本語ロム(0001-0137)(no-intro)(rr+3%).rar
+890,911,586
+bf97e184171a6a2beb8172f865cdf93a・e2cf73296eeb5879155c1317b4cb9d9bc4bdb55b
+
+:	0001 - Electroplankton (J).zip
+:	0007 - Puyo Puyo Fever (J) (M2).zip
+:	0009 - Space Invaders DS (J).zip
+:	0010 - Zunou ni Asekaku Game Series! Vol. 1 - Cool 104 Joker & Setline (J).zip
+:	0011 - GuruGuru Nagetto (J).zip
+:	0015 - Catch! Touch! Yoshi! (J).zip
+:	0016 - Meteos (J).zip
+:	0020 - Chokkan Hitofude (J).zip
+:	0025 - Super Mario 64 DS (J).zip
+:	0027 - Mr. Driller - Drill Spirits (J).zip
+:	0032 - Bomberman (J).zip
+:	0033 - Kenshuui Tendo Dokuta (J).zip
+:	0035 - Touch! Kirby (J).zip
+:	0036 - Daigasso! Band-Brothers (J).zip
+:	0039 - Another Code - 2tsu no Kioku (J).zip
+:	0040 - Egg Monster Hero (J).zip
+:	0042 - Nintendogs - Chihuahua & Friends (J).zip
+:	0044 - Tennis no Ouji-Sama 2005 - Crystal Drive (J).zip
+:	0046 - Yakuman DS (J).zip
+:	0053 - Devilish - Ball Bounder (J).zip
+:	0057 - Pokemon Dash (J).zip
+:	0058 - Naruto - Saikyou Ninja Daikesshuu 3 for DS (J).zip
+:	0067 - Touhoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center Kawashima Ryuuta Kyouju Kanshuu - Nou wo Kitaeru Otona no DS Training (J).zip
+:	0068 - Nintendogs - Shiba & Friends (J).zip
+:	0069 - Zoo Keeper (J).zip
+:	0070 - Famicom Wars DS (J).zip
+:	0073 - Yawaraka Atama Juku (J).zip
+:	0074 - Ganbare Goemon - Toukai Douchuu Ooedo Tengurigaeshi no Maki (J).zip
+:	0075 - Nintendogs - Dachshund & Friends (J).zip
+:	0077 - Sawaru - Made in Wario (J).zip
+:	0078 - Kimi no Tame Nara Shineru (J) (M2).zip
+:	0081 - Naruto RPG 2 - Chidori vs. Rasengan (J).zip
+:	0083 - Osu! Tatakae! Ouendan (J).zip
+:	0085 - Jump Super Stars (J).zip
+:	0092 - Lunar Genesis (J).zip
+:	0093 - Hagane no Renkinjutsushi - Dual Sympathy (J).zip
+:	0094 - Akumajou Dracula - Aoitsuki no Juujika (J) (v1.1).zip
+:	0096 - DS Rakubiki Jiten (J).zip
+:	0097 - Pac'n Roll (J).zip
+:	0098 - SD Gundam G-Generation DS (J).zip
+:	0099 - Rockman EXE 5 DS - Twin Leaders (J).zip
+:	0100 - Bokujou Monogatari - Colobockle Station (J) (v1.2).zip
+:	0101 - Survival Kids - Lost in Blue (J).zip
+:	0104 - Mahjong Taikai (J).zip
+:	0117 - Atarimix - Happy 10 Games (J).zip
+:	0125 - Chou Shittou Caduceus (J).zip
+:	0126 - Yu-Gi-Oh! Duel Monsters - Nightmare Troubadour (J).zip
+:	0132 - Power Pocket Koushien (J).zip
+:	0136 - Super Princess Peach (J).zip
+:	0137 - Pokemon Torouze (J).zip

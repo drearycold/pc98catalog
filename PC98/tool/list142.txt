@@ -1,0 +1,844 @@
+(ROM) NEC PC98xx - FDI 839Games (TOSEC 0.22) (rr5%).rar
+584,150,369
+de600bddafb3100632332b0465b7885eÅE6e46efebe4a6eaf327d890d94f39339782352a8c
+
+:	NEC PC98xx - FDIhave.txt
+:	NEC PC98xx - FDI
+:	:	2 Shot Diary (1994)(Mink)(Disk 01 of 13)(System Disk)[Req Install].fdi
+:	:	2 Shot Diary (1994)(Mink)(Disk 01 of 13)(System Disk)[a][Req Install].fdi
+:	:	2 Shot Diary (1994)(Mink)(Disk 02 of 13)(Disk A)[Req Install].fdi
+:	:	2 Shot Diary (1994)(Mink)(Disk 03 of 13)(Disk B)[Req Install].fdi
+:	:	2 Shot Diary (1994)(Mink)(Disk 04 of 13)(Disk C)[Req Install].fdi
+:	:	2 Shot Diary (1994)(Mink)(Disk 05 of 13)(Disk D)[Req Install].fdi
+:	:	2 Shot Diary (1994)(Mink)(Disk 06 of 13)(Disk E)[Req Install].fdi
+:	:	2 Shot Diary (1994)(Mink)(Disk 07 of 13)(Disk F)[Req Install].fdi
+:	:	2 Shot Diary (1994)(Mink)(Disk 08 of 13)(Disk G)[Req Install].fdi
+:	:	2 Shot Diary (1994)(Mink)(Disk 09 of 13)(Disk H)[Req Install].fdi
+:	:	2 Shot Diary (1994)(Mink)(Disk 10 of 13)(Disk I)[Req Install].fdi
+:	:	2 Shot Diary (1994)(Mink)(Disk 11 of 13)(Disk J)[Req Install].fdi
+:	:	2 Shot Diary (1994)(Mink)(Disk 12 of 13)(Disk K)[Req Install].fdi
+:	:	2 Shot Diary (1994)(Mink)(Disk 13 of 13)(Disk L)[Req Install].fdi
+:	:	3x3 Eyes (1993)(Nihon Create)(Disk 01 of 12)(Disk A).fdi
+:	:	3x3 Eyes (1993)(Nihon Create)(Disk 01 of 12)(Disk A)[a].fdi
+:	:	3x3 Eyes (1993)(Nihon Create)(Disk 02 of 12)(Disk B).fdi
+:	:	3x3 Eyes (1993)(Nihon Create)(Disk 03 of 12)(Disk C).fdi
+:	:	3x3 Eyes (1993)(Nihon Create)(Disk 04 of 12)(Disk D).fdi
+:	:	3x3 Eyes (1993)(Nihon Create)(Disk 05 of 12)(Disk E).fdi
+:	:	3x3 Eyes (1993)(Nihon Create)(Disk 06 of 12)(Disk F).fdi
+:	:	3x3 Eyes (1993)(Nihon Create)(Disk 07 of 12)(Disk G).fdi
+:	:	3x3 Eyes (1993)(Nihon Create)(Disk 08 of 12)(Disk H).fdi
+:	:	3x3 Eyes (1993)(Nihon Create)(Disk 09 of 12)(Disk I).fdi
+:	:	3x3 Eyes (1993)(Nihon Create)(Disk 10 of 12)(Disk J).fdi
+:	:	3x3 Eyes (1993)(Nihon Create)(Disk 11 of 12)(Disk K).fdi
+:	:	3x3 Eyes (1993)(Nihon Create)(Disk 12 of 12)(Disk L).fdi
+:	:	AD&D - Pools of Darkness (19xx)(Pony Canyon)(Disk 1 of 3).fdi
+:	:	AD&D - Pools of Darkness (19xx)(Pony Canyon)(Disk 2 of 3).fdi
+:	:	AD&D - Pools of Darkness (19xx)(Pony Canyon)(Disk 3 of 3).fdi
+:	:	AD&D - Secret of the Silver Blades (1992)(Pony Canyon)(Disk 1 of 2).fdi
+:	:	AD&D - Secret of the Silver Blades (1992)(Pony Canyon)(Disk 2 of 2).fdi
+:	:	Aa Megamisama (1993)(Banpresto)(Disk 1 of 6)(Disk A).fdi
+:	:	Aa Megamisama (1993)(Banpresto)(Disk 2 of 6)(Disk B).fdi
+:	:	Aa Megamisama (1993)(Banpresto)(Disk 3 of 6)(Disk C).fdi
+:	:	Aa Megamisama (1993)(Banpresto)(Disk 4 of 6)(Disk D).fdi
+:	:	Aa Megamisama (1993)(Banpresto)(Disk 5 of 6)(Disk E).fdi
+:	:	Aa Megamisama (1993)(Banpresto)(Disk 6 of 6)(Disk F).fdi
+:	:	Amaranth (1991)(Fuga)(Disk 1 of 3).fdi
+:	:	Amaranth (1991)(Fuga)(Disk 2 of 3).fdi
+:	:	Amaranth (1991)(Fuga)(Disk 3 of 3).fdi
+:	:	Arcus 3 (19xx)(Wolf Team)(Disk 1 of 4)(Disk A).fdi
+:	:	Arcus 3 (19xx)(Wolf Team)(Disk 2 of 4)(Disk B).fdi
+:	:	Arcus 3 (19xx)(Wolf Team)(Disk 3 of 4)(Disk C).fdi
+:	:	Arcus 3 (19xx)(Wolf Team)(Disk 4 of 4)(Disk D).fdi
+:	:	Armist (19xx)(Basement)(Disk 1 of 5).fdi
+:	:	Armist (19xx)(Basement)(Disk 2 of 5).fdi
+:	:	Armist (19xx)(Basement)(Disk 3 of 5).fdi
+:	:	Armist (19xx)(Basement)(Disk 4 of 5).fdi
+:	:	Armist (19xx)(Basement)(Disk 5 of 5).fdi
+:	:	Ayayo 3 (1991)(Hard Soft)(Disk 1 of 2)(Disk A).fdi
+:	:	Ayayo 3 (1991)(Hard Soft)(Disk 2 of 2)(Disk B).fdi
+:	:	Bacta 2 (1994)(Himeya Soft)(Disk 1 of 3)(Disk A).fdi
+:	:	Bacta 2 (1994)(Himeya Soft)(Disk 2 of 3)(Disk B).fdi
+:	:	Bacta 2 (1994)(Himeya Soft)(Disk 3 of 3)(Disk C).fdi
+:	:	Ballade for Maria (1995)(Fairy Tale)(Disk 1 of 7)[Req Install].fdi
+:	:	Ballade for Maria (1995)(Fairy Tale)(Disk 2 of 7)[Req Install].fdi
+:	:	Ballade for Maria (1995)(Fairy Tale)(Disk 3 of 7)[Req Install].fdi
+:	:	Ballade for Maria (1995)(Fairy Tale)(Disk 4 of 7)[Req Install].fdi
+:	:	Ballade for Maria (1995)(Fairy Tale)(Disk 5 of 7)[Req Install].fdi
+:	:	Ballade for Maria (1995)(Fairy Tale)(Disk 6 of 7)[Req Install].fdi
+:	:	Ballade for Maria (1995)(Fairy Tale)(Disk 7 of 7)[Req Install].fdi
+:	:	Battle Skin Panic 9821 (1993)(Gainax)(Disk 01 of 10)(Disk A)[Req Install].fdi
+:	:	Battle Skin Panic 9821 (1993)(Gainax)(Disk 02 of 10)(Disk B)[Req Install].fdi
+:	:	Battle Skin Panic 9821 (1993)(Gainax)(Disk 03 of 10)(Disk C)[Req Install].fdi
+:	:	Battle Skin Panic 9821 (1993)(Gainax)(Disk 04 of 10)(Disk D)[Req Install].fdi
+:	:	Battle Skin Panic 9821 (1993)(Gainax)(Disk 05 of 10)(Disk E)[Req Install].fdi
+:	:	Battle Skin Panic 9821 (1993)(Gainax)(Disk 06 of 10)(Disk F)[Req Install].fdi
+:	:	Battle Skin Panic 9821 (1993)(Gainax)(Disk 07 of 10)(Disk G)[Req Install].fdi
+:	:	Battle Skin Panic 9821 (1993)(Gainax)(Disk 08 of 10)(Disk H)[Req Install].fdi
+:	:	Battle Skin Panic 9821 (1993)(Gainax)(Disk 09 of 10)(Disk I)[Req Install].fdi
+:	:	Battle Skin Panic 9821 (1993)(Gainax)(Disk 10 of 10)(Disk J)[Req Install].fdi
+:	:	Be-Yond (demo) (19xx)(Silky's).fdi
+:	:	Bell's Avenue Vol.1 (19xx)(Signa Works)(Disk 1 of 3)(Disk A).fdi
+:	:	Bell's Avenue Vol.1 (19xx)(Signa Works)(Disk 2 of 3)(Disk B).fdi
+:	:	Bell's Avenue Vol.1 (19xx)(Signa Works)(Disk 3 of 3)(Disk C).fdi
+:	:	Beyond - Kurotaisyo ni Mirareteru (1996)(Silky's)(Disk 1 of 7)(Disk A).fdi
+:	:	Beyond - Kurotaisyo ni Mirareteru (1996)(Silky's)(Disk 2 of 7)(Disk B).fdi
+:	:	Beyond - Kurotaisyo ni Mirareteru (1996)(Silky's)(Disk 3 of 7)(Disk C).fdi
+:	:	Beyond - Kurotaisyo ni Mirareteru (1996)(Silky's)(Disk 4 of 7)(Disk D).fdi
+:	:	Beyond - Kurotaisyo ni Mirareteru (1996)(Silky's)(Disk 5 of 7)(Disk E).fdi
+:	:	Beyond - Kurotaisyo ni Mirareteru (1996)(Silky's)(Disk 6 of 7)(Disk F).fdi
+:	:	Beyond - Kurotaisyo ni Mirareteru (1996)(Silky's)(Disk 7 of 7)(Disk G).fdi
+:	:	Birthdays (1994)(Silky's)(Disk 1 of 3).fdi
+:	:	Birthdays (1994)(Silky's)(Disk 2 of 3).fdi
+:	:	Birthdays (1994)(Silky's)(Disk 3 of 3).fdi
+:	:	Branmarker (1991)(D.O.)(Disk 1 of 5)(Disk A).fdi
+:	:	Branmarker (1991)(D.O.)(Disk 2 of 5)(Disk B).fdi
+:	:	Branmarker (1991)(D.O.)(Disk 3 of 5)(Disk C).fdi
+:	:	Branmarker (1991)(D.O.)(Disk 4 of 5)(Disk D).fdi
+:	:	Branmarker (1991)(D.O.)(Disk 5 of 5)(Disk E).fdi
+:	:	Bunkasai (1996)(Ucomi)(Disk 1 of 4)(Disk A).fdi
+:	:	Bunkasai (1996)(Ucomi)(Disk 2 of 4)(Disk B).fdi
+:	:	Bunkasai (1996)(Ucomi)(Disk 3 of 4)(Disk C).fdi
+:	:	Bunkasai (1996)(Ucomi)(Disk 4 of 4)(Disk D).fdi
+:	:	Can Can Bunny 2 (1990)(Cocktail Soft)(Disk 1 of 2)(Disk A).fdi
+:	:	Can Can Bunny 2 (1990)(Cocktail Soft)(Disk 2 of 2)(Disk B).fdi
+:	:	Can Can Bunny 3 (1991)(Cocktail Soft)(Disk 1 of 3)(Disk A).fdi
+:	:	Can Can Bunny 3 (1991)(Cocktail Soft)(Disk 1 of 3)(Disk A)[a].fdi
+:	:	Can Can Bunny 3 (1991)(Cocktail Soft)(Disk 2 of 3)(Disk B).fdi
+:	:	Can Can Bunny 3 (1991)(Cocktail Soft)(Disk 3 of 3)(Disk C).fdi
+:	:	Can Can Bunny 4 - Premiere (1992)(Cocktail Soft)(Disk 1 of 4)(Disk A).fdi
+:	:	Can Can Bunny 4 - Premiere (1992)(Cocktail Soft)(Disk 1 of 4)(Disk A)[a].fdi
+:	:	Can Can Bunny 4 - Premiere (1992)(Cocktail Soft)(Disk 2 of 4)(Disk B).fdi
+:	:	Can Can Bunny 4 - Premiere (1992)(Cocktail Soft)(Disk 3 of 4)(Disk C).fdi
+:	:	Can Can Bunny 4 - Premiere (1992)(Cocktail Soft)(Disk 4 of 4)(Disk D).fdi
+:	:	Can Can Bunny 5 Extra (1993)(Cocktail Soft)(Disk 1 of 8)(Disk A).fdi
+:	:	Can Can Bunny 5 Extra (1993)(Cocktail Soft)(Disk 2 of 8)(Disk B).fdi
+:	:	Can Can Bunny 5 Extra (1993)(Cocktail Soft)(Disk 3 of 8)(Disk C).fdi
+:	:	Can Can Bunny 5 Extra (1993)(Cocktail Soft)(Disk 4 of 8)(Disk D).fdi
+:	:	Can Can Bunny 5 Extra (1993)(Cocktail Soft)(Disk 5 of 8)(Disk E).fdi
+:	:	Can Can Bunny 5 Extra (1993)(Cocktail Soft)(Disk 6 of 8)(Disk F).fdi
+:	:	Can Can Bunny 5 Extra (1993)(Cocktail Soft)(Disk 7 of 8)(Disk G).fdi
+:	:	Can Can Bunny 5 Extra (1993)(Cocktail Soft)(Disk 7 of 8)(Disk G)[a].fdi
+:	:	Can Can Bunny 5 Extra (1993)(Cocktail Soft)(Disk 8 of 8)(Disk H).fdi
+:	:	Chakura (1993)(Discovery)(Disk 1 of 3)(Disk A).fdi
+:	:	Chakura (1993)(Discovery)(Disk 2 of 3)(Disk B).fdi
+:	:	Chakura (1993)(Discovery)(Disk 3 of 3)(Disk C).fdi
+:	:	Cherry Moderate (demo) (19xx)(Ucom).fdi
+:	:	Chick's Tale (19xx)(Rihuri)(Disk 1 of 5)(System Disk).fdi
+:	:	Chick's Tale (19xx)(Rihuri)(Disk 2 of 5)(Disk A).fdi
+:	:	Chick's Tale (19xx)(Rihuri)(Disk 3 of 5)(Disk B).fdi
+:	:	Chick's Tale (19xx)(Rihuri)(Disk 4 of 5)(Disk C).fdi
+:	:	Chick's Tale (19xx)(Rihuri)(Disk 5 of 5)(Disk D).fdi
+:	:	Collecter D (1993)(D.O.)(Disk 1 of 5)(System Disk).fdi
+:	:	Collecter D (1993)(D.O.)(Disk 1 of 5)(System Disk)[a].fdi
+:	:	Collecter D (1993)(D.O.)(Disk 2 of 5)(Data 1).fdi
+:	:	Collecter D (1993)(D.O.)(Disk 3 of 5)(Data 2).fdi
+:	:	Collecter D (1993)(D.O.)(Disk 4 of 5)(Data 3).fdi
+:	:	Collecter D (1993)(D.O.)(Disk 5 of 5)(Data 4).fdi
+:	:	Collector D Bangaihen (1993)(D.O.)(Disk 1 of 6)(System Disk).fdi
+:	:	Collector D Bangaihen (1993)(D.O.)(Disk 1 of 6)(System Disk)[a].fdi
+:	:	Collector D Bangaihen (1993)(D.O.)(Disk 2 of 6)(Data 1).fdi
+:	:	Collector D Bangaihen (1993)(D.O.)(Disk 3 of 6)(Data 2).fdi
+:	:	Collector D Bangaihen (1993)(D.O.)(Disk 4 of 6)(Data 3).fdi
+:	:	Collector D Bangaihen (1993)(D.O.)(Disk 5 of 6)(Data 4).fdi
+:	:	Collector D Bangaihen (1993)(D.O.)(Disk 6 of 6)(Data 5).fdi
+:	:	Columns (1991)(System Soft).fdi
+:	:	Custom Mate 1 (1993)(Cocktail Soft)(Disk 1 of 5)(Disk A).fdi
+:	:	Custom Mate 1 (1993)(Cocktail Soft)(Disk 2 of 5)(Disk B).fdi
+:	:	Custom Mate 1 (1993)(Cocktail Soft)(Disk 3 of 5)(Disk C).fdi
+:	:	Custom Mate 1 (1993)(Cocktail Soft)(Disk 4 of 5)(Disk D).fdi
+:	:	Custom Mate 1 (1993)(Cocktail Soft)(Disk 5 of 5)(Disk E).fdi
+:	:	Custom Mate 2 (1994)(Cocktail Soft)(Disk 1 of 8)(Disk A).fdi
+:	:	Custom Mate 2 (1994)(Cocktail Soft)(Disk 1 of 8)(Disk A)[a].fdi
+:	:	Custom Mate 2 (1994)(Cocktail Soft)(Disk 2 of 8)(Disk B).fdi
+:	:	Custom Mate 2 (1994)(Cocktail Soft)(Disk 3 of 8)(Disk C).fdi
+:	:	Custom Mate 2 (1994)(Cocktail Soft)(Disk 4 of 8)(Disk D).fdi
+:	:	Custom Mate 2 (1994)(Cocktail Soft)(Disk 5 of 8)(Disk E).fdi
+:	:	Custom Mate 2 (1994)(Cocktail Soft)(Disk 6 of 8)(Disk F).fdi
+:	:	Custom Mate 2 (1994)(Cocktail Soft)(Disk 7 of 8)(Disk G).fdi
+:	:	Custom Mate 2 (1994)(Cocktail Soft)(Disk 8 of 8)(Disk H).fdi
+:	:	Cuty Cop (1994)(ICE)(Disk 1 of 2).fdi
+:	:	Cuty Cop (1994)(ICE)(Disk 2 of 2).fdi
+:	:	Daisenryaku 4 (19xx)(System Soft)(Disk 1 of 2).fdi
+:	:	Daisenryaku 4 (19xx)(System Soft)(Disk 2 of 2).fdi
+:	:	Daisenryaku 4 - Option Disk (19xx)(System Soft).fdi
+:	:	Dead of the Brain 1 (1992)(Fairy Tale)(Disk 1 of 4)(Disk A).fdi
+:	:	Dead of the Brain 1 (1992)(Fairy Tale)(Disk 2 of 4)(Disk B).fdi
+:	:	Dead of the Brain 1 (1992)(Fairy Tale)(Disk 3 of 4)(Disk C).fdi
+:	:	Dead of the Brain 1 (1992)(Fairy Tale)(Disk 4 of 4)(Disk D).fdi
+:	:	Dead of the Brain 2 (1993)(Fairy Tale)(Disk 1 of 4)(Disk A).fdi
+:	:	Dead of the Brain 2 (1993)(Fairy Tale)(Disk 2 of 4)(Disk B).fdi
+:	:	Dead of the Brain 2 (1993)(Fairy Tale)(Disk 3 of 4)(Disk C).fdi
+:	:	Dead of the Brain 2 (1993)(Fairy Tale)(Disk 4 of 4)(Disk D).fdi
+:	:	Deja Vu (1990)(Elf).fdi
+:	:	Deja Vu 2 (1992)(Elf)(Disk 01 of 10)(Disk A).fdi
+:	:	Deja Vu 2 (1992)(Elf)(Disk 02 of 10)(Disk B).fdi
+:	:	Deja Vu 2 (1992)(Elf)(Disk 03 of 10)(Disk C).fdi
+:	:	Deja Vu 2 (1992)(Elf)(Disk 04 of 10)(Disk D).fdi
+:	:	Deja Vu 2 (1992)(Elf)(Disk 05 of 10)(Disk E).fdi
+:	:	Deja Vu 2 (1992)(Elf)(Disk 06 of 10)(Disk F).fdi
+:	:	Deja Vu 2 (1992)(Elf)(Disk 07 of 10)(Disk G).fdi
+:	:	Deja Vu 2 (1992)(Elf)(Disk 08 of 10)(Disk H).fdi
+:	:	Deja Vu 2 (1992)(Elf)(Disk 09 of 10)(Disk I).fdi
+:	:	Deja Vu 2 (1992)(Elf)(Disk 10 of 10)(Disk J).fdi
+:	:	Dengeki Division (1993)(Apple Pie)(Disk 1 of 4).fdi
+:	:	Dengeki Division (1993)(Apple Pie)(Disk 2 of 4).fdi
+:	:	Dengeki Division (1993)(Apple Pie)(Disk 3 of 4).fdi
+:	:	Dengeki Division (1993)(Apple Pie)(Disk 4 of 4).fdi
+:	:	Denno Gakuen 1 v2.0 (1989)(Gainax)(Disk 1 of 4)(Disk A).fdi
+:	:	Denno Gakuen 1 v2.0 (1989)(Gainax)(Disk 2 of 4)(Disk B).fdi
+:	:	Denno Gakuen 1 v2.0 (1989)(Gainax)(Disk 3 of 4)(Disk C).fdi
+:	:	Denno Gakuen 1 v2.0 (1989)(Gainax)(Disk 4 of 4)(Disk D).fdi
+:	:	Denno Gakuen 2 (1990)(Gainax)(Disk 1 of 4)(Disk A).fdi
+:	:	Denno Gakuen 2 (1990)(Gainax)(Disk 2 of 4)(Disk B).fdi
+:	:	Denno Gakuen 2 (1990)(Gainax)(Disk 3 of 4)(Disk C).fdi
+:	:	Denno Gakuen 2 (1990)(Gainax)(Disk 4 of 4)(Disk D).fdi
+:	:	Denno Gakuen 4 (19xx)(Gainax)(Disk 1 of 4)(Disk A).fdi
+:	:	Denno Gakuen 4 (19xx)(Gainax)(Disk 2 of 4)(Disk B).fdi
+:	:	Denno Gakuen 4 (19xx)(Gainax)(Disk 3 of 4)(Disk C).fdi
+:	:	Denno Gakuen 4 (19xx)(Gainax)(Disk 4 of 4)(Disk D).fdi
+:	:	Dor 1 (1992)(D.O.)(Disk 1 of 4)(System Disk).fdi
+:	:	Dor 1 (1992)(D.O.)(Disk 2 of 4)(Scenario 1).fdi
+:	:	Dor 1 (1992)(D.O.)(Disk 3 of 4)(Scenario 2).fdi
+:	:	Dor 1 (1992)(D.O.)(Disk 4 of 4)(Scenario 3).fdi
+:	:	Dor 2 (1992)(D.O.)(Disk 1 of 4)(System Disk).fdi
+:	:	Dor 2 (1992)(D.O.)(Disk 2 of 4)(Scenario 1).fdi
+:	:	Dor 2 (1992)(D.O.)(Disk 3 of 4)(Scenario 2).fdi
+:	:	Dor 2 (1992)(D.O.)(Disk 4 of 4)(Scenario 3).fdi
+:	:	Dor 3 (1992)(D.O.)(Disk 1 of 4)(System Disk).fdi
+:	:	Dor 3 (1992)(D.O.)(Disk 2 of 4)(Scenario 1).fdi
+:	:	Dor 3 (1992)(D.O.)(Disk 3 of 4)(Scenario 2).fdi
+:	:	Dor 3 (1992)(D.O.)(Disk 4 of 4)(Scenario 3).fdi
+:	:	Dor Special Edition 93 (19xx)(D.O.)(Disk 01 of 10)(System Disk).fdi
+:	:	Dor Special Edition 93 (19xx)(D.O.)(Disk 01 of 10)(System Disk)[a].fdi
+:	:	Dor Special Edition 93 (19xx)(D.O.)(Disk 02 of 10)(Game 1).fdi
+:	:	Dor Special Edition 93 (19xx)(D.O.)(Disk 03 of 10)(Game 2).fdi
+:	:	Dor Special Edition 93 (19xx)(D.O.)(Disk 04 of 10)(Game 3).fdi
+:	:	Dor Special Edition 93 (19xx)(D.O.)(Disk 05 of 10)(Game 4).fdi
+:	:	Dor Special Edition 93 (19xx)(D.O.)(Disk 06 of 10)(Game 5).fdi
+:	:	Dor Special Edition 93 (19xx)(D.O.)(Disk 07 of 10)(Game 6).fdi
+:	:	Dor Special Edition 93 (19xx)(D.O.)(Disk 08 of 10)(Game 7).fdi
+:	:	Dor Special Edition 93 (19xx)(D.O.)(Disk 09 of 10)(Game 8).fdi
+:	:	Dor Special Edition 93 (19xx)(D.O.)(Disk 10 of 10)(Game 9).fdi
+:	:	Dor Special Edition Sakigake (1993)(D.O.)(Disk 1 of 6)(System Disk).fdi
+:	:	Dor Special Edition Sakigake (1993)(D.O.)(Disk 1 of 6)(System Disk)[a].fdi
+:	:	Dor Special Edition Sakigake (1993)(D.O.)(Disk 2 of 6)(Game 1).fdi
+:	:	Dor Special Edition Sakigake (1993)(D.O.)(Disk 3 of 6)(Game 2).fdi
+:	:	Dor Special Edition Sakigake (1993)(D.O.)(Disk 4 of 6)(Game 3).fdi
+:	:	Dor Special Edition Sakigake (1993)(D.O.)(Disk 5 of 6)(Game 4).fdi
+:	:	Dor Special Edition Sakigake (1993)(D.O.)(Disk 6 of 6)(Game 5).fdi
+:	:	Dos 6.2 System (19xx)(-).fdi
+:	:	Doukyusei (1992)(Elf)(Disk 1 of 9)(Disk A).fdi
+:	:	Doukyusei (1992)(Elf)(Disk 2 of 9)(Disk B).fdi
+:	:	Doukyusei (1992)(Elf)(Disk 3 of 9)(Disk C).fdi
+:	:	Doukyusei (1992)(Elf)(Disk 4 of 9)(Disk D).fdi
+:	:	Doukyusei (1992)(Elf)(Disk 5 of 9)(Disk E).fdi
+:	:	Doukyusei (1992)(Elf)(Disk 6 of 9)(Disk F).fdi
+:	:	Doukyusei (1992)(Elf)(Disk 7 of 9)(Disk G).fdi
+:	:	Doukyusei (1992)(Elf)(Disk 8 of 9)(Disk H).fdi
+:	:	Doukyusei (1992)(Elf)(Disk 9 of 9)(Disk I).fdi
+:	:	Dracula Hakusyaku (1992)(Fairy Tale)(Disk 1 of 4)(Disk A).fdi
+:	:	Dracula Hakusyaku (1992)(Fairy Tale)(Disk 2 of 4)(Disk B).fdi
+:	:	Dracula Hakusyaku (1992)(Fairy Tale)(Disk 3 of 4)(Disk C).fdi
+:	:	Dracula Hakusyaku (1992)(Fairy Tale)(Disk 4 of 4)(Disk D).fdi
+:	:	Dragon Half (19xx)(Microcabin)(Disk 1 of 7).fdi
+:	:	Dragon Half (19xx)(Microcabin)(Disk 2 of 7).fdi
+:	:	Dragon Half (19xx)(Microcabin)(Disk 3 of 7).fdi
+:	:	Dragon Half (19xx)(Microcabin)(Disk 4 of 7).fdi
+:	:	Dragon Half (19xx)(Microcabin)(Disk 5 of 7).fdi
+:	:	Dragon Half (19xx)(Microcabin)(Disk 6 of 7).fdi
+:	:	Dragon Half (19xx)(Microcabin)(Disk 7 of 7)(User Disk).fdi
+:	:	Dragon Knight (1989)(Elf)(Disk 1 of 2)(Disk A).fdi
+:	:	Dragon Knight (1989)(Elf)(Disk 2 of 2)(Disk B).fdi
+:	:	Dragon Knight 2 (1990)(Elf)(Disk 1 of 4)(Disk A).fdi
+:	:	Dragon Knight 2 (1990)(Elf)(Disk 2 of 4)(Disk B).fdi
+:	:	Dragon Knight 2 (1990)(Elf)(Disk 3 of 4)(Disk C).fdi
+:	:	Dragon Knight 2 (1990)(Elf)(Disk 4 of 4)(Disk D).fdi
+:	:	Dragon Knight 3x (1991)(Elf)(Disk 1 of 6)(Disk A).fdi
+:	:	Dragon Knight 3x (1991)(Elf)(Disk 2 of 6)(Disk B).fdi
+:	:	Dragon Knight 3x (1991)(Elf)(Disk 3 of 6)(Disk C).fdi
+:	:	Dragon Knight 3x (1991)(Elf)(Disk 4 of 6)(Disk D).fdi
+:	:	Dragon Knight 3x (1991)(Elf)(Disk 5 of 6)(Disk E).fdi
+:	:	Dragon Knight 3x (1991)(Elf)(Disk 6 of 6)(Disk F).fdi
+:	:	Dragon Knight 4 (1991)(Elf)(Disk 01 of 12)(Disk A).fdi
+:	:	Dragon Knight 4 (1991)(Elf)(Disk 02 of 12)(Disk B).fdi
+:	:	Dragon Knight 4 (1991)(Elf)(Disk 03 of 12)(Disk C).fdi
+:	:	Dragon Knight 4 (1991)(Elf)(Disk 04 of 12)(Disk D).fdi
+:	:	Dragon Knight 4 (1991)(Elf)(Disk 05 of 12)(Disk E).fdi
+:	:	Dragon Knight 4 (1991)(Elf)(Disk 06 of 12)(Disk F).fdi
+:	:	Dragon Knight 4 (1991)(Elf)(Disk 07 of 12)(Disk G).fdi
+:	:	Dragon Knight 4 (1991)(Elf)(Disk 08 of 12)(Disk H).fdi
+:	:	Dragon Knight 4 (1991)(Elf)(Disk 09 of 12)(Disk I).fdi
+:	:	Dragon Knight 4 (1991)(Elf)(Disk 10 of 12)(Disk J).fdi
+:	:	Dragon Knight 4 (1991)(Elf)(Disk 11 of 12)(Disk K).fdi
+:	:	Dragon Knight 4 (1991)(Elf)(Disk 12 of 12)(Disk L).fdi
+:	:	Dragon Knight 4 Special Disk (1991)(Elf)(Disk 1 of 2)(Disk A).fdi
+:	:	Dragon Knight 4 Special Disk (1991)(Elf)(Disk 2 of 2)(Disk B).fdi
+:	:	Dragonslayer Eiyu Densetsu 4 (1996)(Falcom)(Disk 1 of 8)(Program Disk).fdi
+:	:	Dragonslayer Eiyu Densetsu 4 (1996)(Falcom)(Disk 2 of 8)(Data 1).fdi
+:	:	Dragonslayer Eiyu Densetsu 4 (1996)(Falcom)(Disk 3 of 8)(Data 2).fdi
+:	:	Dragonslayer Eiyu Densetsu 4 (1996)(Falcom)(Disk 4 of 8)(Data 3).fdi
+:	:	Dragonslayer Eiyu Densetsu 4 (1996)(Falcom)(Disk 5 of 8)(Data 4).fdi
+:	:	Dragonslayer Eiyu Densetsu 4 (1996)(Falcom)(Disk 6 of 8)(Data 5).fdi
+:	:	Dragonslayer Eiyu Densetsu 4 (1996)(Falcom)(Disk 7 of 8)(Data 6).fdi
+:	:	Dragonslayer Eiyu Densetsu 4 (1996)(Falcom)(Disk 8 of 8)(User Disk).fdi
+:	:	ESP (1994)(A-Inn).fdi
+:	:	EVE Burst Error (1995)(C's Ware)(Disk 1 of 7)(Disk A)[Req Install].fdi
+:	:	EVE Burst Error (1995)(C's Ware)(Disk 2 of 7)(Disk B)[Req Install].fdi
+:	:	EVE Burst Error (1995)(C's Ware)(Disk 3 of 7)(Disk C)[Req Install].fdi
+:	:	EVE Burst Error (1995)(C's Ware)(Disk 4 of 7)(Disk D)[Req Install].fdi
+:	:	EVE Burst Error (1995)(C's Ware)(Disk 5 of 7)(Disk E)[Req Install].fdi
+:	:	EVE Burst Error (1995)(C's Ware)(Disk 6 of 7)(Disk F)[Req Install].fdi
+:	:	EVE Burst Error (1995)(C's Ware)(Disk 7 of 7)(Disk G)[Req Install].fdi
+:	:	Eden no Kaori (1996)(Jast)(Disk 1 of 4)(Disk A).fdi
+:	:	Eden no Kaori (1996)(Jast)(Disk 2 of 4)(Disk B).fdi
+:	:	Eden no Kaori (1996)(Jast)(Disk 3 of 4)(Disk C).fdi
+:	:	Eden no Kaori (1996)(Jast)(Disk 4 of 4)(Disk D).fdi
+:	:	Edge (1993)(TGL)(Disk 1 of 7)(Disk A).fdi
+:	:	Edge (1993)(TGL)(Disk 2 of 7)(Disk B).fdi
+:	:	Edge (1993)(TGL)(Disk 3 of 7)(Disk C).fdi
+:	:	Edge (1993)(TGL)(Disk 4 of 7)(Disk D).fdi
+:	:	Edge (1993)(TGL)(Disk 5 of 7)(Disk E).fdi
+:	:	Edge (1993)(TGL)(Disk 6 of 7)(Disk F).fdi
+:	:	Edge (1993)(TGL)(Disk 7 of 7)(User Disk).fdi
+:	:	Elm Knight (1992)(Micro Mabin)(Disk 01 of 10).fdi
+:	:	Elm Knight (1992)(Micro Mabin)(Disk 02 of 10).fdi
+:	:	Elm Knight (1992)(Micro Mabin)(Disk 03 of 10).fdi
+:	:	Elm Knight (1992)(Micro Mabin)(Disk 04 of 10).fdi
+:	:	Elm Knight (1992)(Micro Mabin)(Disk 05 of 10).fdi
+:	:	Elm Knight (1992)(Micro Mabin)(Disk 06 of 10).fdi
+:	:	Elm Knight (1992)(Micro Mabin)(Disk 07 of 10).fdi
+:	:	Elm Knight (1992)(Micro Mabin)(Disk 08 of 10).fdi
+:	:	Elm Knight (1992)(Micro Mabin)(Disk 09 of 10).fdi
+:	:	Elm Knight (1992)(Micro Mabin)(Disk 10 of 10).fdi
+:	:	Elvira - Mistress of the Dark (1990)(Horror Soft)(Disk 1 of 3)(Disk A).fdi
+:	:	Elvira - Mistress of the Dark (1990)(Horror Soft)(Disk 2 of 3)(Disk B).fdi
+:	:	Elvira - Mistress of the Dark (1990)(Horror Soft)(Disk 3 of 3)(Disk C).fdi
+:	:	Emerald Dragon (19xx)(Glodia)(Disk 1 of 3)(System Disk).fdi
+:	:	Emerald Dragon (19xx)(Glodia)(Disk 2 of 3)(Opening Disk).fdi
+:	:	Emerald Dragon (19xx)(Glodia)(Disk 3 of 3)(Data Disk).fdi
+:	:	Enchanter (1993)(System Soft)(Disk 1 of 2).fdi
+:	:	Enchanter (1993)(System Soft)(Disk 2 of 2).fdi
+:	:	Entfuhrer (19xx)(-).fdi
+:	:	Escape (1996)(May-Be Soft)(Disk 1 of 3)(Disk A).fdi
+:	:	Escape (1996)(May-Be Soft)(Disk 1 of 3)(Disk A)[a].fdi
+:	:	Escape (1996)(May-Be Soft)(Disk 2 of 3)(Disk B).fdi
+:	:	Escape (1996)(May-Be Soft)(Disk 3 of 3)(Disk C).fdi
+:	:	Etsuraku no Gakuen (1994)(C's Ware)(Disk 1 of 3)(Disk A).fdi
+:	:	Etsuraku no Gakuen (1994)(C's Ware)(Disk 2 of 3)(Disk B).fdi
+:	:	Etsuraku no Gakuen (1994)(C's Ware)(Disk 3 of 3)(Disk C).fdi
+:	:	Eye of the Beholder III - Assault on Myth Drannor (1993)(Ving)(Disk 1 of 5)(Startup Disk)[Req Install].fdi
+:	:	Eye of the Beholder III - Assault on Myth Drannor (1993)(Ving)(Disk 2 of 5)(Install 1)[Req Install].fdi
+:	:	Eye of the Beholder III - Assault on Myth Drannor (1993)(Ving)(Disk 3 of 5)(Install 2)[Req Install].fdi
+:	:	Eye of the Beholder III - Assault on Myth Drannor (1993)(Ving)(Disk 4 of 5)(Install 3)[Req Install].fdi
+:	:	Eye of the Beholder III - Assault on Myth Drannor (1993)(Ving)(Disk 5 of 5)(Install 4)[Req Install].fdi
+:	:	Farland Story 1 (1993)(TGL)(Disk 1 of 4)(Disk A).fdi
+:	:	Farland Story 1 (1993)(TGL)(Disk 2 of 4)(Disk B).fdi
+:	:	Farland Story 1 (1993)(TGL)(Disk 3 of 4)(Disk C).fdi
+:	:	Farland Story 1 (1993)(TGL)(Disk 4 of 4)(Disk D).fdi
+:	:	Farland Story 2 (1994)(TGL)(Disk 1 of 4)(Disk A).fdi
+:	:	Farland Story 2 (1994)(TGL)(Disk 2 of 4)(Disk B).fdi
+:	:	Farland Story 2 (1994)(TGL)(Disk 3 of 4)(Disk C).fdi
+:	:	Farland Story 2 (1994)(TGL)(Disk 4 of 4)(Disk D).fdi
+:	:	Farland Story 3 (1994)(TGL)(Disk 1 of 5)(Disk A).fdi
+:	:	Farland Story 3 (1994)(TGL)(Disk 2 of 5)(Disk B).fdi
+:	:	Farland Story 3 (1994)(TGL)(Disk 3 of 5)(Disk C).fdi
+:	:	Farland Story 3 (1994)(TGL)(Disk 4 of 5)(Disk D).fdi
+:	:	Farland Story 3 (1994)(TGL)(Disk 5 of 5)(Disk E).fdi
+:	:	Farland Story 4 (1994)(TGL)(Disk 1 of 5)(Disk A).fdi
+:	:	Farland Story 4 (1994)(TGL)(Disk 2 of 5)(Disk B).fdi
+:	:	Farland Story 4 (1994)(TGL)(Disk 3 of 5)(Disk C).fdi
+:	:	Farland Story 4 (1994)(TGL)(Disk 4 of 5)(Disk D).fdi
+:	:	Farland Story 4 (1994)(TGL)(Disk 5 of 5)(Disk E).fdi
+:	:	Farland Story 5 (1995)(TGL)(Disk 1 of 6)(Disk A)[password 4 935066 103173].fdi
+:	:	Farland Story 5 (1995)(TGL)(Disk 2 of 6)(Disk B)[password 4 935066 103173].fdi
+:	:	Farland Story 5 (1995)(TGL)(Disk 3 of 6)(Disk C)[password 4 935066 103173].fdi
+:	:	Farland Story 5 (1995)(TGL)(Disk 4 of 6)(Disk D)[password 4 935066 103173].fdi
+:	:	Farland Story 5 (1995)(TGL)(Disk 5 of 6)(Disk E)[password 4 935066 103173].fdi
+:	:	Farland Story 5 (1995)(TGL)(Disk 6 of 6)(Disk F)[password 4 935066 103173].fdi
+:	:	Fukkatusai - Asticaya no Mazyo (1992)(Grocer)(Disk 1 of 7)(Disk A).fdi
+:	:	Fukkatusai - Asticaya no Mazyo (1992)(Grocer)(Disk 2 of 7)(Disk B).fdi
+:	:	Fukkatusai - Asticaya no Mazyo (1992)(Grocer)(Disk 3 of 7)(Disk C).fdi
+:	:	Fukkatusai - Asticaya no Mazyo (1992)(Grocer)(Disk 4 of 7)(Disk D).fdi
+:	:	Fukkatusai - Asticaya no Mazyo (1992)(Grocer)(Disk 5 of 7)(Disk E).fdi
+:	:	Fukkatusai - Asticaya no Mazyo (1992)(Grocer)(Disk 6 of 7)(Disk F).fdi
+:	:	Fukkatusai - Asticaya no Mazyo (1992)(Grocer)(Disk 7 of 7)(Disk G).fdi
+:	:	Fushigi no Umi no Nadia (1992)(Gainax)(Disk 1 of 8)(Disk A).fdi
+:	:	Fushigi no Umi no Nadia (1992)(Gainax)(Disk 1 of 8)(Disk A)[a].fdi
+:	:	Fushigi no Umi no Nadia (1992)(Gainax)(Disk 2 of 8)(Disk B).fdi
+:	:	Fushigi no Umi no Nadia (1992)(Gainax)(Disk 3 of 8)(Disk C).fdi
+:	:	Fushigi no Umi no Nadia (1992)(Gainax)(Disk 4 of 8)(Disk D).fdi
+:	:	Fushigi no Umi no Nadia (1992)(Gainax)(Disk 5 of 8)(Disk E).fdi
+:	:	Fushigi no Umi no Nadia (1992)(Gainax)(Disk 6 of 8)(Disk F).fdi
+:	:	Fushigi no Umi no Nadia (1992)(Gainax)(Disk 7 of 8)(Disk G).fdi
+:	:	Fushigi no Umi no Nadia (1992)(Gainax)(Disk 8 of 8)(Disk H).fdi
+:	:	Fushigi no Umi no Nadia Option Disk (1992)(Gainax).fdi
+:	:	Gakuen Bomber (1994)(Active Software)(Disk 1 of 3)(Disk A).fdi
+:	:	Gakuen Bomber (1994)(Active Software)(Disk 2 of 3)(Disk B).fdi
+:	:	Gakuen Bomber (1994)(Active Software)(Disk 3 of 3)(Disk C).fdi
+:	:	Gendai Daisenryaku Ex (19xx)(System Soft)(Disk 1 of 2).fdi
+:	:	Gendai Daisenryaku Ex (19xx)(System Soft)(Disk 2 of 2).fdi
+:	:	Ginga Eiyu Densetsu 1 (19xx)(Bothtec)(Disk 1 of 2)(Program Disk).fdi
+:	:	Ginga Eiyu Densetsu 1 (19xx)(Bothtec)(Disk 2 of 2)(User Disk).fdi
+:	:	Ginga Eiyu Densetsu 2 (19xx)(Bothtec)(Disk 1 of 4)(Disk A).fdi
+:	:	Ginga Eiyu Densetsu 2 (19xx)(Bothtec)(Disk 2 of 4)(Disk B).fdi
+:	:	Ginga Eiyu Densetsu 2 (19xx)(Bothtec)(Disk 3 of 4)(Disk C).fdi
+:	:	Ginga Eiyu Densetsu 2 Dx Kit (19xx)(Bothtec)(Disk 1 of 2)(Disk A).fdi
+:	:	Ginga Eiyu Densetsu 2 Dx Kit (19xx)(Bothtec)(Disk 2 of 2)(Disk B).fdi
+:	:	Ginga Eiyu Densetsu 3 (19xx)(Bothtec)(Disk 1 of 5)(Disk A).fdi
+:	:	Ginga Eiyu Densetsu 3 (19xx)(Bothtec)(Disk 2 of 5)(Disk B).fdi
+:	:	Ginga Eiyu Densetsu 3 (19xx)(Bothtec)(Disk 3 of 5)(Disk C).fdi
+:	:	Ginga Eiyu Densetsu 3 (19xx)(Bothtec)(Disk 4 of 5)(Disk D).fdi
+:	:	Ginga Eiyu Densetsu 3 (19xx)(Bothtec)(Disk 5 of 5)(User Disk).fdi
+:	:	Ginga Eiyu Densetsu 3 SP (19xx)(Bothtec)(Disk 1 of 5)(Disk A).fdi
+:	:	Ginga Eiyu Densetsu 3 SP (19xx)(Bothtec)(Disk 2 of 5)(Disk B).fdi
+:	:	Ginga Eiyu Densetsu 3 SP (19xx)(Bothtec)(Disk 3 of 5)(Disk C).fdi
+:	:	Ginga Eiyu Densetsu 3 SP (19xx)(Bothtec)(Disk 4 of 5)(Disk D).fdi
+:	:	Ginga Eiyu Densetsu 3 SP (19xx)(Bothtec)(Disk 5 of 5)(User Disk).fdi
+:	:	Girls Paradise (1989)(Great)(Disk 1 of 2)(Disk A).fdi
+:	:	Girls Paradise (1989)(Great)(Disk 2 of 2)(Disk B).fdi
+:	:	Goice (1994)(Tenshindo)(Disk 1 of 6)(Disk A).fdi
+:	:	Goice (1994)(Tenshindo)(Disk 2 of 6)(Disk B).fdi
+:	:	Goice (1994)(Tenshindo)(Disk 3 of 6)(Disk C).fdi
+:	:	Goice (1994)(Tenshindo)(Disk 4 of 6)(Disk D).fdi
+:	:	Goice (1994)(Tenshindo)(Disk 5 of 6)(Disk E).fdi
+:	:	Goice (1994)(Tenshindo)(Disk 6 of 6)(Disk F).fdi
+:	:	Guernica (1996)(BackSpin)(Disk 1 of 4)[Req Install].fdi
+:	:	Guernica (1996)(BackSpin)(Disk 2 of 4)[Req Install].fdi
+:	:	Guernica (1996)(BackSpin)(Disk 3 of 4)[Req Install].fdi
+:	:	Guernica (1996)(BackSpin)(Disk 4 of 4)[Req Install].fdi
+:	:	Hana no Kiouku (1995)(Foster)(Disk 1 of 2)(System Disk).fdi
+:	:	Hana no Kiouku (1995)(Foster)(Disk 2 of 2)(Data Disk).fdi
+:	:	Hoshinosuna Monogatari (1991)(D.O.)(Disk 1 of 3)(Disk A)[a2].fdi
+:	:	Hoshinosuna Monogatari (1991)(D.O.)(Disk 1 of 3)(Disk A)[a].fdi
+:	:	Hoshinosuna Monogatari (1991)(D.O.)(Disk 1 of 4)(Disk A).fdi
+:	:	Hoshinosuna Monogatari (1991)(D.O.)(Disk 2 of 3)(Disk B)[a].fdi
+:	:	Hoshinosuna Monogatari (1991)(D.O.)(Disk 2 of 4)(Disk B).fdi
+:	:	Hoshinosuna Monogatari (1991)(D.O.)(Disk 3 of 3)(Disk C)[a].fdi
+:	:	Hoshinosuna Monogatari (1991)(D.O.)(Disk 3 of 4)(Disk C).fdi
+:	:	Hoshinosuna Monogatari (1991)(D.O.)(Disk 4 of 4)(Disk D).fdi
+:	:	Hyooryuu (19xx)(Illusion)(Disk 1 of 6)(Disk A).fdi
+:	:	Hyooryuu (19xx)(Illusion)(Disk 2 of 6)(Disk B).fdi
+:	:	Hyooryuu (19xx)(Illusion)(Disk 3 of 6)(Disk C).fdi
+:	:	Hyooryuu (19xx)(Illusion)(Disk 4 of 6)(Disk D).fdi
+:	:	Hyooryuu (19xx)(Illusion)(Disk 5 of 6)(Disk E).fdi
+:	:	Hyooryuu (19xx)(Illusion)(Disk 6 of 6)(Disk F).fdi
+:	:	Injiu Genmu 2 - Brain Burst (1994)(Ringer Bell)(Disk 1 of 4)(Disk A).fdi
+:	:	Injiu Genmu 2 - Brain Burst (1994)(Ringer Bell)(Disk 2 of 4)(Disk B).fdi
+:	:	Injiu Genmu 2 - Brain Burst (1994)(Ringer Bell)(Disk 3 of 4)(Disk C).fdi
+:	:	Injiu Genmu 2 - Brain Burst (1994)(Ringer Bell)(Disk 4 of 4)(Disk D).fdi
+:	:	Kakutou Musume (1993)(Musumeya)(Disk 1 of 5)(System Disk).fdi
+:	:	Kakutou Musume (1993)(Musumeya)(Disk 2 of 5)(Data 1).fdi
+:	:	Kakutou Musume (1993)(Musumeya)(Disk 3 of 5)(Data 2).fdi
+:	:	Kakutou Musume (1993)(Musumeya)(Disk 4 of 5)(Data 3).fdi
+:	:	Kakutou Musume (1993)(Musumeya)(Disk 5 of 5)(Data 4).fdi
+:	:	Kankin (1995)(Illusion)(Disk 1 of 4).fdi
+:	:	Kankin (1995)(Illusion)(Disk 2 of 4).fdi
+:	:	Kankin (1995)(Illusion)(Disk 3 of 4).fdi
+:	:	Kankin (1995)(Illusion)(Disk 4 of 4).fdi
+:	:	Karei Naru Jinsei 2 (1994)(Fairy Tale)(Disk 1 of 3).fdi
+:	:	Karei Naru Jinsei 2 (1994)(Fairy Tale)(Disk 2 of 3).fdi
+:	:	Karei Naru Jinsei 2 (1994)(Fairy Tale)(Disk 3 of 3).fdi
+:	:	Kekkou Kamen (1994)(Dynamic Production)(Disk 1 of 8)(Disk A).fdi
+:	:	Kekkou Kamen (1994)(Dynamic Production)(Disk 2 of 8)(Disk B).fdi
+:	:	Kekkou Kamen (1994)(Dynamic Production)(Disk 3 of 8)(Disk C).fdi
+:	:	Kekkou Kamen (1994)(Dynamic Production)(Disk 4 of 8)(Disk D).fdi
+:	:	Kekkou Kamen (1994)(Dynamic Production)(Disk 5 of 8)(Disk E).fdi
+:	:	Kekkou Kamen (1994)(Dynamic Production)(Disk 6 of 8)(Disk F).fdi
+:	:	Kekkou Kamen (1994)(Dynamic Production)(Disk 7 of 8)(Disk G).fdi
+:	:	Kekkou Kamen (1994)(Dynamic Production)(Disk 8 of 8)(Disk H).fdi
+:	:	Kimagure Orange Road (19xx)(Micro Cabin)(Disk 1 of 2).fdi
+:	:	Kimagure Orange Road (19xx)(Micro Cabin)(Disk 2 of 2).fdi
+:	:	Lakers 1 (1993)(Apple Pie)(Disk 1 of 6).fdi
+:	:	Lakers 1 (1993)(Apple Pie)(Disk 2 of 6).fdi
+:	:	Lakers 1 (1993)(Apple Pie)(Disk 3 of 6).fdi
+:	:	Lakers 1 (1993)(Apple Pie)(Disk 4 of 6).fdi
+:	:	Lakers 1 (1993)(Apple Pie)(Disk 5 of 6).fdi
+:	:	Lakers 1 (1993)(Apple Pie)(Disk 6 of 6).fdi
+:	:	Lakers 2 (1994)(Apple Pie)(Disk 1 of 8).fdi
+:	:	Lakers 2 (1994)(Apple Pie)(Disk 2 of 8).fdi
+:	:	Lakers 2 (1994)(Apple Pie)(Disk 3 of 8).fdi
+:	:	Lakers 2 (1994)(Apple Pie)(Disk 4 of 8).fdi
+:	:	Lakers 2 (1994)(Apple Pie)(Disk 5 of 8).fdi
+:	:	Lakers 2 (1994)(Apple Pie)(Disk 6 of 8).fdi
+:	:	Lakers 2 (1994)(Apple Pie)(Disk 7 of 8).fdi
+:	:	Lakers 2 (1994)(Apple Pie)(Disk 8 of 8).fdi
+:	:	Lipstick Adventure 2 (1990)(Fairy Tale)(Disk 1 of 2)(Disk A).fdi
+:	:	Lipstick Adventure 2 (1990)(Fairy Tale)(Disk 2 of 2)(Disk B).fdi
+:	:	Lipstick Adventure 3 (1993)(Fairy Tale)(Disk 1 of 5)(Disk A).fdi
+:	:	Lipstick Adventure 3 (1993)(Fairy Tale)(Disk 2 of 5)(Disk B).fdi
+:	:	Lipstick Adventure 3 (1993)(Fairy Tale)(Disk 3 of 5)(Disk C).fdi
+:	:	Lipstick Adventure 3 (1993)(Fairy Tale)(Disk 4 of 5)(Disk D).fdi
+:	:	Lipstick Adventure 3 (1993)(Fairy Tale)(Disk 5 of 5)(Disk E).fdi
+:	:	Lodoss to Senki 1 - Haiiro no Majio (19xx)(Humming Bird)(Disk 1 of 3)(Program Disk).fdi
+:	:	Lodoss to Senki 1 - Haiiro no Majio (19xx)(Humming Bird)(Disk 2 of 3)(Scenario Disk).fdi
+:	:	Lodoss to Senki 1 - Haiiro no Majio (19xx)(Humming Bird)(Disk 3 of 3)(User Disk).fdi
+:	:	Lodoss to Senki 2 - 5 Syoku no Majio (19xx)(Humming Bird)(Disk 1 of 4)(System Disk).fdi
+:	:	Lodoss to Senki 2 - 5 Syoku no Majio (19xx)(Humming Bird)(Disk 2 of 4)(Mission Disk).fdi
+:	:	Lodoss to Senki 2 - 5 Syoku no Majio (19xx)(Humming Bird)(Disk 3 of 4)(Adventure Disk).fdi
+:	:	Lodoss to Senki 2 - 5 Syoku no Majio (19xx)(Humming Bird)(Disk 4 of 4)(User Disk).fdi
+:	:	Lodoss to Senki 3 - Fukujinduke (19xx)(Humming Bird)(Disk 1 of 2)(System Disk).fdi
+:	:	Lodoss to Senki 3 - Fukujinduke (19xx)(Humming Bird)(Disk 2 of 2)(Data Disk).fdi
+:	:	Macross 1 - Remember Me (1991)(Family Soft)(Disk 1 of 4).fdi
+:	:	Macross 1 - Remember Me (1991)(Family Soft)(Disk 2 of 4).fdi
+:	:	Macross 1 - Remember Me (1991)(Family Soft)(Disk 3 of 4).fdi
+:	:	Macross 1 - Remember Me (1991)(Family Soft)(Disk 4 of 4).fdi
+:	:	Macross 2 - Skull Leader (1993)(Family Soft)(Disk 1 of 5).fdi
+:	:	Macross 2 - Skull Leader (1993)(Family Soft)(Disk 2 of 5).fdi
+:	:	Macross 2 - Skull Leader (1993)(Family Soft)(Disk 3 of 5).fdi
+:	:	Macross 2 - Skull Leader (1993)(Family Soft)(Disk 4 of 5).fdi
+:	:	Macross 2 - Skull Leader (1993)(Family Soft)(Disk 5 of 5).fdi
+:	:	Macross 3 - Love Stories (1994)(Family Soft)(Disk 1 of 3).fdi
+:	:	Macross 3 - Love Stories (1994)(Family Soft)(Disk 2 of 3).fdi
+:	:	Macross 3 - Love Stories (1994)(Family Soft)(Disk 3 of 3).fdi
+:	:	Marginal Points (1995)(Lunar Soft)(Disk 1 of 9)(Disk A).fdi
+:	:	Marginal Points (1995)(Lunar Soft)(Disk 2 of 9)(Disk B).fdi
+:	:	Marginal Points (1995)(Lunar Soft)(Disk 3 of 9)(Disk C).fdi
+:	:	Marginal Points (1995)(Lunar Soft)(Disk 4 of 9)(Disk D).fdi
+:	:	Marginal Points (1995)(Lunar Soft)(Disk 5 of 9)(Disk E).fdi
+:	:	Marginal Points (1995)(Lunar Soft)(Disk 6 of 9)(Disk F).fdi
+:	:	Marginal Points (1995)(Lunar Soft)(Disk 7 of 9)(Disk G).fdi
+:	:	Marginal Points (1995)(Lunar Soft)(Disk 8 of 9)(Disk H).fdi
+:	:	Marginal Points (1995)(Lunar Soft)(Disk 9 of 9)(Disk I).fdi
+:	:	Marine Buster (1993)(Silky's)(Disk 1 of 2).fdi
+:	:	Marine Buster (1993)(Silky's)(Disk 2 of 2).fdi
+:	:	Markadia (1993)(BIO 100%).fdi
+:	:	Markadia (1993)(BIO 100%)[a].fdi
+:	:	Master Of Monstars 2 - Scenario Disk (19xx)(System Soft).fdi
+:	:	Master Of Monsters 2 (1991)(SystemSoft)(Disk 1 of 3)(Game 1).fdi
+:	:	Master Of Monsters 2 (1991)(SystemSoft)(Disk 2 of 3)(Game 2).fdi
+:	:	Master Of Monsters 2 (1991)(SystemSoft)(Disk 3 of 3)(User Disk).fdi
+:	:	Master of Monstars Final - Tasogare No Yubiwa (1992)(SystemSoft)(Disk 1 of 4)(Game 1).fdi
+:	:	Master of Monstars Final - Tasogare No Yubiwa (1992)(SystemSoft)(Disk 2 of 4)(Game 2).fdi
+:	:	Master of Monstars Final - Tasogare No Yubiwa (1992)(SystemSoft)(Disk 3 of 4)(Game 3).fdi
+:	:	Master of Monstars Final - Tasogare No Yubiwa (1992)(SystemSoft)(Disk 4 of 4)(User Disk).fdi
+:	:	Maten Gakuen (1994)(Birdy Soft)(Disk 1 of 6)(Disk A).fdi
+:	:	Maten Gakuen (1994)(Birdy Soft)(Disk 2 of 6)(Disk B).fdi
+:	:	Maten Gakuen (1994)(Birdy Soft)(Disk 3 of 6)(Disk C).fdi
+:	:	Maten Gakuen (1994)(Birdy Soft)(Disk 4 of 6)(Disk D).fdi
+:	:	Maten Gakuen (1994)(Birdy Soft)(Disk 5 of 6)(Disk E).fdi
+:	:	Maten Gakuen (1994)(Birdy Soft)(Disk 6 of 6)(Disk F).fdi
+:	:	Mayumi (1992)(Cocktail Soft)(Disk 1 of 2)(Disk A).fdi
+:	:	Mayumi (1992)(Cocktail Soft)(Disk 2 of 2)(Disk B).fdi
+:	:	Metal Eye 2 (1994)(Elf)(Disk 1 of 8)(Disk A).fdi
+:	:	Metal Eye 2 (1994)(Elf)(Disk 2 of 8)(Disk B).fdi
+:	:	Metal Eye 2 (1994)(Elf)(Disk 3 of 8)(Disk C).fdi
+:	:	Metal Eye 2 (1994)(Elf)(Disk 4 of 8)(Disk D).fdi
+:	:	Metal Eye 2 (1994)(Elf)(Disk 5 of 8)(Disk E).fdi
+:	:	Metal Eye 2 (1994)(Elf)(Disk 6 of 8)(Disk F).fdi
+:	:	Metal Eye 2 (1994)(Elf)(Disk 7 of 8)(Disk G).fdi
+:	:	Metal Eye 2 (1994)(Elf)(Disk 8 of 8)(Disk H).fdi
+:	:	Metal Mover Jaststrike (1995)(Apple Pie)(Disk 1 of 2)(System Disk).fdi
+:	:	Metal Mover Jaststrike (1995)(Apple Pie)(Disk 2 of 2)(Data Disk).fdi
+:	:	Miho Premium Collection No.003 (19xx)(Fairy Tale)(Disk 1 of 4)(Disk A).fdi
+:	:	Miho Premium Collection No.003 (19xx)(Fairy Tale)(Disk 2 of 4)(Disk B).fdi
+:	:	Miho Premium Collection No.003 (19xx)(Fairy Tale)(Disk 3 of 4)(Disk C).fdi
+:	:	Miho Premium Collection No.003 (19xx)(Fairy Tale)(Disk 4 of 4)(Disk D).fdi
+:	:	Mobile Suit Gundam - One Year War (1993)(Family Soft)(Disk 1 of 3)(System Disk).fdi
+:	:	Mobile Suit Gundam - One Year War (1993)(Family Soft)(Disk 2 of 3)(Game 1).fdi
+:	:	Mobile Suit Gundam - One Year War (1993)(Family Soft)(Disk 3 of 3)(Game 2).fdi
+:	:	Mobile Suit Gundam - Return of Zion (19xx)(Family Soft)(Disk 1 of 2)(Disk A).fdi
+:	:	Mobile Suit Gundam - Return of Zion (19xx)(Family Soft)(Disk 2 of 2)(Disk B).fdi
+:	:	Mug-R (1994)(Parsley)(Disk 1 of 5)(System Disk).fdi
+:	:	Mug-R (1994)(Parsley)(Disk 2 of 5)(Disk A).fdi
+:	:	Mug-R (1994)(Parsley)(Disk 3 of 5)(Disk B).fdi
+:	:	Mug-R (1994)(Parsley)(Disk 4 of 5)(Disk C).fdi
+:	:	Mug-R (1994)(Parsley)(Disk 5 of 5)(Disk D).fdi
+:	:	Mugen Hoyo (1995)(Alice Soft)(Disk 1 of 5)[Req Install].fdi
+:	:	Mugen Hoyo (1995)(Alice Soft)(Disk 2 of 5)[Req Install].fdi
+:	:	Mugen Hoyo (1995)(Alice Soft)(Disk 3 of 5)[Req Install].fdi
+:	:	Mugen Hoyo (1995)(Alice Soft)(Disk 4 of 5)[Req Install].fdi
+:	:	Mugen Hoyo (1995)(Alice Soft)(Disk 5 of 5)[Req Install].fdi
+:	:	Nobunaga no Yabo Busyo Fuunroku (1990)(Koei)(Disk 1 of 2)(Disk A).fdi
+:	:	Nobunaga no Yabo Busyo Fuunroku (1990)(Koei)(Disk 2 of 2)(Disk B).fdi
+:	:	Nobunaga no Yabo Haoden (1992)(Koei)(Disk 1 of 4)(System Disk).fdi
+:	:	Nobunaga no Yabo Haoden (1992)(Koei)(Disk 2 of 4)(Data Disk).fdi
+:	:	Nobunaga no Yabo Haoden (1992)(Koei)(Disk 3 of 4)(Scenario Disk).fdi
+:	:	Nobunaga no Yabo Haoden (1992)(Koei)(Disk 4 of 4)(Ending Disk).fdi
+:	:	Nobunaga no Yabo Haoden Powerup Disk (1992)(Koei)(Disk 1 of 2).fdi
+:	:	Nobunaga no Yabo Haoden Powerup Disk (1992)(Koei)(Disk 2 of 2).fdi
+:	:	Nobunaga no Yabo Tensyoki (1994)(Koei)(Disk 1 of 6).fdi
+:	:	Nobunaga no Yabo Tensyoki (1994)(Koei)(Disk 2 of 6).fdi
+:	:	Nobunaga no Yabo Tensyoki (1994)(Koei)(Disk 3 of 6).fdi
+:	:	Nobunaga no Yabo Tensyoki (1994)(Koei)(Disk 4 of 6).fdi
+:	:	Nobunaga no Yabo Tensyoki (1994)(Koei)(Disk 5 of 6).fdi
+:	:	Nobunaga no Yabo Tensyoki (1994)(Koei)(Disk 6 of 6).fdi
+:	:	Nooch (1992)(BonbeeBonBon)(Disk 1 of 5)(Disk A).fdi
+:	:	Nooch (1992)(BonbeeBonBon)(Disk 2 of 5)(Disk B).fdi
+:	:	Nooch (1992)(BonbeeBonBon)(Disk 3 of 5)(Disk C).fdi
+:	:	Nooch (1992)(BonbeeBonBon)(Disk 4 of 5)(Disk D).fdi
+:	:	Nooch (1992)(BonbeeBonBon)(Disk 5 of 5)(Disk E).fdi
+:	:	Nooch 2 - Revenge Of Remy (1993)(BonbeeBonBon)(Disk 1 of 7)(Disk A).fdi
+:	:	Nooch 2 - Revenge Of Remy (1993)(BonbeeBonBon)(Disk 2 of 7)(Disk B).fdi
+:	:	Nooch 2 - Revenge Of Remy (1993)(BonbeeBonBon)(Disk 3 of 7)(Disk C).fdi
+:	:	Nooch 2 - Revenge Of Remy (1993)(BonbeeBonBon)(Disk 4 of 7)(Disk D).fdi
+:	:	Nooch 2 - Revenge Of Remy (1993)(BonbeeBonBon)(Disk 5 of 7)(Disk E).fdi
+:	:	Nooch 2 - Revenge Of Remy (1993)(BonbeeBonBon)(Disk 6 of 7)(Disk F).fdi
+:	:	Nooch 2 - Revenge Of Remy (1993)(BonbeeBonBon)(Disk 7 of 7)(Disk G).fdi
+:	:	Nooch 3 (1994)(BonbeeBonBon)(Disk 1 of 6)(Disk A).fdi
+:	:	Nooch 3 (1994)(BonbeeBonBon)(Disk 2 of 6)(Disk B).fdi
+:	:	Nooch 3 (1994)(BonbeeBonBon)(Disk 3 of 6)(Disk C).fdi
+:	:	Nooch 3 (1994)(BonbeeBonBon)(Disk 4 of 6)(Disk D).fdi
+:	:	Nooch 3 (1994)(BonbeeBonBon)(Disk 5 of 6)(Disk E).fdi
+:	:	Nooch 3 (1994)(BonbeeBonBon)(Disk 6 of 6)(Disk F).fdi
+:	:	Nova Miirareta Sitai (1993)(Cat's Pro.)(Disk 1 of 4)(Disk A).fdi
+:	:	Nova Miirareta Sitai (1993)(Cat's Pro.)(Disk 2 of 4)(Disk B).fdi
+:	:	Nova Miirareta Sitai (1993)(Cat's Pro.)(Disk 3 of 4)(Disk C).fdi
+:	:	Nova Miirareta Sitai (1993)(Cat's Pro.)(Disk 4 of 4)(Disk D).fdi
+:	:	Nurse no Mumasensen (1993)(Wendy Magazine)(Disk 1 of 2).fdi
+:	:	Nurse no Mumasensen (1993)(Wendy Magazine)(Disk 2 of 2).fdi
+:	:	OL Sousamou (19xx)(Witch's)(Disk 1 of 6)[Req Install].fdi
+:	:	OL Sousamou (19xx)(Witch's)(Disk 2 of 6)[Req Install].fdi
+:	:	OL Sousamou (19xx)(Witch's)(Disk 3 of 6)[Req Install].fdi
+:	:	OL Sousamou (19xx)(Witch's)(Disk 4 of 6)[Req Install].fdi
+:	:	OL Sousamou (19xx)(Witch's)(Disk 5 of 6)[Req Install].fdi
+:	:	OL Sousamou (19xx)(Witch's)(Disk 6 of 6)[Req Install].fdi
+:	:	Onnanoko No Shikumi (19xx)(-)(Disk 1 of 4).fdi
+:	:	Onnanoko No Shikumi (19xx)(-)(Disk 2 of 4).fdi
+:	:	Onnanoko No Shikumi (19xx)(-)(Disk 3 of 4).fdi
+:	:	Onnanoko No Shikumi (19xx)(-)(Disk 4 of 4).fdi
+:	:	Persona - Ingyaku no Kamen (1996)(Sorciere)(Disk 1 of 5)[Req Install].fdi
+:	:	Persona - Ingyaku no Kamen (1996)(Sorciere)(Disk 2 of 5)[Req Install].fdi
+:	:	Persona - Ingyaku no Kamen (1996)(Sorciere)(Disk 3 of 5)[Req Install].fdi
+:	:	Persona - Ingyaku no Kamen (1996)(Sorciere)(Disk 4 of 5)[Req Install].fdi
+:	:	Persona - Ingyaku no Kamen (1996)(Sorciere)(Disk 5 of 5)[Req Install].fdi
+:	:	Phil Snown (1995)(Leaf)(Disk 1 of 6)(Disk A).fdi
+:	:	Phil Snown (1995)(Leaf)(Disk 2 of 6)(Disk B).fdi
+:	:	Phil Snown (1995)(Leaf)(Disk 3 of 6)(Disk C).fdi
+:	:	Phil Snown (1995)(Leaf)(Disk 4 of 6)(Disk D).fdi
+:	:	Phil Snown (1995)(Leaf)(Disk 5 of 6)(Disk E).fdi
+:	:	Phil Snown (1995)(Leaf)(Disk 6 of 6)(Disk F).fdi
+:	:	Pink Sox 4 (1991)(Wendy Magazine)(Disk 1 of 2)(Disk A).fdi
+:	:	Pink Sox 4 (1991)(Wendy Magazine)(Disk 2 of 2)(Disk B).fdi
+:	:	Pink Sox 5 (1991)(Wendy Magazine)(Disk 1 of 2)(Disk A).fdi
+:	:	Pink Sox 5 (1991)(Wendy Magazine)(Disk 2 of 2)(Disk B).fdi
+:	:	Pink Sox 6 (1991)(Wendy Magazine)(Disk 1 of 2)(Disk A).fdi
+:	:	Pink Sox 6 (1991)(Wendy Magazine)(Disk 2 of 2)(Disk B).fdi
+:	:	Power Dolls 1 (1994)(Kogado Software Products)(Disk 1 of 5)(System Disk).fdi
+:	:	Power Dolls 1 (1994)(Kogado Software Products)(Disk 2 of 5)(Breafing Disk).fdi
+:	:	Power Dolls 1 (1994)(Kogado Software Products)(Disk 3 of 5)(Mision Disk).fdi
+:	:	Power Dolls 1 (1994)(Kogado Software Products)(Disk 4 of 5)(Result Disk).fdi
+:	:	Power Dolls 1 (1994)(Kogado Software Products)(Disk 5 of 5)(User Disk).fdi
+:	:	Power Dolls 2 (1994)(Kogado Software Products)(Disk 1 of 6)(System Disk).fdi
+:	:	Power Dolls 2 (1994)(Kogado Software Products)(Disk 2 of 6)(Breafing Disk).fdi
+:	:	Power Dolls 2 (1994)(Kogado Software Products)(Disk 3 of 6)(Mission Disk).fdi
+:	:	Power Dolls 2 (1994)(Kogado Software Products)(Disk 4 of 6)(Result Disk).fdi
+:	:	Power Dolls 2 (1994)(Kogado Software Products)(Disk 5 of 6)(Extend Disk).fdi
+:	:	Power Dolls 2 (1994)(Kogado Software Products)(Disk 6 of 6)(User Disk).fdi
+:	:	Princess Maker 1 (1991)(Gainax)(Disk 1 of 7)(Disk A).fdi
+:	:	Princess Maker 1 (1991)(Gainax)(Disk 2 of 7)(Disk B).fdi
+:	:	Princess Maker 1 (1991)(Gainax)(Disk 3 of 7)(Disk C).fdi
+:	:	Princess Maker 1 (1991)(Gainax)(Disk 4 of 7)(Disk D).fdi
+:	:	Princess Maker 1 (1991)(Gainax)(Disk 5 of 7)(Disk E).fdi
+:	:	Princess Maker 1 (1991)(Gainax)(Disk 6 of 7)(Disk F).fdi
+:	:	Princess Maker 1 (1991)(Gainax)(Disk 7 of 7)(Disk G).fdi
+:	:	Princess Maker 2 (1993)(Gainax)(Disk 01 of 12)(Disk A).fdi
+:	:	Princess Maker 2 (1993)(Gainax)(Disk 02 of 12)(Disk B).fdi
+:	:	Princess Maker 2 (1993)(Gainax)(Disk 03 of 12)(Disk C).fdi
+:	:	Princess Maker 2 (1993)(Gainax)(Disk 04 of 12)(Disk D).fdi
+:	:	Princess Maker 2 (1993)(Gainax)(Disk 05 of 12)(Disk E).fdi
+:	:	Princess Maker 2 (1993)(Gainax)(Disk 06 of 12)(Disk F).fdi
+:	:	Princess Maker 2 (1993)(Gainax)(Disk 07 of 12)(Disk G).fdi
+:	:	Princess Maker 2 (1993)(Gainax)(Disk 08 of 12)(Disk H).fdi
+:	:	Princess Maker 2 (1993)(Gainax)(Disk 09 of 12)(Disk I).fdi
+:	:	Princess Maker 2 (1993)(Gainax)(Disk 10 of 12)(Disk J).fdi
+:	:	Princess Maker 2 (1993)(Gainax)(Disk 11 of 12)(Disk K).fdi
+:	:	Princess Maker 2 (1993)(Gainax)(Disk 12 of 12)(Disk L).fdi
+:	:	Princess Minerva (1992)(Riverhill Soft)(Disk 1 of 6)(System Disk).fdi
+:	:	Princess Minerva (1992)(Riverhill Soft)(Disk 2 of 6)(Scenario 1).fdi
+:	:	Princess Minerva (1992)(Riverhill Soft)(Disk 3 of 6)(Scenario 2).fdi
+:	:	Princess Minerva (1992)(Riverhill Soft)(Disk 4 of 6)(Scenario 3).fdi
+:	:	Princess Minerva (1992)(Riverhill Soft)(Disk 5 of 6)(Visual 1).fdi
+:	:	Princess Minerva (1992)(Riverhill Soft)(Disk 6 of 6)(Visual 2).fdi
+:	:	Purple Cat Vol 1 (1993)(Palm Tree)(Disk 1 of 2)(Disk A).fdi
+:	:	Purple Cat Vol 1 (1993)(Palm Tree)(Disk 2 of 2)(Disk B).fdi
+:	:	Purple Cat Vol 2 (1993)(Palm Tree)(Disk 1 of 4)(Disk A).fdi
+:	:	Purple Cat Vol 2 (1993)(Palm Tree)(Disk 2 of 4)(Disk B).fdi
+:	:	Purple Cat Vol 2 (1993)(Palm Tree)(Disk 3 of 4)(Disk C).fdi
+:	:	Purple Cat Vol 2 (1993)(Palm Tree)(Disk 4 of 4)(Disk D).fdi
+:	:	Purple Cat Vol 3 (1993)(Palm Tree)(Disk 1 of 5)(Disk A).fdi
+:	:	Purple Cat Vol 3 (1993)(Palm Tree)(Disk 2 of 5)(Disk B).fdi
+:	:	Purple Cat Vol 3 (1993)(Palm Tree)(Disk 3 of 5)(Disk C).fdi
+:	:	Purple Cat Vol 3 (1993)(Palm Tree)(Disk 4 of 5)(Disk D).fdi
+:	:	Purple Cat Vol 3 (1993)(Palm Tree)(Disk 5 of 5)(Disk E).fdi
+:	:	Quiz Chiryaku no Hasya - Sangokushi Kitan (19xx)(Capcom)(Disk 1 of 2)(Disk A).fdi
+:	:	Quiz Chiryaku no Hasya - Sangokushi Kitan (19xx)(Capcom)(Disk 2 of 2)(Disk B).fdi
+:	:	Ranma and half Hiryu Densetu (19xx)(Bothtec)(Disk 1 of 8).fdi
+:	:	Ranma and half Hiryu Densetu (19xx)(Bothtec)(Disk 2 of 8).fdi
+:	:	Ranma and half Hiryu Densetu (19xx)(Bothtec)(Disk 3 of 8).fdi
+:	:	Ranma and half Hiryu Densetu (19xx)(Bothtec)(Disk 4 of 8).fdi
+:	:	Ranma and half Hiryu Densetu (19xx)(Bothtec)(Disk 5 of 8).fdi
+:	:	Ranma and half Hiryu Densetu (19xx)(Bothtec)(Disk 6 of 8).fdi
+:	:	Ranma and half Hiryu Densetu (19xx)(Bothtec)(Disk 7 of 8).fdi
+:	:	Ranma and half Hiryu Densetu (19xx)(Bothtec)(Disk 8 of 8).fdi
+:	:	Reijiyu - Twin Road (1996)(Apple Pie)(Disk 1 of 5)(System Disk).fdi
+:	:	Reijiyu - Twin Road (1996)(Apple Pie)(Disk 2 of 5)(Data 1).fdi
+:	:	Reijiyu - Twin Road (1996)(Apple Pie)(Disk 3 of 5)(Data 2).fdi
+:	:	Reijiyu - Twin Road (1996)(Apple Pie)(Disk 4 of 5)(Data 3).fdi
+:	:	Reijiyu - Twin Road (1996)(Apple Pie)(Disk 5 of 5)(Data 4).fdi
+:	:	Robo Crush 2 (19xx)(System Soft)(Disk 1 of 3)(Disk A).fdi
+:	:	Robo Crush 2 (19xx)(System Soft)(Disk 2 of 3)(Disk B).fdi
+:	:	Robo Crush 2 (19xx)(System Soft)(Disk 3 of 3)(Disk C).fdi
+:	:	Robo Crush 98 (19xx)(System Soft)(Disk 1 of 2).fdi
+:	:	Robo Crush 98 (19xx)(System Soft)(Disk 2 of 2).fdi
+:	:	Run Run Concerto (19xx)(Elf)(Disk 1 of 2)(Disk A).fdi
+:	:	Run Run Concerto (19xx)(Elf)(Disk 2 of 2)(Disk B).fdi
+:	:	S.A. 1 (19xx)(Tanaka Brothers).fdi
+:	:	S.A. 2 (19xx)(Tanaka Brothers).fdi
+:	:	S.A. 3 (1995)(Tanaka Brothers)(Disk 1 of 2).fdi
+:	:	S.A. 3 (1995)(Tanaka Brothers)(Disk 2 of 2).fdi
+:	:	Saint Diary (1996)(Desire)(Disk 1 of 6)(Disk A)[Req Install].fdi
+:	:	Saint Diary (1996)(Desire)(Disk 2 of 6)(Disk B)[Req Install].fdi
+:	:	Saint Diary (1996)(Desire)(Disk 3 of 6)(Disk C)[Req Install].fdi
+:	:	Saint Diary (1996)(Desire)(Disk 4 of 6)(Disk D)[Req Install].fdi
+:	:	Saint Diary (1996)(Desire)(Disk 5 of 6)(Disk E)[Req Install].fdi
+:	:	Saint Diary (1996)(Desire)(Disk 6 of 6)(Disk F)[Req Install].fdi
+:	:	Sangokushi 3 (19xx)(Koei)(Disk 1 of 3)(Disk A).fdi
+:	:	Sangokushi 3 (19xx)(Koei)(Disk 2 of 3)(Disk B).fdi
+:	:	Sangokushi 3 (19xx)(Koei)(Disk 3 of 3)(Disk C).fdi
+:	:	Sangokushi Eiketuden (19xx)(Koei)(Disk 1 of 4).fdi
+:	:	Sangokushi Eiketuden (19xx)(Koei)(Disk 2 of 4).fdi
+:	:	Sangokushi Eiketuden (19xx)(Koei)(Disk 3 of 4).fdi
+:	:	Sangokushi Eiketuden (19xx)(Koei)(Disk 4 of 4).fdi
+:	:	Saori (19xx)(X-Sitei)(Disk 1 of 2).fdi
+:	:	Saori (19xx)(X-Sitei)(Disk 2 of 2).fdi
+:	:	Shanglia (1991)(Elf)(Disk 1 of 4).fdi
+:	:	Shanglia (1991)(Elf)(Disk 2 of 4).fdi
+:	:	Shanglia (1991)(Elf)(Disk 3 of 4).fdi
+:	:	Shanglia (1991)(Elf)(Disk 4 of 4).fdi
+:	:	Silent Mobius (1990)(Gainax)(Disk 1 of 7)(Disk 1 - Fuuin).fdi
+:	:	Silent Mobius (1990)(Gainax)(Disk 2 of 7)(Disk 2 - Taido).fdi
+:	:	Silent Mobius (1990)(Gainax)(Disk 3 of 7)(Disk 3 - Zyubaku).fdi
+:	:	Silent Mobius (1990)(Gainax)(Disk 4 of 7)(Disk 4 - Houkou).fdi
+:	:	Silent Mobius (1990)(Gainax)(Disk 5 of 7)(Disk 5 - Kyoukan).fdi
+:	:	Silent Mobius (1990)(Gainax)(Disk 6 of 7)(Disk 6 - Syousou).fdi
+:	:	Silent Mobius (1990)(Gainax)(Disk 7 of 7)(Disk 7 - Doukoku).fdi
+:	:	Slayers (1994)(Banpresto)(Disk 1 of 6)(Disk A).fdi
+:	:	Slayers (1994)(Banpresto)(Disk 2 of 6)(Disk B).fdi
+:	:	Slayers (1994)(Banpresto)(Disk 3 of 6)(Disk C).fdi
+:	:	Slayers (1994)(Banpresto)(Disk 4 of 6)(Disk D).fdi
+:	:	Slayers (1994)(Banpresto)(Disk 5 of 6)(Disk E).fdi
+:	:	Slayers (1994)(Banpresto)(Disk 6 of 6)(Disk F).fdi
+:	:	Snow Memory (19xx)(Birdy Soft)(Disk 1 of 6)[Req Install].fdi
+:	:	Snow Memory (19xx)(Birdy Soft)(Disk 1 of 6)[a][Req Install].fdi
+:	:	Snow Memory (19xx)(Birdy Soft)(Disk 2 of 6)[Req Install].fdi
+:	:	Snow Memory (19xx)(Birdy Soft)(Disk 3 of 6)[Req Install].fdi
+:	:	Snow Memory (19xx)(Birdy Soft)(Disk 4 of 6)[Req Install].fdi
+:	:	Snow Memory (19xx)(Birdy Soft)(Disk 5 of 6)[Req Install].fdi
+:	:	Snow Memory (19xx)(Birdy Soft)(Disk 6 of 6)[Req Install].fdi
+:	:	Sorcerian (1987)(Falcom)(Disk 1 of 6)(Program Disk).fdi
+:	:	Sorcerian (1987)(Falcom)(Disk 2 of 6)(Scenario 1).fdi
+:	:	Sorcerian (1987)(Falcom)(Disk 3 of 6)(Scenario 2).fdi
+:	:	Sorcerian (1987)(Falcom)(Disk 4 of 6)(Scenario 3).fdi
+:	:	Sorcerian (1987)(Falcom)(Disk 5 of 6)(User Disk).fdi
+:	:	Sorcerian (1987)(Falcom)(Disk 6 of 6)(Utility Disk).fdi
+:	:	Sotugyo 1 (1992)(Japan Home Video)(Disk 1 of 5)(Disk A).fdi
+:	:	Sotugyo 1 (1992)(Japan Home Video)(Disk 2 of 5)(Disk B).fdi
+:	:	Sotugyo 1 (1992)(Japan Home Video)(Disk 3 of 5)(Disk C).fdi
+:	:	Sotugyo 1 (1992)(Japan Home Video)(Disk 4 of 5)(Disk D).fdi
+:	:	Sotugyo 1 (1992)(Japan Home Video)(Disk 5 of 5)(Disk E).fdi
+:	:	Steam Heart's (1994)(Giga)(Disk 1 of 5)(Disk A).fdi
+:	:	Steam Heart's (1994)(Giga)(Disk 2 of 5)(Disk B).fdi
+:	:	Steam Heart's (1994)(Giga)(Disk 3 of 5)(Disk C).fdi
+:	:	Steam Heart's (1994)(Giga)(Disk 4 of 5)(Disk D).fdi
+:	:	Steam Heart's (1994)(Giga)(Disk 5 of 5)(Disk E).fdi
+:	:	Super Battle Skin Panic (1991)(Gainax)(Disk 1 of 2)(Disk A).fdi
+:	:	Super Battle Skin Panic (1991)(Gainax)(Disk 1 of 2)(Disk A)[a].fdi
+:	:	Super Battle Skin Panic (1991)(Gainax)(Disk 2 of 2)(Disk B).fdi
+:	:	Super Ultra Muttin Ultra Puripri Cyborg Maririn-DX (19xx)(Jast)(Disk 1 of 3).fdi
+:	:	Super Ultra Muttin Ultra Puripri Cyborg Maririn-DX (19xx)(Jast)(Disk 2 of 3).fdi
+:	:	Super Ultra Muttin Ultra Puripri Cyborg Maririn-DX (19xx)(Jast)(Disk 3 of 3).fdi
+:	:	Sweet Emotion (1991)(Discovery)(Disk 1 of 3)(Disk A).fdi
+:	:	Sweet Emotion (1991)(Discovery)(Disk 2 of 3)(Disk B).fdi
+:	:	Sweet Emotion (1991)(Discovery)(Disk 3 of 3)(Disk C).fdi
+:	:	Sword Dancer (19xx)(TGL)(Disk 1 of 7)(Opening Disk).fdi
+:	:	Sword Dancer (19xx)(TGL)(Disk 2 of 7)(System Disk).fdi
+:	:	Sword Dancer (19xx)(TGL)(Disk 3 of 7)(Visual Disk).fdi
+:	:	Sword Dancer (19xx)(TGL)(Disk 4 of 7)(Disk A).fdi
+:	:	Sword Dancer (19xx)(TGL)(Disk 5 of 7)(Disk B).fdi
+:	:	Sword Dancer (19xx)(TGL)(Disk 6 of 7)(Disk C).fdi
+:	:	Sword Dancer (19xx)(TGL)(Disk 7 of 7)(User Disk).fdi
+:	:	Sword Dancer Goddess of the Evil Blade (19xx)(TGL)(Disk 1 of 7)(Disk A).fdi
+:	:	Sword Dancer Goddess of the Evil Blade (19xx)(TGL)(Disk 2 of 7)(Disk B).fdi
+:	:	Sword Dancer Goddess of the Evil Blade (19xx)(TGL)(Disk 3 of 7)(Disk C).fdi
+:	:	Sword Dancer Goddess of the Evil Blade (19xx)(TGL)(Disk 4 of 7)(Disk D).fdi
+:	:	Sword Dancer Goddess of the Evil Blade (19xx)(TGL)(Disk 5 of 7)(Disk E).fdi
+:	:	Sword Dancer Goddess of the Evil Blade (19xx)(TGL)(Disk 6 of 7)(Disk F).fdi
+:	:	Sword Dancer Goddess of the Evil Blade (19xx)(TGL)(Disk 7 of 7)(Disk G).fdi
+:	:	Sword Dancer Zoukan 93 (19xx)(TGL)(Disk 1 of 3)(Disk A).fdi
+:	:	Sword Dancer Zoukan 93 (19xx)(TGL)(Disk 2 of 3)(Disk B).fdi
+:	:	Sword Dancer Zoukan 93 (19xx)(TGL)(Disk 3 of 3)(Disk C).fdi
+:	:	Sword Dancer Zoukango (19xx)(TGL)(Disk 1 of 2)(Disk A).fdi
+:	:	Sword Dancer Zoukango (19xx)(TGL)(Disk 2 of 2)(Disk B).fdi
+:	:	Tania (1996)(Tips)(Disk 1 of 3)(Disk A)[Req Install].fdi
+:	:	Tania (1996)(Tips)(Disk 2 of 3)(Disk B)[Req Install].fdi
+:	:	Tania (1996)(Tips)(Disk 3 of 3)(Disk C)[Req Install].fdi
+:	:	Tenchi Muyo (19xx)(Banpresto)(Disk 1 of 9)(Disk A).fdi
+:	:	Tenchi Muyo (19xx)(Banpresto)(Disk 2 of 9)(Disk B).fdi
+:	:	Tenchi Muyo (19xx)(Banpresto)(Disk 3 of 9)(Disk C).fdi
+:	:	Tenchi Muyo (19xx)(Banpresto)(Disk 4 of 9)(Disk D).fdi
+:	:	Tenchi Muyo (19xx)(Banpresto)(Disk 5 of 9)(Disk E).fdi
+:	:	Tenchi Muyo (19xx)(Banpresto)(Disk 6 of 9)(Disk F).fdi
+:	:	Tenchi Muyo (19xx)(Banpresto)(Disk 7 of 9)(Disk G).fdi
+:	:	Tenchi Muyo (19xx)(Banpresto)(Disk 8 of 9)(Disk H).fdi
+:	:	Tenchi Muyo (19xx)(Banpresto)(Disk 9 of 9)(Disk I).fdi
+:	:	Tenka Toitu 2 (19xx)(System Soft)(Disk 1 of 2).fdi
+:	:	Tenka Toitu 2 (19xx)(System Soft)(Disk 2 of 2).fdi
+:	:	Tenka Toitu 2 - Power Upgrade Set (19xx)(System Soft)(Disk 1 of 2).fdi
+:	:	Tenka Toitu 2 - Power Upgrade Set (19xx)(System Soft)(Disk 2 of 2).fdi
+:	:	Tir-nan-og 1 (19xx)(System Soft)(Disk 1 of 2)(System Disk).fdi
+:	:	Tir-nan-og 1 (19xx)(System Soft)(Disk 2 of 2)(User Disk).fdi
+:	:	Tir-nan-og 2 (19xx)(System Soft)(Disk 1 of 2)(System Disk).fdi
+:	:	Tir-nan-og 2 (19xx)(System Soft)(Disk 2 of 2)(User Disk).fdi
+:	:	Toogenkyoo (19xx)(Swat)(Disk 1 of 3).fdi
+:	:	Toogenkyoo (19xx)(Swat)(Disk 2 of 3).fdi
+:	:	Toogenkyoo (19xx)(Swat)(Disk 3 of 3).fdi
+:	:	Urotsukidouji (1990)(Fairy Tale)(Disk 1 of 2)(Disk A).fdi
+:	:	Urotsukidouji (1990)(Fairy Tale)(Disk 2 of 2)(Disk B).fdi
+:	:	Valentine Kiss (1996)(Silky's)(Disk 1 of 4)(Disk A).fdi
+:	:	Valentine Kiss (1996)(Silky's)(Disk 2 of 4)(Disk B).fdi
+:	:	Valentine Kiss (1996)(Silky's)(Disk 3 of 4)(Disk C).fdi
+:	:	Valentine Kiss (1996)(Silky's)(Disk 4 of 4)(Disk D).fdi
+:	:	Variable Geo 1 (1993)(Giga)(Disk 1 of 4)(Disk A).fdi
+:	:	Variable Geo 1 (1993)(Giga)(Disk 2 of 4)(Disk B).fdi
+:	:	Variable Geo 1 (1993)(Giga)(Disk 3 of 4)(Disk C).fdi
+:	:	Variable Geo 1 (1993)(Giga)(Disk 4 of 4)(Disk D).fdi
+:	:	Variable Geo 2 - The Bout of Cabalistic Goddess (1994)(Giga)(Disk 1 of 7)(Disk A).fdi
+:	:	Variable Geo 2 - The Bout of Cabalistic Goddess (1994)(Giga)(Disk 2 of 7)(Disk B).fdi
+:	:	Variable Geo 2 - The Bout of Cabalistic Goddess (1994)(Giga)(Disk 3 of 7)(Disk C).fdi
+:	:	Variable Geo 2 - The Bout of Cabalistic Goddess (1994)(Giga)(Disk 4 of 7)(Disk D).fdi
+:	:	Variable Geo 2 - The Bout of Cabalistic Goddess (1994)(Giga)(Disk 5 of 7)(Disk E).fdi
+:	:	Variable Geo 2 - The Bout of Cabalistic Goddess (1994)(Giga)(Disk 6 of 7)(Disk F).fdi
+:	:	Variable Geo 2 - The Bout of Cabalistic Goddess (1994)(Giga)(Disk 7 of 7)(Disk G).fdi
+:	:	Words Worth (1993)(Elf)(Disk 01 of 12)(Disk A).fdi
+:	:	Words Worth (1993)(Elf)(Disk 02 of 12)(Disk B).fdi
+:	:	Words Worth (1993)(Elf)(Disk 03 of 12)(Disk C).fdi
+:	:	Words Worth (1993)(Elf)(Disk 04 of 12)(Disk D).fdi
+:	:	Words Worth (1993)(Elf)(Disk 05 of 12)(Disk E).fdi
+:	:	Words Worth (1993)(Elf)(Disk 06 of 12)(Disk F).fdi
+:	:	Words Worth (1993)(Elf)(Disk 07 of 12)(Disk G).fdi
+:	:	Words Worth (1993)(Elf)(Disk 08 of 12)(Disk H).fdi
+:	:	Words Worth (1993)(Elf)(Disk 09 of 12)(Disk I).fdi
+:	:	Words Worth (1993)(Elf)(Disk 10 of 12)(Disk J).fdi
+:	:	Words Worth (1993)(Elf)(Disk 11 of 12)(Disk K).fdi
+:	:	Words Worth (1993)(Elf)(Disk 12 of 12)(Disk L).fdi
+:	:	Words Worth Special Disk (1993)(Elf)(Disk 1 of 2)(Disk A).fdi
+:	:	Words Worth Special Disk (1993)(Elf)(Disk 2 of 2)(Disk B).fdi
+:	:	Xak 3 (1993)(Micro Cabin)(Disk 1 of 6).fdi
+:	:	Xak 3 (1993)(Micro Cabin)(Disk 1 of 6)[a].fdi
+:	:	Xak 3 (1993)(Micro Cabin)(Disk 2 of 6).fdi
+:	:	Xak 3 (1993)(Micro Cabin)(Disk 3 of 6).fdi
+:	:	Xak 3 (1993)(Micro Cabin)(Disk 4 of 6).fdi
+:	:	Xak 3 (1993)(Micro Cabin)(Disk 5 of 6).fdi
+:	:	Xak 3 (1993)(Micro Cabin)(Disk 6 of 6).fdi
+:	:	Xak The Tower of Gazzel (1991)(Micro Cabin)(Disk 1 of 3)(Opening Disk).fdi
+:	:	Xak The Tower of Gazzel (1991)(Micro Cabin)(Disk 2 of 3)(Game Disk).fdi
+:	:	Xak The Tower of Gazzel (1991)(Micro Cabin)(Disk 3 of 3)(Ending Disk).fdi
+:	:	Xenon (1994)(C's Ware)(Disk 1 of 5)(Disk A).fdi
+:	:	Xenon (1994)(C's Ware)(Disk 2 of 5)(Disk B).fdi
+:	:	Xenon (1994)(C's Ware)(Disk 3 of 5)(Disk C).fdi
+:	:	Xenon (1994)(C's Ware)(Disk 4 of 5)(Disk D).fdi
+:	:	Xenon (1994)(C's Ware)(Disk 5 of 5)(Disk E).fdi
+:	:	Zikusousakan Hayate (1994)(Altacia)(Disk 1 of 4)(Disk A).fdi
+:	:	Zikusousakan Hayate (1994)(Altacia)(Disk 2 of 4)(Disk B).fdi
+:	:	Zikusousakan Hayate (1994)(Altacia)(Disk 3 of 4)(Disk C).fdi
+:	:	Zikusousakan Hayate (1994)(Altacia)(Disk 4 of 4)(Disk D).fdi

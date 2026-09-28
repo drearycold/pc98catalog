@@ -1,0 +1,54 @@
+[ファイル名],[サイズ]
+1051 - Angel Collection (J).zip,3625057 Byte
+1052 - Mahou no Pumpkin - Ann to Greg no Daibouken (J).zip,3227619 Byte
+1053 - Crazy Taxi - Catch a Ride (E).zip,3549761 Byte
+1054 - Froggers Adventure 2 - The Lost Wand (E).zip,4238892 Byte
+1055 - Donkey Kong Country (U).zip,5731079 Byte
+1056 - Dragon Ball Z - Legacy of Goku 2 (E).zip,6343665 Byte
+1057 - Sega Smash Pack (E).zip,4917466 Byte
+1058 - Disney Sports Motocross (J).zip,7081369 Byte
+1059 - Disney Sports Snowboarding (J).zip,12188045 Byte
+1060 - Advance Wars 2 Black Hole Rising(U).zip,4348230 Byte
+1061 - Little League Baseball 2002 (U).zip,2197673 Byte
+1062 - Ninja Five-O.zip,1745045 Byte
+1063 - Monster Gate 2 Dai Inaru Dungeon (J).zip,3695019 Byte
+1064 - Egg Mania (E).zip,2427314 Byte
+1065 - Stuntman (E).zip,2787935 Byte
+1066 - BattleBots Beyond the Battlebox (E).zip,5318512 Byte
+1067 - Disney Sports Basketball (E).zip,9621332 Byte
+1068 - Disney Sports Motocross (E).zip,7019153 Byte
+1069 - Mother 1+2 (J).zip,4030954 Byte
+1070 - Metal Max 2 Kai (J).zip,2267389 Byte
+1071 - Space channel 5 (U).zip,5548089 Byte
+1072 - Lego Drome Racers (U).zip,4473124 Byte
+1073 - King of Fighters EX2 (U).zip,5778538 Byte
+1074 - Justice League Injustice For All (E).zip,2926188 Byte
+1075 - Hamtaro Ham-Ham Heartbreak (E).zip,5514585 Byte
+1076 - Rock n' Roll Racing (U).zip,2682656 Byte
+1077 - Pirates of the Caribbean (U).zip,5455608 Byte
+1078 - MegaMan Battle Network 3 Blue Version (U).zip,4375630 Byte
+1079 - Punch king (E).zip,2830105 Byte
+1080 - MegaMan Battle Network 3 White Version (U).zip,4374336 Byte
+1081 - Stuntman (U).zip,2801807 Byte
+1082 - Jet Grind Radio (U).zip,4888364 Byte
+1083 - The Simpsons Road Rage (U).zip,2730485 Byte
+1084 - Buffy The Vampire Slayer (U).zip,2708188 Byte
+1085 - Dragon Ball Z - The Legacy of Goku II (U).zip,6622976 Byte
+1086 - Disney Princess (G).zip,3349734 Byte
+1087 - Frogger Mahou No Kuni No Daibouken (J).zip,4193381 Byte
+1088 - Hachiemon (J).zip,2294101 Byte
+1089 - Hamster Monogatari Collection (J).zip,3497428 Byte
+1090 - Boku No Kuwagata 3 (J).zip,6096218 Byte
+1091 - F1 2002 (E).zip,3504483 Byte
+1092 - Pokemon Saphir (G).zip,5040055 Byte
+1093 - Super Mario Advance 4 (J).zip,2510486 Byte
+1094 - Spy Kids 3-D Game Over (U).zip,2353998 Byte
+1095 - Tootuff - The Gagmachine (E).zip,1717879 Byte
+1096 - Disneys Magical Quest 2 (J).zip,2460600 Byte
+1097 - Croket 2 Kindan No Bank To Banjyu (J).zip,8274032 Byte
+1098 - Nakayoshi Pet Advance Series 4 (J).zip,1363178 Byte
+1099 - Get Boku No Mushitsu (J).zip,2515851 Byte
+1100 - Hamster Paradise Pure Heart (J).zip,4505610 Byte
+
+ファイル数合計 = 50 個
+ファイルサイズ合計 = 213749222 Byte

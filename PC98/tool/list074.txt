@@ -1,0 +1,208 @@
+(エミュレータ) ゲームボーイアドバンス(gba) ROM詰め合わせ② (0101～).zip
+a1c26b23c029855ba3816c307c7d7aea・b6ab8066ce8f03bdd9e2dad86d647af0173a30a4
+309,012,761
+ファイル数合計 = 99 個
+ファイルサイズ合計 = 308997753 Byte
+
+0146が不足
+
+:	0101 - Medarot Navi - Kabuto Version (J).zip
+:	0102 - Atlantis - The Lost Empire (U).zip
+:	0103 - Jurassic Park 3 - Park Builder (E).zip
+:	0104 - Tetris Worlds (U).zip
+:	0105 - Mario Kart Super Circuit (E).zip
+:	0106 - Robot Ponkotto 2 - Ring Version (J).zip
+:	0107 - Robot Ponkotto 2 - Cross Version (J).zip
+:	0108 - NFL Blitz 2002 (U).zip
+:	0109 - Gensou Suikoden Card Stories (J).zip
+:	0110 - ESPN X-Games Skateboarding (U).zip
+:	0111 - Super Robot Taisen A (J).zip
+:	0112 - Rocket Power Dream Scheme (U).zip
+:	0113 - Klonoa - Empire of Dreams (U).zip
+:	0114 - Jurassic Park 3 - Park Builder (U).zip
+:	0115 - Spiderman - Mysterio's Menace (U).zip
+:	0116 - Caesar's Palace Advance (U).zip
+:	0117 - Field of Nine Digital Edition 2001 (J).zip
+:	0118 - Backtrack (U).zip
+:	0119 - Morita Shogi Advance (J).zip
+:	0120 - Rugrats - Castle Capers (U).zip
+:	0121 - Power Rangers - Time Force (U).zip
+:	0122 - Z.O.E. 2173 Testament (J).zip
+:	0123 - Lady Sia (E).zip
+:	0124 - High Heat Baseball 2002 (U).zip
+:	0125 - X-Men - Reign of Apocalypse (U).zip
+:	0126 - Dexter's Lab - Deesaster Strikes (U).zip
+:	0127 - MX 2k2 Featuring Ricky Carmichael (U).zip
+:	0128 - Final Fight One (U).zip
+:	0129 - Nobunaga no Yabou (J).zip
+:	0130 - Lego Bionicle (U).zip
+:	0131 - Lego Island 2 (U).zip
+:	0132 - Kiki Kaikai Advance (J).zip
+:	0133 - Snood (U).zip
+:	0134 - Sports Illustrated For Kids - Baseball (U).zip
+:	0135 - Hatena Satena (J).zip
+:	0136 - The Wild Thornberrys - Chimp Chase (U).zip
+:	0137 - Scooby-Doo and the Cyber Chase (U).zip
+:	0138 - Sports Illustrated For Kids - Football (U).zip
+:	0139 - Boxing Fever (U).zip
+:	0140 - Gyakuten Saiban (J).zip
+:	0141 - Lego Island 2 (E).zip
+:	0142 - Lady Sia (U).zip
+:	0143 - Minna de Puyo Puyo (J).zip
+:	0144 - Steven Gerrard's Total Soccer 2002 (E).zip
+:	0145 - Denki Blocks (E).zip
+:	0147 - Hello Kitty Collection Miracle (J).zip
+:	0148 - European Super League (E).zip
+:	0149 - Phalanx (J).zip
+:	0150 - Nakayoshi Mahjan Kaburiichi (J).zip
+:	0151 - Hamster Monogatari 2 (J).zip
+:	0152 - ESPN X-Games Skateboarding (J).zip
+:	0153 - Lego Bionicle (E).zip
+:	0154 - Monsters Inc. (U).zip
+:	0155 - Doom (U).zip
+:	0156 - Dokodemo Taikyoku Yakuman Advance (J).zip
+:	0157 - Tang Tang (E).zip
+:	0158 - Lucky Luke - Wanted! (E).zip
+:	0159 - Spyro - Season of Ice (E).zip
+:	0160 - Spyro - Season of Ice (U).zip
+:	0161 - Batman Vengeance (U).zip
+:	0162 - Super Street Fighter II Turbo Revival (E).zip
+:	0163 - Kao the Kangaroo (U).zip
+:	0164 - WWF - Road to Wrestlemania (U).zip
+:	0165 - MegaMan Battle Network (U).zip
+:	0166 - Gadget Racers (U).zip
+:	0167 - Gradius Advance (E).zip
+:	0168 - M&M's Blast! (U).zip
+:	0169 - Wario Land 4 (U).zip
+:	0170 - Hikaru no Go (J).zip
+:	0171 - Golden Sun (U).zip
+:	0172 - Donald Duck Advance (E).zip
+:	0173 - Harry Potter and the Sorcerer's Stone (U).zip
+:	0174 - Batman Vengeance (E).zip
+:	0175 - Jackie Chan Adventures - Legend Of The Dark Hand (U).zip
+:	0176 - Alienators - Evolution Continues (U).zip
+:	0177 - Sponge Bob Square Pants - SuperSponge (U).zip
+:	0178 - Jimmy Neutron - Boy Genius (U).zip
+:	0179 - Inspector Gadget - Advance Mission (E).zip
+:	0180 - Tweety & The Magic Gems (U).zip
+:	0181 - Star Wars - Jedi Power Battles (U).zip
+:	0182 - Midnight Club Street Racing (U).zip
+:	0183 - Mat Hoffman's Pro BMX (U).zip
+:	0184 - Razor Freestyle Scooter (U).zip
+:	0185 - Super Bust-A-Move (E).zip
+:	0186 - Dokapon Monster Hunter (U).zip
+:	0187 - International Superstar Soccer (E).zip
+:	0188 - Atlantis - The Lost Empire (E).zip
+:	0189 - 4V4 Arashi Get The Goal (J).zip
+:	0190 - Nancy Drew - Message in a Haunted Mansion (U).zip
+:	0191 - The Powerpuff Girls - Mojo Jojo A-Go-Go! (U).zip
+:	0192 - Madden 2002 (U).zip
+:	0193 - Froggers Adventures - Temple of the Frog (U).zip
+:	0194 - No Rules Get Phat (U).zip
+:	0195 - Adventure of Tokyo Disney Sea (J).zip
+:	0196 - David Beckham Soccer (E).zip
+:	0197 - Tetris Worlds (E).zip
+:	0198 - Rampage Puzzle Attack (U).zip
+:	0199 - Midways Greatest Arcade Hits (U).zip
+:	0200 - Jurassic Park 3 - Island Attack (U).zip
+
+各ファイルのサイズ
+0101 - Medarot Navi - Kabuto Version (J).zip,5647627 Byte
+0102 - Atlantis - The Lost Empire (U).zip,2314002 Byte
+0103 - Jurassic Park 3 - Park Builder (E).zip,2858409 Byte
+0104 - Tetris Worlds (U).zip,1682039 Byte
+0105 - Mario Kart Super Circuit (E).zip,2183779 Byte
+0106 - Robot Ponkotto 2 - Ring Version (J).zip,2405181 Byte
+0107 - Robot Ponkotto 2 - Cross Version (J).zip,2405114 Byte
+0108 - NFL Blitz 2002 (U).zip,2084066 Byte
+0109 - Gensou Suikoden Card Stories (J).zip,1785956 Byte
+0110 - ESPN X-Games Skateboarding (U).zip,5396172 Byte
+0111 - Super Robot Taisen A (J).zip,4354240 Byte
+0112 - Rocket Power Dream Scheme (U).zip,2003266 Byte
+0113 - Klonoa - Empire of Dreams (U).zip,2554771 Byte
+0114 - Jurassic Park 3 - Park Builder (U).zip,2696582 Byte
+0115 - Spiderman - Mysterio's Menace (U).zip,4043221 Byte
+0116 - Caesar's Palace Advance (U).zip,3566713 Byte
+0117 - Field of Nine Digital Edition 2001 (J).zip,3474793 Byte
+0118 - Backtrack (U).zip,1940230 Byte
+0119 - Morita Shogi Advance (J).zip,1143194 Byte
+0120 - Rugrats - Castle Capers (U).zip,1672862 Byte
+0121 - Power Rangers - Time Force (U).zip,5656717 Byte
+0122 - Z.O.E. 2173 Testament (J).zip,4312862 Byte
+0123 - Lady Sia (E).zip,2818012 Byte
+0124 - High Heat Baseball 2002 (U).zip,2680930 Byte
+0125 - X-Men - Reign of Apocalypse (U).zip,3802076 Byte
+0126 - Dexter's Lab - Deesaster Strikes (U).zip,1402147 Byte
+0127 - MX 2k2 Featuring Ricky Carmichael (U).zip,1552407 Byte
+0128 - Final Fight One (U).zip,2472977 Byte
+0129 - Nobunaga no Yabou (J).zip,5840571 Byte
+0130 - Lego Bionicle (U).zip,4385410 Byte
+0131 - Lego Island 2 (U).zip,3415292 Byte
+0132 - Kiki Kaikai Advance (J).zip,5992371 Byte
+0133 - Snood (U).zip,1755957 Byte
+0134 - Sports Illustrated For Kids - Baseball (U).zip,1143872 Byte
+0135 - Hatena Satena (J).zip,2980604 Byte
+0136 - The Wild Thornberrys - Chimp Chase (U).zip,2148562 Byte
+0137 - Scooby-Doo and the Cyber Chase (U).zip,1783843 Byte
+0138 - Sports Illustrated For Kids - Football (U).zip,1273810 Byte
+0139 - Boxing Fever (U).zip,5078477 Byte
+0140 - Gyakuten Saiban (J).zip,4285581 Byte
+0141 - Lego Island 2 (E).zip,3402610 Byte
+0142 - Lady Sia (U).zip,2802109 Byte
+0143 - Minna de Puyo Puyo (J).zip,3567433 Byte
+0144 - Steven Gerrard's Total Soccer 2002 (E).zip,4696007 Byte
+0145 - Denki Blocks (E).zip,5110852 Byte
+0147 - Hello Kitty Collection Miracle (J).zip,3902739 Byte
+0148 - European Super League (E).zip,1600309 Byte
+0149 - Phalanx (J).zip,2197839 Byte
+0150 - Nakayoshi Mahjan Kaburiichi (J).zip,1785424 Byte
+0151 - Hamster Monogatari 2 (J).zip,2875557 Byte
+0152 - ESPN X-Games Skateboarding (J).zip,5371328 Byte
+0153 - Lego Bionicle (E).zip,4413710 Byte
+0154 - Monsters Inc. (U).zip,2053793 Byte
+0155 - Doom (U).zip,3179891 Byte
+0156 - Dokodemo Taikyoku Yakuman Advance (J).zip,3323384 Byte
+0157 - Tang Tang (E).zip,909400 Byte
+0158 - Lucky Luke - Wanted! (E).zip,2533184 Byte
+0159 - Spyro - Season of Ice (E).zip,4187011 Byte
+0160 - Spyro - Season of Ice (U).zip,4128792 Byte
+0161 - Batman Vengeance (U).zip,5423994 Byte
+0162 - Super Street Fighter II Turbo Revival (E).zip,5041028 Byte
+0163 - Kao the Kangaroo (U).zip,1684128 Byte
+0164 - WWF - Road to Wrestlemania (U).zip,2071183 Byte
+0165 - MegaMan Battle Network (U).zip,3433368 Byte
+0166 - Gadget Racers (U).zip,3157996 Byte
+0167 - Gradius Advance (E).zip,2035326 Byte
+0168 - M&M's Blast! (U).zip,4085238 Byte
+0169 - Wario Land 4 (U).zip,3928441 Byte
+0170 - Hikaru no Go (J).zip,2986687 Byte
+0171 - Golden Sun (U).zip,7185990 Byte
+0172 - Donald Duck Advance (E).zip,4292349 Byte
+0173 - Harry Potter and the Sorcerer's Stone (U).zip,5692809 Byte
+0174 - Batman Vengeance (E).zip,5412407 Byte
+0175 - Jackie Chan Adventures - Legend Of The Dark Hand (U).zip,2309885 Byte
+0176 - Alienators - Evolution Continues (U).zip,1677296 Byte
+0177 - Sponge Bob Square Pants - SuperSponge (U).zip,2041304 Byte
+0178 - Jimmy Neutron - Boy Genius (U).zip,2577773 Byte
+0179 - Inspector Gadget - Advance Mission (E).zip,1720972 Byte
+0180 - Tweety & The Magic Gems (U).zip,1421562 Byte
+0181 - Star Wars - Jedi Power Battles (U).zip,6045525 Byte
+0182 - Midnight Club Street Racing (U).zip,5153012 Byte
+0183 - Mat Hoffman's Pro BMX (U).zip,1817135 Byte
+0184 - Razor Freestyle Scooter (U).zip,5994804 Byte
+0185 - Super Bust-A-Move (E).zip,1871669 Byte
+0186 - Dokapon Monster Hunter (U).zip,3217165 Byte
+0187 - International Superstar Soccer (E).zip,5502365 Byte
+0188 - Atlantis - The Lost Empire (E).zip,2340685 Byte
+0189 - 4V4 Arashi Get The Goal (J).zip,1715169 Byte
+0190 - Nancy Drew - Message in a Haunted Mansion (U).zip,3071162 Byte
+0191 - The Powerpuff Girls - Mojo Jojo A-Go-Go! (U).zip,1935025 Byte
+0192 - Madden 2002 (U).zip,1559279 Byte
+0193 - Froggers Adventures - Temple of the Frog (U).zip,1603442 Byte
+0194 - No Rules Get Phat (U).zip,3061653 Byte
+0195 - Adventure of Tokyo Disney Sea (J).zip,1791879 Byte
+0196 - David Beckham Soccer (E).zip,803607 Byte
+0197 - Tetris Worlds (E).zip,1714844 Byte
+0198 - Rampage Puzzle Attack (U).zip,2037019 Byte
+0199 - Midways Greatest Arcade Hits (U).zip,2035639 Byte
+0200 - Jurassic Park 3 - Island Attack (U).zip,4510872 Byte

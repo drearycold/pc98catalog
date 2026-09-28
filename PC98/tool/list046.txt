@@ -1,0 +1,1238 @@
+:	Bios
+:	:	X1BIOS.lzh
+:	:	X1turboZ_ROM.zip
+:	:	X1turbo_bios.zip
+:	:	fontsys.zip
+:	X1 ROM
+:	:	DEMO ROM
+:	:	:	X1 =DEMO=(D88)
+:	:	:	:	X1DEMO.D88
+:	:	:	:	X1DEMO.TXT
+:	:	:	X1C =DEMO=(D88)
+:	:	:	:	D_X1C.D88
+:	:	:	:	D_X1C.TXT
+:	:	:	X1F =DEMO=(D88)
+:	:	:	:	D_X1F.D88
+:	:	:	:	D_X1F.TXT
+:	:	:	X1G =DEMO=(D88)
+:	:	:	:	D_X1G.D88
+:	:	:	:	D_X1G.TXT
+:	:	:	X1turboII =DEMO=(D88)
+:	:	:	:	D_X1T2.D88
+:	:	:	:	D_X1T2.TXT
+:	:	GAME ROM
+:	:	:	1-9他
+:	:	:	:	177(2D)
+:	:	:	:	:	177.2D
+:	:	:	:	:	177.TXT
+:	:	:	:	1942(D88)
+:	:	:	:	:	1942.D88
+:	:	:	:	2001;an adventure story(TAP)
+:	:	:	:	:	2001NEN.tap
+:	:	:	:	:	CZ8CB01.2D
+:	:	:	A-Z
+:	:	:	:	A列車で行こう(D88)
+:	:	:	:	:	Ａ列車で行こう.D88
+:	:	:	:	Brain Breaker(2D)
+:	:	:	:	:	BRAINBRK.2D
+:	:	:	:	:	BRAINBRK.TXT
+:	:	:	:	CEPTON(TAP)
+:	:	:	:	:	CEPTON.tap
+:	:	:	:	CRAZY SPY(TAP)
+:	:	:	:	:	CRAZY SPY.tap
+:	:	:	:	D-SIDE  ～LAGRANGE L-2 Part･2～(D88)※
+:	:	:	:	:	8FB01v20.d88
+:	:	:	:	:	D-SIDE.D88
+:	:	:	:	:	D-SIDE.TXT
+:	:	:	:	DIALIDE(2D)
+:	:	:	:	:	DIALIDE.DOC
+:	:	:	:	:	DIALIDE_01.2D
+:	:	:	:	:	DIALIDE_02.2D
+:	:	:	:	:	Dialide.txt
+:	:	:	:	:	MANUAL1.DOC
+:	:	:	:	DSTUKA(TAP)
+:	:	:	:	:	DSTUKA.tap
+:	:	:	:	EXOA2 Warroid(2D)
+:	:	:	:	:	EXOA2.2D
+:	:	:	:	:	EXOA2.TXT
+:	:	:	:	EXTRA PINBALL(TAP)
+:	:	:	:	:	CZ8CB01.2D
+:	:	:	:	:	EXTRA PINBALL.tap
+:	:	:	:	Euphory(D88)
+:	:	:	:	:	EUPHORY.D88
+:	:	:	:	:	EUPHORY.TXT
+:	:	:	:	:	EUPHOR_U.D88
+:	:	:	:	FIVE SWEET DREAMS(2D)
+:	:	:	:	:	DISK_A.2D
+:	:	:	:	:	DISK_B.2D
+:	:	:	:	GAMMA5(2D)
+:	:	:	:	:	GAMMA5.2D
+:	:	:	:	HARVEST(TAP)
+:	:	:	:	:	HARVEST.tap
+:	:	:	:	HOVER ATTACK(TAP)
+:	:	:	:	:	CZ8CB01.2D
+:	:	:	:	:	HOVER ATTACK.tap
+:	:	:	:	HP王将(TAP)
+:	:	:	:	:	HP-OHSHO.tap
+:	:	:	:	HiSPEED Worry(TAP)
+:	:	:	:	:	WORRY.tap
+:	:	:	:	ISSURAL(2D)
+:	:	:	:	:	ISSURAL.TXT
+:	:	:	:	:	ISSURALA.2D
+:	:	:	:	:	ISSURALB.2D
+:	:	:	:	LAGRANGE L-2(D88)
+:	:	:	:	:	8FB01v20.d88
+:	:	:	:	:	LAGRANGE L-2.D88
+:	:	:	:	:	LAGRANGE.TXT
+:	:	:	:	LASVEGAS(D88)
+:	:	:	:	:	LASVEG1.D88
+:	:	:	:	:	LASVEG2.D88
+:	:	:	:	:	LASVEG3.D88
+:	:	:	:	LUNACITY 殺人事件(D88)
+:	:	:	:	:	lunacity.d88
+:	:	:	:	M.U.L.E(2D)
+:	:	:	:	:	MULE.2D
+:	:	:	:	Might and Magic(2D)
+:	:	:	:	:	M&M_A.2D
+:	:	:	:	:	M&M_B.2D
+:	:	:	:	:	M&M_C.2D
+:	:	:	:	:	M&M_D.2D
+:	:	:	:	POLAR STAR2(2D)
+:	:	:	:	:	POLAR STAR2.2D
+:	:	:	:	POLAR STAR2(TAP)
+:	:	:	:	:	POLAR STAR 2.tap
+:	:	:	:	Perfect Mahjong(TAP)
+:	:	:	:	:	CZ8CB01.2D
+:	:	:	:	:	PERFECT MAHJANG.tap
+:	:	:	:	RIGHT WINGS(2D)
+:	:	:	:	:	R_wings.2d
+:	:	:	:	:	r_wings.txt
+:	:	:	:	Rowdy ball(TAP)
+:	:	:	:	:	CZ8CB01.2D
+:	:	:	:	:	ROWDY BALL.tap
+:	:	:	:	SPARE CHANGE(D88)
+:	:	:	:	:	SPARECHG.D88
+:	:	:	:	:	SPARECHG.TXT
+:	:	:	:	STAR FREET(TAP)
+:	:	:	:	:	CZ8CB01.2D
+:	:	:	:	:	STAR FREET.tap
+:	:	:	:	STATE(2D)
+:	:	:	:	:	State.txt
+:	:	:	:	:	State_01.2d
+:	:	:	:	:	State_02.2d
+:	:	:	:	SUPER BUGGON(TAP)
+:	:	:	:	:	SUPER BUGGON.tap
+:	:	:	:	SUPER GOLF#2(TAP)
+:	:	:	:	:	CZ8CB01.2D
+:	:	:	:	:	SUPER GOLF.tap
+:	:	:	:	Sirius(D88・EH)
+:	:	:	:	:	ExtraHyper_System.d88
+:	:	:	:	:	sirius1.d88
+:	:	:	:	:	sirius1.txt
+:	:	:	:	THE ARMORED SOLDER(TAP)
+:	:	:	:	:	AS.tap
+:	:	:	:	THE CURSE OF MARS(2D)
+:	:	:	:	:	MARS.2D
+:	:	:	:	WILL　=DEATH TRAPⅡ=(D88)
+:	:	:	:	:	WILL.D88
+:	:	:	:	Wizardry#1(D88)※
+:	:	:	:	:	WIZ1.D88
+:	:	:	:	:	WIZ1.TXT
+:	:	:	:	Wizardry#2(D88)※
+:	:	:	:	:	WIZ2.D88
+:	:	:	:	:	WIZ2.TXT
+:	:	:	:	Wizardry#3(D88)※
+:	:	:	:	:	WIZ3.D88
+:	:	:	:	:	WIZ3.TXT
+:	:	:	:	ZENNON(TAP)
+:	:	:	:	:	CZ8CB01.2D
+:	:	:	:	:	ZENNON.tap
+:	:	:	:	ZETA No.5(2D)
+:	:	:	:	:	ZETA5_A.2D
+:	:	:	:	:	ZETA5_B.2D
+:	:	:	:	:	Zeta5.txt
+:	:	:	:	poibos(TAP)
+:	:	:	:	:	CZ8CB01.2D
+:	:	:	:	:	POIBOS.TAP
+:	:	:	:	:	POIBOS.TXT
+:	:	:	あ行
+:	:	:	:	いろはにほへと(D88)
+:	:	:	:	:	ｲﾛﾊﾆﾎﾍﾄ.TXT
+:	:	:	:	:	ｲﾛﾊﾆﾎﾍﾄA.D88
+:	:	:	:	:	ｲﾛﾊﾆﾎﾍﾄB.D88
+:	:	:	:	うっでぃぽこ(2D)
+:	:	:	:	:	WODYPOCO.2D
+:	:	:	:	アイスブロック (TAP)
+:	:	:	:	:	ICE BLOCK.tap
+:	:	:	:	アウトロイド(D88)
+:	:	:	:	:	outroyd.d88
+:	:	:	:	:	outroyd.txt
+:	:	:	:	アステカⅡ =太陽の神殿=(D88)
+:	:	:	:	:	DISK1.D88
+:	:	:	:	:	DISK2.D88
+:	:	:	:	:	ユーザー.D88
+:	:	:	:	アスピック・スペシャル(2D)
+:	:	:	:	:	ASPIC_NP.2D
+:	:	:	:	:	アスピックスペシャル改.2D
+:	:	:	:	アドバンスドファンタジアン(D88)
+:	:	:	:	:	アドヴァンスドファンタジアン_Main.d88
+:	:	:	:	:	アドヴァンスドファンタジアン_Scenario.d88
+:	:	:	:	:	デモ　アドヴァンスドファンタジアン.d88
+:	:	:	:	アメリカントラック(D88)
+:	:	:	:	:	アメリカントラック.d88
+:	:	:	:	アリオン(2D)
+:	:	:	:	:	ARION.TXT
+:	:	:	:	:	ARION_A.2D
+:	:	:	:	:	ARION_B.2D
+:	:	:	:	アルファ(2D)
+:	:	:	:	:	ALPHA.2D
+:	:	:	:	:	ALPHA.TXT
+:	:	:	:	イース(OPM改造版)(D88)
+:	:	:	:	:	ys_opm_a.d88
+:	:	:	:	:	ys_opm_b.d88
+:	:	:	:	イースⅠ(D88)
+:	:	:	:	:	USER.D88
+:	:	:	:	:	YS.TXT
+:	:	:	:	:	YS_A.D88
+:	:	:	:	:	YS_B.D88
+:	:	:	:	イースⅡ(D88)
+:	:	:	:	:	FILE_ID.DIZ
+:	:	:	:	:	YS2_A.D88
+:	:	:	:	:	YS2_B.D88
+:	:	:	:	:	YS2_P.D88
+:	:	:	:	:	YS2_U.D88
+:	:	:	:	イースⅢ =Wonderers From Ys=(D88)
+:	:	:	:	:	YS3_D1.D88
+:	:	:	:	:	YS3_D2.D88
+:	:	:	:	:	YS3_PRG.D88
+:	:	:	:	:	YS3_SCE.D88
+:	:	:	:	イエローキャブ(TAP)
+:	:	:	:	:	YELLOW CAB.tap
+:	:	:	:	ウィバーン(D88)
+:	:	:	:	:	WIBARM.D88
+:	:	:	:	:	WIBARM.TXT
+:	:	:	:	:	WIBARM_U.D88
+:	:	:	:	ウイングマン(2D)
+:	:	:	:	:	ｳｲﾝｸﾞﾏﾝ.2D
+:	:	:	:	ウイングマン(TAP)
+:	:	:	:	:	ウイングマンテープＡ面.TAP
+:	:	:	:	:	ウイングマンテープＢ面.TAP
+:	:	:	:	:	ウイングマンテープＣ面.TAP
+:	:	:	:	:	ウイングマンテープＤ面.TAP
+:	:	:	:	ウイングマン2　=キータクラーの復活=(2D)
+:	:	:	:	:	WINGMAN2.TXT
+:	:	:	:	:	WINGMN2A.2D
+:	:	:	:	:	WINGMN2B.2D
+:	:	:	:	ウットイ(D88)
+:	:	:	:	:	UOOTOY.D88
+:	:	:	:	:	UOOTOY.TXT
+:	:	:	:	ウルティマⅣ　=聖者への道=(D88)
+:	:	:	:	:	ULTIM41.D88
+:	:	:	:	:	ULTIM4B.D88
+:	:	:	:	:	ULTIM4D.D88
+:	:	:	:	:	ULTIM4T.D88
+:	:	:	:	ウルトラ4人麻雀(TAP)
+:	:	:	:	:	MAHJONG.tap
+:	:	:	:	ウルトラ四人麻雀(TAP)
+:	:	:	:	:	MAHJONG.tap
+:	:	:	:	エキサイトバイク(TAP)
+:	:	:	:	:	EXCITE BIKE.tap
+:	:	:	:	オービットⅢ(D88)
+:	:	:	:	:	ORBIT3.D88
+:	:	:	:	ヴォルガード(TAP)
+:	:	:	:	:	VOLGUARD.tap
+:	:	:	:	王子ビンビン物語 それから白書(2D)
+:	:	:	:	:	OUJI.TXT
+:	:	:	:	:	OUJI_A.2D
+:	:	:	:	:	OUJI_B.2D
+:	:	:	:	上田順一 BGM集1&2(D88)
+:	:	:	:	:	BGMVOL1.TXT
+:	:	:	:	:	BGMVOL2.TXT
+:	:	:	:	:	BGMX1V1.D88
+:	:	:	:	:	BGMX1V2.D88
+:	:	:	:	美しき獲物たち(2D)
+:	:	:	:	:	DISK_A.2D
+:	:	:	か行
+:	:	:	:	がんばれ美樹ちゃん！(2D)
+:	:	:	:	:	MIKICHAN.2D
+:	:	:	:	:	MIKICHAN.TXT
+:	:	:	:	ぎゅわんぶらあ自己中心派(D88)
+:	:	:	:	:	GYAJIKO1.D88
+:	:	:	:	ぎゅわんぶらあ自己中心派2　=自称!強豪雀士編=(D88)
+:	:	:	:	:	GYAJIKO2.D88
+:	:	:	:	ぐるっぺ(D88)
+:	:	:	:	:	GRUPPE.D88
+:	:	:	:	:	GRUPPE.TXT
+:	:	:	:	カーマイン(D88)
+:	:	:	:	:	carmine.txt
+:	:	:	:	:	carmine1.d88
+:	:	:	:	:	carmine2.d88
+:	:	:	:	カレイジアスペルセウス(TAP)
+:	:	:	:	:	PERSEUS.tap
+:	:	:	:	ガイアの紋章(2D)
+:	:	:	:	:	GAIA.TXT
+:	:	:	:	:	GAIA_A.2D
+:	:	:	:	:	GAIA_B.2D
+:	:	:	:	ガイフレーム(D88)
+:	:	:	:	:	GAIFLAM.TXT
+:	:	:	:	:	GAIFLAM1.D88
+:	:	:	:	:	GAIFLAM2.D88
+:	:	:	:	ガルフォース(D88)
+:	:	:	:	:	GALLFRC.TXT
+:	:	:	:	:	GALLFRC1.D88
+:	:	:	:	:	GALLFRC2.D88
+:	:	:	:	:	GALLFRC3.D88
+:	:	:	:	ガンダーラ(D88)
+:	:	:	:	:	GANDHARA.TXT
+:	:	:	:	:	ｶﾞﾝﾀﾞｰﾗA.D88
+:	:	:	:	:	ｶﾞﾝﾀﾞｰﾗB.D88
+:	:	:	:	ガンマン(TAP)
+:	:	:	:	:	GUNMAN.tap
+:	:	:	:	キムキムダンダン2(TAP)
+:	:	:	:	:	KIM DAN 2.tap
+:	:	:	:	キャノンボール2(TAP)
+:	:	:	:	:	CANNON BALL2.tap
+:	:	:	:	キングスナイト(D88)
+:	:	:	:	:	KKNIGHT.TXT
+:	:	:	:	:	KKNIGHT1.D88
+:	:	:	:	:	KKNIGHT2.D88
+:	:	:	:	ギャラクシアン(2D)
+:	:	:	:	:	GALAXIAN.2D
+:	:	:	:	:	GALAXIAN.TXT
+:	:	:	:	ギャラクシアン(TAP)
+:	:	:	:	:	GALAXIAN.tap
+:	:	:	:	クリムゾン(D88)
+:	:	:	:	:	CRIMSON.TXT
+:	:	:	:	:	CRIMSONP.D88
+:	:	:	:	:	CRIMSONS.D88
+:	:	:	:	:	CRIMSONU.D88
+:	:	:	:	グラディウス(D88)
+:	:	:	:	:	GRADIUS.D88
+:	:	:	:	:	GRA_KAI.D88
+:	:	:	:	:	GRA_KAI.TXT
+:	:	:	:	グラディウス(OPM改造版)(D88)
+:	:	:	:	:	GRADIUS(OPM).d88
+:	:	:	:	:	Readme.txt
+:	:	:	:	ゲゲゲの鬼太郎(TAP)
+:	:	:	:	:	KITARO.tap
+:	:	:	:	ゴルフ狂(TAP)
+:	:	:	:	:	GOLFKYO.tap
+:	:	:	:	影の伝説(D88)
+:	:	:	:	:	影の伝説.D88
+:	:	:	:	:	影の伝説.TXT
+:	:	:	:	機動戦士Zガンダム(TAP)
+:	:	:	:	:	ZGUN_TAP.TXT
+:	:	:	:	:	Z_GUNDAM.TAP
+:	:	:	:	強姦アニメmkⅡ(D88)※
+:	:	:	:	:	強姦アニメｍｋⅡ.d88
+:	:	:	:	九玉伝(D88)※
+:	:	:	:	:	九玉伝(下).d88
+:	:	:	:	:	九玉伝(上).d88
+:	:	:	:	:	九玉伝.TXT
+:	:	:	:	軽井沢誘拐案内(2D)
+:	:	:	:	:	Karuizawa.2d
+:	:	:	:	限りなき戦い(TAP)
+:	:	:	:	:	ｶｷﾞﾘﾅｷ.TAP
+:	:	:	:	:	ｶｷﾞﾘﾅｷ.TXT
+:	:	:	:	口説き方教えます(2D)
+:	:	:	:	:	DISK_A.2D
+:	:	:	:	:	DISK_B.2D
+:	:	:	:	今夜も朝までPOWERFULまあじゃん(D88)
+:	:	:	:	:	POWMJ.TXT
+:	:	:	:	:	POWMJ_A.D88
+:	:	:	:	:	POWMJ_B.D88
+:	:	:	さ行
+:	:	:	:	サラダの国のトマト姫(TAP)
+:	:	:	:	:	SALATOMA.tap
+:	:	:	:	サンダーフォース(TAP)
+:	:	:	:	:	THUNDER FORCE.tap
+:	:	:	:	サンダーボール(2D)
+:	:	:	:	:	THNDRBAL.2D
+:	:	:	:	ザ・キャッスル(TAP)
+:	:	:	:	:	THE CASTLE.tap
+:	:	:	:	ザ・グーニーズ(2D)
+:	:	:	:	:	GOONIES.2D
+:	:	:	:	:	GOONIES.TXT
+:	:	:	:	ザ・コックピット(TAP)
+:	:	:	:	:	THE COCKPIT.tap
+:	:	:	:	ザ・ファイヤークリスタル(TAP)
+:	:	:	:	:	ONYX2T.TAP
+:	:	:	:	:	ONYX2T.TXT
+:	:	:	:	ザ・ブラックオニキス(D88)
+:	:	:	:	:	ONYX1.D88
+:	:	:	:	:	ONYX1.TXT
+:	:	:	:	:	ONYX1U.D88
+:	:	:	:	ザ・ブラックオニキス(TAP)
+:	:	:	:	:	ONYX.TAP
+:	:	:	:	:	ONYX.TXT
+:	:	:	:	:	ONYXT.TXT
+:	:	:	:	ザナドゥ (D88)
+:	:	:	:	:	xanadu_A.D88
+:	:	:	:	:	xanadu_B.d88
+:	:	:	:	:	xanadu_C(USER).D88
+:	:	:	:	ザナドゥ(OPM改造版)(D88)
+:	:	:	:	:	XANADU-A(OPM)_MAGICKAI.D88
+:	:	:	:	:	XANADU-B(OPM).D88
+:	:	:	:	:	XanaduReconNote.txt
+:	:	:	:	ザナドゥ　=シナリオ2=(D88)
+:	:	:	:	:	xanadu2_C(USER).D88
+:	:	:	:	:	xanadu2_D.d88
+:	:	:	:	:	xanadu2_E.d88
+:	:	:	:	シルバーゴースト(D88)
+:	:	:	:	:	SILVERG.TXT
+:	:	:	:	:	SILVG_A.D88
+:	:	:	:	:	SILVG_B.D88
+:	:	:	:	:	SILVG_C.D88
+:	:	:	:	ジーザス(D88)
+:	:	:	:	:	JESUS_1.D88
+:	:	:	:	:	JESUS_2.D88
+:	:	:	:	:	JESUS_3.D88
+:	:	:	:	:	ジーザス =店頭DEMO=
+:	:	:	:	:	:	JESUS-1.D88
+:	:	:	:	:	:	JESUS-2.D88
+:	:	:	:	ジェルダ(TAP)
+:	:	:	:	:	JELDA.tap
+:	:	:	:	ジャン狂(TAP)
+:	:	:	:	:	JONGKYO.tap
+:	:	:	:	スーパーレイドック(D88)
+:	:	:	:	:	BRANK.2D
+:	:	:	:	:	LAYDOCK.TXT
+:	:	:	:	:	ｽｰﾊﾟｰﾚｲﾄﾞｯｸ_1.D88
+:	:	:	:	:	ｽｰﾊﾟｰﾚｲﾄﾞｯｸ_2.D88
+:	:	:	:	スパルタンＸ(TAP)
+:	:	:	:	:	CZ8CB01.2D
+:	:	:	:	:	SPARTAN X.tap
+:	:	:	:	:	spartanx.txt
+:	:	:	:	スペースハリヤー(2D)
+:	:	:	:	:	HARRIER.TXT
+:	:	:	:	:	HAR_A.2D
+:	:	:	:	:	HAR_B.2D
+:	:	:	:	スペースバーガー(TAP)
+:	:	:	:	:	SPACE BURGER.tap
+:	:	:	:	ゼクサス(TAP)
+:	:	:	:	:	ZEXAS.tap
+:	:	:	:	ゼビウス(2D)
+:	:	:	:	:	XEVIOUS.2D
+:	:	:	:	:	XEVIOUS.TXT
+:	:	:	:	ゼビウス(TAP)
+:	:	:	:	:	XEVIOUS.TAP
+:	:	:	:	ソーサリアン(D88)
+:	:	:	:	:	GILGMSH1.D88
+:	:	:	:	:	GILGMSH2.D88
+:	:	:	:	:	NEWｼﾅﾘｵ1.D88
+:	:	:	:	:	NEWｼﾅﾘｵ2.D88
+:	:	:	:	:	PYRAMID1.D88
+:	:	:	:	:	PYRAMID2.D88
+:	:	:	:	:	SELCT_S1.D88
+:	:	:	:	:	SELCT_S2.D88
+:	:	:	:	:	SELCT_S3.D88
+:	:	:	:	:	SELCT_S4.D88
+:	:	:	:	:	SELCT_S5.D88
+:	:	:	:	:	SELCT_U1.D88
+:	:	:	:	:	SELCT_U2.D88
+:	:	:	:	:	SELCT_U3.D88
+:	:	:	:	:	SELCT_U4.D88
+:	:	:	:	:	SELCT_U5.D88
+:	:	:	:	:	SRCRIAN1.D88
+:	:	:	:	:	SRCRIAN2.D88
+:	:	:	:	:	SRCRIAN3.D88
+:	:	:	:	:	SRCRIANP.D88
+:	:	:	:	:	SRCRIANT.D88
+:	:	:	:	:	SRCRIANU.D88
+:	:	:	:	:	UTY_VOL1.D88
+:	:	:	:	:	戦国VOL1.D88
+:	:	:	:	:	戦国VOL2.D88
+:	:	:	:	:	追加ｼﾅﾘｵ.D88
+:	:	:	:	ソフィア(2D)
+:	:	:	:	:	SOFIA.2D
+:	:	:	:	殺人倶楽部(D88)
+:	:	:	:	:	MCLUB.TXT
+:	:	:	:	:	MCLUB_A.D88
+:	:	:	:	:	MCLUB_B.D88
+:	:	:	:	三国志Turbo版(D88)
+:	:	:	:	:	ｻﾝｺﾞｸｼT_A.d88
+:	:	:	:	:	ｻﾝｺﾞｸｼT_B.d88
+:	:	:	:	:	ｻﾝｺﾞｸｼT_C.d88
+:	:	:	:	三次元ボンバーマン(TAP)
+:	:	:	:	:	3D BOMBERMAN.tap
+:	:	:	:	三匹のぶたちゃん(TAP)
+:	:	:	:	:	3BIKI NO BUTACHAN.tap
+:	:	:	:	上海(2D)
+:	:	:	:	:	SHANGHAI.2D
+:	:	:	:	聖女ぱにっく(2D)
+:	:	:	:	:	聖女ぱに.2D
+:	:	:	:	:	聖女ぱに.TXT
+:	:	:	:	聖女伝説(2D)
+:	:	:	:	:	聖女伝説.2D
+:	:	:	:	:	聖女伝説.TXT
+:	:	:	:	白薔薇連続殺人事件(D88)※
+:	:	:	:	:	白薔薇連続殺人事件.d88
+:	:	:	た行
+:	:	:	:	ちゃっくんぽっぷ(D88)
+:	:	:	:	:	CHACKN.D88
+:	:	:	:	:	CHACKN.TXT
+:	:	:	:	タイム・パラドクス(2D)
+:	:	:	:	:	ﾀｲﾑﾊﾟﾗ_A.2D
+:	:	:	:	:	ﾀｲﾑﾊﾟﾗ_B.2D
+:	:	:	:	:	ﾀｲﾑﾊﾟﾗﾄﾞ.TXT
+:	:	:	:	タイムシークレット(TAP)
+:	:	:	:	:	TIME SECRET.tap
+:	:	:	:	タッチダウン(TAP)
+:	:	:	:	:	TOUCH DOWN.tap
+:	:	:	:	チャンピオンプロレス SP(TAP)
+:	:	:	:	:	CHAMPION PROWRES SP.tap
+:	:	:	:	テクザー(D88)
+:	:	:	:	:	THEXDER.D88
+:	:	:	:	:	THEXDER.TXT
+:	:	:	:	テトリス(2D)
+:	:	:	:	:	TETRIS.2D
+:	:	:	:	:	TETRIS.TXT
+:	:	:	:	デーモンクリスタル(TAP)
+:	:	:	:	:	DEMON CRYSTAL.tap
+:	:	:	:	ディーヴァ(D88)
+:	:	:	:	:	Daiva-1.d88
+:	:	:	:	:	Daiva-2.d88
+:	:	:	:	:	ディーヴァ USER.2D
+:	:	:	:	ディアブロ(D88)
+:	:	:	:	:	DIABLO.D88
+:	:	:	:	ディオーネ(D88)
+:	:	:	:	:	DIONE-1.D88
+:	:	:	:	:	DIONE-2.D88
+:	:	:	:	ディグダグ(TAP)
+:	:	:	:	:	DIG DUG.tap
+:	:	:	:	デジタルデビルストーリー 女神転生(D88)
+:	:	:	:	:	DDS.TXT
+:	:	:	:	:	DDS_A.D88
+:	:	:	:	:	DDS_B.D88
+:	:	:	:	デゼニランド(D88)
+:	:	:	:	:	ﾃﾞｾﾞﾆﾗﾝﾄﾞ.D88
+:	:	:	:	デゼニワールド(D88)
+:	:	:	:	:	ﾃﾞｾﾞﾆﾜｰﾙﾄﾞ.D88
+:	:	:	:	トイポップ(2D)
+:	:	:	:	:	トイポップ.2D
+:	:	:	:	トップルジップ(D88)
+:	:	:	:	:	ToppleZip.d88
+:	:	:	:	トランプ狂(2D)
+:	:	:	:	:	TRUMPKYO.2D
+:	:	:	:	:	TRUMPKYO.TXT
+:	:	:	:	トリトーン(D88)
+:	:	:	:	:	TRITON.D88
+:	:	:	:	:	TRITON.TXT
+:	:	:	:	トリトーン(TAP)
+:	:	:	:	:	TRITORN.tap
+:	:	:	:	トリビアQ(D88)
+:	:	:	:	:	Trivia-Q.d88
+:	:	:	:	ドッキン美奈子先生！(2D)
+:	:	:	:	:	MINAKO_A.2D
+:	:	:	:	:	MINAKO_B.2D
+:	:	:	:	ドラゴンスレイヤー　=ログイン版=(D88)
+:	:	:	:	:	LOGIN_DS.D88
+:	:	:	:	:	LOGIN_DS.TXT
+:	:	:	:	ドラゴンバスター(2D)
+:	:	:	:	:	DRABUS.2D
+:	:	:	:	:	DRABUS.TXT
+:	:	:	:	ドルアーガの塔(2D)
+:	:	:	:	:	DRUAGA.2D
+:	:	:	:	:	DRUAGA.TXT
+:	:	:	:	大戦略 X1(D88)
+:	:	:	:	:	ﾀﾞｲｾﾝﾘｧｸX1DISK_A.2D
+:	:	:	:	:	ﾀﾞｲｾﾝﾘｧｸX1MAP_DISK.2D
+:	:	:	:	第4のユニット(2D)
+:	:	:	:	:	4UNIT.TXT
+:	:	:	:	:	4UNIT_A.2D
+:	:	:	:	:	4UNIT_B.2D
+:	:	:	:	探検隊・第二弾 魔境アマゾンの奥地に黄金伝説を見た！(2D)
+:	:	:	:	:	探検隊　第２弾　魔境アマゾンの奥地に黄金伝説を見た！ｄｉｓｋ１（ターボ以降）.2D
+:	:	:	:	:	探検隊　第２弾　魔境アマゾンの奥地に黄金伝説を見た！ｄｉｓｋ２（ターボ以降）.2D
+:	:	:	:	超時空要塞マクロス(TAP)
+:	:	:	:	:	MACROSS.tap
+:	:	:	:	天使たちの午後(2D)
+:	:	:	:	:	DISK_A.2D
+:	:	:	:	東京ナンパストリート(2D)
+:	:	:	:	:	NANPASTR.2D
+:	:	:	:	:	NANPASTR.TXT
+:	:	:	:	闘氣王(D88)
+:	:	:	:	:	闘氣王DISK1.d88
+:	:	:	:	:	闘氣王DISK2.d88
+:	:	:	な行
+:	:	:	:	ナイザー　=デーモンクリスタルⅡ=(2D)
+:	:	:	:	:	KNITHER.2D
+:	:	:	:	ナムコ　ビデオゲームミュージックライブラリvol1
+:	:	:	:	:	ナムコビデオゲームミュージックライブラリ１DISK_A.2D
+:	:	:	:	:	ナムコビデオゲームミュージックライブラリ１DISK_B.2D
+:	:	:	:	信長の野望 =全国版=(2D)
+:	:	:	:	:	DISK_A.2D
+:	:	:	:	:	DISK_B.2D
+:	:	:	:	信長の野望(D88)
+:	:	:	:	:	NOBUNAGA.D88
+:	:	:	:	:	NOBUNAGA.TXT
+:	:	:	:	信長の野望(TAP)
+:	:	:	:	:	CZ8CB01.2D
+:	:	:	:	:	NOBUNAGA NO YABOU.tap
+:	:	:	:	南海の標的(TAP)
+:	:	:	:	:	NANKAI NO HYOUTEKI.tap
+:	:	:	:	任天堂ゴルフ(TAP)
+:	:	:	:	:	GOLF.tap
+:	:	:	は行
+:	:	:	:	は～りぃふぉっくす =雪の魔王編=(D88)
+:	:	:	:	:	HFOXMAO.TXT
+:	:	:	:	:	HFOXMAOA.D88
+:	:	:	:	:	HFOXMAOB.D88
+:	:	:	:	は～りぃふぉっくす(D88)
+:	:	:	:	:	HFOX.D88
+:	:	:	:	:	HFOX.TXT
+:	:	:	:	は～りぃふぉっくす(TAP)
+:	:	:	:	:	HURRY FOX.tap
+:	:	:	:	ハイドライドⅠ(D88)
+:	:	:	:	:	HYDLIDE.D88
+:	:	:	:	:	HYDLIDE.TXT
+:	:	:	:	ハイドライドⅠ(TAP)
+:	:	:	:	:	HYDLIDE.tap
+:	:	:	:	ハイドライドⅡ(D88)
+:	:	:	:	:	HYDLIDE2.D88
+:	:	:	:	:	HYDLIDE2.TXT
+:	:	:	:	:	HYDLIDE2User.D88
+:	:	:	:	ハイドライドⅢ(D88)
+:	:	:	:	:	HYDLID3A.D88
+:	:	:	:	:	HYDLID3B.D88
+:	:	:	:	:	HYDLID3U.D88
+:	:	:	:	:	HYDLIDE3.TXT
+:	:	:	:	ハイパーオリンピック '84[1-2](2D)
+:	:	:	:	:	HYPER_OL.2D
+:	:	:	:	:	HYPER_OL.TXT
+:	:	:	:	ハイパーオリンピック '84[1](TAP)
+:	:	:	:	:	HYPER OLYMPIC '84.tap
+:	:	:	:	バスタードスペシャル(D88)
+:	:	:	:	:	ﾊﾞｽﾀｰﾄﾞSP.d88
+:	:	:	:	バット(TAP)
+:	:	:	:	:	BAT.tap
+:	:	:	:	バトルシティ(2D)
+:	:	:	:	:	Battle_c.2d
+:	:	:	:	パックマン(TAP)
+:	:	:	:	:	CZ8CB01.2D
+:	:	:	:	:	PAC-MAN.tap
+:	:	:	:	パンチボールマリオ(D88・EH)
+:	:	:	:	:	ExtraHyper_System.d88
+:	:	:	:	:	panch.d88
+:	:	:	:	:	panch.txt
+:	:	:	:	パンチボールマリオブラザース(TAP)
+:	:	:	:	:	PUNCH BALL MARIO.tap
+:	:	:	:	ピラミッドの謎(TAP)
+:	:	:	:	:	CZ8CB01.2D
+:	:	:	:	:	PYLAMID NO NAZO.tap
+:	:	:	:	ファイナルゾーン(D88)
+:	:	:	:	:	F_ZONE_A.D88
+:	:	:	:	:	F_ZONE_B.D88
+:	:	:	:	ファンタジー1(D88)
+:	:	:	:	:	PHANTASIE1_PlayerDISK.D88
+:	:	:	:	:	PHANTASIE1_ProgramDISK.D88
+:	:	:	:	ファンタジアン(D88)
+:	:	:	:	:	FANTSIA.D88
+:	:	:	:	:	FANTSIA.TXT
+:	:	:	:	:	FANTSIAU.D88
+:	:	:	:	フェアリーズレジデンス(2D)
+:	:	:	:	:	8FB01v20.d88
+:	:	:	:	:	FAIRIES.TXT
+:	:	:	:	:	FAIRIESA.2D
+:	:	:	:	:	FAIRIESB.2D
+:	:	:	:	フラッピー(TAP)
+:	:	:	:	:	FLAPPY.tap
+:	:	:	:	フロントライン(D88)
+:	:	:	:	:	FRNTLINE.D88
+:	:	:	:	:	FRNTLINE.TXT
+:	:	:	:	フロントライン(TAP)
+:	:	:	:	:	FRONT LINE.tap
+:	:	:	:	ブラスティー(D88)
+:	:	:	:	:	DISK1.D88
+:	:	:	:	:	DISK2.D88
+:	:	:	:	プラズマライン(TAP)
+:	:	:	:	:	PLAZMA LINE.tap
+:	:	:	:	プロフェッショナル麻雀Ver2.1(2D)
+:	:	:	:	:	DISK_A.2D
+:	:	:	:	ヘルツォーク(D88)
+:	:	:	:	:	HERZOG.D88
+:	:	:	:	ホールインワン(TAP)
+:	:	:	:	:	HOLE IN ONE.tap
+:	:	:	:	ボコスカウォーズ(TAP)
+:	:	:	:	:	BOKOSUKA WARS.tap
+:	:	:	:	ボスコニアン(D88)
+:	:	:	:	:	Bosconian.d88
+:	:	:	:	ボンバーマン(TAP)
+:	:	:	:	:	BOMBER MAN.tap
+:	:	:	:	ポートピア連続殺人事件(2D)
+:	:	:	:	:	ﾎﾟｰﾄﾋﾟｱ.2D
+:	:	:	:	:	ﾎﾟｰﾄﾋﾟｱ.TXT
+:	:	:	:	ポップバルーン(TAP)
+:	:	:	:	:	POP BALOON.tap
+:	:	:	:	ポップレモン(2D・BASIC)※
+:	:	:	:	:	8FB01v20.d88
+:	:	:	:	:	POPLEMON.TXT
+:	:	:	:	:	POPLEM_A.2D
+:	:	:	:	:	POPLEM_B.2D
+:	:	:	:	花札こいこい(TAP)
+:	:	:	:	:	CZ8CB01.2D
+:	:	:	:	:	HANAFUDA KOIKOI.tap
+:	:	:	:	覇邪の封印(2D)
+:	:	:	:	:	HAJA.2D
+:	:	:	:	:	HAJA.TXT
+:	:	:	:	:	USER_DISK.d88
+:	:	:	:	美少女写真館 STUDIO CUT(2D)
+:	:	:	:	:	STUDIOCT.2D
+:	:	:	:	:	STUDIOCT.TXT
+:	:	:	:	舞臓魔(TAP)
+:	:	:	:	:	BUUMA.tap
+:	:	:	:	宝珠(TAP)
+:	:	:	:	:	CZ8CB01.2D
+:	:	:	:	:	HOHJU.tap
+:	:	:	:	北斗の拳(D88)
+:	:	:	:	:	HOKUTO_Disk1.D88
+:	:	:	:	:	HOKUTO_Disk2.D88
+:	:	:	ま行
+:	:	:	:	まじゃべんちゃーねぎ麻雀(D88)
+:	:	:	:	:	DISK1.D88
+:	:	:	:	:	DISK2.D88
+:	:	:	:	めそん一刻　=完結編=(D88)
+:	:	:	:	:	DISK1.D88
+:	:	:	:	:	DISK2.D88
+:	:	:	:	:	DISK3.D88
+:	:	:	:	:	DISK4.D88
+:	:	:	:	めそん一刻　=思い出のフォトグラフ=(D88)
+:	:	:	:	:	DISK1.D88
+:	:	:	:	:	DISK2.D88
+:	:	:	:	:	DISK3.D88
+:	:	:	:	マーベラス(2D)
+:	:	:	:	:	MERVEROS.2D
+:	:	:	:	マイドン(2D)
+:	:	:	:	:	MAIDUM_1.2D
+:	:	:	:	:	Maidum.txt
+:	:	:	:	:	Maidum_2.2d
+:	:	:	:	マスターオブモンスターズ(D88)※
+:	:	:	:	:	マスターオブモンスターズ.d88
+:	:	:	:	マッピー(TAP)
+:	:	:	:	:	MAPPY.tap
+:	:	:	:	マッピー　=NewVer=(2D)
+:	:	:	:	:	MAPPYNEW.2D
+:	:	:	:	:	MAPPYNEW.TXT
+:	:	:	:	マハリト(TAP)
+:	:	:	:	:	MAHARITO.tap
+:	:	:	:	ミミタン(TAP)
+:	:	:	:	:	MIMITAN.tap
+:	:	:	:	森田和郎の将棋(2D)
+:	:	:	:	:	DISK_A.2D
+:	:	:	:	魔界復活(D88)
+:	:	:	:	:	Makai_A.d88
+:	:	:	:	:	Makai_B.d88
+:	:	:	:	麻雀狂時代スペシャル(D88)
+:	:	:	:	:	DISKA.D88
+:	:	:	:	:	DISKB.D88
+:	:	:	:	夢幻の心臓Ⅱ(2D)
+:	:	:	:	:	MUGEN2.TXT
+:	:	:	:	:	MUGEN2_P.2D
+:	:	:	:	:	MUGEN2_S.2D
+:	:	:	:	:	MUGEN2_U.2D
+:	:	:	:	夢幻戦士ヴァリス(D88)
+:	:	:	:	:	VALIS.TXT
+:	:	:	:	:	VALIS_A.D88
+:	:	:	:	:	VALIS_B.D88
+:	:	:	:	迷宮への扉(2D)
+:	:	:	:	:	GATE_OF.2D
+:	:	:	:	:	GATE_OF.TXT
+:	:	:	や行
+:	:	:	:	夢少女さやか(2D)
+:	:	:	:	:	DISK_A.2D
+:	:	:	:	:	DISK_B.2D
+:	:	:	:	野球狂(TAP)
+:	:	:	:	:	YAKYUKYO.tap
+:	:	:	:	妖怪探偵ちまちま(D88・EH)
+:	:	:	:	:	ExtraHyper_System.d88
+:	:	:	:	:	chimachima.d88
+:	:	:	ら行
+:	:	:	:	ラストハルマゲドン(D88)
+:	:	:	:	:	DISKA.D88
+:	:	:	:	:	DISKB.D88
+:	:	:	:	:	DISKC.D88
+:	:	:	:	:	DISKD.D88
+:	:	:	:	:	DISKE.D88
+:	:	:	:	:	DISKF.D88
+:	:	:	:	:	DISKG.D88
+:	:	:	:	ラビリンス(D88)
+:	:	:	:	:	LabyrinthA.D88
+:	:	:	:	:	LabyrinthB.D88
+:	:	:	:	ラブチェイサー(D88)
+:	:	:	:	:	LOVECHAS.TXT
+:	:	:	:	:	LOVEC_1.D88
+:	:	:	:	:	LOVEC_2.D88
+:	:	:	:	ラプラスの魔(D88)
+:	:	:	:	:	DISK1.D88
+:	:	:	:	:	DISK2.D88
+:	:	:	:	:	DISK3.D88
+:	:	:	:	ラリーX(TAP)
+:	:	:	:	:	RALLY-X.tap
+:	:	:	:	リグラス(D88)
+:	:	:	:	:	RIGLAS.D88
+:	:	:	:	:	RIGLAS.TXT
+:	:	:	:	リザード(D88)
+:	:	:	:	:	LIZARD.D88
+:	:	:	:	:	LIZARD.TXT
+:	:	:	:	リザード(TAP)
+:	:	:	:	:	LIZARD.tap
+:	:	:	:	リバイバー(D88)※
+:	:	:	:	:	Data_Disk.d88
+:	:	:	:	:	Master_Disk.d88
+:	:	:	:	:	REVIVER.TXT
+:	:	:	:	:	USER_DISK.d88
+:	:	:	:	リボルティーⅡ(D88)
+:	:	:	:	:	リボルティー２　ｄｉｓｋ０.D88
+:	:	:	:	:	リボルティー２　ｄｉｓｋ１.D88
+:	:	:	:	:	リボルティー２　ｄｉｓｋ２.D88
+:	:	:	:	:	リボルティー２　ｄｉｓｋ３.D88
+:	:	:	:	ルクソール(D88)
+:	:	:	:	:	LUXSOR1.D88
+:	:	:	:	:	LUXSOR2.D88
+:	:	:	:	ルパンⅢ世　=カリオストロの城=(2D)
+:	:	:	:	:	LUPIN3RD.TXT
+:	:	:	:	:	LUPIN_A.2D
+:	:	:	:	:	LUPIN_B.2D
+:	:	:	:	レリクス(D88)
+:	:	:	:	:	RELICS.TXT
+:	:	:	:	:	RELICS_A.D88
+:	:	:	:	:	RELICS_B.D88
+:	:	:	:	ロードランナー(D88)
+:	:	:	:	:	LODERUNR.D88
+:	:	:	:	:	LODERUNR.TXT
+:	:	:	:	ロストパワー(2D)
+:	:	:	:	:	DISK_A.2D
+:	:	:	:	:	DISK_B.2D
+:	:	:	:	ロボレス2001(D88)
+:	:	:	:	:	ROBOWRES.D88
+:	:	:	:	ロマンシア(D88)
+:	:	:	:	:	ROMANCIA.D88
+:	:	:	わ行
+:	:	:	:	ワイルドウェスタン(TAP)
+:	:	:	:	:	WILD WESTERN.tap
+:	:	:	:	惑星メフィウス(TAP)
+:	:	:	:	:	CZ8CB01.2D
+:	:	:	:	:	ﾒﾌｨｳｽ.TAP
+:	:	:	詰め合わせ
+:	:	:	:	CASGAME(D88)
+:	:	:	:	:	CASGAME1.D88
+:	:	:	:	:	CASGAME1.TXT
+:	:	:	:	:	CASGAME2.D88
+:	:	:	:	:	CASGAME2.TXT
+:	:	:	:	GAME(2D)
+:	:	:	:	:	GAME6.2D
+:	:	:	:	:	GAME6.TXT
+:	:	:	:	:	GAME_E.2D
+:	:	:	:	:	GAME_E.TXT
+:	:	:	:	GAMEPK(2D)
+:	:	:	:	:	GAMEPK1.2D
+:	:	:	:	:	GAMEPK2.2D
+:	:	:	:	:	GAMEPK2.TXT
+:	:	:	:	:	Gamepk1.txt
+:	:	:	:	GAME_01-25(2D)
+:	:	:	:	:	GAME1-25_List.txt
+:	:	:	:	:	GAME_01.2d
+:	:	:	:	:	GAME_02.2d
+:	:	:	:	:	GAME_03.2d
+:	:	:	:	:	GAME_04.2d
+:	:	:	:	:	GAME_05.2d
+:	:	:	:	:	GAME_06.2d
+:	:	:	:	:	GAME_07.2d
+:	:	:	:	:	GAME_08.2d
+:	:	:	:	:	GAME_09.2d
+:	:	:	:	:	GAME_10.2d
+:	:	:	:	:	GAME_11.2d
+:	:	:	:	:	GAME_12.2d
+:	:	:	:	:	GAME_13.2d
+:	:	:	:	:	GAME_14.2d
+:	:	:	:	:	GAME_15.2d
+:	:	:	:	:	GAME_16.2d
+:	:	:	:	:	GAME_17.2d
+:	:	:	:	:	GAME_18.2d
+:	:	:	:	:	GAME_19.2d
+:	:	:	:	:	GAME_20.2d
+:	:	:	:	:	GAME_21.d88
+:	:	:	:	:	GAME_22.d88
+:	:	:	:	:	GAME_23.d88
+:	:	:	:	:	GAME_24.d88
+:	:	:	:	:	GAME_25.d88
+:	:	:	:	Gamepack(2D)
+:	:	:	:	:	Gamepack1.2d
+:	:	:	:	:	Gamepack2.2d
+:	:	:	:	:	Gamepack3.2d
+:	:	:	:	:	Gamepack4.2d
+:	:	:	:	JODANPK(D88)
+:	:	:	:	:	JODAN-DOS.2D
+:	:	:	:	:	JODANPK1.D88
+:	:	:	:	:	JODANPK1.TXT
+:	:	:	:	X1GM_PK(D88)
+:	:	:	:	:	X1GM_PK1.D88
+:	:	:	:	:	X1GM_PK1.TXT
+:	:	:	:	:	X1GM_PK2.D88
+:	:	:	:	:	X1GM_PK2.TXT
+:	:	:	:	:	X1GM_PK3.D88
+:	:	:	:	:	X1GM_PK3.TXT
+:	:	:	:	マイコンBASICマガジンプログラム集(2D)
+:	:	:	:	:	GAME1.2D
+:	:	:	:	:	GAME2.2D
+:	:	:	:	:	GAME3.2D
+:	:	:	:	:	X1_BASIC.2D
+:	:	:	:	:	readme.txt
+:	:	:	未完了
+:	:	:	:	Mr.プロ野球'88データディスク（要Mr.プロ野球）.D88
+:	:	:	:	[エミュ](X1) 新竹取物語_0.d88
+:	:	SYSTEM
+:	:	:	CZ-8FB01 ディスク版Hu-BASIC V1.0(2D)
+:	:	:	:	8FB01v10.2d
+:	:	:	:	BASIC1.2D
+:	:	:	CZ-8FB01 ディスク版Hu-BASIC V2.0(D88)
+:	:	:	:	8FB01v20.d88
+:	:	:	:	BASIC2.2D
+:	:	:	CZ-8FB02 turbo BASIC (2HD)
+:	:	:	:	CZ8FB02.D88
+:	:	:	:	CZ8FB02.TXT
+:	:	:	CZ-8FB03 turboZ BASIC (2HD)
+:	:	:	:	CZ8FB03.D88
+:	:	:	:	CZ8FB03.TXT
+:	:	:	CZ8CB01 テープ版Hu-BASIC(2D)
+:	:	:	:	CZ8CB01.2D
+:	:	:	:	CZ8CB01.TXT
+:	:	:	ExtraHyper(D88)
+:	:	:	:	ExtraHyper_Data.d88
+:	:	:	:	ExtraHyper_System.d88
+:	:	:	:	説明.TXT
+:	:	:	SWORD-OS for X1(2D)
+:	:	:	:	SWORD-OS.2D
+:	:	:	db-BASIC(2D)
+:	:	:	:	db-BASIC.2D
+:	:	:	ブランクディスク(2D)
+:	:	:	:	Readme.txt
+:	:	:	:	brankdisk.2d
+:	:	TOOL
+:	:	:	Charm Copy X-1
+:	:	:	:	charmlst.txt
+:	:	:	:	CC19870801
+:	:	:	:	:	CC870801.D88
+:	:	:	:	:	CC870801.TXT
+:	:	:	:	CC19870917
+:	:	:	:	:	CC870917.D88
+:	:	:	:	:	CC870917.TXT
+:	:	:	:	CC19871003
+:	:	:	:	:	CC871003.D88
+:	:	:	:	:	CC871003.TXT
+:	:	:	:	CC19871206
+:	:	:	:	:	CC871206.D88
+:	:	:	:	:	CC871206.TXT
+:	:	:	:	CC19871220
+:	:	:	:	:	CC871220.D88
+:	:	:	:	:	CC871220.TXT
+:	:	:	:	CC19880324
+:	:	:	:	:	CC880324.D88
+:	:	:	:	:	CC880324.TXT
+:	:	:	:	CC19880813
+:	:	:	:	:	CC880813.D88
+:	:	:	:	:	CC880813.TXT
+:	:	:	:	Charm Copy X-1 Ver08
+:	:	:	:	:	CHARM_08.D88
+:	:	:	:	:	CHARM_08.TXT
+:	:	:	:	SET C
+:	:	:	:	:	CC_SETC.D88
+:	:	:	:	:	CC_SETC.TXT
+:	:	:	EXPERT-X1
+:	:	:	:	EXPERT-X1
+:	:	:	:	:	EXPERTX1.2D
+:	:	:	:	:	EXPERTX1.TXT
+:	:	:	:	EXPERT-X1 FILER 1
+:	:	:	:	:	EXPERTF1.2D
+:	:	:	:	:	EXPERTF1.TXT
+:	:	:	:	EXPERT-X1 FILER 2
+:	:	:	:	:	EXPERTF2.2D
+:	:	:	:	:	EXPERTF2.TXT
+:	:	:	:	Expert-X1 Construction 01
+:	:	:	:	:	Ex01.d88
+:	:	:	:	:	Ex01.txt
+:	:	:	:	Expert-X1 Construction 02
+:	:	:	:	:	Ex02.d88
+:	:	:	:	:	Ex02.txt
+:	:	:	:	Expert-X1 Construction 03
+:	:	:	:	:	Ex03.d88
+:	:	:	:	:	Ex03.txt
+:	:	:	:	Expert-X1 Construction 04
+:	:	:	:	:	Ex04.d88
+:	:	:	:	:	Ex04.txt
+:	:	:	:	Expert-X1 Construction 05
+:	:	:	:	:	Ex05.d88
+:	:	:	:	:	Ex05.txt
+:	:	:	:	Expert-X1 Construction 871007
+:	:	:	:	:	EX871007.D88
+:	:	:	:	:	EX871007.TXT
+:	:	:	:	Expert-X1 Construction 871220
+:	:	:	:	:	EX871220.D88
+:	:	:	:	:	EX871220.TXT
+:	:	:	:	Expert-X1 Construction Vol10
+:	:	:	:	:	EX_VOL10.D88
+:	:	:	:	:	EX_VOL10.TXT
+:	:	:	:	Expert-X1 Construction a
+:	:	:	:	:	EXPX1_A.2D
+:	:	:	:	:	EXPX1_A.TXT
+:	:	:	:	Expert-X1 Construction b
+:	:	:	:	:	EXPX1_B.2D
+:	:	:	:	:	EXPX1_B.TXT
+:	:	:	FM音源ミュージックツール V.I.P. (2HD)
+:	:	:	:	MUSICTOL.D88
+:	:	:	:	MUSICTOL.TXT
+:	:	:	HYPER DISK MONITOR(D88)
+:	:	:	:	HDISKMON.D88
+:	:	:	:	詳細.TXT
+:	:	:	JETターボターミナル Ver1.1(D88)
+:	:	:	:	JetTerminal.d88
+:	:	:	NEW FM-DRIVER(2D)
+:	:	:	:	NEWFMDRV.2D
+:	:	:	NEWTYPE X1(2D)
+:	:	:	:	NEWTYPE.2D
+:	:	:	THE FILE MASTER X1 880621(D88)
+:	:	:	:	HFE88621.D88
+:	:	:	:	HFE88621.TXT
+:	:	:	THE FILE MASTER X1 Ver0.8(2D)
+:	:	:	:	TFM_X1.2D
+:	:	:	:	TFM_X1.TXT
+:	:	:	THE FILE MASTER X1(2D)
+:	:	:	:	TFM_X1.2D
+:	:	:	:	TFM_X1.TXT
+:	:	:	Visual Instrument Player(2D)
+:	:	:	:	VIP_DATA.2D
+:	:	:	:	VIP_SYS.2D
+:	:	:	グラフィックツール (2HD)
+:	:	:	:	GRAPHTOL.D88
+:	:	:	:	GRAPHTOL.TXT
+:	:	:	コピーツールＸ１
+:	:	:	:	cc870801.lzh
+:	:	:	:	cc870801.txt
+:	:	:	:	cc870917.lzh
+:	:	:	:	cc870917.txt
+:	:	:	:	cc871003.lzh
+:	:	:	:	cc871003.txt
+:	:	:	:	cc871206.lzh
+:	:	:	:	cc871206.txt
+:	:	:	:	cc871220.lzh
+:	:	:	:	cc871220.txt
+:	:	:	:	cc880324.lzh
+:	:	:	:	cc880324.txt
+:	:	:	:	cc880813.lzh
+:	:	:	:	cc880813.txt
+:	:	:	:	cc_setc.lzh
+:	:	:	:	cc_setc.txt
+:	:	:	:	charm_08.lzh
+:	:	:	:	charm_08.txt
+:	:	:	:	charmlst.txt
+:	:	:	:	ex871007.lzh
+:	:	:	:	ex871007.txt
+:	:	:	:	ex871220.lzh
+:	:	:	:	ex871220.txt
+:	:	:	:	ex___01.lzh
+:	:	:	:	ex___01.txt
+:	:	:	:	ex___02.lzh
+:	:	:	:	ex___02.txt
+:	:	:	:	ex___03.lzh
+:	:	:	:	ex___03.txt
+:	:	:	:	ex___04.lzh
+:	:	:	:	ex___04.txt
+:	:	:	:	ex___05.lzh
+:	:	:	:	ex___05.txt
+:	:	:	:	ex_vol10.lzh
+:	:	:	:	ex_vol10.txt
+:	:	:	:	exp_list.txt
+:	:	:	:	expertx1.lzh
+:	:	:	:	expertx1.txt
+:	:	:	:	hfe88621.lzh
+:	:	:	:	hfe88621.txt
+:	:	:	:	tfm_list.txt
+:	:	:	:	tfm_x1.lzh
+:	:	:	:	tfm_x1.txt
+:	:	:	:	新規テキスト ドキュメント.txt
+:	:	:	ダ・ビンチ(D88)
+:	:	:	:	ダ・ビンチ.d88
+:	X1 TOOL
+:	:	X-DOS関係
+:	:	:	XAPP.TXT
+:	:	:	XDOS.TXT
+:	:	:	XDOSCMD.TXT
+:	:	:	MDRVX107
+:	:	:	:	MCCDOSUP.DOC
+:	:	:	:	MCOMP.COM
+:	:	:	:	MD2MAN.DOC
+:	:	:	:	MDRVCX.COM
+:	:	:	:	MDRVXUP.DOC
+:	:	:	XDS25A10
+:	:	:	:	MDRV2MML.TXT
+:	:	:	:	README.TXT
+:	:	:	:	XAPP.TXT
+:	:	:	:	XBGM.TXT
+:	:	:	:	XDOS.TXT
+:	:	:	:	XDOSCMD.TXT
+:	:	:	:	XDOSMK.TXT
+:	:	:	:	XDOSTEC.TXT
+:	:	:	:	XDOS_SYS.D88
+:	:	:	:	XMML.TXT
+:	:	:	XDSUTL10
+:	:	:	:	XDOSUTIL.D88
+:	:	:	:	XDOSUTIL.TXT
+:	:	X1-R_1024
+:	:	:	NEWDISK.EXE
+:	:	:	OPMDFUNC.TXT
+:	:	:	OPMDRV.COM
+:	:	:	OPMDRV.INI
+:	:	:	OPMDRV.TXT
+:	:	:	README.TXT
+:	:	:	TAWAGOTO.TXT
+:	:	:	TOOL.TXT
+:	:	:	WHATSNEW.TXT
+:	:	:	X1FPLAY.EXE
+:	:	:	X1PAR.TXT
+:	:	:	X1R.COM
+:	:	:	X1R_98.OVL
+:	:	:	X1R_AT.OVL
+:	:	tap2dsk
+:	:	:	TAP2DSK.2D
+:	:	:	TAP2DSK.TXT
+:	:	:	TAPEtoDISK.htm
+:	X1 エミュ本体
+:	:	WinX1
+:	:	:	CGROM.X1
+:	:	:	FILE_ID.DIZ
+:	:	:	FNT0808.X1
+:	:	:	FNT0816.X1
+:	:	:	FNT1616.X1
+:	:	:	IPLROM.X1
+:	:	:	IPLROM.X1T
+:	:	:	KANJI2.ROM
+:	:	:	winx1.exe
+:	:	:	winx1.ini
+:	:	Xmil026d
+:	:	:	XMIL.TXT
+:	:	:	Xmillennium.exe
+:	:	:	Xmillennium.ini
+:	:	:	xmilfont.mft
+:	:	Xmil026e
+:	:	:	CGROM.X1
+:	:	:	FNT0808.X1
+:	:	:	IPLROM.X1
+:	:	:	IPLROM.X1T
+:	:	:	Pcidebug.sys
+:	:	:	Xmillennium.exe
+:	:	:	Xmillennium.ini
+:	:	:	pcidebug.dll
+:	:	:	pcidebug.exp
+:	:	:	pcidebug.lib
+:	:	:	xmilfont.mft
+:	:	:	pdbg10
+:	:	:	:	EXEC
+:	:	:	:	:	PCIDEBUG.DLL
+:	:	:	:	:	Pcidebug.sys
+:	:	:	:	:	pcidbg95.vxd
+:	:	:	:	:	pciwatch.exe
+:	:	:	:	INC
+:	:	:	:	:	Pcidef.h
+:	:	:	:	:	Pcifunc.h
+:	:	Xmillennium v0.25 T-tune STEP 1.21
+:	:	:	CMTEJECT.WAV
+:	:	:	CMTFF.WAV
+:	:	:	CMTPLAY.WAV
+:	:	:	CMTSTOP.WAV
+:	:	:	FDDSEEK.WAV
+:	:	:	FDDSEEK1.WAV
+:	:	:	FNT0808.X1
+:	:	:	IPLROM.X1
+:	:	:	Xmillennium.exe
+:	:	:	Xmillennium.ini
+:	:	:	t_tune.txt
+:	:	:	misc
+:	:	:	:	tape_fmt.txt
+:	:	:	org_doc
+:	:	:	:	D8U_DOC.TXT
+:	:	:	:	README.TXT
+:	:	:	:	WHATSNEW.TXT
+:	:	:	tool
+:	:	:	:	maketape.c
+:	:	:	:	maketape.exe
+:	:	:	:	maketape.txt
+:	:	:	:	new_tap.h
+:	:	:	:	old_tap.c
+:	:	:	:	old_tap.exe
+:	:	:	:	old_tap.txt
+:	:	Xmillennium v0.26 T-tune STEP 1.43
+:	:	:	CGROM.X1
+:	:	:	CMTEJECT.WAV
+:	:	:	CMTFF.WAV
+:	:	:	CMTPLAY.WAV
+:	:	:	CMTSTOP.WAV
+:	:	:	FDDSEEK.WAV
+:	:	:	FDDSEEK1.WAV
+:	:	:	FNT0808.X1
+:	:	:	FNT0816.X1
+:	:	:	FNT1616.X1
+:	:	:	IPLROM.X1
+:	:	:	IPLROM.X1T
+:	:	:	KANJI2.ROM
+:	:	:	Xmillennium.exe
+:	:	:	Xmillennium.ini
+:	:	:	t_tune.txt
+:	:	:	misc
+:	:	:	:	HDDIMAGE.ZIP
+:	:	:	:	tape_fmt.txt
+:	:	:	org_doc
+:	:	:	:	D8U_DOC.TXT
+:	:	:	:	README.TXT
+:	:	:	:	WHATSNEW.TXT
+:	:	:	tool
+:	:	:	:	maketape.c
+:	:	:	:	maketape.exe
+:	:	:	:	maketape.txt
+:	:	:	:	new_tap.h
+:	:	:	:	old_tap.c
+:	:	:	:	old_tap.exe
+:	:	:	:	old_tap.txt
+:	:	xmil026tt143_ika2
+:	:	:	CGROM.X1
+:	:	:	CMTEJECT.WAV
+:	:	:	CMTFF.WAV
+:	:	:	CMTPLAY.WAV
+:	:	:	CMTSTOP.WAV
+:	:	:	FDDSEEK.WAV
+:	:	:	FDDSEEK1.WAV
+:	:	:	FNT0808.X1
+:	:	:	FNT0816.X1
+:	:	:	FNT1616.X1
+:	:	:	IPLROM.X1
+:	:	:	IPLROM.X1T
+:	:	:	KANJI2.ROM
+:	:	:	Xmillennium.exe
+:	:	:	Xmillennium.ini
+:	:	:	ika_tune.txt
+:	:	:	pcidebug.dll
+:	:	:	pcidebug.sys
+:	:	:	t_tune.txt
+:	:	:	whatsnew.txt
+:	:	:	misc
+:	:	:	:	HDDIMAGE.ZIP
+:	:	:	:	tape_fmt.txt
+:	:	:	org_doc
+:	:	:	:	D8U_DOC.TXT
+:	:	:	:	README.TXT
+:	:	:	:	WHATSNEW.TXT
+:	:	:	tool
+:	:	:	:	maketape.c
+:	:	:	:	maketape.exe
+:	:	:	:	maketape.txt
+:	:	:	:	new_tap.h
+:	:	:	:	old_tap.c
+:	:	:	:	old_tap.exe
+:	:	:	:	old_tap.txt
+:	X1エミュ Archive
+:	:	pdbg10.lzh
+:	:	xmil026d.zip
+:	:	xmil026e.zip
+:	:	xmil026tt143_ika2.zip
+:	テキスト
+:	:	Readme.txt
+:	:	夢のかけらをとどめておこう.htm

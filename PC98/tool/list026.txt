@@ -1,0 +1,246 @@
+:	#Wonderwitch Promo Demo Vx.x by Dox (PD) [a1].wsc
+:	#Wonderwitch Promo Demo Vx.x by Dox (PD).wsc
+:	#wonderwitch promo demo by dox (pd).wsc
+:	#wonderwitch promo demo v1.2 by dox (pd).wsc
+:	#wonderwitch promo demo v1.3 by dox (pd).wsc
+:	#wonderwitch promo demo v1.4 by dox (pd).wsc
+:	Chaos Demo V1.0 by Charles Doty (PD).wsc
+:	Chaos Demo V2.0 by Charles Doty (PD).wsc
+:	Chaos Demo V2.1 by Charles Doty (PD).wsc
+:	Color Scrolling Demo by Charles Doty (PD).wsc
+:	Final Fantasy (J) [T-Eng0.91_Kalas].wsc
+:	Final Lap Special (J) [!].wsc
+:	Fire Pro Wrestling (J) [M].ws
+:	Gensou Maden Saiyuuki Retribution (J) [f1].wsc
+:	Gorakuoh TANGO! (J) [M].ws
+:	Gorakuoh TANGO! (J) [M][f1].ws
+:	Guilty Gear Petit 2 (J) [t1].wsc
+:	Hanjyuku Hero - Aah Sekai yo Hanjuku Nare (J) [!].wsc
+:	Hunter X Hunter - Ichi O Tsugu Mono (J) [M][!].ws
+:	Hunter X Hunter - Ichi O Tsugu Mono (J) [M][f1].ws
+:	Itou Jun Ni Uzumaki Noroi Simulation (J) [M][f1].ws
+:	Kakuto Ryori Densetsu Bistro Recipe - Wonder Battle Hen (J) [M].ws
+:	Kaze no Klonoa - Moonlight Museum (J) [M][t1].ws
+:	Keiba Yosou Shien Shinkaron (J) [M][!].ws
+:	Kyoso Uma Ikusei Simulation Keiba (J) [M].ws
+:	Last Alive (J).wsc
+:	LastStand (J) [M].ws
+:	Magical Drop (J) [M][b1].ws
+:	Makaimura (J) [M][t1].ws
+:	Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (J) [M].ws
+:	Meitantei Conan - Yugure no Koujo (J) [!].wsc
+:	Moero !! Pro Yakyu Rookies (J) [M].ws
+:	Morita Shogi (J) [M][!].ws
+:	Pocket no Naka no Doraemon (J).wsc
+:	Raku Jongg (J) [f1].wsc
+:	Robot Works (Asia) [M].ws
+:	Shin Nihon Pro Wrestling Toukon Retsuden (J) [M][f1].ws
+:	Star Hearts Taikenban (J) [!].wsc
+:	Super Robot Taisen Compact (J) [!].wsc
+:	Tare Pan no Gunpei (J) [M][f2].ws
+:	Tonpusou (J) [!].wsc
+:	Uzumaki - Denshi Kaiki Hen (J) [M][f1].ws
+:	WonderSwan Handy Sonar (J) [M].ws
+:	Wonderswan Register Diagnostic by Zalas (PD).wsc
+:	alchemist marie & elie - futari no atelier (j) [!].wsc
+:	anchor field z (j) [m].ws
+:	anchor field z (j) [m][f1].ws
+:	armored unit (j) [m].ws
+:	armored unit (j) [m][f1].ws
+:	armored unit (j) [m][o1].ws
+:	bakusou dekatora densetsu (j) [m][!].ws
+:	bank test by sir dragoon (pd).wsc
+:	beat mania (j) [m][!].ws
+:	blue wing blitz (j) [m].ws
+:	bokan densetsu buta mo o daterya doronbou (time bokan series) (j) [m].ws
+:	buffers evolution (j) [m].ws
+:	buffers evolution (j) [m][f1].ws
+:	card captor sakura - sakura to fushigi na clow card (j)[m][!].ws
+:	chaos demo v1.1 by charles doty (pd).wsc
+:	chaos gear - michibi kareshi mono (j) [m][!].ws
+:	cho denki card battle yofu makai kikuchi shugo (j) [m][!].ws
+:	chocobo no fushigi na dungeon (j) [m].ws
+:	chou aniki - otoko no tamafuda (j) [m].ws
+:	choujikuu yousai macross - true love song (j) [m][!].ws
+:	clock tower (j) [m][!].ws
+:	clock tower (j) [m][o1].ws
+:	color bars demo by sir dragoon (pd).wsc
+:	color test demo by sir dragoon (pd).wsc
+:	crazy climber (j) [m][!].ws
+:	crazy climber (j) [m][o1].ws
+:	d's garage 21 koubo game - tane wo maku tori (j) [m][!].ws
+:	d's garage 21 koubo game - tane wo maku tori (j) [m][f1].ws
+:	dark eyes - battle gate (j) [!].wsc
+:	densha de go! (j) [m].ws
+:	densha de go! 2 (j) [m].ws
+:	digimon adventure - anode tamer (j) [m].ws
+:	digimon adventure - cathode tamer (j) [m].ws
+:	digimon adventure 02 - d1 tamers (j) [m][!].ws
+:	digimon adventure 02 - tag tamers (j) [m][!].ws
+:	digimon digital monsters (asia) [m].ws
+:	digimon digital monsters (j) [m].ws
+:	digimon digital monsters - anode & cathode tamer - veedramon version (asia) [m][!].ws
+:	digimon digital monsters for wonderswancolor (j) [!].wsc
+:	digimon digital monsters for wonderswancolor (j) [f1].wsc
+:	digimon tamers - battle spirit (j) [m][!].ws
+:	digimon tamers - brave tamer (j) [!].wsc
+:	digimon tamers - digimon medley (j) [!].wsc
+:	digimon tamers - digimon medley (j) [f1].wsc
+:	digital partner (j) [m][!].ws
+:	dokodemo hamster (j) [m][!].ws
+:	dokodemo hamster 3 - o dekake saffron (j).wsc
+:	engacho! (j) [m][!].ws
+:	engacho! (j) [m][f1].ws
+:	fever sankyo - koushiki pachinko simulation (j) [m].ws
+:	fever sankyo - koushiki pachinko simulation (j) [m][f1].ws
+:	final fantasy (j) [!].wsc
+:	final fantasy 4 (j) [!].wsc
+:	final fantasy ii (j) [!].wsc
+:	final fantasy ii (j) [t-eng095_rpgone].wsc
+:	final fantasy ii (j) [t-eng097_rpgone].wsc
+:	final lap 2000 (j) [m][!].ws
+:	final lap 2000 (j) [m][f1].ws
+:	final lap special (j) [f1].wsc
+:	fishing freaks - bass rise (j) [m].ws
+:	flash - koibito kun (j) [!].wsc
+:	flash - koibito kun (j) [f1].wsc
+:	from tv animation - one piece - mezase kaizoku ou (j) [m].ws
+:	from tv animation - one piece - mezase kaizoku ou (j) [m][f1].ws
+:	from tv animation - one piece - niji no shima densetsu (j)[!].wsc
+:	ganso jajamaru kun (j) [m][!].ws
+:	gensou maden saiyuuki retribution (j) [!].wsc
+:	girl demo by dox (pd).wsc
+:	glocal hexcite (j) [m][!].ws
+:	glocal hexcite (j) [m][o1].ws
+:	golden axe (j) [!].wsc
+:	golden axe (j) [t1].wsc
+:	gomoku narabe & reversi touryuumon (j) [m].ws
+:	guilty gear petit (j).wsc
+:	guilty gear petit 2 (j) [!].wsc
+:	gunpey (j) [m].ws
+:	gunpey (j) [m][f1].ws
+:	gunpey ex (j) [!].wsc
+:	gunpey ex (j) [f1].wsc
+:	hanafuda shiyou yo (j) [m][!].ws
+:	hanafuda shiyou yo (j) [m][o1].ws
+:	harobots (j) [m][!].ws
+:	hataraku chocobo (j) [!].wsc
+:	hello world by sir dragoon (pd).wsc
+:	hunter x hunter - michibi kareshi mono (j) [!].wsc
+:	hunter x hunter - michibi kareshi mono (j) [f1].wsc
+:	hunter x hunter - sorezore no ketsui (j) [!].wsc
+:	hunter x hunter - sorezore no ketsui (j) [f1].wsc
+:	inu yasha (j) [!].wsc
+:	itou jun ni uzumaki noroi simulation (j) [m][!].ws
+:	kaze no klonoa - moonlight museum (j) [m].ws
+:	kidou senshi gundam vol.1 -side 7- (j) [!].wsc
+:	kinniku man second generations dream tag match (j) [!].wsc
+:	kiss yori... - seaside serenade (j) [m].ws
+:	kurupara! (j) [!].wsc
+:	langrisser millenium ws - the last century (j) [m][!].ws
+:	last alive (j) [f1].wsc
+:	lode runner (j) [m][!].ws
+:	lode runner (j) [m][o1].ws
+:	magical drop (j) [m][!].ws
+:	mahjong touryuumon (j) [m][!].ws
+:	makai toushi sa-ga (j) [!].wsc
+:	makaimura (j) [m].ws
+:	medarot - perfect edition kabuto version (j) [m][!].ws
+:	medarot - perfect edition kuwagata version (j) [m][!].ws
+:	meitantei conan - majutsushi no chousenjou! (j) [m][!].ws
+:	memories of festa (j) [!].wsc
+:	meta communication therapy nee kiite! (j) [m][!].ws
+:	mikeneko holme's ghost panic (j) [!].wsc
+:	mikeneko holme's ghost panic (j) [f1].wsc
+:	mingle magnet (j) [m].ws
+:	mobile suit gundam - volume 2 - jaburo (j) [!].wsc
+:	mobile suit gundam msvs (j) [m][!].ws
+:	mr. driller (j) [!].wsc
+:	nazo ou pocket (j) [m].ws
+:	nazo ou pocket (j) [m][f1].ws
+:	neon genesis evangelion shito ikusei (j) [m][!].ws
+:	nice on (j) [m][!].ws
+:	nice on (j) [m][f1].ws
+:	nobunaga no yabo (j) [m][!].ws
+:	nobunaga no yabo (j) [m][o1].ws
+:	ouchan no oekaki logic (j) [m].ws
+:	ouchan no oekaki logic (j) [m][f1].ws
+:	pocket fighter (j) [m].ws
+:	pocket no naka no doraemon (j) [f1].wsc
+:	pro mahjong kiwame (j) [m][!].ws
+:	puyo puyo tsu (j) [m][!].ws
+:	puzzle bobble (j) [m].ws
+:	puzzle bobble (j) [m][f1].ws
+:	rainbow islands - putty's party (j) [m].ws
+:	raku jongg (j) [!].wsc
+:	rekishi simulation sangokushi ii (j) [m].ws
+:	rhyme rider kerorikan (j) [!].wsc
+:	ring infinity (j) [m][!].ws
+:	ring infinity (j) [m][f1].ws
+:	robot works (j) [m][!].ws
+:	rockman & forte - mirai kara no chousen sha (j) [m][!].ws
+:	romancing saga (j) [!].wsc
+:	sangokushi (j) [m].ws
+:	sd gundam - emotional jam (j) [m][!].ws
+:	sd gundam eiyuuden - eiyuuden kishi densetsu (j) [m][!].ws
+:	sd gundam eiyuuden - eiyuuden musha densetsu (j) [m][!].ws
+:	sd gundam g generation - gather beat (j) [m].ws
+:	sd gundam g generation - gather beat 2 (j) [!].wsc
+:	sd gundam gashapon senki - episode 1 (j) [m][!].ws
+:	senkaiden - tv animation senkaiden houshin engi yori (j) [m].ws
+:	senkaiden ni - tv animation senkaiden houshin engi yori (j) [m][!].ws
+:	sennou millenium (j) [m][!].ws
+:	sennou millenium (j) [m][f1].ws
+:	shanghai pocket (j) [m].ws
+:	shin nihon pro wrestling toukon retsuden (j) [m].ws
+:	shogi touryuumon (j) [m][!].ws
+:	shogi touryuumon (j) [m][o1].ws
+:	side pocket (j) [m][!].ws
+:	slither link (j) [m][!].ws
+:	slither link (j) [m][f1].ws
+:	slither link (j) [m][o1].ws
+:	slither link (j) [m][o1][f1].ws
+:	soccer yarou! - challenge the world (j) [m].ws
+:	soccer yarou! - challenge the world (j) [m][a1].ws
+:	soroban gu (j) [!].wsc
+:	sotsugyou (j) [m].ws
+:	space invaders (j) [m][!].ws
+:	star hearts (j) [!].wsc
+:	super robot taisen compact (j) [m][!].ws
+:	super robot taisen compact 2 - dai ichibu - chijou gekidou hen (j) [m].ws
+:	super robot taisen compact 2 - dai nibu - uchuu gekishin hen (j) [m][!].ws
+:	super robot taisen compact 2 - dai sanbu - ginga kessen hen (j) [m].ws
+:	tanjou - debut (j) [m][!].ws
+:	tare pan no gunpei (j) [m][!].ws
+:	tare pan no gunpei (j) [m][f1].ws
+:	tekken card challenge (j) [m][!].ws
+:	terrors (j) [m].ws
+:	terrors 2 (j) [!].wsc
+:	terrors 2 (j) [f1].wsc
+:	tetsujin 28 gou (j) [m].ws
+:	tetsujin 28 gou (j) [m][f1].ws
+:	tetsuman (j) [m][!].ws
+:	tokyo majin gakuen fuju fuuroku (j) [m][!].ws
+:	tonpusou (j) [f1].wsc
+:	trump collection 2 (j) [!].wsc
+:	trump collection bottom up teki trump seikatsu (j) [m][!].ws
+:	trump collection bottom up teki trump seikatsu (j) [m][o1].ws
+:	turntablist - dj battle (j) [m][!].ws
+:	turntablist - dj battle (j) [m][f1].ws
+:	uchuu senkan yamato (j) [!].wsc
+:	uchuu senkan yamato (j) [b1].wsc
+:	ultraman - hikari no kuni no shisha (j).wsc
+:	umizuri ni ikou (j) [m][!].ws
+:	uzumaki - denshi kaiki hen (j) [m][!].ws
+:	vaitz blade (j) [m][!].ws
+:	wasabi produce - street dancer (j) [m][!].ws
+:	wild card (j) [!].wsc
+:	with you mitsumete itai (j) [!].wsc
+:	with you mitsumete itai (j) [f1].wsc
+:	wizardry - scenario 1 - kyounou no shiren jou (j) [m][!].ws
+:	wonder classic (j) [m][!].ws
+:	wonder stadium '99 (j) [m].ws
+:	wonder stadium (j) [m].ws
+:	wondersnake beta by dox (pd).wsc
+:	wondersnake final sep 11 2001 by dox & kojote (pd).wsc
+:	xi (sai) little (j).wsc

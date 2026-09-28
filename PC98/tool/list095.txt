@@ -1,0 +1,921 @@
+【エミュ】(PC6001) PC6001_Romz ゲームイメージ　300本 .zip
+8250c0074eb5f50f846f3c5e02932506・298d8ca62194422efaa6a1c59ce900866821c87a
+5,277,471
+ファイル数合計 = 453 個
+ファイルサイズ合計 = 9118149 Byte
+
+:	PC6001 201 Tape Image non check
+:	:	6x
+:	:	:	BASICROM.60
+:	:	:	BASICROM.62
+:	:	:	CGROM60.60
+:	:	:	CGROM60.62
+:	:	:	CGROM60M.62
+:	:	:	KANJIROM.62
+:	:	:	VOICEROM.62
+:	:	:	basicrom.68
+:	:	:	cgrom60.68
+:	:	:	cgrom66.68
+:	:	:	kanjirom.68
+:	:	:	sysrom2.68
+:	:	:	voicerom.68
+:	:	cas
+:	:	:	3DGOLF.CAS
+:	:	:	4989.cas
+:	:	:	AMETRA.CAS
+:	:	:	ANKOKU1.CAS
+:	:	:	ANKOKU2.CAS
+:	:	:	ANKOKU2B.CAS
+:	:	:	ANKOKU3.CAS
+:	:	:	ANKOKU3B.CAS
+:	:	:	ARABIA.CAS
+:	:	:	ASTERO.CAS
+:	:	:	AX10_outlaw.cas
+:	:	:	AX10_pop.cas
+:	:	:	AX10_risu.cas
+:	:	:	AX10_seven.cas
+:	:	:	AX2_Demo.cas
+:	:	:	AX2_Dual.cas
+:	:	:	AX2_Nostro.cas
+:	:	:	AX2_Steal.cas
+:	:	:	AX2_Woods.cas
+:	:	:	AX3_Cosmic.cas
+:	:	:	AX3_Demo.cas
+:	:	:	AX3_Inter.cas
+:	:	:	AX3_Othelo.cas
+:	:	:	AX3_Slot.cas
+:	:	:	AX4_Black.cas
+:	:	:	AX4_Car.cas
+:	:	:	AX4_Demo.cas
+:	:	:	AX4_Foot.cas
+:	:	:	AX4_Shut.cas
+:	:	:	AX5_Olion4.cas
+:	:	:	AX5_Orion3.cas
+:	:	:	AX5_Quest3.cas
+:	:	:	AX5_Quest4.cas
+:	:	:	AX6_Demo.cas
+:	:	:	AX6_Headon.cas
+:	:	:	AX6_Master.cas
+:	:	:	AX6_Power.cas
+:	:	:	AX6_Space.cas
+:	:	:	AX7DEMO.CAS
+:	:	:	AX7_Astero.cas
+:	:	:	AX7_Galaxy.cas
+:	:	:	AX7_Godhar.cas
+:	:	:	AX7_Porice.cas
+:	:	:	AX8_Galaxy1.cas
+:	:	:	AX8_Galaxy2.cas
+:	:	:	AX9_bound.cas
+:	:	:	AX9_fls.cas
+:	:	:	AX9_sky.cas
+:	:	:	Asteroid.cas
+:	:	:	Ax7_demo.cas
+:	:	:	BARRI.CAS
+:	:	:	BLACK.CAS
+:	:	:	BLOCK.CAS
+:	:	:	BOKO60.CAS
+:	:	:	BREAK.CAS
+:	:	:	CAR.CAS
+:	:	:	CHACK_N.CAS
+:	:	:	Cosmic.cas
+:	:	:	DAIDASSO.CAS
+:	:	:	DUAL.CAS
+:	:	:	Destroy.cas
+:	:	:	EARTH.CAS
+:	:	:	EGGY.CAS
+:	:	:	FLAPPY.CAS
+:	:	:	FOOT.CAS
+:	:	:	GALAXY.CAS
+:	:	:	GODHAR.CAS
+:	:	:	Galaxy1.cas
+:	:	:	Galaxy2.cas
+:	:	:	HEADON.CAS
+:	:	:	HISYA.CAS
+:	:	:	HSWORD.CAS
+:	:	:	HYDLIDE.CAS
+:	:	:	H_FOX1.CAS
+:	:	:	H_FOX2.CAS
+:	:	:	ICEBLOCK.CAS
+:	:	:	Inter.cas
+:	:	:	KITA.CAS
+:	:	:	MAGNETIC.CAS
+:	:	:	MASTER.CAS
+:	:	:	MEPHI1.CAS
+:	:	:	MEPHI2_A.CAS
+:	:	:	MEPHI2_B.CAS
+:	:	:	MEPHI3_A.CAS
+:	:	:	MEPHI3_B.CAS
+:	:	:	MH2.CAS
+:	:	:	NOSTRO.CAS
+:	:	:	ONYX.CAS
+:	:	:	Olion4.cas
+:	:	:	Orion3.cas
+:	:	:	Othelo.cas
+:	:	:	PORICE.CAS
+:	:	:	POWER.CAS
+:	:	:	PYRAMID2.CAS
+:	:	:	Quest3.cas
+:	:	:	Quest4.cas
+:	:	:	SHUT.CAS
+:	:	:	SIMON.CAS
+:	:	:	SPACE.CAS
+:	:	:	STARWR~1.CAS
+:	:	:	STEAL.CAS
+:	:	:	SUIDOU.CAS
+:	:	:	Slot.cas
+:	:	:	Space_ha.cas
+:	:	:	Spaceharrier.cas
+:	:	:	Starwrecker.cas
+:	:	:	TINYXE2.CAS
+:	:	:	TINYXEV.CAS
+:	:	:	TRITON.CAS
+:	:	:	Tinyxevious.cas
+:	:	:	Tinyxevious2.cas
+:	:	:	Trick.cas
+:	:	:	WOODS.CAS
+:	:	:	aspic_a.cas
+:	:	:	aspic_b.cas
+:	:	:	ax1Demo.cas
+:	:	:	ax1_Arabia.cas
+:	:	:	ax1_Barri.cas
+:	:	:	ax1_Block.cas
+:	:	:	ax1_Demo.cas
+:	:	:	ax1_Simon.cas
+:	:	:	ax2Demo.cas
+:	:	:	ax3Demo.cas
+:	:	:	ax4Demo.cas
+:	:	:	ax5Demo.cas
+:	:	:	ax9demo.cas
+:	:	:	bokosuka.cas
+:	:	:	bound.cas
+:	:	:	fls.cas
+:	:	:	frntline.cas
+:	:	:	galaxian.cas
+:	:	:	grobda.cas
+:	:	:	lizard.cas
+:	:	:	outlaw.cas
+:	:	:	pacman.cas
+:	:	:	pop.cas
+:	:	:	risu.cas
+:	:	:	seven.cas
+:	:	:	sky.cas
+:	:	:	ston.cas
+:	:	:	toiletadventure.cas
+:	:	:	ﾄｲﾚｯﾄADV.cas
+:	:	dsk
+:	:	:	COLONY1.DSK
+:	:	:	COLONY2.DSK
+:	:	:	COLONY3.DSK
+:	:	:	PC66UTY.DSK
+:	:	:	WORDPRO.DSK
+:	:	p6
+:	:	:	4001_1A.P6
+:	:	:	4001_1B.P6
+:	:	:	4001_2.P6
+:	:	:	4001_3.P6
+:	:	:	FORMAT.P6
+:	:	:	Starcommand_biorms.P6
+:	:	:	Starcommand_command.P6
+:	:	:	Starcommand_labelm.P6
+:	:	:	Starcommand_satan1.P6
+:	:	:	Starcommand_satan2.P6
+:	:	:	Starcommand_t_ment.P6
+:	:	:	Starcommand_vartst.P6
+:	:	:	arm.p6
+:	:	:	biorms.P6
+:	:	:	command.P6
+:	:	:	danger.p6
+:	:	:	dream.p6
+:	:	:	forts1.p6
+:	:	:	forts2.p6
+:	:	:	galac.p6
+:	:	:	galaxian.p6
+:	:	:	homerun.p6
+:	:	:	inv.p6
+:	:	:	invader.p6
+:	:	:	kurukuru.P6
+:	:	:	labelm.P6
+:	:	:	lode_run.p6
+:	:	:	mix.P6
+:	:	:	pan.p6
+:	:	:	satan1.P6
+:	:	:	satan2.P6
+:	:	:	super.p6
+:	:	:	t_ment.P6
+:	:	:	takeoff.p6
+:	:	:	tanabata1.p6
+:	:	:	tanabata2.p6
+:	:	:	umibe1.p6
+:	:	:	umibe2.p6
+:	:	:	vartst.P6
+:	:	:	vital.p6
+:	:	:	zukkoke.p6
+:	:	txt
+:	:	:	3DGOLF.TXT
+:	:	:	4001_Story.txt
+:	:	:	4989.txt
+:	:	:	AMETRA.TXT
+:	:	:	ANKOKU.TXT
+:	:	:	AX-8.txt
+:	:	:	AX10.txt
+:	:	:	AX2.txt
+:	:	:	AX3.txt
+:	:	:	AX4.txt
+:	:	:	AX6.txt
+:	:	:	AX7.txt
+:	:	:	AX9.txt
+:	:	:	Asteroid.txt
+:	:	:	BOKO60.TXT
+:	:	:	BREAK.TXT
+:	:	:	Chack_n.txt
+:	:	:	DAIDASSO.TXT
+:	:	:	Destroy.txt
+:	:	:	EARTH.TXT
+:	:	:	EGGY.TXT
+:	:	:	FLAPPY.TXT
+:	:	:	HISYA.TXT
+:	:	:	HSWORD.TXT
+:	:	:	HSWORDm.TXT
+:	:	:	H_FOX1.TXT
+:	:	:	H_FOX2.TXT
+:	:	:	ICEBLOCK.TXT
+:	:	:	KITA.TXT
+:	:	:	LIST.TXT
+:	:	:	MAGNETIC.TXT
+:	:	:	MEPHIUS.TXT
+:	:	:	MYSHOUS2.TXT
+:	:	:	ONYX.TXT
+:	:	:	PC66UTY.TXT
+:	:	:	Pyramid2.txt
+:	:	:	STARWR~1.TXT
+:	:	:	STORY.TXT
+:	:	:	SUIDOU.TXT
+:	:	:	Starcommand.txt
+:	:	:	Starwrecker.txt
+:	:	:	TRITON.TXT
+:	:	:	Tinyxevious.txt
+:	:	:	Tinyxevious2.txt
+:	:	:	Trick.txt
+:	:	:	WORDPRO.TXT
+:	:	:	arm.txt
+:	:	:	aspic.txt
+:	:	:	ax1.txt
+:	:	:	ax10_Readme.txt
+:	:	:	ax1_Readme.txt
+:	:	:	ax2_Readme.txt
+:	:	:	ax3_Readme.txt
+:	:	:	ax4_readme.txt
+:	:	:	ax5.txt
+:	:	:	ax5_readme.txt
+:	:	:	ax6_Readme.txt
+:	:	:	ax7_Readme.txt
+:	:	:	ax9_readme.txt
+:	:	:	bokosuka.txt
+:	:	:	chack_n_Readme.txt
+:	:	:	cmd_man_1.jpg
+:	:	:	cmd_man_10.jpg
+:	:	:	cmd_man_11.jpg
+:	:	:	cmd_man_12.jpg
+:	:	:	cmd_man_13.jpg
+:	:	:	cmd_man_14.jpg
+:	:	:	cmd_man_2.jpg
+:	:	:	cmd_man_3.jpg
+:	:	:	cmd_man_4.jpg
+:	:	:	cmd_man_5.jpg
+:	:	:	cmd_man_6.jpg
+:	:	:	cmd_man_7.jpg
+:	:	:	cmd_man_8.jpg
+:	:	:	cmd_man_9.jpg
+:	:	:	command_readme.txt
+:	:	:	danger.txt
+:	:	:	danger_readme.txt
+:	:	:	dream.txt
+:	:	:	earth_t.txt
+:	:	:	earth_t[0].txt
+:	:	:	emubm15.html
+:	:	:	emubm20.html
+:	:	:	emubm29.html
+:	:	:	emubm30.html
+:	:	:	emubm32.html
+:	:	:	emubm34.html
+:	:	:	emubm8.html
+:	:	:	file_ax1.html
+:	:	:	file_ax10.html
+:	:	:	file_ax2.html
+:	:	:	file_ax3.html
+:	:	:	file_ax4.html
+:	:	:	file_ax5.html
+:	:	:	file_ax6.html
+:	:	:	file_ax7.html
+:	:	:	file_ax8.html
+:	:	:	file_ax9.html
+:	:	:	files.html
+:	:	:	format_Readme.txt
+:	:	:	forts.txt
+:	:	:	forts_readme.txt
+:	:	:	frntline.txt
+:	:	:	from_fjy.html
+:	:	:	galac_readme.txt
+:	:	:	galaxian.txt
+:	:	:	galaxian[2].txt
+:	:	:	galaxian_readme.txt
+:	:	:	homerun.txt
+:	:	:	hydlide.txt
+:	:	:	hydlide_Readme.txt
+:	:	:	inv_readme.txt
+:	:	:	invader.txt
+:	:	:	kurukuru.txt
+:	:	:	kurukuru_readme.txt
+:	:	:	lizard.txt
+:	:	:	loadrunnerp6_readme.txt
+:	:	:	lode_readme.txt
+:	:	:	mix.txt
+:	:	:	mix_readme.txt
+:	:	:	pacman.txt
+:	:	:	pacman_readme.txt
+:	:	:	pan.txt
+:	:	:	pan_readme.txt
+:	:	:	pyramid_readme.txt
+:	:	:	space_ha_Readme.txt
+:	:	:	spaceharrier.txt
+:	:	:	star_command.html
+:	:	:	ston.txt
+:	:	:	super.txt
+:	:	:	super_readme.txt
+:	:	:	takeoff.txt
+:	:	:	tanabata.txt
+:	:	:	tape1.html
+:	:	:	tape2.html
+:	:	:	tape3.html
+:	:	:	tiny_xe1_Readme.txt
+:	:	:	tiny_xe2_Readme.txt
+:	:	:	toilet_readme.txt
+:	:	:	toiletadventure.txt
+:	:	:	umibe.txt
+:	:	:	vital.txt
+:	:	:	zukkoke.txt
+:	:	:	zukkoke_readme.txt
+:	:	:	宝石箱はこころの中に.htm
+:	pc6001_Romz
+:	:	3d Golf (19xx)(T&e)(Mode 5, Page 3).Cas
+:	:	4989 (19xx)(Enix)(Mode 5, Page 3).Cas
+:	:	Amazon, The (19xx)(-)(Mode 2, Page 3).Cas
+:	:	American Truck (19xx)(-)(Mode 5, Page 4).Cas
+:	:	Arabia (19xx)(-)(Mode 1,page 1).Cas
+:	:	Aspicp  (19xx)(Xtal Soft)(Side A)(Mode 5, Page 2).Cas
+:	:	Aspicp (19xx)(Xtal Soft)(Side B)(Mode 5, Page 2).Cas
+:	:	Astero (19xx)(-)(Mode 1, Page 1).Cas
+:	:	Asteroid (19xx)(-)(Mode 2, Page 4).Cas
+:	:	Ax7 Demo (19xx)(-)(Mode 1, Page 1).Cas
+:	:	Ax9 Demo (19xx)(-)(Mode 2, Page 2).Cas
+:	:	Barri (19xx)(-)(Mode 1, Page 2).Cas
+:	:	Black Onyx, The (19xx)(Ascii)(Mode 5, Page 2).Cas
+:	:	Block (19xx)(-)(Mode 1, Page 2).Cas
+:	:	Bokosuka (19xx)(Ascii)(Mode 5, Page 3).Cas
+:	:	Bound (19xx)(-)(Mode 2, Page 2).Cas
+:	:	Break Through (19xx)(Compac)(Mode 2, Page 2).Cas
+:	:	Car (19xx)(-)(Mode 1, Page 2).Cas
+:	:	Castle Excellent (19xx)(-)(Mode 5, Page 2).Cas
+:	:	Chack 'n Pop (19xx)(-)(Mode5, Page 1).Cas
+:	:	Chrith (19xx)(Comix)(Mode 5, Page 3).Cas
+:	:	Daidasso (19xx)(Carrylab)(Mode 5, Page 1).Cas
+:	:	Danger (19xx)(-)(Mode 2 Page 2).P6
+:	:	Dark Nebula  (19xx)(T&e)(Disk 1 Of 3)(Mode 5, Page 3).Cas
+:	:	Dark Nebula (19xx)(T&e)(Disk 2 Of 3)(Side A)(Mode 5, Page 3).Cas
+:	:	Dark Nebula (19xx)(T&e)(Disk 2 Of 3)(Side B)(Mode 5, Page 3).Cas
+:	:	Dark Nebula (19xx)(T&e)(Disk 3 Of 3)(Side A)(Mode 5, Page 3).Cas
+:	:	Dark Nebula (19xx)(T&e)(Disk 3 Of 3)(Side B)(Mode 5, Page 3).Cas
+:	:	Demo  (19xx)(-)(Mode 1, Page 1).Cas
+:	:	Dual (19xx)(-)(Mode 1,page 1).Cas
+:	:	Earth Bound (19xx)(Xtal Soft)(Mode 2, Page 2).Cas
+:	:	Eggy (19xx)(Bothtech)(Mode 2, Page 1).Cas
+:	:	Flappy (19xx)(Db-Soft)(Mode 5, Page 2).Cas
+:	:	Fls (19xx)(-)(Mode 2, Page 2).Cas
+:	:	Foot (19xx)(-)(Mode 1, Page 1).Cas
+:	:	Galac (19xx)(-)(Mode 1, Page 2).P6
+:	:	Galaxy (19xx)(-)(Mode 1, Page 1).Cas
+:	:	Galaxy (19xx)(Disk 1 Of 2)(Mode2 Page 1).Cas
+:	:	Galaxy (19xx)(Disk 2 Of 2)(Mode2, Page 1).Cas
+:	:	Godhar (19xx)(-)(Mode 1, Page 1).Cas
+:	:	H Fox (19xx)(Arrow Soft)(Mode 5,page 3).Cas
+:	:	H Fox 2 (19xx)(Arrow Soft)(Mode 5,page 3).Cas
+:	:	Headon (19xx))(Mode 1, Page 1).Cas
+:	:	Hisya (19xx)(-)(Mode 5,page 1).Cas
+:	:	Hydlide (19xx)(-)(Mode 5, Page 2).Cas
+:	:	Ice Block (19xx)(Db Soft)(Mode 5 ,page 2).Cas
+:	:	Invaders (19xx)(-)(Mode 1, Page 2).Cas
+:	:	Ledzone (19xx)(-)(Mode 5, Page 3).Cas
+:	:	Lights Out (19xx)(Asm)(Page 1).Asm
+:	:	Lights Out (19xx)(Page 1).Cas
+:	:	Lode Runner (19xx)(System Soft)(Mode 2, Page 2).P6
+:	:	Magnetic Field (19xx)(-)(Mode 2, Page 2).Cas
+:	:	Master (19xx)(-)(Mode 1, Page 1).Cas
+:	:	Mephius (19xx)(Ft&e  Soft)(Disk 1 Of 3)(Mode 5 Page 3).Cas
+:	:	Mephius (19xx)(Ft&e  Soft)(Disk 2 Of 3)(Side A)(Mode 5 Page 3).Cas
+:	:	Mephius (19xx)(Ft&e  Soft)(Disk 2 Of 3)(Side B)(Mode 5 Page 3).Cas
+:	:	Mephius (19xx)(Ft&e  Soft)(Disk 3 Of 3)(Side A)(Mode 5 Page 3).Cas
+:	:	Mephius (19xx)(Ft&e  Soft)(Disk 3 Of 3)(Side B)(Mode 5 Page 3).Cas
+:	:	Mix (19xx)(-)(Mode 2 Page 2).P6
+:	:	Monitor (19xx)(-)(Mode 1, Page 1).C
+:	:	Nostro (19xx)(-)(Mode 1 ,page 1).Cas
+:	:	Olion4 (19xx)(Ascii)(Mode 2, Page 2).Cas
+:	:	Orion3 (19xx)(Ascii)(Mode 2, Page 2).Cas
+:	:	Outlaw (19xx)(-)(Mode 1, Page 1).Cas
+:	:	Panzerspitze (19xx)(-)(Mode 2 Page 2).P6
+:	:	Plazma Line (19xx)(-)(Mode 5, Page 3).Cas
+:	:	Pop (19xx)(-)(Mode 1, Page 1).Cas
+:	:	Porice (19xx)(-)(Mode 1, Page 1).Cas
+:	:	Power (19xx))(Mode 1, Page 1).Cas
+:	:	Punchball Mario (1983)(Nintendo)(Mode 5, Page 4).Cas
+:	:	Pyramid 2 (19xx)(-)(Mode 4, Page 3).Cas
+:	:	Quest 3 (19xx)(Ascii)(Mode 2, Page 1).Cas
+:	:	Quest 4  (19xx)(Ascii)(Mode 2, Page 1).Cas
+:	:	Risu (19xx))(Mode 1, Page 1).Cas
+:	:	Seven (19xx)(-)(Mode 1, Page 1).Cas
+:	:	Shut (19xx)(-)(Mode 1, Page 1.Cas
+:	:	Simon (19xx)(-)(Mode 1, Page 2).Cas
+:	:	Sky (19xx)(-)(Mode 2, Page 2).Cas
+:	:	Space (19xx)(-)(Mode 4 Page 3.Cas
+:	:	Star Wrecker (19xx)(-)(Mode 2 Page 2).Cas
+:	:	Steal (19xx)(-)(Mode 1, Page 2).Cas
+:	:	Suidou (19xx)(-)(Mode 5,page 3).Cas
+:	:	Super Ball (19xx)(-)(Mode 2 Page 2).P6
+:	:	Thunder Force (19xx)(Tecno Soft)(Mode 5, Pages 3).Cas
+:	:	Tiny Xevious (19xx)(Namco)(Mode 4, Page 2).Cas
+:	:	Trick Boy (19xx)(-)(Mode 2,page 2).Cas
+:	:	Tritorn (19xx)(Sein Soft)(Mode 5, Page 2).Cas
+:	:	Volguard (Db Soft) (1985)(Mode 5, Page 2).Cas
+:	:	Woods (19xx)(-)(Mode 1, Page 2).Cas
+:	:	Yakyuk (19xx)(-)(Mode 5, Page 4).Cas
+:	:	ZZZ-UNK-bobko60 (19xx)(Ascii)(Mode 5, Page3).Cas
+:	:	ZZZ-UNK-colonyod  (19xx)(Disk 2 Of 3).1d
+:	:	ZZZ-UNK-colonyod (19xx)(Disk 1 Of 3).1d
+:	:	ZZZ-UNK-colonyod (19xx)(Disk 3 Of 3).1d
+:	:	ZZZ-UNK-format (19xx).P6
+:	:	ZZZ-UNK-inv (19xx).P6
+:	:	ZZZ-UNK-lightsba (19xx).Cas
+:	:	ZZZ-UNK-pc60 (19xx).C
+:	:	ZZZ-UNK-pc6001v (19xx).C
+:	:	ZZZ-UNK-tape (19xx).C
+:	:	ZZZ-UNK-wordpro (19xx).1d
+:	:	destroy (19xx)(-)(mode  2 page 3).cas
+:	:	kita (19xx)(falcom)(mode  2, page 3).cas
+:	:	kita (19xx)(falcom)(mode 2 page 3).cas
+:	:	sosroms.txt
+:	:	star destroyer (19xx)(-)(mode 2, page 3).cas
+:	:	zzz-unk-unknown (19xx)(enix)(mode 5, page 3).cas
+
+各ファイルのサイズ
+BASICROM.60,32768 Byte
+BASICROM.62,32768 Byte
+basicrom.68,32768 Byte
+CGROM60.60,8192 Byte
+CGROM60.62,8192 Byte
+cgrom60.68,8192 Byte
+CGROM60M.62,8192 Byte
+cgrom66.68,8192 Byte
+KANJIROM.62,32768 Byte
+kanjirom.68,32768 Byte
+sysrom2.68,8192 Byte
+VOICEROM.62,16384 Byte
+voicerom.68,16384 Byte
+3DGOLF.CAS,51682 Byte
+4989.cas,11810 Byte
+AMETRA.CAS,43303 Byte
+ANKOKU1.CAS,83853 Byte
+ANKOKU2.CAS,77741 Byte
+ANKOKU2B.CAS,52374 Byte
+ANKOKU3.CAS,81756 Byte
+ANKOKU3B.CAS,54518 Byte
+ARABIA.CAS,6301 Byte
+aspic_a.cas,47749 Byte
+aspic_b.cas,13107 Byte
+ASTERO.CAS,5477 Byte
+Asteroid.cas,6903 Byte
+AX10_outlaw.cas,27138 Byte
+AX10_pop.cas,17696 Byte
+AX10_risu.cas,23387 Byte
+AX10_seven.cas,15107 Byte
+ax1Demo.cas,13510 Byte
+ax1_Arabia.cas,6301 Byte
+ax1_Barri.cas,4167 Byte
+ax1_Block.cas,4837 Byte
+ax1_Demo.cas,13510 Byte
+ax1_Simon.cas,4526 Byte
+ax2Demo.cas,13510 Byte
+AX2_Demo.cas,13510 Byte
+AX2_Dual.cas,6414 Byte
+AX2_Nostro.cas,8843 Byte
+AX2_Steal.cas,6378 Byte
+AX2_Woods.cas,3611 Byte
+ax3Demo.cas,13510 Byte
+AX3_Cosmic.cas,3426 Byte
+AX3_Demo.cas,13510 Byte
+AX3_Inter.cas,5950 Byte
+AX3_Othelo.cas,9085 Byte
+AX3_Slot.cas,5429 Byte
+ax4Demo.cas,13510 Byte
+AX4_Black.cas,6084 Byte
+AX4_Car.cas,5717 Byte
+AX4_Demo.cas,13510 Byte
+AX4_Foot.cas,6840 Byte
+AX4_Shut.cas,5863 Byte
+ax5Demo.cas,11407 Byte
+AX5_Olion4.cas,16417 Byte
+AX5_Orion3.cas,16923 Byte
+AX5_Quest3.cas,29730 Byte
+AX5_Quest4.cas,29730 Byte
+AX6_Demo.cas,11407 Byte
+AX6_Headon.cas,5711 Byte
+AX6_Master.cas,6841 Byte
+AX6_Power.cas,13612 Byte
+AX6_Space.cas,5579 Byte
+AX7DEMO.CAS,12017 Byte
+AX7_Astero.cas,5477 Byte
+Ax7_demo.cas,12017 Byte
+AX7_Galaxy.cas,6801 Byte
+AX7_Godhar.cas,6944 Byte
+AX7_Porice.cas,6163 Byte
+AX8_Galaxy1.cas,23444 Byte
+AX8_Galaxy2.cas,25764 Byte
+ax9demo.cas,23001 Byte
+AX9_bound.cas,22441 Byte
+AX9_fls.cas,10818 Byte
+AX9_sky.cas,13609 Byte
+BARRI.CAS,4167 Byte
+BLACK.CAS,6084 Byte
+BLOCK.CAS,4837 Byte
+BOKO60.CAS,22292 Byte
+bokosuka.cas,22293 Byte
+bound.cas,22441 Byte
+BREAK.CAS,24029 Byte
+CAR.CAS,5717 Byte
+CHACK_N.CAS,46630 Byte
+Cosmic.cas,3426 Byte
+DAIDASSO.CAS,41712 Byte
+Destroy.cas,10925 Byte
+DUAL.CAS,6414 Byte
+EARTH.CAS,41241 Byte
+EGGY.CAS,22307 Byte
+FLAPPY.CAS,71422 Byte
+fls.cas,10818 Byte
+FOOT.CAS,6840 Byte
+frntline.cas,28812 Byte
+galaxian.cas,58391 Byte
+GALAXY.CAS,6801 Byte
+Galaxy1.cas,23444 Byte
+Galaxy2.cas,25764 Byte
+GODHAR.CAS,6944 Byte
+grobda.cas,42801 Byte
+HEADON.CAS,5711 Byte
+HISYA.CAS,30124 Byte
+HSWORD.CAS,18167 Byte
+HYDLIDE.CAS,44791 Byte
+H_FOX1.CAS,60911 Byte
+H_FOX2.CAS,58962 Byte
+ICEBLOCK.CAS,28708 Byte
+Inter.cas,5950 Byte
+KITA.CAS,15697 Byte
+lizard.cas,40671 Byte
+MAGNETIC.CAS,15666 Byte
+MASTER.CAS,6841 Byte
+MEPHI1.CAS,28362 Byte
+MEPHI2_A.CAS,38417 Byte
+MEPHI2_B.CAS,8326 Byte
+MEPHI3_A.CAS,34282 Byte
+MEPHI3_B.CAS,7079 Byte
+MH2.CAS,73164 Byte
+NOSTRO.CAS,8843 Byte
+Olion4.cas,16417 Byte
+ONYX.CAS,45426 Byte
+Orion3.cas,16923 Byte
+Othelo.cas,9085 Byte
+outlaw.cas,27138 Byte
+pacman.cas,57671 Byte
+pop.cas,17696 Byte
+PORICE.CAS,6163 Byte
+POWER.CAS,13612 Byte
+PYRAMID2.CAS,18752 Byte
+Quest3.cas,29730 Byte
+Quest4.cas,29730 Byte
+risu.cas,23387 Byte
+seven.cas,15107 Byte
+SHUT.CAS,5863 Byte
+SIMON.CAS,4526 Byte
+sky.cas,13609 Byte
+Slot.cas,5429 Byte
+SPACE.CAS,5579 Byte
+Spaceharrier.cas,43681 Byte
+Space_ha.cas,43681 Byte
+Starwrecker.cas,17487 Byte
+STARWR~1.CAS,17487 Byte
+STEAL.CAS,6378 Byte
+ston.cas,4783 Byte
+SUIDOU.CAS,27110 Byte
+TINYXE2.CAS,41774 Byte
+TINYXEV.CAS,17741 Byte
+Tinyxevious.cas,17741 Byte
+Tinyxevious2.cas,41774 Byte
+toiletadventure.cas,14235 Byte
+Trick.cas,25800 Byte
+TRITON.CAS,45145 Byte
+WOODS.CAS,3611 Byte
+ﾄｲﾚｯﾄADV.cas,14235 Byte
+COLONY1.DSK,163840 Byte
+COLONY2.DSK,163840 Byte
+COLONY3.DSK,163840 Byte
+PC66UTY.DSK,163840 Byte
+WORDPRO.DSK,163840 Byte
+4001_1A.P6,63417 Byte
+4001_1B.P6,3014 Byte
+4001_2.P6,42400 Byte
+4001_3.P6,41736 Byte
+arm.p6,8192 Byte
+biorms.P6,1998 Byte
+command.P6,11692 Byte
+danger.p6,14271 Byte
+dream.p6,3653 Byte
+FORMAT.P6,1058 Byte
+forts1.p6,15446 Byte
+forts2.p6,3032 Byte
+galac.p6,5241 Byte
+galaxian.p6,5241 Byte
+homerun.p6,5341 Byte
+inv.p6,4478 Byte
+invader.p6,4478 Byte
+kurukuru.P6,76076 Byte
+labelm.P6,2095 Byte
+lode_run.p6,72130 Byte
+mix.P6,17646 Byte
+pan.p6,17475 Byte
+satan1.P6,3735 Byte
+satan2.P6,9034 Byte
+Starcommand_biorms.P6,1998 Byte
+Starcommand_command.P6,11692 Byte
+Starcommand_labelm.P6,2095 Byte
+Starcommand_satan1.P6,3735 Byte
+Starcommand_satan2.P6,9034 Byte
+Starcommand_t_ment.P6,2131 Byte
+Starcommand_vartst.P6,3577 Byte
+super.p6,18114 Byte
+takeoff.p6,996 Byte
+tanabata1.p6,2317 Byte
+tanabata2.p6,2365 Byte
+t_ment.P6,2131 Byte
+umibe1.p6,2837 Byte
+umibe2.p6,3313 Byte
+vartst.P6,3577 Byte
+vital.p6,11651 Byte
+zukkoke.p6,33206 Byte
+3DGOLF.TXT,280 Byte
+4001_Story.txt,598 Byte
+4989.txt,301 Byte
+AMETRA.TXT,201 Byte
+ANKOKU.TXT,1538 Byte
+arm.txt,4578 Byte
+aspic.txt,421 Byte
+Asteroid.txt,164 Byte
+AX-8.txt,232 Byte
+ax1.txt,1600 Byte
+AX10.txt,420 Byte
+ax10_Readme.txt,420 Byte
+ax1_Readme.txt,1600 Byte
+AX2.txt,2845 Byte
+ax2_Readme.txt,2845 Byte
+AX3.txt,174 Byte
+ax3_Readme.txt,174 Byte
+AX4.txt,2918 Byte
+ax4_readme.txt,2918 Byte
+ax5.txt,157 Byte
+ax5_readme.txt,157 Byte
+AX6.txt,6075 Byte
+ax6_Readme.txt,6075 Byte
+AX7.txt,3307 Byte
+ax7_Readme.txt,3307 Byte
+AX9.txt,144 Byte
+ax9_readme.txt,144 Byte
+BOKO60.TXT,102 Byte
+bokosuka.txt,117 Byte
+BREAK.TXT,257 Byte
+Chack_n.txt,109 Byte
+chack_n_Readme.txt,109 Byte
+cmd_man_1.jpg,98542 Byte
+cmd_man_10.jpg,83373 Byte
+cmd_man_11.jpg,83102 Byte
+cmd_man_12.jpg,81732 Byte
+cmd_man_13.jpg,83596 Byte
+cmd_man_14.jpg,86824 Byte
+cmd_man_2.jpg,93360 Byte
+cmd_man_3.jpg,100627 Byte
+cmd_man_4.jpg,93260 Byte
+cmd_man_5.jpg,102002 Byte
+cmd_man_6.jpg,82365 Byte
+cmd_man_7.jpg,87641 Byte
+cmd_man_8.jpg,84123 Byte
+cmd_man_9.jpg,82886 Byte
+command_readme.txt,519 Byte
+DAIDASSO.TXT,219 Byte
+danger.txt,39 Byte
+danger_readme.txt,39 Byte
+Destroy.txt,157 Byte
+dream.txt,4260 Byte
+EARTH.TXT,208 Byte
+earth_t.txt,5804 Byte
+earth_t[0].txt,5804 Byte
+EGGY.TXT,179 Byte
+emubm15.html,1585 Byte
+emubm20.html,2247 Byte
+emubm29.html,2344 Byte
+emubm30.html,3233 Byte
+emubm32.html,3290 Byte
+emubm34.html,2770 Byte
+emubm8.html,3280 Byte
+files.html,5209 Byte
+file_ax1.html,3470 Byte
+file_ax10.html,3200 Byte
+file_ax2.html,3541 Byte
+file_ax3.html,3537 Byte
+file_ax4.html,3463 Byte
+file_ax5.html,3222 Byte
+file_ax6.html,3548 Byte
+file_ax7.html,3265 Byte
+file_ax8.html,2578 Byte
+file_ax9.html,3168 Byte
+FLAPPY.TXT,150 Byte
+format_Readme.txt,416 Byte
+forts.txt,80 Byte
+forts_readme.txt,80 Byte
+frntline.txt,206 Byte
+from_fjy.html,3356 Byte
+galac_readme.txt,35 Byte
+galaxian.txt,46 Byte
+galaxian[2].txt,35 Byte
+galaxian_readme.txt,46 Byte
+HISYA.TXT,95 Byte
+homerun.txt,5001 Byte
+HSWORD.TXT,95 Byte
+HSWORDm.TXT,7387 Byte
+hydlide.txt,169 Byte
+hydlide_Readme.txt,169 Byte
+H_FOX1.TXT,278 Byte
+H_FOX2.TXT,193 Byte
+ICEBLOCK.TXT,157 Byte
+invader.txt,43 Byte
+inv_readme.txt,43 Byte
+KITA.TXT,93 Byte
+kurukuru.txt,1432 Byte
+kurukuru_readme.txt,1432 Byte
+LIST.TXT,2539 Byte
+lizard.txt,144 Byte
+loadrunnerp6_readme.txt,27 Byte
+lode_readme.txt,27 Byte
+MAGNETIC.TXT,221 Byte
+MEPHIUS.TXT,1429 Byte
+mix.txt,26 Byte
+mix_readme.txt,26 Byte
+MYSHOUS2.TXT,157 Byte
+ONYX.TXT,100 Byte
+pacman.txt,201 Byte
+pacman_readme.txt,201 Byte
+pan.txt,29 Byte
+pan_readme.txt,29 Byte
+PC66UTY.TXT,276 Byte
+Pyramid2.txt,112 Byte
+pyramid_readme.txt,112 Byte
+spaceharrier.txt,98 Byte
+space_ha_Readme.txt,98 Byte
+Starcommand.txt,519 Byte
+Starwrecker.txt,214 Byte
+STARWR~1.TXT,214 Byte
+star_command.html,3800 Byte
+ston.txt,4075 Byte
+STORY.TXT,598 Byte
+SUIDOU.TXT,198 Byte
+super.txt,27 Byte
+super_readme.txt,27 Byte
+takeoff.txt,3024 Byte
+tanabata.txt,4707 Byte
+tape1.html,5107 Byte
+tape2.html,4767 Byte
+tape3.html,5250 Byte
+Tinyxevious.txt,305 Byte
+Tinyxevious2.txt,247 Byte
+tiny_xe1_Readme.txt,305 Byte
+tiny_xe2_Readme.txt,247 Byte
+toiletadventure.txt,37 Byte
+toilet_readme.txt,37 Byte
+Trick.txt,506 Byte
+TRITON.TXT,181 Byte
+umibe.txt,4902 Byte
+vital.txt,4839 Byte
+WORDPRO.TXT,33 Byte
+zukkoke.txt,2010 Byte
+zukkoke_readme.txt,2010 Byte
+宝石箱はこころの中に.htm,15719 Byte
+3d Golf (19xx)(T&e)(Mode 5, Page 3).Cas,51682 Byte
+4989 (19xx)(Enix)(Mode 5, Page 3).Cas,11810 Byte
+Amazon, The (19xx)(-)(Mode 2, Page 3).Cas,15260 Byte
+American Truck (19xx)(-)(Mode 5, Page 4).Cas,43303 Byte
+Arabia (19xx)(-)(Mode 1,page 1).Cas,6301 Byte
+Aspicp  (19xx)(Xtal Soft)(Side A)(Mode 5, Page 2).Cas,47749 Byte
+Aspicp (19xx)(Xtal Soft)(Side B)(Mode 5, Page 2).Cas,13107 Byte
+Astero (19xx)(-)(Mode 1, Page 1).Cas,5477 Byte
+Asteroid (19xx)(-)(Mode 2, Page 4).Cas,6903 Byte
+Ax7 Demo (19xx)(-)(Mode 1, Page 1).Cas,12017 Byte
+Ax9 Demo (19xx)(-)(Mode 2, Page 2).Cas,23001 Byte
+Barri (19xx)(-)(Mode 1, Page 2).Cas,4167 Byte
+Black Onyx, The (19xx)(Ascii)(Mode 5, Page 2).Cas,45426 Byte
+Block (19xx)(-)(Mode 1, Page 2).Cas,4837 Byte
+Bokosuka (19xx)(Ascii)(Mode 5, Page 3).Cas,22293 Byte
+Bound (19xx)(-)(Mode 2, Page 2).Cas,22441 Byte
+Break Through (19xx)(Compac)(Mode 2, Page 2).Cas,24029 Byte
+Car (19xx)(-)(Mode 1, Page 2).Cas,5717 Byte
+Castle Excellent (19xx)(-)(Mode 5, Page 2).Cas,32980 Byte
+Chack 'n Pop (19xx)(-)(Mode5, Page 1).Cas,46630 Byte
+Chrith (19xx)(Comix)(Mode 5, Page 3).Cas,26017 Byte
+Daidasso (19xx)(Carrylab)(Mode 5, Page 1).Cas,41712 Byte
+Danger (19xx)(-)(Mode 2 Page 2).P6,14271 Byte
+Dark Nebula  (19xx)(T&e)(Disk 1 Of 3)(Mode 5, Page 3).Cas,83853 Byte
+Dark Nebula (19xx)(T&e)(Disk 2 Of 3)(Side A)(Mode 5, Page 3).Cas,77741 Byte
+Dark Nebula (19xx)(T&e)(Disk 2 Of 3)(Side B)(Mode 5, Page 3).Cas,52374 Byte
+Dark Nebula (19xx)(T&e)(Disk 3 Of 3)(Side A)(Mode 5, Page 3).Cas,81756 Byte
+Dark Nebula (19xx)(T&e)(Disk 3 Of 3)(Side B)(Mode 5, Page 3).Cas,54518 Byte
+Demo  (19xx)(-)(Mode 1, Page 1).Cas,13510 Byte
+destroy (19xx)(-)(mode  2 page 3).cas,10925 Byte
+Dual (19xx)(-)(Mode 1,page 1).Cas,6414 Byte
+Earth Bound (19xx)(Xtal Soft)(Mode 2, Page 2).Cas,41241 Byte
+Eggy (19xx)(Bothtech)(Mode 2, Page 1).Cas,22307 Byte
+Flappy (19xx)(Db-Soft)(Mode 5, Page 2).Cas,71422 Byte
+Fls (19xx)(-)(Mode 2, Page 2).Cas,10818 Byte
+Foot (19xx)(-)(Mode 1, Page 1).Cas,6840 Byte
+Galac (19xx)(-)(Mode 1, Page 2).P6,5241 Byte
+Galaxy (19xx)(-)(Mode 1, Page 1).Cas,6801 Byte
+Galaxy (19xx)(Disk 1 Of 2)(Mode2 Page 1).Cas,23444 Byte
+Galaxy (19xx)(Disk 2 Of 2)(Mode2, Page 1).Cas,25764 Byte
+Godhar (19xx)(-)(Mode 1, Page 1).Cas,6944 Byte
+H Fox (19xx)(Arrow Soft)(Mode 5,page 3).Cas,60911 Byte
+H Fox 2 (19xx)(Arrow Soft)(Mode 5,page 3).Cas,58962 Byte
+Headon (19xx))(Mode 1, Page 1).Cas,5711 Byte
+Hisya (19xx)(-)(Mode 5,page 1).Cas,30124 Byte
+Hydlide (19xx)(-)(Mode 5, Page 2).Cas,44791 Byte
+Ice Block (19xx)(Db Soft)(Mode 5 ,page 2).Cas,28708 Byte
+Invaders (19xx)(-)(Mode 1, Page 2).Cas,6346 Byte
+kita (19xx)(falcom)(mode  2, page 3).cas,15697 Byte
+kita (19xx)(falcom)(mode 2 page 3).cas,15697 Byte
+Ledzone (19xx)(-)(Mode 5, Page 3).Cas,16559 Byte
+Lights Out (19xx)(Asm)(Page 1).Asm,9833 Byte
+Lights Out (19xx)(Page 1).Cas,4504 Byte
+Lode Runner (19xx)(System Soft)(Mode 2, Page 2).P6,72130 Byte
+Magnetic Field (19xx)(-)(Mode 2, Page 2).Cas,15666 Byte
+Master (19xx)(-)(Mode 1, Page 1).Cas,6841 Byte
+Mephius (19xx)(Ft&e  Soft)(Disk 1 Of 3)(Mode 5 Page 3).Cas,28362 Byte
+Mephius (19xx)(Ft&e  Soft)(Disk 2 Of 3)(Side A)(Mode 5 Page 3).Cas,38417 Byte
+Mephius (19xx)(Ft&e  Soft)(Disk 2 Of 3)(Side B)(Mode 5 Page 3).Cas,8326 Byte
+Mephius (19xx)(Ft&e  Soft)(Disk 3 Of 3)(Side A)(Mode 5 Page 3).Cas,34282 Byte
+Mephius (19xx)(Ft&e  Soft)(Disk 3 Of 3)(Side B)(Mode 5 Page 3).Cas,7079 Byte
+Mix (19xx)(-)(Mode 2 Page 2).P6,17646 Byte
+Monitor (19xx)(-)(Mode 1, Page 1).C,41662 Byte
+Nostro (19xx)(-)(Mode 1 ,page 1).Cas,8843 Byte
+Olion4 (19xx)(Ascii)(Mode 2, Page 2).Cas,16417 Byte
+Orion3 (19xx)(Ascii)(Mode 2, Page 2).Cas,16923 Byte
+Outlaw (19xx)(-)(Mode 1, Page 1).Cas,27138 Byte
+Panzerspitze (19xx)(-)(Mode 2 Page 2).P6,17475 Byte
+Plazma Line (19xx)(-)(Mode 5, Page 3).Cas,35744 Byte
+Pop (19xx)(-)(Mode 1, Page 1).Cas,17696 Byte
+Porice (19xx)(-)(Mode 1, Page 1).Cas,6163 Byte
+Power (19xx))(Mode 1, Page 1).Cas,13612 Byte
+Punchball Mario (1983)(Nintendo)(Mode 5, Page 4).Cas,30669 Byte
+Pyramid 2 (19xx)(-)(Mode 4, Page 3).Cas,18752 Byte
+Quest 3 (19xx)(Ascii)(Mode 2, Page 1).Cas,29730 Byte
+Quest 4  (19xx)(Ascii)(Mode 2, Page 1).Cas,29730 Byte
+Risu (19xx))(Mode 1, Page 1).Cas,23387 Byte
+Seven (19xx)(-)(Mode 1, Page 1).Cas,15107 Byte
+Shut (19xx)(-)(Mode 1, Page 1.Cas,5863 Byte
+Simon (19xx)(-)(Mode 1, Page 2).Cas,4526 Byte
+Sky (19xx)(-)(Mode 2, Page 2).Cas,13609 Byte
+sosroms.txt,1012 Byte
+Space (19xx)(-)(Mode 4 Page 3.Cas,5579 Byte
+star destroyer (19xx)(-)(mode 2, page 3).cas,10925 Byte
+Star Wrecker (19xx)(-)(Mode 2 Page 2).Cas,17487 Byte
+Steal (19xx)(-)(Mode 1, Page 2).Cas,6378 Byte
+Suidou (19xx)(-)(Mode 5,page 3).Cas,27110 Byte
+Super Ball (19xx)(-)(Mode 2 Page 2).P6,18114 Byte
+Thunder Force (19xx)(Tecno Soft)(Mode 5, Pages 3).Cas,35487 Byte
+Tiny Xevious (19xx)(Namco)(Mode 4, Page 2).Cas,17741 Byte
+Trick Boy (19xx)(-)(Mode 2,page 2).Cas,25800 Byte
+Tritorn (19xx)(Sein Soft)(Mode 5, Page 2).Cas,45145 Byte
+Volguard (Db Soft) (1985)(Mode 5, Page 2).Cas,48365 Byte
+Woods (19xx)(-)(Mode 1, Page 2).Cas,3611 Byte
+Yakyuk (19xx)(-)(Mode 5, Page 4).Cas,41941 Byte
+ZZZ-UNK-bobko60 (19xx)(Ascii)(Mode 5, Page3).Cas,22292 Byte
+ZZZ-UNK-colonyod  (19xx)(Disk 2 Of 3).1d,163840 Byte
+ZZZ-UNK-colonyod (19xx)(Disk 1 Of 3).1d,163840 Byte
+ZZZ-UNK-colonyod (19xx)(Disk 3 Of 3).1d,163840 Byte
+ZZZ-UNK-format (19xx).P6,1058 Byte
+ZZZ-UNK-inv (19xx).P6,4478 Byte
+ZZZ-UNK-lightsba (19xx).Cas,1413 Byte
+ZZZ-UNK-pc60 (19xx).C,25233 Byte
+ZZZ-UNK-pc6001v (19xx).C,13108 Byte
+ZZZ-UNK-tape (19xx).C,5685 Byte
+zzz-unk-unknown (19xx)(enix)(mode 5, page 3).cas,11810 Byte
+ZZZ-UNK-wordpro (19xx).1d,163840 Byte

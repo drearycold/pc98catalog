@@ -1,0 +1,55 @@
+(エミュレータ) ゲームボーイアドバンス(GBA) ROM詰め合わせ (1151～1200).zip
+ea9f7259c674ed1465ee431a1185c8f5・e2d5add29fdd0bf8a9e23815bcec7a32a87fe8ed
+230,333,200
+50
+
+:	1151 - Naruto - Konoha Senki (J).zip
+:	1152 - Bionicle - The Game (U).zip
+:	1153 - Scooby Doo - Mystery Mayhem (U).zip
+:	1154 - Banjo Kazooie - Grunty's Revenge (U).zip
+:	1155 - Golden Sun 2 (G).zip
+:	1156 - Advance Wars 2 - Black Hole Rising (E).zip
+:	1157 - Oshare Princess 3 (J).zip
+:	1158 - Polly Pocket Super Splash Island (E).zip
+:	1159 - Disneys Extreme Skate Adventure (E).zip
+:	1160 - Mr Nuts (E).zip
+:	1161 - Boktai - The Sun is in Your Hand (U).zip
+:	1162 - Golden Sun 2 La Edad Perdida (S).zip
+:	1163 - Golden Sun 2 The Lost Age (F).zip
+:	1164 - Shin Kisekae Monogatari (J).zip
+:	1165 - Ojaru Maru - Gekkou Machi Sanpo de Ojaru (J).zip
+:	1166 - Doubutsu no Shima no Chobi Gurumi (J).zip
+:	1167 - Disney's Party (U).zip
+:	1168 - Blackthorne (U).zip
+:	1169 - Tantei Gakuen Q - Meitantei ha Kimi da! (J).zip
+:	1170 - Shin Megami Tensei Devil Children 2 - Koori no Sho (J).zip
+:	1171 - Shin Megami Tensei Devil Children 2 - Honoo no Sho (J).zip
+:	1172 - Barbie Horse Adventures (U).zip
+:	1173 - Road Rash Jailbreak (U).zip
+:	1174 - The Simpsons Road Rage (E).zip
+:	1175 - Golden Sun 2 - L'era Perduta (I).zip
+:	1176 - Koinu to Issho - Aijou Monogatari (J).zip
+:	1177 - Action Replay GBX (F).zip
+:	1178 - Piglets Big Game (E).zip
+:	1179 - Kirby - Nightmare in Dream Land (E).zip
+:	1180 - Jimmy Neutron - Jet Fusion  (U).zip
+:	1181 - Les Razmoket - Rencontrent les Delajungle (F).zip
+:	1182 - Digimon Battle Spirit 2  (U).zip
+:	1183 - Battlebots - Design & Destroy (U).zip
+:	1184 - Jurassic Park Institute Tour (J).zip
+:	1185 - Oddworld - Munch's Oddysee (U).zip
+:	1186 - Boulder Dash EX (E).zip
+:	1187 - MegaMan Battle Network 3 White Version (E).zip
+:	1188 - Zettaizetsumei Dangerous Jiisan - Shijou Saikyou no Dogeza (J).zip
+:	1189 - Shin Megami Tensei 2 (J).zip
+:	1190 - Super Mario Advance 4 - Super Mario Bros. 3 (E).zip
+:	1191 - The Hobbit (E).zip
+:	1192 - Battle X Battle - Kyodai Gyo Densetsu (J).zip
+:	1193 - Final Fantasy Tactics Advance (E).zip
+:	1194 - Pirates of The Caribean (E).zip
+:	1195 - Disney's The Lion King (U).zip
+:	1196 - Blackthorne (U).zip
+:	1197 - Quad Desert Fury (U).zip
+:	1198 - Namco Museum (U).zip
+:	1199 - Backyard Hockey (U).zip
+:	1200 - Crouching Tiger Hidden Dragon (U).zip

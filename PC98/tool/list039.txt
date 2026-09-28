@@ -1,0 +1,63 @@
+ You have 61 of 66 known Nintendo Virtual Boy ROMS (V2.01)
+
+3D Tetris (U) [!]
+Blox V1.0 by KR155E (PD)
+Blox V1.1 by KR155E (PD)
+Croach, The (PD)
+Etch-A-Sketch by Pat Daderko (PD)
+Framebuffer Drawing Demo by Pat Daderko (PD)
+Galactic Pinball (JU) [!]
+GLOW Demo by KR155E (PD) [a1]
+GLOW Demo by KR155E (PD)
+Golf (U) [!]
+Hello, World! Demo V1.0 by Amos Bieler (PD)
+Hello, World! Demo V1.1 by Amos Bieler (PD)
+Insane Mouse Mansion (J) [!]
+Jack Bros (J) [!]
+Jack Bros (U) [b1]
+Mario Clash (JU) [!]
+Mario Clash (JU) [b1]
+Mario Flying Demo by Frostgiant (PD)
+Mario's Tennis (JU) [!]
+Mario's Tennis (JU) [a1]
+Matrix, The by Cooler (PD)
+Nester's Funky Bowling (U) [a1]
+Nester's Funky Bowling (U) [b1]
+Nester's Funky Bowling (U) [b2]
+Nester's Funky Bowling (U)
+OBJ Pointer Demo by Dan Bergman (PD)
+Panic Bomber (J) [!]
+Panic Bomber (U) [!]
+Panic Bomber (U) [b1]
+Panic Bomber (U) [h1]
+Panic Bomber (U) [h2]
+Reality Boy Demo 1 (PD)
+Reality Boy Demo 2 (PD)
+Red Alarm (J) [!]
+Red Alarm (U) [!]
+Scaling Demo by Parasyte (PD)
+Simon by Pat Daderko (PD)
+Space Squash (J) [o1]
+Super Fighter Demo by KR155E (PD)
+T&E Virtual Golf (J) [!]
+T&E Virtual Golf (J) [b1]
+Teleroboxer (JU) [!]
+Teleroboxer (JU) [T+Ger.4b_KR155E]
+Tic Tac Toe by Pat Daderko (PD)
+Tron VB by Pat Daderko (PD)
+V Tetris (J) [!]
+VB Rocks! Demo by KR155E (PD)
+VeeBee Cursor Demo by David Williamson (PD)
+Vertical Force (J) [b1]
+Vertical Force (U) [!]
+Vertical Force (U) [h1]
+Virtual Boy Wario Land (JU) [!]
+Virtual Fishing (J) [b1]
+Virtual League Baseball (U) [a1][b1]
+Virtual League Baseball (U)
+Virtual Pong (PD)
+Virtual Pro Yakyuu '95 (J) [!]
+Virtual-E Cursor Demo (PD) [a1]
+Virtual-E Cursor Demo (PD)
+Waterworld (U) [!]
+Waterworld (U) [b1]

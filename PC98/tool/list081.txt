@@ -1,0 +1,104 @@
+[ファイル名],[サイズ]
+0801 - Monster Maker 4 - Flash Card (J).zip,2271512 Byte
+0802 - Monster Maker 4 - Kira Dice (J).zip,2271515 Byte
+0803 - Darius R (J).zip,1276614 Byte
+0804 - Magi Nation (J).zip,2810159 Byte
+0805 - Klonoa Heroes - Densetsu no Star Medal (J).zip,7890034 Byte
+0806 - BattleBots Beyond the Battlebox (U).zip,5172035 Byte
+0807 - Hajime no Ippo The Fighting (J).zip,5255198 Byte
+0808 - Lunar Legend (U).zip,6580903 Byte
+0809 - Pinball Tycoon (U).zip,1346884 Byte
+0810 - Monster Bass Fishing (U).zip,2145017 Byte
+0811 - I Spy Challenger! (U).zip,3486944 Byte
+0812 - Disney All-Star Sports - Basketball (U).zip,8577062 Byte
+0813 - Disney All-Star Sports - Skateboarding (U).zip,7943662 Byte
+0814 - Disney All-Star Sports - American Football (U).zip,8138660 Byte
+0815 - Sonic Advance 2 (J).zip,4562150 Byte
+0816 - Sega Rally Championship (J).zip,3281184 Byte
+0817 - Dora the Explorer - The Search for Pirate Pig's Treasure (U).zip,2628738 Byte
+0818 - Karnaaj Rally (U).zip,4758365 Byte
+0819 - The Invincible Iron Man (U).zip,2281369 Byte
+0820 - Acrobat Kid (J).zip,1886779 Byte
+0821 - Uchuu Daisakusen Chocovader - Uchuu kara no Shinryakusha (J).zip,2993162 Byte
+0822 - Toukon Heat (J).zip,3892468 Byte
+0823 - Elevator Action - Old & New (J).zip,1579119 Byte
+0824 - Chocobo Land - Game de Dice (J).zip,5860253 Byte
+0825 - Cabela's Big Game Hunter (U).zip,3253727 Byte
+0826 - Super Bubble Pop (U).zip,1967680 Byte
+0827 - Jazz Jackrabbit (U).zip,1748419 Byte
+0828 - Sea Trader - Rise of Taipan (U).zip,2351431 Byte
+0829 - The Revenge Of Shinobi (E).zip,4712663 Byte
+0830 - Ohanaya-San Monogatari (J).zip,2181670 Byte
+0831 - Dual Blades (J).zip,2381193 Byte
+0832 - The King of Fighters EX2 Howling Blood (J).zip,5787761 Byte
+0833 - Chi Vuol Essere Milionario (E).zip,3139626 Byte
+0834 - Samurai Deeper Kyo (J).zip,6795859 Byte
+0835 - Bobobohbo Bohbobo Ougi 87.5 Bakuretsu Hanage Shinken (J).zip,2889061 Byte
+0836 - Tennis no Ouji-sama - Aim at The Victory (J).zip,7699253 Byte
+0837 - Tarzan Return To The Jungle (G).zip,4455585 Byte
+0838 - Bakuten Shoot Beyblade 2002 - Daichi Version (J).zip,4911894 Byte
+0839 - Bakuten Shoot Beyblade 2002 - Takao Version (J).zip,4911894 Byte
+0840 - Doki-doki Cooking Series 1 - Komugi-chan no Happy Cake (J).zip,4306066 Byte
+0841 - Godzilla Domination (U).zip,1715636 Byte
+0842 - Inspector Gadget Racing (E).zip,1328798 Byte
+0843 - Higanbana (J).zip,3608496 Byte
+0844 - F1 2002 (U).zip,3469184 Byte
+0845 - Medabots - Metabee Version (E).zip,5757882 Byte
+0846 - K-1 Pocket Grand Prix 2 (J).zip,3525667 Byte
+0847 - Kururin Paradise (J).zip,4460763 Byte
+0848 - Crash Bandicoot 2 N-Tranced (U).zip,4339489 Byte
+0849 - Monsters Inc (G).zip,2123101 Byte
+0850 - Kotoba no Puzzle Mojipittan Advance (J).zip,4033575 Byte
+0851 - Disney's The Jungle Book 2 (E).zip,6988339 Byte
+0852 - Little Buster Q (J).zip,4001864 Byte
+0853 - Micro Machines (E).zip,2219200 Byte
+0854 - Digimon Battle Spirit (U).zip,1233860 Byte
+0855 - Taxi 3 (F).zip,5596603 Byte
+0856 - International Superstar Soccer (E).zip,4514447 Byte
+0857 - Power Pro Kun Pocket 5 (J).zip,4113782 Byte
+0858 - Marie Elie & Anis No Atelier - Soyokaze Kara No Dengon (J).zip,3113699 Byte
+0859 - Boulder Dash EX (J).zip,2390286 Byte
+0860 - Inuyasha Naraku No Wana Mayoi No Mori No Shoutaijou (J).zip,5702056 Byte
+0861 - Elemix (J).zip,1350116 Byte
+0862 - Daredevil (U).zip,3274308 Byte
+0863 - GT Advanced 3 Pro Concept Racing (U).zip,5354083 Byte
+0864 - Minimoni - Onegai Ohoshi-sama! (J).zip,2598821 Byte
+0865 - Battle Network Rockman EXE 3 Black (J).zip,4375491 Byte
+0866 - Final Fantasy Tactics Advance (J).zip,5495643 Byte
+0867 - Yu-Gi-Oh! Dungeon Dice Monsters (U).zip,6525162 Byte
+0868 - Shining Soul (E).zip,2976882 Byte
+0869 - International Karate Plus (E).zip,362077 Byte
+0870 - Demon Driver (E).zip,1623407 Byte
+0871 - Super Dropzone (E).zip,1934468 Byte
+0872 - Stadium Games (E).zip,1167258 Byte
+0873 - Strike Force Hydra (E).zip,1471657 Byte
+0874 - World Tennis Stars (E).zip,1728067 Byte
+0875 - Rayman 3 Hoodlum Havoc (E).zip,4762789 Byte
+0876 - Lord of the Rings - Futatsu no Tou (J).zip,12499189 Byte
+0877 - Metroid Fusion (J).zip,5027891 Byte
+0878 - Manga-ka Debut Monogatari (J).zip,1950089 Byte
+0879 - Fushigi no Kuni no Alice (J).zip,1946261 Byte
+0880 - Spyro Advance (J).zip,4216661 Byte
+0881 - Bubble Bobble Old And New (E).zip,1401695 Byte
+0882 - Mugenborg (J).zip,6502866 Byte
+0883 - The Legend Of Zelda - Link To The Past (E).zip,3963700 Byte
+0884 - Tennis no Ouji-sama 2003 Passion Red (J).zip,8133487 Byte
+0885 - Tennis no Ouji-sama 2003 Cool Blue (J).zip,8130480 Byte
+0886 - Total Soccer Advance (J).zip,728593 Byte
+0887 - Lode Runner (J).zip,1026032 Byte
+0888 - Butt Ugly Martians BKM Battles (E).zip,2095005 Byte
+0889 - All-Star Baseball 2004 (U).zip,4840720 Byte
+0890 - Phantasy Star Collection (E).zip,3807766 Byte
+0891 - Wings (U).zip,3120650 Byte
+0892 - Wagamama Fairy Mirumo de Pon Ougon Maracas no Densetsu (J).zip,1454353 Byte
+0893 - Zapper (E).zip,2291372 Byte
+0894 - Virtua Tennis (E).zip,4839395 Byte
+0895 - Tales of the World - Summoner's Lineage (J).zip,5587842 Byte
+0896 - TOCA World Touring Cars (E).zip,3421823 Byte
+0897 - Eitangohen - 2000 Words (J).zip,2929934 Byte
+0898 - Pokemon Sapphire (U).zip,4952518 Byte
+0899 - Street Fighter Alpha 3 (U).zip,7093741 Byte
+0900 - The Legend of Zelda Gods Triforce and Four Swords (J).zip,3507279 Byte
+
+ファイル数合計 = 100 個
+ファイルサイズ合計 = 387089866 Byte

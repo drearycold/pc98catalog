@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PC-98 ゲームカタログ | PC-9800 Series Game Catalog</title>
+  <meta name="description" content="NEC PC-9800 シリーズゲームカタログ - 2,441タイトル、7,320枚以上のスクリーンショット、発売年・ジャンル・メーカー別詳細インデックス。">
+  <link rel="stylesheet" href="assets/app.css">
+</head>
+<body>
+
+  <!-- Site Header -->
+  <header class="site-header">
+    <div class="container">
+      <div class="header-top">
+        <div class="brand">
+          <div class="brand-badge">NEC PC-98</div>
+          <div class="brand-text">
+            <h1>PC-98 ゲームカタログ <span>1983-1998</span></h1>
+            <p>2,441 款经典 PC-98 游戏全收录 · 7,320+ 张原始截图 · 完整类型与发行商检索</p>
+          </div>
+        </div>
+
+        <nav class="header-nav">
+          <a href="PC98.html" class="nav-link" title="查看 2010 年原版 Frameset 页面">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 3h18v18H3zM9 3v18M3 9h18"/></svg>
+            原版 Frameset
+          </a>
+          <a href="PC98/Eng/PC98_Eng.html" class="nav-link" title="English Catalog">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+            English
+          </a>
+          <a href="PC98/note01.html" class="nav-link" title="PC-98 模拟器指南与常规内存优化">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20M4 4.5A2.5 2.5 0 0 1 6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15z"/></svg>
+            模拟器指南
+          </a>
+
+          <!-- Bonus Catalogs Dropdown -->
+          <div class="nav-dropdown">
+            <button class="nav-link" style="cursor: pointer;">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+              特典目录 ▾
+            </button>
+            <div class="dropdown-menu">
+              <a href="おまけ/arcade.html" class="dropdown-item">街机 Arcade Catalog</a>
+              <a href="おまけ/PS.html" class="dropdown-item">PlayStation Catalog</a>
+              <a href="おまけ/NDS.html" class="dropdown-item">Nintendo DS Catalog</a>
+              <a href="おまけ/X68000.html" class="dropdown-item">Sharp X68000 Catalog</a>
+            </div>
+          </div>
+        </nav>
+      </div>
+
+      <!-- Search & Controls Section -->
+      <div class="filter-section">
+        <div class="search-row">
+          <div class="search-box-wrapper">
+            <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+            <input type="text" id="searchInput" class="search-input" placeholder="输入游戏名 (日文/罗马音/英文)、厂商、年份或 ID 实时检索... (按 / 聚焦)">
+            <button type="button" id="clearSearch" class="clear-search" title="清空搜索">&times;</button>
+          </div>
+
+          <select id="pubSelect" class="select-filter" title="按软件发行商筛选">
+            <option value="">全部发行商</option>
+          </select>
+
+          <select id="yearSelect" class="select-filter" title="按发售年份筛选">
+            <option value="">全部发售年份</option>
+          </select>
+
+          <select id="sortSelect" class="select-filter" title="排序规则">
+            <option value="id_asc">默认编号 (ID 升序)</option>
+            <option value="id_desc">编号倒序 (ID 降序)</option>
+            <option value="year_desc">发售年份 (新 → 旧)</option>
+            <option value="year_asc">发售年份 (旧 → 新)</option>
+            <option value="title_asc">游戏名称 (A → Z)</option>
+          </select>
+
+          <select id="pageSizeSelect" class="select-filter" style="min-width: 100px;" title="每页显示条数">
+            <option value="48">48 条/页</option>
+            <option value="96">96 条/页</option>
+            <option value="192">192 条/页</option>
+            <option value="all">显示全部</option>
+          </select>
+
+          <div class="view-controls">
+            <button id="btnGridView" class="btn-icon active" title="海报网格视图">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
+            </button>
+            <button id="btnTableView" class="btn-icon" title="紧凑数据列表">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>
+            </button>
+          </div>
+        </div>
+
+        <!-- Main Category Tabs -->
+        <div class="category-tabs-container">
+          <div id="catTabs" class="category-tabs">
+            <!-- Rendered by app.js -->
+          </div>
+        </div>
+
+        <!-- Subcategory Filter Row (Dynamic) -->
+        <div id="subcatRow" class="subcategory-row" style="display: none;">
+          <span class="subcat-label">二级细分:</span>
+          <div id="subcatChips" style="display: flex; gap: 6px; flex-wrap: wrap;">
+            <!-- Rendered by app.js -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Filter Status & Stats Bar -->
+  <div class="container">
+    <div class="filter-info-bar">
+      <div id="resultsCount" class="filter-results-count">正在读取游戏数据...</div>
+      <div style="display: flex; align-items: center; gap: 10px;">
+        <div id="activeFilterTags" class="active-filter-tags"></div>
+        <button id="btnResetFilters" class="btn-reset-filters" style="display: none;">重置全部筛选</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Main Game List Container -->
+  <main class="main-content">
+    <div class="container">
+      <div id="gamesContainer">
+        <!-- Rendered by app.js -->
+      </div>
+
+      <!-- Pagination -->
+      <div id="paginationContainer" class="pagination-container">
+        <!-- Rendered by app.js -->
+      </div>
+    </div>
+  </main>
+
+  <!-- Modal Dialog for Game Details -->
+  <div id="modalOverlay" class="modal-overlay">
+    <div class="modal-dialog">
+      <div class="modal-header">
+        <div class="modal-header-info">
+          <span id="modalGenreBadge" class="card-genre-badge" style="position: static;">GENRE</span>
+          <div class="modal-title-wrap">
+            <h2 id="modalTitleJp">游戏标题</h2>
+            <p id="modalTitleEn">English Title</p>
+          </div>
+        </div>
+        <button id="modalCloseBtn" class="modal-close-btn" title="关闭 (Esc)">&times;</button>
+      </div>
+
+      <div class="modal-body">
+        <!-- Gallery -->
+        <div class="modal-gallery">
+          <div class="modal-main-image-container">
+            <img id="modalMainImg" class="modal-main-image" src="" alt="Screenshot">
+          </div>
+          <div id="modalThumbStrip" class="modal-thumb-strip">
+            <!-- Thumbnails rendered by app.js -->
+          </div>
+        </div>
+
+        <!-- Specs -->
+        <div id="modalSpecsGrid" class="modal-specs-grid">
+          <!-- Rendered by app.js -->
+        </div>
+
+        <!-- Note & Review Section -->
+        <div id="modalNoteSection">
+          <!-- Rendered by app.js -->
+        </div>
+      </div>
+
+      <div class="modal-footer">
+        <a id="modalLegacyLink" class="modal-btn btn-open-legacy" target="_blank" href="#">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"/></svg>
+          打开原版单页
+        </a>
+
+        <div class="modal-nav-btns">
+          <button id="modalPrevBtn" class="modal-btn" title="上一款 (←)">
+            &larr; 上一款
+          </button>
+          <button id="modalNextBtn" class="modal-btn" title="下一款 (→)">
+            下一款 &rarr;
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Back to top button -->
+  <button id="btnBackTop" class="btn-back-top" title="返回顶部">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 15l-6-6-6 6"/></svg>
+  </button>
+
+  <!-- Site Footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <p>PC-9800 Series Game Catalog Archive · 本静态索引生成自原始 PC98.html 目录数据</p>
+      <p style="margin-top: 6px; font-size: 11px;">
+        <a href="PC98.html">原版 Frameset 页面</a> · 
+        <a href="PC98/Eng/PC98_Eng.html">English Catalog</a> · 
+        <a href="PC98/note01.html">模拟器运行指南</a> · 
+        <a href="おまけ/arcade.html">街机目录</a> · 
+        <a href="おまけ/PS.html">PS目录</a> · 
+        <a href="おまけ/NDS.html">NDS目录</a> · 
+        <a href="おまけ/X68000.html">X68000目录</a>
+      </p>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="assets/data.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

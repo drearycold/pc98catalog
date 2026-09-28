@@ -1,0 +1,4583 @@
+[EMU][ROM][ゲーム]PC98 X68 MSX X1 FM7個人コレクション集 過去に流れてないイメージ含む[20031123ver].RAR
+17d05e17569b3d4a21f9b1372fe8608a・932aa817ece47411877c9beda092b2e7ec350e31
+939,615,896
+ファイル数合計 = 2189 個
+ファイルサイズ合計 = 913199742 Byte
+
+:	FM-77
+:	:	FM-77AVxx Bios.zip
+:	:	FM-77ゲームリスト.xls
+:	:	FM-7ゲームリスト.xls
+:	:	FM77L4 CM.mpg
+:	:	DISK
+:	:	:	77AVデモディスク.zip
+:	:	:	DeathForce.zip
+:	:	:	FM-new7 demo.ZIP
+:	:	:	FM77AV40SX 入門DISK.ZIP
+:	:	:	FMグラフィックエディタ2.ZIP
+:	:	:	GUTCHAN BANK.zip
+:	:	:	HYDLIDE2.zip
+:	:	:	LAYDOCK.zip
+:	:	:	LUXSOR.zip
+:	:	:	SPACE HARRIER.ZIP
+:	:	:	Silphied.zip
+:	:	:	TETRIS FM77AV.ZIP
+:	:	:	Ys2.zip
+:	:	:	Ys_AV.zip
+:	:	:	テラ4001.zip
+:	:	:	暗黒星雲.zip
+:	:	:	惑星メフィウス.zip
+:	:	裏技fm77
+:	:	:	ハイドライド2_FM-77.txt
+:	:	:	レイドックFM77.txt
+:	MSX
+:	:	HBF1XDJ.ZIP
+:	:	CAS
+:	:	:	アウトロイド.zip
+:	:	:	ゴーストバスターズ.zip
+:	:	:	スパルタンX.zip
+:	:	:	ゼータ2000.zip
+:	:	:	ディスクウォーリア.zip
+:	:	:	トリトーン.zip
+:	:	:	フラッピー.zip
+:	:	:	ポートピア連続殺人事件.zip
+:	:	:	ムー大陸の謎.zip
+:	:	:	ヴォルガード.zip
+:	:	:	王将.zip
+:	:	:	黄金の墓.zip
+:	:	:	続黄金の墓.zip
+:	:	DISK
+:	:	:	ALESTE2.ZIP
+:	:	:	ANGELUS.ZIP
+:	:	:	Adam_Eve.zip
+:	:	:	American Success.zip
+:	:	:	Ankoku shinwa.zip
+:	:	:	BlackOnyx.zip
+:	:	:	DAIVA.zip
+:	:	:	DANTE.zip
+:	:	:	DANTE2.zip
+:	:	:	DIGAN.ZIP
+:	:	:	Daisenryaku 2.zip
+:	:	:	Diablo.zip
+:	:	:	DiskPAC.zip
+:	:	:	F1 TOOLDISK2.zip
+:	:	:	F1Spirit 3D Special.zip
+:	:	:	Fainal Fantasy.zip
+:	:	:	Fuunroku.zip
+:	:	:	GANDARA.ZIP
+:	:	:	GENGHIS KHAN.ZIP
+:	:	:	GORBY PIPELINE.ZIP
+:	:	:	Ginkou Gouto.zip
+:	:	:	Greatest driver.zip
+:	:	:	Gunjin Syougi.zip
+:	:	:	Gunyuden.zip
+:	:	:	HARADIUS.ZIP
+:	:	:	HBF1-XDJ.zip
+:	:	:	HYDEFOS.ZIP
+:	:	:	Hajafuin.zip
+:	:	:	Halnote Gstudio.zip
+:	:	:	Hydlide Msx2.zip
+:	:	:	IMAGINE FMMUSIC.ZIP
+:	:	:	Konami Game Collection.zip
+:	:	:	Konami-old.zip
+:	:	:	Kurutta Seisyun.zip
+:	:	:	Laydock.zip
+:	:	:	Laydock2.zip
+:	:	:	MIDGARTS.ZIP
+:	:	:	MSXDOS.zip
+:	:	:	Marchen Veil.zip
+:	:	:	Master of Monsters.zip
+:	:	:	Ninja.zip
+:	:	:	Nobunaga1.zip
+:	:	:	Okenotani DiskVer.zip
+:	:	:	Ougon.zip
+:	:	:	PACMANIA.zip
+:	:	:	PIXEL3.ZIP
+:	:	:	PSY-O-Blade.ZIP
+:	:	:	PSYCHO WORLD.ZIP
+:	:	:	ProjectA.zip
+:	:	:	R-TYPE.zip
+:	:	:	RuneWorth.zip
+:	:	:	SCCMARJP.zip
+:	:	:	SD SNATCHER.zip
+:	:	:	SORCERIAN.ZIP
+:	:	:	Sangokusi.zip
+:	:	:	Sangokusi2.zip
+:	:	:	Seed Of Dragon.zip
+:	:	:	Shin Golvellius.zip
+:	:	:	Shrines of Enigma.zip
+:	:	:	SiroKuro1 Hyakki.zip
+:	:	:	SiroKuro2 RinneTensei.zip
+:	:	:	SiroKuro3 Aska.zip
+:	:	:	Snatcher.zip
+:	:	:	Sony Super Game Collection.zip
+:	:	:	Sparky.zip
+:	:	:	Sugo8.zip
+:	:	:	Suikoden.zip
+:	:	:	Synth_Sau.zip
+:	:	:	TETRIS.zip
+:	:	:	Tanba.zip
+:	:	:	Tdf.zip
+:	:	:	Tritorn2.zip
+:	:	:	Uchu Keisatu.zip
+:	:	:	Undeadline.zip
+:	:	:	Xanadu MSX2.zip
+:	:	:	Yajiuman.zip
+:	:	:	Yoshida Kensetsu.zip
+:	:	:	Yoshida Kntsuerun.zip
+:	:	:	Yoshida Koumuten.zip
+:	:	:	Ys3.zip
+:	:	:	hydlide3 Disksave Ver.zip
+:	:	:	nemesis2 plus.zip
+:	:	MSX Musics
+:	:	:	ALESTE.ZIP
+:	:	:	ALESTEG.ZIP
+:	:	:	ASHGUIN2.ZIP
+:	:	:	ASHGUIN3.ZIP
+:	:	:	CONTRA.ZIP
+:	:	:	DQ.ZIP
+:	:	:	DQ2.ZIP
+:	:	:	F1Spirit 3DSP.zip
+:	:	:	FF.ZIP
+:	:	:	FIREHAWK.ZIP
+:	:	:	FMPAC.ZIP
+:	:	:	GD.ZIP
+:	:	:	King Kong2.zip
+:	:	:	Kings Valley2.zip
+:	:	:	LAYDOCK2.ZIP
+:	:	:	LODOSS.ZIP
+:	:	:	MAJUTUSI.ZIP
+:	:	:	MIDGARTS.ZIP
+:	:	:	Majyo Densetu.zip
+:	:	:	Metal Gear.zip
+:	:	:	PENNANT.ZIP
+:	:	:	PENNANT2.ZIP
+:	:	:	PSY O Blade.ZIP
+:	:	:	QUARTH.ZIP
+:	:	:	R-TYPE.zip
+:	:	:	REPLICART.ZIP
+:	:	:	ROMANCIA.ZIP
+:	:	:	RuneWorth.zip
+:	:	:	SHALOM.ZIP
+:	:	:	SHOGUN.ZIP
+:	:	:	SLAYDOCK.ZIP
+:	:	:	STRAMARS.ZIP
+:	:	:	Salamander.zip
+:	:	:	Space MANBOW.zip
+:	:	:	Super LAYDOCK.zip
+:	:	:	TETRIS.ZIP
+:	:	:	Vampire Killer.zip
+:	:	:	XEVIOUS.ZIP
+:	:	:	YUMETADV.ZIP
+:	:	:	Yoshida Kensetu.zip
+:	:	:	Yoshida Konzern.zip
+:	:	:	aleste2.zip
+:	:	:	dante.zip
+:	:	:	dante2.zip
+:	:	:	darwin.zip
+:	:	:	f1spirit.zip
+:	:	:	galious.zip
+:	:	:	hydlide3.zip
+:	:	:	konamimm.lzh
+:	:	:	nemesis2.zip
+:	:	:	nemesis3.zip
+:	:	:	parodius.zip
+:	:	:	sdsnatch.zip
+:	:	:	snatcher.zip
+:	:	:	ssnake.zip
+:	:	:	undeadln.zip
+:	:	:	usas.zip
+:	:	:	yoshida komuten.zip
+:	:	:	yureikun.zip
+:	:	MSX-DOS Tools
+:	:	:	AEG102.ZIP
+:	:	:	APED.ZIP
+:	:	:	LHPAK103.lzh
+:	:	:	MM207.lzh
+:	:	:	MSX-View_Apr.lzh
+:	:	:	PED.ZIP
+:	:	:	REWTY203.LZH
+:	:	:	TAPE063.LZH
+:	:	:	bine100.lzh
+:	:	:	c.lzh
+:	:	:	cs311.lzh
+:	:	:	diskview.lzh
+:	:	:	kdu104.lzh
+:	:	:	kssplay.zip
+:	:	:	kss変換バッチ slaydock.zip
+:	:	:	mapi001.lzh
+:	:	:	pmext.com
+:	:	:	super-x.lzh
+:	:	Msx裏技
+:	:	:	10倍楽しむカートリッジ.txt
+:	:	:	F-1SPIRIT.TXT
+:	:	:	F1SPIRIT 3Dスペシャル.txt
+:	:	:	FMPACユーティリティー.txt
+:	:	:	sd_スナッチャー.txt
+:	:	:	２＋のローマ字変換について.txt
+:	:	:	アールタイプ_msx.txt
+:	:	:	アレスタ_MSX.txt
+:	:	:	イーガー皇帝の逆襲.txt
+:	:	:	イース3_msx.txt
+:	:	:	ウシャス.txt
+:	:	:	エルギーザの封印.txt
+:	:	:	カリオストロの城.txt
+:	:	:	ガリウスの迷宮_msx.txt
+:	:	:	キングコング2_MSX.txt
+:	:	:	グーニーズ_msx.txt
+:	:	:	グラディウス_MSX.txt
+:	:	:	グラディウス２_MSX.txt
+:	:	:	ゴーファーの野望.txt
+:	:	:	ザナック.txt
+:	:	:	ザナック_msx2.txt
+:	:	:	ザナドゥ_msx.txt
+:	:	:	ザナドゥ_msx2.txt
+:	:	:	スーパーレイドック.txt
+:	:	:	ゼビウス_msx.txt
+:	:	:	ソリッドスネーク.txt
+:	:	:	ダーウイン4078_msx.txt
+:	:	:	チャンピオンシップロードランナー.txt
+:	:	:	ツインビー_MSX.txt
+:	:	:	ディーヴァ.txt
+:	:	:	トリトーン.txt
+:	:	:	ドラゴンスレイヤー4.txt
+:	:	:	ハイドライド3MSX.txt
+:	:	:	ハイドライド２_msx.txt
+:	:	:	パックマニア_MSX.txt
+:	:	:	パロディウス_msx.txt
+:	:	:	フラッピー リミテッド８５.txt
+:	:	:	ペイロード.txt
+:	:	:	ボンバーマンスペシャル.txt
+:	:	:	マクロス.txt
+:	:	:	メタルギア.txt
+:	:	:	ロードランナー.txt
+:	:	:	ロマンシア_MSX.txt
+:	:	:	悪魔城ドラキュラ_MSX.txt
+:	:	:	王家の谷FD版.txt
+:	:	:	火の鳥_msx.txt
+:	:	:	激突ペナントレース.txt
+:	:	:	激突ﾍﾟﾅﾝﾄﾚｰｽ.txt
+:	:	:	五右衛門からくり道中_MSX.txt
+:	:	:	魔城伝説.txt
+:	:	:	魔法使いWIZ_MSX.txt
+:	:	:	夢大陸アドベンチャー.txt
+:	:	OS
+:	:	:	HALNOTE.ZIP
+:	:	:	Msxdos22.zip
+:	:	ROM
+:	:	:	1942.zip
+:	:	:	A1Spirit.zip
+:	:	:	AE.ZIP
+:	:	:	ALESTE infiTime.ZIP
+:	:	:	ALESTE.zip
+:	:	:	Alibaba.zip
+:	:	:	Alpha squadron.zip
+:	:	:	American Truck.zip
+:	:	:	Anaza Kaleidoscope.zip
+:	:	:	Aramo.zip
+:	:	:	Ashguine2.zip
+:	:	:	Ashguine3.zip
+:	:	:	Athletic Land.zip
+:	:	:	BOMBERMAN.zip
+:	:	:	Back To The Future.zip
+:	:	:	Basikn2.zip
+:	:	:	Blagger.zip
+:	:	:	Bokosuka Wars.zip
+:	:	:	Bomberman Special.zip
+:	:	:	Bosconian.zip
+:	:	:	Boukenjima INV.zip
+:	:	:	Boukenjima.zip
+:	:	:	Bruce Lee.zip
+:	:	:	Bungeling bay.zip
+:	:	:	Bungelingbay INV.zip
+:	:	:	Buru To Marty Kikiippatsu.zip
+:	:	:	BuruMarty.zip
+:	:	:	CARFIGHT.ZIP
+:	:	:	CHAKNPOP.zip
+:	:	:	CHOPLIFT.zip
+:	:	:	COSMO EXPLORE.ZIP
+:	:	:	Casio World Open.zip
+:	:	:	Castle INF.zip
+:	:	:	Castle.zip
+:	:	:	Championship LodeRunner.zip
+:	:	:	ComeOn Picot.zip
+:	:	:	Computor OTHELO.zip
+:	:	:	CrazyTrain.zip
+:	:	:	CrossBlaim.zip
+:	:	:	DAIVA MSX1.ZIP
+:	:	:	DOORDOOR.zip
+:	:	:	DORODON.zip
+:	:	:	Darwin 4078.zip
+:	:	:	DigDug.zip
+:	:	:	Dokidoki PenginLand.zip
+:	:	:	Doordoor INF.zip
+:	:	:	Dr_slayer4 EASY.zip
+:	:	:	Dr_slayer4.zip
+:	:	:	Dracula INV.zip
+:	:	:	Dracula.zip
+:	:	:	Dragon Quest.zip
+:	:	:	Dragon Quest2.zip
+:	:	:	EI.ZIP
+:	:	:	EIDOLON.ZIP
+:	:	:	Eagle Fighter.zip
+:	:	:	EggerLand.zip
+:	:	:	Elevator Action.zip
+:	:	:	Exerion.zip
+:	:	:	Exoide-Z Area5.zip
+:	:	:	Exoide-Z.zip
+:	:	:	F1spirit.zip
+:	:	:	FLAPPY85.zip
+:	:	:	FRONTLIN.zip
+:	:	:	FUUNROKU.zip
+:	:	:	Family Stadium.zip
+:	:	:	Fantasy Zone 2.zip
+:	:	:	Firebird.zip
+:	:	:	GALAGA.zip
+:	:	:	GOFER no Yabou.ZIP
+:	:	:	GOFER-INV.zip
+:	:	:	GOLFGAME.zip
+:	:	:	GPWORLD.ZIP
+:	:	:	Game Master.zip
+:	:	:	Game Master2.zip
+:	:	:	Gameland Special.zip
+:	:	:	Gekitotu PenantRace.zip
+:	:	:	Gekitotu PenantRace2.zip
+:	:	:	Genghis Khan.zip
+:	:	:	Ghost Basters.zip
+:	:	:	Goemon.zip
+:	:	:	Goonies.zip
+:	:	:	Gradius.zip
+:	:	:	Gradius2 Beta Ver.zip
+:	:	:	Gradius2.zip
+:	:	:	Gulkave.zip
+:	:	:	Gunyuden.zip
+:	:	:	HERO.zip
+:	:	:	HYDLIDE MSX1.ZIP
+:	:	:	HYDLIDE2.ZIP
+:	:	:	HYDLIDE3 MSX1.ZIP
+:	:	:	HYDLIDE3 MSX2 upEXP.ZIP
+:	:	:	HYDLIDE3 MSX2.zip
+:	:	:	Hai No Majutsushi.zip
+:	:	:	Heroes Of The Lance.zip
+:	:	:	HoleInOne Pro.zip
+:	:	:	Hydlide2 INF.zip
+:	:	:	Hyper Olympic1.zip
+:	:	:	Hyper Olympic2.zip
+:	:	:	Iga Ninpo Cho.zip
+:	:	:	Iga Ninpo Cho2.zip
+:	:	:	Isin No Arashi.zip
+:	:	:	JUNOFIRST.ZIP
+:	:	:	Jetsetwirry INV.zip
+:	:	:	Jetsetwirry.zip
+:	:	:	Jiko Chushin ha1.zip
+:	:	:	Jiko Chushin ha2.zip
+:	:	:	King Kong2.zip
+:	:	:	Kings Valley.zip
+:	:	:	Kings Valley2 GoldVer.zip
+:	:	:	Kings Valley2.zip
+:	:	:	Kinniku Man.zip
+:	:	:	Knight Lore.zip
+:	:	:	Kungfu Taikun.zip
+:	:	:	LAPTICK2.zip
+:	:	:	Lode Runner1.zip
+:	:	:	Lode Runner2.zip
+:	:	:	Lupin3rd Babiron.zip
+:	:	:	Lupin3rd Kariosutro.zip
+:	:	:	MAPPY.zip
+:	:	:	MOUSER.ZIP
+:	:	:	MSX-FAN Library1.ZIP
+:	:	:	Macross.zip
+:	:	:	Magical Tree.zip
+:	:	:	Majo densetu.zip
+:	:	:	MajoDensetu2 Galious.zip
+:	:	:	MajoDensetu3 Shalom.zip
+:	:	:	Mashou no Yakata Gabalin.zip
+:	:	:	MetalGear.zip
+:	:	:	MetalGear2.zip
+:	:	:	MopiRanger INV.zip
+:	:	:	MopiRanger.zip
+:	:	:	MrCHIN.zip
+:	:	:	Nessen Kousien.zip
+:	:	:	Ninja-kage.zip
+:	:	:	NinjaKun OLD.zip
+:	:	:	Ninjakun.zip
+:	:	:	Nobunaga  MSX1.zip
+:	:	:	Nobunaga MSX2.zip
+:	:	:	PAYLOAD.ZIP
+:	:	:	POOYAN.zip
+:	:	:	PacMan.zip
+:	:	:	Parodius INV.zip
+:	:	:	Parodius.zip
+:	:	:	Penguin Wars.zip
+:	:	:	Pitfall1.zip
+:	:	:	Pitfall2.zip
+:	:	:	ProjectA2.zip
+:	:	:	Protector.zip
+:	:	:	QBERT.ZIP
+:	:	:	Quarth.zip
+:	:	:	R-TYPE.zip
+:	:	:	RAMBO INV.ZIP
+:	:	:	RAMBO.zip
+:	:	:	RedZone.zip
+:	:	:	Replicart.zip
+:	:	:	RollerBall.zip
+:	:	:	Romancia INV.zip
+:	:	:	Romancia.zip
+:	:	:	SCION.zip
+:	:	:	SENJYO.ZIP
+:	:	:	SOUKOBAN.ZIP
+:	:	:	SPARKIE.zip
+:	:	:	SUIKODEN.zip
+:	:	:	SYOUGUN.ZIP
+:	:	:	Salamander INV.zip
+:	:	:	Salamander.zip
+:	:	:	Sangokusi MSX1.zip
+:	:	:	Sangokusi MSX2.zip
+:	:	:	Sangokusi2.zip
+:	:	:	Scarlet7.zip
+:	:	:	Scc MajoDensetu.zip
+:	:	:	Scc Nemesis.zip
+:	:	:	Scc Pippolus.zip
+:	:	:	Scc Soumen.zip
+:	:	:	Scc Title.zip
+:	:	:	Scc Tsurupika.zip
+:	:	:	Scc TwinBee.zip
+:	:	:	Scc Yie Ar KungFu.zip
+:	:	:	Scc Yie Ar KungFu2 Yiegar.zip
+:	:	:	Seiken ACHO.zip
+:	:	:	Seikima 2 Special.zip
+:	:	:	Shougi.zip
+:	:	:	Ski Command.zip
+:	:	:	SkyJaguar NoWait.zip
+:	:	:	SkyJaguar.zip
+:	:	:	Space Manbow.zip
+:	:	:	Star SOLDER.zip
+:	:	:	StarBlazer.zip
+:	:	:	StarForce.zip
+:	:	:	Strategic Mars.zip
+:	:	:	Super Daisenryaku.zip
+:	:	:	Super LAYDOCK.zip
+:	:	:	Super RAMBO.zip
+:	:	:	Super Runner.zip
+:	:	:	SuperTriton.zip
+:	:	:	THESEUS.zip
+:	:	:	TRITON.zip
+:	:	:	Tanigawa Shougi.zip
+:	:	:	Thunder BOLT.zip
+:	:	:	ToppleZip.zip
+:	:	:	Traffic.zip
+:	:	:	Twinbee.zip
+:	:	:	USYAS withSLOT.ZIP
+:	:	:	USYAS.zip
+:	:	:	Ultraman.zip
+:	:	:	Volguard.zip
+:	:	:	WIZ.ZIP
+:	:	:	WarRoid.zip
+:	:	:	WarpWarp.zip
+:	:	:	Xanadu.zip
+:	:	:	Xevious.zip
+:	:	:	Yie Ar KungFu.zip
+:	:	:	YieArKungFu2 Yiegar.zip
+:	:	:	Yumetairiku Adventure.zip
+:	:	:	Yumetairiku EASY.zip
+:	:	:	Yuureikun.zip
+:	:	:	ZANACEX.zip
+:	:	:	Zanac MSX1.zip
+:	:	:	Zexas limited.zip
+:	:	:	contora.zip
+:	:	:	gradius2 allrom Ver.zip
+:	MZ2500
+:	:	LAYDOCK MZ.ZIP
+:	:	MZ-2500ソフトリスト.xls
+:	:	MZ2500_BIOS.ZIP
+:	:	SHARP MZ-2500.mpg
+:	:	ゼビウス.zip
+:	:	マッピー.zip
+:	:	蒼き狼と白き牝鹿.zip
+:	:	星くずばこ
+:	:	:	sb01.lzh
+:	:	:	sb02.lzh
+:	:	:	sb03.lzh
+:	:	:	sb04.lzh
+:	:	:	sb05.lzh
+:	:	:	sb06.lzh
+:	:	:	sb07.lzh
+:	:	:	sb08.lzh
+:	:	:	sb09.lzh
+:	:	:	sb10.lzh
+:	:	:	sb11.lzh
+:	:	:	sb12.lzh
+:	:	:	sb13.lzh
+:	:	:	sb14.lzh
+:	:	:	sb15.lzh
+:	:	:	sb16.lzh
+:	:	:	ssb01.lzh
+:	:	:	ssb02.lzh
+:	:	:	ssb03.lzh
+:	PC88SYSTEM
+:	:	BASIC SET.ZIP
+:	:	CDOS_SET.ZIP
+:	:	JETターミナルV1.ZIP
+:	:	PC8801 BIOS.zip
+:	:	PC88VA tekumani.lzh
+:	:	Pc88va ROM.zip
+:	PC9801
+:	:	PC98xxBIOS.lzh
+:	:	PC98ハードウエア設定Uty集.zip
+:	:	n88basic リファレンス.zip
+:	:	システムHDD pc98.ZIP
+:	:	システムディスク.zip
+:	:	Disk
+:	:	:	3D Golf Simulation SET.ZIP
+:	:	:	3DGOLF Simulation2 SET.zip
+:	:	:	4Dドライブ.zip
+:	:	:	4Dボクシング.zip
+:	:	:	Alone In the DARK.zip
+:	:	:	Alone in the Dark2.zip
+:	:	:	A列車で行こう4PK.zip
+:	:	:	DAIVA カリ・ユガの光輝.zip
+:	:	:	DCコネクション.ZIP
+:	:	:	DOOM1.ZIP
+:	:	:	DOOM2.ZIP
+:	:	:	D欧州蜃気楼.zip
+:	:	:	EOSystem3.ZIP
+:	:	:	FLAPPY PLUS.ZIP
+:	:	:	GARUDIUS95.ZIP
+:	:	:	KEMESIS.zip
+:	:	:	MIFES50.ZIP
+:	:	:	MS-DOS Ver33D.ZIP
+:	:	:	MS-DOS Ver62.zip
+:	:	:	N88BASIC.zip
+:	:	:	RCP98V3-K4.ZIP
+:	:	:	SimCity200 DX.zip
+:	:	:	Super大戦略.zip
+:	:	:	TETRIS.zip
+:	:	:	UNOセット.ZIP
+:	:	:	WIZARDv5.zip
+:	:	:	Zs Staff Kid98.zip
+:	:	:	dante98_2.zip
+:	:	:	アトラス.ZIP
+:	:	:	アトラス2.ZIP
+:	:	:	ウォーゲームコンストラクション.zip
+:	:	:	エアマネジメント2.ZIP
+:	:	:	オホーツクに消ゆ.zip
+:	:	:	キャッスルズ.ZIP
+:	:	:	キャッスルズ2.ZIP
+:	:	:	キャンペーン版大戦略2.zip
+:	:	:	キングスダンジョン.ZIP
+:	:	:	コズミックソルジャー.ZIP
+:	:	:	ゴジラ.ZIP
+:	:	:	サバッシュ2.ZIP
+:	:	:	シムファーム.ZIP
+:	:	:	シヴィライゼーション.ZIP
+:	:	:	スタークルーザー２.zip
+:	:	:	ソードダンサー.zip
+:	:	:	ソードワールドPC.zip
+:	:	:	ダンジョンマスター シリーズ.zip
+:	:	:	ダンジョンマスター2 スカルキープ.zip
+:	:	:	ティルナノーグ2.zip
+:	:	:	ディガンの魔石.zip
+:	:	:	トキオ 東京都第２4区.zip
+:	:	:	トキオ2.zip
+:	:	:	トップマネジメント2.zip
+:	:	:	バイパー.zip
+:	:	:	バカスカウオーズ.zip
+:	:	:	バランスオブパワー.zip
+:	:	:	ファーストクイーン4.zip
+:	:	:	プリンスオブペルシャ.zip
+:	:	:	プリンスオブペルシャ2.zip
+:	:	:	マスターオブモンスターズ2.zip
+:	:	:	メルヘンベール.zip
+:	:	:	メルヘンベール2.zip
+:	:	:	ランペルール.zip
+:	:	:	リバイバルザナドゥ.zip
+:	:	:	ルーンワース２.zip
+:	:	:	ルーンワース３.zip
+:	:	:	ローマは1日にして成らず.zip
+:	:	:	維新の嵐.zip
+:	:	:	一太郎5R1.zip
+:	:	:	宇羅曼蛇.zip
+:	:	:	下天.zip
+:	:	:	下天2.zip
+:	:	:	臥竜伝 三国制覇の計.zip
+:	:	:	関ヶ原.zip
+:	:	:	関ヶ原2.zip
+:	:	:	機甲師団2.zip
+:	:	:	義経.zip
+:	:	:	空軍大戦略.zip
+:	:	:	群雄三国志.zip
+:	:	:	現代大戦略EX.zip
+:	:	:	項劉記.zip
+:	:	:	三國志1.zip
+:	:	:	三國志1ver24.ZIP
+:	:	:	三國志2.zip
+:	:	:	三國志3.zip
+:	:	:	三國志4PK.zip
+:	:	:	三國志5PK.ZIP
+:	:	:	三國志英傑伝.ZIP
+:	:	:	斬 陽炎の時代セット.zip
+:	:	:	斬2.zip
+:	:	:	斬3.zip
+:	:	:	指輪物語 二つの塔.zip
+:	:	:	指輪物語 旅の仲間.zip
+:	:	:	私説三国志.zip
+:	:	:	私説戦国時代.zip
+:	:	:	昇龍三國志.zip
+:	:	:	信長の野望 群雄伝.zip
+:	:	:	信長の野望 全国版.zip
+:	:	:	信長の野望 全国版ver2.zip
+:	:	:	信長の野望 天翔記PK.zip
+:	:	:	信長の野望 覇王伝PK.ZIP
+:	:	:	信長の野望 武将風雲録.zip
+:	:	:	信長の野望.ZIP
+:	:	:	森田将棋5.zip
+:	:	:	水滸伝.zip
+:	:	:	戦乱.zip
+:	:	:	倉庫番パーフェクト.zip
+:	:	:	太閤立志伝2.zip
+:	:	:	大戦略4.zip
+:	:	:	大戦略３セット.zip
+:	:	:	提督の決断.zip
+:	:	:	天と地と.ZIP
+:	:	:	天下統一.zip
+:	:	:	天下統一2PK.zip
+:	:	:	天舞 三国志正史セット.ZIP
+:	:	:	東京TwilightBusters.zip
+:	:	:	日立RPGセット.zip
+:	:	:	龍王三国志.zip
+:	:	SoftWare
+:	:	:	BU
+:	:	:	:	bu111.lzh
+:	:	:	Bdiff
+:	:	:	:	bdiffvct.lzh
+:	:	:	Cinit
+:	:	:	:	cinit106.lzh
+:	:	:	D_Clear
+:	:	:	:	dcl110.lzh
+:	:	:	Diet
+:	:	:	:	diet144.lzh
+:	:	:	:	diet145f.lzh
+:	:	:	Dispell
+:	:	:	:	dspl113.lzh
+:	:	:	JED
+:	:	:	:	jed194n.lzh
+:	:	:	:	jeddoc.lzh
+:	:	:	KL
+:	:	:	:	kl126.lzh
+:	:	:	LDF
+:	:	:	:	LDF103.LZH
+:	:	:	LHA
+:	:	:	:	lha255.exe
+:	:	:	:	lha255b_.lzh
+:	:	:	MDe
+:	:	:	:	MDE509M.LZH
+:	:	:	MEDIT
+:	:	:	:	medit230.lzh
+:	:	:	:	medit231.lzh
+:	:	:	Miel
+:	:	:	:	miel258n.lzh
+:	:	:	NecoDisk
+:	:	:	:	forg211.lzh
+:	:	:	:	forg212p.lzh
+:	:	:	:	nbup107.lzh
+:	:	:	:	ndex135.lzh
+:	:	:	:	neco301.lzh
+:	:	:	:	nfcp135.lzh
+:	:	:	Protect解析
+:	:	:	:	wiz120e.lzh
+:	:	:	Timmer
+:	:	:	:	osp410g.lzh
+:	:	:	VFU
+:	:	:	:	vfu120.lzh
+:	:	:	VZ
+:	:	:	:	VZ_160set.ZIP
+:	:	:	Xscript
+:	:	:	:	iosysp16.lzh
+:	:	:	:	x152d3_d.lzh
+:	:	:	:	x152d3_e.lzh
+:	:	:	:	xsatk.lzh
+:	:	:	Zip
+:	:	:	:	unz512x.exe
+:	:	:	:	zip20x.zip
+:	:	:	bench_mark
+:	:	:	:	cpubench.lzh
+:	X1
+:	:	Jetターボ ターミナルVer1.1.zip
+:	:	SWORD-OS.ZIP
+:	:	X1_ALLrom.zip
+:	:	X1ソフトウェア一覧.xls
+:	:	disks
+:	:	:	GRADIUS(OPM).zip
+:	:	:	HYDLIDE.zip
+:	:	:	OUTROYD.zip
+:	:	:	Super LAYDOCK.zip
+:	:	:	X1turboII demo.zip
+:	:	:	XEVIOUS X1.ZIP
+:	:	:	Xanadu X1セット.zip
+:	:	:	Zeliard X1.zip
+:	:	:	アスピックスペシャル.ZIP
+:	:	:	スタークルーザー X1.zip
+:	:	:	スペースハリアー.ZIP
+:	:	:	ソーサリアン X1.zip
+:	:	:	トリトーン.zip
+:	:	:	マイコンBASICマガジンプログラム集.ZIP
+:	:	:	ヴァリス.zip
+:	:	:	三國志2X1.ZIP
+:	:	:	三國志Turbo版.ZIP
+:	:	:	紫醜罹X1.zip
+:	:	:	女神転生.zip
+:	:	:	信長の野望 群雄伝X1.ZIP
+:	:	:	水滸伝X1.zip
+:	X68000
+:	:	X68000HDD.zip
+:	:	X68000リスト.xls
+:	:	BIOS
+:	:	:	X68IPL 030.LZH
+:	:	:	X68IPL Compact.LZH
+:	:	:	X68IPL Expart.LZH
+:	:	:	X68IPL XVI.LZH
+:	:	:	X68KBIOS.lzh
+:	:	TOOLS
+:	:	:	ACE付属システム.zip
+:	:	:	CompactXVI付属システム.zip
+:	:	:	HUMAN68K
+:	:	:	:	SYS_Data.LZH
+:	:	:	:	ARC
+:	:	:	:	:	LHA_4751.X
+:	:	:	:	:	LHA_X647.X
+:	:	:	:	:	LHES0893.LZH
+:	:	:	:	:	LHLK102X.LZH
+:	:	:	:	:	LXR120FS.LZH
+:	:	:	:	:	LZD112.LZH
+:	:	:	:	:	LZHDAE75.LZH
+:	:	:	:	:	LZX104.LZH
+:	:	:	:	:	TAR_ZIP
+:	:	:	:	:	:	TXR100FS.LZH
+:	:	:	:	:	:	ZIP20X68.ZIP
+:	:	:	:	:	:	ZXR121MS.LZH
+:	:	:	:	ASK68K
+:	:	:	:	:	AI3.LZH
+:	:	:	:	:	ASKP000.LZH
+:	:	:	:	BASIC
+:	:	:	:	:	XB0201.LZH
+:	:	:	:	:	XB0201S.LZH
+:	:	:	:	:	XB0305.LZH
+:	:	:	:	:	XBASIC.TXT
+:	:	:	:	:	XBC001B.LZH
+:	:	:	:	:	FNC
+:	:	:	:	:	:	DF1210.LZH
+:	:	:	:	:	:	EXEC_FNC.LZH
+:	:	:	:	:	:	GT_PUT_.LZH
+:	:	:	:	:	:	IABS_.LZH
+:	:	:	:	:	:	KSTICK_.LZH
+:	:	:	:	:	:	MUSICZ.LZH
+:	:	:	:	:	:	OUTLINE_.LZH
+:	:	:	:	:	:	RAS0821.LZH
+:	:	:	:	:	:	SP2_.LZH
+:	:	:	:	:	:	SPRITE0_.LZH
+:	:	:	:	:	:	TGRAPH_.LZH
+:	:	:	:	:	:	XSPRITE.LZH
+:	:	:	:	:	:	XSPRITEB.LZH
+:	:	:	:	COMLINE
+:	:	:	:	:	BATKEY.lzh
+:	:	:	:	:	KOMONO00.LZH
+:	:	:	:	:	KT980723.LZH
+:	:	:	:	:	calc.lzh
+:	:	:	:	:	ksd17i.lzh
+:	:	:	:	COPYTOOL
+:	:	:	:	:	B_PRO68K.LZH
+:	:	:	:	:	DC2_065.LZH
+:	:	:	:	:	TWINCOPY.LZH
+:	:	:	:	:	proemu.zip
+:	:	:	:	:	ＦILE MASTER.zip
+:	:	:	:	DISKUT
+:	:	:	:	:	2HDBOOT.LZH
+:	:	:	:	:	9SCSET.LZH
+:	:	:	:	:	DCON.LZH
+:	:	:	:	:	DCU_075.LZH
+:	:	:	:	:	DE0021.LZH
+:	:	:	:	:	DIFC1199.LZH
+:	:	:	:	:	DPK1327.LZH
+:	:	:	:	:	FSCK1032.LZH
+:	:	:	:	:	GRAD130.LZH
+:	:	:	:	:	REFG125.LZH
+:	:	:	:	:	SD141.LZH
+:	:	:	:	EDIT
+:	:	:	:	:	DEDIT226.LZH
+:	:	:	:	:	DEDIT_P5.ZIP
+:	:	:	:	:	EDR_V2.zip
+:	:	:	:	:	FES127A.LZH
+:	:	:	:	:	SUPERED.LZH
+:	:	:	:	FILEUT
+:	:	:	:	:	BDIFSET.LZH
+:	:	:	:	:	DIRI.LZH
+:	:	:	:	:	DIRU.LZH
+:	:	:	:	:	FLCT0124.LZH
+:	:	:	:	:	FU_P23d.lzh
+:	:	:	:	:	LC293X.LZH
+:	:	:	:	:	LDEL242X.LZH
+:	:	:	:	:	LM203X.LZH
+:	:	:	:	:	SUPR_BUP.LZH
+:	:	:	:	:	VIEW_V3.LZH
+:	:	:	:	:	dshell3.lzh
+:	:	:	:	FONT
+:	:	:	:	:	F16_24.LZH
+:	:	:	:	:	H16_24.LZH
+:	:	:	:	:	MAKE1212.LZH
+:	:	:	:	:	TrueType_CNV.lzh
+:	:	:	:	:	X68K_fonts.zip
+:	:	:	:	:	kaku0100.lzh
+:	:	:	:	GAME
+:	:	:	:	:	CPBUS.LZH
+:	:	:	:	:	KAOEDIT.LZH
+:	:	:	:	:	NINE.lzh
+:	:	:	:	:	RENSHA.LZH
+:	:	:	:	:	SPD.LZH
+:	:	:	:	:	SPICON.LZH
+:	:	:	:	:	CPSF
+:	:	:	:	:	:	CPMD106.LZH
+:	:	:	:	:	:	CPSF_KEY.LZH
+:	:	:	:	:	:	JOYDRV20.LZH
+:	:	:	:	:	PATCH
+:	:	:	:	:	:	16_GENPE.LZH
+:	:	:	:	:	:	16_GRA1.LZH
+:	:	:	:	:	:	24_AB2.LZH
+:	:	:	:	:	:	24_BOSC.LZH
+:	:	:	:	:	:	24_DAI3.LZH
+:	:	:	:	:	:	24_FZONE.LZH
+:	:	:	:	:	:	ABMIDI.LZH
+:	:	:	:	:	:	BOSC_MID.LZH
+:	:	:	:	:	:	COCKPAT1.LZH
+:	:	:	:	:	:	DRA_HDD.ZIP
+:	:	:	:	:	:	DRA_PAT.LZH
+:	:	:	:	:	:	DRSP_MID.LZH
+:	:	:	:	:	:	GAMEDIT2.LZH
+:	:	:	:	:	:	GEOG_PAT.LZH
+:	:	:	:	:	:	GOLFHD.LZH
+:	:	:	:	:	:	GOLFHD2.LZH
+:	:	:	:	:	:	GOLFHD3.LZH
+:	:	:	:	:	:	GRA1_PAT.zip
+:	:	:	:	:	:	GRA2_PAT.LZH
+:	:	:	:	:	:	GRA_md.ZIP
+:	:	:	:	:	:	GS_KAI.LZH
+:	:	:	:	:	:	HAR_MIDI.LZH
+:	:	:	:	:	:	HAR_PAT.LZH
+:	:	:	:	:	:	JOYDRV.LZH
+:	:	:	:	:	:	KNMIMIDI.LZH
+:	:	:	:	:	:	LagoonMD.lzh
+:	:	:	:	:	:	M_PATSET.LZH
+:	:	:	:	:	:	NEME_MC.LZH
+:	:	:	:	:	:	OVERTAKE.LZH
+:	:	:	:	:	:	PARO_PAT.LZH
+:	:	:	:	:	:	PAT3_FIX.LZH
+:	:	:	:	:	:	SALA_PAT.ZIP
+:	:	:	:	:	:	SLUSTPAT.LZH
+:	:	:	:	:	:	SST2PAT.LZH
+:	:	:	:	:	:	S_CLZ_P.LZH
+:	:	:	:	:	:	TETRS104.LZH
+:	:	:	:	:	:	TWIN_PAT.LZH
+:	:	:	:	:	:	nospatch.lzh
+:	:	:	:	:	:	phala_p8.lzh
+:	:	:	:	GRAPHIC
+:	:	:	:	:	24_31KHZ.LZH
+:	:	:	:	:	CONV.LZH
+:	:	:	:	:	EEL_203B.LZH
+:	:	:	:	:	ExSYSTEM.LZH
+:	:	:	:	:	F31K.LZH
+:	:	:	:	:	GONBE4.LZH
+:	:	:	:	:	Matier211b.LZH
+:	:	:	:	:	SCR.LZH
+:	:	:	:	:	TATE256.LZH
+:	:	:	:	:	TITLE_ED.LZH
+:	:	:	:	:	TTLC.LZH
+:	:	:	:	:	TXT2PIC1.LZH
+:	:	:	:	:	W_CRAYONS.LZH
+:	:	:	:	:	XGE541.ZIP
+:	:	:	:	:	ZED008.LZH
+:	:	:	:	:	Z_CRT.LZH
+:	:	:	:	:	ZsSTAFF3.ZIP
+:	:	:	:	:	mfg53.Lzh
+:	:	:	:	:	pyro68.lzh
+:	:	:	:	:	LOADSAVE
+:	:	:	:	:	:	APG_211A.LZH
+:	:	:	:	:	:	B2PIC003.LZH
+:	:	:	:	:	:	BMPL033B.LZH
+:	:	:	:	:	:	COPIX010.Lzh
+:	:	:	:	:	:	CVSAVESC.LZH
+:	:	:	:	:	:	GGR.LZH
+:	:	:	:	:	:	GLM_TOOL.LZH
+:	:	:	:	:	:	GOSE.LZH
+:	:	:	:	:	:	JPEG100.LZH
+:	:	:	:	:	:	JPEGED26.LZH
+:	:	:	:	:	:	PI107_6.LZH
+:	:	:	:	:	:	SAVESC.LZH
+:	:	:	:	:	:	TFV68145.LZH
+:	:	:	:	:	:	XBMP064.LZH
+:	:	:	:	:	:	pngl030b.zip
+:	:	:	:	HUMAN_S
+:	:	:	:	:	HU_V100.LZH
+:	:	:	:	:	HU_V101.LZH
+:	:	:	:	:	HU_V201.LZH
+:	:	:	:	:	HU_V202.LZH
+:	:	:	:	:	HU_V203.LZH
+:	:	:	:	:	HU_V301.LZH
+:	:	:	:	:	HU_V302.LZH
+:	:	:	:	MUSIC
+:	:	:	:	:	LMZ2.LZH
+:	:	:	:	:	MMR31P1.ZIP
+:	:	:	:	:	MNDRV132.LZH
+:	:	:	:	:	ZMPLY060.LZH
+:	:	:	:	:	RC_SYS
+:	:	:	:	:	:	CONV3013.LZH
+:	:	:	:	:	:	CVS504_X.LZH
+:	:	:	:	:	:	RC3013.LZH
+:	:	:	:	:	:	RTE055.LZH
+:	:	:	:	:	:	STED_ALL.LZH
+:	:	:	:	:	:	ZTOR020.LZH
+:	:	:	:	:	ZMUSICV2
+:	:	:	:	:	:	ADPCMS.LZH
+:	:	:	:	:	:	DIVZPD04.ZIP
+:	:	:	:	:	:	DTOS_025.LZH
+:	:	:	:	:	:	LZZ057A.LZH
+:	:	:	:	:	:	MZP04B_T.LZH
+:	:	:	:	:	:	SDTOZP1.LZH
+:	:	:	:	:	:	Z55P101.LZH
+:	:	:	:	:	:	ZM208_01.LZH
+:	:	:	:	:	:	ZMSC208X.LZH
+:	:	:	:	:	:	ZMSC2MAN.LZH
+:	:	:	:	:	:	ZM_OMAKE.LZH
+:	:	:	:	:	:	ZTOM162.Lzh
+:	:	:	:	:	:	sound111.lzh
+:	:	:	:	:	:	zmc2v135.zip
+:	:	:	:	:	mxdrv
+:	:	:	:	:	:	MDXP009A.LZH
+:	:	:	:	:	:	MDX_TOOLS.LZH
+:	:	:	:	:	:	MXDRV206.LZH
+:	:	:	:	:	:	NOTE085.LZH
+:	:	:	:	:	:	mx16y_25.lzh
+:	:	:	:	MercuryUnit
+:	:	:	:	:	mdrv088.zip
+:	:	:	:	:	mndrv137.zip
+:	:	:	:	PROGRAM
+:	:	:	:	:	DIS314.lzh
+:	:	:	:	:	GCC142.LZH
+:	:	:	:	:	HAS06087.LZH
+:	:	:	:	:	MSXLIB.lzh
+:	:	:	:	:	OAR104.lzh
+:	:	:	:	:	SCD06012.LZH
+:	:	:	:	:	XC.lzh
+:	:	:	:	:	hlk301b.lzh
+:	:	:	:	:	lisp講座.lzh
+:	:	:	:	:	C言語
+:	:	:	:	:	:	C言語ガイド.txt
+:	:	:	:	:	:	zsaru01.lzh
+:	:	:	:	:	:	zsaru02.lzh
+:	:	:	:	:	:	zsaru03.lzh
+:	:	:	:	:	:	zsaru04.lzh
+:	:	:	:	:	:	zsaru05.lzh
+:	:	:	:	:	:	zsaru06.lzh
+:	:	:	:	:	:	zsaru07.lzh
+:	:	:	:	:	:	zsaru08.lzh
+:	:	:	:	:	:	zsaru09.lzh
+:	:	:	:	:	:	zsaru10.lzh
+:	:	:	:	:	:	zsaru11.lzh
+:	:	:	:	:	:	zsaru12.lzh
+:	:	:	:	:	:	zsaru13.lzh
+:	:	:	:	:	:	zsaru14.lzh
+:	:	:	:	:	:	zsaru15.lzh
+:	:	:	:	:	:	zsaru16.lzh
+:	:	:	:	:	:	zsaru17.lzh
+:	:	:	:	:	:	zsaru18.lzh
+:	:	:	:	:	:	zsaru19.lzh
+:	:	:	:	:	:	zsaru20.lzh
+:	:	:	:	:	:	zsaru21.lzh
+:	:	:	:	:	:	zsaru22.lzh
+:	:	:	:	:	:	zsaru23.lzh
+:	:	:	:	:	:	zsaru24.lzh
+:	:	:	:	:	make
+:	:	:	:	:	:	MAKEHU11.ZIP
+:	:	:	:	:	:	MAKEHU12.ZIP
+:	:	:	:	:	:	gmake_man.LZH
+:	:	:	:	:	ライブラリ類
+:	:	:	:	:	:	gnulib.lzh
+:	:	:	:	:	:	libc_32aD4.lzh
+:	:	:	:	:	:	libgnu150.lzh
+:	:	:	:	:	:	sxdevenv.lzh
+:	:	:	:	Pcm_tool
+:	:	:	:	:	MIAP08BA.LZH
+:	:	:	:	:	PCM3V215.LZH
+:	:	:	:	:	PCM8048B.LZH
+:	:	:	:	:	PCM8A059.LZH
+:	:	:	:	:	PCMRE_PL.LZH
+:	:	:	:	:	PDXTOZPD.LZH
+:	:	:	:	:	PZPD207.LZH
+:	:	:	:	:	RDN_101.LZH
+:	:	:	:	:	SYS_BEEP.LZH
+:	:	:	:	:	W2p.lzh
+:	:	:	:	:	WAVPLAY6.LZH
+:	:	:	:	:	nnpd203.lzh
+:	:	:	:	:	pdntozpd.lzh
+:	:	:	:	SCSI
+:	:	:	:	:	ASS_113A.LZH
+:	:	:	:	:	CD_Driver.lzh
+:	:	:	:	:	DSKBENCH.LZH
+:	:	:	:	:	FAT32_4.LZH
+:	:	:	:	:	GOVER031.LZH
+:	:	:	:	:	HDSKF08P.LZH
+:	:	:	:	:	MOCP0194.TGZ
+:	:	:	:	:	SEEKPAT.LZH
+:	:	:	:	:	SSE_121A.LZH
+:	:	:	:	:	SXSI4.LZH
+:	:	:	:	SYSTEM
+:	:	:	:	:	18SRAMCL.LZH
+:	:	:	:	:	ADRV302A.LZH
+:	:	:	:	:	BM222B.LZH
+:	:	:	:	:	CDINIT.LZH
+:	:	:	:	:	CHEV101.LZH
+:	:	:	:	:	CNFSEL02.LZH
+:	:	:	:	:	CONDRV.LZH
+:	:	:	:	:	CPUPOWER.LZH
+:	:	:	:	:	DCACH212.LZH
+:	:	:	:	:	HFONT122.LZH
+:	:	:	:	:	HIOCS16.LZH
+:	:	:	:	:	HIOCSP14.ZIP
+:	:	:	:	:	KEY2.LZH
+:	:	:	:	:	KEYWB212.LZH
+:	:	:	:	:	KW212213.LZH
+:	:	:	:	:	LN12.LZH
+:	:	:	:	:	LNDRV126.LZH
+:	:	:	:	:	LZXLOAD.LZH
+:	:	:	:	:	PROGRAM.LZH
+:	:	:	:	:	RSHIFT.LZH
+:	:	:	:	:	SI366.ZIP
+:	:	:	:	:	T14DRV.LZH
+:	:	:	:	:	TW136C14.LZH
+:	:	:	:	:	TWON123B.LZH
+:	:	:	:	:	TWSYS10.ZIP
+:	:	:	:	:	VS_fullset.lzh
+:	:	:	:	etc
+:	:	:	:	:	KIDOU.BAT
+:	:	:	:	:	ライジングサン 全曲集.zip
+:	:	:	OLD
+:	:	:	:	KBMS001.LZH
+:	:	:	:	ARC
+:	:	:	:	:	LHINF204.LZH
+:	:	:	:	:	LHTX200B.LZH
+:	:	:	:	:	TAR_ZIP
+:	:	:	:	:	:	GZ124X5F.LZH
+:	:	:	:	:	:	KMT9912B.LZH
+:	:	:	:	:	:	TGZ13X16.LZH
+:	:	:	:	:	:	TX.LZH
+:	:	:	:	:	:	TXF19.LZH
+:	:	:	:	ASK68K
+:	:	:	:	:	ASK302P1.LZH
+:	:	:	:	:	CDA005.LZH
+:	:	:	:	:	CDA006T1.LZH
+:	:	:	:	:	CSX000.LZH
+:	:	:	:	:	DIC_HU.LZH
+:	:	:	:	BASIC
+:	:	:	:	:	XBC001S.LZH
+:	:	:	:	COMLINE
+:	:	:	:	:	CALE21.LZH
+:	:	:	:	:	CD.LZH
+:	:	:	:	:	LAC207.LZH
+:	:	:	:	DISKUT
+:	:	:	:	:	DISKIMAG.LZH
+:	:	:	:	:	DSK69096.LZH
+:	:	:	:	:	DSK82026.LZH
+:	:	:	:	:	FDRD101.LZH
+:	:	:	:	:	FDWR101.LZH
+:	:	:	:	:	FSCK103.LZH
+:	:	:	:	:	HS2HD.LZH
+:	:	:	:	:	KEYEJE60.LZH
+:	:	:	:	:	RAWRITE.LZH
+:	:	:	:	:	SD140.LZH
+:	:	:	:	EDIT
+:	:	:	:	:	EDR099XC.LZH
+:	:	:	:	:	EDZ.LZH
+:	:	:	:	ENV
+:	:	:	:	:	KEYSET.LZH
+:	:	:	:	:	SETPATH.LZH
+:	:	:	:	:	VTIME.LZH
+:	:	:	:	FILEUT
+:	:	:	:	:	CP28.LZH
+:	:	:	:	:	DIRX.LZH
+:	:	:	:	:	FILECUT.LZH
+:	:	:	:	:	LD321X.LZH
+:	:	:	:	:	LF102.LZH
+:	:	:	:	:	LHINF203.LZH
+:	:	:	:	:	LS15.LZH
+:	:	:	:	:	QW047.LZH
+:	:	:	:	:	SEE031_1.LZH
+:	:	:	:	FONT
+:	:	:	:	:	98KANJI.LZH
+:	:	:	:	:	FONX102.LZH
+:	:	:	:	:	HFC100.LZH
+:	:	:	:	:	HFONT122.LZH
+:	:	:	:	:	TT2IFM02.LZH
+:	:	:	:	:	TT2IFM03.LZH
+:	:	:	:	GAME
+:	:	:	:	:	BAL080.LZH
+:	:	:	:	:	BOKOSUKA.LZH
+:	:	:	:	:	CARD.LZH
+:	:	:	:	:	CARD_2.LZH
+:	:	:	:	:	CHERRY.LZH
+:	:	:	:	:	CHO_10.LZH
+:	:	:	:	:	CHO_M.LZH
+:	:	:	:	:	CHO_PAT.LZH
+:	:	:	:	:	CPUKILL.LZH
+:	:	:	:	:	CUBE.LZH
+:	:	:	:	:	C_BOMER.LZH
+:	:	:	:	:	DESP0114.LZH
+:	:	:	:	:	DIVE_ON.LZH
+:	:	:	:	:	DQ1_0.LZH
+:	:	:	:	:	DQ1_1.LZH
+:	:	:	:	:	GW102.LZH
+:	:	:	:	:	KARATE.LZH
+:	:	:	:	:	KC.LZH
+:	:	:	:	:	MYS.LZH
+:	:	:	:	:	NEWWILDX.LZH
+:	:	:	:	:	OHOTSUK1.LZH
+:	:	:	:	:	OHOTSUK2.LZH
+:	:	:	:	:	OHOTSUKU.LZH
+:	:	:	:	:	OTHELLO.LZH
+:	:	:	:	:	PACMEN.LZH
+:	:	:	:	:	PIC_PZL.LZH
+:	:	:	:	:	PINBALL.LZH
+:	:	:	:	:	PORTPIA.LZH
+:	:	:	:	:	PS_IPL.LZH
+:	:	:	:	:	PUSHBON.LZH
+:	:	:	:	:	PUSH_MP1.LZH
+:	:	:	:	:	PUSH_MP2.LZH
+:	:	:	:	:	REIQA.LZH
+:	:	:	:	:	REIQA2.LZH
+:	:	:	:	:	REIQA_KA.LZH
+:	:	:	:	:	SARADA.LZH
+:	:	:	:	:	SOUKO_E.LZH
+:	:	:	:	:	SZBGM55.LZH
+:	:	:	:	:	TM11C.LZH
+:	:	:	:	:	TM11C2.LZH
+:	:	:	:	:	WIZ100.LZH
+:	:	:	:	:	WIZ110B.LZH
+:	:	:	:	:	WIZ115B.LZH
+:	:	:	:	:	XANADU.ZIP
+:	:	:	:	:	XANAEND.LZH
+:	:	:	:	:	YUKIG2.LZH
+:	:	:	:	:	ACADE
+:	:	:	:	:	:	A2TETRIS.LZH
+:	:	:	:	:	:	ALIEN.LZH
+:	:	:	:	:	:	A_TETRIS.LZH
+:	:	:	:	:	:	BBOMBER.LZH
+:	:	:	:	:	:	CITY.LZH
+:	:	:	:	:	:	COLUNMS.LZH
+:	:	:	:	:	:	FROG.LZH
+:	:	:	:	:	:	GROBDA.LZH
+:	:	:	:	:	:	INVEDER.LZH
+:	:	:	:	:	:	KUNGFU.LZH
+:	:	:	:	:	:	L_RABLE_.LZH
+:	:	:	:	:	:	PILOT.LZH
+:	:	:	:	:	:	RALLYX.LZH
+:	:	:	:	:	:	TANK.LZH
+:	:	:	:	:	:	T_DARIUS.LZH
+:	:	:	:	:	BOYOYON
+:	:	:	:	:	:	BOYO355.LZH
+:	:	:	:	:	:	BOYO355W.LZH
+:	:	:	:	:	:	BOYOPCM.LZH
+:	:	:	:	:	:	BOYOPIC3.LZH
+:	:	:	:	:	:	BOYOYON.LZH
+:	:	:	:	:	CPSF
+:	:	:	:	:	:	CPS.LZH
+:	:	:	:	:	:	CPS2.LZH
+:	:	:	:	:	:	GARO2CP.LZH
+:	:	:	:	:	:	JOYDRV.LZH
+:	:	:	:	:	:	LR_STICK.LZH
+:	:	:	:	:	:	MDPAD.LZH
+:	:	:	:	:	:	MD_PATCH.LZH
+:	:	:	:	:	:	SFC.LZH
+:	:	:	:	:	PATCH
+:	:	:	:	:	:	16_BABUL.LZH
+:	:	:	:	:	:	24_MMAZE.LZH
+:	:	:	:	:	:	24_SYVA.LZH
+:	:	:	:	:	:	AB2_MDD.LZH
+:	:	:	:	:	:	AJAX_PAT.LZH
+:	:	:	:	:	:	ARCANIDP.BFD
+:	:	:	:	:	:	BSALA101.LZH
+:	:	:	:	:	:	DRSP_PAT.LZH
+:	:	:	:	:	:	EP_INST2.LZH
+:	:	:	:	:	:	EXRYG.LZH
+:	:	:	:	:	:	FF_PAT.LZH
+:	:	:	:	:	:	GARO2PT.LZH
+:	:	:	:	:	:	GENPEI_.BFD
+:	:	:	:	:	:	GRA_ARC.LZH
+:	:	:	:	:	:	GSP_PAT.LZH
+:	:	:	:	:	:	G_KAIPT1.LZH
+:	:	:	:	:	:	G_KAIPT2.LZH
+:	:	:	:	:	:	HIRYU104.LZH
+:	:	:	:	:	:	HIRYU_P.LZH
+:	:	:	:	:	:	IMAGE.LZH
+:	:	:	:	:	:	MAHOU_PT.LZH
+:	:	:	:	:	:	MOONPAT1.LZH
+:	:	:	:	:	:	MOTOS.LZH
+:	:	:	:	:	:	MOTOSP01.LZH
+:	:	:	:	:	:	MT_AB2M.LZH
+:	:	:	:	:	:	RTYPEPAT.LZH
+:	:	:	:	:	:	SION2M.LZH
+:	:	:	:	:	:	SLUSTPAT.LZH
+:	:	:	:	:	:	ST2PAT.LZH
+:	:	:	:	:	:	ST3BOS.BFD
+:	:	:	:	:	:	SW_SALA.LZH
+:	:	:	:	:	:	S_PRINCE.LZH
+:	:	:	:	:	:	VIEW21.LZH
+:	:	:	:	GRAPHICS
+:	:	:	:	:	AZOOM102.LZH
+:	:	:	:	:	A_JAG128.LZH
+:	:	:	:	:	B2R04E.LZH
+:	:	:	:	:	CALTABD1.LZH
+:	:	:	:	:	CALTABD2.LZH
+:	:	:	:	:	CGR.LZH
+:	:	:	:	:	COLOR_E.LZH
+:	:	:	:	:	CPEM090A.LZH
+:	:	:	:	:	GON.LZH
+:	:	:	:	:	GRCNV.LZH
+:	:	:	:	:	HCFINALE.LZH
+:	:	:	:	:	HEXD010.LZH
+:	:	:	:	:	HTAM001.LZH
+:	:	:	:	:	KDOG100.LZH
+:	:	:	:	:	MC101EXE.LZH
+:	:	:	:	:	MONOCNV.LZH
+:	:	:	:	:	MORPH.LZH
+:	:	:	:	:	MPH300.LZH
+:	:	:	:	:	PAL03.LZH
+:	:	:	:	:	PS16G106.LZH
+:	:	:	:	:	Q0ESP010.LZH
+:	:	:	:	:	Q0HXD010.LZH
+:	:	:	:	:	QKNV023.LZH
+:	:	:	:	:	SMOOTHG.LZH
+:	:	:	:	:	UMASK010.LZH
+:	:	:	:	:	CG_TOOL
+:	:	:	:	:	:	RGBP.LZH
+:	:	:	:	:	:	T2PE.LZH
+:	:	:	:	:	:	T2PE2.LZH
+:	:	:	:	:	:	EX
+:	:	:	:	:	:	:	2HMV.LZH
+:	:	:	:	:	:	:	EX.LZH
+:	:	:	:	:	:	:	EX_FPACK.LZH
+:	:	:	:	:	:	:	EX_SATO.LZH
+:	:	:	:	:	:	:	EX_TEST.LZH
+:	:	:	:	:	:	:	EX_TOOL.LZH
+:	:	:	:	:	:	:	FOR_EX3.LZH
+:	:	:	:	:	:	:	SPBOX_15.LZH
+:	:	:	:	:	:	EXSYSFIL
+:	:	:	:	:	:	:	ZS_MATEX.LZH
+:	:	:	:	:	:	:	EX
+:	:	:	:	:	:	:	:	ACCENT.LZH
+:	:	:	:	:	:	:	:	COMPOSE.LZH
+:	:	:	:	:	:	:	:	CYCLE.LZH
+:	:	:	:	:	:	:	:	DIFFER.LZH
+:	:	:	:	:	:	:	:	HUEMOVE.LZH
+:	:	:	:	:	:	:	:	MONOTONE.LZH
+:	:	:	:	:	:	:	:	MULAPLAC.LZH
+:	:	:	:	:	:	:	:	MUMED.LZH
+:	:	:	:	:	:	:	:	MUSHARP.LZH
+:	:	:	:	:	:	:	:	REVBOX.LZH
+:	:	:	:	:	:	:	:	TRASH.DOC
+:	:	:	:	:	:	:	MACHINE
+:	:	:	:	:	:	:	:	DISK.LZH
+:	:	:	:	:	:	EX_DEBUG
+:	:	:	:	:	:	:	EXSYSDEB.LZH
+:	:	:	:	:	:	EX_SYS
+:	:	:	:	:	:	:	EFFECT.LZH
+:	:	:	:	:	:	:	SYSTEMS.LZH
+:	:	:	:	:	LOADSAVE
+:	:	:	:	:	:	AMI.LZH
+:	:	:	:	:	:	AMI_SET.LZH
+:	:	:	:	:	:	AVIPL151.LZH
+:	:	:	:	:	:	BJPEGR2.LZH
+:	:	:	:	:	:	ICE.LZH
+:	:	:	:	:	:	J16EDS05.LZH
+:	:	:	:	:	:	PCDLD.LZH
+:	:	:	:	:	:	PFV200.LZH
+:	:	:	:	:	:	RL.LZH
+:	:	:	:	:	:	SAVESC.LZH
+:	:	:	:	:	:	VSJPG010.LZH
+:	:	:	:	:	:	PHOTOCD
+:	:	:	:	:	:	:	HPCD032.LZH
+:	:	:	:	:	:	:	PCD.LZH
+:	:	:	:	:	:	:	PCD126.LZH
+:	:	:	:	:	:	:	PCDLD.LZH
+:	:	:	:	:	:	:	VIEWPCD.LZH
+:	:	:	:	:	PIC
+:	:	:	:	:	:	AP2T19D.LZH
+:	:	:	:	:	:	AP2TOU18.LZH
+:	:	:	:	:	:	HAPIC130.LZH
+:	:	:	:	:	:	LPICL.LZH
+:	:	:	:	:	:	P2TOLX03.LZH
+:	:	:	:	:	:	P2TOU394.LZH
+:	:	:	:	:	:	P2V68101.LZH
+:	:	:	:	:	:	PIC2.LZH
+:	:	:	:	MUSIC
+:	:	:	:	:	FINE.LZH
+:	:	:	:	:	MF2T.LZH
+:	:	:	:	:	MMDSP030.LZH
+:	:	:	:	:	MMDSPZ35.LZH
+:	:	:	:	:	OTO.LZH
+:	:	:	:	:	S68K010.LZH
+:	:	:	:	:	SCM026.LZH
+:	:	:	:	:	SMF1TO0.LZH
+:	:	:	:	:	SND101.LZH
+:	:	:	:	:	SPCX112A.LZH
+:	:	:	:	:	WZP005A.LZH
+:	:	:	:	:	ZCALL301.LZH
+:	:	:	:	:	ZFC.LZH
+:	:	:	:	:	ZMC2.LZH
+:	:	:	:	:	ZMVER1.LZH
+:	:	:	:	:	ZTOR020.LZH
+:	:	:	:	:	ZWG010.LZH
+:	:	:	:	:	PRIPRO
+:	:	:	:	:	:	ZMEX025.LZH
+:	:	:	:	:	:	ZPP100.LZH
+:	:	:	:	:	RC_SYS
+:	:	:	:	:	:	GSR112.LZH
+:	:	:	:	:	:	ITOR301D.LZH
+:	:	:	:	:	:	JUKE204.LZH
+:	:	:	:	:	:	MIGRATE.LZH
+:	:	:	:	:	:	MMX190X.LZH
+:	:	:	:	:	:	MMX192B.LZH
+:	:	:	:	:	:	RCHU100X.LZH
+:	:	:	:	:	:	RCLK100X.LZH
+:	:	:	:	:	:	SAME060.LZH
+:	:	:	:	:	:	WRDP296.LZH
+:	:	:	:	:	ZM3TOOLS
+:	:	:	:	:	:	S2Z3S088.LZH
+:	:	:	:	:	:	SSZP071.LZH
+:	:	:	:	:	:	Z2M3.LZH
+:	:	:	:	:	:	ZCSMF074.LZH
+:	:	:	:	:	:	ZMC_MDX.LZH
+:	:	:	:	:	:	ZMC_RCP.LZH
+:	:	:	:	:	:	ZMEMINF2.LZH
+:	:	:	:	:	:	ZMR084.LZH
+:	:	:	:	:	ZMUSICV2
+:	:	:	:	:	:	ZMSC208S.LZH
+:	:	:	:	:	:	ZM_CD.LZH
+:	:	:	:	:	ZMUSICV3
+:	:	:	:	:	:	ZM302A_X.LZH
+:	:	:	:	:	:	ZMSC3_FD.LZH
+:	:	:	:	:	:	ZMUSICV3.LZH
+:	:	:	:	PCM_tool
+:	:	:	:	:	CONVO012.LZH
+:	:	:	:	:	LMM_MAKE.LZH
+:	:	:	:	:	MPCM045.LZH
+:	:	:	:	:	PCM3V213.LZH
+:	:	:	:	:	PCMT101.LZH
+:	:	:	:	:	PCMTG102.LZH
+:	:	:	:	:	PF__106A.LZH
+:	:	:	:	:	W2ADP101.LZH
+:	:	:	:	:	ZWV173.LZH
+:	:	:	:	SCSI
+:	:	:	:	:	DSKBENCH.LZH
+:	:	:	:	:	FDS020.LZH
+:	:	:	:	:	FIM_102A.LZH
+:	:	:	:	:	HSCSI011.LZH
+:	:	:	:	:	INQUI102.LZH
+:	:	:	:	:	LHBU139.LZH
+:	:	:	:	:	MOFMT106.LZH
+:	:	:	:	:	PD.LZH
+:	:	:	:	:	XSCSIPT5.TGZ
+:	:	:	:	SX_TOOLS
+:	:	:	:	:	ICON.LZH
+:	:	:	:	:	SXCNT10.LZH
+:	:	:	:	:	BELL
+:	:	:	:	:	:	SXBELL.LZH
+:	:	:	:	:	BUP
+:	:	:	:	:	:	SXBDF104.LZH
+:	:	:	:	:	:	SXBUP103.LZH
+:	:	:	:	:	EXTEND
+:	:	:	:	:	:	UTRAY101.LZH
+:	:	:	:	:	GAME
+:	:	:	:	:	:	GOLFPCM.LZH
+:	:	:	:	:	:	MKCS001.LZH
+:	:	:	:	:	:	SXDICE.LZH
+:	:	:	:	:	:	SXGOLF30.LZH
+:	:	:	:	:	GRAPH
+:	:	:	:	:	:	CGAPV121.LZH
+:	:	:	:	:	:	HDTMTM00.LZH
+:	:	:	:	:	:	KABEDO00.LZH
+:	:	:	:	:	:	PICSIENC.LZH
+:	:	:	:	:	:	IVM
+:	:	:	:	:	:	:	AIVMG100.LZH
+:	:	:	:	:	:	:	VMBMP.TAR
+:	:	:	:	:	MOUSE
+:	:	:	:	:	:	SXCRS.LZH
+:	:	:	:	:	SCREEN
+:	:	:	:	:	:	S4.LZH
+:	:	:	:	:	:	SXAF3.LZH
+:	:	:	:	:	SYSTEM
+:	:	:	:	:	:	BEEPCHG.LZH
+:	:	:	:	:	:	FSXPAT31.LZH
+:	:	:	:	:	:	GABAG040.LZH
+:	:	:	:	:	WINDOW
+:	:	:	:	:	:	SXWS015.LZH
+:	:	:	:	SYSTEM
+:	:	:	:	:	CONDRKAI.LZH
+:	:	:	:	:	COND_E12.ZIP
+:	:	:	:	:	C_BAC1.LZH
+:	:	:	:	:	EI021.ZIP
+:	:	:	:	:	ERV.LZH
+:	:	:	:	:	EXCPYKEY.LZH
+:	:	:	:	:	EXECD035.LZH
+:	:	:	:	:	EXTDRV16.LZH
+:	:	:	:	:	FAT32_4.LZH
+:	:	:	:	:	HB203P.LZH
+:	:	:	:	:	HBOOT203.LZH
+:	:	:	:	:	HSIPL216.LZH
+:	:	:	:	:	IPL203.LZH
+:	:	:	:	:	KBMOUSE.LZH
+:	:	:	:	:	PS2MS020.LZH
+:	:	:	:	:	QINT071.LZH
+:	:	:	:	:	SBOOT.LZH
+:	:	:	:	:	SMOUSE02.LZH
+:	:	:	:	:	SPS.LZH
+:	:	:	:	:	TW136C13.LZH
+:	:	:	:	:	TWON136C.LZH
+:	:	:	:	TODAY
+:	:	:	:	:	TD210X.LZH
+:	:	:	:	:	TD210XCP.LZH
+:	:	:	:	:	TD210XPA.LZH
+:	:	:	:	:	TD210XPB.LZH
+:	:	:	Sx
+:	:	:	:	NEW_INST.LZH
+:	:	:	:	ARC
+:	:	:	:	:	SXGZIP08.LZH
+:	:	:	:	:	SXTAR030.LZH
+:	:	:	:	:	SXXX098.LZH
+:	:	:	:	:	VISON111.TGZ
+:	:	:	:	CALC
+:	:	:	:	:	calc061.lzh
+:	:	:	:	:	calcd060.lzh
+:	:	:	:	DATE
+:	:	:	:	:	ANAROGS.LZH
+:	:	:	:	:	CALEN104.LZH
+:	:	:	:	:	SCLOCKS0.LZH
+:	:	:	:	EXTEND
+:	:	:	:	:	ADI06.LZH
+:	:	:	:	:	MFOCK010.LZH
+:	:	:	:	:	SXSH130.LZH
+:	:	:	:	:	KANJI
+:	:	:	:	:	:	HENW2144.LZH
+:	:	:	:	:	:	KKCC001.LZH
+:	:	:	:	FIL_DRIV
+:	:	:	:	:	DRIVI105.LZH
+:	:	:	:	:	FINFO133.LZH
+:	:	:	:	:	KONPOI3.LZH
+:	:	:	:	:	NEWPATH.LZH
+:	:	:	:	:	REN101.LZH
+:	:	:	:	:	SX2HQ002.LZH
+:	:	:	:	:	f2sc041.lzh
+:	:	:	:	:	再帰容量.lzh
+:	:	:	:	FONT
+:	:	:	:	:	FontDATA.lzh
+:	:	:	:	:	HARTMANN.LZH
+:	:	:	:	:	SPEWIDTH.LZH
+:	:	:	:	:	SX12DOT.LZH
+:	:	:	:	:	VF_FONT.zip
+:	:	:	:	GAME
+:	:	:	:	:	PINBALL.LZH
+:	:	:	:	:	SIMEARTH.LZH
+:	:	:	:	:	SIRTETRIS.LZH
+:	:	:	:	:	SOUKOBAN.LZH
+:	:	:	:	:	SXCHN.LZH
+:	:	:	:	:	SXMIN.LZH
+:	:	:	:	:	SXOTH030.LZH
+:	:	:	:	:	TITEI.LZH
+:	:	:	:	:	香港.lzh
+:	:	:	:	GRAPH
+:	:	:	:	:	CANVAS04.LZH
+:	:	:	:	:	CGBFD.LZH
+:	:	:	:	:	EASYDRAW.LZH
+:	:	:	:	:	EasyPaint.LZH
+:	:	:	:	:	GCOPY031.LZH
+:	:	:	:	:	GRRT152.LZH
+:	:	:	:	:	G_AT180.LZH
+:	:	:	:	:	G_AT182_.LZH
+:	:	:	:	:	G_AT183.LZH
+:	:	:	:	:	HEKIDOU.LZH
+:	:	:	:	:	PT4GET09.LZH
+:	:	:	:	:	PTOD103.LZH
+:	:	:	:	:	SCOPY001.LZH
+:	:	:	:	:	V16J12B.LZH
+:	:	:	:	:	IVM
+:	:	:	:	:	:	GIF_IVM.LZH
+:	:	:	:	:	:	GLMPAT02.LZH
+:	:	:	:	:	:	IVMG018.LZH
+:	:	:	:	:	:	IVM_BMP.LZH
+:	:	:	:	:	:	PIVM105.LZH
+:	:	:	:	:	:	RMIVM01.LZH
+:	:	:	:	:	:	VMCUT02.LZH
+:	:	:	:	:	:	VMP2_06.LZH
+:	:	:	:	:	Stream
+:	:	:	:	:	:	G2TSERV1.LZH
+:	:	:	:	:	:	SCST02B.LZH
+:	:	:	:	:	:	SM04.LZH
+:	:	:	:	:	:	SM04UP.LZH
+:	:	:	:	:	:	SM04UPUP.LZH
+:	:	:	:	:	:	SMAEX01.LZH
+:	:	:	:	:	:	SXBACK02.LZH
+:	:	:	:	:	:	SXCUT01.LZH
+:	:	:	:	:	:	SXG2T21.LZH
+:	:	:	:	:	:	SXGAL02B.LZH
+:	:	:	:	:	:	SXGFJUNK.LZH
+:	:	:	:	:	:	SXGFJUP.LZH
+:	:	:	:	INFO
+:	:	:	:	:	FMEMO123.LZH
+:	:	:	:	:	IVMINF02.LZH
+:	:	:	:	:	MEMG017.LZH
+:	:	:	:	:	SXINF021.LZH
+:	:	:	:	:	SXPFM103.LZH
+:	:	:	:	MOUSE
+:	:	:	:	:	NEZU012.LZH
+:	:	:	:	:	NEZU0121.LZH
+:	:	:	:	MUSIC
+:	:	:	:	:	PE043EXE.LZH
+:	:	:	:	:	SXPCM046.LZH
+:	:	:	:	:	SXPCM41A.LZH
+:	:	:	:	:	SXWP102.LZH
+:	:	:	:	:	SXZC390.LZH
+:	:	:	:	RES_EDIT
+:	:	:	:	:	HEX202.LZH
+:	:	:	:	:	RESED212.LZH
+:	:	:	:	SCREEN
+:	:	:	:	:	CRTCTR04.LZH
+:	:	:	:	:	DIAGE02.LZH
+:	:	:	:	:	MINI061.LZH
+:	:	:	:	:	SADJST0C.LZH
+:	:	:	:	:	SXMODE04.LZH
+:	:	:	:	SHAPEN
+:	:	:	:	:	EXC0001.LZH
+:	:	:	:	:	EXC1401.LZH
+:	:	:	:	:	EXCOM1.LZH
+:	:	:	:	:	EXCOM2.LZH
+:	:	:	:	:	WORDPRO2.LZH
+:	:	:	:	SYSTEM
+:	:	:	:	:	CALCMAN4.LZH
+:	:	:	:	:	EMAGENCY.LZH
+:	:	:	:	:	ERROR040.LZH
+:	:	:	:	:	HISCLIP5.LZH
+:	:	:	:	:	LMENU07.LZH
+:	:	:	:	:	PERI0043.LZH
+:	:	:	:	:	SCNT001.LZH
+:	:	:	:	:	SNAP04.LZH
+:	:	:	:	:	div5c25.lzh
+:	:	:	:	WINDOW
+:	:	:	:	:	2LINE2.LZH
+:	:	:	:	:	CLWO110.LZH
+:	:	:	:	:	IWIDTH.LZH
+:	:	:	:	:	KILLER02.LZH
+:	:	:	:	:	SILENT12.LZH
+:	:	:	:	:	SXACTJP3.LZH
+:	:	:	:	:	TASK108.LZH
+:	:	:	:	:	WINSL150.LZH
+:	:	:	:	:	WL203.LZH
+:	:	:	:	:	clnote6.lzh
+:	:	:	Sx-Win31SET
+:	:	:	:	Ask68k3DIC.zip
+:	:	:	:	HUMAN68K.ZIP
+:	:	:	:	Sx WORKROOM.zip
+:	:	:	:	SxACCE.zip
+:	:	:	:	SxTOOLS.zip
+:	:	:	:	SxWin31_1.zip
+:	:	:	:	SxWin31_2.zip
+:	:	:	:	SxWin31_3.zip
+:	:	:	:	SxWin31_sys.zip
+:	:	:	:	XCv21N.zip
+:	:	X68K解説説明書類
+:	:	:	Human68K説明書.zip
+:	:	:	LOGIN1987 1月号 001.jpg
+:	:	:	LOGIN1987 3月号 001.jpg
+:	:	:	LOGIN1987 3月号 002.jpg
+:	:	:	LOGIN1987 3月号 003.jpg
+:	:	:	LOGIN1987 3月号 004.jpg
+:	:	:	LOGIN1987 3月号 005.jpg
+:	:	:	PUNI7_2.ZIP
+:	:	:	X-BASIC リファレンス.zip
+:	:	:	X68Kprogram説明.zip
+:	:	disk
+:	:	:	38万キロの虚空.zip
+:	:	:	AFTER BURNER2＋改withMIDI.zip
+:	:	:	Angel Dive.zip
+:	:	:	A列車で行こう3.zip
+:	:	:	BM68.ZIP
+:	:	:	BOMBERMAN.ZIP
+:	:	:	BRADION.zip
+:	:	:	Bosconian with MIDI.zip
+:	:	:	CAMELTRY.zip
+:	:	:	CUARTO.ZIP
+:	:	:	CYNTHIA.ZIP
+:	:	:	Cockpit68K.zip
+:	:	:	C力検査.zip
+:	:	:	DEFLEKTOR.ZIP
+:	:	:	DOME.ZIP
+:	:	:	DuelFighter.zip
+:	:	:	FORTLESS ATTACK.zip
+:	:	:	FX.zip
+:	:	:	Fifteen_All.zip
+:	:	:	GJ.zip
+:	:	:	GRA3 氷地帯.zip
+:	:	:	GRADIUS.zip
+:	:	:	GRANADA.zip
+:	:	:	GradiusII.zip
+:	:	:	HELLHOUND.zip
+:	:	:	HYDLIDE3.zip
+:	:	:	IPMインベーダー.ZIP
+:	:	:	LAYDOCK.zip
+:	:	:	LOGICRUSH.ZIP
+:	:	:	LodeRunner.zip
+:	:	:	MAPPY for X68K.ZIP
+:	:	:	MSX_GRADIUS2.zip
+:	:	:	NEMESIS90.ZIP
+:	:	:	OH_X 92年07月 DoGA.ZIP
+:	:	:	Overtake.zip
+:	:	:	PACMANIA.ZIP
+:	:	:	Phalanx.zip
+:	:	:	R-TYPE.zip
+:	:	:	Rush.zip
+:	:	:	SION.zip
+:	:	:	SION2.zip
+:	:	:	STAR BL☆DE.ZIP
+:	:	:	STAR FORCE.ZIP
+:	:	:	SimCity.zip
+:	:	:	Sound PRO68K.zip
+:	:	:	StarWARS.zip
+:	:	:	Super HANGON.zip
+:	:	:	T-94x.zip
+:	:	:	TELENET MusicBOX.ZIP
+:	:	:	TETRIS.zip
+:	:	:	THUNDER BLADE.ZIP
+:	:	:	Todays My JOB.zip
+:	:	:	TwinBee.zip
+:	:	:	Tドラゴンクエスト2.zip
+:	:	:	UNO.zip
+:	:	:	ViewPoint.zip
+:	:	:	V’BALL.zip
+:	:	:	XADLAK.ZIP
+:	:	:	XEVIOUS.zip
+:	:	:	YS pc88 for X68K.ZIP
+:	:	:	YS2 pc98 for X68K.ZIP
+:	:	:	YS3.zip
+:	:	:	YS_X68k.ZIP
+:	:	:	Zs Staff DEMO.zip
+:	:	:	Zugya.zip
+:	:	:	ＳＩＯＮIV.zip
+:	:	:	Ｔhe Ｍan Ｉ Ｌove.zip
+:	:	:	ＴＤＦ.zip
+:	:	:	Ｔドラゴンクエスト1.zip
+:	:	:	あーくしゅ.zip
+:	:	:	ああっ！お姫さまっ！.zip
+:	:	:	きこりの与作.zip
+:	:	:	たんば.zip
+:	:	:	でたなツインビー.zip
+:	:	:	ど突き！！ゲーム.zip
+:	:	:	ねじ式.zip
+:	:	:	アークスオデッセイ.ZIP
+:	:	:	アクアレス.zip
+:	:	:	アルガーナ.zip
+:	:	:	オルテウス2.ZIP
+:	:	:	カサブランカに愛を.zip
+:	:	:	ガルシード.zip
+:	:	:	キャンペーン版大戦略2.zip
+:	:	:	キングオブシカゴ.zip
+:	:	:	キングズダンジョン.ZIP
+:	:	:	ギャラガ’88.zip
+:	:	:	クレイジークライマー１・２.zip
+:	:	:	グループＸ.zip
+:	:	:	コラムス.ZIP
+:	:	:	サンダーフォース2.zip
+:	:	:	シグナトリー.zip
+:	:	:	シムアース.ZIP
+:	:	:	シムアント.ZIP
+:	:	:	シャッフルパックカフェ.zip
+:	:	:	ジェノサイド2.zip
+:	:	:	ジオグラフシール.zip
+:	:	:	スーパーストリートファイター２.zip
+:	:	:	スーパー大戦略.ZIP
+:	:	:	スクエアリゾート.zip
+:	:	:	スコルピウス.ZIP
+:	:	:	スタークルーザー.zip
+:	:	:	スターモビール.ZIP
+:	:	:	スターラスター.zip
+:	:	:	ストライダー飛竜.zip
+:	:	:	スペースハリアー.ZIP
+:	:	:	セネガル.ZIP
+:	:	:	ソーサリアン68K.zip
+:	:	:	ソフトでﾞハードな物語.zip
+:	:	:	ソフトでﾞハードな物語2.zip
+:	:	:	ソルフィース.zip
+:	:	:	ダンジョンマスター シリーズ.zip
+:	:	:	ダンジョンマネージメント.zip
+:	:	:	チェルノブ.zip
+:	:	:	デスブリンガー.zip
+:	:	:	トリトーンファイナル.zip
+:	:	:	ドラゴンスピリット.zip
+:	:	:	ドラゴンスレイヤー.zip
+:	:	:	ドラッケン.zip
+:	:	:	ドリンキースモーキー.zip
+:	:	:	ドルアーガの塔X68K.zip
+:	:	:	ナイアス.zip
+:	:	:	ナイトアームズ.zip
+:	:	:	ニューラルギア.zip
+:	:	:	ノスタルジア.zip
+:	:	:	バトルチェス.zip
+:	:	:	バベルの塔.zip
+:	:	:	バルーサの復讐.zip
+:	:	:	パイプドリーム.zip
+:	:	:	パロディウスだ.zip
+:	:	:	ファンタジーゾーン.zip
+:	:	:	フューチャーウォーズ.zip
+:	:	:	フリー版ハイドライド2.zip
+:	:	:	ブルトンレイ セット.zip
+:	:	:	プリンスオブペルシャ.zip
+:	:	:	プロダクションマネージャー.zip
+:	:	:	ペンジャン.zip
+:	:	:	ボナンザブラザーズ.zip
+:	:	:	ポピュラス セット.zip
+:	:	:	ポピュラス2.zip
+:	:	:	マジカルショット.zip
+:	:	:	マスターオブモンスターズ2.zip
+:	:	:	マッドストーカー.zip
+:	:	:	マンハッタンレクレイム＆殺意の接吻.zip
+:	:	:	ミッドガルツ.zip
+:	:	:	モトス.zip
+:	:	:	ライジングサン.zip
+:	:	:	ラグーン.zip
+:	:	:	ラストハルマゲドン.zip
+:	:	:	ラプラスの魔.zip
+:	:	:	ルービックキューブ.zip
+:	:	:	ルーンワース 黒衣の貴公子.zip
+:	:	:	レーシーズ.zip
+:	:	:	レッキングクルーfor X68K.zip
+:	:	:	レミングス.zip
+:	:	:	レリクス.zip
+:	:	:	ロードス島戦記.zip
+:	:	:	ロードス島戦記2.zip
+:	:	:	悪魔城ドラキュラ.zip
+:	:	:	闇の血族 完結編.zip
+:	:	:	闇の血族 前編.zip
+:	:	:	伊忍道.zip
+:	:	:	維新の嵐68k.zip
+:	:	:	栄冠は君に.zip
+:	:	:	黄金の羅針盤.zip
+:	:	:	機甲師団.zip
+:	:	:	極.zip
+:	:	:	幻獣鬼.zip
+:	:	:	源平討魔伝.zip
+:	:	:	項劉記.zip
+:	:	:	沙羅曼蛇.zip
+:	:	:	殺人倶楽部DX.zip
+:	:	:	三國志1.zip
+:	:	:	三國志2.zip
+:	:	:	三國志3.ZIP
+:	:	:	斬 陽炎の時代.zip
+:	:	:	上海万里の長城.zip
+:	:	:	信長の野望 戦国群雄伝.zip
+:	:	:	信長の野望 全国版.zip
+:	:	:	信長の野望 覇王伝.zip
+:	:	:	信長の野望 武将風雲録.zip
+:	:	:	水滸伝.zip
+:	:	:	世界征服セット.zip
+:	:	:	生中継68.zip
+:	:	:	脊髄反射でアッチョー.zip
+:	:	:	倉庫番リベンジ.zip
+:	:	:	蒼き狼と白き雌鹿 ジンギスカン.zip
+:	:	:	蒼き狼と白き雌鹿 元朝秘史.zip
+:	:	:	太閤立志伝.zip
+:	:	:	大戦略3.zip
+:	:	:	大魔界村.zip
+:	:	:	男弾.zip
+:	:	:	超連射.zip
+:	:	:	提督の決断.zip
+:	:	:	天下統一.zip
+:	:	:	桃太郎伝説.zip
+:	:	:	道化師殺人事件.zip
+:	:	:	日本語ワードプロセッサv110.zip
+:	:	:	熱血高校ドッジボール部.zip
+:	:	:	爆裂矩形弾.zip
+:	:	:	遥かなるオーガスタSET.zip
+:	:	:	琥珀色の遺言.zip
+:	:	:	FILE TYPE
+:	:	:	:	AJAX.LZH
+:	:	:	:	ALGOS.LZH
+:	:	:	:	ARCNOID.LZH
+:	:	:	:	BARADUK.LZH
+:	:	:	:	BUBBLE.LZH
+:	:	:	:	BUTA.LZH
+:	:	:	:	CUBE_RUN.LZH
+:	:	:	:	DBUSTER.LZH
+:	:	:	:	DIGDUG.LZH
+:	:	:	:	FALYLAND.ZIP
+:	:	:	:	GOKUU.LZH
+:	:	:	:	ISITER.LZH
+:	:	:	:	I_FIGHT.LZH
+:	:	:	:	KTIGER.LZH
+:	:	:	:	LASBGAS.LZH
+:	:	:	:	L_RIBLE.LZH
+:	:	:	:	MABLE.LZH
+:	:	:	:	MACHEN.LZH
+:	:	:	:	MrDO.LZH
+:	:	:	:	NAIOUS.LZH
+:	:	:	:	PACLAND.LZH
+:	:	:	:	PYOPYO.LZH
+:	:	:	:	QUATH.LZH
+:	:	:	:	SAIVALON.LZH
+:	:	:	:	SINSIA.LZH
+:	:	:	:	TERAKRTA.LZH
+:	:	:	:	BLODIA
+:	:	:	:	:	A_BLODIA.LZH
+:	:	:	:	:	B_BLODIA.LZH
+:	:	:	:	CASTLES
+:	:	:	:	:	A_CASTLE.LZH
+:	:	:	:	:	B_CASTLE.LZH
+:	:	:	:	FREEGAME
+:	:	:	:	:	A_L_SOLD.LZH
+:	:	:	:	:	B_L_SOLD.LZH
+:	:	:	:	:	HAJIKI15.LZH
+:	:	:	:	:	KICK2V10.LZH
+:	:	:	:	:	SKI.LZH
+:	:	:	:	F_FIGHT
+:	:	:	:	:	A_FFIGHT.LZH
+:	:	:	:	:	B_FFIGHT.LZH
+:	:	:	:	GAROU_SP
+:	:	:	:	:	A_GAROSP.LZH
+:	:	:	:	:	B_GAROSP.LZH
+:	:	:	:	:	C_GAROSP.LZH
+:	:	:	:	:	D_GAROSP.LZH
+:	:	:	:	:	E_GAROSP.LZH
+:	:	:	:	:	F_GAROSP.LZH
+:	:	:	:	:	G_GAROSP.LZH
+:	:	:	:	:	H_GAROSP.LZH
+:	:	:	:	:	I_GAROSP.LZH
+:	:	:	:	GRADIUS2
+:	:	:	:	:	A_GRA2.LZH
+:	:	:	:	:	B_GRA2.LZH
+:	:	音楽データ
+:	:	:	mdx
+:	:	:	:	T＆Eソフト
+:	:	:	:	:	HYDLIDE3_X1.ZIP
+:	:	:	:	:	Hydlide_FC.zip
+:	:	:	:	:	LAYDOCK_MZ.zip
+:	:	:	:	:	PSY-O-BLADE.ZIP
+:	:	:	:	:	SuperLAYDOCK.ZIP
+:	:	:	:	:	hydlide3.zip
+:	:	:	:	:	ﾙｰﾝﾜｰｽ.zip
+:	:	:	:	アーケード
+:	:	:	:	:	ASO.ZIP
+:	:	:	:	:	BOMB_JACK.ZIP
+:	:	:	:	:	BattleGaregga.zip
+:	:	:	:	:	Crazy_Climber.zip
+:	:	:	:	:	Image_Fight.zip
+:	:	:	:	:	Midnight_md.zip
+:	:	:	:	:	R-TYPE.zip
+:	:	:	:	:	R-Type 2.zip
+:	:	:	:	:	StarFORCE.zip
+:	:	:	:	:	slapfight.zip
+:	:	:	:	:	究極Tiger.zip
+:	:	:	:	:	最後の忍道.zip
+:	:	:	:	:	熱血高校ドッジボール部.ZIP
+:	:	:	:	:	与作.zip
+:	:	:	:	エニックス
+:	:	:	:	:	D_Quest1.zip
+:	:	:	:	:	D_Quest2.zip
+:	:	:	:	:	D_Quest3.zip
+:	:	:	:	:	D_Quest4.zip
+:	:	:	:	:	JESUS.zip
+:	:	:	:	:	JESUS2.ZIP
+:	:	:	:	:	MistyBlue.zip
+:	:	:	:	:	RAYIEZA.zip
+:	:	:	:	:	アンジェラス.ZIP
+:	:	:	:	:	オホーツクに消ゆ.zip
+:	:	:	:	カプコン
+:	:	:	:	:	1943.zip
+:	:	:	:	:	1943kai.zip
+:	:	:	:	:	STRIDER飛竜.ZIP
+:	:	:	:	:	S_Fighter2.zip
+:	:	:	:	:	SuperSF2_X68.zip
+:	:	:	:	:	アレスの翼.ZIP
+:	:	:	:	:	戦場の狼.zip
+:	:	:	:	:	大魔界村.zip
+:	:	:	:	:	天地を喰らう.ZIP
+:	:	:	:	:	闘いの挽歌.zip
+:	:	:	:	:	魔界村.zip
+:	:	:	:	コナミ
+:	:	:	:	:	A_jax_X68.zip
+:	:	:	:	:	Ajax_AC.zip
+:	:	:	:	:	F1Spirit.zip
+:	:	:	:	:	FlakATTACK.zip
+:	:	:	:	:	GOFERの野望.zip
+:	:	:	:	:	GradiusI.zip
+:	:	:	:	:	GradiusII FC.zip
+:	:	:	:	:	GradiusII x68K.zip
+:	:	:	:	:	GradiusII.zip
+:	:	:	:	:	GradiusIII.zip
+:	:	:	:	:	Pippols.zip
+:	:	:	:	:	QUARTH.ZIP
+:	:	:	:	:	Qbert.zip
+:	:	:	:	:	SNATCHER.ZIP
+:	:	:	:	:	Super魂斗羅.zip
+:	:	:	:	:	ThunderCROSS.zip
+:	:	:	:	:	YieArKUNG-FU.zip
+:	:	:	:	:	gradius2 msx.zip
+:	:	:	:	:	twinbee.zip
+:	:	:	:	:	けっきょく南極大冒険.zip
+:	:	:	:	:	その他.ZIP
+:	:	:	:	:	でたなツインビー.zip
+:	:	:	:	:	もえろツインビー.zip
+:	:	:	:	:	わんぱくアスレチック.zip
+:	:	:	:	:	ウシャス.ZIP
+:	:	:	:	:	ガリウス.ZIP
+:	:	:	:	:	キューブリック.ZIP
+:	:	:	:	:	キングコング2_MSX.ZIP
+:	:	:	:	:	グリーンベレー.ZIP
+:	:	:	:	:	パロディウスだ！X68K.zip
+:	:	:	:	:	パロディウスだ！_AC.zip
+:	:	:	:	:	メタルギア.zip
+:	:	:	:	:	悪魔城伝説.zip
+:	:	:	:	:	王家の谷.zip
+:	:	:	:	:	火の鳥_MSX.zip
+:	:	:	:	:	五右衛門からくり道中.zip
+:	:	:	:	:	魂斗羅.zip
+:	:	:	:	:	沙羅曼蛇.zip
+:	:	:	:	:	新入社員とおる君.ZIP
+:	:	:	:	:	生中継６８.zip
+:	:	:	:	:	大列車強盗.zip
+:	:	:	:	:	特殊部隊ジャッカル.zip
+:	:	:	:	:	魔獣の王国.zip
+:	:	:	:	:	魔城伝説.zip
+:	:	:	:	:	夢大陸アドベンチャー.zip
+:	:	:	:	:	ｸﾞｰﾆｰｽﾞ.zip
+:	:	:	:	:	ﾄﾞﾗｷｭﾗAC.zip
+:	:	:	:	:	ﾄﾞﾗｷｭﾗFC.zip
+:	:	:	:	:	ﾄﾞﾗｷｭﾗ_msx.zip
+:	:	:	:	:	ﾄﾞﾗｷｭﾗ_x68k.zip
+:	:	:	:	ズーム
+:	:	:	:	:	GENOSIDE2.ZIP
+:	:	:	:	:	OverTake.zip
+:	:	:	:	:	PHALANX.ZIP
+:	:	:	:	:	ラグーン.zip
+:	:	:	:	セガ
+:	:	:	:	:	AfterBurner2.zip
+:	:	:	:	:	AfterBurner2X68.zip
+:	:	:	:	:	AlexKid.zip
+:	:	:	:	:	Cp_LoadRunner.zip
+:	:	:	:	:	G-LOC.zip
+:	:	:	:	:	GalaxyForce.zip
+:	:	:	:	:	HangON.zip
+:	:	:	:	:	OutRun.zip
+:	:	:	:	:	Quartet.zip
+:	:	:	:	:	SDI.ZIP
+:	:	:	:	:	SHangON_AC.ZIP
+:	:	:	:	:	SHangON_X68K.ZIP
+:	:	:	:	:	SONIC_THE_HEDGEHOG.ZIP
+:	:	:	:	:	Thunder Force 3.zip
+:	:	:	:	:	Thunder Force 4.zip
+:	:	:	:	:	ThunderBladeX68K.zip
+:	:	:	:	:	fantzy_zone.zip
+:	:	:	:	:	sonic.zip
+:	:	:	:	:	spaceHARRIER.zip
+:	:	:	:	:	ガルケーブ.ZIP
+:	:	:	:	:	ダイナマイトダックス.zip
+:	:	:	:	:	テトリス.zip
+:	:	:	:	:	バーチャレーシング.zip
+:	:	:	:	:	フリッキー.zip
+:	:	:	:	:	モンスターランド.zip
+:	:	:	:	:	獣王記.zip
+:	:	:	:	:	北斗の拳.zip
+:	:	:	:	タイトー
+:	:	:	:	:	ARKANOID.ZIP
+:	:	:	:	:	BubbleBobble.zip
+:	:	:	:	:	CAMELTRY.ZIP
+:	:	:	:	:	CHACKN_POP.ZIP
+:	:	:	:	:	DARIUS.ZIP
+:	:	:	:	:	HalleysComet.zip
+:	:	:	:	:	In_focus.zip
+:	:	:	:	:	METAL_BLACK.ZIP
+:	:	:	:	:	M_Scramble.zip
+:	:	:	:	:	MidNightLanding.zip
+:	:	:	:	:	RainbowIsland.zip
+:	:	:	:	:	TheNewzealandStory.zip
+:	:	:	:	:	ninja.zip
+:	:	:	:	:	サイバリオン.ZIP
+:	:	:	:	:	ダライアス外伝.zip
+:	:	:	:	:	チェイスHQ.zip
+:	:	:	:	:	トップランディング.zip
+:	:	:	:	:	フルスロットル.zip
+:	:	:	:	:	レイフォース.zip
+:	:	:	:	:	黄金の城.zip
+:	:	:	:	ナムコ
+:	:	:	:	:	ASSAULT.ZIP
+:	:	:	:	:	BOSCONIAN.ZIP
+:	:	:	:	:	Baraduke.zip
+:	:	:	:	:	BurningFORCE.zip
+:	:	:	:	:	DIGDUG.ZIP
+:	:	:	:	:	Dragon Buster.zip
+:	:	:	:	:	DragonSABER.zip
+:	:	:	:	:	DragonSPIRIT.zip
+:	:	:	:	:	Galaga.zip
+:	:	:	:	:	Galaxian 3.zip
+:	:	:	:	:	ISHTAR.ZIP
+:	:	:	:	:	MARCHEN.ZIP
+:	:	:	:	:	Mappy.zip
+:	:	:	:	:	MetalHAWK.zip
+:	:	:	:	:	PACMANIA.ZIP
+:	:	:	:	:	PacLand.zip
+:	:	:	:	:	PacMan.zip
+:	:	:	:	:	RollingTHUNDER.zip
+:	:	:	:	:	STAR_BLADE.ZIP
+:	:	:	:	:	SkyKid.zip
+:	:	:	:	:	digdug2.zip
+:	:	:	:	:	doruaga.zip
+:	:	:	:	:	galaga88.zip
+:	:	:	:	:	metoroCross.zip
+:	:	:	:	:	poleposition.zip
+:	:	:	:	:	ゼビウスX68K.zip
+:	:	:	:	:	フェリオス.zip
+:	:	:	:	:	モトス.zip
+:	:	:	:	:	リブルラブル.zip
+:	:	:	:	:	ワルキューレの伝説.zip
+:	:	:	:	:	源平討魔伝.zip
+:	:	:	:	:	ｽﾀｰﾗｽﾀｰ.zip
+:	:	:	:	パソコン
+:	:	:	:	:	BombermanX68K.zip
+:	:	:	:	:	GJ.ZIP
+:	:	:	:	:	Hell_hound.zip
+:	:	:	:	:	KnightArms.zip
+:	:	:	:	:	Lemmings.zip
+:	:	:	:	:	MAD_STALKER_X68.ZIP
+:	:	:	:	:	METAL_SIGHT.ZIP
+:	:	:	:	:	MID GARTS.ZIP
+:	:	:	:	:	Oh！ Hajiki！.zip
+:	:	:	:	:	Populous.zip
+:	:	:	:	:	Relics.zip
+:	:	:	:	:	SCHEME.ZIP
+:	:	:	:	:	SILPH02.zip
+:	:	:	:	:	SION.ZIP
+:	:	:	:	:	SION2.ZIP
+:	:	:	:	:	SterWARS.zip
+:	:	:	:	:	Super大戦略.zip
+:	:	:	:	:	The man I love.zip
+:	:	:	:	:	TheCockpit.zip
+:	:	:	:	:	Thunder FORCE2.zip
+:	:	:	:	:	VIEW_POINT X68k.ZIP
+:	:	:	:	:	X68000Theme.ZIP
+:	:	:	:	:	luxsor.zip
+:	:	:	:	:	らぷてっく.zip
+:	:	:	:	:	アクアレス.ZIP
+:	:	:	:	:	カサブランカに愛を.ZIP
+:	:	:	:	:	グラナダ.ZIP
+:	:	:	:	:	ザナック.ZIP
+:	:	:	:	:	シルフィード.ZIP
+:	:	:	:	:	ソルフィース.zip
+:	:	:	:	:	テトリスX68K.zip
+:	:	:	:	:	デスブリンガー.zip
+:	:	:	:	:	トリトーンMSX.zip
+:	:	:	:	:	ニューラルギア.zip
+:	:	:	:	:	ノスタルジア1907.zip
+:	:	:	:	:	バルーサの復讐.zip
+:	:	:	:	:	ブルトン・レイ.zip
+:	:	:	:	:	マーブルマッドネス.zip
+:	:	:	:	:	ヤシャ.zip
+:	:	:	:	:	殺人倶楽部DX.ZIP
+:	:	:	:	:	斬～陽炎の時代.zip
+:	:	:	:	:	紫醜羅.zip
+:	:	:	:	:	大戦略III90.zip
+:	:	:	:	:	超連射68k.zip
+:	:	:	:	:	天下統一.ZIP
+:	:	:	:	:	桃太郎伝説.zip
+:	:	:	:	:	忍者影x1.ZIP
+:	:	:	:	:	ｼｬｯﾌﾙﾊﾟｯｸｶﾌｪ.zip
+:	:	:	:	:	ｼｭｰﾃｨﾝｸﾞ68k.zip
+:	:	:	:	:	ｽﾀｰｸﾙｰｻﾞｰ X68K.zip
+:	:	:	:	:	ｽﾀｰｸﾙｰｻﾞｰ.zip
+:	:	:	:	:	ﾌﾟﾘﾝｽｵﾌﾞﾍﾟﾙｼｬ.zip
+:	:	:	:	:	ﾗｽﾄﾊﾙﾏｹﾞﾄﾞﾝ.zip
+:	:	:	:	:	琥珀色の遺言.zip
+:	:	:	:	ファミコン
+:	:	:	:	:	B-Wing.zip
+:	:	:	:	:	BOMBERMAN.ZIP
+:	:	:	:	:	CluCluLand.zip
+:	:	:	:	:	DiskSystem IPL.zip
+:	:	:	:	:	FinalFantasy.zip
+:	:	:	:	:	Flappy_FC.zip
+:	:	:	:	:	GAL.ZIP
+:	:	:	:	:	GIN3_BGM.ZIP
+:	:	:	:	:	Romancing SaGa.zip
+:	:	:	:	:	Super Star Force.zip
+:	:	:	:	:	その他.zip
+:	:	:	:	:	アトランティスの謎.ZIP
+:	:	:	:	:	エキサイトバイク.ZIP
+:	:	:	:	:	オホーツクに消ゆ.ZIP
+:	:	:	:	:	スーパーマリオ.ZIP
+:	:	:	:	:	スペランカー.ZIP
+:	:	:	:	:	ゼルダの伝説.zip
+:	:	:	:	:	チャレンジャー.zip
+:	:	:	:	:	デビルワールド.zip
+:	:	:	:	:	ドンキーコング Jr.zip
+:	:	:	:	:	ドンキーコング.zip
+:	:	:	:	:	バベルの塔.zip
+:	:	:	:	:	パルテナの鏡.zip
+:	:	:	:	:	ファミリーベーシック.zip
+:	:	:	:	:	ボコスカウォーズ.zip
+:	:	:	:	:	マクロス.zip
+:	:	:	:	:	マリオブラザーズ.zip
+:	:	:	:	:	メトロイド.zip
+:	:	:	:	:	リンクの冒険.zip
+:	:	:	:	:	レッキングクルー.zip
+:	:	:	:	:	ロードランナー.zip
+:	:	:	:	:	新鬼ヶ島.ZIP
+:	:	:	:	:	忍者ハットリくん.ZIP
+:	:	:	:	:	迷宮組曲.zip
+:	:	:	:	:	ｱｰﾊﾞﾝﾁｬﾝﾋﾟｵﾝ.zip
+:	:	:	:	:	ｽﾀｰｿﾙｼﾞｬｰ.zip
+:	:	:	:	ファルコム
+:	:	:	:	:	XANADU_sc2.ZIP
+:	:	:	:	:	Xanadu.zip
+:	:	:	:	:	Xanadu_MSX.zip
+:	:	:	:	:	Xanadu_X1.zip
+:	:	:	:	:	YS1.ZIP
+:	:	:	:	:	Ys1_MSX.zip
+:	:	:	:	:	Ys1_X68k.zip
+:	:	:	:	:	Ys3_X68K.zip
+:	:	:	:	:	YsII_X1.zip
+:	:	:	:	:	YsIIpc88.zip
+:	:	:	:	:	ロマンシア.zip
+:	:	:	:	:	太陽の神殿.zip
+:	:	:	:	:	ｿｰｻﾘｱﾝX1.zip
+:	:	:	:	:	ｿｰｻﾘｱﾝpc88.zip
+:	:	:	:	:	ﾄﾞﾗｺﾞﾝｽﾚIV.zip
+:	:	:	:	光栄
+:	:	:	:	:	ジンギスカンX68K.ZIP
+:	:	:	:	:	ランペルール.zip
+:	:	:	:	:	伊忍道.zip
+:	:	:	:	:	元朝秘史.zip
+:	:	:	:	:	項劉記X68K.zip
+:	:	:	:	:	三國志pc88.ZIP
+:	:	:	:	:	三國志１X68K.ZIP
+:	:	:	:	:	三國志２X68K.ZIP
+:	:	:	:	:	三國志３X68K.ZIP
+:	:	:	:	:	信長の野望群雄伝X68K.ZIP
+:	:	:	:	:	信長の野望全国版X68K.ZIP
+:	:	:	:	:	信長の野望全国版pc88.ZIP
+:	:	:	:	:	信長の野望覇王伝X68K.ZIP
+:	:	:	:	:	信長の野望武将風雲録X68K.ZIP
+:	:	:	:	:	水滸伝x68k.zip
+:	:	:	:	:	太閤立志伝X68K.zip
+:	:	:	:	:	提督の決断x68k.zip
+:	:	:	midi
+:	:	:	:	forMT-32.zip
+:	:	:	:	forSC-55.zip
+:	:	:	zmusic
+:	:	:	:	YM2151.ZIP
+:	:	:	:	withMIDI.zip
+:	:	:	:	餓狼伝説sp.zip
+:	:	:	プレイヤー
+:	:	:	:	INMDX114.LZH
+:	:	:	:	X68Sound_020615.zip
+:	:	:	:	in_mdxdrv.zip
+:	:	:	:	mdxwin2270.zip
+:	:	:	:	mxdrv200b.lzh
+:	:	:	:	mxv200b.lzh
+:	:	:	:	mxwav200a.lzh
+:	:	:	:	pcmplay.lzh
+:	:	:	:	z04c.zip
+:	そのた
+:	:	KNIGHT.LZH
+:	:	MANESIS
+:	:	:	MANESIS.LZH
+:	:	:	M_MIDI.LZH
+:	:	gr3
+:	:	:	gura3.lzh
+:	:	:	setumei.lzh
+:	:	超連射Win
+:	:	:	CH010912.EXE
+:	ツール
+:	:	MsxBasic Viewer.lzh
+:	:	Data BASE
+:	:	:	NECoLib200.zip
+:	:	:	psps2.zip
+:	:	JOYSTICK
+:	:	:	JA133b3.lzh
+:	:	:	PA.LZH
+:	:	:	jtk374.zip
+:	:	MSXディスク・テープの作成
+:	:	:	CAS相互変換.zip
+:	:	:	P6DatRec.lzh
+:	:	:	テープイメージ作成.htm
+:	:	:	ディスクイメージ製作セット.zip
+:	:	ROM管理
+:	:	:	CLR MAME
+:	:	:	:	MAME v0.69 (cm).zip
+:	:	:	:	cmp300.zip
+:	:	:	:	使用上の注意.txt
+:	:	:	RomCenter
+:	:	:	:	Jpj_rc262_c2.zip
+:	:	:	:	MAME v0.78 (rc).zip
+:	:	:	:	rc262.zip
+:	:	:	:	使用上の注意.txt
+:	:	サウンドログ
+:	:	:	S98 soundlog解説.zip
+:	:	:	S98Loop.zip
+:	:	:	S98guide_j.txt
+:	:	:	S98utyDeleteResttime20010513.zip
+:	:	:	mfhe141.zip
+:	:	ディスク吸出し
+:	:	:	吸出し専用ディスク.zip
+:	:	:	5インチディスク情報
+:	:	:	:	5インチドライブ接続ケーブル.jpg
+:	:	:	:	5FDD
+:	:	:	:	:	1-fm7-fdd.html
+:	:	:	:	:	2-fd1155d.html
+:	:	:	:	:	2-yd-380.html
+:	:	:	:	:	2-yd-580.html
+:	:	:	:	:	2-yd-625.html
+:	:	:	:	:	2000-11-all-crt.jpg
+:	:	:	:	:	2000-11-all-crt2.jpg
+:	:	:	:	:	crt-f.jpg
+:	:	:	:	:	ekisyo-f.jpg
+:	:	:	:	:	ekisyo-ura.jpg
+:	:	:	:	:	fd1155d-front-ura.jpg
+:	:	:	:	:	fd1155d-front.jpg
+:	:	:	:	:	fd1155d-pt-sw.jpg
+:	:	:	:	:	fd1155d-ria.jpg
+:	:	:	:	:	fdd-cabel2.jpg
+:	:	:	:	:	fdd-f.jpg
+:	:	:	:	:	fdd-if-kairo-2.gif
+:	:	:	:	:	fdd-if-kairo.gif
+:	:	:	:	:	fdd-in-if.jpg
+:	:	:	:	:	fdd-left2.jpg
+:	:	:	:	:	fdd-right.jpg
+:	:	:	:	:	fdd-sw-kairo.gif
+:	:	:	:	:	pcat-580-1.jpg
+:	:	:	:	:	pcat-580-2.jpg
+:	:	:	:	:	pow-cable.jpg
+:	:	:	:	:	rgb-crt-f.jpg
+:	:	:	:	:	rgb-crt-yoko.jpg
+:	:	:	:	:	sw-cabel.jpg
+:	:	:	:	:	yd380-front-ura.jpg
+:	:	:	:	:	yd380-front.jpg
+:	:	:	:	:	yd380-jp-sw1.gif
+:	:	:	:	:	yd380-pt-sw.jpg
+:	:	:	:	:	yd380-ria.jpg
+:	:	:	:	:	yd580-front-ura.jpg
+:	:	:	:	:	yd580-front.jpg
+:	:	:	:	:	yd580-pt-sw.jpg
+:	:	:	:	:	yd580-ria.jpg
+:	:	:	:	:	yd625-front-ura.jpg
+:	:	:	:	:	yd625-front.jpg
+:	:	:	:	:	yd625-pt-sw.jpg
+:	:	:	:	:	yd625-ria.jpg
+:	:	:	HDD吸出し
+:	:	:	:	getdrive.lzh
+:	:	:	ディスク吸出し D88へ（DOS）
+:	:	:	:	Ditt150.lzh
+:	:	:	国内仕様5インチディスクドライバ
+:	:	:	:	3m102.lzh
+:	:	ディスク変換
+:	:	:	editd167.lzh
+:	:	:	vf011010.zip
+:	:	:	D88系
+:	:	:	:	D88MAN.ZIP
+:	:	:	:	d88uty13.lzh
+:	:	:	P6DSK to D88
+:	:	:	:	conv88.lzh
+:	:	:	X1 2D
+:	:	:	:	X1img1023.lzh
+:	:	:	イメージマウント
+:	:	:	:	NVD0A12.LZH
+:	:	:	ビューア
+:	:	:	:	ND0A17.LZH
+:	:	:	フォーマット変換
+:	:	:	:	NHC0A13.LZH
+:	:	総合ランチャー
+:	:	:	SlaunchB_011.zip
+:	:	:	al8w0154.lzh
+:	パソコン解答ヒント
+:	:	MSXグラディウスシリーズ.ZIP
+:	:	MYST ガイド.ZIP
+:	:	NEWアダム＆イブ ヒント.txt
+:	:	Outroid map.jpg
+:	:	SUPER RAMBO.ZIP
+:	:	Xanadu シナリオ2攻略.zip
+:	:	aspic_sp.zip
+:	:	black onyx.zip
+:	:	hydlide1解答.htm
+:	:	hydlide2解答.zip
+:	:	hydlide3解答.zip
+:	:	Ｔhe man Ｉ love 解答.zip
+:	:	アステカのヒント.txt
+:	:	アスピックのマップ.zip
+:	:	アラモ.ZIP
+:	:	イーガー皇帝の逆襲.ZIP
+:	:	カサブランカに愛を解答.zip
+:	:	ガリウスの迷宮.ZIP
+:	:	ガリウス攻略.ZIP
+:	:	キングコング２攻略.zip
+:	:	グーニーズMSX.zip
+:	:	サイオブレード.zip
+:	:	サバッシュ2攻略.ZIP
+:	:	サラダ国のトマト姫.zip
+:	:	ザ・スキーム.ZIP
+:	:	ザース解法.txt
+:	:	シムシティー.ZIP
+:	:	シャロム.zip
+:	:	シルフィード.zip
+:	:	シヴィライゼーション基本攻略法.ZIP
+:	:	ジーザス.ZIP
+:	:	ジェットセットウイリー.ZIP
+:	:	スーパートリトーンのヒント.txt
+:	:	スーパーランナー.ZIP
+:	:	スーパーランボースペシャル.ZIP
+:	:	スタークルーザー.zip
+:	:	ゼリアード攻略.zip
+:	:	ソーサリアン攻略.zip
+:	:	ダンジョンマスターシリーズ.zip
+:	:	ディーヴァPC98版攻略.zip
+:	:	ディーヴァ攻略.zip
+:	:	デスブリンガー攻略.zip
+:	:	デゼニランド.zip
+:	:	デゼニワールド　解答.zip
+:	:	トリトーン攻略.zip
+:	:	ドラキュラX68K.zip
+:	:	ドラゴンスレイヤー.zip
+:	:	ドラゴンスレイヤー4.zip
+:	:	ドラッケン.zip
+:	:	ネオアトラス攻略.zip
+:	:	ファイアークリスタル.zip
+:	:	ポートピア連続殺人事件解答.zip
+:	:	マンハッタンレクレイム.zip
+:	:	メタルギア ソリッドスネーク攻略.zip
+:	:	メタルギア攻略.zip
+:	:	メルヘンベール1攻略.zip
+:	:	メルヘンベール2攻略.zip
+:	:	ラストハルマゲドン.zip
+:	:	ラプラスの魔.zip
+:	:	ランボー.zip
+:	:	リグラス.zip
+:	:	レリクス.txt
+:	:	ロードス島戦記 灰色の魔女.zip
+:	:	ロマンシア解答.zip
+:	:	暗黒星雲.zip
+:	:	伊忍道攻略.zip
+:	:	維新の嵐.zip
+:	:	黄金の墓.zip
+:	:	軽井沢誘拐案内 ヒント集.htm
+:	:	殺人倶楽部.ZIP
+:	:	三国志IV　歴史イベント.htm
+:	:	三國志2.ZIP
+:	:	三國志3.ZIP
+:	:	三國志4.ZIP
+:	:	太陽の神殿.zip
+:	:	地球戦士ライーザ.zip
+:	:	天翔記攻略.ZIP
+:	:	道化師殺人事件 ヒント.zip
+:	:	道化師殺人事件 攻略.zip
+:	:	道化師殺人事件 攻略データ.zip
+:	:	覇王伝.zip
+:	:	覇邪の封印.zip
+:	:	白と黒の伝説 百鬼編.zip
+:	:	白と黒の伝説ヒント.zip
+:	:	抜忍伝説ヒント.zip
+:	:	武将風雲録イベント.zip
+:	:	北斗の拳 PC88.zip
+:	:	北斗の拳 ヒント.png
+:	:	夢大陸アドベンチャー攻略.zip
+:	:	惑星メフィウス 解答.zip
+:	:	ﾃﾗ４００１.zip
+:	:	琥珀色の遺言ヒント.zip
+
+各ファイルのサイズ
+FM-77AVxx Bios.zip,571790 Byte
+FM-77ゲームリスト.xls,26624 Byte
+FM-7ゲームリスト.xls,109568 Byte
+FM77L4 CM.mpg,5226676 Byte
+77AVデモディスク.zip,138409 Byte
+DeathForce.zip,401603 Byte
+FM-new7 demo.ZIP,1253824 Byte
+FM77AV40SX 入門DISK.ZIP,299396 Byte
+FMグラフィックエディタ2.ZIP,325894 Byte
+GUTCHAN BANK.zip,57575 Byte
+HYDLIDE2.zip,132560 Byte
+LAYDOCK.zip,216692 Byte
+LUXSOR.zip,329916 Byte
+Silphied.zip,295861 Byte
+SPACE HARRIER.ZIP,146797 Byte
+TETRIS FM77AV.ZIP,221900 Byte
+Ys2.zip,691905 Byte
+Ys_AV.zip,363417 Byte
+テラ4001.zip,2482202 Byte
+惑星メフィウス.zip,1521884 Byte
+暗黒星雲.zip,3634543 Byte
+ハイドライド2_FM-77.txt,103 Byte
+レイドックFM77.txt,175 Byte
+HBF1XDJ.ZIP,1115567 Byte
+アウトロイド.zip,20503 Byte
+ゴーストバスターズ.zip,23611 Byte
+スパルタンX.zip,15024 Byte
+ゼータ2000.zip,19075 Byte
+ディスクウォーリア.zip,14976 Byte
+トリトーン.zip,20298 Byte
+フラッピー.zip,9391 Byte
+ポートピア連続殺人事件.zip,21778 Byte
+ムー大陸の謎.zip,20215 Byte
+ヴォルガード.zip,17746 Byte
+王将.zip,11186 Byte
+続黄金の墓.zip,63057 Byte
+黄金の墓.zip,30302 Byte
+Adam_Eve.zip,112308 Byte
+ALESTE2.ZIP,707683 Byte
+American Success.zip,132025 Byte
+ANGELUS.ZIP,1929701 Byte
+Ankoku shinwa.zip,343514 Byte
+BlackOnyx.zip,29444 Byte
+Daisenryaku 2.zip,415933 Byte
+DAIVA.zip,156587 Byte
+DANTE.zip,222299 Byte
+DANTE2.zip,425476 Byte
+Diablo.zip,53377 Byte
+DIGAN.ZIP,1173947 Byte
+DiskPAC.zip,398066 Byte
+F1 TOOLDISK2.zip,280929 Byte
+F1Spirit 3D Special.zip,328103 Byte
+Fainal Fantasy.zip,227849 Byte
+Fuunroku.zip,673324 Byte
+GANDARA.ZIP,476234 Byte
+GENGHIS KHAN.ZIP,356203 Byte
+Ginkou Gouto.zip,10365 Byte
+GORBY PIPELINE.ZIP,48705 Byte
+Greatest driver.zip,257468 Byte
+Gunjin Syougi.zip,137152 Byte
+Gunyuden.zip,340826 Byte
+Hajafuin.zip,172622 Byte
+Halnote Gstudio.zip,324050 Byte
+HARADIUS.ZIP,112351 Byte
+HBF1-XDJ.zip,243165 Byte
+HYDEFOS.ZIP,349922 Byte
+Hydlide Msx2.zip,71033 Byte
+hydlide3 Disksave Ver.zip,260871 Byte
+IMAGINE FMMUSIC.ZIP,223803 Byte
+Konami Game Collection.zip,744166 Byte
+Konami-old.zip,475546 Byte
+Kurutta Seisyun.zip,549860 Byte
+Laydock.zip,166366 Byte
+Laydock2.zip,530676 Byte
+Marchen Veil.zip,128719 Byte
+Master of Monsters.zip,349275 Byte
+MIDGARTS.ZIP,1363752 Byte
+MSXDOS.zip,56204 Byte
+nemesis2 plus.zip,92855 Byte
+Ninja.zip,150734 Byte
+Nobunaga1.zip,30465 Byte
+Okenotani DiskVer.zip,32339 Byte
+Ougon.zip,93301 Byte
+PACMANIA.zip,61554 Byte
+PIXEL3.ZIP,89998 Byte
+ProjectA.zip,13351 Byte
+PSY-O-Blade.ZIP,1516723 Byte
+PSYCHO WORLD.ZIP,414684 Byte
+R-TYPE.zip,109377 Byte
+RuneWorth.zip,911230 Byte
+Sangokusi.zip,295947 Byte
+Sangokusi2.zip,583671 Byte
+SCCMARJP.zip,367887 Byte
+SD SNATCHER.zip,948085 Byte
+Seed Of Dragon.zip,1410590 Byte
+Shin Golvellius.zip,631697 Byte
+Shrines of Enigma.zip,369583 Byte
+SiroKuro1 Hyakki.zip,115126 Byte
+SiroKuro2 RinneTensei.zip,89795 Byte
+SiroKuro3 Aska.zip,120362 Byte
+Snatcher.zip,1363038 Byte
+Sony Super Game Collection.zip,46148 Byte
+SORCERIAN.ZIP,441404 Byte
+Sparky.zip,7752 Byte
+Sugo8.zip,99665 Byte
+Suikoden.zip,296094 Byte
+Synth_Sau.zip,111061 Byte
+Tanba.zip,133993 Byte
+Tdf.zip,69940 Byte
+TETRIS.zip,186603 Byte
+Tritorn2.zip,530955 Byte
+Uchu Keisatu.zip,549371 Byte
+Undeadline.zip,393114 Byte
+Xanadu MSX2.zip,297065 Byte
+Yajiuman.zip,1224376 Byte
+Yoshida Kensetsu.zip,359430 Byte
+Yoshida Kntsuerun.zip,277021 Byte
+Yoshida Koumuten.zip,234329 Byte
+Ys3.zip,710279 Byte
+ALESTE.ZIP,10716 Byte
+aleste2.zip,12912 Byte
+ALESTEG.ZIP,8678 Byte
+ASHGUIN2.ZIP,27181 Byte
+ASHGUIN3.ZIP,25569 Byte
+CONTRA.ZIP,12017 Byte
+dante.zip,21026 Byte
+dante2.zip,17583 Byte
+darwin.zip,6002 Byte
+DQ.ZIP,4575 Byte
+DQ2.ZIP,14991 Byte
+F1Spirit 3DSP.zip,17334 Byte
+f1spirit.zip,12934 Byte
+FF.ZIP,17383 Byte
+FIREHAWK.ZIP,31069 Byte
+FMPAC.ZIP,12249 Byte
+galious.zip,18349 Byte
+GD.ZIP,8836 Byte
+hydlide3.zip,9285 Byte
+King Kong2.zip,13011 Byte
+Kings Valley2.zip,15320 Byte
+konamimm.lzh,13902 Byte
+LAYDOCK2.ZIP,17155 Byte
+LODOSS.ZIP,24296 Byte
+MAJUTUSI.ZIP,23183 Byte
+Majyo Densetu.zip,7499 Byte
+Metal Gear.zip,12964 Byte
+MIDGARTS.ZIP,60708 Byte
+nemesis2.zip,17154 Byte
+nemesis3.zip,34058 Byte
+parodius.zip,22278 Byte
+PENNANT.ZIP,14609 Byte
+PENNANT2.ZIP,16462 Byte
+PSY O Blade.ZIP,16360 Byte
+QUARTH.ZIP,22733 Byte
+R-TYPE.zip,15445 Byte
+REPLICART.ZIP,7869 Byte
+ROMANCIA.ZIP,15286 Byte
+RuneWorth.zip,27422 Byte
+Salamander.zip,17007 Byte
+sdsnatch.zip,61147 Byte
+SHALOM.ZIP,16459 Byte
+SHOGUN.ZIP,5275 Byte
+SLAYDOCK.ZIP,43395 Byte
+snatcher.zip,48434 Byte
+Space MANBOW.zip,25072 Byte
+ssnake.zip,45319 Byte
+STRAMARS.ZIP,7086 Byte
+Super LAYDOCK.zip,43893 Byte
+TETRIS.ZIP,13968 Byte
+undeadln.zip,20687 Byte
+usas.zip,24768 Byte
+Vampire Killer.zip,23639 Byte
+XEVIOUS.ZIP,8522 Byte
+Yoshida Kensetu.zip,26274 Byte
+yoshida komuten.zip,2279 Byte
+Yoshida Konzern.zip,20927 Byte
+YUMETADV.ZIP,17636 Byte
+yureikun.zip,18045 Byte
+AEG102.ZIP,19561 Byte
+APED.ZIP,17629 Byte
+bine100.lzh,8473 Byte
+c.lzh,767 Byte
+cs311.lzh,4318 Byte
+diskview.lzh,9541 Byte
+kdu104.lzh,4374 Byte
+kssplay.zip,6459 Byte
+kss変換バッチ slaydock.zip,129971 Byte
+LHPAK103.lzh,12288 Byte
+mapi001.lzh,3190 Byte
+MM207.lzh,41304 Byte
+MSX-View_Apr.lzh,191076 Byte
+PED.ZIP,4917 Byte
+pmext.com,12928 Byte
+REWTY203.LZH,2724 Byte
+super-x.lzh,117317 Byte
+TAPE063.LZH,5569 Byte
+10倍楽しむカートリッジ.txt,388 Byte
+F-1SPIRIT.TXT,476 Byte
+F1SPIRIT 3Dスペシャル.txt,398 Byte
+FMPACユーティリティー.txt,212 Byte
+sd_スナッチャー.txt,72 Byte
+アレスタ_MSX.txt,145 Byte
+アールタイプ_msx.txt,546 Byte
+イーガー皇帝の逆襲.txt,69 Byte
+イース3_msx.txt,125 Byte
+ウシャス.txt,267 Byte
+エルギーザの封印.txt,1542 Byte
+カリオストロの城.txt,478 Byte
+ガリウスの迷宮_msx.txt,1395 Byte
+キングコング2_MSX.txt,548 Byte
+グラディウス_MSX.txt,1210 Byte
+グラディウス２_MSX.txt,461 Byte
+グーニーズ_msx.txt,179 Byte
+ゴーファーの野望.txt,307 Byte
+ザナック.txt,70 Byte
+ザナック_msx2.txt,1540 Byte
+ザナドゥ_msx.txt,114 Byte
+ザナドゥ_msx2.txt,368 Byte
+スーパーレイドック.txt,394 Byte
+ゼビウス_msx.txt,114 Byte
+ソリッドスネーク.txt,802 Byte
+ダーウイン4078_msx.txt,165 Byte
+チャンピオンシップロードランナー.txt,556 Byte
+ツインビー_MSX.txt,426 Byte
+ディーヴァ.txt,3508 Byte
+トリトーン.txt,64 Byte
+ドラゴンスレイヤー4.txt,1108 Byte
+ハイドライド3MSX.txt,1307 Byte
+ハイドライド２_msx.txt,437 Byte
+パックマニア_MSX.txt,103 Byte
+パロディウス_msx.txt,524 Byte
+フラッピー リミテッド８５.txt,312 Byte
+ペイロード.txt,144 Byte
+ボンバーマンスペシャル.txt,552 Byte
+マクロス.txt,218 Byte
+メタルギア.txt,891 Byte
+ロマンシア_MSX.txt,401 Byte
+ロードランナー.txt,147 Byte
+五右衛門からくり道中_MSX.txt,1115 Byte
+夢大陸アドベンチャー.txt,164 Byte
+悪魔城ドラキュラ_MSX.txt,228 Byte
+激突ペナントレース.txt,541 Byte
+激突ﾍﾟﾅﾝﾄﾚｰｽ.txt,1171 Byte
+火の鳥_msx.txt,1176 Byte
+王家の谷FD版.txt,162 Byte
+魔城伝説.txt,397 Byte
+魔法使いWIZ_MSX.txt,238 Byte
+２＋のローマ字変換について.txt,98 Byte
+HALNOTE.ZIP,779137 Byte
+Msxdos22.zip,238225 Byte
+1942.zip,64961 Byte
+A1Spirit.zip,88255 Byte
+AE.ZIP,11509 Byte
+ALESTE infiTime.ZIP,116355 Byte
+ALESTE.zip,116248 Byte
+Alibaba.zip,10056 Byte
+Alpha squadron.zip,11891 Byte
+American Truck.zip,14604 Byte
+Anaza Kaleidoscope.zip,22593 Byte
+Aramo.zip,23242 Byte
+Ashguine2.zip,132263 Byte
+Ashguine3.zip,124555 Byte
+Athletic Land.zip,10814 Byte
+Back To The Future.zip,16293 Byte
+Basikn2.zip,11568 Byte
+Blagger.zip,8955 Byte
+Bokosuka Wars.zip,8147 Byte
+Bomberman Special.zip,12794 Byte
+BOMBERMAN.zip,5467 Byte
+Bosconian.zip,10544 Byte
+Boukenjima INV.zip,17387 Byte
+Boukenjima.zip,17292 Byte
+Bruce Lee.zip,19345 Byte
+Bungeling bay.zip,18850 Byte
+Bungelingbay INV.zip,18844 Byte
+Buru To Marty Kikiippatsu.zip,19278 Byte
+BuruMarty.zip,19246 Byte
+CARFIGHT.ZIP,10467 Byte
+Casio World Open.zip,23174 Byte
+Castle INF.zip,22679 Byte
+Castle.zip,22581 Byte
+CHAKNPOP.zip,12409 Byte
+Championship LodeRunner.zip,17799 Byte
+CHOPLIFT.zip,20086 Byte
+ComeOn Picot.zip,21227 Byte
+Computor OTHELO.zip,9326 Byte
+contora.zip,75060 Byte
+COSMO EXPLORE.ZIP,20422 Byte
+CrazyTrain.zip,6180 Byte
+CrossBlaim.zip,38832 Byte
+DAIVA MSX1.ZIP,147750 Byte
+Darwin 4078.zip,53025 Byte
+DigDug.zip,10300 Byte
+Dokidoki PenginLand.zip,19701 Byte
+Doordoor INF.zip,10925 Byte
+DOORDOOR.zip,10829 Byte
+DORODON.zip,9733 Byte
+Dracula INV.zip,78576 Byte
+Dracula.zip,78566 Byte
+Dragon Quest.zip,57810 Byte
+Dragon Quest2.zip,126139 Byte
+Dr_slayer4 EASY.zip,111221 Byte
+Dr_slayer4.zip,111127 Byte
+Eagle Fighter.zip,13636 Byte
+EggerLand.zip,23697 Byte
+EI.ZIP,9851 Byte
+EIDOLON.ZIP,59572 Byte
+Elevator Action.zip,15850 Byte
+Exerion.zip,8795 Byte
+Exoide-Z Area5.zip,16790 Byte
+Exoide-Z.zip,10861 Byte
+F1spirit.zip,87875 Byte
+Family Stadium.zip,97901 Byte
+Fantasy Zone 2.zip,96037 Byte
+Firebird.zip,91942 Byte
+FLAPPY85.zip,11743 Byte
+FRONTLIN.zip,10868 Byte
+FUUNROKU.zip,614112 Byte
+GALAGA.zip,17028 Byte
+Game Master.zip,11381 Byte
+Game Master2.zip,41020 Byte
+Gameland Special.zip,40559 Byte
+Gekitotu PenantRace.zip,82132 Byte
+Gekitotu PenantRace2.zip,90391 Byte
+Genghis Khan.zip,347297 Byte
+Ghost Basters.zip,21446 Byte
+Goemon.zip,88319 Byte
+GOFER no Yabou.ZIP,175075 Byte
+GOFER-INV.zip,174963 Byte
+GOLFGAME.zip,8507 Byte
+Goonies.zip,25776 Byte
+GPWORLD.ZIP,18791 Byte
+Gradius.zip,56324 Byte
+gradius2 allrom Ver.zip,94436 Byte
+Gradius2 Beta Ver.zip,90169 Byte
+Gradius2.zip,94311 Byte
+Gulkave.zip,21007 Byte
+Gunyuden.zip,318293 Byte
+Hai No Majutsushi.zip,82354 Byte
+HERO.zip,12283 Byte
+Heroes Of The Lance.zip,297196 Byte
+HoleInOne Pro.zip,25679 Byte
+HYDLIDE MSX1.ZIP,17319 Byte
+Hydlide2 INF.zip,64449 Byte
+HYDLIDE2.ZIP,64450 Byte
+HYDLIDE3 MSX1.ZIP,197058 Byte
+HYDLIDE3 MSX2 upEXP.ZIP,251804 Byte
+HYDLIDE3 MSX2.zip,253148 Byte
+Hyper Olympic1.zip,12615 Byte
+Hyper Olympic2.zip,12833 Byte
+Iga Ninpo Cho.zip,10513 Byte
+Iga Ninpo Cho2.zip,17540 Byte
+Isin No Arashi.zip,282819 Byte
+Jetsetwirry INV.zip,13708 Byte
+Jetsetwirry.zip,13585 Byte
+Jiko Chushin ha1.zip,122918 Byte
+Jiko Chushin ha2.zip,138945 Byte
+JUNOFIRST.ZIP,6476 Byte
+King Kong2.zip,85467 Byte
+Kings Valley.zip,13002 Byte
+Kings Valley2 GoldVer.zip,69090 Byte
+Kings Valley2.zip,80421 Byte
+Kinniku Man.zip,15195 Byte
+Knight Lore.zip,20094 Byte
+Kungfu Taikun.zip,12308 Byte
+LAPTICK2.zip,19737 Byte
+Lode Runner1.zip,16316 Byte
+Lode Runner2.zip,16386 Byte
+Lupin3rd Babiron.zip,54603 Byte
+Lupin3rd Kariosutro.zip,72595 Byte
+Macross.zip,19701 Byte
+Magical Tree.zip,13053 Byte
+Majo densetu.zip,25668 Byte
+MajoDensetu2 Galious.zip,92855 Byte
+MajoDensetu3 Shalom.zip,169899 Byte
+MAPPY.zip,15099 Byte
+Mashou no Yakata Gabalin.zip,30778 Byte
+MetalGear.zip,89483 Byte
+MetalGear2.zip,332118 Byte
+MopiRanger INV.zip,13046 Byte
+MopiRanger.zip,12951 Byte
+MOUSER.ZIP,11943 Byte
+MrCHIN.zip,6747 Byte
+MSX-FAN Library1.ZIP,96144 Byte
+Nessen Kousien.zip,11291 Byte
+Ninja-kage.zip,9855 Byte
+NinjaKun OLD.zip,4160 Byte
+Ninjakun.zip,18333 Byte
+Nobunaga  MSX1.zip,112030 Byte
+Nobunaga MSX2.zip,240666 Byte
+PacMan.zip,7337 Byte
+Parodius INV.zip,92334 Byte
+Parodius.zip,92227 Byte
+PAYLOAD.ZIP,20536 Byte
+Penguin Wars.zip,19112 Byte
+Pitfall1.zip,10088 Byte
+Pitfall2.zip,11416 Byte
+POOYAN.zip,9662 Byte
+ProjectA2.zip,62913 Byte
+Protector.zip,9287 Byte
+QBERT.ZIP,22053 Byte
+Quarth.zip,64282 Byte
+R-TYPE.zip,119178 Byte
+RAMBO INV.ZIP,18816 Byte
+RAMBO.zip,18721 Byte
+RedZone.zip,11183 Byte
+Replicart.zip,60168 Byte
+RollerBall.zip,12734 Byte
+Romancia INV.zip,62743 Byte
+Romancia.zip,62648 Byte
+Salamander INV.zip,92132 Byte
+Salamander.zip,92022 Byte
+Sangokusi MSX1.zip,120801 Byte
+Sangokusi MSX2.zip,248585 Byte
+Sangokusi2.zip,577614 Byte
+Scarlet7.zip,17189 Byte
+Scc MajoDensetu.zip,34208 Byte
+Scc Nemesis.zip,72872 Byte
+Scc Pippolus.zip,20257 Byte
+Scc Soumen.zip,26660 Byte
+Scc Title.zip,20205 Byte
+Scc Tsurupika.zip,26959 Byte
+Scc TwinBee.zip,35086 Byte
+Scc Yie Ar KungFu.zip,22257 Byte
+Scc Yie Ar KungFu2 Yiegar.zip,36015 Byte
+SCION.zip,11032 Byte
+Seiken ACHO.zip,19713 Byte
+Seikima 2 Special.zip,50253 Byte
+SENJYO.ZIP,10633 Byte
+Shougi.zip,8979 Byte
+Ski Command.zip,10114 Byte
+SkyJaguar NoWait.zip,12677 Byte
+SkyJaguar.zip,12663 Byte
+SOUKOBAN.ZIP,12825 Byte
+Space Manbow.zip,160414 Byte
+SPARKIE.zip,6266 Byte
+Star SOLDER.zip,23645 Byte
+StarBlazer.zip,9595 Byte
+StarForce.zip,21185 Byte
+Strategic Mars.zip,55414 Byte
+SUIKODEN.zip,296074 Byte
+Super Daisenryaku.zip,113454 Byte
+Super LAYDOCK.zip,132398 Byte
+Super RAMBO.zip,58910 Byte
+Super Runner.zip,55930 Byte
+SuperTriton.zip,40049 Byte
+SYOUGUN.ZIP,70243 Byte
+Tanigawa Shougi.zip,19203 Byte
+THESEUS.zip,10552 Byte
+Thunder BOLT.zip,21358 Byte
+ToppleZip.zip,59536 Byte
+Traffic.zip,14932 Byte
+TRITON.zip,22308 Byte
+Twinbee.zip,21871 Byte
+Ultraman.zip,11301 Byte
+USYAS withSLOT.ZIP,96496 Byte
+USYAS.zip,96393 Byte
+Volguard.zip,18824 Byte
+WarpWarp.zip,6435 Byte
+WarRoid.zip,17806 Byte
+WIZ.ZIP,18744 Byte
+Xanadu.zip,117704 Byte
+Xevious.zip,83637 Byte
+Yie Ar KungFu.zip,12813 Byte
+YieArKungFu2 Yiegar.zip,25688 Byte
+Yumetairiku Adventure.zip,86005 Byte
+Yumetairiku EASY.zip,85980 Byte
+Yuureikun.zip,73115 Byte
+Zanac MSX1.zip,24321 Byte
+ZANACEX.zip,54103 Byte
+Zexas limited.zip,18881 Byte
+LAYDOCK MZ.ZIP,197306 Byte
+MZ-2500ソフトリスト.xls,31232 Byte
+MZ2500_BIOS.ZIP,638664 Byte
+SHARP MZ-2500.mpg,2596868 Byte
+ゼビウス.zip,209262 Byte
+マッピー.zip,43374 Byte
+蒼き狼と白き牝鹿.zip,256897 Byte
+sb01.lzh,306853 Byte
+sb02.lzh,320898 Byte
+sb03.lzh,334056 Byte
+sb04.lzh,321248 Byte
+sb05.lzh,325636 Byte
+sb06.lzh,337572 Byte
+sb07.lzh,298871 Byte
+sb08.lzh,312246 Byte
+sb09.lzh,314597 Byte
+sb10.lzh,314101 Byte
+sb11.lzh,361667 Byte
+sb12.lzh,368636 Byte
+sb13.lzh,348384 Byte
+sb14.lzh,396652 Byte
+sb15.lzh,329885 Byte
+sb16.lzh,312035 Byte
+ssb01.lzh,383957 Byte
+ssb02.lzh,246355 Byte
+ssb03.lzh,169821 Byte
+BASIC SET.ZIP,936761 Byte
+CDOS_SET.ZIP,1295956 Byte
+JETターミナルV1.ZIP,206626 Byte
+PC8801 BIOS.zip,875591 Byte
+Pc88va ROM.zip,76201 Byte
+PC88VA tekumani.lzh,255768 Byte
+n88basic リファレンス.zip,13495 Byte
+PC98xxBIOS.lzh,624004 Byte
+PC98ハードウエア設定Uty集.zip,3452331 Byte
+システムHDD pc98.ZIP,5682626 Byte
+システムディスク.zip,981874 Byte
+3D Golf Simulation SET.ZIP,2646407 Byte
+3DGOLF Simulation2 SET.zip,5802327 Byte
+4Dドライブ.zip,1230136 Byte
+4Dボクシング.zip,628038 Byte
+Alone In the DARK.zip,4476218 Byte
+Alone in the Dark2.zip,12298060 Byte
+A列車で行こう4PK.zip,2437934 Byte
+DAIVA カリ・ユガの光輝.zip,338362 Byte
+dante98_2.zip,1275627 Byte
+DCコネクション.ZIP,2245270 Byte
+DOOM1.ZIP,4804469 Byte
+DOOM2.ZIP,6883915 Byte
+D欧州蜃気楼.zip,1647430 Byte
+EOSystem3.ZIP,2205932 Byte
+FLAPPY PLUS.ZIP,80099 Byte
+GARUDIUS95.ZIP,1559096 Byte
+KEMESIS.zip,579460 Byte
+MIFES50.ZIP,474549 Byte
+MS-DOS Ver33D.ZIP,1588424 Byte
+MS-DOS Ver62.zip,6569027 Byte
+N88BASIC.zip,816467 Byte
+RCP98V3-K4.ZIP,1085730 Byte
+SimCity200 DX.zip,4015882 Byte
+Super大戦略.zip,749760 Byte
+TETRIS.zip,402531 Byte
+UNOセット.ZIP,226515 Byte
+WIZARDv5.zip,7104708 Byte
+Zs Staff Kid98.zip,1214593 Byte
+アトラス.ZIP,2126999 Byte
+アトラス2.ZIP,1294679 Byte
+ウォーゲームコンストラクション.zip,951011 Byte
+エアマネジメント2.ZIP,1699152 Byte
+オホーツクに消ゆ.zip,1208611 Byte
+キャッスルズ.ZIP,1191789 Byte
+キャッスルズ2.ZIP,1276000 Byte
+キャンペーン版大戦略2.zip,1058792 Byte
+キングスダンジョン.ZIP,417999 Byte
+コズミックソルジャー.ZIP,127803 Byte
+ゴジラ.ZIP,5037149 Byte
+サバッシュ2.ZIP,5159957 Byte
+シムファーム.ZIP,1788801 Byte
+シヴィライゼーション.ZIP,3939570 Byte
+スタークルーザー２.zip,4371539 Byte
+ソードダンサー.zip,3725257 Byte
+ソードワールドPC.zip,3577939 Byte
+ダンジョンマスター シリーズ.zip,1652205 Byte
+ダンジョンマスター2 スカルキープ.zip,2392698 Byte
+ティルナノーグ2.zip,1368928 Byte
+ディガンの魔石.zip,3077612 Byte
+トキオ 東京都第２4区.zip,1712911 Byte
+トキオ2.zip,2752569 Byte
+トップマネジメント2.zip,1305674 Byte
+バイパー.zip,118595 Byte
+バカスカウオーズ.zip,461569 Byte
+バランスオブパワー.zip,517103 Byte
+ファーストクイーン4.zip,2546572 Byte
+プリンスオブペルシャ.zip,837249 Byte
+プリンスオブペルシャ2.zip,18545944 Byte
+マスターオブモンスターズ2.zip,1521557 Byte
+メルヘンベール.zip,216957 Byte
+メルヘンベール2.zip,225783 Byte
+ランペルール.zip,1638943 Byte
+リバイバルザナドゥ.zip,4445371 Byte
+ルーンワース２.zip,1418135 Byte
+ルーンワース３.zip,1388158 Byte
+ローマは1日にして成らず.zip,1259493 Byte
+一太郎5R1.zip,10507295 Byte
+三國志1.zip,407268 Byte
+三國志1ver24.ZIP,569712 Byte
+三國志2.zip,906195 Byte
+三國志3.zip,2620610 Byte
+三國志4PK.zip,6891134 Byte
+三國志5PK.ZIP,10266966 Byte
+三國志英傑伝.ZIP,3763424 Byte
+下天.zip,938442 Byte
+下天2.zip,1684530 Byte
+信長の野望 全国版.zip,389027 Byte
+信長の野望 全国版ver2.zip,503721 Byte
+信長の野望 天翔記PK.zip,6053383 Byte
+信長の野望 武将風雲録.zip,1254566 Byte
+信長の野望 群雄伝.zip,696851 Byte
+信長の野望 覇王伝PK.ZIP,3554739 Byte
+信長の野望.ZIP,91658 Byte
+倉庫番パーフェクト.zip,365096 Byte
+大戦略4.zip,1383707 Byte
+大戦略３セット.zip,1918210 Byte
+天と地と.ZIP,887652 Byte
+天下統一.zip,871964 Byte
+天下統一2PK.zip,2476401 Byte
+天舞 三国志正史セット.ZIP,4844698 Byte
+太閤立志伝2.zip,5921483 Byte
+宇羅曼蛇.zip,492679 Byte
+戦乱.zip,2453197 Byte
+指輪物語 二つの塔.zip,2965640 Byte
+指輪物語 旅の仲間.zip,2399982 Byte
+提督の決断.zip,1068384 Byte
+斬 陽炎の時代セット.zip,2250875 Byte
+斬2.zip,1833039 Byte
+斬3.zip,2572673 Byte
+日立RPGセット.zip,990374 Byte
+昇龍三國志.zip,1499406 Byte
+東京TwilightBusters.zip,11444713 Byte
+森田将棋5.zip,943000 Byte
+機甲師団2.zip,1187437 Byte
+水滸伝.zip,1135121 Byte
+現代大戦略EX.zip,605821 Byte
+私説三国志.zip,2097751 Byte
+私説戦国時代.zip,359357 Byte
+空軍大戦略.zip,1233205 Byte
+維新の嵐.zip,774197 Byte
+群雄三国志.zip,678176 Byte
+義経.zip,978110 Byte
+臥竜伝 三国制覇の計.zip,1778974 Byte
+関ヶ原.zip,1759487 Byte
+関ヶ原2.zip,2531072 Byte
+項劉記.zip,2450093 Byte
+龍王三国志.zip,4092951 Byte
+bdiffvct.lzh,49362 Byte
+cpubench.lzh,15310 Byte
+bu111.lzh,28321 Byte
+cinit106.lzh,25084 Byte
+diet144.lzh,50049 Byte
+diet145f.lzh,26848 Byte
+dspl113.lzh,33943 Byte
+dcl110.lzh,5132 Byte
+jed194n.lzh,31532 Byte
+jeddoc.lzh,52753 Byte
+kl126.lzh,141283 Byte
+LDF103.LZH,16512 Byte
+lha255.exe,50357 Byte
+lha255b_.lzh,17308 Byte
+MDE509M.LZH,153960 Byte
+medit230.lzh,47207 Byte
+medit231.lzh,3674 Byte
+miel258n.lzh,90609 Byte
+forg211.lzh,35748 Byte
+forg212p.lzh,4986 Byte
+nbup107.lzh,35646 Byte
+ndex135.lzh,26406 Byte
+neco301.lzh,73833 Byte
+nfcp135.lzh,25945 Byte
+wiz120e.lzh,55357 Byte
+osp410g.lzh,3290 Byte
+vfu120.lzh,74113 Byte
+VZ_160set.ZIP,5433024 Byte
+iosysp16.lzh,3315 Byte
+x152d3_d.lzh,62224 Byte
+x152d3_e.lzh,251797 Byte
+xsatk.lzh,3288 Byte
+unz512x.exe,148162 Byte
+zip20x.zip,176302 Byte
+Jetターボ ターミナルVer1.1.zip,219831 Byte
+SWORD-OS.ZIP,131603 Byte
+X1_ALLrom.zip,203633 Byte
+X1ソフトウェア一覧.xls,92160 Byte
+GRADIUS(OPM).zip,110989 Byte
+HYDLIDE.zip,63919 Byte
+OUTROYD.zip,85948 Byte
+Super LAYDOCK.zip,680010 Byte
+X1turboII demo.zip,162758 Byte
+Xanadu X1セット.zip,1754478 Byte
+XEVIOUS X1.ZIP,61832 Byte
+Zeliard X1.zip,778737 Byte
+アスピックスペシャル.ZIP,298336 Byte
+スタークルーザー X1.zip,413345 Byte
+スペースハリアー.ZIP,287626 Byte
+ソーサリアン X1.zip,3835673 Byte
+トリトーン.zip,65378 Byte
+マイコンBASICマガジンプログラム集.ZIP,333020 Byte
+ヴァリス.zip,593787 Byte
+三國志2X1.ZIP,595671 Byte
+三國志Turbo版.ZIP,349123 Byte
+信長の野望 群雄伝X1.ZIP,485609 Byte
+女神転生.zip,620376 Byte
+水滸伝X1.zip,561586 Byte
+紫醜罹X1.zip,327436 Byte
+X68000HDD.zip,23105086 Byte
+X68000リスト.xls,120320 Byte
+X68IPL 030.LZH,47841 Byte
+X68IPL Compact.LZH,67372 Byte
+X68IPL Expart.LZH,69030 Byte
+X68IPL XVI.LZH,67214 Byte
+X68KBIOS.lzh,1014380 Byte
+38万キロの虚空.zip,3715022 Byte
+AFTER BURNER2＋改withMIDI.zip,663985 Byte
+Angel Dive.zip,840551 Byte
+A列車で行こう3.zip,2001734 Byte
+BM68.ZIP,1608529 Byte
+BOMBERMAN.ZIP,397827 Byte
+Bosconian with MIDI.zip,999227 Byte
+BRADION.zip,233983 Byte
+CAMELTRY.zip,695719 Byte
+Cockpit68K.zip,708627 Byte
+CUARTO.ZIP,800861 Byte
+CYNTHIA.ZIP,787860 Byte
+C力検査.zip,1303362 Byte
+DEFLEKTOR.ZIP,721810 Byte
+DOME.ZIP,2899828 Byte
+DuelFighter.zip,3510841 Byte
+Fifteen_All.zip,254940 Byte
+FORTLESS ATTACK.zip,297425 Byte
+FX.zip,933586 Byte
+GJ.zip,204319 Byte
+GRA3 氷地帯.zip,153876 Byte
+GRADIUS.zip,633551 Byte
+GradiusII.zip,1504133 Byte
+GRANADA.zip,1269819 Byte
+HELLHOUND.zip,903520 Byte
+HYDLIDE3.zip,1146574 Byte
+IPMインベーダー.ZIP,222163 Byte
+LAYDOCK.zip,314171 Byte
+LodeRunner.zip,343085 Byte
+LOGICRUSH.ZIP,338241 Byte
+MAPPY for X68K.ZIP,73286 Byte
+MSX_GRADIUS2.zip,900908 Byte
+NEMESIS90.ZIP,1482430 Byte
+OH_X 92年07月 DoGA.ZIP,1357812 Byte
+Overtake.zip,5267365 Byte
+PACMANIA.ZIP,509679 Byte
+Phalanx.zip,2147471 Byte
+R-TYPE.zip,434274 Byte
+Rush.zip,279219 Byte
+SimCity.zip,697900 Byte
+SION.zip,352725 Byte
+SION2.zip,774980 Byte
+Sound PRO68K.zip,279224 Byte
+STAR BL☆DE.ZIP,170162 Byte
+STAR FORCE.ZIP,714797 Byte
+StarWARS.zip,1589728 Byte
+Super HANGON.zip,666042 Byte
+T-94x.zip,817949 Byte
+TELENET MusicBOX.ZIP,386575 Byte
+TETRIS.zip,640980 Byte
+THUNDER BLADE.ZIP,1034045 Byte
+Todays My JOB.zip,507726 Byte
+TwinBee.zip,238417 Byte
+Tドラゴンクエスト2.zip,862814 Byte
+UNO.zip,201493 Byte
+ViewPoint.zip,2101060 Byte
+V’BALL.zip,533945 Byte
+XADLAK.ZIP,529164 Byte
+XEVIOUS.zip,206449 Byte
+YS pc88 for X68K.ZIP,347332 Byte
+YS2 pc98 for X68K.ZIP,822733 Byte
+YS3.zip,1316250 Byte
+YS_X68k.ZIP,2066952 Byte
+Zs Staff DEMO.zip,743568 Byte
+Zugya.zip,467867 Byte
+ああっ！お姫さまっ！.zip,176493 Byte
+あーくしゅ.zip,762931 Byte
+きこりの与作.zip,101615 Byte
+たんば.zip,728599 Byte
+でたなツインビー.zip,1346286 Byte
+ど突き！！ゲーム.zip,198458 Byte
+ねじ式.zip,1903944 Byte
+アクアレス.zip,1459245 Byte
+アルガーナ.zip,499379 Byte
+アークスオデッセイ.ZIP,1920063 Byte
+オルテウス2.ZIP,877519 Byte
+カサブランカに愛を.zip,1324281 Byte
+ガルシード.zip,448558 Byte
+キャンペーン版大戦略2.zip,1019550 Byte
+キングオブシカゴ.zip,702228 Byte
+キングズダンジョン.ZIP,366864 Byte
+ギャラガ’88.zip,1194097 Byte
+クレイジークライマー１・２.zip,734879 Byte
+グループＸ.zip,844203 Byte
+コラムス.ZIP,269396 Byte
+サンダーフォース2.zip,745169 Byte
+シグナトリー.zip,3612143 Byte
+シムアント.ZIP,1018937 Byte
+シムアース.ZIP,937971 Byte
+シャッフルパックカフェ.zip,914068 Byte
+ジェノサイド2.zip,4084764 Byte
+ジオグラフシール.zip,2149148 Byte
+スクエアリゾート.zip,1292649 Byte
+スコルピウス.ZIP,644262 Byte
+スタークルーザー.zip,821775 Byte
+スターモビール.ZIP,445247 Byte
+スターラスター.zip,1005703 Byte
+ストライダー飛竜.zip,3079836 Byte
+スペースハリアー.ZIP,448524 Byte
+スーパーストリートファイター２.zip,6900220 Byte
+スーパー大戦略.ZIP,1016029 Byte
+セネガル.ZIP,745832 Byte
+ソフトでﾞハードな物語.zip,3705965 Byte
+ソフトでﾞハードな物語2.zip,3140603 Byte
+ソルフィース.zip,1752516 Byte
+ソーサリアン68K.zip,827406 Byte
+ダンジョンマスター シリーズ.zip,1568778 Byte
+ダンジョンマネージメント.zip,289421 Byte
+チェルノブ.zip,629824 Byte
+デスブリンガー.zip,2989424 Byte
+トリトーンファイナル.zip,1058324 Byte
+ドラゴンスピリット.zip,1447474 Byte
+ドラゴンスレイヤー.zip,150769 Byte
+ドラッケン.zip,1339313 Byte
+ドリンキースモーキー.zip,449718 Byte
+ドルアーガの塔X68K.zip,190206 Byte
+ナイアス.zip,981907 Byte
+ナイトアームズ.zip,905432 Byte
+ニューラルギア.zip,680985 Byte
+ノスタルジア.zip,2928245 Byte
+バトルチェス.zip,940462 Byte
+バベルの塔.zip,654954 Byte
+バルーサの復讐.zip,1344901 Byte
+パイプドリーム.zip,828168 Byte
+パロディウスだ.zip,1504320 Byte
+ファンタジーゾーン.zip,600197 Byte
+フューチャーウォーズ.zip,1053984 Byte
+フリー版ハイドライド2.zip,329012 Byte
+ブルトンレイ セット.zip,5108855 Byte
+プリンスオブペルシャ.zip,1800210 Byte
+プロダクションマネージャー.zip,1010775 Byte
+ペンジャン.zip,164891 Byte
+ボナンザブラザーズ.zip,890292 Byte
+ポピュラス セット.zip,616327 Byte
+ポピュラス2.zip,1274827 Byte
+マジカルショット.zip,341984 Byte
+マスターオブモンスターズ2.zip,1429534 Byte
+マッドストーカー.zip,945035 Byte
+マンハッタンレクレイム＆殺意の接吻.zip,2197018 Byte
+ミッドガルツ.zip,2829932 Byte
+モトス.zip,294102 Byte
+ライジングサン.zip,1182621 Byte
+ラグーン.zip,2688342 Byte
+ラストハルマゲドン.zip,2802534 Byte
+ラプラスの魔.zip,2246852 Byte
+ルービックキューブ.zip,105101 Byte
+ルーンワース 黒衣の貴公子.zip,2107530 Byte
+レッキングクルーfor X68K.zip,156765 Byte
+レミングス.zip,972672 Byte
+レリクス.zip,499148 Byte
+レーシーズ.zip,190632 Byte
+ロードス島戦記.zip,1735505 Byte
+ロードス島戦記2.zip,3603985 Byte
+三國志1.zip,1034490 Byte
+三國志2.zip,1356946 Byte
+三國志3.ZIP,2138907 Byte
+上海万里の長城.zip,1957397 Byte
+世界征服セット.zip,618575 Byte
+伊忍道.zip,1502286 Byte
+信長の野望 全国版.zip,1455222 Byte
+信長の野望 戦国群雄伝.zip,1037122 Byte
+信長の野望 武将風雲録.zip,1781314 Byte
+信長の野望 覇王伝.zip,2639389 Byte
+倉庫番リベンジ.zip,985889 Byte
+大戦略3.zip,1619203 Byte
+大魔界村.zip,1913947 Byte
+天下統一.zip,1112431 Byte
+太閤立志伝.zip,2235789 Byte
+幻獣鬼.zip,2087425 Byte
+悪魔城ドラキュラ.zip,2238211 Byte
+提督の決断.zip,1508895 Byte
+斬 陽炎の時代.zip,3013497 Byte
+日本語ワードプロセッサv110.zip,244000 Byte
+栄冠は君に.zip,1386407 Byte
+桃太郎伝説.zip,439090 Byte
+極.zip,347846 Byte
+機甲師団.zip,1217645 Byte
+殺人倶楽部DX.zip,2569452 Byte
+水滸伝.zip,1564771 Byte
+沙羅曼蛇.zip,655053 Byte
+源平討魔伝.zip,735933 Byte
+熱血高校ドッジボール部.zip,411660 Byte
+爆裂矩形弾.zip,299478 Byte
+琥珀色の遺言.zip,1503165 Byte
+生中継68.zip,1190335 Byte
+男弾.zip,543813 Byte
+維新の嵐68k.zip,1011617 Byte
+脊髄反射でアッチョー.zip,169952 Byte
+蒼き狼と白き雌鹿 ジンギスカン.zip,1582633 Byte
+蒼き狼と白き雌鹿 元朝秘史.zip,2284339 Byte
+超連射.zip,613912 Byte
+道化師殺人事件.zip,1143973 Byte
+遥かなるオーガスタSET.zip,2984546 Byte
+闇の血族 前編.zip,1946635 Byte
+闇の血族 完結編.zip,2548988 Byte
+項劉記.zip,2354549 Byte
+黄金の羅針盤.zip,2155076 Byte
+ＳＩＯＮIV.zip,548394 Byte
+Ｔhe Ｍan Ｉ Ｌove.zip,743523 Byte
+Ｔドラゴンクエスト1.zip,347428 Byte
+ＴＤＦ.zip,323328 Byte
+AJAX.LZH,1211030 Byte
+ALGOS.LZH,781436 Byte
+ARCNOID.LZH,197055 Byte
+BARADUK.LZH,337043 Byte
+BUBBLE.LZH,506445 Byte
+BUTA.LZH,401562 Byte
+CUBE_RUN.LZH,311468 Byte
+DBUSTER.LZH,420715 Byte
+DIGDUG.LZH,208715 Byte
+FALYLAND.ZIP,352747 Byte
+GOKUU.LZH,136219 Byte
+ISITER.LZH,192217 Byte
+I_FIGHT.LZH,511767 Byte
+KTIGER.LZH,955395 Byte
+LASBGAS.LZH,236562 Byte
+L_RIBLE.LZH,123312 Byte
+MABLE.LZH,397045 Byte
+MACHEN.LZH,1190728 Byte
+MrDO.LZH,548193 Byte
+NAIOUS.LZH,994651 Byte
+PACLAND.LZH,294435 Byte
+PYOPYO.LZH,589209 Byte
+QUATH.LZH,238674 Byte
+SAIVALON.LZH,937698 Byte
+SINSIA.LZH,744374 Byte
+TERAKRTA.LZH,219283 Byte
+A_BLODIA.LZH,581096 Byte
+B_BLODIA.LZH,982693 Byte
+A_CASTLE.LZH,890617 Byte
+B_CASTLE.LZH,330813 Byte
+A_L_SOLD.LZH,187017 Byte
+B_L_SOLD.LZH,614337 Byte
+HAJIKI15.LZH,36611 Byte
+KICK2V10.LZH,618241 Byte
+SKI.LZH,82473 Byte
+A_FFIGHT.LZH,499951 Byte
+B_FFIGHT.LZH,1148976 Byte
+A_GAROSP.LZH,824341 Byte
+B_GAROSP.LZH,1191074 Byte
+C_GAROSP.LZH,1021631 Byte
+D_GAROSP.LZH,1059755 Byte
+E_GAROSP.LZH,1135829 Byte
+F_GAROSP.LZH,1045666 Byte
+G_GAROSP.LZH,1256347 Byte
+H_GAROSP.LZH,1263539 Byte
+I_GAROSP.LZH,1046235 Byte
+A_GRA2.LZH,933452 Byte
+B_GRA2.LZH,522069 Byte
+ACE付属システム.zip,1220083 Byte
+CompactXVI付属システム.zip,1940700 Byte
+SYS_Data.LZH,397648 Byte
+LHA_4751.X,25062 Byte
+LHA_X647.X,45848 Byte
+LHES0893.LZH,266002 Byte
+LHLK102X.LZH,34811 Byte
+LXR120FS.LZH,24541 Byte
+LZD112.LZH,37956 Byte
+LZHDAE75.LZH,51200 Byte
+LZX104.LZH,16256 Byte
+TXR100FS.LZH,19475 Byte
+ZIP20X68.ZIP,142594 Byte
+ZXR121MS.LZH,7833 Byte
+AI3.LZH,622592 Byte
+ASKP000.LZH,26858 Byte
+XB0201.LZH,56139 Byte
+XB0201S.LZH,77977 Byte
+XB0305.LZH,19905 Byte
+XBASIC.TXT,34999 Byte
+XBC001B.LZH,14278 Byte
+DF1210.LZH,3026 Byte
+EXEC_FNC.LZH,39401 Byte
+GT_PUT_.LZH,24378 Byte
+IABS_.LZH,855 Byte
+KSTICK_.LZH,3328 Byte
+MUSICZ.LZH,8638 Byte
+OUTLINE_.LZH,33959 Byte
+RAS0821.LZH,1101 Byte
+SP2_.LZH,8531 Byte
+SPRITE0_.LZH,4617 Byte
+TGRAPH_.LZH,19924 Byte
+XSPRITE.LZH,26002 Byte
+XSPRITEB.LZH,9594 Byte
+BATKEY.lzh,3906 Byte
+calc.lzh,12696 Byte
+KOMONO00.LZH,89856 Byte
+ksd17i.lzh,73976 Byte
+KT980723.LZH,34425 Byte
+B_PRO68K.LZH,99932 Byte
+DC2_065.LZH,26408 Byte
+proemu.zip,8980 Byte
+TWINCOPY.LZH,95654 Byte
+ＦILE MASTER.zip,221873 Byte
+2HDBOOT.LZH,117644 Byte
+9SCSET.LZH,122511 Byte
+DCON.LZH,1960 Byte
+DCU_075.LZH,7463 Byte
+DE0021.LZH,13039 Byte
+DIFC1199.LZH,17727 Byte
+DPK1327.LZH,38094 Byte
+FSCK1032.LZH,28849 Byte
+GRAD130.LZH,50139 Byte
+REFG125.LZH,109533 Byte
+SD141.LZH,52304 Byte
+DEDIT226.LZH,139960 Byte
+DEDIT_P5.ZIP,122504 Byte
+EDR_V2.zip,77035 Byte
+FES127A.LZH,132449 Byte
+SUPERED.LZH,57756 Byte
+KIDOU.BAT,37639 Byte
+ライジングサン 全曲集.zip,141319 Byte
+BDIFSET.LZH,59969 Byte
+DIRI.LZH,18621 Byte
+DIRU.LZH,5423 Byte
+dshell3.lzh,35404 Byte
+FLCT0124.LZH,18592 Byte
+FU_P23d.lzh,259218 Byte
+LC293X.LZH,10595 Byte
+LDEL242X.LZH,8114 Byte
+LM203X.LZH,10406 Byte
+SUPR_BUP.LZH,8143 Byte
+VIEW_V3.LZH,39424 Byte
+F16_24.LZH,44032 Byte
+H16_24.LZH,31744 Byte
+kaku0100.lzh,59334 Byte
+MAKE1212.LZH,23721 Byte
+TrueType_CNV.lzh,168157 Byte
+X68K_fonts.zip,1800538 Byte
+CPBUS.LZH,1536 Byte
+KAOEDIT.LZH,73714 Byte
+NINE.lzh,27432 Byte
+RENSHA.LZH,747 Byte
+SPD.LZH,4092 Byte
+SPICON.LZH,4021 Byte
+CPMD106.LZH,7936 Byte
+CPSF_KEY.LZH,10962 Byte
+JOYDRV20.LZH,36276 Byte
+16_GENPE.LZH,3241 Byte
+16_GRA1.LZH,214 Byte
+24_AB2.LZH,342 Byte
+24_BOSC.LZH,342 Byte
+24_DAI3.LZH,3517 Byte
+24_FZONE.LZH,942 Byte
+ABMIDI.LZH,130344 Byte
+BOSC_MID.LZH,277197 Byte
+COCKPAT1.LZH,83968 Byte
+DRA_HDD.ZIP,818 Byte
+DRA_PAT.LZH,1151 Byte
+DRSP_MID.LZH,476709 Byte
+GAMEDIT2.LZH,15497 Byte
+GEOG_PAT.LZH,8960 Byte
+GOLFHD.LZH,105369 Byte
+GOLFHD2.LZH,5120 Byte
+GOLFHD3.LZH,1593 Byte
+GRA1_PAT.zip,57367 Byte
+GRA2_PAT.LZH,27776 Byte
+GRA_md.ZIP,1667 Byte
+GS_KAI.LZH,3072 Byte
+HAR_MIDI.LZH,162654 Byte
+HAR_PAT.LZH,3901 Byte
+JOYDRV.LZH,1302 Byte
+KNMIMIDI.LZH,18423 Byte
+LagoonMD.lzh,2744 Byte
+M_PATSET.LZH,25913 Byte
+NEME_MC.LZH,36893 Byte
+nospatch.lzh,2086 Byte
+OVERTAKE.LZH,25335 Byte
+PARO_PAT.LZH,25600 Byte
+PAT3_FIX.LZH,4864 Byte
+phala_p8.lzh,8293 Byte
+SALA_PAT.ZIP,10817 Byte
+SLUSTPAT.LZH,14010 Byte
+SST2PAT.LZH,8821 Byte
+S_CLZ_P.LZH,64321 Byte
+TETRS104.LZH,348288 Byte
+TWIN_PAT.LZH,14464 Byte
+24_31KHZ.LZH,620 Byte
+CONV.LZH,27380 Byte
+EEL_203B.LZH,648795 Byte
+ExSYSTEM.LZH,1833603 Byte
+F31K.LZH,6322 Byte
+GONBE4.LZH,7818 Byte
+Matier211b.LZH,923223 Byte
+mfg53.Lzh,193767 Byte
+pyro68.lzh,31211 Byte
+SCR.LZH,3411 Byte
+TATE256.LZH,4480 Byte
+TITLE_ED.LZH,2580 Byte
+TTLC.LZH,16286 Byte
+TXT2PIC1.LZH,12416 Byte
+W_CRAYONS.LZH,59894 Byte
+XGE541.ZIP,480552 Byte
+ZED008.LZH,52516 Byte
+ZsSTAFF3.ZIP,4474753 Byte
+Z_CRT.LZH,2448 Byte
+APG_211A.LZH,348097 Byte
+B2PIC003.LZH,25542 Byte
+BMPL033B.LZH,31868 Byte
+COPIX010.Lzh,10836 Byte
+CVSAVESC.LZH,21215 Byte
+GGR.LZH,14986 Byte
+GLM_TOOL.LZH,14084 Byte
+GOSE.LZH,14778 Byte
+JPEG100.LZH,13028 Byte
+JPEGED26.LZH,29935 Byte
+PI107_6.LZH,6912 Byte
+pngl030b.zip,105907 Byte
+SAVESC.LZH,3355 Byte
+TFV68145.LZH,40325 Byte
+XBMP064.LZH,15036 Byte
+HU_V100.LZH,32747 Byte
+HU_V101.LZH,32750 Byte
+HU_V201.LZH,41924 Byte
+HU_V202.LZH,26625 Byte
+HU_V203.LZH,42270 Byte
+HU_V301.LZH,45191 Byte
+HU_V302.LZH,45385 Byte
+mdrv088.zip,13453 Byte
+mndrv137.zip,100444 Byte
+LMZ2.LZH,107905 Byte
+MMR31P1.ZIP,45946 Byte
+MNDRV132.LZH,103690 Byte
+ZMPLY060.LZH,14711 Byte
+MDXP009A.LZH,6276 Byte
+MDX_TOOLS.LZH,21399 Byte
+mx16y_25.lzh,10865 Byte
+MXDRV206.LZH,10797 Byte
+NOTE085.LZH,36224 Byte
+CONV3013.LZH,94966 Byte
+CVS504_X.LZH,53757 Byte
+RC3013.LZH,146601 Byte
+RTE055.LZH,100990 Byte
+STED_ALL.LZH,233441 Byte
+ZTOR020.LZH,9662 Byte
+ADPCMS.LZH,11495796 Byte
+DIVZPD04.ZIP,3465 Byte
+DTOS_025.LZH,7168 Byte
+LZZ057A.LZH,20161 Byte
+MZP04B_T.LZH,48464 Byte
+SDTOZP1.LZH,2750 Byte
+sound111.lzh,15744 Byte
+Z55P101.LZH,21599 Byte
+ZM208_01.LZH,135358 Byte
+zmc2v135.zip,205236 Byte
+ZMSC208X.LZH,151343 Byte
+ZMSC2MAN.LZH,165782 Byte
+ZM_OMAKE.LZH,26213 Byte
+ZTOM162.Lzh,342307 Byte
+MIAP08BA.LZH,29776 Byte
+nnpd203.lzh,11889 Byte
+PCM3V215.LZH,30957 Byte
+PCM8048B.LZH,15481 Byte
+PCM8A059.LZH,69146 Byte
+PCMRE_PL.LZH,15154 Byte
+pdntozpd.lzh,5248 Byte
+PDXTOZPD.LZH,8192 Byte
+PZPD207.LZH,5780 Byte
+RDN_101.LZH,16663 Byte
+SYS_BEEP.LZH,11546 Byte
+W2p.lzh,11308 Byte
+WAVPLAY6.LZH,10113 Byte
+DIS314.lzh,65176 Byte
+GCC142.LZH,337646 Byte
+HAS06087.LZH,106547 Byte
+hlk301b.lzh,22189 Byte
+lisp講座.lzh,151802 Byte
+MSXLIB.lzh,606686 Byte
+OAR104.lzh,71235 Byte
+SCD06012.LZH,111133 Byte
+XC.lzh,895391 Byte
+C言語ガイド.txt,40527 Byte
+zsaru01.lzh,21217 Byte
+zsaru02.lzh,17713 Byte
+zsaru03.lzh,26217 Byte
+zsaru04.lzh,29018 Byte
+zsaru05.lzh,22763 Byte
+zsaru06.lzh,24518 Byte
+zsaru07.lzh,27789 Byte
+zsaru08.lzh,22970 Byte
+zsaru09.lzh,30575 Byte
+zsaru10.lzh,30944 Byte
+zsaru11.lzh,24245 Byte
+zsaru12.lzh,34998 Byte
+zsaru13.lzh,27960 Byte
+zsaru14.lzh,33551 Byte
+zsaru15.lzh,34254 Byte
+zsaru16.lzh,27073 Byte
+zsaru17.lzh,54726 Byte
+zsaru18.lzh,34458 Byte
+zsaru19.lzh,24188 Byte
+zsaru20.lzh,34890 Byte
+zsaru21.lzh,45801 Byte
+zsaru22.lzh,35482 Byte
+zsaru23.lzh,26955 Byte
+zsaru24.lzh,38571 Byte
+gmake_man.LZH,6709 Byte
+MAKEHU11.ZIP,107333 Byte
+MAKEHU12.ZIP,5015 Byte
+gnulib.lzh,36155 Byte
+libc_32aD4.lzh,1066821 Byte
+libgnu150.lzh,19992 Byte
+sxdevenv.lzh,36953 Byte
+ASS_113A.LZH,34247 Byte
+CD_Driver.lzh,95653 Byte
+DSKBENCH.LZH,15389 Byte
+FAT32_4.LZH,190880 Byte
+GOVER031.LZH,25719 Byte
+HDSKF08P.LZH,6144 Byte
+MOCP0194.TGZ,66053 Byte
+SEEKPAT.LZH,2904 Byte
+SSE_121A.LZH,117645 Byte
+SXSI4.LZH,56320 Byte
+18SRAMCL.LZH,6676 Byte
+ADRV302A.LZH,24546 Byte
+BM222B.LZH,24756 Byte
+CDINIT.LZH,18397 Byte
+CHEV101.LZH,36219 Byte
+CNFSEL02.LZH,21504 Byte
+CONDRV.LZH,23060 Byte
+CPUPOWER.LZH,2853 Byte
+DCACH212.LZH,36967 Byte
+HFONT122.LZH,27030 Byte
+HIOCS16.LZH,22768 Byte
+HIOCSP14.ZIP,105362 Byte
+KEY2.LZH,5888 Byte
+KEYWB212.LZH,75326 Byte
+KW212213.LZH,11447 Byte
+LN12.LZH,5967 Byte
+LNDRV126.LZH,25550 Byte
+LZXLOAD.LZH,3661 Byte
+PROGRAM.LZH,4096 Byte
+RSHIFT.LZH,2896 Byte
+SI366.ZIP,59395 Byte
+T14DRV.LZH,4667 Byte
+TW136C14.LZH,127168 Byte
+TWON123B.LZH,34353 Byte
+TWSYS10.ZIP,89700 Byte
+VS_fullset.lzh,158269 Byte
+KBMS001.LZH,7236 Byte
+LHINF204.LZH,16816 Byte
+LHTX200B.LZH,59321 Byte
+GZ124X5F.LZH,161242 Byte
+KMT9912B.LZH,42822 Byte
+TGZ13X16.LZH,103396 Byte
+TX.LZH,6979 Byte
+TXF19.LZH,10772 Byte
+ASK302P1.LZH,6656 Byte
+CDA005.LZH,62055 Byte
+CDA006T1.LZH,31135 Byte
+CSX000.LZH,7527 Byte
+DIC_HU.LZH,41946 Byte
+XBC001S.LZH,17928 Byte
+CALE21.LZH,3073 Byte
+CD.LZH,4258 Byte
+LAC207.LZH,19292 Byte
+DISKIMAG.LZH,81024 Byte
+DSK69096.LZH,74626 Byte
+DSK82026.LZH,80260 Byte
+FDRD101.LZH,15603 Byte
+FDWR101.LZH,16250 Byte
+FSCK103.LZH,57344 Byte
+HS2HD.LZH,2070 Byte
+KEYEJE60.LZH,4323 Byte
+RAWRITE.LZH,14146 Byte
+SD140.LZH,50441 Byte
+EDR099XC.LZH,31360 Byte
+EDZ.LZH,54127 Byte
+KEYSET.LZH,10229 Byte
+SETPATH.LZH,4010 Byte
+VTIME.LZH,52352 Byte
+CP28.LZH,13389 Byte
+DIRX.LZH,9635 Byte
+FILECUT.LZH,13977 Byte
+LD321X.LZH,11450 Byte
+LF102.LZH,8836 Byte
+LHINF203.LZH,15804 Byte
+LS15.LZH,14425 Byte
+QW047.LZH,28847 Byte
+SEE031_1.LZH,32494 Byte
+98KANJI.LZH,11264 Byte
+FONX102.LZH,12797 Byte
+HFC100.LZH,12599 Byte
+HFONT122.LZH,27030 Byte
+TT2IFM02.LZH,51500 Byte
+TT2IFM03.LZH,86691 Byte
+BAL080.LZH,54384 Byte
+BOKOSUKA.LZH,17886 Byte
+CARD.LZH,26998 Byte
+CARD_2.LZH,89983 Byte
+CHERRY.LZH,76534 Byte
+CHO_10.LZH,538852 Byte
+CHO_M.LZH,81690 Byte
+CHO_PAT.LZH,28221 Byte
+CPUKILL.LZH,1184 Byte
+CUBE.LZH,54417 Byte
+C_BOMER.LZH,192256 Byte
+DESP0114.LZH,328882 Byte
+DIVE_ON.LZH,466116 Byte
+DQ1_0.LZH,118192 Byte
+DQ1_1.LZH,151328 Byte
+GW102.LZH,12951 Byte
+KARATE.LZH,198206 Byte
+KC.LZH,37857 Byte
+MYS.LZH,13351 Byte
+NEWWILDX.LZH,68436 Byte
+OHOTSUK1.LZH,669085 Byte
+OHOTSUK2.LZH,1101443 Byte
+OHOTSUKU.LZH,92377 Byte
+OTHELLO.LZH,17024 Byte
+PACMEN.LZH,56292 Byte
+PIC_PZL.LZH,102291 Byte
+PINBALL.LZH,185137 Byte
+PORTPIA.LZH,26459 Byte
+PS_IPL.LZH,112202 Byte
+PUSHBON.LZH,157682 Byte
+PUSH_MP1.LZH,10638 Byte
+PUSH_MP2.LZH,22980 Byte
+REIQA.LZH,368878 Byte
+REIQA2.LZH,81468 Byte
+REIQA_KA.LZH,244342 Byte
+SARADA.LZH,130309 Byte
+SOUKO_E.LZH,19578 Byte
+SZBGM55.LZH,85752 Byte
+TM11C.LZH,128975 Byte
+TM11C2.LZH,57565 Byte
+WIZ100.LZH,184937 Byte
+WIZ110B.LZH,25454 Byte
+WIZ115B.LZH,12598 Byte
+XANADU.ZIP,462848 Byte
+XANAEND.LZH,40820 Byte
+YUKIG2.LZH,277632 Byte
+A2TETRIS.LZH,247787 Byte
+ALIEN.LZH,36224 Byte
+A_TETRIS.LZH,156460 Byte
+BBOMBER.LZH,18944 Byte
+CITY.LZH,33792 Byte
+COLUNMS.LZH,95232 Byte
+FROG.LZH,41728 Byte
+GROBDA.LZH,163200 Byte
+INVEDER.LZH,19456 Byte
+KUNGFU.LZH,129498 Byte
+L_RABLE_.LZH,218488 Byte
+PILOT.LZH,21727 Byte
+RALLYX.LZH,48896 Byte
+TANK.LZH,62592 Byte
+T_DARIUS.LZH,438057 Byte
+BOYO355.LZH,196601 Byte
+BOYO355W.LZH,196601 Byte
+BOYOPCM.LZH,118721 Byte
+BOYOPIC3.LZH,289356 Byte
+BOYOYON.LZH,626561 Byte
+CPS.LZH,16064 Byte
+CPS2.LZH,6605 Byte
+GARO2CP.LZH,4060 Byte
+JOYDRV.LZH,20530 Byte
+LR_STICK.LZH,1024 Byte
+MDPAD.LZH,35715 Byte
+MD_PATCH.LZH,4655 Byte
+SFC.LZH,7168 Byte
+16_BABUL.LZH,2448 Byte
+24_MMAZE.LZH,577 Byte
+24_SYVA.LZH,719 Byte
+AB2_MDD.LZH,7862 Byte
+AJAX_PAT.LZH,10496 Byte
+ARCANIDP.BFD,2185 Byte
+BSALA101.LZH,36598 Byte
+DRSP_PAT.LZH,8832 Byte
+EP_INST2.LZH,4916 Byte
+EXRYG.LZH,7360 Byte
+FF_PAT.LZH,7168 Byte
+GARO2PT.LZH,10789 Byte
+GENPEI_.BFD,15509 Byte
+GRA_ARC.LZH,49627 Byte
+GSP_PAT.LZH,12288 Byte
+G_KAIPT1.LZH,3072 Byte
+G_KAIPT2.LZH,4096 Byte
+HIRYU104.LZH,9084 Byte
+HIRYU_P.LZH,7040 Byte
+IMAGE.LZH,1152 Byte
+MAHOU_PT.LZH,17777 Byte
+MOONPAT1.LZH,2048 Byte
+MOTOS.LZH,11301 Byte
+MOTOSP01.LZH,3666 Byte
+MT_AB2M.LZH,9536 Byte
+RTYPEPAT.LZH,14336 Byte
+SION2M.LZH,4813 Byte
+SLUSTPAT.LZH,14010 Byte
+ST2PAT.LZH,10527 Byte
+ST3BOS.BFD,268 Byte
+SW_SALA.LZH,9728 Byte
+S_PRINCE.LZH,46979 Byte
+VIEW21.LZH,2788 Byte
+AZOOM102.LZH,8678 Byte
+A_JAG128.LZH,14574 Byte
+B2R04E.LZH,19190 Byte
+CALTABD1.LZH,6844 Byte
+CALTABD2.LZH,7141 Byte
+CGR.LZH,43298 Byte
+COLOR_E.LZH,2178 Byte
+CPEM090A.LZH,88089 Byte
+GON.LZH,7650 Byte
+GRCNV.LZH,1698 Byte
+HCFINALE.LZH,140885 Byte
+HEXD010.LZH,14647 Byte
+HTAM001.LZH,7694 Byte
+KDOG100.LZH,99090 Byte
+MC101EXE.LZH,71586 Byte
+MONOCNV.LZH,4461 Byte
+MORPH.LZH,86741 Byte
+MPH300.LZH,38672 Byte
+PAL03.LZH,11186 Byte
+PS16G106.LZH,28078 Byte
+Q0ESP010.LZH,45066 Byte
+Q0HXD010.LZH,21804 Byte
+QKNV023.LZH,35570 Byte
+SMOOTHG.LZH,9521 Byte
+UMASK010.LZH,30424 Byte
+RGBP.LZH,134286 Byte
+T2PE.LZH,176108 Byte
+T2PE2.LZH,344048 Byte
+2HMV.LZH,34478 Byte
+EX.LZH,88495 Byte
+EX_FPACK.LZH,44593 Byte
+EX_SATO.LZH,151516 Byte
+EX_TEST.LZH,103542 Byte
+EX_TOOL.LZH,133686 Byte
+FOR_EX3.LZH,24525 Byte
+SPBOX_15.LZH,18420 Byte
+ZS_MATEX.LZH,258965 Byte
+ACCENT.LZH,12765 Byte
+COMPOSE.LZH,11497 Byte
+CYCLE.LZH,10368 Byte
+DIFFER.LZH,10999 Byte
+HUEMOVE.LZH,32418 Byte
+MONOTONE.LZH,5994 Byte
+MULAPLAC.LZH,10116 Byte
+MUMED.LZH,10822 Byte
+MUSHARP.LZH,10303 Byte
+REVBOX.LZH,3511 Byte
+TRASH.DOC,2175 Byte
+DISK.LZH,4352 Byte
+EXSYSDEB.LZH,121926 Byte
+EFFECT.LZH,584645 Byte
+SYSTEMS.LZH,412013 Byte
+AMI.LZH,56011 Byte
+AMI_SET.LZH,89879 Byte
+AVIPL151.LZH,60085 Byte
+BJPEGR2.LZH,51077 Byte
+ICE.LZH,88514 Byte
+J16EDS05.LZH,11910 Byte
+PCDLD.LZH,20501 Byte
+PFV200.LZH,10168 Byte
+RL.LZH,26072 Byte
+SAVESC.LZH,3355 Byte
+VSJPG010.LZH,72317 Byte
+HPCD032.LZH,22216 Byte
+PCD.LZH,35843 Byte
+PCD126.LZH,18934 Byte
+PCDLD.LZH,25306 Byte
+VIEWPCD.LZH,29985 Byte
+AP2T19D.LZH,4326 Byte
+AP2TOU18.LZH,17106 Byte
+HAPIC130.LZH,59852 Byte
+LPICL.LZH,46213 Byte
+P2TOLX03.LZH,63863 Byte
+P2TOU394.LZH,50190 Byte
+P2V68101.LZH,30494 Byte
+PIC2.LZH,31084 Byte
+FINE.LZH,28844 Byte
+MF2T.LZH,51200 Byte
+MMDSP030.LZH,42098 Byte
+MMDSPZ35.LZH,30410 Byte
+OTO.LZH,2326 Byte
+S68K010.LZH,11192 Byte
+SCM026.LZH,211072 Byte
+SMF1TO0.LZH,17394 Byte
+SND101.LZH,19544 Byte
+SPCX112A.LZH,271696 Byte
+WZP005A.LZH,9216 Byte
+ZCALL301.LZH,8734 Byte
+ZFC.LZH,11559 Byte
+ZMC2.LZH,129529 Byte
+ZMVER1.LZH,3124 Byte
+ZTOR020.LZH,9662 Byte
+ZWG010.LZH,12288 Byte
+ZMEX025.LZH,15280 Byte
+ZPP100.LZH,23943 Byte
+GSR112.LZH,34000 Byte
+ITOR301D.LZH,14187 Byte
+JUKE204.LZH,12780 Byte
+MIGRATE.LZH,10856 Byte
+MMX190X.LZH,77683 Byte
+MMX192B.LZH,9522 Byte
+RCHU100X.LZH,11858 Byte
+RCLK100X.LZH,9975 Byte
+SAME060.LZH,9633 Byte
+WRDP296.LZH,47733 Byte
+S2Z3S088.LZH,37440 Byte
+SSZP071.LZH,24778 Byte
+Z2M3.LZH,36755 Byte
+ZCSMF074.LZH,32492 Byte
+ZMC_MDX.LZH,35103 Byte
+ZMC_RCP.LZH,29043 Byte
+ZMEMINF2.LZH,3131 Byte
+ZMR084.LZH,32874 Byte
+ZMSC208S.LZH,315918 Byte
+ZM_CD.LZH,79020 Byte
+ZM302A_X.LZH,233048 Byte
+ZMSC3_FD.LZH,802348 Byte
+ZMUSICV3.LZH,898553 Byte
+CONVO012.LZH,25315 Byte
+LMM_MAKE.LZH,2116 Byte
+MPCM045.LZH,24002 Byte
+PCM3V213.LZH,31387 Byte
+PCMT101.LZH,15816 Byte
+PCMTG102.LZH,50138 Byte
+PF__106A.LZH,55675 Byte
+W2ADP101.LZH,7189 Byte
+ZWV173.LZH,205563 Byte
+DSKBENCH.LZH,15389 Byte
+FDS020.LZH,31104 Byte
+FIM_102A.LZH,29979 Byte
+HSCSI011.LZH,6340 Byte
+INQUI102.LZH,13008 Byte
+LHBU139.LZH,122404 Byte
+MOFMT106.LZH,3847 Byte
+PD.LZH,8920 Byte
+XSCSIPT5.TGZ,25605 Byte
+ICON.LZH,46853 Byte
+SXCNT10.LZH,4864 Byte
+SXBELL.LZH,48834 Byte
+SXBDF104.LZH,35199 Byte
+SXBUP103.LZH,44915 Byte
+UTRAY101.LZH,55199 Byte
+GOLFPCM.LZH,76064 Byte
+MKCS001.LZH,35817 Byte
+SXDICE.LZH,4933 Byte
+SXGOLF30.LZH,71842 Byte
+CGAPV121.LZH,45392 Byte
+HDTMTM00.LZH,3232 Byte
+KABEDO00.LZH,125639 Byte
+PICSIENC.LZH,36654 Byte
+AIVMG100.LZH,13440 Byte
+VMBMP.TAR,122880 Byte
+SXCRS.LZH,22799 Byte
+S4.LZH,20293 Byte
+SXAF3.LZH,15602 Byte
+BEEPCHG.LZH,18446 Byte
+FSXPAT31.LZH,13696 Byte
+GABAG040.LZH,33528 Byte
+SXWS015.LZH,5666 Byte
+CONDRKAI.LZH,1357 Byte
+COND_E12.ZIP,96406 Byte
+C_BAC1.LZH,9344 Byte
+EI021.ZIP,11005 Byte
+ERV.LZH,2784 Byte
+EXCPYKEY.LZH,4841 Byte
+EXECD035.LZH,11700 Byte
+EXTDRV16.LZH,26624 Byte
+FAT32_4.LZH,190880 Byte
+HB203P.LZH,5108 Byte
+HBOOT203.LZH,25446 Byte
+HSIPL216.LZH,5888 Byte
+IPL203.LZH,19200 Byte
+KBMOUSE.LZH,7236 Byte
+PS2MS020.LZH,16947 Byte
+QINT071.LZH,4655 Byte
+SBOOT.LZH,559 Byte
+SMOUSE02.LZH,4096 Byte
+SPS.LZH,26076 Byte
+TW136C13.LZH,126632 Byte
+TWON136C.LZH,41413 Byte
+TD210X.LZH,219000 Byte
+TD210XCP.LZH,4388 Byte
+TD210XPA.LZH,14004 Byte
+TD210XPB.LZH,13950 Byte
+NEW_INST.LZH,95841 Byte
+SXGZIP08.LZH,121234 Byte
+SXTAR030.LZH,34990 Byte
+SXXX098.LZH,16535 Byte
+VISON111.TGZ,102529 Byte
+calc061.lzh,180441 Byte
+calcd060.lzh,284032 Byte
+ANAROGS.LZH,14392 Byte
+CALEN104.LZH,15487 Byte
+SCLOCKS0.LZH,23250 Byte
+ADI06.LZH,33896 Byte
+MFOCK010.LZH,5381 Byte
+SXSH130.LZH,12764 Byte
+HENW2144.LZH,10680 Byte
+KKCC001.LZH,9478 Byte
+DRIVI105.LZH,10427 Byte
+f2sc041.lzh,10032 Byte
+FINFO133.LZH,16000 Byte
+KONPOI3.LZH,15846 Byte
+NEWPATH.LZH,13893 Byte
+REN101.LZH,20933 Byte
+SX2HQ002.LZH,11592 Byte
+再帰容量.lzh,2416 Byte
+FontDATA.lzh,11915090 Byte
+HARTMANN.LZH,153072 Byte
+SPEWIDTH.LZH,4607 Byte
+SX12DOT.LZH,84524 Byte
+VF_FONT.zip,19731001 Byte
+PINBALL.LZH,62445 Byte
+SIMEARTH.LZH,501589 Byte
+SIRTETRIS.LZH,19242 Byte
+SOUKOBAN.LZH,415857 Byte
+SXCHN.LZH,63127 Byte
+SXMIN.LZH,73758 Byte
+SXOTH030.LZH,9723 Byte
+TITEI.LZH,13601 Byte
+香港.lzh,53117 Byte
+CANVAS04.LZH,8751 Byte
+CGBFD.LZH,3988 Byte
+EASYDRAW.LZH,450547 Byte
+EasyPaint.LZH,292086 Byte
+GCOPY031.LZH,4961 Byte
+GRRT152.LZH,34153 Byte
+G_AT180.LZH,120515 Byte
+G_AT182_.LZH,8151 Byte
+G_AT183.LZH,53701 Byte
+HEKIDOU.LZH,44667 Byte
+PT4GET09.LZH,28844 Byte
+PTOD103.LZH,14843 Byte
+SCOPY001.LZH,12013 Byte
+V16J12B.LZH,65232 Byte
+GIF_IVM.LZH,5929 Byte
+GLMPAT02.LZH,9631 Byte
+IVMG018.LZH,3709 Byte
+IVM_BMP.LZH,8064 Byte
+PIVM105.LZH,13395 Byte
+RMIVM01.LZH,11948 Byte
+VMCUT02.LZH,17786 Byte
+VMP2_06.LZH,58051 Byte
+G2TSERV1.LZH,29700 Byte
+SCST02B.LZH,8536 Byte
+SM04.LZH,57524 Byte
+SM04UP.LZH,1993 Byte
+SM04UPUP.LZH,2685 Byte
+SMAEX01.LZH,11793 Byte
+SXBACK02.LZH,14706 Byte
+SXCUT01.LZH,41610 Byte
+SXG2T21.LZH,66639 Byte
+SXGAL02B.LZH,21597 Byte
+SXGFJUNK.LZH,19677 Byte
+SXGFJUP.LZH,1784 Byte
+FMEMO123.LZH,19585 Byte
+IVMINF02.LZH,21948 Byte
+MEMG017.LZH,10030 Byte
+SXINF021.LZH,4154 Byte
+SXPFM103.LZH,4761 Byte
+NEZU012.LZH,147968 Byte
+NEZU0121.LZH,12340 Byte
+PE043EXE.LZH,27392 Byte
+SXPCM046.LZH,14464 Byte
+SXPCM41A.LZH,18944 Byte
+SXWP102.LZH,13566 Byte
+SXZC390.LZH,138965 Byte
+HEX202.LZH,17834 Byte
+RESED212.LZH,94336 Byte
+CRTCTR04.LZH,13382 Byte
+DIAGE02.LZH,12297 Byte
+MINI061.LZH,10169 Byte
+SADJST0C.LZH,9617 Byte
+SXMODE04.LZH,9848 Byte
+EXC0001.LZH,25653 Byte
+EXC1401.LZH,20992 Byte
+EXCOM1.LZH,12025 Byte
+EXCOM2.LZH,8674 Byte
+WORDPRO2.LZH,817319 Byte
+CALCMAN4.LZH,4832 Byte
+div5c25.lzh,166469 Byte
+EMAGENCY.LZH,1451 Byte
+ERROR040.LZH,26947 Byte
+HISCLIP5.LZH,8446 Byte
+LMENU07.LZH,158208 Byte
+PERI0043.LZH,5702 Byte
+SCNT001.LZH,26448 Byte
+SNAP04.LZH,23573 Byte
+2LINE2.LZH,12155 Byte
+clnote6.lzh,33807 Byte
+CLWO110.LZH,8763 Byte
+IWIDTH.LZH,2632 Byte
+KILLER02.LZH,11128 Byte
+SILENT12.LZH,50472 Byte
+SXACTJP3.LZH,6663 Byte
+TASK108.LZH,16384 Byte
+WINSL150.LZH,9165 Byte
+WL203.LZH,31166 Byte
+Ask68k3DIC.zip,344890 Byte
+HUMAN68K.ZIP,540146 Byte
+Sx WORKROOM.zip,751993 Byte
+SxACCE.zip,483744 Byte
+SxTOOLS.zip,594852 Byte
+SxWin31_1.zip,425948 Byte
+SxWin31_2.zip,752186 Byte
+SxWin31_3.zip,466394 Byte
+SxWin31_sys.zip,486950 Byte
+XCv21N.zip,1107556 Byte
+Human68K説明書.zip,174450 Byte
+LOGIN1987 1月号 001.jpg,376744 Byte
+LOGIN1987 3月号 001.jpg,394961 Byte
+LOGIN1987 3月号 002.jpg,331646 Byte
+LOGIN1987 3月号 003.jpg,373522 Byte
+LOGIN1987 3月号 004.jpg,404725 Byte
+LOGIN1987 3月号 005.jpg,388253 Byte
+PUNI7_2.ZIP,197387 Byte
+X-BASIC リファレンス.zip,43653 Byte
+X68Kprogram説明.zip,107215 Byte
+hydlide3.zip,45201 Byte
+HYDLIDE3_X1.ZIP,20598 Byte
+Hydlide_FC.zip,2948 Byte
+LAYDOCK_MZ.zip,5302 Byte
+PSY-O-BLADE.ZIP,7810 Byte
+SuperLAYDOCK.ZIP,17125 Byte
+ﾙｰﾝﾜｰｽ.zip,50782 Byte
+ASO.ZIP,3927 Byte
+BattleGaregga.zip,405984 Byte
+BOMB_JACK.ZIP,7240 Byte
+Crazy_Climber.zip,23650 Byte
+Image_Fight.zip,19178 Byte
+Midnight_md.zip,19495 Byte
+R-Type 2.zip,13860 Byte
+R-TYPE.zip,12438 Byte
+slapfight.zip,8729 Byte
+StarFORCE.zip,6721 Byte
+与作.zip,7482 Byte
+最後の忍道.zip,15581 Byte
+熱血高校ドッジボール部.ZIP,13854 Byte
+究極Tiger.zip,11030 Byte
+D_Quest1.zip,15159 Byte
+D_Quest2.zip,11096 Byte
+D_Quest3.zip,14101 Byte
+D_Quest4.zip,26059 Byte
+JESUS.zip,12662 Byte
+JESUS2.ZIP,61869 Byte
+MistyBlue.zip,330261 Byte
+RAYIEZA.zip,1425 Byte
+アンジェラス.ZIP,65061 Byte
+オホーツクに消ゆ.zip,16570 Byte
+1943.zip,13026 Byte
+1943kai.zip,20887 Byte
+STRIDER飛竜.ZIP,238260 Byte
+SuperSF2_X68.zip,198100 Byte
+S_Fighter2.zip,95249 Byte
+アレスの翼.ZIP,20123 Byte
+大魔界村.zip,45312 Byte
+天地を喰らう.ZIP,241132 Byte
+戦場の狼.zip,9185 Byte
+闘いの挽歌.zip,11677 Byte
+魔界村.zip,14565 Byte
+Ajax_AC.zip,423443 Byte
+A_jax_X68.zip,160935 Byte
+F1Spirit.zip,17300 Byte
+FlakATTACK.zip,112608 Byte
+GOFERの野望.zip,1012525 Byte
+gradius2 msx.zip,19723 Byte
+GradiusI.zip,59078 Byte
+GradiusII FC.zip,23432 Byte
+GradiusII x68K.zip,96668 Byte
+GradiusII.zip,271238 Byte
+GradiusIII.zip,818377 Byte
+Pippols.zip,2616 Byte
+Qbert.zip,6619 Byte
+QUARTH.ZIP,50671 Byte
+SNATCHER.ZIP,45175 Byte
+Super魂斗羅.zip,478866 Byte
+ThunderCROSS.zip,18686 Byte
+twinbee.zip,8890 Byte
+YieArKUNG-FU.zip,5981 Byte
+けっきょく南極大冒険.zip,3890 Byte
+その他.ZIP,1526476 Byte
+でたなツインビー.zip,1012876 Byte
+もえろツインビー.zip,11013 Byte
+わんぱくアスレチック.zip,5682 Byte
+ウシャス.ZIP,20848 Byte
+ガリウス.ZIP,7560 Byte
+キューブリック.ZIP,9293 Byte
+キングコング2_MSX.ZIP,5544 Byte
+グリーンベレー.ZIP,10933 Byte
+パロディウスだ！X68K.zip,373683 Byte
+パロディウスだ！_AC.zip,651067 Byte
+メタルギア.zip,8776 Byte
+五右衛門からくり道中.zip,9535 Byte
+夢大陸アドベンチャー.zip,25302 Byte
+大列車強盗.zip,6052 Byte
+悪魔城伝説.zip,115349 Byte
+新入社員とおる君.ZIP,7656 Byte
+沙羅曼蛇.zip,25634 Byte
+火の鳥_MSX.zip,8628 Byte
+特殊部隊ジャッカル.zip,7968 Byte
+王家の谷.zip,4695 Byte
+生中継６８.zip,136434 Byte
+魂斗羅.zip,13240 Byte
+魔城伝説.zip,4324 Byte
+魔獣の王国.zip,89338 Byte
+ｸﾞｰﾆｰｽﾞ.zip,6398 Byte
+ﾄﾞﾗｷｭﾗAC.zip,111003 Byte
+ﾄﾞﾗｷｭﾗFC.zip,10638 Byte
+ﾄﾞﾗｷｭﾗ_msx.zip,9646 Byte
+ﾄﾞﾗｷｭﾗ_x68k.zip,173649 Byte
+GENOSIDE2.ZIP,118454 Byte
+OverTake.zip,141730 Byte
+PHALANX.ZIP,88336 Byte
+ラグーン.zip,126856 Byte
+AfterBurner2.zip,256932 Byte
+AfterBurner2X68.zip,67281 Byte
+AlexKid.zip,6385 Byte
+Cp_LoadRunner.zip,1289 Byte
+fantzy_zone.zip,196762 Byte
+G-LOC.zip,279932 Byte
+GalaxyForce.zip,75371 Byte
+HangON.zip,12014 Byte
+OutRun.zip,33285 Byte
+Quartet.zip,61560 Byte
+SDI.ZIP,26498 Byte
+SHangON_AC.ZIP,35309 Byte
+SHangON_X68K.ZIP,37578 Byte
+sonic.zip,57862 Byte
+SONIC_THE_HEDGEHOG.ZIP,34711 Byte
+spaceHARRIER.zip,284048 Byte
+Thunder Force 3.zip,70542 Byte
+Thunder Force 4.zip,153378 Byte
+ThunderBladeX68K.zip,154233 Byte
+ガルケーブ.ZIP,3984 Byte
+ダイナマイトダックス.zip,14406 Byte
+テトリス.zip,7057 Byte
+バーチャレーシング.zip,184200 Byte
+フリッキー.zip,6917 Byte
+モンスターランド.zip,12892 Byte
+北斗の拳.zip,1704 Byte
+獣王記.zip,7938 Byte
+ARKANOID.ZIP,2636 Byte
+BubbleBobble.zip,73053 Byte
+CAMELTRY.ZIP,233551 Byte
+CHACKN_POP.ZIP,3344 Byte
+DARIUS.ZIP,60858 Byte
+HalleysComet.zip,3968 Byte
+In_focus.zip,45014 Byte
+METAL_BLACK.ZIP,284485 Byte
+MidNightLanding.zip,4152 Byte
+M_Scramble.zip,4520 Byte
+ninja.zip,136111 Byte
+RainbowIsland.zip,17970 Byte
+TheNewzealandStory.zip,14955 Byte
+サイバリオン.ZIP,52826 Byte
+ダライアス外伝.zip,335168 Byte
+チェイスHQ.zip,149541 Byte
+トップランディング.zip,85581 Byte
+フルスロットル.zip,44008 Byte
+レイフォース.zip,488114 Byte
+黄金の城.zip,2975 Byte
+ASSAULT.ZIP,91937 Byte
+Baraduke.zip,3400 Byte
+BOSCONIAN.ZIP,256750 Byte
+BurningFORCE.zip,48784 Byte
+DIGDUG.ZIP,9573 Byte
+digdug2.zip,45968 Byte
+doruaga.zip,5269 Byte
+Dragon Buster.zip,22180 Byte
+DragonSABER.zip,892996 Byte
+DragonSPIRIT.zip,213964 Byte
+Galaga.zip,6298 Byte
+galaga88.zip,83939 Byte
+Galaxian 3.zip,253478 Byte
+ISHTAR.ZIP,6903 Byte
+Mappy.zip,4916 Byte
+MARCHEN.ZIP,33773 Byte
+MetalHAWK.zip,125682 Byte
+metoroCross.zip,4241 Byte
+PacLand.zip,15068 Byte
+PacMan.zip,2906 Byte
+PACMANIA.ZIP,26383 Byte
+poleposition.zip,4679 Byte
+RollingTHUNDER.zip,7445 Byte
+SkyKid.zip,3746 Byte
+STAR_BLADE.ZIP,278895 Byte
+ゼビウスX68K.zip,2899 Byte
+フェリオス.zip,249288 Byte
+モトス.zip,173888 Byte
+リブルラブル.zip,13456 Byte
+ワルキューレの伝説.zip,341104 Byte
+源平討魔伝.zip,14084 Byte
+ｽﾀｰﾗｽﾀｰ.zip,6661 Byte
+BombermanX68K.zip,24464 Byte
+GJ.ZIP,3503 Byte
+Hell_hound.zip,167632 Byte
+KnightArms.zip,22896 Byte
+Lemmings.zip,38270 Byte
+luxsor.zip,24226 Byte
+MAD_STALKER_X68.ZIP,105231 Byte
+METAL_SIGHT.ZIP,30645 Byte
+MID GARTS.ZIP,163821 Byte
+Oh！ Hajiki！.zip,6697 Byte
+Populous.zip,4254 Byte
+Relics.zip,4032 Byte
+SCHEME.ZIP,1184716 Byte
+SILPH02.zip,282082 Byte
+SION.ZIP,80185 Byte
+SION2.ZIP,111945 Byte
+SterWARS.zip,22795 Byte
+Super大戦略.zip,5585 Byte
+The man I love.zip,43993 Byte
+TheCockpit.zip,6573 Byte
+Thunder FORCE2.zip,275947 Byte
+VIEW_POINT X68k.ZIP,120065 Byte
+X68000Theme.ZIP,827 Byte
+らぷてっく.zip,5149 Byte
+アクアレス.ZIP,90619 Byte
+カサブランカに愛を.ZIP,45903 Byte
+グラナダ.ZIP,114808 Byte
+ザナック.ZIP,6036 Byte
+シルフィード.ZIP,11608 Byte
+ソルフィース.zip,99838 Byte
+テトリスX68K.zip,8649 Byte
+デスブリンガー.zip,65886 Byte
+トリトーンMSX.zip,1503 Byte
+ニューラルギア.zip,108993 Byte
+ノスタルジア1907.zip,279611 Byte
+バルーサの復讐.zip,17480 Byte
+ブルトン・レイ.zip,15599 Byte
+マーブルマッドネス.zip,31064 Byte
+ヤシャ.zip,28066 Byte
+大戦略III90.zip,17179 Byte
+天下統一.ZIP,14610 Byte
+忍者影x1.ZIP,1039 Byte
+斬～陽炎の時代.zip,127575 Byte
+桃太郎伝説.zip,23195 Byte
+殺人倶楽部DX.ZIP,14332 Byte
+琥珀色の遺言.zip,30043 Byte
+紫醜羅.zip,26019 Byte
+超連射68k.zip,16951 Byte
+ｼｬｯﾌﾙﾊﾟｯｸｶﾌｪ.zip,16498 Byte
+ｼｭｰﾃｨﾝｸﾞ68k.zip,6749 Byte
+ｽﾀｰｸﾙｰｻﾞｰ X68K.zip,34832 Byte
+ｽﾀｰｸﾙｰｻﾞｰ.zip,95232 Byte
+ﾌﾟﾘﾝｽｵﾌﾞﾍﾟﾙｼｬ.zip,25124 Byte
+ﾗｽﾄﾊﾙﾏｹﾞﾄﾞﾝ.zip,44708 Byte
+B-Wing.zip,3017 Byte
+BOMBERMAN.ZIP,3340 Byte
+CluCluLand.zip,4321 Byte
+DiskSystem IPL.zip,1331 Byte
+FinalFantasy.zip,345315 Byte
+Flappy_FC.zip,3643 Byte
+GAL.ZIP,4109 Byte
+GIN3_BGM.ZIP,680 Byte
+Romancing SaGa.zip,82413 Byte
+Super Star Force.zip,4955 Byte
+その他.zip,3485 Byte
+アトランティスの謎.ZIP,3693 Byte
+エキサイトバイク.ZIP,5216 Byte
+オホーツクに消ゆ.ZIP,14652 Byte
+スペランカー.ZIP,4278 Byte
+スーパーマリオ.ZIP,5083 Byte
+ゼルダの伝説.zip,8385 Byte
+チャレンジャー.zip,3802 Byte
+デビルワールド.zip,3553 Byte
+ドンキーコング Jr.zip,5154 Byte
+ドンキーコング.zip,6519 Byte
+バベルの塔.zip,3875 Byte
+パルテナの鏡.zip,8669 Byte
+ファミリーベーシック.zip,6828 Byte
+ボコスカウォーズ.zip,991 Byte
+マクロス.zip,3439 Byte
+マリオブラザーズ.zip,2920 Byte
+メトロイド.zip,4937 Byte
+リンクの冒険.zip,6434 Byte
+レッキングクルー.zip,4088 Byte
+ロードランナー.zip,9675 Byte
+忍者ハットリくん.ZIP,4863 Byte
+新鬼ヶ島.ZIP,13648 Byte
+迷宮組曲.zip,8729 Byte
+ｱｰﾊﾞﾝﾁｬﾝﾋﾟｵﾝ.zip,3961 Byte
+ｽﾀｰｿﾙｼﾞｬｰ.zip,7874 Byte
+Xanadu.zip,5700 Byte
+Xanadu_MSX.zip,6627 Byte
+XANADU_sc2.ZIP,17778 Byte
+Xanadu_X1.zip,5265 Byte
+YS1.ZIP,37285 Byte
+Ys1_MSX.zip,10088 Byte
+Ys1_X68k.zip,179362 Byte
+Ys3_X68K.zip,120699 Byte
+YsIIpc88.zip,28108 Byte
+YsII_X1.zip,27974 Byte
+ロマンシア.zip,6873 Byte
+太陽の神殿.zip,3846 Byte
+ｿｰｻﾘｱﾝpc88.zip,176106 Byte
+ｿｰｻﾘｱﾝX1.zip,214092 Byte
+ﾄﾞﾗｺﾞﾝｽﾚIV.zip,10480 Byte
+ジンギスカンX68K.ZIP,22609 Byte
+ランペルール.zip,26155 Byte
+三國志pc88.ZIP,458 Byte
+三國志１X68K.ZIP,9989 Byte
+三國志２X68K.ZIP,17250 Byte
+三國志３X68K.ZIP,19035 Byte
+伊忍道.zip,37681 Byte
+信長の野望全国版pc88.ZIP,2829 Byte
+信長の野望全国版X68K.ZIP,5043 Byte
+信長の野望武将風雲録X68K.ZIP,26134 Byte
+信長の野望群雄伝X68K.ZIP,15378 Byte
+信長の野望覇王伝X68K.ZIP,22970 Byte
+元朝秘史.zip,30935 Byte
+太閤立志伝X68K.zip,32267 Byte
+提督の決断x68k.zip,28992 Byte
+水滸伝x68k.zip,18767 Byte
+項劉記X68K.zip,22187 Byte
+forMT-32.zip,1062385 Byte
+forSC-55.zip,4145702 Byte
+withMIDI.zip,842934 Byte
+YM2151.ZIP,4791923 Byte
+餓狼伝説sp.zip,492518 Byte
+INMDX114.LZH,122144 Byte
+in_mdxdrv.zip,490054 Byte
+mdxwin2270.zip,2877646 Byte
+mxdrv200b.lzh,126585 Byte
+mxv200b.lzh,857314 Byte
+mxwav200a.lzh,40764 Byte
+pcmplay.lzh,17035 Byte
+X68Sound_020615.zip,201148 Byte
+z04c.zip,128327 Byte
+KNIGHT.LZH,309078 Byte
+gura3.lzh,3265001 Byte
+setumei.lzh,247129 Byte
+MANESIS.LZH,338861 Byte
+M_MIDI.LZH,49464 Byte
+CH010912.EXE,991872 Byte
+MsxBasic Viewer.lzh,227839 Byte
+NECoLib200.zip,63207 Byte
+psps2.zip,212097 Byte
+JA133b3.lzh,837451 Byte
+jtk374.zip,320791 Byte
+PA.LZH,76467 Byte
+CAS相互変換.zip,99827 Byte
+P6DatRec.lzh,44106 Byte
+テープイメージ作成.htm,23664 Byte
+ディスクイメージ製作セット.zip,81789 Byte
+cmp300.zip,913242 Byte
+MAME v0.69 (cm).zip,590109 Byte
+使用上の注意.txt,423 Byte
+Jpj_rc262_c2.zip,27473 Byte
+MAME v0.78 (rc).zip,745221 Byte
+rc262.zip,2497354 Byte
+使用上の注意.txt,601 Byte
+mfhe141.zip,84494 Byte
+S98 soundlog解説.zip,141760 Byte
+S98guide_j.txt,5622 Byte
+S98Loop.zip,173125 Byte
+S98utyDeleteResttime20010513.zip,9705 Byte
+吸出し専用ディスク.zip,902360 Byte
+5インチドライブ接続ケーブル.jpg,21407 Byte
+1-fm7-fdd.html,17731 Byte
+2-fd1155d.html,14636 Byte
+2-yd-380.html,11382 Byte
+2-yd-580.html,10131 Byte
+2-yd-625.html,14170 Byte
+2000-11-all-crt.jpg,36320 Byte
+2000-11-all-crt2.jpg,12640 Byte
+crt-f.jpg,22399 Byte
+ekisyo-f.jpg,9917 Byte
+ekisyo-ura.jpg,16539 Byte
+fd1155d-front-ura.jpg,29853 Byte
+fd1155d-front.jpg,33240 Byte
+fd1155d-pt-sw.jpg,95184 Byte
+fd1155d-ria.jpg,37860 Byte
+fdd-cabel2.jpg,15935 Byte
+fdd-f.jpg,19275 Byte
+fdd-if-kairo-2.gif,7633 Byte
+fdd-if-kairo.gif,7323 Byte
+fdd-in-if.jpg,39583 Byte
+fdd-left2.jpg,25370 Byte
+fdd-right.jpg,40520 Byte
+fdd-sw-kairo.gif,7718 Byte
+pcat-580-1.jpg,38793 Byte
+pcat-580-2.jpg,37222 Byte
+pow-cable.jpg,10345 Byte
+rgb-crt-f.jpg,32945 Byte
+rgb-crt-yoko.jpg,43418 Byte
+sw-cabel.jpg,16898 Byte
+yd380-front-ura.jpg,33654 Byte
+yd380-front.jpg,34426 Byte
+yd380-jp-sw1.gif,8039 Byte
+yd380-pt-sw.jpg,80071 Byte
+yd380-ria.jpg,65306 Byte
+yd580-front-ura.jpg,40525 Byte
+yd580-front.jpg,45910 Byte
+yd580-pt-sw.jpg,88469 Byte
+yd580-ria.jpg,63691 Byte
+yd625-front-ura.jpg,48791 Byte
+yd625-front.jpg,47058 Byte
+yd625-pt-sw.jpg,95997 Byte
+yd625-ria.jpg,43777 Byte
+getdrive.lzh,19607 Byte
+Ditt150.lzh,16070 Byte
+3m102.lzh,3782 Byte
+editd167.lzh,272363 Byte
+vf011010.zip,577264 Byte
+D88MAN.ZIP,38515 Byte
+d88uty13.lzh,31193 Byte
+conv88.lzh,37842 Byte
+X1img1023.lzh,189378 Byte
+NVD0A12.LZH,79766 Byte
+ND0A17.LZH,200211 Byte
+NHC0A13.LZH,77330 Byte
+al8w0154.lzh,403915 Byte
+SlaunchB_011.zip,233841 Byte
+aspic_sp.zip,50715 Byte
+black onyx.zip,326663 Byte
+hydlide1解答.htm,3538 Byte
+hydlide2解答.zip,283930 Byte
+hydlide3解答.zip,2242562 Byte
+MSXグラディウスシリーズ.ZIP,1998582 Byte
+MYST ガイド.ZIP,16468 Byte
+NEWアダム＆イブ ヒント.txt,666 Byte
+Outroid map.jpg,417229 Byte
+SUPER RAMBO.ZIP,337692 Byte
+Xanadu シナリオ2攻略.zip,2703602 Byte
+アステカのヒント.txt,2354 Byte
+アスピックのマップ.zip,149866 Byte
+アラモ.ZIP,637362 Byte
+イーガー皇帝の逆襲.ZIP,83336 Byte
+カサブランカに愛を解答.zip,10028 Byte
+ガリウスの迷宮.ZIP,704506 Byte
+ガリウス攻略.ZIP,1352514 Byte
+キングコング２攻略.zip,422112 Byte
+グーニーズMSX.zip,455216 Byte
+サイオブレード.zip,456223 Byte
+サバッシュ2攻略.ZIP,73860 Byte
+サラダ国のトマト姫.zip,11635 Byte
+ザ・スキーム.ZIP,614744 Byte
+ザース解法.txt,3059 Byte
+シムシティー.ZIP,1606734 Byte
+シャロム.zip,294721 Byte
+シルフィード.zip,355727 Byte
+シヴィライゼーション基本攻略法.ZIP,150216 Byte
+ジェットセットウイリー.ZIP,985421 Byte
+ジーザス.ZIP,206220 Byte
+スタークルーザー.zip,711711 Byte
+スーパートリトーンのヒント.txt,1945 Byte
+スーパーランナー.ZIP,89333 Byte
+スーパーランボースペシャル.ZIP,988403 Byte
+ゼリアード攻略.zip,963910 Byte
+ソーサリアン攻略.zip,51051 Byte
+ダンジョンマスターシリーズ.zip,15935641 Byte
+ディーヴァPC98版攻略.zip,212967 Byte
+ディーヴァ攻略.zip,414736 Byte
+デスブリンガー攻略.zip,588061 Byte
+デゼニランド.zip,598987 Byte
+デゼニワールド　解答.zip,19768 Byte
+トリトーン攻略.zip,641062 Byte
+ドラキュラX68K.zip,1093110 Byte
+ドラゴンスレイヤー.zip,954754 Byte
+ドラゴンスレイヤー4.zip,385998 Byte
+ドラッケン.zip,204531 Byte
+ネオアトラス攻略.zip,164762 Byte
+ファイアークリスタル.zip,205012 Byte
+ポートピア連続殺人事件解答.zip,8532 Byte
+マンハッタンレクレイム.zip,22642 Byte
+メタルギア ソリッドスネーク攻略.zip,30253 Byte
+メタルギア攻略.zip,61100 Byte
+メルヘンベール1攻略.zip,448864 Byte
+メルヘンベール2攻略.zip,574619 Byte
+ラストハルマゲドン.zip,47028 Byte
+ラプラスの魔.zip,154569 Byte
+ランボー.zip,215072 Byte
+リグラス.zip,453801 Byte
+レリクス.txt,8796 Byte
+ロマンシア解答.zip,114063 Byte
+ロードス島戦記 灰色の魔女.zip,820774 Byte
+三国志IV　歴史イベント.htm,11671 Byte
+三國志2.ZIP,14095 Byte
+三國志3.ZIP,15005 Byte
+三國志4.ZIP,9090 Byte
+伊忍道攻略.zip,18595 Byte
+北斗の拳 PC88.zip,854313 Byte
+北斗の拳 ヒント.png,18218 Byte
+地球戦士ライーザ.zip,533213 Byte
+夢大陸アドベンチャー攻略.zip,44642 Byte
+天翔記攻略.ZIP,8650 Byte
+太陽の神殿.zip,109546 Byte
+惑星メフィウス 解答.zip,33847 Byte
+抜忍伝説ヒント.zip,121629 Byte
+暗黒星雲.zip,10943 Byte
+武将風雲録イベント.zip,24099 Byte
+殺人倶楽部.ZIP,15094 Byte
+琥珀色の遺言ヒント.zip,38831 Byte
+白と黒の伝説 百鬼編.zip,130550 Byte
+白と黒の伝説ヒント.zip,320248 Byte
+維新の嵐.zip,255025 Byte
+覇王伝.zip,7000 Byte
+覇邪の封印.zip,210526 Byte
+軽井沢誘拐案内 ヒント集.htm,10018 Byte
+道化師殺人事件 ヒント.zip,60010 Byte
+道化師殺人事件 攻略.zip,16115 Byte
+道化師殺人事件 攻略データ.zip,715884 Byte
+黄金の墓.zip,17378 Byte
+Ｔhe man Ｉ love 解答.zip,16900 Byte
+ﾃﾗ４００１.zip,24225 Byte

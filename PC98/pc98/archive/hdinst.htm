@@ -1,0 +1,133 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=x-sjis"><title>復刻版サバッシュ２HDインストールガイド</title></head>
+
+<body bgcolor="#ffff00"><!-- isweb auto-insert */ -->
+<div align="center"><iframe src="hdinst_files/FhpWN.htm" frameborder="0" height="60" scrolling="no" width="700"></iframe><font style="font-size: 20px;"><br><br></font></div>
+<!-- inserted by isweb server/*  -->
+
+<div align="center"><center>
+
+<table bordercolordark="#000000" bgcolor="#ffffff" border="3" bordercolor="#000000" cellspacing="3" width="640">
+  <tbody><tr>
+    <td><big><big><strong>サバッシュ２HDインストールガイド</strong></big></big></td>
+  </tr>
+  <tr>
+    <td><p align="left"><font face="ＭＳ ゴシック"><br>
+    <br>
+    「復刻版サバッシュ２」をハードディスクイメージにインストールし、フロッ<br>
+    ピーディスクイメージの入れ替え無しにプレイする為の方法をご説明いたしま<br>
+    す。<br>
+    ただし、<strong>ハードディスクイメージ上でのプレイは、動作保証やサポートの対象<br>
+    外となります</strong>、また、MS-DOSシステムディスクイメージのインストール作業、<br>
+    MS-DOSの使用法などにつきましては、ご説明いたしかねますので、その旨ご了<br>
+    承くださいませ。<br>
+    また、<strong>下記作業によりいかなる事態を招いたとしても責任は負いかねます。<br>
+    </strong><br>
+    ＜インストールする際は、全てのディスクイメージが必要となる為、レジスト<br>
+    済みの全てのディスクイメージが使用可能な状態である必要があります＞<br>
+    <br>
+    &lt;インストールの前に&gt;<br>
+    <br>
+    ・エミュレータでHD,FD等のディスクイメージを作成できる等の知識が必要です。<br>
+    ・MD-DOSの基本知識が必要です。<br>
+    ・PC-98シリーズ用のMS-DOS&lt;SUBST.EXE含&gt;が必要です。<br>
+    ・HDイメージにはインストール時の作業スペースも含めて、12Mbyte以上の空き<br>
+    容量が必要です。（専用のHDイメージを作成される際は20Mタイプのものをお<br>
+    勧めいたします。）<br>
+    <br>
+    <br>
+    １・MS-DOSのformatコマンド等を使用してから起動ディスクを作成します。<br>
+    　（この時、起動ディスクにSUBST.EXEをコピーしておくと便利です。<br>
+    　　また、HDイメージをまだ作成していない場合は、FORMAT.EXE、HDFORMAT.EXE、<br>
+    をコピーしておき、HDイメージを作成し初期化しておいてください。）<br>
+    <br>
+    ２・HDイメージを接続した状態で、起動ディスクからエミュレータを起動し、<br>
+    　　起動後、FDD1にサバッシュ２のスタートディスクに入れ替えます。<br>
+    <br>
+    ３・スタートディスク内のZ2HD.exeを使用してインストールを行います。<br>
+    　　この際の文法は　Z2HDの後にスペースを入れ、ゲームディスクが挿入さ<br>
+    　　れているドライブ、さらにスペースで区切りHDイメージのドライブの順<br>
+    　　に指定します。<br>
+    <br>
+    Z2HD FDドライブ（inst元): HDドライブ(inst先)<br>
+    <br>
+    　例：<br>
+    　　　 Z2HD A: C:<br>
+    　（フロッピーディスクドライブ番号が、A,B、ハードディスクがCドライブで<br>
+    　　Ａドライブにゲームディスクが挿入されている場合）<br>
+    　●PC-98シリーズの場合、HDから立ち上げた場合とFDで立ち上げた場合でドラ<br>
+    　　イブ番号が変わりますのでご注意下さい。<br>
+    <br>
+    　例：HDイメージを１台接続してFDで立ち上げた場合<br>
+    <br>
+    FD1＝Aドライブ、FD2＝Bドライブ HD=Cドライブ<br>
+    <br>
+    　となりますが、HDから立ち上げた場合は、<br>
+    <br>
+    　 HDイメージを１台接続しHDで立ち上げた場合<br>
+    <br>
+    　 HD=Aドライブ FD1=Bドライブ FD2=Cドライブ<br>
+    <br>
+    <br>
+    <br>
+    ４・インストーラーの指示に従って各ディスクの入れ替えを行って下さい。<br>
+    ５・全てのディスクを読み込んだ後、自動的に展開作業が開始されます。<br>
+    　（この際、展開に失敗することもあるようです(^^:）<br>
+    ６・正常に終了した場合、HDイメージ内に\ZAVAS2というディレクトリが作成さ<br>
+    　　れます、この\ZAVAS2ディレクトリに、SUBST.EXEをコピーして下さい。<br>
+    　　（このファイルが無いと起動しません）<br>
+    　　ゲームプレイする際は、\ZAVAS2ディレクトリ内のZV2.BATを実行して下さい。<br>
+    <br>
+    ７・万一、HDイメージの残り容量不足などの為に正常にインストールできなか<br>
+    った場合は、作成された\ZAVAS2ディレクトリを削除し、容量を確保した後、<br>
+    　　やり直して下さい。<br>
+    <br>
+    ８・ディスク容量に余裕があれば、専用のHDイメージを使用して、HDイメージの<br>
+    　　autoexec.batで指定しておくか、もしくは起動ディスクのautoexec.batで<br>
+    　　&lt;HDドライブ番号&gt;:\ZAVAS2\ZV2.BAT<br>
+    を指定しておくと便利です。<br>
+    <br>
+    <br>
+    <br>
+    ＜MS-DOS 6.2での注意＞<br>
+    <br>
+    　MS-DOSのバージョンが6.2の場合や、または展開時に「文法が違います」とい<br>
+    　う表記が出てインストーラーが終了してしまった場合の対処法です。<br>
+    <br>
+    原因はMS-DOS6.2(これ以外のバージョンのものも含まれる可能性があります）<br>
+    の文法の違いよるもののようです。<br>
+    この為、この問題を回避するにはZ2HD2.batの内容を書き換える必要があります。<br>
+    Z2HD2.batを書き換える為には、テキストエディタ（DOS標準ならEDIT.EXEですし、<br>
+    DiskExprolerを利用して一旦Windowsにファイルをコピーしてもいいでしょう）<br>
+    が必要となります。<br>
+    <br>
+    -----------------------------------------------------<br>
+    OS6.2のヘルプだと、 <br>
+    FOR %%x IN (&lt;set&gt;) DO &lt;command&gt; &lt;para&gt; <br>
+    という形になっているのですが、 <br>
+    <br>
+    バッチファイルの中では、 <br>
+    FOR %%A IN( &lt;set&gt;) DO Z2TENKAI %%A <br>
+    （&lt;set&gt;の中は幾つかのパターンがあります） <br>
+    <br>
+    となっています。 <br>
+    つまり、INのあとにスペースがないんですね(^_^; <br>
+    こいつを付けてあげて下さい。 <br>
+    既にファイルを全部コピーしてしまっているようなので、 <br>
+    バッチファイルのコピーの部分は消してしまいましょう。 <br>
+    それでばっちりです。 <br>
+    <br>
+    ＜あるまさんの書き込みより＞<br>
+    -----------------------------------------------------<br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    </font><a href="http://axle.ld.infoseek.co.jp/zavas2/index.htm"><font color="#000000"><strong>ＨＯＭＥ</strong></font></a></p></td>
+  </tr>
+</tbody></table>
+</center></div>
+<!-- isweb auto-insert  -->
+<div align="center"><iframe src="hdinst_files/FhpWNF.htm" frameborder="0" height="60" scrolling="no" width="700"></iframe><font style="font-size: 20px;"></font></div>
+<!-- inserted by isweb server --></body></html>

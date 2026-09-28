@@ -1,0 +1,99 @@
+(ROM) No-Intro SNK Neo Geo Pocket Color (20060410) (rr5%).rar
+52,949,234
+a2c0d3d0f1996f327114add3009ce29eÅE79688bb86714a33fcb710ead92a49002578f288f
+
+:	NGPC
+:	:	Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (J).zip
+:	:	Baseball Stars Color (JUE) (M2).zip
+:	:	Big Bang Pro Wrestling (J) (M2).zip
+:	:	Bikkuriman 2000 - Viva! Pocket Festiva! (J).zip
+:	:	Biomotor Unitron (J).zip
+:	:	Biomotor Unitron (UE).zip
+:	:	Bust-A-Move Pocket (U).zip
+:	:	Cool Boarders Pocket (JE) (M2).zip
+:	:	Cool Cool Jam (J).zip
+:	:	Cool Cool Jam (UE) (Sample).zip
+:	:	Crush Roller (JUE) (M2).zip
+:	:	Dark Arms - Beast Buster 1999 (JUE) (M2).zip
+:	:	Delta Warp (J).zip
+:	:	Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (J).zip
+:	:	Densha de Go! 2 on Neo Geo Pocket (J).zip
+:	:	Dive Alert - Becky's Version (UE).zip
+:	:	Dive Alert - Burn Hen (J).zip
+:	:	Dive Alert - Matt's Version (UE).zip
+:	:	Dive Alert - Rebecca Hen (J).zip
+:	:	Dynamite Slugger (JE) (M2).zip
+:	:	Evolution - Eternal Dungeons (E).zip
+:	:	Fantastic Night Dreams Cotton (E).zip
+:	:	Fantastic Night Dreams Cotton (J).zip
+:	:	Faselei! (E).zip
+:	:	Faselei! (J).zip
+:	:	Fatal Fury F-Contact (JUE) (M2).zip
+:	:	Ganbare Neo Poke-kun (Ka) (J).zip
+:	:	Infinity Cure (J).zip
+:	:	Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (J).zip
+:	:	King of Fighters R-2 (JUE) (M2).zip
+:	:	King of Fighters, The - Battle de Paradise (J).zip
+:	:	Koi Koi Mahjong (J).zip
+:	:	Last Blade, The - Beyond the Destiny (E).zip
+:	:	Magical Drop Pocket (J).zip
+:	:	Magical Drop Pocket (UE).zip
+:	:	Memories Off - Pure (J).zip
+:	:	Metal Slug - 1st Mission (JUE) (M2).zip
+:	:	Metal Slug - 2nd Mission (JUE) (M2).zip
+:	:	Mezase! Kanji Ou (J).zip
+:	:	Mizuki Shigeru no Youkai Shashinkan (J).zip
+:	:	Neo 21 - Real Casino Series (JUE).zip
+:	:	Neo Baccarat - Real Casino Series (JUE).zip
+:	:	Neo Cherry Master Color - Real Casino Series (JUE) (M2).zip
+:	:	Neo Derby Champ Daiyosou (J).zip
+:	:	Neo Dragon's Wild - Real Casino Series (JUE) (M2) (v1.11).zip
+:	:	Neo Dragon's Wild - Real Casino Series (JUE) (M2) (v1.13).zip
+:	:	Neo Geo Cup '98 Plus (JUE) (M2).zip
+:	:	Neo Mystery Bonus - Real Casino Series (JUE) (M2).zip
+:	:	Neo Poke Pro Yakyuu (J).zip
+:	:	Neo Turf Masters (JUE) (M2).zip
+:	:	Nigeronpa (J).zip
+:	:	Oekaki Puzzle (J).zip
+:	:	Pac-Man (JUE) (M2).zip
+:	:	Pachi-Slot Aruze Oukoku Pocket - Azteca (J).zip
+:	:	Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (J).zip
+:	:	Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (J).zip
+:	:	Pachi-Slot Aruze Oukoku Pocket - Hanabi (J) (v1.02).zip
+:	:	Pachi-Slot Aruze Oukoku Pocket - Hanabi (J) (v1.04).zip
+:	:	Pachi-Slot Aruze Oukoku Pocket - Oohanabi (J).zip
+:	:	Pachi-Slot Aruze Oukoku Pocket - Porcano 2 (J).zip
+:	:	Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (J).zip
+:	:	Pachi-Slot Aruze Oukoku Pocket - e-Cup (J).zip
+:	:	Pachinko Hisshou Guide - Pocket Parlor (J).zip
+:	:	Party Mail (J).zip
+:	:	Picture Puzzle (UE).zip
+:	:	Pocket Love if (J).zip
+:	:	Pocket Reversi (E).zip
+:	:	Pocket Reversi (J).zip
+:	:	Pocket Tennis Color - Pocket Sports Series (JUE) (M2).zip
+:	:	Puyo Pop (JUE) (M2) (v1.05).zip
+:	:	Puyo Pop (JUE) (M2) (v1.06).zip
+:	:	Puzzle Bobble Mini (JE) (v1.09).zip
+:	:	Puzzle Bobble Mini (JE) (v1.10).zip
+:	:	Puzzle Link (E).zip
+:	:	Puzzle Link 2 (UE).zip
+:	:	Renketsu Puzzle Tsunagete Pon! Color (J).zip
+:	:	Rockman - Battle & Fighters (J).zip
+:	:	SNK Gals' Fighters (J).zip
+:	:	SNK Gals' Fighters (UE).zip
+:	:	SNK vs. Capcom - Card Fighters 2 - Expand Edition (J).zip
+:	:	SNK vs. Capcom - Card Fighters' Clash - Capcom Version (UE).zip
+:	:	SNK vs. Capcom - Card Fighters' Clash - SNK Version (UE).zip
+:	:	SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (J).zip
+:	:	SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (J).zip
+:	:	SNK vs. Capcom - The Match of the Millennium (JUE) (M2).zip
+:	:	Samurai Shodown! 2 - Pocket Fighting Series (JUE) (M2).zip
+:	:	Shanghai Mini (JUE) (M2).zip
+:	:	Shinki Sekai Evolution - Hateshinai Dungeon (J).zip
+:	:	Shougi no Tatsujin Color (J).zip
+:	:	Sonic the Hedgehog - Pocket Adventure (JUE).zip
+:	:	Soreike!! Hanafuda Doujou (J).zip
+:	:	Super Real Mahjong - Premium Collection (J).zip
+:	:	Tsunagete Pon! 2 (J).zip
+:	:	Wrestling Madness (UE) (Beta).zip

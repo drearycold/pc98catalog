@@ -1,0 +1,91 @@
+(EMU)(ROM) ZINC 1.01 ROM.rar
+a95fa10c8375b220a79328b6afe8a6c4ÅE19564b71e3c834ed86cbb72fb2d2358ed558ce1e
+632,046,129
+
+:	A9TGÇ…ó¨ÇÍÇƒÇΩÇ‡ÇÃÇ≈Ç∑ÅB.txt
+:	ROM name.txt
+:	Readme.txt
+:	ZINC 1.01 (CM).rar
+:	ZINC 1.01 69”Œœ∑¡–±ÅEtxt
+:	zinc bios.rar
+:	-= ZINC 1.01 ROM=-
+:	:	aquarush.zip
+:	:	beastrzb.zip
+:	:	beastrzr.zip
+:	:	bldyror2.zip
+:	:	brvblade.zip
+:	:	cbaj.zip
+:	:	doapp.zip
+:	:	dunkmnia.zip
+:	:	dunkmnic.zip
+:	:	ehrgeiz.zip
+:	:	fgtlayer.zip
+:	:	ftimpcta.zip
+:	:	gdarius.zip
+:	:	gdarius2.zip
+:	:	hvnsgate.zip
+:	:	hyperath.zip
+:	:	jgakuen.zip
+:	:	kikaioh.zip
+:	:	mfjump.zip
+:	:	mgcldate.zip
+:	:	mgcldtex.zip
+:	:	mrdrillr.zip
+:	:	myangel3.zip
+:	:	pacapp.zip
+:	:	pbball96.zip
+:	:	plsmaswd.zip
+:	:	primglex.zip
+:	:	psyforce.zip
+:	:	psyforcj.zip
+:	:	psyfrcex.zip
+:	:	raystorj.zip
+:	:	raystorm.zip
+:	:	rvschola.zip
+:	:	rvschool.zip
+:	:	sfex.zip
+:	:	sfex2.zip
+:	:	sfex2j.zip
+:	:	sfex2p.zip
+:	:	sfex2pa.zip
+:	:	sfex2pj.zip
+:	:	sfexa.zip
+:	:	sfexj.zip
+:	:	sfexp.zip
+:	:	sfexpj.zip
+:	:	shiryu2.zip
+:	:	shngmtkb.zip
+:	:	sncwgltd.zip
+:	:	souledga.zip
+:	:	souledgb.zip
+:	:	souledge.zip
+:	:	starglad.zip
+:	:	stargld2.zip
+:	:	starswep.zip
+:	:	strider2.zip
+:	:	susume.zip
+:	:	sws99.zip
+:	:	techromn.zip
+:	:	tekken.zip
+:	:	tekken2.zip
+:	:	tekken2a.zip
+:	:	tekken2b.zip
+:	:	tekkena.zip
+:	:	tekkenb.zip
+:	:	tgmj.zip
+:	:	tondemo.zip
+:	:	ts2.zip
+:	:	ts2j.zip
+:	:	weddingr.zip
+:	:	xevi3dg.zip
+:	zinc101-win32
+:	:	ZiNc.exe
+:	:	controller.znc
+:	:	readme.txt
+:	:	renderer.cfg
+:	:	s11player.dll
+:	:	sound.znc
+:	:	cfg
+:	:	:	dummy.txt
+:	:	roms
+:	:	:	dummy.txt

@@ -1,0 +1,1573 @@
+:	FM-TOWNS
+:	:	FM-TOWNSリスト.xls
+:	:	Towns BIOS F20.ZIP
+:	:	fmtowns.jpg
+:	:	遥かなるオーガスタ システム.zip
+:	:	Towns BIN
+:	:	:	Blank Disk.zip
+:	:	:	Free Soft TOWNS.LZH
+:	:	システム
+:	:	:	MS-DOS6 Towns.zip
+:	:	:	Vzエディタセット.zip
+:	:	:	main-hdd.zip
+:	Fm77
+:	:	FM-77AVxx Bios.zip
+:	:	FM77AV40 P1.JPG
+:	:	FM77AV40 P2.JPG
+:	:	fm77av.jpg
+:	:	DISK
+:	:	:	77AVデモディスク.zip
+:	:	:	DeathForce.zip
+:	:	:	GUTCHAN BANK.zip
+:	:	:	HYDLIDE2.zip
+:	:	:	LAYDOCK.zip
+:	:	:	LUXSOR.zip
+:	:	:	SPACE HARRIER.ZIP
+:	:	:	Ys2.zip
+:	:	:	Ys_AV.zip
+:	:	:	テラ4001.zip
+:	:	:	暗黒星雲.zip
+:	:	:	惑星メフィウス.zip
+:	:	裏技fm77
+:	:	:	ハイドライド2_FM-77.txt
+:	:	:	レイドックFM77.txt
+:	MSX
+:	:	Brank MSX_disk.zip
+:	:	FU-NET.url
+:	:	HBF1XDJ.ZIP
+:	:	MSXlogo.png
+:	:	msx-basic 命令セット一覧.zip
+:	:	sony f1xdj.jpg
+:	:	CAS
+:	:	:	TapeImage FIXED.zip
+:	:	:	Zeta2000.zip
+:	:	:	アウトロイド.zip
+:	:	:	ゴーストバスターズ.zip
+:	:	:	スパルタンX.zip
+:	:	:	ディスクウォーリア.zip
+:	:	:	トリトーン.zip
+:	:	:	フラッピー.zip
+:	:	:	ポートピア連続殺人事件.zip
+:	:	:	ムー大陸の謎.zip
+:	:	:	ヴォルガード.zip
+:	:	:	王将.zip
+:	:	:	黄金の墓.zip
+:	:	:	続黄金の墓.zip
+:	:	DSK
+:	:	:	ALESTE2.ZIP
+:	:	:	Adam_Eve.zip
+:	:	:	BlackOnyx.zip
+:	:	:	DAIVA.zip
+:	:	:	DANTE.zip
+:	:	:	DANTE2.zip
+:	:	:	Diablo.zip
+:	:	:	DiskPAC.zip
+:	:	:	Dsen2.zip
+:	:	:	F1Spirit3D.zip
+:	:	:	Fuunroku.zip
+:	:	:	GORBY PIPELINE.ZIP
+:	:	:	Ginkou Gouto.zip
+:	:	:	Grt_driver.zip
+:	:	:	GunjinSyougi.zip
+:	:	:	Gunyuden.zip
+:	:	:	HARADIUS.ZIP
+:	:	:	HBF1-XDJ.zip
+:	:	:	Hajafuin.zip
+:	:	:	Halnote Gstudio.zip
+:	:	:	Hydlide_Msx2.zip
+:	:	:	Konami-old.zip
+:	:	:	KuruttaSeisyun.zip
+:	:	:	Laydock.zip
+:	:	:	Laydock2.zip
+:	:	:	MSXDOS.zip
+:	:	:	Ninja.zip
+:	:	:	Nobunaga1.zip
+:	:	:	Okenotani-SP.zip
+:	:	:	Ougon.zip
+:	:	:	PACMANIA.zip
+:	:	:	PIXEL3.ZIP
+:	:	:	ProjectA.zip
+:	:	:	R-TYPE.zip
+:	:	:	SCCMARJP.zip
+:	:	:	SD-SNATCHER.zip
+:	:	:	Sangokusi.zip
+:	:	:	Sangokusi2.zip
+:	:	:	SiroKuro1 Hyakki.zip
+:	:	:	SiroKuro2 RinneTensei.zip
+:	:	:	SiroKuro3 Aska.zip
+:	:	:	Snatcher.zip
+:	:	:	Sparky.zip
+:	:	:	Suikoden.zip
+:	:	:	Synth_Sau.zip
+:	:	:	SystemDisk.zip
+:	:	:	TETRIS.zip
+:	:	:	Tanba.zip
+:	:	:	Tdf.zip
+:	:	:	Tritorn2.zip
+:	:	:	UchuKeisatu.zip
+:	:	:	Xanadu MSX2.zip
+:	:	:	Y_KENSET.zip
+:	:	:	Y_Kntsuerun.zip
+:	:	:	Yajiuman.zip
+:	:	:	Ys3.zip
+:	:	:	hydlide3_Dsav.zip
+:	:	MSX-DOS Tools
+:	:	:	AEG102.ZIP
+:	:	:	APED.ZIP
+:	:	:	LHPAK103.lzh
+:	:	:	MM207.lzh
+:	:	:	MSX-View_Apr.lzh
+:	:	:	PED.ZIP
+:	:	:	REWTY203.LZH
+:	:	:	TAPE063.LZH
+:	:	:	bine100.lzh
+:	:	:	c.lzh
+:	:	:	cs311.lzh
+:	:	:	diskview.lzh
+:	:	:	kdu104.lzh
+:	:	:	mapi001.lzh
+:	:	:	pmext.com
+:	:	:	super-x.lzh
+:	:	Msx裏技
+:	:	:	10倍楽しむカートリッジ.txt
+:	:	:	F-1SPIRIT.TXT
+:	:	:	F1SPIRIT 3Dスペシャル.txt
+:	:	:	sd_スナッチャー.txt
+:	:	:	２＋のローマ字変換について.txt
+:	:	:	アールタイプ_msx.txt
+:	:	:	アレスタ_MSX.txt
+:	:	:	イーガー皇帝の逆襲.txt
+:	:	:	イース3_msx.txt
+:	:	:	ウシャス.txt
+:	:	:	エルギーザの封印.txt
+:	:	:	カリオストロの城.txt
+:	:	:	ガリウスの迷宮_msx.txt
+:	:	:	キングコング2_MSX.txt
+:	:	:	グーニーズ_msx.txt
+:	:	:	グラディウス_MSX.txt
+:	:	:	グラディウス２_MSX.txt
+:	:	:	ゴーファーの野望.txt
+:	:	:	ザナック.txt
+:	:	:	ザナック_msx2.txt
+:	:	:	ザナドゥ_msx.txt
+:	:	:	ザナドゥ_msx2.txt
+:	:	:	スーパーレイドック.txt
+:	:	:	ゼビウス_msx.txt
+:	:	:	ソリッドスネーク.txt
+:	:	:	ダーウイン4078_msx.txt
+:	:	:	チャンピオンシップロードランナー.txt
+:	:	:	ツインビー_MSX.txt
+:	:	:	ディーヴァ.txt
+:	:	:	トリトーン.txt
+:	:	:	ドラゴンスレイヤー4.txt
+:	:	:	ハイドライド3MSX.txt
+:	:	:	ハイドライド２_msx.txt
+:	:	:	パックマニア_MSX.txt
+:	:	:	パロディウス_msx.txt
+:	:	:	フラッピー リミテッド８５.txt
+:	:	:	ペイロード.txt
+:	:	:	ボンバーマンスペシャル.txt
+:	:	:	マクロス.txt
+:	:	:	メタルギア.txt
+:	:	:	ロードランナー.txt
+:	:	:	ロマンシア_MSX.txt
+:	:	:	悪魔城ドラキュラ_MSX.txt
+:	:	:	王家の谷FD版.txt
+:	:	:	火の鳥_msx.txt
+:	:	:	激突ペナントレース.txt
+:	:	:	激突ﾍﾟﾅﾝﾄﾚｰｽ.txt
+:	:	:	五右衛門からくり道中_MSX.txt
+:	:	:	魔城伝説.txt
+:	:	:	魔法使いWIZ_MSX.txt
+:	:	:	夢大陸アドベンチャー.txt
+:	:	OS
+:	:	:	HALNOTE.ZIP
+:	:	:	Msxdos22.zip
+:	:	ROM
+:	:	:	A-TRUCK.zip
+:	:	:	A1Spirit.zip
+:	:	:	AE.ZIP
+:	:	:	ALESTE infiTime.ZIP
+:	:	:	ALESTE.zip
+:	:	:	Alibaba.zip
+:	:	:	Alphasquadron.zip
+:	:	:	Ashguine2.zip
+:	:	:	Ashguine3.zip
+:	:	:	BOMBERMAN.zip
+:	:	:	Basikn2.zip
+:	:	:	Bomberman-Special.zip
+:	:	:	Boukenjima INV.zip
+:	:	:	Boukenjima.zip
+:	:	:	Bungelingbay INV.zip
+:	:	:	Bungelingbay.zip
+:	:	:	BuruMarty.zip
+:	:	:	CARFIGHT.ZIP
+:	:	:	CHAKNPOP.zip
+:	:	:	CHOPLIFT.zip
+:	:	:	COSMOEXPLORE.ZIP
+:	:	:	C_Loadrunner.zip
+:	:	:	CasioWORLD.zip
+:	:	:	Castle INF.zip
+:	:	:	Castle.zip
+:	:	:	ComOTHELO.zip
+:	:	:	ComeOn Picot.zip
+:	:	:	CrazyTrain.zip
+:	:	:	D4078.zip
+:	:	:	DOORDOOR.zip
+:	:	:	DORODON.zip
+:	:	:	Daiva_MSX1.zip
+:	:	:	DokidokiPengin.zip
+:	:	:	Doordoor INF.zip
+:	:	:	DrQuest.zip
+:	:	:	Dr_slayer4 EASY.zip
+:	:	:	Dr_slayer4.zip
+:	:	:	Dracula INV.zip
+:	:	:	Dracula.zip
+:	:	:	EI.ZIP
+:	:	:	EIDOLON.ZIP
+:	:	:	Eagle Fighter.zip
+:	:	:	EggerLand.zip
+:	:	:	Elevator Action.zip
+:	:	:	Exoide-Z.zip
+:	:	:	F1spirit.zip
+:	:	:	FLAPPY85.zip
+:	:	:	FRONTLIN.zip
+:	:	:	FUUNROKU.zip
+:	:	:	Firebird.zip
+:	:	:	GALAGA.zip
+:	:	:	GOFER-INV.zip
+:	:	:	GOFERnoYabou.zip
+:	:	:	GOLFGAME.zip
+:	:	:	GPWORLD.ZIP
+:	:	:	Game Master.zip
+:	:	:	Game Master2.zip
+:	:	:	GamelandSp.zip
+:	:	:	GhostBasters.zip
+:	:	:	Goemon.zip
+:	:	:	Goonies.zip
+:	:	:	Gradius.zip
+:	:	:	Gradius2-Beta.zip
+:	:	:	Gradius2.zip
+:	:	:	Gulkave.zip
+:	:	:	Gunyuden.zip
+:	:	:	HERO.zip
+:	:	:	Hydlide2 INF.zip
+:	:	:	Hydlide2.zip
+:	:	:	Hydlide3_MSX1.zip
+:	:	:	Hydlide3_Msx2 upEXP.zip
+:	:	:	Hydlide3_Msx2.zip
+:	:	:	Hydlide_MSX1.zip
+:	:	:	Iga-Ninpo2.zip
+:	:	:	Iga-ninpotyou.zip
+:	:	:	JINGISKAN.zip
+:	:	:	JUNOFIRST.ZIP
+:	:	:	Jetsetwirry INV.zip
+:	:	:	Jetsetwirry.zip
+:	:	:	K-Kong2.zip
+:	:	:	Kariosutro.zip
+:	:	:	KingsValley.zip
+:	:	:	KingsValley2_Gold.zip
+:	:	:	KingsVally2.zip
+:	:	:	KinnikuMan.zip
+:	:	:	KnightLore.zip
+:	:	:	KnightMare1.zip
+:	:	:	KunfuTaikun.zip
+:	:	:	LAPTICK2.zip
+:	:	:	Loderunner2.zip
+:	:	:	MAPPY.zip
+:	:	:	MOUSER.ZIP
+:	:	:	MSX-FANLib1.zip
+:	:	:	Macross.zip
+:	:	:	MagicalTree.zip
+:	:	:	MazeOfGalious.zip
+:	:	:	MetalGear.zip
+:	:	:	MetalGear2.zip
+:	:	:	MopiRanger INV.zip
+:	:	:	MopiRanger.zip
+:	:	:	MrCHIN.zip
+:	:	:	NessenKousien.zip
+:	:	:	Ninja-kage.zip
+:	:	:	NobunagaM1.zip
+:	:	:	NobunagaM2.zip
+:	:	:	PAYLOAD.ZIP
+:	:	:	POOYAN.zip
+:	:	:	PROTECTOR.ZIP
+:	:	:	Parodius-INV.zip
+:	:	:	Parodius.zip
+:	:	:	Pennant_Race.zip
+:	:	:	ProjectA2.zip
+:	:	:	QBERT.ZIP
+:	:	:	Quarth.zip
+:	:	:	R-TYPE.zip
+:	:	:	RAMBO INV.ZIP
+:	:	:	RAMBO.zip
+:	:	:	RedZone.zip
+:	:	:	Replicart.zip
+:	:	:	RollerBall.zip
+:	:	:	Romancia INV.zip
+:	:	:	Romancia.zip
+:	:	:	SCION.zip
+:	:	:	SENJYO.ZIP
+:	:	:	SOUKOBAN.ZIP
+:	:	:	SPARKIE.zip
+:	:	:	SUIKODEN.zip
+:	:	:	SYOUGUN.ZIP
+:	:	:	Salamander-INV.zip
+:	:	:	Salamander.zip
+:	:	:	Sangokusi2.zip
+:	:	:	SangokusiM1.zip
+:	:	:	SangokusiM2.zip
+:	:	:	Scc_Majyou.zip
+:	:	:	Scc_Nemesis.zip
+:	:	:	Scc_Pippolus.zip
+:	:	:	Scc_Soumen.zip
+:	:	:	Scc_Title.zip
+:	:	:	Scc_Tsurupika.zip
+:	:	:	Scc_TwinBee.zip
+:	:	:	Scc_YieArKangFu.zip
+:	:	:	Scc_Yiegar.zip
+:	:	:	SeikenACHO.zip
+:	:	:	Shalom.zip
+:	:	:	Shougi.zip
+:	:	:	SkiCommand.zip
+:	:	:	SkyJaguar NoWait.zip
+:	:	:	SpaceManbow.zip
+:	:	:	StarBlazer.zip
+:	:	:	StarForce.zip
+:	:	:	StarSOLDER.zip
+:	:	:	Super RAMBO.zip
+:	:	:	SuperLAYDOCK.zip
+:	:	:	SuperTriton.zip
+:	:	:	THESEUS.zip
+:	:	:	TRITON.zip
+:	:	:	Th_BOLT.zip
+:	:	:	Traffic.zip
+:	:	:	Twinbee.zip
+:	:	:	USYAS withSLOT.ZIP
+:	:	:	USYAS.zip
+:	:	:	Urutoraman.zip
+:	:	:	Volguard.zip
+:	:	:	WIZ.ZIP
+:	:	:	WarRoid.zip
+:	:	:	WarpWarp.zip
+:	:	:	Xanadu.zip
+:	:	:	Xevious.zip
+:	:	:	YieArKungFu.zip
+:	:	:	Yiegar.zip
+:	:	:	Yumetairiku EASY.zip
+:	:	:	Yumetairiku.zip
+:	:	:	ZANACEX.zip
+:	:	:	ZanacMSX1.zip
+:	:	:	Zexas limited.zip
+:	:	:	bokosuka-was.zip
+:	:	:	contora.zip
+:	:	:	gradius2-allrom.zip
+:	:	:	loderunner1.zip
+:	:	エミュレータ サポートツール
+:	:	:	CAS相互変換.zip
+:	:	:	MsxBasic Viewer.lzh
+:	:	:	P6DatRec.lzh
+:	:	:	テープイメージ作成.htm
+:	:	:	ディスクイメージ製作セット.zip
+:	MZ-2500
+:	:	MZ2500_BIOS.ZIP
+:	:	SHARP MZ-2500.mpg
+:	:	ゼビウス.zip
+:	:	マッピー.zip
+:	:	蒼き狼と白き牝鹿.zip
+:	PC-8801
+:	:	PC88BIOS.zip
+:	:	Pc88va ROM.zip
+:	:	pc88mh.jpg
+:	:	disk
+:	:	:	JESUS.ZIP
+:	:	:	JESUS2.ZIP
+:	:	:	PC-8801SR demo.ZIP
+:	:	:	Zarth.zip
+:	:	:	harakiri.zip
+:	:	:	ぐっちゃんばんく.zip
+:	:	:	アステカ.ZIP
+:	:	:	アメリカンサクセス.ZIP
+:	:	:	アルバトロス＋追加コース.ZIP
+:	:	:	アンジェラス.zip
+:	:	:	イース３.zip
+:	:	:	イースシリーズデモディスク.ZIP
+:	:	:	キングフラッピー.zip
+:	:	:	グーニーズ.ZIP
+:	:	:	コズミックソルジャー.ZIP
+:	:	:	サイオブレード.zip
+:	:	:	ザナドゥ.zip
+:	:	:	シルフィード.zip
+:	:	:	ジンギスカン.zip
+:	:	:	スーパーマリオ.ZIP
+:	:	:	スキーム.zip
+:	:	:	スタークルーザー.zip
+:	:	:	スナッチャー.ZIP
+:	:	:	スペースハリアー.ZIP
+:	:	:	ゼリアード.zip
+:	:	:	テグザー.zip
+:	:	:	テルナノーグ.zip
+:	:	:	テレネット ミュージック.zip
+:	:	:	デゼニランド.zip
+:	:	:	デゼニワールド.zip
+:	:	:	トップルジップ.zip
+:	:	:	ドアドア.zip
+:	:	:	ドアドアmk2 .zip
+:	:	:	ドラゴンスレイヤー.zip
+:	:	:	ハイドライド.zip
+:	:	:	ハイドライド2.zip
+:	:	:	ハイドライド３.zip
+:	:	:	バック トゥ ザ フューチャー.zip
+:	:	:	バビロンの黄金伝説.zip
+:	:	:	バランスオブパワー.zip
+:	:	:	ファイヤークリスタル.zip
+:	:	:	ファイヤーホーク.zip
+:	:	:	ブラックオニキス.zip
+:	:	:	ポートピア連続殺人事件.zip
+:	:	:	マクロス カントダウン.zip
+:	:	:	ミスティーブルー.zip
+:	:	:	ミッドガルツ.zip
+:	:	:	リグラス.zip
+:	:	:	レリクス.zip
+:	:	:	ロマンシア.zip
+:	:	:	黄金の墓.zip
+:	:	:	軽井沢連続殺人.zip
+:	:	:	三國志SR.zip
+:	:	:	紫醜羅.zip
+:	:	:	信長の野望 戦国群雄伝.ZIP
+:	:	:	信長の野望全国版.ZIP
+:	:	:	神の聖都.zip
+:	:	:	青い宇宙の冒険.zip
+:	:	:	太陽の神殿.zip
+:	:	:	地球戦士ライーザ.zip
+:	:	:	電脳水滸伝.zip
+:	:	:	道化師殺人事件.zip
+:	:	:	白と黒の伝説シリーズ下巻.zip
+:	:	:	白と黒の伝説シリーズ上巻.zip
+:	:	:	抜忍伝説.zip
+:	:	:	北斗の拳.zip
+:	:	:	未来.zip
+:	:	:	ｵﾎｰﾂｸに消ゆ.zip
+:	:	:	ｻﾗﾀﾞ国のﾄﾏﾄ姫.zip
+:	:	:	琥珀色の遺言.zip
+:	:	裏技pc88
+:	:	:	アンジェラス.txt
+:	:	:	ザ・スキーム.txt
+:	:	:	ザナドゥ.txt
+:	:	:	シルフィード.txt
+:	:	:	スタークルーザー.txt
+:	:	:	ゼリアード.txt
+:	:	:	マクロス カウントダウン.txt
+:	:	:	ミッドガルツ.txt
+:	:	:	三國志.txt
+:	PC-9801
+:	:	PC98xxBIOS.lzh
+:	:	PC98ハードウエア設定Uty集.zip
+:	:	n88basic リファレンス.zip
+:	:	pc9801ra2.jpg
+:	:	Disk
+:	:	:	3D Golf Simulation SET.ZIP
+:	:	:	3DGOLF Simulation2 SET.zip
+:	:	:	4Dドライブ.zip
+:	:	:	4Dボクシング.zip
+:	:	:	Alone In the DARK.zip
+:	:	:	Alone in the Dark2.zip
+:	:	:	A列車で行こう4PK.zip
+:	:	:	DAIVA カリ・ユガの光輝.zip
+:	:	:	DCコネクション.ZIP
+:	:	:	DOOM1.ZIP
+:	:	:	DOOM2.ZIP
+:	:	:	D欧州蜃気楼.zip
+:	:	:	GARUDIUS95.ZIP
+:	:	:	KEMESIS.zip
+:	:	:	MS-DOS Ver33D.ZIP
+:	:	:	MS-DOS Ver62.zip
+:	:	:	N88BASIC.zip
+:	:	:	RCP98V3-K4.ZIP
+:	:	:	SimCity200 DX.zip
+:	:	:	Super大戦略.zip
+:	:	:	TETRIS.zip
+:	:	:	WIZARDv5.zip
+:	:	:	Zs Staff Kid98.zip
+:	:	:	dante98_2.zip
+:	:	:	アトラス.ZIP
+:	:	:	アトラス2.ZIP
+:	:	:	ウォーゲームコンストラクション.zip
+:	:	:	エアマネジメント2.ZIP
+:	:	:	オホーツクに消ゆ.zip
+:	:	:	キャッスルズ.ZIP
+:	:	:	キャッスルズ2.ZIP
+:	:	:	キャンペーン版大戦略2.zip
+:	:	:	キングスダンジョン.ZIP
+:	:	:	コズミックソルジャー.ZIP
+:	:	:	ゴジラ.ZIP
+:	:	:	サバッシュ2.ZIP
+:	:	:	システムHDD pc98.ZIP
+:	:	:	システムディスク.zip
+:	:	:	シムファーム.ZIP
+:	:	:	シヴィライゼーション.ZIP
+:	:	:	スタークルーザー２.zip
+:	:	:	ソードワールドPC.zip
+:	:	:	ダンジョンマスター2 スカルキープ.zip
+:	:	:	ティルナノーグ2.zip
+:	:	:	ディガンの魔石.zip
+:	:	:	トキオ 東京都第２4区.zip
+:	:	:	トキオ2.zip
+:	:	:	バカスカウオーズ.zip
+:	:	:	バランスオブパワー.zip
+:	:	:	ファーストクイーン4.zip
+:	:	:	プリンスオブペルシャ.zip
+:	:	:	マスターオブモンスターズ2.zip
+:	:	:	メルヘンベール.zip
+:	:	:	メルヘンベール2.zip
+:	:	:	ランペルール.zip
+:	:	:	リバイバルザナドゥ.zip
+:	:	:	ルーンワース２.zip
+:	:	:	ルーンワース３.zip
+:	:	:	ローマは1日にして成らず.zip
+:	:	:	維新の嵐.zip
+:	:	:	一太郎5R1.zip
+:	:	:	宇羅曼蛇.zip
+:	:	:	下天.zip
+:	:	:	下天2.zip
+:	:	:	臥竜伝 三国制覇の計.zip
+:	:	:	関ヶ原.zip
+:	:	:	関ヶ原2.zip
+:	:	:	機甲師団2.zip
+:	:	:	義経.zip
+:	:	:	空軍大戦略.zip
+:	:	:	群雄三国志.zip
+:	:	:	現代大戦略EX.zip
+:	:	:	項劉記.zip
+:	:	:	三國志1.zip
+:	:	:	三國志1ver2.ZIP
+:	:	:	三國志2.zip
+:	:	:	三國志3.zip
+:	:	:	三國志4PK.zip
+:	:	:	三國志5PK.ZIP
+:	:	:	三國志英傑伝.ZIP
+:	:	:	斬 陽炎の時代セット.zip
+:	:	:	斬2.zip
+:	:	:	斬3.zip
+:	:	:	指輪物語 二つの塔.zip
+:	:	:	指輪物語 旅の仲間.zip
+:	:	:	私説三国志.zip
+:	:	:	私説戦国時代.zip
+:	:	:	昇龍三國志.zip
+:	:	:	信長の野望 群雄伝.zip
+:	:	:	信長の野望 全国版.zip
+:	:	:	信長の野望 全国版ver2.zip
+:	:	:	信長の野望 天翔記PK.zip
+:	:	:	信長の野望 覇王伝PK.ZIP
+:	:	:	信長の野望 武将風雲録.zip
+:	:	:	信長の野望.ZIP
+:	:	:	森田将棋5.zip
+:	:	:	水滸伝.zip
+:	:	:	戦乱.zip
+:	:	:	倉庫番パーフェクト.zip
+:	:	:	太閤立志伝2.zip
+:	:	:	大戦略4.zip
+:	:	:	大戦略３セット.zip
+:	:	:	提督の決断.zip
+:	:	:	天と地と.ZIP
+:	:	:	天下統一.zip
+:	:	:	天下統一2PK.zip
+:	:	:	天舞 三国志正史セット.ZIP
+:	:	:	東京TwilightBusters.zip
+:	:	:	日立RPGセット.zip
+:	:	:	龍王三国志.zip
+:	:	fmp_pmd
+:	:	:	AirCombat.zip
+:	:	:	MistyBlue.zip
+:	:	:	ReXanadu.zip
+:	:	:	ReXanadu2.zip
+:	:	:	Snatcher.zip
+:	:	:	Ys3_pc88.zip
+:	:	:	gradius2ac.zip
+:	:	:	ジンギスカン.ZIP
+:	:	:	バカスカウォーズ.zip
+:	:	:	火の鳥.zip
+:	:	:	聖剣伝説.zip
+:	X1
+:	:	X1_ALLrom.zip
+:	:	X1turbo.jpg
+:	:	disks
+:	:	:	GRADIUS(OPM).zip
+:	:	:	HYDLIDE.zip
+:	:	:	OUTROYD.zip
+:	:	:	Super LAYDOCK.zip
+:	:	:	X1turboII demo.zip
+:	:	:	アスピックスペシャル.ZIP
+:	:	:	スタークルーザー X1.zip
+:	:	:	ソーサリアン X1.zip
+:	:	:	トリトーン.zip
+:	X68000
+:	:	Human68K説明書.zip
+:	:	X-BASIC リファレンス.zip
+:	:	X68000 CompactXVI No2.jpg
+:	:	X68000 CompactXVI.jpg
+:	:	X68000 SpaceHarrier CM.jpg
+:	:	X68000.jpg
+:	:	X68000HDD.zip
+:	:	X68000リスト.xls
+:	:	X68K-CM.AVI
+:	:	X68KBIOS.lzh
+:	:	システムディスクX68k.ZIP
+:	:	TOOLS
+:	:	:	HUMAN68K
+:	:	:	:	ARC
+:	:	:	:	:	LHA_4751.X
+:	:	:	:	:	LHA_X647.X
+:	:	:	:	:	LHES0893.LZH
+:	:	:	:	:	LHLK102X.LZH
+:	:	:	:	:	LXR120FS.LZH
+:	:	:	:	:	LZD112.LZH
+:	:	:	:	:	LZHDAE75.LZH
+:	:	:	:	:	LZX104.LZH
+:	:	:	:	:	TAR_ZIP
+:	:	:	:	:	:	TXR100FS.LZH
+:	:	:	:	:	:	ZIP20X68.ZIP
+:	:	:	:	:	:	ZXR121MS.LZH
+:	:	:	:	ASK68K
+:	:	:	:	:	AI3.LZH
+:	:	:	:	:	ASKP000.LZH
+:	:	:	:	BASIC
+:	:	:	:	:	DF1210.LZH
+:	:	:	:	:	EXEC_FNC.LZH
+:	:	:	:	:	RAS0821.LZH
+:	:	:	:	:	XB0201.LZH
+:	:	:	:	:	XB0201S.LZH
+:	:	:	:	:	XB0305.LZH
+:	:	:	:	:	XBASIC.TXT
+:	:	:	:	:	XBC001B.LZH
+:	:	:	:	:	XSPRITE.LZH
+:	:	:	:	:	XSPRITEB.LZH
+:	:	:	:	COMLINE
+:	:	:	:	:	BATKEY.lzh
+:	:	:	:	:	KOMONO00.LZH
+:	:	:	:	:	KT980723.LZH
+:	:	:	:	:	calc.lzh
+:	:	:	:	:	ksd17i.lzh
+:	:	:	:	COPYTOOL
+:	:	:	:	:	B_PRO68K.LZH
+:	:	:	:	:	DC2_065.LZH
+:	:	:	:	:	TWINCOPY.LZH
+:	:	:	:	:	proemu.zip
+:	:	:	:	DISKUT
+:	:	:	:	:	2HDBOOT.LZH
+:	:	:	:	:	9SCSET.LZH
+:	:	:	:	:	DCON.LZH
+:	:	:	:	:	DCU_075.LZH
+:	:	:	:	:	DE0021.LZH
+:	:	:	:	:	DIFC1199.LZH
+:	:	:	:	:	DPK1327.LZH
+:	:	:	:	:	FSCK1032.LZH
+:	:	:	:	:	GRAD130.LZH
+:	:	:	:	:	REFG125.LZH
+:	:	:	:	:	SD141.LZH
+:	:	:	:	EDIT
+:	:	:	:	:	DEDIT226.LZH
+:	:	:	:	:	EDR_V2.zip
+:	:	:	:	:	FES127A.LZH
+:	:	:	:	:	SUPERED.LZH
+:	:	:	:	FILEUT
+:	:	:	:	:	BDIFSET.LZH
+:	:	:	:	:	DIRI.LZH
+:	:	:	:	:	DIRU.LZH
+:	:	:	:	:	FLCT0124.LZH
+:	:	:	:	:	FU_P23d.lzh
+:	:	:	:	:	LC293X.LZH
+:	:	:	:	:	LDEL242X.LZH
+:	:	:	:	:	LM203X.LZH
+:	:	:	:	:	SUPR_BUP.LZH
+:	:	:	:	:	VIEW_V3.LZH
+:	:	:	:	:	dshell3.lzh
+:	:	:	:	FONT
+:	:	:	:	:	F16_24.LZH
+:	:	:	:	:	H16_24.LZH
+:	:	:	:	:	MAKE1212.LZH
+:	:	:	:	:	TrueType_CNV.lzh
+:	:	:	:	:	X68K_fonts.zip
+:	:	:	:	:	kaku0100.lzh
+:	:	:	:	GAME
+:	:	:	:	:	CPBUS.LZH
+:	:	:	:	:	KAOEDIT.LZH
+:	:	:	:	:	NINE.lzh
+:	:	:	:	:	RENSHA.LZH
+:	:	:	:	:	SPD.LZH
+:	:	:	:	:	SPICON.LZH
+:	:	:	:	:	CPSF
+:	:	:	:	:	:	CPMD106.LZH
+:	:	:	:	:	:	CPSF_KEY.LZH
+:	:	:	:	:	:	JOYDRV20.LZH
+:	:	:	:	:	PATCH
+:	:	:	:	:	:	16_GENPE.LZH
+:	:	:	:	:	:	16_GRA1.LZH
+:	:	:	:	:	:	24_AB2.LZH
+:	:	:	:	:	:	24_BOSC.LZH
+:	:	:	:	:	:	24_DAI3.LZH
+:	:	:	:	:	:	24_FZONE.LZH
+:	:	:	:	:	:	ABMIDI.LZH
+:	:	:	:	:	:	BOSC_MID.LZH
+:	:	:	:	:	:	COCKPAT1.LZH
+:	:	:	:	:	:	DRA_HDD.ZIP
+:	:	:	:	:	:	DRA_PAT.LZH
+:	:	:	:	:	:	DRSP_MID.LZH
+:	:	:	:	:	:	GAMEDIT2.LZH
+:	:	:	:	:	:	GEOG_PAT.LZH
+:	:	:	:	:	:	GOLFHD.LZH
+:	:	:	:	:	:	GOLFHD2.LZH
+:	:	:	:	:	:	GOLFHD3.LZH
+:	:	:	:	:	:	GRA1_PAT.zip
+:	:	:	:	:	:	GRA2_PAT.LZH
+:	:	:	:	:	:	GRA_md.ZIP
+:	:	:	:	:	:	GS_KAI.LZH
+:	:	:	:	:	:	HAR_MIDI.LZH
+:	:	:	:	:	:	HAR_PAT.LZH
+:	:	:	:	:	:	JOYDRV.LZH
+:	:	:	:	:	:	KNMIMIDI.LZH
+:	:	:	:	:	:	LagoonMD.lzh
+:	:	:	:	:	:	M_PATSET.LZH
+:	:	:	:	:	:	NEME_MC.LZH
+:	:	:	:	:	:	OVERTAKE.LZH
+:	:	:	:	:	:	PARO_PAT.LZH
+:	:	:	:	:	:	PAT3_FIX.LZH
+:	:	:	:	:	:	SALA_PAT.ZIP
+:	:	:	:	:	:	SLUSTPAT.LZH
+:	:	:	:	:	:	SST2PAT.LZH
+:	:	:	:	:	:	S_CLZ_P.LZH
+:	:	:	:	:	:	TETRS104.LZH
+:	:	:	:	:	:	TWIN_PAT.LZH
+:	:	:	:	:	:	nospatch.lzh
+:	:	:	:	:	:	phala_p8.lzh
+:	:	:	:	GRAPHIC
+:	:	:	:	:	24_31KHZ.LZH
+:	:	:	:	:	CONV.LZH
+:	:	:	:	:	EEL_203B.LZH
+:	:	:	:	:	ExSYSTEM.LZH
+:	:	:	:	:	F31K.LZH
+:	:	:	:	:	GONBE4.LZH
+:	:	:	:	:	Matier211b.LZH
+:	:	:	:	:	SCR.LZH
+:	:	:	:	:	TATE256.LZH
+:	:	:	:	:	TITLE_ED.LZH
+:	:	:	:	:	TTLC.LZH
+:	:	:	:	:	TXT2PIC1.LZH
+:	:	:	:	:	W_CRAYONS.LZH
+:	:	:	:	:	XGE541.ZIP
+:	:	:	:	:	ZED008.LZH
+:	:	:	:	:	Z_CRT.LZH
+:	:	:	:	:	ZsSTAFF3.ZIP
+:	:	:	:	:	mfg53.Lzh
+:	:	:	:	:	pyro68.lzh
+:	:	:	:	:	LOADSAVE
+:	:	:	:	:	:	APG_211A.LZH
+:	:	:	:	:	:	B2PIC003.LZH
+:	:	:	:	:	:	BMPL033B.LZH
+:	:	:	:	:	:	COPIX010.Lzh
+:	:	:	:	:	:	CVSAVESC.LZH
+:	:	:	:	:	:	GGR.LZH
+:	:	:	:	:	:	GLM_TOOL.LZH
+:	:	:	:	:	:	GOSE.LZH
+:	:	:	:	:	:	JPEG100.LZH
+:	:	:	:	:	:	JPEGED26.LZH
+:	:	:	:	:	:	PI107_6.LZH
+:	:	:	:	:	:	SAVESC.LZH
+:	:	:	:	:	:	TFV68145.LZH
+:	:	:	:	:	:	XBMP064.LZH
+:	:	:	:	:	:	pngl030b.zip
+:	:	:	:	HUMAN_S
+:	:	:	:	:	HU_V100.LZH
+:	:	:	:	:	HU_V101.LZH
+:	:	:	:	:	HU_V201.LZH
+:	:	:	:	:	HU_V202.LZH
+:	:	:	:	:	HU_V203.LZH
+:	:	:	:	:	HU_V301.LZH
+:	:	:	:	:	HU_V302.LZH
+:	:	:	:	MUSIC
+:	:	:	:	:	LMZ2.LZH
+:	:	:	:	:	MMR31P1.ZIP
+:	:	:	:	:	MNDRV132.LZH
+:	:	:	:	:	ZMPLY060.LZH
+:	:	:	:	:	RC_SYS
+:	:	:	:	:	:	CONV3013.LZH
+:	:	:	:	:	:	CVS504_X.LZH
+:	:	:	:	:	:	RC3013.LZH
+:	:	:	:	:	:	STED_ALL.LZH
+:	:	:	:	:	:	ZTOR020.LZH
+:	:	:	:	:	ZMUSICV2
+:	:	:	:	:	:	ADPCMS.LZH
+:	:	:	:	:	:	DIVZPD04.ZIP
+:	:	:	:	:	:	DTOS_025.LZH
+:	:	:	:	:	:	LZZ057A.LZH
+:	:	:	:	:	:	MZP04B_T.LZH
+:	:	:	:	:	:	SDTOZP1.LZH
+:	:	:	:	:	:	Z55P101.LZH
+:	:	:	:	:	:	ZM208_01.LZH
+:	:	:	:	:	:	ZMSC208X.LZH
+:	:	:	:	:	:	ZMSC2MAN.LZH
+:	:	:	:	:	:	ZM_OMAKE.LZH
+:	:	:	:	:	:	ZTOM162.Lzh
+:	:	:	:	:	:	sound111.lzh
+:	:	:	:	:	mxdrv
+:	:	:	:	:	:	MDXP009A.LZH
+:	:	:	:	:	:	MDX_TOOLS.LZH
+:	:	:	:	:	:	MXDRV206.LZH
+:	:	:	:	:	:	mx16y_25.lzh
+:	:	:	:	PROGRAM
+:	:	:	:	:	DIS314.lzh
+:	:	:	:	:	GCC142.LZH
+:	:	:	:	:	HAS06087.LZH
+:	:	:	:	:	MSXLIB.lzh
+:	:	:	:	:	OAR104.lzh
+:	:	:	:	:	SCD06012.LZH
+:	:	:	:	:	XC.lzh
+:	:	:	:	:	hlk301b.lzh
+:	:	:	:	:	lisp講座.lzh
+:	:	:	:	:	C言語
+:	:	:	:	:	:	C言語ガイド.txt
+:	:	:	:	:	:	zsaru01.lzh
+:	:	:	:	:	:	zsaru02.lzh
+:	:	:	:	:	:	zsaru03.lzh
+:	:	:	:	:	:	zsaru04.lzh
+:	:	:	:	:	:	zsaru05.lzh
+:	:	:	:	:	:	zsaru06.lzh
+:	:	:	:	:	:	zsaru07.lzh
+:	:	:	:	:	:	zsaru08.lzh
+:	:	:	:	:	:	zsaru09.lzh
+:	:	:	:	:	:	zsaru10.lzh
+:	:	:	:	:	:	zsaru11.lzh
+:	:	:	:	:	:	zsaru12.lzh
+:	:	:	:	:	:	zsaru13.lzh
+:	:	:	:	:	:	zsaru14.lzh
+:	:	:	:	:	:	zsaru15.lzh
+:	:	:	:	:	:	zsaru16.lzh
+:	:	:	:	:	:	zsaru17.lzh
+:	:	:	:	:	:	zsaru18.lzh
+:	:	:	:	:	:	zsaru19.lzh
+:	:	:	:	:	:	zsaru20.lzh
+:	:	:	:	:	:	zsaru21.lzh
+:	:	:	:	:	:	zsaru22.lzh
+:	:	:	:	:	:	zsaru23.lzh
+:	:	:	:	:	:	zsaru24.lzh
+:	:	:	:	:	make
+:	:	:	:	:	:	MAKEHU11.ZIP
+:	:	:	:	:	:	MAKEHU12.ZIP
+:	:	:	:	:	:	gmake_man.LZH
+:	:	:	:	:	ライブラリ類
+:	:	:	:	:	:	gnulib.lzh
+:	:	:	:	:	:	libc_32aD4.lzh
+:	:	:	:	:	:	libgnu150.lzh
+:	:	:	:	:	:	sxdevenv.lzh
+:	:	:	:	Pcm_tool
+:	:	:	:	:	MIAP08BA.LZH
+:	:	:	:	:	PCM3V215.LZH
+:	:	:	:	:	PCM8048B.LZH
+:	:	:	:	:	PCM8A059.LZH
+:	:	:	:	:	PCMRE_PL.LZH
+:	:	:	:	:	PDXTOZPD.LZH
+:	:	:	:	:	PZPD207.LZH
+:	:	:	:	:	RDN_101.LZH
+:	:	:	:	:	SYS_BEEP.LZH
+:	:	:	:	:	W2p.lzh
+:	:	:	:	:	WAVPLAY6.LZH
+:	:	:	:	:	nnpd203.lzh
+:	:	:	:	SCSI
+:	:	:	:	:	ASS_113A.LZH
+:	:	:	:	:	CD_Driver.lzh
+:	:	:	:	:	DSKBENCH.LZH
+:	:	:	:	:	FAT32_4.LZH
+:	:	:	:	:	GOVER031.LZH
+:	:	:	:	:	HDSKF08P.LZH
+:	:	:	:	:	MOCP0194.TGZ
+:	:	:	:	:	SEEKPAT.LZH
+:	:	:	:	:	SSE_121A.LZH
+:	:	:	:	:	SXSI4.LZH
+:	:	:	:	SYSTEM
+:	:	:	:	:	18SRAMCL.LZH
+:	:	:	:	:	ADRV302A.LZH
+:	:	:	:	:	BM222B.LZH
+:	:	:	:	:	CDINIT.LZH
+:	:	:	:	:	CHEV101.LZH
+:	:	:	:	:	CNFSEL02.LZH
+:	:	:	:	:	CONDRV.LZH
+:	:	:	:	:	CPUPOWER.LZH
+:	:	:	:	:	DCACH212.LZH
+:	:	:	:	:	HFONT122.LZH
+:	:	:	:	:	HIOCS16.LZH
+:	:	:	:	:	HIOCSP14.ZIP
+:	:	:	:	:	KEY2.LZH
+:	:	:	:	:	KEYWB212.LZH
+:	:	:	:	:	KW212213.LZH
+:	:	:	:	:	LN12.LZH
+:	:	:	:	:	LNDRV126.LZH
+:	:	:	:	:	LZXLOAD.LZH
+:	:	:	:	:	PROGRAM.LZH
+:	:	:	:	:	RSHIFT.LZH
+:	:	:	:	:	SI366.ZIP
+:	:	:	:	:	T14DRV.LZH
+:	:	:	:	:	TW136C14.LZH
+:	:	:	:	:	TWON123B.LZH
+:	:	:	:	:	TWSYS10.ZIP
+:	:	:	:	:	VS_fullset.lzh
+:	:	:	:	etc
+:	:	:	:	:	KIDOU.BAT
+:	:	:	:	:	ライジングサン 全曲集.zip
+:	:	:	Sx
+:	:	:	:	NEW_INST.LZH
+:	:	:	:	ARC
+:	:	:	:	:	SXGZIP08.LZH
+:	:	:	:	:	SXTAR030.LZH
+:	:	:	:	:	SXXX098.LZH
+:	:	:	:	:	VISON111.TGZ
+:	:	:	:	CALC
+:	:	:	:	:	calc061.lzh
+:	:	:	:	:	calcd060.lzh
+:	:	:	:	DATE
+:	:	:	:	:	ANAROGS.LZH
+:	:	:	:	:	CALEN104.LZH
+:	:	:	:	:	SCLOCKS0.LZH
+:	:	:	:	EXTEND
+:	:	:	:	:	ADI06.LZH
+:	:	:	:	:	MFOCK010.LZH
+:	:	:	:	:	SXSH130.LZH
+:	:	:	:	:	KANJI
+:	:	:	:	:	:	HENW2144.LZH
+:	:	:	:	:	:	KKCC001.LZH
+:	:	:	:	FIL_DRIV
+:	:	:	:	:	DRIVI105.LZH
+:	:	:	:	:	FINFO133.LZH
+:	:	:	:	:	KONPOI3.LZH
+:	:	:	:	:	NEWPATH.LZH
+:	:	:	:	:	REN101.LZH
+:	:	:	:	:	SX2HQ002.LZH
+:	:	:	:	:	f2sc041.lzh
+:	:	:	:	:	再帰容量.lzh
+:	:	:	:	FONT
+:	:	:	:	:	FontDATA.lzh
+:	:	:	:	:	HARTMANN.LZH
+:	:	:	:	:	SPEWIDTH.LZH
+:	:	:	:	:	SX12DOT.LZH
+:	:	:	:	:	VF_FONT.zip
+:	:	:	:	GAME
+:	:	:	:	:	PINBALL.LZH
+:	:	:	:	:	SIMEARTH.LZH
+:	:	:	:	:	SIRTETRIS.LZH
+:	:	:	:	:	SOUKOBAN.LZH
+:	:	:	:	:	SXCHN.LZH
+:	:	:	:	:	SXMIN.LZH
+:	:	:	:	:	SXOTH030.LZH
+:	:	:	:	:	TITEI.LZH
+:	:	:	:	:	香港.lzh
+:	:	:	:	GRAPH
+:	:	:	:	:	CANVAS04.LZH
+:	:	:	:	:	CGBFD.LZH
+:	:	:	:	:	EASYDRAW.LZH
+:	:	:	:	:	GCOPY031.LZH
+:	:	:	:	:	GRRT152.LZH
+:	:	:	:	:	G_AT180.LZH
+:	:	:	:	:	G_AT182_.LZH
+:	:	:	:	:	G_AT183.LZH
+:	:	:	:	:	HEKIDOU.LZH
+:	:	:	:	:	PT4GET09.LZH
+:	:	:	:	:	PTOD103.LZH
+:	:	:	:	:	SCOPY001.LZH
+:	:	:	:	:	V16J12B.LZH
+:	:	:	:	:	IVM
+:	:	:	:	:	:	GIF_IVM.LZH
+:	:	:	:	:	:	GLMPAT02.LZH
+:	:	:	:	:	:	IVMG018.LZH
+:	:	:	:	:	:	IVM_BMP.LZH
+:	:	:	:	:	:	PIVM105.LZH
+:	:	:	:	:	:	RMIVM01.LZH
+:	:	:	:	:	:	VMCUT02.LZH
+:	:	:	:	:	:	VMP2_06.LZH
+:	:	:	:	:	Stream
+:	:	:	:	:	:	G2TSERV1.LZH
+:	:	:	:	:	:	SCST02B.LZH
+:	:	:	:	:	:	SM04.LZH
+:	:	:	:	:	:	SM04UP.LZH
+:	:	:	:	:	:	SM04UPUP.LZH
+:	:	:	:	:	:	SMAEX01.LZH
+:	:	:	:	:	:	SXBACK02.LZH
+:	:	:	:	:	:	SXCUT01.LZH
+:	:	:	:	:	:	SXG2T21.LZH
+:	:	:	:	:	:	SXGAL02B.LZH
+:	:	:	:	:	:	SXGFJUNK.LZH
+:	:	:	:	:	:	SXGFJUP.LZH
+:	:	:	:	INFO
+:	:	:	:	:	FMEMO123.LZH
+:	:	:	:	:	IVMINF02.LZH
+:	:	:	:	:	MEMG017.LZH
+:	:	:	:	:	SXINF021.LZH
+:	:	:	:	:	SXPFM103.LZH
+:	:	:	:	MOUSE
+:	:	:	:	:	NEZU012.LZH
+:	:	:	:	:	NEZU0121.LZH
+:	:	:	:	MUSIC
+:	:	:	:	:	PE043EXE.LZH
+:	:	:	:	:	SXPCM046.LZH
+:	:	:	:	:	SXPCM41A.LZH
+:	:	:	:	:	SXWP102.LZH
+:	:	:	:	:	SXZC390.LZH
+:	:	:	:	RES_EDIT
+:	:	:	:	:	HEX202.LZH
+:	:	:	:	:	RESED212.LZH
+:	:	:	:	SCREEN
+:	:	:	:	:	CRTCTR04.LZH
+:	:	:	:	:	DIAGE02.LZH
+:	:	:	:	:	MINI061.LZH
+:	:	:	:	:	SADJST0C.LZH
+:	:	:	:	:	SXMODE04.LZH
+:	:	:	:	SHAPEN
+:	:	:	:	:	EXC0001.LZH
+:	:	:	:	:	EXC1401.LZH
+:	:	:	:	:	EXCOM1.LZH
+:	:	:	:	:	EXCOM2.LZH
+:	:	:	:	:	WORDPRO2.LZH
+:	:	:	:	SYSTEM
+:	:	:	:	:	CALCMAN4.LZH
+:	:	:	:	:	EMAGENCY.LZH
+:	:	:	:	:	ERROR040.LZH
+:	:	:	:	:	HISCLIP5.LZH
+:	:	:	:	:	LMENU07.LZH
+:	:	:	:	:	PERI0043.LZH
+:	:	:	:	:	SCNT001.LZH
+:	:	:	:	:	SNAP04.LZH
+:	:	:	:	:	div5c25.lzh
+:	:	:	:	WINDOW
+:	:	:	:	:	2LINE2.LZH
+:	:	:	:	:	CLWO110.LZH
+:	:	:	:	:	IWIDTH.LZH
+:	:	:	:	:	KILLER02.LZH
+:	:	:	:	:	SILENT12.LZH
+:	:	:	:	:	SXACTJP3.LZH
+:	:	:	:	:	TASK108.LZH
+:	:	:	:	:	WINSL150.LZH
+:	:	:	:	:	WL203.LZH
+:	:	:	:	:	clnote6.lzh
+:	:	:	Sx-Win31SET
+:	:	:	:	Ask68k3DIC.zip
+:	:	:	:	HUMAN68K.ZIP
+:	:	:	:	Sx WORKROOM.zip
+:	:	:	:	SxACCE.zip
+:	:	:	:	SxTOOLS.zip
+:	:	:	:	SxWin31_1.zip
+:	:	:	:	SxWin31_2.zip
+:	:	:	:	SxWin31_3.zip
+:	:	:	:	SxWin31_sys.zip
+:	:	:	:	XCv21N.zip
+:	:	blank disk
+:	:	:	BRANK_V1.zip
+:	:	:	BRANK_V2.zip
+:	:	:	BRANK_V3.zip
+:	:	disk
+:	:	:	AFTER BURNER2 ＋改withMIDI.zip
+:	:	:	Angel Dive.zip
+:	:	:	A列車で行こう3.zip
+:	:	:	BM68.ZIP
+:	:	:	BOMBERMAN.ZIP
+:	:	:	BRADION.zip
+:	:	:	Bosconian with MIDI.zip
+:	:	:	CAMELTRY.zip
+:	:	:	CUARTO.ZIP
+:	:	:	Cockpit68K.zip
+:	:	:	C力検査.zip
+:	:	:	DOME.ZIP
+:	:	:	DuelFighter.zip
+:	:	:	FORTLESS ATTACK.zip
+:	:	:	FX.zip
+:	:	:	Fifteen_All.zip
+:	:	:	GJ.zip
+:	:	:	GRA3 氷地帯.zip
+:	:	:	GRADIUS.zip
+:	:	:	GRANADA.zip
+:	:	:	GradiusII.zip
+:	:	:	HELLHOUND.zip
+:	:	:	HYDLIDE3.zip
+:	:	:	IPMインベーダー.ZIP
+:	:	:	LAYDOCK.zip
+:	:	:	LodeRunner.zip
+:	:	:	MAPPY for X68K.ZIP
+:	:	:	MSX_GRADIUS2.zip
+:	:	:	NEMESIS90.ZIP
+:	:	:	OH_X 92年07月 DoGA.ZIP
+:	:	:	Overtake.zip
+:	:	:	PACMANIA.ZIP
+:	:	:	Phalanx.zip
+:	:	:	R-TYPE.zip
+:	:	:	SION.zip
+:	:	:	SION2.zip
+:	:	:	STAR FORCE.ZIP
+:	:	:	SimCity.zip
+:	:	:	Sound PRO68K.zip
+:	:	:	StarWARS.zip
+:	:	:	Super HANGON.zip
+:	:	:	T-94x.zip
+:	:	:	TETRIS.zip
+:	:	:	THUNDER BLADE.ZIP
+:	:	:	Todays My JOB.zip
+:	:	:	TwinBee.zip
+:	:	:	Tドラゴンクエスト2.zip
+:	:	:	UNO.zip
+:	:	:	ViewPoint.zip
+:	:	:	V’BALL.zip
+:	:	:	XADLAK.ZIP
+:	:	:	XEVIOUS.zip
+:	:	:	YS pc88 for X68K.ZIP
+:	:	:	YS2 pc98 for X68K.ZIP
+:	:	:	YS3.zip
+:	:	:	YS_X68k.ZIP
+:	:	:	Zs Staff DEMO.zip
+:	:	:	Zugya.zip
+:	:	:	ＦILE MASTER.zip
+:	:	:	ＳＩＯＮIV.zip
+:	:	:	Ｔhe Ｍan Ｉ Ｌove.zip
+:	:	:	ＴＤＦ.zip
+:	:	:	Ｔドラゴンクエスト1.zip
+:	:	:	あーくしゅ.zip
+:	:	:	ああっ！お姫さまっ！.zip
+:	:	:	きこりの与作.zip
+:	:	:	たんば.zip
+:	:	:	でたなツインビー.zip
+:	:	:	ど突き！！ゲーム.zip
+:	:	:	ねじ式.zip
+:	:	:	アークスオデッセイ.ZIP
+:	:	:	アクアレス.zip
+:	:	:	アルガーナ.zip
+:	:	:	オルテウス2.ZIP
+:	:	:	カサブランカに愛を.zip
+:	:	:	ガルシード.zip
+:	:	:	キャンペーン版大戦略2.zip
+:	:	:	キングオブシカゴ.zip
+:	:	:	キングズダンジョン.ZIP
+:	:	:	ギャラガ’88.zip
+:	:	:	クレイジークライマー１・２.zip
+:	:	:	グループＸ.zip
+:	:	:	コラムス.ZIP
+:	:	:	サンダーフォース2.zip
+:	:	:	シグナトリー.zip
+:	:	:	シムアース.ZIP
+:	:	:	シムアント.ZIP
+:	:	:	シャッフルパックカフェ.zip
+:	:	:	ジェノサイド2.zip
+:	:	:	ジオグラフシール.zip
+:	:	:	スーパーストリートファイター２.zip
+:	:	:	スーパー大戦略.ZIP
+:	:	:	スクエアリゾート.zip
+:	:	:	スタークルーザー.zip
+:	:	:	スターラスター.zip
+:	:	:	ストライダー飛竜.zip
+:	:	:	スペースハリアー.ZIP
+:	:	:	セネガル.ZIP
+:	:	:	ソーサリアン68K.zip
+:	:	:	ソルフィース.zip
+:	:	:	ダンジョンマスター シリーズ.zip
+:	:	:	ダンジョンマネージメント.zip
+:	:	:	チェルノブ.zip
+:	:	:	デスブリンガー.zip
+:	:	:	トリトーンファイナル.zip
+:	:	:	ドラゴンスピリット.zip
+:	:	:	ドラゴンスレイヤー.zip
+:	:	:	ドラッケン.zip
+:	:	:	ドリンキースモーキー.zip
+:	:	:	ドルアーガの塔X68K.zip
+:	:	:	ナイアス.zip
+:	:	:	ナイトアームズ.zip
+:	:	:	ニューラルギア.zip
+:	:	:	ノスタルジア.zip
+:	:	:	バトルチェス.zip
+:	:	:	バベルの塔.zip
+:	:	:	バルーサの復讐.zip
+:	:	:	パイプドリーム.zip
+:	:	:	パロディウスだ.zip
+:	:	:	ファンタジーゾーン.zip
+:	:	:	フューチャーウォーズ.zip
+:	:	:	フリー版ハイドライド2.zip
+:	:	:	ブルトンレイ セット.zip
+:	:	:	プリンスオブペルシャ.zip
+:	:	:	プロダクションマネージャー.zip
+:	:	:	ペンジャン.zip
+:	:	:	ボナンザブラザーズ.zip
+:	:	:	ポピュラス セット.zip
+:	:	:	ポピュラス2.zip
+:	:	:	マジカルショット.zip
+:	:	:	マッドストーカー.zip
+:	:	:	マンハッタンレクレイム＆殺意の接吻.zip
+:	:	:	ミッドガルツ.zip
+:	:	:	モトス.zip
+:	:	:	ライジングサン.zip
+:	:	:	ラグーン.zip
+:	:	:	ラストハルマゲドン.zip
+:	:	:	ルーンワース 黒衣の貴公子.zip
+:	:	:	レーシーズ.zip
+:	:	:	レッキングクルーfor X68K.zip
+:	:	:	レミングス.zip
+:	:	:	レリクス.zip
+:	:	:	悪魔城ドラキュラ.zip
+:	:	:	伊忍道.zip
+:	:	:	維新の嵐68k.zip
+:	:	:	栄冠は君に.zip
+:	:	:	黄金の羅針盤.zip
+:	:	:	機甲師団.zip
+:	:	:	極.zip
+:	:	:	幻獣鬼.zip
+:	:	:	源平討魔伝.zip
+:	:	:	項劉記.zip
+:	:	:	沙羅曼蛇.zip
+:	:	:	殺人倶楽部DX.zip
+:	:	:	三國志1.zip
+:	:	:	三國志2.zip
+:	:	:	三國志3.ZIP
+:	:	:	斬 陽炎の時代.zip
+:	:	:	上海万里の長城.zip
+:	:	:	信長の野望 戦国群雄伝.zip
+:	:	:	信長の野望 全国版.zip
+:	:	:	信長の野望 覇王伝.zip
+:	:	:	信長の野望 武将風雲録.zip
+:	:	:	水滸伝.zip
+:	:	:	世界征服セット.zip
+:	:	:	生中継68.zip
+:	:	:	脊髄反射でアッチョー.zip
+:	:	:	倉庫番リベンジ.zip
+:	:	:	蒼き狼と白き雌鹿 ジンギスカン.zip
+:	:	:	蒼き狼と白き雌鹿 元朝秘史.zip
+:	:	:	太閤立志伝.zip
+:	:	:	大戦略3.zip
+:	:	:	大魔界村.zip
+:	:	:	男弾.zip
+:	:	:	超連射.zip
+:	:	:	提督の決断.zip
+:	:	:	天下統一.zip
+:	:	:	桃太郎伝説.zip
+:	:	:	道化師殺人事件.zip
+:	:	:	日本語ワードプロセッサv110.zip
+:	:	:	熱血高校ドッジボール部.zip
+:	:	:	爆裂矩形弾.zip
+:	:	:	遥かなるオーガスタ.zip
+:	:	:	遥かなるオーガスタSET .zip
+:	:	:	琥珀色の遺言.zip
+:	:	音楽データ
+:	:	:	mdx
+:	:	:	:	T＆Eソフト
+:	:	:	:	:	HYDLIDE3_X1.ZIP
+:	:	:	:	:	Hydlide_FC.zip
+:	:	:	:	:	PSY-O-BLADE.ZIP
+:	:	:	:	:	hydlide3.zip
+:	:	:	:	:	ﾙｰﾝﾜｰｽ.zip
+:	:	:	:	アーケード
+:	:	:	:	:	ASO.ZIP
+:	:	:	:	:	BOMB_JACK.ZIP
+:	:	:	:	:	BattleGaregga.zip
+:	:	:	:	:	Crazy_Climber.zip
+:	:	:	:	:	Image_Fight.zip
+:	:	:	:	:	Midnight_md.zip
+:	:	:	:	:	R-TYPE.zip
+:	:	:	:	:	R-Type 2.zip
+:	:	:	:	:	StarFORCE.zip
+:	:	:	:	:	slapfight.zip
+:	:	:	:	:	究極Tiger.zip
+:	:	:	:	:	最後の忍道.zip
+:	:	:	:	:	熱血高校ドッジボール部.ZIP
+:	:	:	:	:	与作.zip
+:	:	:	:	エニックス
+:	:	:	:	:	D_Quest1.zip
+:	:	:	:	:	D_Quest2.zip
+:	:	:	:	:	D_Quest3.zip
+:	:	:	:	:	D_Quest4.zip
+:	:	:	:	:	JESUS.zip
+:	:	:	:	:	MistyBlue.zip
+:	:	:	:	:	RAYIEZA.zip
+:	:	:	:	:	アンジェラス.ZIP
+:	:	:	:	:	オホーツクに消ゆ.zip
+:	:	:	:	カプコン
+:	:	:	:	:	1943.zip
+:	:	:	:	:	1943kai.zip
+:	:	:	:	:	STRIDER飛竜.ZIP
+:	:	:	:	:	S_Fighter2.zip
+:	:	:	:	:	SuperSF2_X68.zip
+:	:	:	:	:	アレスの翼.ZIP
+:	:	:	:	:	戦場の狼.zip
+:	:	:	:	:	大魔界村.zip
+:	:	:	:	:	天地を喰らう.ZIP
+:	:	:	:	:	闘いの挽歌.zip
+:	:	:	:	:	魔界村.zip
+:	:	:	:	コナミ
+:	:	:	:	:	A_jax_X68.zip
+:	:	:	:	:	Ajax_AC.zip
+:	:	:	:	:	F1Spirit.zip
+:	:	:	:	:	FlakATTACK.zip
+:	:	:	:	:	GOFERの野望.zip
+:	:	:	:	:	GradiusI.zip
+:	:	:	:	:	GradiusII FC.zip
+:	:	:	:	:	GradiusII x68K.zip
+:	:	:	:	:	GradiusII.zip
+:	:	:	:	:	GradiusIII.zip
+:	:	:	:	:	Pippols.zip
+:	:	:	:	:	QUARTH.ZIP
+:	:	:	:	:	Qbert.zip
+:	:	:	:	:	SNATCHER.ZIP
+:	:	:	:	:	Super魂斗羅.zip
+:	:	:	:	:	ThunderCROSS.zip
+:	:	:	:	:	YieArKUNG-FU.zip
+:	:	:	:	:	gradius2 msx.zip
+:	:	:	:	:	twinbee.zip
+:	:	:	:	:	けっきょく南極大冒険.zip
+:	:	:	:	:	その他.ZIP
+:	:	:	:	:	でたなツインビー.zip
+:	:	:	:	:	もえろツインビー.zip
+:	:	:	:	:	わんぱくアスレチック.zip
+:	:	:	:	:	ウシャス.ZIP
+:	:	:	:	:	ガリウス.ZIP
+:	:	:	:	:	キューブリック.ZIP
+:	:	:	:	:	キングコング2_MSX.ZIP
+:	:	:	:	:	グリーンベレー.ZIP
+:	:	:	:	:	パロディウスだ！X68K.zip
+:	:	:	:	:	パロディウスだ！_AC.zip
+:	:	:	:	:	メタルギア.zip
+:	:	:	:	:	悪魔城伝説.zip
+:	:	:	:	:	王家の谷.zip
+:	:	:	:	:	火の鳥_MSX.zip
+:	:	:	:	:	五右衛門からくり道中.zip
+:	:	:	:	:	魂斗羅.zip
+:	:	:	:	:	沙羅曼蛇.zip
+:	:	:	:	:	新入社員とおる君.ZIP
+:	:	:	:	:	生中継６８.zip
+:	:	:	:	:	大列車強盗.zip
+:	:	:	:	:	特殊部隊ジャッカル.zip
+:	:	:	:	:	魔獣の王国.zip
+:	:	:	:	:	魔城伝説.zip
+:	:	:	:	:	夢大陸アドベンチャー.zip
+:	:	:	:	:	ｸﾞｰﾆｰｽﾞ.zip
+:	:	:	:	:	ﾄﾞﾗｷｭﾗAC.zip
+:	:	:	:	:	ﾄﾞﾗｷｭﾗFC.zip
+:	:	:	:	:	ﾄﾞﾗｷｭﾗ_msx.zip
+:	:	:	:	:	ﾄﾞﾗｷｭﾗ_x68k.zip
+:	:	:	:	ズーム
+:	:	:	:	:	GENOSIDE2.ZIP
+:	:	:	:	:	OverTake.zip
+:	:	:	:	:	PHALANX.ZIP
+:	:	:	:	:	ラグーン.zip
+:	:	:	:	セガ
+:	:	:	:	:	AfterBurner2.zip
+:	:	:	:	:	AfterBurner2X68.zip
+:	:	:	:	:	AlexKid.zip
+:	:	:	:	:	Cp_LoadRunner.zip
+:	:	:	:	:	G-LOC.zip
+:	:	:	:	:	GalaxyForce.zip
+:	:	:	:	:	HangON.zip
+:	:	:	:	:	OutRun.zip
+:	:	:	:	:	Quartet.zip
+:	:	:	:	:	SDI.ZIP
+:	:	:	:	:	SHangON_AC.ZIP
+:	:	:	:	:	SHangON_X68K.ZIP
+:	:	:	:	:	SONIC_THE_HEDGEHOG.ZIP
+:	:	:	:	:	Thunder Force 3.zip
+:	:	:	:	:	Thunder Force 4.zip
+:	:	:	:	:	ThunderBladeX68K.zip
+:	:	:	:	:	fantzy_zone.zip
+:	:	:	:	:	sonic.zip
+:	:	:	:	:	spaceHARRIER.zip
+:	:	:	:	:	ガルケーブ.ZIP
+:	:	:	:	:	ダイナマイトダックス.zip
+:	:	:	:	:	テトリス.zip
+:	:	:	:	:	バーチャレーシング.zip
+:	:	:	:	:	フリッキー.zip
+:	:	:	:	:	モンスターランド.zip
+:	:	:	:	:	獣王記.zip
+:	:	:	:	:	北斗の拳.zip
+:	:	:	:	タイトー
+:	:	:	:	:	ARKANOID.ZIP
+:	:	:	:	:	BubbleBobble.zip
+:	:	:	:	:	CAMELTRY.ZIP
+:	:	:	:	:	CHACKN_POP.ZIP
+:	:	:	:	:	DARIUS.ZIP
+:	:	:	:	:	HalleysComet.zip
+:	:	:	:	:	In_focus.zip
+:	:	:	:	:	METAL_BLACK.ZIP
+:	:	:	:	:	M_Scramble.zip
+:	:	:	:	:	MidNightLanding.zip
+:	:	:	:	:	RainbowIsland.zip
+:	:	:	:	:	TheNewzealandStory.zip
+:	:	:	:	:	ninja.zip
+:	:	:	:	:	サイバリオン.ZIP
+:	:	:	:	:	ダライアス外伝.zip
+:	:	:	:	:	チェイスHQ.zip
+:	:	:	:	:	トップランディング.zip
+:	:	:	:	:	フルスロットル.zip
+:	:	:	:	:	レイフォース.zip
+:	:	:	:	:	黄金の城.zip
+:	:	:	:	ナムコ
+:	:	:	:	:	ASSAULT.ZIP
+:	:	:	:	:	BOSCONIAN.ZIP
+:	:	:	:	:	Baraduke.zip
+:	:	:	:	:	BurningFORCE.zip
+:	:	:	:	:	DIGDUG.ZIP
+:	:	:	:	:	Dragon Buster.zip
+:	:	:	:	:	DragonSABER.zip
+:	:	:	:	:	DragonSPIRIT.zip
+:	:	:	:	:	Galaga.zip
+:	:	:	:	:	Galaxian 3.zip
+:	:	:	:	:	ISHTAR.ZIP
+:	:	:	:	:	MARCHEN.ZIP
+:	:	:	:	:	Mappy.zip
+:	:	:	:	:	MetalHAWK.zip
+:	:	:	:	:	PACMANIA.ZIP
+:	:	:	:	:	PacLand.zip
+:	:	:	:	:	PacMan.zip
+:	:	:	:	:	RollingTHUNDER.zip
+:	:	:	:	:	STAR_BLADE.ZIP
+:	:	:	:	:	SkyKid.zip
+:	:	:	:	:	digdug2.zip
+:	:	:	:	:	doruaga.zip
+:	:	:	:	:	galaga88.zip
+:	:	:	:	:	metoroCross.zip
+:	:	:	:	:	poleposition.zip
+:	:	:	:	:	ゼビウスX68K.zip
+:	:	:	:	:	フェリオス.zip
+:	:	:	:	:	モトス.zip
+:	:	:	:	:	リブルラブル.zip
+:	:	:	:	:	ワルキューレの伝説.zip
+:	:	:	:	:	源平討魔伝.zip
+:	:	:	:	:	ｽﾀｰﾗｽﾀｰ.zip
+:	:	:	:	パソコン
+:	:	:	:	:	BombermanX68K.zip
+:	:	:	:	:	GJ.ZIP
+:	:	:	:	:	Hell_hound.zip
+:	:	:	:	:	KnightArms.zip
+:	:	:	:	:	Lemmings.zip
+:	:	:	:	:	MAD_STALKER_X68.ZIP
+:	:	:	:	:	METAL_SIGHT.ZIP
+:	:	:	:	:	MID GARTS.ZIP
+:	:	:	:	:	Oh！ Hajiki！.zip
+:	:	:	:	:	Populous.zip
+:	:	:	:	:	Relics.zip
+:	:	:	:	:	SCHEME.ZIP
+:	:	:	:	:	SILPH02.zip
+:	:	:	:	:	SION.ZIP
+:	:	:	:	:	SION2.ZIP
+:	:	:	:	:	SterWARS.zip
+:	:	:	:	:	Super大戦略.zip
+:	:	:	:	:	The man I love.zip
+:	:	:	:	:	TheCockpit.zip
+:	:	:	:	:	Thunder FORCE2.zip
+:	:	:	:	:	VIEW_POINT X68k.ZIP
+:	:	:	:	:	X68000Theme.ZIP
+:	:	:	:	:	luxsor.zip
+:	:	:	:	:	らぷてっく.zip
+:	:	:	:	:	アクアレス.ZIP
+:	:	:	:	:	カサブランカに愛を.ZIP
+:	:	:	:	:	グラナダ.ZIP
+:	:	:	:	:	ザナック.ZIP
+:	:	:	:	:	シルフィード.ZIP
+:	:	:	:	:	ソルフィース.zip
+:	:	:	:	:	テトリスX68K.zip
+:	:	:	:	:	デスブリンガー.zip
+:	:	:	:	:	トリトーンMSX.zip
+:	:	:	:	:	ニューラルギア.zip
+:	:	:	:	:	ノスタルジア1907.zip
+:	:	:	:	:	バルーサの復讐.zip
+:	:	:	:	:	ブルトン・レイ.zip
+:	:	:	:	:	マーブルマッドネス.zip
+:	:	:	:	:	ヤシャ.zip
+:	:	:	:	:	殺人倶楽部DX.ZIP
+:	:	:	:	:	斬～陽炎の時代.zip
+:	:	:	:	:	紫醜羅.zip
+:	:	:	:	:	大戦略III90.zip
+:	:	:	:	:	超連射68k.zip
+:	:	:	:	:	天下統一.ZIP
+:	:	:	:	:	桃太郎伝説.zip
+:	:	:	:	:	忍者影x1.ZIP
+:	:	:	:	:	ｼｬｯﾌﾙﾊﾟｯｸｶﾌｪ.zip
+:	:	:	:	:	ｽﾀｰｸﾙｰｻﾞｰ X68K.zip
+:	:	:	:	:	ｽﾀｰｸﾙｰｻﾞｰ.zip
+:	:	:	:	:	ﾌﾟﾘﾝｽｵﾌﾞﾍﾟﾙｼｬ.zip
+:	:	:	:	:	ﾗｽﾄﾊﾙﾏｹﾞﾄﾞﾝ.zip
+:	:	:	:	:	琥珀色の遺言.zip
+:	:	:	:	ファミコン
+:	:	:	:	:	B-Wing.zip
+:	:	:	:	:	BOMBERMAN.ZIP
+:	:	:	:	:	CluCluLand.zip
+:	:	:	:	:	DiskSystem IPL.zip
+:	:	:	:	:	FinalFantasy.zip
+:	:	:	:	:	Flappy_FC.zip
+:	:	:	:	:	GAL.ZIP
+:	:	:	:	:	GIN3_BGM.ZIP
+:	:	:	:	:	Romancing SaGa.zip
+:	:	:	:	:	Super Star Force.zip
+:	:	:	:	:	その他.zip
+:	:	:	:	:	アトランティスの謎.ZIP
+:	:	:	:	:	エキサイトバイク.ZIP
+:	:	:	:	:	オホーツクに消ゆ.ZIP
+:	:	:	:	:	スーパーマリオ.ZIP
+:	:	:	:	:	スペランカー.ZIP
+:	:	:	:	:	ゼルダの伝説.zip
+:	:	:	:	:	チャレンジャー.zip
+:	:	:	:	:	デビルワールド.zip
+:	:	:	:	:	ドンキーコング Jr.zip
+:	:	:	:	:	ドンキーコング.zip
+:	:	:	:	:	バベルの塔.zip
+:	:	:	:	:	パルテナの鏡.zip
+:	:	:	:	:	ファミリーベーシック.zip
+:	:	:	:	:	ボコスカウォーズ.zip
+:	:	:	:	:	マクロス.zip
+:	:	:	:	:	マリオブラザーズ.zip
+:	:	:	:	:	メトロイド.zip
+:	:	:	:	:	リンクの冒険.zip
+:	:	:	:	:	レッキングクルー.zip
+:	:	:	:	:	ロードランナー.zip
+:	:	:	:	:	新鬼ヶ島.ZIP
+:	:	:	:	:	忍者ハットリくん.ZIP
+:	:	:	:	:	迷宮組曲.zip
+:	:	:	:	:	ｱｰﾊﾞﾝﾁｬﾝﾋﾟｵﾝ.zip
+:	:	:	:	:	ｽﾀｰｿﾙｼﾞｬｰ.zip
+:	:	:	:	ファルコム
+:	:	:	:	:	XANADU_sc2.ZIP
+:	:	:	:	:	Xanadu.zip
+:	:	:	:	:	Xanadu_MSX.zip
+:	:	:	:	:	Xanadu_X1.zip
+:	:	:	:	:	YS1.ZIP
+:	:	:	:	:	Ys1_MSX.zip
+:	:	:	:	:	Ys1_X68k.zip
+:	:	:	:	:	Ys3_X68K.zip
+:	:	:	:	:	YsII_X1.zip
+:	:	:	:	:	YsIIpc88.zip
+:	:	:	:	:	ロマンシア.zip
+:	:	:	:	:	太陽の神殿.zip
+:	:	:	:	:	ｿｰｻﾘｱﾝX1.zip
+:	:	:	:	:	ｿｰｻﾘｱﾝpc88.zip
+:	:	:	:	:	ﾄﾞﾗｺﾞﾝｽﾚIV.zip
+:	:	:	:	光栄
+:	:	:	:	:	ジンギスカンX68K.ZIP
+:	:	:	:	:	ランペルール.zip
+:	:	:	:	:	伊忍道.zip
+:	:	:	:	:	元朝秘史.zip
+:	:	:	:	:	項劉記X68K.zip
+:	:	:	:	:	三國志pc88.ZIP
+:	:	:	:	:	三國志１X68K.ZIP
+:	:	:	:	:	三國志２X68K.ZIP
+:	:	:	:	:	三國志３X68K.ZIP
+:	:	:	:	:	信長の野望群雄伝X68K.ZIP
+:	:	:	:	:	信長の野望全国版X68K.ZIP
+:	:	:	:	:	信長の野望全国版pc88.ZIP
+:	:	:	:	:	信長の野望覇王伝X68K.ZIP
+:	:	:	:	:	信長の野望武将風雲録X68K.ZIP
+:	:	:	:	:	水滸伝x68k.zip
+:	:	:	:	:	太閤立志伝X68K.zip
+:	:	:	:	:	提督の決断x68k.zip
+:	:	:	midi
+:	:	:	:	forMT-32.zip
+:	:	:	:	forSC-55.zip
+:	:	:	zmusic
+:	:	:	:	YM2151.ZIP
+:	:	:	:	withMIDI.zip
+:	:	:	:	餓狼伝説sp.zip
+:	:	:	プレイヤー
+:	:	:	:	INMDX114.LZH
+:	:	:	:	X68Sound_020615.zip
+:	:	:	:	mdxwin2270.zip
+:	:	:	:	mxdrv200b.lzh
+:	:	:	:	mxv200b.lzh
+:	:	:	:	mxwav200a.lzh
+:	:	:	:	pcmplay.lzh
+:	:	:	:	z04c.zip

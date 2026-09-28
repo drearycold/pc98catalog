@@ -1,0 +1,125 @@
+(ROM) No-Intro Nintendo Famicom Disk System (20070421) (rr5%).rar
+6,079,861
+46f4fcdc30d36ffe6d800bcdf5664e48ÅE39c9616c91b9996a34b70629ec60878ff0bce324
+
+:	FDS
+:	:	Ai Senshi Nicol (Japan) [b].zip
+:	:	Aki to Tsukasa no Fushigi no Kabe (Unlicensed).zip
+:	:	Akumajou Dracula (Japan, v1.0) [b].zip
+:	:	Akumajou Dracula (Japan, v1.2) [b].zip
+:	:	All Night Nippon Super Mario Brothers (Japan, Promotion Cart).zip
+:	:	Apple Town Monogatari - Little Computer People (Japan).zip
+:	:	Armana no Kiseki (Japan).zip
+:	:	Aspic - Majaou no Noroi (Japan).zip
+:	:	Bio Miracle Bokutte Upa (Japan).zip
+:	:	Bishoujo Control (Unlicensed).zip
+:	:	Bishoujo Hanahuda Kurabu Vol.1 - Oityokabuhen (Unlicensed).zip
+:	:	Bishoujo Hanahuda Kurabu Vol.2 - Koikoi Bakappana Hen (Unlicensed).zip
+:	:	Bishoujo Mahjong Club (Unlicensed).zip
+:	:	Bishoujo SF Alien Battle (Unlicensed).zip
+:	:	Bishoujo Sexy Derby (Unlicensed).zip
+:	:	Bishoujo Sexy Puzzle (Unlicensed).zip
+:	:	Bishoujo Sexy Slot (Unlicensed).zip
+:	:	Bishoujo Shashinkan - Studio Cut (Unlicensed).zip
+:	:	Bodycon Quest I - Abakareshi Musume Tachi (Unlicensed).zip
+:	:	Cocona World (Japan).zip
+:	:	Comic Sakka Series Touma Senki #1 - Mashoujo Gakuen Iivuru (Unlicensed).zip
+:	:	Comic Sakka Series Touma Senki #4 - Tenkuu Ryuumaou Fukkatsu (Unlicensed).zip
+:	:	Deep Dungeon - Madou Senki (Japan) [b].zip
+:	:	Deep Dungeon II - Yuushi no Monshou (Japan, v1.0).zip
+:	:	Deep Dungeon II - Yuushi no Monshou (Japan, v1.1) [b].zip
+:	:	Dirty Pair - Project Eden (Japan) [b].zip
+:	:	Disk Hacker - Version 1.3 (Unlicensed).zip
+:	:	Dr. Chaos - Jigoku no Tobira (Japan) [b].zip
+:	:	Dracula II - Noroi no Fuuin (Japan).zip
+:	:	Druid - Kyoufu no Tobira (Japan).zip
+:	:	Egger Land (Japan) [b].zip
+:	:	Emi-chan no Moero Yakyuuken! (Unlicensed).zip
+:	:	Esper Dream (Japan, v1.0) [b].zip
+:	:	Esper Dream (Japan, v1.1) [b].zip
+:	:	Exciting Baseball (Japan).zip
+:	:	Exciting Basket (Japan).zip
+:	:	Exciting Billiard (Japan).zip
+:	:	Exciting Soccer - Konami Cup (Japan) [b].zip
+:	:	FMC Disk Card Checker Ver 1.3 (Japan, Developer Cart, v1.2).zip
+:	:	Fairy Pinball - Yousei Tachi no Pinball (Unlicensed).zip
+:	:	Falsion (Japan).zip
+:	:	Famicom Grand Prix II - 3D Hot Rally (Japan).zip
+:	:	Family Computer Golf Japan Course (Japan).zip
+:	:	Family Computer Golf Special Course (Japan, Prize Cart).zip
+:	:	Family Computer Golf Tournament - Japan Course (Japan, Prize Cart).zip
+:	:	Family Computer Golf U.S. Course (Japan).zip
+:	:	Family Computer Othello (Japan).zip
+:	:	Final Commando - Akai Yousai (Japan).zip
+:	:	Fire Rock (Japan).zip
+:	:	Fruits Mahjong 1 Disk #1 - Dai H Taikai (Unlicensed).zip
+:	:	Fruits Mahjong 3 Disk #4 - Yonin no Tenshi Tachi (Unlicensed).zip
+:	:	Fruits Mahjong 3 Disk #5 - Tottemo H na Gogo (Unlicensed).zip
+:	:	Fruits Mahjong 4 Disk #6 - Bishoujo Connection (Unlicensed).zip
+:	:	Fruits Mahjong 4 Disk #7 - Daitan H na Hirusagari (Unlicensed).zip
+:	:	Gal's Dungeon - Yakyuuken Part II (Unlicensed).zip
+:	:	Game no Tatsujin - Money Wars (Unlicensed).zip
+:	:	Ginga Denshou - Galaxy Odyssey (Japan).zip
+:	:	Golf (Japan, v1.1).zip
+:	:	Golf, The - Bishoujo Classic (Unlicensed).zip
+:	:	Hao-kun no Fushigi na Tabi (Japan) [b].zip
+:	:	Hayama Reiko no Date de Blackjack (Unlicensed).zip
+:	:	Hikari Shinwa - Palatina no Kagami (Japan, v1.1) [b].zip
+:	:	Ice Hockey (Japan).zip
+:	:	Idol Hotline - Nakayama Miho no Tokimeki High School (Japan).zip
+:	:	Karin no Tsurugi (Japan) [b].zip
+:	:	Kick Challenger Air Foot - Yasai no Kuni no Ashi Senshi (Japan).zip
+:	:	Kieta Princess (Japan).zip
+:	:	Kobayashi Hitomi Shocking Tennis (Unlicensed).zip
+:	:	Kobayashi Hitomi no Hold Up (Unlicensed).zip
+:	:	Kosodate Gokko (Unlicensed).zip
+:	:	Legend of Zelda 2, The - Link no Bouken (Japan, v1.0).zip
+:	:	Legend of Zelda 2, The - Link no Bouken (Japan, v1.1).zip
+:	:	Lipstick #.1 - Lolita Hen (Unlicensed).zip
+:	:	Lipstick #.2 - Joshi Gakusei Hen (Unlicensed).zip
+:	:	Lipstick #.3 - OL Hen (Unlicensed).zip
+:	:	Lipstick #.4 - Hakui no Tenshi Hen (Unlicensed).zip
+:	:	Lipstick #.5 - Stewardess Hen (Unlicensed).zip
+:	:	Mahjong Goraku - Bishoujo Meijinsen (Unlicensed).zip
+:	:	Meikyuu Jiin Dababa (Japan).zip
+:	:	Metroid (Japan, v1.1) [b].zip
+:	:	Metroid (Japan, v1.2) [b].zip
+:	:	Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan).zip
+:	:	Monitor Puzzle Kineko, The - Kinetic Connection (Japan).zip
+:	:	Monty on the Run - Monty no Doki Doki Dai Dassou (Japan) [b].zip
+:	:	Nazo no Kabe - Block Kuzushi (Japan) [b].zip
+:	:	Nazo no Murasame Jou (Japan).zip
+:	:	Patlabor The Mobile Police - Dai 2 Shoutai Shutsudou Seyo! (Japan) [b].zip
+:	:	ProWres - Famicom Wrestling Association (Japan) [b].zip
+:	:	Professional Mahjong Gokuu (Japan).zip
+:	:	Risa no Yousei Densetsu (Japan).zip
+:	:	Sailor Fuku Bishoujo Zukan Vol. 1 (Unlicensed).zip
+:	:	Sailor Fuku Bishoujo Zukan Vol. 3 (Unlicensed).zip
+:	:	Sailor Fuku Bishoujo Zukan Vol. 4 (Unlicensed).zip
+:	:	Sailor Fuku Bishoujo Zukan Vol. 5 (Unlicensed).zip
+:	:	Sailor Fuku Bishoujo Zukan Vol. 6 (Unlicensed).zip
+:	:	Samurai Sword (Japan) [b].zip
+:	:	Seiken Psychocalibur - Majuu no Mori Densetsu (Japan).zip
+:	:	Sexy Invaders (Unlicensed).zip
+:	:	Silviana - Ai Ippai no Boukensya (Japan) [b].zip
+:	:	Smash Ping Pong (Japan) [b].zip
+:	:	Soccer (Japan).zip
+:	:	Super Lode Runner (Japan) [b].zip
+:	:	Super Lode Runner II (Japan) [b].zip
+:	:	Super Mario Brothers (Japan).zip
+:	:	Super Mario Brothers 2 (Japan).zip
+:	:	Tanigawa Kouji no Shougi Shinan II - Meijin heno Michi (Japan).zip
+:	:	Tennis (Japan).zip
+:	:	Tenshi Tachi no Houkago (Unlicensed).zip
+:	:	TwinBee (Japan).zip
+:	:	Ultraman Club - Chikyuu Dakkan Sakusen (Japan, v1.0).zip
+:	:	Ultraman Club - Chikyuu Dakkan Sakusen (Japan, v1.1).zip
+:	:	Vs. Excitebike (Japan).zip
+:	:	Yume Koujou Doki Doki Panic (Japan) [b].zip
+:	:	Yuu Maze (Japan).zip
+:	:	Zatsugaku Olympic Quiz - Watanabe Wataru Hen (Unlicensed).zip
+:	:	Zatsugaku Olympic Quiz Part II (Unlicensed) [b].zip
+:	:	Zelda no Densetsu - The Hyrule Fantasy (Japan, v1.0).zip
+:	:	Zelda no Densetsu - The Hyrule Fantasy (Japan, v1.1).zip
+:	:	[BIOS] Nintendo Famicom Disk System (Japan).zip
+:	:	[BIOS] Sharp Twin Famicom (Japan).zip

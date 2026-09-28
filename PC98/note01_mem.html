@@ -1,0 +1,79 @@
+<HTML>
+<HEAD>
+<STYLE TYPE="text/css">
+<!--
+A{text-decoration:
+none;}
+//-->
+</STYLE>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<TITLE>メモリ</TITLE>
+</HEAD>
+<BODY BGCOLOR=#000000 TEXT=#FFFFFF LINK=#FFFFFF VLINK=#FFFFFF>
+■<B>メモリ</B>
+<HR>
+<BLOCKQUOTE>
+いくつかのゲームでは、起動時にメモリが足りずに起動できないことがあります。<BR>
+このような時に、メモリを確保するには、<BR>
+<BR>
+<IMG SRC=tool/an035.jpg><BR>
+まずConfigボタンをクリックし、Anex86の設定ウィンドウを開き、<BR>
+<BR>
+<IMG SRC=tool/an036.jpg><BR>
+「System」項目の「Ext-RAM」欄の値を「14,336」に設定してください。<BR>
+また、この欄のチェックボックスは有効にしておきます。<BR>
+<BR>
+次にMEMBATを用意してください。<BR>
+<BR>
+MEMBAT<BR>
+<A TARGET="_blank" HREF="http://www.geocities.co.jp/SiliconValley-SanJose/1942/membat.htm">http://www.geocities.co.jp/SiliconValley-SanJose/1942/membat.htm</A><BR>
+<BR>
+そして、起動に使用するハードディスクイメージをDiskExplorerで開きます。<BR>
+<BR>
+<IMG SRC=tool/mem01.jpg><BR>
+ウィンドウ左側のツリーのDOSディレクトリをクリックしその中を表示します。<BR>
+<BR>
+<IMG SRC=tool/mem02.jpg><BR>
+ここから、HIMEM.SYS、DOSKEY.COM、EMM386.EXEの三つのファイルを一度ウィンドウズ側に取り出します。<BR>
+<BR>
+ウィンドウ左側のツリーでMSDOS62.hdiを選択しルートディレクトリを表示したら、<BR>
+取り出した三つのファイルをここにドロップし、入れてください。<BR>
+さらに、MEMBATのFILES.LZHを解凍した中身もすべてここに入れてください。<BR>
+AUTOEXEC.BATは上書きでかまいません。<BR>
+<BR>
+<IMG SRC=tool/mem03.jpg><BR>
+このようになります。<BR>
+<BR>
+このハードディスクイメージを使用して起動してください。<BR>
+<BR>
+<IMG SRC=tool/an039.jpg><BR>
+<BR>
+<IMG SRC=tool/an040.jpg><BR>
+この時点でのメモリを確認するため、memとコマンドを打ちEnterキーを押してください。<BR>
+<BR>
+<IMG SRC=tool/an041.jpg><BR>
+そして、hmadosとコマンドを打ちEnterキーを押し設定ファイルを書き換えたら一度終了し、<BR>
+再び、このハードディスクイメージで起動してください。<BR>
+<BR>
+<IMG SRC=tool/an042.jpg><BR>
+再びmemコマンドでメモリを確認すると、効果がわかります。<BR>
+<BR>
+フロッピーからの起動でメモリを確保したい場合は、<BR>
+同じようにHIMEM.SYS、DOSKEY.COM、EMM386.EXEの三つのファイルをハードディスクイメージから取り出し、<BR>
+それとMEMBATのFILES.LZHを解凍した中身を、起動可能なフロッピーディスクイメージに入れてください。<BR>
+<BR>
+</BLOCKQUOTE>
+</BODY>
+</HTML>
+
+
+
+
+
+
+
+
+
+
+
+

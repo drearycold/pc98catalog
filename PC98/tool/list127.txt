@@ -1,0 +1,637 @@
+:	[PC98]31 いわゆるひとつの超らぶりぃな冒険活劇[DUP].lzh
+:	[PC98]3つの願い[FILES].rar
+:	[PC98]48夜物語[HDM+DUP].zip
+:	[PC98]4Dドライビング[D88].rar
+:	[PC98]4Dボクシング[D88].lzh
+:	[PC98]AD＆D ヒーローズ オブ ランス AD&D Heroes of the Lance[D88].lzh
+:	[PC98]A列車でいこう4[D88].lzh
+:	[PC98]A列車で行こう 復刻版[HDI].lzh
+:	[PC98]A列車で行こう2[D88].lzh
+:	[PC98]COIN[FILES].rar
+:	[PC98]COPY AID FOR 9801.286 KAGEMUSYA[D88].rar
+:	[PC98]D 欧州蜃気楼[D88].lzh
+:	[PC98]D.C. コネクション 愛と死の迷路[FDI].lzh
+:	[PC98]D.P.S 全部[FILES].rar
+:	[PC98]DOKIDOKIバケーション きらめく季節の中で[FDI].lzh
+:	[PC98]Esの方程式[FILES].rar
+:	[PC98]F-19 STEALTH FIGHTER[D88].rar
+:	[PC98]F15 ストライクイーグル2[D88].lzh
+:	[PC98]F29 リタリエイター[D88].rar
+:	[PC98]GOKKO Vol.01 DOCTOR[FILES].lzh
+:	[PC98]GOKKO Vol.3 ETCETERA[FILES].rar
+:	[PC98]Get![FDI].lzh
+:	[PC98]HHG ハートヒートガールズ[D88].lzh
+:	[PC98]JINN 永遠の勇士[FILES].rar
+:	[PC98]LOGiN DISK&BOOKシリーズ キャラクターツクール98[FILES].rar
+:	[PC98]LOGiN DISK&BOOKシリーズ 音楽ツクール[FILES].rar
+:	[PC98]Oh! Pai[D88].rar
+:	[PC98]Piaキャロットへようこそ We've been Waiting for you[FILES].rar
+:	[PC98]Pick UP 麻雀マスター[FILES].rar
+:	[PC98]QUIZ干支セトラ[FILES].rar
+:	[PC98]QUIZ雑念研究所 レモンクラブ[D88].rar
+:	[PC98]SAP特殊行動警察[D88].lzh
+:	[PC98]SEEK 地下室の牝奴隷達[FILES].rar
+:	[PC98]SUPER野球道2 1995版[D88].rar
+:	[PC98]TAXI幻夢譚[FILES].lzh
+:	[PC98]TO FIVE 夏の扉の向こうに君を見つける[D88].rar
+:	[PC98]TOGE 棘[FILES].rar
+:	[PC98]The Tower of Cabin キャビンパニック[D88].rar
+:	[PC98]V.R.デート 五月倶楽部[FILES].rar
+:	[PC98]VIPER-V10RS[FILES].rar
+:	[PC98]VIPER-V12[FILES].rar
+:	[PC98]VIPER-V16[FILES].rar
+:	[PC98]VIPER-V6[FILES].lzh
+:	[PC98]X エックス[FILES].lzh
+:	[PC98]X-GIRL[FILES].LZH
+:	[PC98]YES!HG[FILES].rar
+:	[PC98]YES![FILES].rar
+:	[PC98]ZEST to fantasy[FILES].rar
+:	[PC98][APP]WIZARD V5[FILES].rar
+:	[PC98][同人]DSC4 いもうと 14歳の夏に[HDI].rar
+:	[PC98][同人]FIRE CHASE[FILES].rar
+:	[PC98][同人]LuNA[FILES].rar
+:	[PC98][同人]NyaHaX'93[FILES].rar
+:	[PC98][同人]PCsTV[FILES].rar
+:	[PC98][同人]SA4[FILES].lzh
+:	[PC98][同人]Super Depth[FILES].rar
+:	[PC98][同人]metys's SnowWars[FILES].rar
+:	[PC98][同人]あすか 綾子ちゃんと保健室[FILES].rar
+:	[PC98][同人]きゃるかん[D88].rar
+:	[PC98][同人]りきゅ～る[FILES].rar
+:	[PC98][同人]ウライフフォース[D88].rar
+:	[PC98][同人]カードバスター CARD BUSTER[D88].lzh
+:	[PC98][同人]ギャルズスイーパー Gals Sweeper[D88].rar
+:	[PC98][同人]デビルチェーン2 Devil Chain2[D88].lzh
+:	[PC98][同人]デビルチェーン98 Devilchain98[D88].rar
+:	[PC98][同人]トリックス TRIX[FDI].lzh
+:	[PC98][同人]ナイトガンナー NIGHT GUNNER[D88].rar
+:	[PC98][同人]マルカディア MARKADIA[INST].rar
+:	[PC98][同人]鋼鉄銃娘[HDM].rar
+:	[PC98][同人]府立メタトポロジー大学付属女子高校[FILES].rar
+:	[PC98][同人]巫女さんふぁいと[FILES].rar
+:	[PC98]Ａ列車で行こう3[FDI].lzh
+:	[PC98]あーくしゅ 陽炎の時代を越えて[D88].lzh
+:	[PC98]ああっ女神さまっ Ah! My Goddess[D88].lzh
+:	[PC98]あにまーじゃんV3[D88].rar
+:	[PC98]あぶない天狗伝説 よみがえった天狗が夜空を舞う[D88].lzh
+:	[PC98]あぶない文化祭前夜[FDI].lzh
+:	[PC98]あゆみちゃん物語[FILES].rar
+:	[PC98]うさ雀ファイト! Aチーム[FDI].zip
+:	[PC98]うろつき童子[D88].lzh
+:	[PC98]えれめんたる王[FILES].rar
+:	[PC98]えんじぇる☆ないと 闇夜を翔ける天使たちの物語[FILES].lzh
+:	[PC98]おとめぱーてぃ[FDI].lzh
+:	[PC98]きゃんきゃんバニー2 スペリオール[FDI].lzh
+:	[PC98]きゃんきゃんバニー3 スピリッツ[FILES].rar
+:	[PC98]きゃんきゃんバニー4 プルミエール[FDI].lzh
+:	[PC98]きゃんきゃんバニー5 エクストラ[FILES].rar
+:	[PC98]きゃんきゃんバニー5 リミテッド[FILES].rar
+:	[PC98]ぎりぎりパラダイス[HDI].lzh
+:	[PC98]くすり指の教科書[D88].lzh
+:	[PC98]くるくる☆Party プリンセス・クエスト[FDI].lzh
+:	[PC98]くるみちゃんにんじゃあ[FILES].rar
+:	[PC98]けらけら星[FDI].lzh
+:	[PC98]こうかん日記[FILES].rar
+:	[PC98]ここは楽園荘2[FILES].rar
+:	[PC98]ここは楽園荘[FILES].rar
+:	[PC98]この世の果てで恋を唄う少女 YU-NO[FILES].lzh
+:	[PC98]さくらの季節[FILES].rar
+:	[PC98]さよならの向こう側[HDI].rar
+:	[PC98]しゃぶり姫 陰の章[FILES].rar
+:	[PC98]すすめ超常現象研究部[HDI].lzh
+:	[PC98]たまご料理[HDI].rar
+:	[PC98]つくねちゃんの大冒険 怒涛の仮免許編[FDI].lzh
+:	[PC98]てぃ～ん TEEN[FDI].lzh
+:	[PC98]てぃんくる[FDI].lzh
+:	[PC98]ときめきスポーツギャル3[D88].rar
+:	[PC98]どきどきシャッターチャンス[D88].rar
+:	[PC98]はいぱぁセキュリティーズ 近未来美少女ポリス日誌[D88].lzh
+:	[PC98]はっちゃけあやよさん AYAYO'S AFTER FIVE[D88].lzh
+:	[PC98]はっちゃけあやよさん4 セクシーオリンピック[FILES].rar
+:	[PC98]はっちゃけあやよさん5 ピカピカの小惑星[FILES].rar
+:	[PC98]はっちゃけあやよさん２ いけないホリデイ Ayayo's Love Affair[D88].lzh
+:	[PC98]はっちゃけあやよさん３ 私、逝っちゃったんです Ayayo's Life After[D88].lzh
+:	[PC98]ばにぃはんたぁ零[FILES].rar
+:	[PC98]ぴんきぃぽんきぃ びゅうてぃふるどりぃむ[D88].rar
+:	[PC98]ぴんきぃぽんきぃ２ とわいらいとげぇむず[D88].rar
+:	[PC98]ぴんきぃぽんきぃ３ ばとるらばぁ[D88].rar
+:	[PC98]ぷりんせすでんじゃあ[FILES].rar
+:	[PC98]ぷろすちゅーでんとＧ[FILES].rar
+:	[PC98]ぽっぷるメイル[D88].lzh
+:	[PC98]まーじゃんバニラシンドローム[D88].lzh
+:	[PC98]まーぷるまぢっく[D88].rar
+:	[PC98]やりたい放題2 ツーリストをねらえ[D88].rar
+:	[PC98]ようこそシネマハウスへ[FILES].rar
+:	[PC98]らんま 奥義邪暗拳[D88].lzh
+:	[PC98]らんま 飛竜伝説[D88].lzh
+:	[PC98]わくわく麻雀パニック!2 刻視夢想[D88].rar
+:	[PC98]アークス3[D88].rar
+:	[PC98]アークス[D88].rar
+:	[PC98]アートジグソー Vol.2 プリティガール[D88].lzh
+:	[PC98]アイドルプロジェクト[FILES].rar
+:	[PC98]アドヴァンスド パワードール2[D88].rar
+:	[PC98]アラベスク 少女たちの織りなす愛の物語[FILES].rar
+:	[PC98]アリスの館3[FILES].rar
+:	[PC98]アリスの館[D88].lzh
+:	[PC98]アルテミス[FDI].lzh
+:	[PC98]アルファ α[D88].rar
+:	[PC98]アローン イン ザ ダーク Alone in The Dark[FILES].lzh
+:	[PC98]アンジェラス 悪魔の福音[D88].lzh
+:	[PC98]アンナミダラーズ2[FILES].rar
+:	[PC98]アンビバレンツ 二律背反[FILES].rar
+:	[PC98]イース1 Ys1[D88].lzh
+:	[PC98]イース2 Ys2[D88].lzh
+:	[PC98]イース3 ワンダラーズ フロム イース[D88].rar
+:	[PC98]イーリス亭小夜曲[FDI].lzh
+:	[PC98]イリウム[FDI].lzh
+:	[PC98]インモラルスタディ シナリオ１ 白川玲子[FILES].rar
+:	[PC98]インモラルスタディ シナリオ２ 飯嶋由佳[FILES].rar
+:	[PC98]インモラルスタディ シナリオ３ 朝倉まなみ[FILES].rar
+:	[PC98]イヴ バーストエラー[FILES].rar
+:	[PC98]ウィザードリィ1～5[D88].lzh
+:	[PC98]ウィル デストラップ２_Will The Death Trap 2[NFD].zip
+:	[PC98]ウイニングポスト[D88].lzh
+:	[PC98]ウエディング・エラントリー 逆玉王[D88].rar
+:	[PC98]ウルティマ1 リメイク版[D88].rar
+:	[PC98]ウルティマ1 第１暗黒期[D88].lzh
+:	[PC98]ウルティマ2 女魔法使いの復讐[D88].lzh
+:	[PC98]ウルティマ3 エクソダス[D88].lzh
+:	[PC98]ウルティマ4 アバタールの伝説[D88].lzh
+:	[PC98]ウルティマ5 Warriors of Destiny[D88].lzh
+:	[PC98]ウルティマ6 偽りの予言者[D88].lzh
+:	[PC98]エアーコンバット2[D88].lzh
+:	[PC98]エイミーと呼ばないでっ[FDI].rar
+:	[PC98]エクスランダー 青き紋章の騎士団[D88].lzh
+:	[PC98]エスケイプ![FILES].rar
+:	[PC98]エテミブル 天壌無窮[FILES].rar
+:	[PC98]エメラルドドラゴン[D88].lzh
+:	[PC98]エル ELLE[D88].lzh
+:	[PC98]エル・ドミニオン 新大陸の覇者[D88].rar
+:	[PC98]エルステディア[FILES].lzh
+:	[PC98]エルムナイト[D88].rar
+:	[PC98]エロチック馬鹿ノベル 電話のベルが[HDI].rar
+:	[PC98]エンゲージエランズ2 光輝を担うもの[FILES].rar
+:	[PC98]エンチャンタ 若き魔導士の試練[FDI].lzh
+:	[PC98]エントフューラー 妖精誘拐事件[D88].rar
+:	[PC98]オランダ妻は電気ウナギの夢を見るか？[NFD].zip
+:	[PC98]オンリーユー 世紀末のジュリエットたち[FILES].lzh
+:	[PC98]カオスエンジェルズ[FDI].zip
+:	[PC98]カスタムメイト2[D88].lzh
+:	[PC98]カスタムメイト3[FILES].rar
+:	[PC98]カスタムメイト[D88].lzh
+:	[PC98]カナン 約束の地 GAOGAO!4th[FILES].rar
+:	[PC98]カミングハート[FILES].rar
+:	[PC98]ガール2 GIRL2[FILES].rar
+:	[PC98]ガールズパラダイス 楽園の天使たち[FDI].rar
+:	[PC98]ガルフ・ウォー 蒼鋼伝[D88].rar
+:	[PC98]ガンブレイズ[HDI].rar
+:	[PC98]キミだけに愛を…[FDI].lzh
+:	[PC98]キャラット MAGICAL BLOCKS[D88].lzh
+:	[PC98]キャル 1･2+PALリバイバル[D88].lzh
+:	[PC98]ギディ2[D88].rar
+:	[PC98]ギディ[D88].rar
+:	[PC98]ギャラクシースピリット[D88].rar
+:	[PC98]クイズでレッツゴー!![D88].rar
+:	[PC98]クリスタルリナール[D88].lzh
+:	[PC98]クレセント[D88].rar
+:	[PC98]クローンドール 課外授業[FILES].lzh
+:	[PC98]グロスドイッチュラント[D88].rar
+:	[PC98]グロリア 禁断の血族[FILES].rar
+:	[PC98]コスモスクラブ[D88].rar
+:	[PC98]コマンド H.Q. COMMAND H.Q.[D88].rar
+:	[PC98]ゴイス Goice[FDI].lzh
+:	[PC98]サーク The Art of Visual Stage[D88].lzh
+:	[PC98]サーク ガゼルの塔.lzh
+:	[PC98]サーク２ Rising of The Redmoon[D88].lzh
+:	[PC98]サーク３ The eternal recurrence[D88].lzh
+:	[PC98]サイバーイリュージョン[FILES].lzh
+:	[PC98]サイレントサービス SILENT SERVICE[D88].rar
+:	[PC98]サイレントメビウス[FDI].lzh
+:	[PC98]サティア Satyr[FDI].lzh
+:	[PC98]サバッシュ２ メヒテの大予言[D88].lzh
+:	[PC98]シャルム Charm[D88].lzh
+:	[PC98]シャングリラ2[FILES].rar
+:	[PC98]シャングリラ[D88].lzh
+:	[PC98]シュヴァルツシルト 狂嵐の銀河[D88].lzh
+:	[PC98]シュヴァルツシルト2 帝國ノ背信[D88].rar
+:	[PC98]シュヴァルツシルト4 The Cradle End[D88].rar
+:	[PC98]シュヴァルツシルト３ 惑星デスペラン[D88].lzh
+:	[PC98]ジ・アトラス.rar
+:	[PC98]ジ・アトラス2[D88].rar
+:	[PC98]ジェラシー[D88].rar
+:	[PC98]スーパーウルトラムッチンサイボーグ マリリンＤＸ[D88].lzh
+:	[PC98]スーパードッグワールド[HDM].lzh
+:	[PC98]スーパーバトルスキンパニック[FDI].lzh
+:	[PC98]スーパーリアル麻雀 Ｐ2＆Ｐ3[D88].rar
+:	[PC98]スクールフェスティバル 秋桜祭奇譚[FILES].rar
+:	[PC98]スケバン戦国史 PSYMEC SCHOOL WAR[D88].lzh
+:	[PC98]スターウォーズ Attack on the DEATHSTAR[D88].rar
+:	[PC98]スタークルーザー２ ザ・オデュッセウス・プロジェクト[D88].lzh
+:	[PC98]スターストライダーズ[FILES].rar
+:	[PC98]スタートレーダー STAR TRADER[D88].lzh
+:	[PC98]スターファイア[D88].rar
+:	[PC98]スタープラチナ[FILES].rar
+:	[PC98]スチームハーツ[HDI].lzh
+:	[PC98]ステラナビゲイター[HDM].zip
+:	[PC98]ストラテゴ[D88].rar
+:	[PC98]ストラディア[D88].lzh
+:	[PC98]ストレンジ・ワールド[FILES].rar
+:	[PC98]ストロベリー大戦略2[FILES].rar
+:	[PC98]ストロベリー大戦略[D88].lzh
+:	[PC98]スピンディジー2 Spindizzy 2[D88].rar
+:	[PC98]スレイヤーズ[D88].lzh
+:	[PC98]スロープ SLOPE[D88].lzh
+:	[PC98]セーラ[FILES].lzh
+:	[PC98]セーラー服戦士フェリス[D88].lzh
+:	[PC98]セクスプレス[D88].lzh
+:	[PC98]ゼニス[FILES].rar
+:	[PC98]ゼノン 夢幻の肢体 XENON[FDI].lzh
+:	[PC98]ソーサリアン+追加シナリオ1.2.3+ギルガメッシュソーサリアン[NFD].zip
+:	[PC98]ソードワールドPC[D88].rar
+:	[PC98]ソニックリンカー[D88].lzh
+:	[PC98]ソフトでハードな物語2[D88].lzh
+:	[PC98]ソフトでハードな物語[D88].lzh
+:	[PC98]ソリッドランサー[FILES].rar
+:	[PC98]ゾーク1[FDI].lzh
+:	[PC98]タイムストリッパー真子ちゃん[FDI].lzh
+:	[PC98]ダイナソア[D88].lzh
+:	[PC98]ダルク DALK[FILES].rar
+:	[PC98]ダンジョンマスター[D88].rar
+:	[PC98]チェリージャム 彼女が裸に着替えたら[FILES].rar
+:	[PC98]チックステイル[FILES].rar
+:	[PC98]ツァイ メタ女[HDI].rar
+:	[PC98]ティル・ナ・ノーグ ダーナの末裔[D88].lzh
+:	[PC98]ティル・ナ・ノーグ２ カオスの警鐘[D88].lzh
+:	[PC98]テグザー[FDI].zip
+:	[PC98]テストドライブ[D88].rar
+:	[PC98]テレネットミュージックボックス[D88].rar
+:	[PC98]デ・ジャ2[D88].rar
+:	[PC98]デ・ジャ[D88].lzh
+:	[PC98]ディエス・イレ[FILES].rar
+:	[PC98]ディガンの魔石[FDI].lzh
+:	[PC98]デザイア 背徳の螺旋[FDI].lzh
+:	[PC98]デジャヴ 引き裂かれた記憶[D88].rar
+:	[PC98]デッド オブ ザ ブレイン 死霊の叫び[D88].lzh
+:	[PC98]デッドフォース[D88].lzh
+:	[PC98]デュアルソウル[FILES].rar
+:	[PC98]デリシャスらんちぱっく[FILES].lzh
+:	[PC98]デリンジャー[FDI].lzh
+:	[PC98]デンジャラス トイズ[FILES].lzh
+:	[PC98]トキオ 東京都第24区[FILES].rar
+:	[PC98]トップマネジメント2[D88].rar
+:	[PC98]トラベル☆ジャンクション[FILES].rar
+:	[PC98]ドォープ DOOP[FILES].rar
+:	[PC98]ドラゴンシティX指定[D88].lzh
+:	[PC98]ドラゴンスレイヤー 英雄伝説[D88].lzh
+:	[PC98]ドラゴンナイト1[FDI].lzh
+:	[PC98]ドラゴンナイト2[FDI].lzh
+:	[PC98]ドラゴンナイト3[D88].rar
+:	[PC98]ドラゴンナイト4[FILES].rar
+:	[PC98]ドラゴンナイト４ スペシャルディスク[D88].lzh
+:	[PC98]ドラゴンバスター[D88].rar
+:	[PC98]ナイトウォーカー 真夜中の探偵[FILES].rar
+:	[PC98]ネクタリス[D88].rar
+:	[PC98]ネクロノミコン[FILES].rar
+:	[PC98]ノスタルジア1907[D88].lzh
+:	[PC98]ハーレムブレイド The Greatest of All Time[FILES].rar
+:	[PC98]バースデイズ[D88].lzh
+:	[PC98]バイブルマスター[FILES].rar
+:	[PC98]バイブルマスター・セカンド[FILES].rar
+:	[PC98]バウンティハンター ルディ[FILES].rar
+:	[PC98]バクタ[D88].lzh
+:	[PC98]バクタ２[FDI].lzh
+:	[PC98]バトル Battle[D88].lzh
+:	[PC98]バトルチェス[VFL].zip
+:	[PC98]バトルテック 奪われた聖杯[D88].rar
+:	[PC98]バンパイアハイすく～る[FILES].rar
+:	[PC98]パソコミック パープルキャット Vol.1 バニーガール特集[D88].lzh
+:	[PC98]パソコミック パープルキャット Vol.2 ホスピタル特集[D88].lzh
+:	[PC98]パソコミック パープルキャット Vol.3 女教師特集[D88].lzh
+:	[PC98]パワードール2[D88].rar
+:	[PC98]パワードール[D88].rar
+:	[PC98]パンドラの森 GAOGAO!2nd[FILES].rar
+:	[PC98]ビ・ヨンド 黒大将に見られてる[D88].lzh
+:	[PC98]ビートバイス[D88].lzh
+:	[PC98]ビーナスキャンぺーン[D88].rar
+:	[PC98]ビジターズラプソディー ビジット[FILES].rar
+:	[PC98]ピュア[D88].rar
+:	[PC98]ピルケース PILcaSEX[FILES].rar
+:	[PC98]ピンクソックス1[D88].rar
+:	[PC98]ピンクソックス2[D88].rar
+:	[PC98]ピンクソックス3[D88].rar
+:	[PC98]ピンクソックス4[D88].rar
+:	[PC98]ピンクソックス5[D88].rar
+:	[PC98]ピンクソックス6[D88].rar
+:	[PC98]ピンクソックス7[D88].rar
+:	[PC98]ピンクソックス8[D88].rar
+:	[PC98]ファーランドストーリー2 アーク王の遠征[D88].lzh
+:	[PC98]ファーランドストーリー3 天使の涙[D88].lzh
+:	[PC98]ファーランドストーリー4 白銀の翼[D88].lzh
+:	[PC98]ファイナルロリータ[D88].lzh
+:	[PC98]ファルアディア[D88].lzh
+:	[PC98]フィルスノーン 光と刻[FILES].rar
+:	[PC98]フェルミオン 未来からの訪問者[FILES].rar
+:	[PC98]フォア フラッシュ[FDI].lzh
+:	[PC98]フォトクラブ3 恐怖の館編[D88].rar
+:	[PC98]フラッシュポイント4[D88].lzh
+:	[PC98]フレイ In magical adventure[D88].lzh
+:	[PC98]フロンティアユニヴァース[D88].rar
+:	[PC98]ブランディッシュ2 ザ プラネット バスター[FILES].rar
+:	[PC98]ブランマーカー2[FILES].rar
+:	[PC98]ブランマーカー[FDI].lzh
+:	[PC98]ブルトンレイ[D88].zip
+:	[PC98]プリティ戦隊きゃるるーん[FILES].rar
+:	[PC98]プリンセスミネルバ 姫のわがまま大冒険[D88].rar
+:	[PC98]プリンセスメーカー[D88].lzh
+:	[PC98]プレセンス PRESENCE[D88].lzh
+:	[PC98]プレゼントデュオ[FILES].rar
+:	[PC98]プレミアム[D88].rar
+:	[PC98]ヘル・オウガ HELL-OGRE[D88].rar
+:	[PC98]ベロンチョ身体検査[FDI].zip
+:	[PC98]ペンションストーリー 花の清里[D88].rar
+:	[PC98]ホーニースィーパー 好色仕掛人[FILES].rar
+:	[PC98]ホーニースィーパー２ 女子校危機一発[FILES].rar
+:	[PC98]ポッキー[D88].rar
+:	[PC98]ポッキー２ 怪人赤マントの挑戦[FDI].rar
+:	[PC98]ポピュラス2_Populous2[FDI].zip
+:	[PC98]マーシャルエイジ[D88].rar
+:	[PC98]マイ アイズ My eyes![FDI].lzh
+:	[PC98]マイクロソフト フライトシミュレーター Ver 4.0[DCU].rar
+:	[PC98]マイト＆マジック BOOK2 GATES TO ANOTHER WORLD_Might & Magic 2[FDI].zip
+:	[PC98]マイト＆マジック3 Isles of Terra[D88].rar
+:	[PC98]マジックマスター モンスターメーカー2[D88].rar
+:	[PC98]マスター・オブ・モンスターズ ファイナル 黄昏の指輪[D88].rar
+:	[PC98]マリオネットマインド[FILES].rar
+:	[PC98]マリオン[D88].rar
+:	[PC98]マリンバスター[D88].rar
+:	[PC98]マリンフィルト[D88].rar
+:	[PC98]マンハッタンレクイエム 闇に翔ぶ天使たち[D88].rar
+:	[PC98]ミスティブルー[FDI].lzh
+:	[PC98]ミュウ[FDI].rar
+:	[PC98]ミラージュ2 トリーＸニートＸローンの大冒険[FDI].rar
+:	[PC98]ミラージュ[INST].rar
+:	[PC98]ムーンゲート[D88].rar
+:	[PC98]ムーンミスト MOON MIST[FDI].lzh
+:	[PC98]ムーンライトエナジー[D88].rar
+:	[PC98]メタモルミーナ[FDI].rar
+:	[PC98]メタルアイ2[FILES].rar
+:	[PC98]メタルアイ[FILES].rar
+:	[PC98]メタルムーバー ジャストライク[FDI].rar
+:	[PC98]メタ女 府立メタトポロジー大学付属女子高校SP[FILES].rar
+:	[PC98]メッセンジャー フロム ダークナイト[FILES].rar
+:	[PC98]メビウスロイド[FILES].rar
+:	[PC98]メモリーズ 白い夜空に舞う天使[FILES].rar
+:	[PC98]メル・メル メルティーメルヘン[FILES].rar
+:	[PC98]モンスターメーカー[FILES].rar
+:	[PC98]ヨーロッパ戦線[D88].rar
+:	[PC98]ライヒスリッター 帝国騎士団[D88].rar
+:	[PC98]ライフ イズ ミュージック[D88].rar
+:	[PC98]ライフ＆デス[FILES].rar
+:	[PC98]ライフ＆デス２ The Brain[D88].rar
+:	[PC98]ライム☆スター_RHYME STAR[HDM].lzh
+:	[PC98]ラジカルシークエンス GAOGAO!1st[FILES].rar
+:	[PC98]ラストハルマゲドン[D88].rar
+:	[PC98]ラブィーニ[FILES].rar
+:	[PC98]ラブリーホラー おちゃめなゆうれい[D88].rar
+:	[PC98]ラルー RARUE[D88].rar
+:	[PC98]ランス 光をもとめて[FILES].rar
+:	[PC98]ランス2 反逆の少女たち[FILES].rar
+:	[PC98]ランス3 リーザス陥落[FILES].rar
+:	[PC98]ランス4 教団の遺産[FILES].rar
+:	[PC98]リップスティックアドベンチャー3[D88].lzh
+:	[PC98]リビドー７[D88].rar
+:	[PC98]リボン[FILES].rar
+:	[PC98]リングマスター２ 永遠なる思い[D88].rar
+:	[PC98]ルーキーズ[FILES].rar
+:	[PC98]ルーンワース 黒衣の貴公子[D88].rar
+:	[PC98]ルーンワース2 時空の神戦[D88].rar
+:	[PC98]ルーンワース3 神聖紀光臨[D88].rar
+:	[PC98]ルナティックドーン2[D88].rar
+:	[PC98]レイラ Slave Doll[D88].rar
+:	[PC98]レガム LEGAM[FILES].rar
+:	[PC98]レッスルエンジェルス3[FILES].rar
+:	[PC98]レッスルエンジェルスV1[D88].lzh
+:	[PC98]レッスルエンジェルス[D88].rar
+:	[PC98]ローグアライアンス[D88].rar
+:	[PC98]ロジカル[D88].rar
+:	[PC98]ロボクラッシュ2[D88].lzh
+:	[PC98]ロボクラッシュ98[D88].lzh
+:	[PC98]ロマンスは剣の輝き ラストクルセイダー[FILES].rar
+:	[PC98]ワーズ・ワース[FILES].rar
+:	[PC98]ワイルドフォース GAOGAO!3rd[FILES].rar
+:	[PC98]ワンパラウォーズ2[FILES].rar
+:	[PC98]ワンパラウォーズ[FILES].rar
+:	[PC98]ヴァリアブル・ジオ[FILES].lzh
+:	[PC98]ヴァリアブル・ジオ２ 姫神舞闘譚[D88].rar
+:	[PC98]ヴェインドリーム2[D88].lzh
+:	[PC98]亜紀子GOLD[FILES].rar
+:	[PC98]愛姉妹 二人の果実[FILES].rar
+:	[PC98]悪夢 青い果実の散花[FILES].rar
+:	[PC98]伊忍道 打倒信長[D88].rar
+:	[PC98]維新の嵐[D88].rar
+:	[PC98]遺作[FILES].rar
+:	[PC98]淫従の堕天使 Requiem for Fallen Angels[FILES].rar
+:	[PC98]淫獣学園 La☆BlueGirl[FILES].rar
+:	[PC98]淫獣幻夢2 BRAIN BURST!![FDI].rar
+:	[PC98]淫魔制服狩り[FILES].rar
+:	[PC98]宇宙快盗ファニーBee[FILES].rar
+:	[PC98]栄冠は君に２ 高校野球全国大会[D88].lzh
+:	[PC98]英雄伝説3 もうひとつの英雄たちの物語 白き魔女[FILES].rar
+:	[PC98]英雄伝説4 朱紅い雫[HDI].rar
+:	[PC98]悦楽の学園[FILES].lzh
+:	[PC98]怨霊戦記[FDI].rar
+:	[PC98]黄昏の境界[D88].rar
+:	[PC98]下級生[FILES].rar
+:	[PC98]河原岬家の一族[FILES].rar
+:	[PC98]花の記憶 第二章[FILES].rar
+:	[PC98]花の記憶[FILES].rar
+:	[PC98]快楽の掟 蒼い体験[FDI].rar
+:	[PC98]外道教師 凌辱週間[FILES].rar
+:	[PC98]殻の中の小鳥[FILES].rar
+:	[PC98]学園ソドム 教室の牝奴隷達[FILES].rar
+:	[PC98]学園都市Z[D88].rar
+:	[PC98]楽市の政[FILES].rar
+:	[PC98]監禁[FILES].rar
+:	[PC98]監獄カントリークラブ[FILES].rar
+:	[PC98]機械じかけのマリアン[FILES].rar
+:	[PC98]機甲師団2[D88].rar
+:	[PC98]機動警察パトレイバー OPERATION TOKYO BAY[D88].rar
+:	[PC98]輝け!キラキラ戦士リスキージュエル[FDI].rar
+:	[PC98]鬼頭島女子刑務所[FILES].rar
+:	[PC98]偽典・女神転生 東京黙示録[FILES].rar
+:	[PC98]究極 格闘指南[D88].rar
+:	[PC98]教材名人[D88].rar
+:	[PC98]脅迫[FILES].rar
+:	[PC98]鏡 mirror[FILES].rar
+:	[PC98]琴緋ヶ丘物語[FILES].rar
+:	[PC98]禁断の血族[FILES].rar
+:	[PC98]緊縛の館[FILES].rar
+:	[PC98]銀河英雄伝説2[D88].rar
+:	[PC98]銀河英雄伝説3[D88].rar
+:	[PC98]銀河英雄伝説4EX Kit[D88].rar
+:	[PC98]銀河英雄伝説4[FILES].rar
+:	[PC98]銀河英雄伝説[D88].lzh
+:	[PC98]幻影都市 イリュージョンシティ[FDI].rar
+:	[PC98]幻世喜譚 Disc Saga III[D88].lzh
+:	[PC98]幻魔大戦[D88].rar
+:	[PC98]後漢志[D88].lzh
+:	[PC98]拘束超人[FILES].rar
+:	[PC98]校内写生1 世にもＨな物語[FILES].rar
+:	[PC98]校内写生2 美少女仮面の謎 美少女仮面見参！[FILES].rar
+:	[PC98]校内写生3 セーラー服戦士アッコちゃん対美少女仮面[FILES].rar
+:	[PC98]国立機動戦隊RIPS V[FDI].rar
+:	[PC98]黒の剣[D88].lzh
+:	[PC98]黒の断章 The Literary Fragment[FILES].rar
+:	[PC98]痕 きずあと[FILES].rar
+:	[PC98]魂の門 ダンテ「神曲」より[D88].rar
+:	[PC98]沙也香 義母[FILES].rar
+:	[PC98]沙羅曼蛇[D88].rar
+:	[PC98]殺しのドレス[FILES].rar
+:	[PC98]三国志4[D88].rar
+:	[PC98]三姉妹[FDI].rar
+:	[PC98]三國志英雄伝[D88].lzh
+:	[PC98]指輪物語 第1巻 旅の仲間[DSK].rar
+:	[PC98]指輪物語 第2巻 二つの塔[DSK].rar
+:	[PC98]私説三國志[D88].rar
+:	[PC98]私立探偵マックス 潜入!! 謎の女子校 Out Side Graphcs[D88].rar
+:	[PC98]時空査察官ハヤテ INSPECTOR[D88].lzh
+:	[PC98]雫 しずく[FILES].rar
+:	[PC98]七英雄物語[FILES].rar
+:	[PC98]失われた楽園[D88].lzh
+:	[PC98]初恋物語[D88].rar
+:	[PC98]女の子の仕組み[D88].lzh
+:	[PC98]女郎蜘蛛 呪縛の牝奴隷達[FILES].rar
+:	[PC98]小鉄の大冒険[FILES].rar
+:	[PC98]信長の野望 全国版[D88].rar
+:	[PC98]神々の大地 古事記外伝[D88].rar
+:	[PC98]神話の島[D88].rar
+:	[PC98]人魚 蘿子[HDI].rar
+:	[PC98]人形使い2[D88].rar
+:	[PC98]尋問遊技[FILES].rar
+:	[PC98]水滸伝 天命の誓い[FDI].zip
+:	[PC98]雛鳥の囀[FILES].rar
+:	[PC98]雀ボーグすずめ[D88].rar
+:	[PC98]世界でいちばん君がすき![D88].rar
+:	[PC98]性鬼 陵辱の仮面[FILES].rar
+:	[PC98]星の砂物語3[FILES].rar
+:	[PC98]星の砂物語[FDI].rar
+:	[PC98]晴れのちおおさわぎ![FDI].rar
+:	[PC98]晴れのち胸さわぎ[FILES].rar
+:	[PC98]聖少女戦隊レイカーズ2[FILES].rar
+:	[PC98]聖少女戦隊レイカーズ3[FILES].rar
+:	[PC98]聖少女戦隊レイカーズ[FILES].rar
+:	[PC98]西国の覇者[D88].rar
+:	[PC98]赤い水晶の瞳[FILES].LZH
+:	[PC98]戦国最強軍団 信玄[D88].rar
+:	[PC98]戦国秋葉原信長伝[D88].lzh
+:	[PC98]蒼き狼と白き牝鹿 元朝秘史[D88].rar
+:	[PC98]続ダンジョンマスター カオスの逆襲[D88].rar
+:	[PC98]続妖獣戦記 砂塵の黙示録[FILES].rar
+:	[PC98]卒業 グラデュエーション[D88].lzh
+:	[PC98]卒業旅行[FILES].rar
+:	[PC98]堕落の国のアンジー 狂界の牝奴隷達[FILES].rar
+:	[PC98]大航海時代2[D88].lzh
+:	[PC98]大航海時代[D88].lzh
+:	[PC98]大戦略IV[D88].lzh
+:	[PC98]大平洋戦記[D88].lzh
+:	[PC98]第４のユニット3 デュアルターゲット[D88].rar
+:	[PC98]誰も知らない… 失われた記憶の扉[FDI].lzh
+:	[PC98]地球防衛少女イコちゃん UFO大作戦[D88].rar
+:	[PC98]超時空要塞マクロス スカル・リーダー[D88].lzh
+:	[PC98]超時空要塞マクロス ラブ・ストーリーズ[D88].lzh
+:	[PC98]超時空要塞マクロス リメンバー・ミー[D88].rar
+:	[PC98]提督の決断[D88].lzh
+:	[PC98]天下御免[D88].rar
+:	[PC98]天九牌[D88].rar
+:	[PC98]天使たちの午後2 番外編[D88].lzh
+:	[PC98]天使たちの午後5 狙われた天使[D88].lzh
+:	[PC98]天使達の午後4[D88].rar
+:	[PC98]天使達の微笑み[FILES].lzh
+:	[PC98]天神乱魔[D88].rar
+:	[PC98]天舞三国志正史[DCP].ZIP
+:	[PC98]電撃ナース2 モアセクシー[FILES].rar
+:	[PC98]電撃ナース[FILES].rar
+:	[PC98]電脳画廊[FDI].lzh
+:	[PC98]電脳学園2[D88].lzh
+:	[PC98]電脳学園3[FDI].lzh
+:	[PC98]電脳学園[D88].lzh
+:	[PC98]東京トワイライト・バスターズ 禁断の生贄帝都地獄変[D88].lzh
+:	[PC98]東京巨乳ストーリー[D88].lzh
+:	[PC98]東京風俗紀行[D88].rar
+:	[PC98]盗作[FILES].lzh
+:	[PC98]藤堂竜之介探偵日記 琥珀色の遺言 西洋骨牌連続殺人事件[D88].rar
+:	[PC98]透明人間 あらわるあらわる[FILES].rar
+:	[PC98]闘神都市2[FILES].rar
+:	[PC98]同級生2[FILES].lzh
+:	[PC98]同級生[HDI].rar
+:	[PC98]内山亜紀の超番外制服図鑑＋[D88].lzh
+:	[PC98]脳力者[FILES].rar
+:	[PC98]馬なり1ハロン劇場2[D88].rar
+:	[PC98]馬なり1ハロン劇場[D88].rar
+:	[PC98]白夜物語 ウィンチェスター家の末裔[D88].rar
+:	[PC98]秘密の花園[D88].rar
+:	[PC98]緋王伝2[D88].rar
+:	[PC98]緋王伝[D88].rar
+:	[PC98]美少女通信 CHATのすすめ[FDI].rar
+:	[PC98]美乳ハンター[HDI].rar
+:	[PC98]柊坂の旧館[FILES].rar
+:	[PC98]漂流[D88].rar
+:	[PC98]舞夢 MIME[FILES].rar
+:	[PC98]復讐[FILES].rar
+:	[PC98]分裂守護神トゥインクルスター[HDI].rar
+:	[PC98]忘れえぬ炎[FILES].rar
+:	[PC98]魔京伝[D88].rar
+:	[PC98]魔女っ子クミ[FDI].rar
+:	[PC98]魔性の貌[FILES].rar
+:	[PC98]魔導物語 1-2-3[D88].rar
+:	[PC98]魔法少女B子[FILES].rar
+:	[PC98]魔法少女ファンシーCOCO[FILES].rar
+:	[PC98]魔法少女隊うぉーず マジカルジャム[FILES].rar
+:	[PC98]魔竜学園 汚された肉体[D88].rar
+:	[PC98]麻彩子雀[D88].rar
+:	[PC98]麻雀スポーツライン[FILES].rar
+:	[PC98]麻雀トリプルウォーズ外伝[D88].lzh
+:	[PC98]麻雀幻想曲2[FDI].rar
+:	[PC98]麻雀幻想曲3[FDI].rar
+:	[PC98]麻雀幻想曲[FDI].rar
+:	[PC98]麻雀遊園地[D88].lzh
+:	[PC98]毎日がえっち[FDI].rar
+:	[PC98]夢の精[FILES].rar
+:	[PC98]夢幻夜想曲[FILES].rar
+:	[PC98]夢二 浅草奇譚[D88].lzh
+:	[PC98]無人島物語[D88].rar
+:	[PC98]霧島診療室の午後[FILES].rar
+:	[PC98]牝猫秘書室[FILES].rar
+:	[PC98]夜の天使たち 私鉄沿線殺人事件[D88].rar
+:	[PC98]野々村病院の人々[D88].rar
+:	[PC98]誘惑の吐息[FDI].rar
+:	[PC98]遊ディスクVol.3 加奈子さんの憂鬱[FDI].rar
+:	[PC98]遊ディスクVol.4 クリスタルリナールお楽しみディスク[D88].lzh
+:	[PC98]妖幻道夢[FILES].rar
+:	[PC98]妖獣戦記2 黎明の戦士たち[FILES].rar
+:	[PC98]慾 むさぼり[FILES].rar
+:	[PC98]雷の戦士ライディ[FILES].rar
+:	[PC98]蘭丸[D88].lzh
+:	[PC98]裏マンション発禁[FILES].rar
+:	[PC98]猟奇の檻2[FILES].rar
+:	[PC98]猟奇の檻[FILES].rar
+:	[PC98]林間学校[FILES].rar
+:	[PC98]瑠璃色の雪[FILES].rar
+:	[PC98]恋姫 ミスティックプリンセス[D88].rar
+:	[PC98]歪み[FILES].rar
+:	[PC98]蕾花 花仙宮[FILES].rar
+:	list.pl
+:	list.txt
+:	[PC98]宝魔ハンターライム全話[D88]
+:	:	[PC98]ライム第10話.lzh
+:	:	[PC98]ライム第11話.lzh
+:	:	[PC98]ライム第12話.lzh
+:	:	[PC98]ライム第1話.lzh
+:	:	[PC98]ライム第2話.lzh
+:	:	[PC98]ライム第3話.lzh
+:	:	[PC98]ライム第4話.lzh
+:	:	[PC98]ライム第5話.lzh
+:	:	[PC98]ライム第6話.lzh
+:	:	[PC98]ライム第7話.lzh
+:	:	[PC98]ライム第8話.lzh
+:	:	[PC98]ライム第9話.lzh

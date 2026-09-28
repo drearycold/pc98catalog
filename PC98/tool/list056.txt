@@ -1,0 +1,83 @@
+:	N64Have.txt
+:	N64JpRomsAll.txt
+:	N64JpRomsHave.txt
+:	N64JpRomsMiss.txt
+:	N64Miss.txt
+:	‚P‚O‚W‚OƒXƒm[ƒ{[ƒfƒBƒ“ƒO (JU) [!].zip
+:	‚P‚O‚W‚OƒXƒm[ƒ{[ƒfƒBƒ“ƒO (JU) [b1].zip
+:	‚P‚O‚W‚OƒXƒm[ƒ{[ƒfƒBƒ“ƒO (JU) [b2].zip
+:	‚P‚O‚W‚OƒXƒm[ƒ{[ƒfƒBƒ“ƒO (JU) [b3].zip
+:	‚P‚O‚W‚OƒXƒm[ƒ{[ƒfƒBƒ“ƒO (JU) [b4].zip
+:	‚P‚O‚W‚OƒXƒm[ƒ{[ƒfƒBƒ“ƒO (JU) [b5].zip
+:	‚P‚O‚W‚OƒXƒm[ƒ{[ƒfƒBƒ“ƒO (JU) [b6].zip
+:	‚P‚O‚W‚OƒXƒm[ƒ{[ƒfƒBƒ“ƒO (JU) [b7].zip
+:	‚P‚O‚W‚OƒXƒm[ƒ{[ƒfƒBƒ“ƒO (JU) [b8].zip
+:	‚P‚O‚W‚OƒXƒm[ƒ{[ƒfƒBƒ“ƒO (JU) [b9].zip
+:	‚P‚O‚W‚OƒXƒm[ƒ{[ƒfƒBƒ“ƒO (JU) [ba].zip
+:	‚P‚O‚W‚OƒXƒm[ƒ{[ƒfƒBƒ“ƒO (JU) [f1] (DS-1).zip
+:	‚P‚O‚W‚OƒXƒm[ƒ{[ƒfƒBƒ“ƒO (JU) [f2] (PAL).zip
+:	‚P‚O‚W‚OƒXƒm[ƒ{[ƒfƒBƒ“ƒO (JU) [f3] (PAL).zip
+:	‚P‚O‚W‚OƒXƒm[ƒ{[ƒfƒBƒ“ƒO (JU) [f4] (PAL-Z64).zip
+:	‚P‚O‚W‚OƒXƒm[ƒ{[ƒfƒBƒ“ƒO (JU) [f5] (SRAM).zip
+:	‚P‚O‚W‚OƒXƒm[ƒ{[ƒfƒBƒ“ƒO (JU) [f5][t1].zip
+:	‚P‚O‚W‚OƒXƒm[ƒ{[ƒfƒBƒ“ƒO (JU) [f6] (Boot-PAL).zip
+:	‚P‚O‚W‚OƒXƒm[ƒ{[ƒfƒBƒ“ƒO (JU) [h1] (cartname).zip
+:	‚P‚O‚W‚OƒXƒm[ƒ{[ƒfƒBƒ“ƒO (JU) [h2] (cartname).zip
+:	‚U‚S‚Å”­Œ©I‚½‚Ü‚²‚Á‚¿ ‚İ‚ñ‚È‚Å‚½‚Ü‚²‚Á‚¿ƒ[ƒ‹ƒh (J) [!].zip
+:	‚U‚S‚Å”­Œ©I‚½‚Ü‚²‚Á‚¿ ‚İ‚ñ‚È‚Å‚½‚Ü‚²‚Á‚¿ƒ[ƒ‹ƒh (J) [b1].zip
+:	‚U‚S‚Å”­Œ©I‚½‚Ü‚²‚Á‚¿ ‚İ‚ñ‚È‚Å‚½‚Ü‚²‚Á‚¿ƒ[ƒ‹ƒh (J) [h1] (cartname).zip
+:	‚U‚S‚Å”­Œ©I‚½‚Ü‚²‚Á‚¿ ‚İ‚ñ‚È‚Å‚½‚Ü‚²‚Á‚¿ƒ[ƒ‹ƒh (J) [o1].zip
+:	‚U‚Sƒgƒ‰ƒ“ƒvƒRƒŒƒNƒVƒ‡ƒ“ ƒAƒŠƒX‚Ì‚í‚­‚í‚­ƒgƒ‰ƒ“ƒvƒ[ƒ‹ƒh (J) [!].zip
+:	‚U‚Sƒgƒ‰ƒ“ƒvƒRƒŒƒNƒVƒ‡ƒ“ ƒAƒŠƒX‚Ì‚í‚­‚í‚­ƒgƒ‰ƒ“ƒvƒ[ƒ‹ƒh (J) [h1] (cartname).zip
+:	‚U‚S‰ÔD “Vg‚Ì–ñ‘© (J) [!].zip
+:	‚U‚S‘å‘Š–o (J) [!].zip
+:	‚U‚S‘å‘Š–o (J) [b1].zip
+:	‚U‚S‘å‘Š–o (J) [b2].zip
+:	‚U‚S‘å‘Š–o (J) [b3].zip
+:	‚U‚S‘å‘Š–o‚Q (J) [!].zip
+:	‚`‚h«Šû‚R (J) [!].zip
+:	‚a‚t‚b‚j ‚a‚t‚l‚a‚k‚d (J) [!].zip
+:	‚b‚h‚s‚x ‚s‚n‚t‚q ‚f‚q‚`‚m‚c‚o‚q‚h‚w ‘S“ú–{‚f‚s‘IèŒ  (J) [!].zip
+:	‚b‚h‚s‚x ‚s‚n‚t‚q ‚f‚q‚`‚m‚c‚o‚q‚h‚w ‘S“ú–{‚f‚s‘IèŒ  (J) [b1].zip
+:	‚b‚h‚s‚x ‚s‚n‚t‚q ‚f‚q‚`‚m‚c‚o‚q‚h‚w ‘S“ú–{‚f‚s‘IèŒ  (J) [b2].zip
+:	‚b‚h‚s‚x ‚s‚n‚t‚q ‚f‚q‚`‚m‚c‚o‚q‚h‚w ‘S“ú–{‚f‚s‘IèŒ  (J) [b3].zip
+:	‚c‚n‚n‚l‚U‚S (J) [!].zip
+:	‚c‚n‚n‚l‚U‚S (J) [b1].zip
+:	‚e|‚P ‚v‚‚’‚Œ‚„ ‚f‚’‚‚‚„ ‚o‚’‚‰‚˜ (J) [!].zip
+:	‚e|‚P ‚v‚‚’‚Œ‚„ ‚f‚’‚‚‚„ ‚o‚’‚‰‚˜ (J) [h1] (cartname).zip
+:	‚e|‚y‚d‚q‚n ‚w (J) [!].zip
+:	‚e|‚y‚d‚q‚n ‚w (J) [b1].zip
+:	‚e|‚y‚d‚q‚n ‚w (J) [b2].zip
+:	‚e|‚y‚d‚q‚n ‚w (J) [b3].zip
+:	‚e|‚y‚d‚q‚n ‚w (J) [t1].zip
+:	‚e‚h‚e‚` ‚q‚‚‚„ ‚”‚ ‚v‚‚’‚Œ‚„ ‚b‚•‚ ‚X‚W ƒ[ƒ‹ƒhƒJƒbƒv‚Ö‚Ì“¹ (J) [!].zip
+:	‚fD‚`D‚rD‚oII‚e‚‰‚‡‚ˆ‚”‚…‚’f‚“ ‚m‚d‚w‚s‚’‚…‚‚ (J) [!].zip
+:	‚fD‚`D‚rD‚oII‚e‚‰‚‡‚ˆ‚”‚…‚’f‚“ ‚m‚d‚w‚s‚’‚…‚‚ (J) [b1].zip
+:	‚g‚d‚h‚v‚`ƒpƒ`ƒ“ƒRƒ[ƒ‹ƒh‚U‚S (J) [!].zip
+:	‚g‚d‚h‚v‚`ƒpƒ`ƒ“ƒRƒ[ƒ‹ƒh‚U‚S (J) [b1].zip
+:	‚g‚d‚h‚v‚`ƒpƒ`ƒ“ƒRƒ[ƒ‹ƒh‚U‚S (J) [b2].zip
+:	‚g‚d‚h‚v‚`ƒpƒ`ƒ“ƒRƒ[ƒ‹ƒh‚U‚S (J) [b3].zip
+:	‚g‚d‚h‚v‚`ƒpƒ`ƒ“ƒRƒ[ƒ‹ƒh‚U‚S (J) [h1] (cartname).zip
+:	‚g‚d‚h‚v‚`ƒpƒ`ƒ“ƒRƒ[ƒ‹ƒh‚U‚S (J) [o1].zip
+:	‚g‚x‚a‚q‚h‚c ‚g‚d‚`‚u‚d‚m (J) [!].zip
+:	‚g‚x‚a‚q‚h‚c ‚g‚d‚`‚u‚d‚m (J) [b1].zip
+:	‚g‚x‚a‚q‚h‚c ‚g‚d‚`‚u‚d‚m (J) [f1] (PAL).zip
+:	‚iƒŠ[ƒO ‚k‚h‚u‚d‚U‚S (J) [!].zip
+:	‚iƒŠ[ƒO ‚k‚h‚u‚d‚U‚S (J) [b1].zip
+:	‚iƒŠ[ƒO ƒCƒŒƒuƒ“ƒr[ƒg (J) [!].zip
+:	‚iƒŠ[ƒO ƒCƒŒƒuƒ“ƒr[ƒg (J) [b1].zip
+:	‚iƒŠ[ƒO ƒ^ƒNƒeƒBƒNƒXEƒTƒbƒJ[ (J) [!].zip
+:	‚iƒŠ[ƒO ƒ^ƒNƒeƒBƒNƒXEƒTƒbƒJ[ (J) [b1].zip
+:	‚iƒŠ[ƒO ƒ^ƒNƒeƒBƒNƒXEƒTƒbƒJ[ (J) [f1] (PAL).zip
+:	‚iƒŠ[ƒO ƒ_ƒCƒiƒ}ƒCƒgƒTƒbƒJ[‚U‚S (J) [!].zip
+:	‚iƒŠ[ƒO ƒ_ƒCƒiƒ}ƒCƒgƒTƒbƒJ[‚U‚S (J) [a1].zip
+:	‚iƒŠ[ƒO ƒ_ƒCƒiƒ}ƒCƒgƒTƒbƒJ[‚U‚S (J) [b1].zip
+:	‚iƒŠ[ƒO ƒ_ƒCƒiƒ}ƒCƒgƒTƒbƒJ[‚U‚S (J) [b2].zip
+:	‚iƒŠ[ƒO ƒ_ƒCƒiƒ}ƒCƒgƒTƒbƒJ[‚U‚S (J) [b3].zip
+:	‚iƒŠ[ƒO ƒ_ƒCƒiƒ}ƒCƒgƒTƒbƒJ[‚U‚S (J) [h1] (cartname).zip
+:	‚iƒŠ[ƒO ƒ_ƒCƒiƒ}ƒCƒgƒTƒbƒJ[‚U‚S (J) [h2] (cartname).zip
+:	‚iƒŠ[ƒO ƒ_ƒCƒiƒ}ƒCƒgƒTƒbƒJ[‚U‚S (J) [h3] (cartname).zip
+:	‚j‚h‚m‚f ‚g‚h‚k‚k‚U‚S ƒGƒNƒXƒgƒŠ[ƒ€ƒXƒm[ƒ{[ƒfƒBƒ“ƒO (J) [!].zip
+:	‚j‚h‚m‚f ‚g‚h‚k‚k‚U‚S ƒGƒNƒXƒgƒŠ[ƒ€ƒXƒm[ƒ{[ƒfƒBƒ“ƒO (J) [b1].zip
+:	‚j‚h‚m‚f ‚g‚h‚k‚k‚U‚S ƒGƒNƒXƒgƒŠ[ƒ€ƒXƒm[ƒ{[ƒfƒBƒ“ƒO (J) [b2].zip
+:	‚k‚…‚”f‚“ƒXƒ}ƒbƒVƒ… (J) [!].zip

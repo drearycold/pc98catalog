@@ -1,0 +1,845 @@
+(エミュ)メガドライブロム4231本コンプリート(GoodGen_0_9997)(E-Mid).zip
+728,979,265
+40216c031da8d3fc9d1a9e1bb226eb49・1b180a8ab6d840ac2cb3a08920a4b371c3700663
+
+:	GenRen
+:	:	EA Sports 2-in-1 Pack (E) [!].zip
+:	:	EA Sports 2-in-1 Pack (U).zip
+:	:	ECCO (J).zip
+:	:	ECCO (U) [!].zip
+:	:	ECCO (U) [T-Port100%_FServ].zip
+:	:	ECCO (U) [h1].zip
+:	:	ECCO - The Tides of Time (E).zip
+:	:	ECCO - The Tides of Time (J) [h1].zip
+:	:	ECCO - The Tides of Time (J) [h2].zip
+:	:	ECCO - The Tides of Time (J) [h3].zip
+:	:	ECCO - The Tides of Time (J) [t1].zip
+:	:	ECCO - The Tides of Time (U) [!].zip
+:	:	ECCO - The Tides of Time (beta) [h1].zip
+:	:	ECCO - The Tides of Time (beta).zip
+:	:	ECCO Jr. (Feb 1995) (UJE) [!].zip
+:	:	ECCO Jr. (Mar 1995) (UJE) [!].zip
+:	:	ESPN Baseball Tonight (U) [!].zip
+:	:	ESPN Baseball Tonight (U) [b1].zip
+:	:	ESPN SpeedWorld (U) [c][!].zip
+:	:	ESPN SpeedWorld (U) [o1].zip
+:	:	ESPN SpeedWorld (UEJ) [h1].zip
+:	:	ESPN Speedworld (JUE) [h1].zip
+:	:	ESPN Speedworld (U) [h1].zip
+:	:	ESPN Speedworld (U) [h2].zip
+:	:	ESPN Sunday Night Football (U) [!].zip
+:	:	ESPN Sunday Night Football (U) [h1].zip
+:	:	ESPN Sunday Night Football (U) [h2].zip
+:	:	ESPN Sunday Night Football (U) [o1].zip
+:	:	Earnest Evans (U) [!].zip
+:	:	Earnest Evans (U) [b1].zip
+:	:	Earnest Evans (U) [b2].zip
+:	:	Earnest Evans (U) [h1].zip
+:	:	Earthworm Jim (E) [!].zip
+:	:	Earthworm Jim (E) [t1].zip
+:	:	Earthworm Jim (U) [!].zip
+:	:	Earthworm Jim (U) [h1].zip
+:	:	Earthworm Jim (U) [t1].zip
+:	:	Earthworm Jim 2 (4) [!].zip
+:	:	Earthworm Jim 2 (E) [a1][x].zip
+:	:	Earthworm Jim 2 (E) [a2][x].zip
+:	:	Earthworm Jim 2 (E) [b1].zip
+:	:	Earthworm Jim 2 (E) [b2].zip
+:	:	Earthworm Jim 2 (E) [h1].zip
+:	:	Earthworm Jim 2 (E) [x].zip
+:	:	Egypt 32X Demo (PD).zip
+:	:	El Viento (J) [h1].zip
+:	:	El Viento (J).zip
+:	:	El Viento (U) [!].zip
+:	:	El Viento (U) [h1].zip
+:	:	El Viento (U) [h2].zip
+:	:	Elemental Master (J) [!].zip
+:	:	Elemental Master (J) [h1].zip
+:	:	Elemental Master (J) [p1][!].zip
+:	:	Elemental Master (U) [!].zip
+:	:	Eliminate Down (J) [b1].zip
+:	:	Eliminate Down (J).zip
+:	:	Elite Demo - Game (PD).zip
+:	:	Elite Demo - Soaker (PD).zip
+:	:	Elite Demo - Viewer (PD).zip
+:	:	Empire of Steel (UE).zip
+:	:	Escape From Mars Starring Taz (U) [!].zip
+:	:	Escape From Mars Starring Taz (U) [b1].zip
+:	:	Escape From Mars Starring Taz (U) [h1].zip
+:	:	Escape From Mars Starring Taz (U) [h2].zip
+:	:	Escape From Mars Starring Taz (U) [h3].zip
+:	:	Escape From Mars Starring Taz (U) [t1].zip
+:	:	Eternal Champions (E) [!].zip
+:	:	Eternal Champions (E) [a1].zip
+:	:	Eternal Champions (E) [h1].zip
+:	:	Eternal Champions (E) [h2].zip
+:	:	Eternal Champions (J) [c][!].zip
+:	:	Eternal Champions (U) [!].zip
+:	:	Eternal Champions (U) [b1].zip
+:	:	Eternal Champions (U) [b3].zip
+:	:	Eternal Champions (U) [h1].zip
+:	:	Eternal Champions (U) [h2].zip
+:	:	European Club Soccer (E) [!].zip
+:	:	European Club Soccer (E) [b1].zip
+:	:	Ex-Mutants (U) [!].zip
+:	:	Ex-Ranza (J) [h1].zip
+:	:	Ex-Ranza (J).zip
+:	:	Ex-Ranza (beta) [h1].zip
+:	:	Ex-Ranza (beta) [h2].zip
+:	:	Ex-Ranza (beta) [h3].zip
+:	:	Ex-Ranza (beta).zip
+:	:	Exile (U) [!].zip
+:	:	Exile (U) [b1].zip
+:	:	Exo-Squad (T-132026) (4) [!].zip
+:	:	Exo-Squad (T-132026) (4) [h1].zip
+:	:	Exo-Squad (T-132026) (4) [h2].zip
+:	:	Exo-Squad (T-132026) (4) [o1].zip
+:	:	Exo-Squad (T-132086) (4) [h1].zip
+:	:	Exo-Squad (T-132086) (4) [h2].zip
+:	:	Exo-Squad (T-132086) (4) [o1].zip
+:	:	Exo-Squad (T-132086) (4).zip
+:	:	Exodus (Unl) [c][!].zip
+:	:	F-117 Night Storm (UEJ) [!].zip
+:	:	F-117 Night Storm (UEJ) [b1].zip
+:	:	F-15 Strike Eagle II (E) [!].zip
+:	:	F-15 Strike Eagle II (U) [!].zip
+:	:	F-15 Strike Eagle II (U) [h1].zip
+:	:	F-15 Strike Eagle II (U) [h2].zip
+:	:	F-15 Strike Eagle II (beta).zip
+:	:	F-22 Interceptor (U) (Jun 1992) [b1].zip
+:	:	F-22 Interceptor (U) (Jun 1992) [c][!].zip
+:	:	F-22 Interceptor (U) (Sep 1991) [b1].zip
+:	:	F-22 Interceptor (U) (Sep 1991) [c][!].zip
+:	:	F-22 Interceptor (U) (Sep 1991) [h1].zip
+:	:	F-22 Interceptor (U) (Sep 1991) [o1].zip
+:	:	F-22 Interceptor (beta 1) [b1].zip
+:	:	F-22 Interceptor (beta 1) [c][!].zip
+:	:	F1 Circus MD (J) [!].zip
+:	:	F1 Circus MD (J) [b1].zip
+:	:	F1 Circus MD (J) [b2].zip
+:	:	F1 Grand Prix - Nakajima Satoru (J).zip
+:	:	F1 Hero MD (J) [b1].zip
+:	:	F1 Hero MD (J) [c][!].zip
+:	:	F1 Super License - Nakajima Satoru (J).zip
+:	:	F1 World Championship (E) [!].zip
+:	:	F1 World Championship (JUE) [!].zip
+:	:	F1 World Championship Edition (E) [!].zip
+:	:	F1 World Championship Edition (E) [b1].zip
+:	:	F1 World Championship Edition (E) [h1].zip
+:	:	F1 World Championship Edition (beta).zip
+:	:	FIFA International Soccer (EUJ) [!].zip
+:	:	FIFA International Soccer (EUJ) [b1].zip
+:	:	FIFA International Soccer (EUJ) [h1].zip
+:	:	FIFA International Soccer (EUJ) [h2].zip
+:	:	FIFA International Soccer (EUJ) [h3].zip
+:	:	FIFA Soccer 95 (EUJ) [!].zip
+:	:	FIFA Soccer 95 (EUJ) [b1].zip
+:	:	FIFA Soccer 95 (EUJ) [o1].zip
+:	:	FIFA Soccer 96 (F) [!].zip
+:	:	FIFA Soccer 96 (F) [b1].zip
+:	:	FIFA Soccer 96 (F) [o1].zip
+:	:	FIFA Soccer 97 Gold Edition (C) [!].zip
+:	:	FIFA Soccer 97 Gold Edition (C) [b1].zip
+:	:	FIFA Soccer 99 (Russian) [p1][!].zip
+:	:	Faery Tale Adventure, The (U) [!].zip
+:	:	Family Feud (U) [!].zip
+:	:	Fantastic Dizzy (E) [a1].zip
+:	:	Fantastic Dizzy (E) [c][!].zip
+:	:	Fantastic Dizzy (E) [h1].zip
+:	:	Fantastic Dizzy (E) [h2].zip
+:	:	Fastest 1 (J) [!].zip
+:	:	Fastest 1 (J) [b1].zip
+:	:	Fastest 1 (J) [h1].zip
+:	:	Fastest 1 (J) [h2].zip
+:	:	Fatal Fury (E) [o1].zip
+:	:	Fatal Fury (E).zip
+:	:	Fatal Fury (U) [!].zip
+:	:	Fatal Fury (U) [b1].zip
+:	:	Fatal Fury (U) [b2].zip
+:	:	Fatal Fury (U) [h1].zip
+:	:	Fatal Fury (U) [h2].zip
+:	:	Fatal Fury 2 (UE) [b1].zip
+:	:	Fatal Fury 2 (UE) [b2].zip
+:	:	Fatal Fury 2 (UE) [b3].zip
+:	:	Fatal Fury 2 (UE) [b4].zip
+:	:	Fatal Fury 2 (UE) [c][!].zip
+:	:	Fatal Labyrinth (JU) [!].zip
+:	:	Fatal Labyrinth (JU) [b1].zip
+:	:	Fatal Labyrinth (JU) [o1].zip
+:	:	Fatal Rewind (U) [!].zip
+:	:	Fatman (J) [b1].zip
+:	:	Fatman (J) [c][!].zip
+:	:	Fatman (J) [h1].zip
+:	:	Fatman (J) [h2].zip
+:	:	Fatman (J) [h3].zip
+:	:	Fatman (J) [o1].zip
+:	:	Fengshen Yingjiechuan (Chinese).zip
+:	:	Ferias Frustradas do Pica-Pau (Unl).zip
+:	:	Ferrari Grand Prix Challenge (U) [!].zip
+:	:	Ferrari Grand Prix Challenge (U) [b1].zip
+:	:	Fido Dido (U) [h1].zip
+:	:	Fido Dido (U).zip
+:	:	Fighting Masters (J).zip
+:	:	Fighting Masters (U) [!].zip
+:	:	Fighting Masters (U) [b1].zip
+:	:	Final Blow (J) [b1].zip
+:	:	Final Blow (J) [c][!].zip
+:	:	Final Blow (U) [h1].zip
+:	:	Final Zone (JU) [!].zip
+:	:	Final Zone (JU) [b1].zip
+:	:	Fire Mustang (J) [b1].zip
+:	:	Fire Mustang (J) [c][!].zip
+:	:	Fire Mustang (J) [h1].zip
+:	:	Fire Pro Wrestling Gaiden (J) [a1].zip
+:	:	Fire Pro Wrestling Gaiden (J) [c][!].zip
+:	:	Fire Shark (J) [h1].zip
+:	:	Fire Shark (J) [h2].zip
+:	:	Fire Shark (J).zip
+:	:	Fire Shark (U) [b1].zip
+:	:	Fire Shark (U) [c][!].zip
+:	:	Fire Shark (U) [h1].zip
+:	:	Flashback - The Quest for Identity (J).zip
+:	:	Flavio's Color Bar Screen (PD).zip
+:	:	Flavio's DMA Test (PD).zip
+:	:	Flavio's GYM Player V1.0 (PD).zip
+:	:	Flavio's Raster Effects Test (PD).zip
+:	:	Flicky (JUE) [!].zip
+:	:	Flicky (JUE) [b1].zip
+:	:	Flicky (JUE) [h1].zip
+:	:	Flicky (JUE) [o1].zip
+:	:	Flicky (JUE) [p1].zip
+:	:	Flintstones, The (E) [c][!].zip
+:	:	Flintstones, The (J) [x].zip
+:	:	Flintstones, The (U) [T-Port].zip
+:	:	Flintstones, The (U) [c][!].zip
+:	:	Flintstones, The (U) [h1].zip
+:	:	Flintstones, The (U) [h2].zip
+:	:	Flux Mega CD (E) [!].zip
+:	:	Foreman For Real (F) [!].zip
+:	:	Foreman For Real (F) [b1].zip
+:	:	Foreman For Real (F) [b2].zip
+:	:	Forgotten Worlds (REV 00) (JUE) [!].zip
+:	:	Forgotten Worlds (REV 01) (JUE) [!].zip
+:	:	Frank Thomas Big Hurt Baseball (F) [!].zip
+:	:	Frank Thomas Big Hurt Baseball (F) [b1].zip
+:	:	Frank Thomas Big Hurt Baseball (F) [b2].zip
+:	:	Frank Thomas Big Hurt Baseball (F) [h1].zip
+:	:	Frank Thomas Big Hurt Baseball (F) [h2].zip
+:	:	Frogger (UJ) [!].zip
+:	:	Frogger (UJ) [a1][!].zip
+:	:	Fun Car Rally (JUE) [b1].zip
+:	:	Fun Car Rally (JUE).zip
+:	:	Fun-N-Games (U) [b1].zip
+:	:	Fun-N-Games (U) [b2].zip
+:	:	Fun-N-Games (U) [b3].zip
+:	:	Fun-N-Games (U) [c][!].zip
+:	:	Fun-N-Games (U) [h1].zip
+:	:	Fun-N-Games (U) [h2].zip
+:	:	Fun-N-Games (U) [h3].zip
+:	:	Fun-N-Games (U) [h4].zip
+:	:	Funnyworld-Balloon Boy (Unl) [c][b1].zip
+:	:	G-Loc Air Battle (JUE) [c][!].zip
+:	:	G-Loc Air Battle (JUE) [h1].zip
+:	:	G-Loc Air Battle (pre-release) [h1].zip
+:	:	G-Loc Air Battle (pre-release) [h2].zip
+:	:	G-Loc Air Battle (pre-release) [h3].zip
+:	:	G-Loc Air Battle (pre-release) [h4].zip
+:	:	G-Loc Air Battle (pre-release).zip
+:	:	GRIND Stormer (JUE) [!].zip
+:	:	GRIND Stormer (JUE) [b1].zip
+:	:	Gadget Twins (U) [!].zip
+:	:	Gadget Twins (U) [b1].zip
+:	:	Gadget Twins (U) [t1].zip
+:	:	Gadget Twins (U) [t2].zip
+:	:	Gaiares (JU) [!].zip
+:	:	Gaiares (JU) [b1].zip
+:	:	Gaiares (JU) [p1].zip
+:	:	Gaiares (JU) [p1][t1][!].zip
+:	:	Gain Ground (JU) [a1].zip
+:	:	Gain Ground (JU) [b1].zip
+:	:	Gain Ground (JU) [c][!].zip
+:	:	Galaxy Force II (REV 00) (J).zip
+:	:	Galaxy Force II (REV 01) (JU) [!].zip
+:	:	Gambler Jiko Chushinha (J) [h1].zip
+:	:	Gambler Jiko Chushinha (J).zip
+:	:	Game Genie (JUE) [c][!].zip
+:	:	Game Genie (newer) (JUE) [c][!].zip
+:	:	Gamtec Magicard (Unl) [c][!].zip
+:	:	Garfield - Caught in the Act (C) [!].zip
+:	:	Garfield - Caught in the Act (C) [b1].zip
+:	:	Garfield - Caught in the Act (C) [h1].zip
+:	:	Gargoyles (4) [!].zip
+:	:	Gargoyles (4) [b1].zip
+:	:	Gargoyles (4) [b2].zip
+:	:	Gargoyles (4) [b3].zip
+:	:	Gargoyles (B).zip
+:	:	Garou Densetsu (J) [o1].zip
+:	:	Garou Densetsu (J).zip
+:	:	Garou Densetsu 2 (J) [x].zip
+:	:	Gauntlet 4 (Aug 1993) (UE) [!].zip
+:	:	Gauntlet 4 (Sep 1993) (UE) [h1].zip
+:	:	Gauntlet 4 (Sep 1993) (UE).zip
+:	:	Gauntlet Arcade Version (J).zip
+:	:	GemFire (U) [!].zip
+:	:	GemFire (U) [h1].zip
+:	:	GemFire (U) [h2].zip
+:	:	Gemu no Kanzume O Tokuyou (J) [!].zip
+:	:	General Chaos (UEJ) [!].zip
+:	:	Generations Lost (JUE) [!].zip
+:	:	Generations Lost (JUE) [f1].zip
+:	:	Generations Lost (JUE) [o1].zip
+:	:	Genesis O.S. ROM (U).zip
+:	:	Genghis Khan 2 (U) [!].zip
+:	:	Ghost Hunter (Unl) [b1].zip
+:	:	Ghost Hunter (Unl) [b2].zip
+:	:	Ghost Hunter (Unl) [b3].zip
+:	:	Ghost Hunter (Unl) [c].zip
+:	:	Ghostbusters (REV 00) (JUE) [p1][!].zip
+:	:	Ghostbusters (REV 00) (JUE).zip
+:	:	Ghostbusters (REV 01) (JUE) [!].zip
+:	:	Ghouls 'N Ghosts (REV 01) (JUE) [!].zip
+:	:	Ghouls 'N Ghosts (REV 01) (JUE) [b1].zip
+:	:	Ghouls 'N Ghosts (REV 01) (JUE) [b2].zip
+:	:	Ghouls 'N Ghosts (REV 01) (JUE) [o1].zip
+:	:	Ghouls 'N Ghosts (REV 02) (JUE) [!].zip
+:	:	Ghouls 'N Ghosts (REV 02) (JUE) [b1].zip
+:	:	Ghouls 'N Ghosts (REV 02) (JUE) [h1].zip
+:	:	Ghouls 'N Ghosts (REV 02) (JUE) [h2].zip
+:	:	Ghouls 'N Ghosts (REV 02) (JUE) [o1].zip
+:	:	Gley Lancer (J) [h1].zip
+:	:	Gley Lancer (J).zip
+:	:	Gods (J).zip
+:	:	Gods (JUE) [R-Eur][!].zip
+:	:	Gods (U) [!].zip
+:	:	Gods (U) [b1].zip
+:	:	Gods (U) [h1].zip
+:	:	Golden Axe (REV 00) (JU) [!].zip
+:	:	Golden Axe (REV 00) (JU) [b1].zip
+:	:	Golden Axe (REV 00) (JU) [p1].zip
+:	:	Golden Axe (REV 01) (JU) [!].zip
+:	:	Golden Axe (REV 01) (JU) [h1].zip
+:	:	Golden Axe 2 (JUE) [!].zip
+:	:	Golden Axe 2 (beta) [h1].zip
+:	:	Golden Axe 2 (beta).zip
+:	:	Golden Axe 3 (J) [h1].zip
+:	:	Golden Axe 3 (J) [h2].zip
+:	:	Golden Axe 3 (J) [p1][!].zip
+:	:	Golden Axe 3 (J) [p2][!].zip
+:	:	Golden Axe 3 (J).zip
+:	:	Goofy's Hysterical History Tour (U).zip
+:	:	Granada (REV 00) (JU).zip
+:	:	Granada (REV 01) (JU) [!].zip
+:	:	Granada (REV 01) (JU) [b1].zip
+:	:	Grand Slam Tennis (E) [!].zip
+:	:	Grand Slam Tennis (J) [b1].zip
+:	:	Grand Slam Tennis (J).zip
+:	:	Great Waldo Search, The (U) [!].zip
+:	:	Great Waldo Search, The (U) [b1].zip
+:	:	Great Waldo Search, The (U) [h1].zip
+:	:	Growl (JUE) [!].zip
+:	:	Gunship (E) [b1].zip
+:	:	Gunship (E) [b2].zip
+:	:	Gunship (E) [c][!].zip
+:	:	Gunship (E) [h1].zip
+:	:	Gunship (E) [h2].zip
+:	:	Gunstar Heroes (E) [!].zip
+:	:	Gunstar Heroes (J).zip
+:	:	Gunstar Heroes (U) [!].zip
+:	:	Gunstar Heroes (U) [h1].zip
+:	:	Gunstar Heroes Sample (JUE) [!].zip
+:	:	Gynoug (E) [!].zip
+:	:	Gynoug (E) [b1].zip
+:	:	Gynoug (J) [!].zip
+:	:	Gynoug (J) [b1].zip
+:	:	Hard Drivin' (JU) [!].zip
+:	:	Hard Drivin' (JU) [b1].zip
+:	:	Hard Drivin' (JU) [b2].zip
+:	:	Hard Wired (PD) [o1].zip
+:	:	Hard Wired (PD) [o2].zip
+:	:	Hard Wired (PD) [o3].zip
+:	:	Hard Wired (PD).zip
+:	:	HardBall (U) [!].zip
+:	:	HardBall (U) [h1].zip
+:	:	HardBall 3 (JUE) [f1].zip
+:	:	HardBall 3 (JUE) [h1].zip
+:	:	HardBall 3 (JUE) [h2].zip
+:	:	HardBall 3 (JUE).zip
+:	:	HardBall 94 (JUE) [!].zip
+:	:	HardBall 94 (JUE) [b1].zip
+:	:	HardBall 94 (JUE) [h1].zip
+:	:	HardBall 94 (JUE) [h2].zip
+:	:	HardBall 94 (JUE) [h3].zip
+:	:	HardBall 94 (JUE) [h4].zip
+:	:	HardBall 94 (JUE) [o1].zip
+:	:	HardBall 94 (JUE) [o1][h1].zip
+:	:	HardBall 95 (F) [!].zip
+:	:	HardBall 95 (F) [b1].zip
+:	:	HardBall 95 (F) [h1].zip
+:	:	HardBall 95 (F) [o1].zip
+:	:	HardBall 95 (F) [o1][h1].zip
+:	:	Haunting, The (UEJ) [!].zip
+:	:	Haunting, The (UEJ) [b1].zip
+:	:	Head-On Soccer (4) [!].zip
+:	:	Head-On Soccer (C) [h1].zip
+:	:	Head-On Soccer (C) [h2].zip
+:	:	Head-On Soccer (C).zip
+:	:	Heavy Nova (JU) [!].zip
+:	:	Heavy Nova (JU) [b1].zip
+:	:	Heavy Unit (J) [!].zip
+:	:	Heavy Unit (J) [b1].zip
+:	:	Heavy Unit (J) [p1].zip
+:	:	Heavy Unit (J) [p2].zip
+:	:	Hellfire (E).zip
+:	:	Hellfire (J) [!].zip
+:	:	Hellfire (J) [b1].zip
+:	:	Hellfire (J) [h1].zip
+:	:	Hellfire (J) [p1][!].zip
+:	:	Hellfire (U) [!].zip
+:	:	Hentai Collection 1 (PD).zip
+:	:	Hercules (J) [p1][!].zip
+:	:	Herzog Zwei (J) [h1].zip
+:	:	Herzog Zwei (J).zip
+:	:	Herzog Zwei (U) [!].zip
+:	:	Herzog Zwei (U) [b1].zip
+:	:	High School Soccer - Kunio Kun (J) [!].zip
+:	:	High School Soccer - Kunio Kun (J) [h1].zip
+:	:	High Seas Havoc (U) [!].zip
+:	:	High Seas Havoc (U) [b1][t1].zip
+:	:	High Seas Havoc (U) [b2].zip
+:	:	High Seas Havoc (U) [h1].zip
+:	:	High Seas Havoc (U) [h2].zip
+:	:	High Seas Havoc (U) [h3].zip
+:	:	High Seas Havoc (U) [h4].zip
+:	:	High Seas Havoc (U) [t1].zip
+:	:	High Seas Havoc (U) [t2].zip
+:	:	Hit The Ice (U) [b1].zip
+:	:	Hit The Ice (U) [c][!].zip
+:	:	Hit The Ice (U) [h1].zip
+:	:	Hit The Ice (U) [h2].zip
+:	:	Hokuto no Ken 2 (J) [!].zip
+:	:	Hokuto no Ken 2 (J) [b1].zip
+:	:	Hokuto no Ken 2 (J) [b2].zip
+:	:	Hokuto no Ken 2 (J) [p1].zip
+:	:	Hokuto no Ken 2 (J) [p2].zip
+:	:	Home Alone (U) [!].zip
+:	:	Home Alone (U) [b1].zip
+:	:	Home Alone (U) [h1].zip
+:	:	Home Alone (beta).zip
+:	:	Home Alone 2 - Lost In New York (U) [!].zip
+:	:	Hook (U) [b1].zip
+:	:	Hook (U) [c][!].zip
+:	:	Hook (U) [h1].zip
+:	:	Hook (U) [h2].zip
+:	:	How to Use Map by Kaneda (PD).zip
+:	:	Humans, The (U) [b1].zip
+:	:	Humans, The (U) [h1].zip
+:	:	Humans, The (U) [h2].zip
+:	:	Humans. The (U) [!].zip
+:	:	Hurricanes (JUE) [!].zip
+:	:	Hurricanes (JUE) [b1].zip
+:	:	Hybrid Front, The (J) [!].zip
+:	:	Hybrid Front, The (J) [a1].zip
+:	:	Hyokkori Hyoutanjima (J) [h1].zip
+:	:	Hyokkori Hyoutanjima (J) [x].zip
+:	:	IMG International Tour Tennis (UEJ) [!].zip
+:	:	Immortal, The (J).zip
+:	:	Immortal, The (U) [!].zip
+:	:	Incredible Crash Dummies, The (beta).zip
+:	:	Incredible Hulk, The (JUE) [!].zip
+:	:	Incredible Hulk, The (JUE) [b1].zip
+:	:	Incredible Hulk, The (JUE) [p1][!].zip
+:	:	Insector X (Jul 1990) (U) [!].zip
+:	:	Insector X (Jun 1990) (JU) [!].zip
+:	:	Insector X (Jun 1990) (JU) [p1].zip
+:	:	International Rugby (JUE) [b1].zip
+:	:	International Rugby (JUE) [c][!].zip
+:	:	International Rugby (JUE) [h1].zip
+:	:	Ishido - The Way of the Stones (U) [h1].zip
+:	:	Ishido - The Way of the Stones (U) [h2].zip
+:	:	Ishido - The Way of the Stones (U) [o1].zip
+:	:	Ishido - The Way of the Stones (U) [o2].zip
+:	:	Ishido - The Way of the Stones (U) [p1].zip
+:	:	It Came From The Desert (U) [h1].zip
+:	:	It Came From The Desert (U) [x].zip
+:	:	J. League Champion Soccer (J) [h1].zip
+:	:	J. League Champion Soccer (J) [h2].zip
+:	:	J. League Champion Soccer (J).zip
+:	:	J. League Pro Striker (REV 00) (J) [b1].zip
+:	:	J. League Pro Striker (REV 00) (J) [h1].zip
+:	:	J. League Pro Striker 2 (J) [!].zip
+:	:	J. League Pro Striker 2 (J) [b1].zip
+:	:	J. League Pro Striker 2 (J) [h1].zip
+:	:	James Bond - The Duel (J) (Tengen).zip
+:	:	James Bond - The Duel (UE) (Domark) [!].zip
+:	:	James Bond - The Duel (UEJ) (Tengen).zip
+:	:	James Pond (U) [!].zip
+:	:	James Pond 2 - Codename RoboCod (U) [!].zip
+:	:	Jammit (U) [!].zip
+:	:	Jammit (U) [h1].zip
+:	:	Jammit (U) [h2].zip
+:	:	Janou Touryumon (J) [!].zip
+:	:	Janou Touryumon (J) [a1][!].zip
+:	:	Janou Touryumon (J) [h1].zip
+:	:	Jantei Monogatari (J) [a1].zip
+:	:	Jantei Monogatari (J) [b1].zip
+:	:	Jantei Monogatari (J).zip
+:	:	Jelly Boy (JUE) [b1].zip
+:	:	Jelly Boy (JUE) [h1].zip
+:	:	Jelly Boy (JUE) [h2].zip
+:	:	Jelly Boy (JUE) [o1].zip
+:	:	Jelly Boy (JUE) [x].zip
+:	:	Jennifer Capriati Tennis (U) [!].zip
+:	:	Jennifer Capriati Tennis (U) [b1].zip
+:	:	Jeopardy (U) [c][!].zip
+:	:	Jeopardy (U) [h1].zip
+:	:	Jeopardy Deluxe (JUE) [c][!].zip
+:	:	Jeopardy Sports Edition (U) [!].zip
+:	:	Jeopardy Sports Edition (U) [b1].zip
+:	:	Jewel Master (J) [c][!].zip
+:	:	Jewel Master (J) [h1].zip
+:	:	Jewel Master (U) [!].zip
+:	:	Jiang Qi Zhi Xing (J) [a1][h1].zip
+:	:	Jiang Qi Zhi Xing (J) [x].zip
+:	:	Jim Power - The Arcade Game (JU) [h1].zip
+:	:	Jim Power - The Arcade Game (JU).zip
+:	:	Jizz Wars (PD).zip
+:	:	Joe Montana Football (U) [!].zip
+:	:	Joe Montana NFL 94 (J) [!].zip
+:	:	Joe Montana NFL 94 (U) [!].zip
+:	:	Joe Montana NFL 94 (U) [b1].zip
+:	:	Joe Montana NFL 94 (U) [b2].zip
+:	:	Joe Montana NFL 94 (U) [h1].zip
+:	:	Joe Montana NFL 95 (UJE) [!].zip
+:	:	Joe Montana NFL 95 (UJE) [b1].zip
+:	:	Joe Montana NFL 95 (UJE) [o1].zip
+:	:	Joe and Mac Caveman Ninja (U) [!].zip
+:	:	Joe and Mac Caveman Ninja (U) [b1].zip
+:	:	Joe and Mac Caveman Ninja (U) [h1].zip
+:	:	Joe and Mac Caveman Ninja (U) [h2].zip
+:	:	Joe and Mac Caveman Ninja (U) [h3].zip
+:	:	Joe and Mac Caveman Ninja (U) [h4].zip
+:	:	John Madden Football 91 (U) [!].zip
+:	:	John Madden Football 91 (U) [b1].zip
+:	:	John Madden Football 91 (U) [h1].zip
+:	:	John Madden Football 92 (U) [!].zip
+:	:	John Madden Football 92 (U) [b1].zip
+:	:	John Madden Football 93 (U) [c][!].zip
+:	:	John Madden NFL 94 (UEJ) [b1].zip
+:	:	John Madden NFL 94 (UEJ) [b2].zip
+:	:	John Madden NFL 94 (UEJ) [c][!].zip
+:	:	John Madden NFL 94 (UEJ) [h1].zip
+:	:	John Madden NFL 94 (UEJ) [o1].zip
+:	:	Joshua (Unl) [c][!].zip
+:	:	Joystick Test Program (PD).zip
+:	:	Judge Dredd - The Movie (F) [!].zip
+:	:	Judge Dredd - The Movie (F) [b1].zip
+:	:	Judge Dredd - The Movie (F) [h1].zip
+:	:	Judge Dredd - The Movie (F) [h2].zip
+:	:	Judge Dredd - The Movie (beta) [b1].zip
+:	:	Judge Dredd - The Movie (beta).zip
+:	:	Jum's Genny PSG Jukebox (PD).zip
+:	:	Jump 'n' Run Demo (PD) [a1].zip
+:	:	Jump 'n' Run Demo (PD).zip
+:	:	Jump'n'Run V1.1 by Kaneda (PD).zip
+:	:	Jump'n'Run V2.0 by Kaneda (PD).zip
+:	:	Junction (JU) [!].zip
+:	:	Junction (JU) [b1].zip
+:	:	Jungle Book, The (E) [!].zip
+:	:	Jungle Book, The (E) [b1].zip
+:	:	Jungle Book, The (U) [!].zip
+:	:	Jungle Book, The (U) [b1].zip
+:	:	Jungle Book, The (U) [h1].zip
+:	:	Jungle Book, The (U) [h2].zip
+:	:	Jungle Book, The (U) [p1][!].zip
+:	:	Jungle Demo by Charles Coty (PD).zip
+:	:	Jungle Strike (JU) [b1].zip
+:	:	Jungle Strike (JU).zip
+:	:	Jungle Strike (UEJ) [!].zip
+:	:	Jungle Strike (UEJ) [p1][!].zip
+:	:	Jungle Strike (beta) [a1].zip
+:	:	Jungle Strike (beta) [b1].zip
+:	:	Jungle Strike (beta).zip
+:	:	Junkers High (J) [h1].zip
+:	:	Junkers High (J) [h2].zip
+:	:	Junkers High (J) [h3].zip
+:	:	Junkers High (J) [h4].zip
+:	:	Jurassic Park (E) [!].zip
+:	:	Jurassic Park (J).zip
+:	:	Jurassic Park (U) [!].zip
+:	:	Jurassic Park (U) [h1].zip
+:	:	Jurassic Park (U) [h2].zip
+:	:	Jurassic Park (U) [h3].zip
+:	:	Jurassic Park (beta) [h1].zip
+:	:	Jurassic Park (beta).zip
+:	:	Justice League Task Force (F) [!].zip
+:	:	Justice League Task Force (F) [h1].zip
+:	:	Ka-Ge-Ki - Fists of Steel (J) [b1].zip
+:	:	Ka-Ge-Ki - Fists of Steel (J).zip
+:	:	Ka-Ge-Ki - Fists of Steel (U) [!].zip
+:	:	Ka-Ge-Ki - Fists of Steel (U) [b1].zip
+:	:	Kawasaki Superbike Challenge (JUE) [!].zip
+:	:	Kawasaki Superbike Challenge (JUE) [b1].zip
+:	:	Kawasaki Superbike Challenge (beta).zip
+:	:	Kick Off 3 - European Challenge (E) [!].zip
+:	:	Kid Chameleon (JUE) [!].zip
+:	:	Kid Chameleon (JUE) [h1].zip
+:	:	Kid Chameleon (JUE) [t1].zip
+:	:	Killing Game Show (U) [h1].zip
+:	:	Killing Game Show (U).zip
+:	:	Killing Game Show - 1993 Remix (JUE).zip
+:	:	King Colossus (J) [b1].zip
+:	:	King Colossus (J) [h1].zip
+:	:	King Colossus (J).zip
+:	:	King Salmon (J) [x].zip
+:	:	King Salmon (U) [b1].zip
+:	:	King Salmon (U) [c][!].zip
+:	:	King of Fighters '98, The (Unl) [!].zip
+:	:	King of the Monsters (E) [!].zip
+:	:	King of the Monsters (U) [!].zip
+:	:	King of the Monsters (U) [b1].zip
+:	:	King of the Monsters 2 (U) [!].zip
+:	:	King of the Monsters 2 (U) [b1].zip
+:	:	King's Bounty (U) [!].zip
+:	:	Klax (J) [c][!].zip
+:	:	Klax (J) [h1].zip
+:	:	Klax (U) [!].zip
+:	:	Knuckles Chaotix 32X (5) [!].zip
+:	:	Knuckles Chaotix 32X (A) [!].zip
+:	:	Kolibri 32X (F) [!].zip
+:	:	Koutetsu Teikoku (J) [!].zip
+:	:	Koutetsu Teikoku (J) [b1].zip
+:	:	Kujaku-Oh 2 - Peacock King (J) [o1].zip
+:	:	Kujaku-Oh 2 - Peacock King (J) [p1].zip
+:	:	Kujaku-Oh 2 - Peacock King (J) [p2].zip
+:	:	Kujaku-Oh 2 - Peacock King (J) [t1].zip
+:	:	Kujaku-Oh 2 - Peacock King (J).zip
+:	:	Kureyon Shin-chan (J) [h1].zip
+:	:	Kureyon Shin-chan (J).zip
+:	:	Kyukai Dotyuuki Baseball (J) [b1].zip
+:	:	Kyukai Dotyuuki Baseball (J) [b2].zip
+:	:	Kyukai Dotyuuki Baseball (J) [c][!].zip
+:	:	Kyuukyou Tiger (J) [!].zip
+:	:	Kyuukyou Tiger (J) [h1].zip
+:	:	Kyuukyou Tiger (J) [o1].zip
+:	:	Kyuukyou Tiger (J) [o2].zip
+:	:	LHX Attack Helicopter (J) [b1].zip
+:	:	LHX Attack Helicopter (J).zip
+:	:	LHX Attack Helicopter (U) [!].zip
+:	:	LHX Attack Helicopter (U) [b1].zip
+:	:	LHX Attack Helicopter (U) [h1].zip
+:	:	Lakers vs Celtics (U) [!].zip
+:	:	Lakers vs Celtics (U) [b1].zip
+:	:	Langrisser Hikari (J) [b1].zip
+:	:	Langrisser Hikari (J).zip
+:	:	Langrisser Hikari 2 (REV 00) (J).zip
+:	:	Langrisser Hikari 2 (REV 01) (J) [b1].zip
+:	:	Langrisser Hikari 2 (REV 01) (J) [h1].zip
+:	:	Langrisser Hikari 2 (REV 01) (J) [h2].zip
+:	:	Langrisser Hikari 2 (REV 01) (J).zip
+:	:	Langrisser Hikari 2 (REV 02) (J) [!].zip
+:	:	Last Action Hero (UE) [!].zip
+:	:	Last Action Hero (UE) [b1].zip
+:	:	Last Action Hero (UE) [b2].zip
+:	:	Last Action Hero (UE) [h1].zip
+:	:	Last Battle (U) [!].zip
+:	:	Last Battle (U) [b1].zip
+:	:	Last Battle (U) [h1].zip
+:	:	Lawnmower Man, The (JUE) [!].zip
+:	:	Lawnmower Man, The (JUE) [b1].zip
+:	:	Lawnmower Man, The (JUE) [h1].zip
+:	:	Legend of Galahad, The (U) [!].zip
+:	:	Legend of Galahad, The (U) [t1].zip
+:	:	Legend of Galahad, The (U) [t2].zip
+:	:	Lemmings (E) [!].zip
+:	:	Lemmings (REV 00) (JU) [!].zip
+:	:	Lemmings (REV 00) (JU) [h1].zip
+:	:	Lemmings (REV 01) (JU) [!].zip
+:	:	Lemmings 2 - The Tribes (E) [!].zip
+:	:	Lemmings 2 - The Tribes (E) [b1].zip
+:	:	Lemmings 2 - The Tribes (E) [b2].zip
+:	:	Lemmings 2 - The Tribes (E) [h1].zip
+:	:	Lemmings 2 - The Tribes (E) [h2].zip
+:	:	Lemmings 2 - The Tribes (U) [!].zip
+:	:	Lethal Enforcers (E) [!].zip
+:	:	Lethal Enforcers (J).zip
+:	:	Lethal Enforcers (U) [!].zip
+:	:	Lethal Enforcers (U) [b1].zip
+:	:	Lethal Enforcers (U) [h1].zip
+:	:	Lethal Enforcers (U) [h2].zip
+:	:	Lethal Enforcers (U) [h3].zip
+:	:	Lethal Enforcers (U) [h4].zip
+:	:	Lethal Enforcers 2 - Gun Fighters (E).zip
+:	:	Liberty or Death (U) [!].zip
+:	:	Liberty or Death (U) [b1].zip
+:	:	Liberty or Death (U) [h1].zip
+:	:	Liberty or Death (U) [h2].zip
+:	:	Light Crusader (4) [!].zip
+:	:	Light Crusader (A) [h1].zip
+:	:	Light Crusader (A) [h2].zip
+:	:	Light Crusader (A).zip
+:	:	Light Crusader (B) [!].zip
+:	:	Light Crusader (B) [b1].zip
+:	:	Light Crusader (B) [h1].zip
+:	:	Lightning Force (U) [b1].zip
+:	:	Lightning Force (U) [c][!].zip
+:	:	Link Dragon (Unl) [c].zip
+:	:	Link Dragon (Unl) [h1].zip
+:	:	Lion King, The (Russian) [p1][!].zip
+:	:	Lion King, The (UEJ) [!].zip
+:	:	Lion King, The (UEJ) [b1].zip
+:	:	Lion King, The (UEJ) [b2].zip
+:	:	Lion King, The (UEJ) [h1].zip
+:	:	Lord Monarch (J) [!].zip
+:	:	Lord Monarch (J) [b1].zip
+:	:	Lord Monarch (J) [h1].zip
+:	:	Lost Vikings, The (E) [h1].zip
+:	:	Lost Vikings, The (E) [h2].zip
+:	:	Lost Vikings, The (E) [h3].zip
+:	:	Lost Vikings, The (E) [h4].zip
+:	:	Lost Vikings, The (U) [!].zip
+:	:	Lost Vikings, The (U) [T-Russian].zip
+:	:	Lost Vikings, The (U) [h1].zip
+:	:	Lotus 2 RECS (EUJ) [!].zip
+:	:	Lotus 2 RECS (EUJ) [b1].zip
+:	:	Lotus 2 RECS (beta) [h1].zip
+:	:	Lotus Turbo Challenge (EU) [!].zip
+:	:	Lotus Turbo Challenge (EU) [b1].zip
+:	:	M.U.S.H.A (U) [!].zip
+:	:	M.U.S.H.A (U) [b1].zip
+:	:	Madden NFL 95 (JUE) [!].zip
+:	:	Madden NFL 95 (JUE) [b1].zip
+:	:	Madden NFL 95 (JUE) [o1].zip
+:	:	Madden NFL 96 (F) [!].zip
+:	:	Madden NFL 97 (F) [!].zip
+:	:	Madden NFL 97 (F) [b1].zip
+:	:	Madden NFL 98 (4) [b1].zip
+:	:	Madden NFL 98 (4) [b2].zip
+:	:	Madden NFL 98 (4) [c][!].zip
+:	:	Madden NFL 98 (4) [h1].zip
+:	:	Madouh Monogatari (J) [!].zip
+:	:	Madouh Monogatari (J) [b1].zip
+:	:	Madouh Monogatari (J) [b2].zip
+:	:	Magic Girl (Unl) [b1].zip
+:	:	Magic Girl (Unl) [c][!].zip
+:	:	Magic Girl (Unl) [t1].zip
+:	:	Magic School Bus, The (5) [!].zip
+:	:	Magic School Bus, The (5) [h1].zip
+:	:	Magical Christmas Greetings Demo (PD).zip
+:	:	Magical Taluluto Adventure (J) [!].zip
+:	:	Magical Taluluto Adventure (J) [b1].zip
+:	:	Mahjong Club (J) [h1].zip
+:	:	Mahjong Club (J) [x].zip
+:	:	Mahjong Cop Ryu (J) [b1].zip
+:	:	Mahjong Cop Ryu (J).zip
+:	:	Maou Renjishi (J) [b1].zip
+:	:	Maou Renjishi (J) [b2].zip
+:	:	Maou Renjishi (J) [c][!].zip
+:	:	Maou Renjishi (J) [h1].zip
+:	:	Maou Renjishi (J) [p1][!].zip
+:	:	Marble Madness (U) [!].zip
+:	:	Marble Madness (U) [b1].zip
+:	:	Mario Andretti Racing (UEJ) [!].zip
+:	:	Mario Andretti Racing (UEJ) [b1].zip
+:	:	Mario Andretti Racing (UEJ) [h1].zip
+:	:	Mario Lemieux Hockey (U) [!].zip
+:	:	Mario Lemieux Hockey (U) [b1].zip
+:	:	Mario Lemieux Hockey (U) [p1].zip
+:	:	Marko's Magic Football (U) [!].zip
+:	:	Marko's Magic Football (U) [b1].zip
+:	:	Marko's Magic Football (UE).zip
+:	:	Marko's Magic Football (beta) [h1].zip
+:	:	Marko's Magic Football (beta) [h1][t1].zip
+:	:	Marko's Magic Football (beta) [h2].zip
+:	:	Marko's Magic Football (beta) [h3].zip
+:	:	Marsupilami (4) [!].zip
+:	:	Marsupilami (A).zip
+:	:	Marsupilami (U) [b1].zip
+:	:	Marsupilami (U) [h1].zip
+:	:	Marsupilami (U).zip
+:	:	Marvel Land (J) [!].zip
+:	:	Marvel Land (U) [!].zip
+:	:	Marvel Land (U) [b1].zip
+:	:	Mary Shelley's Frankenstein (U) [!].zip
+:	:	Mary Shelley's Frankenstein (U) [b1].zip
+:	:	Mary Shelley's Frankenstein (U) [h1].zip
+:	:	Mary Shelley's Frankenstein (U) [h2].zip
+:	:	Master of Monsters (J).zip
+:	:	Master of Monsters (U) [!].zip
+:	:	Master of Monsters (U) [b1].zip
+:	:	Master of Monsters (U) [b2].zip
+:	:	Master of Monsters (U) [h1].zip
+:	:	Master of Weapon (J) [h1].zip
+:	:	Master of Weapon (J) [h2].zip
+:	:	Master of Weapon (U).zip
+:	:	Maten Densetsu (J).zip
+:	:	Math Blaster (U) [!].zip
+:	:	Mazin Saga (J) [a1].zip
+:	:	Mazin Saga (J) [h1].zip
+:	:	Mazin Saga (J) [h2].zip
+:	:	Mazin Saga (J).zip
+:	:	Mazin Saga (U) [!].zip
+:	:	Mazin Saga (U) [b1].zip
+:	:	Mazin Wars (E).zip
+:	:	McDonald's Treasure Land Adventure (E).zip
+:	:	Mega Anser (J) [!].zip
+:	:	Mega Bomberman (JUE) [!].zip
+:	:	Mega Bomberman (JUE) [a1][!].zip
+:	:	Mega Bomberman - 8 Player Demo (JUE).zip
+:	:	Mega Games 10 in 1 (F) [!].zip
+:	:	Mega Lo Mania (J).zip
+:	:	Mega Lo Mania (REV 00) (E) [c][!].zip
+:	:	Mega Lo Mania (REV 00) (E) [h1].zip
+:	:	Mega Lo Mania (REV 01) (E) [h1].zip
+:	:	Mega Lo Mania (REV 01) (E) [h2].zip
+:	:	Mega Lo Mania (REV 01) (E).zip
+:	:	Mega Man - The Wily Wars (E) [h1].zip
+:	:	Mega Man - The Wily Wars (E) [h2].zip
+:	:	Mega Man - The Wily Wars (E).zip
+:	:	Mega Q - The Party Quiz Game (J) [h1].zip
+:	:	Mega Q - The Party Quiz Game (J).zip
+:	:	Mega SWIV (E) [b1].zip
+:	:	Mega SWIV (E) [h1].zip
+:	:	Mega SWIV (E).zip
+:	:	Mega SWIV (JUE) [h1].zip
+:	:	Mega Turrican (E).zip
+:	:	Mega Turrican (U) [!].zip
+:	:	Mega Turrican (U) [h1].zip
+:	:	Mega Turrican (U) [h2].zip
+:	:	Mega Turrican (U) [h3].zip
+:	:	MegaCD BIOS V1.01 (J).zip
+:	:	MegaCD BIOS V2.00 (E).zip
+:	:	MegaTraX (J) [c][!].zip
+:	:	MegaTraX (J) [h1].zip
+:	:	MegaTraX (U).zip
+:	:	Megapanel (J) [b1].zip
+:	:	Megapanel (J) [c][!].zip
+:	:	Menacer 6-in-1 Game Pack (UJE) [!].zip
+:	:	Menacer 6-in-1 Game Pack (UJE) [b1].zip
+:	:	Mercs (JUE) [!].zip
+:	:	Mercs (JUE) [h1].zip
+:	:	Metal Fangs (J) [b1].zip
+:	:	Metal Fangs (J) [c][!].zip
+:	:	Metal Fangs (J) [h1].zip
+:	:	Metal Fangs (J) [h2].zip
+:	:	Metal Fangs (J) [p1][b1].zip
+:	:	Metal Head 32X (5) [!].zip
+:	:	Metal Head 32X (A) [!].zip
+:	:	Metal Head 32X (A) [h1].zip
+:	:	Mickey Mouse - Castle of Illusion (J).zip
+:	:	Mickey Mouse - World of Illusion (J).zip
+:	:	Mickey Mouse - World of Illusion (beta).zip
+:	:	Mickey's Ultimate Challenge (U) [!].zip
+:	:	Mickey's Ultimate Challenge (U) [b1].zip
+:	:	Mickey's Ultimate Challenge (U) [h1].zip
+:	:	Micro Machines (E) [a1][c][!].zip
+:	:	Micro Machines (E) [a1][h1].zip
+:	:	Micro Machines (E) [a2][x].zip
+:	:	Micro Machines (E) [b1].zip
+:	:	Micro Machines (E) [c][!].zip
+:	:	Micro Machines 96 (V1.1) (E) [a1].zip
+:	:	Micro Machines 96 (V1.1) (E) [b1].zip
+:	:	Micro Machines 96 (V1.1) (E) [b2].zip
+:	:	Micro Machines 96 (V1.1) (E) [c].zip
+:	:	Micro Machines 96 (V1.1) (E) [h1].zip
+:	:	Midnight Resistance (J).zip
+:	:	Midnight Resistance (U) [!].zip

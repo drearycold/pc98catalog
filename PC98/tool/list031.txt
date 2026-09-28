@@ -1,0 +1,74 @@
+ You have 72 of 72 known Radio Shack Color Computer ROMS (0.999.5 BETA)
+
+A Mazing World of Malcom Mortar (1987) (26-3160)
+Androne (1983) (26-3096) [!]
+Arkanoid (1987) (26-3043) (Taito)
+Art Gallery (26-3061) [!]
+ATOM (26-3149)
+Audio Spectrum Analyzer (1981) (26-3156) [!]
+Bingo Math (1980) (26-3150) [!]
+Bridge Tutor (1982) (26-3158) [!]
+Bustout (1980) (26-3056) (Radio Shack) [b1]
+Bustout (1981) (26-3056) (Radio Shack) [!]
+Canyon Climber (1982) (26-3089) [!]
+Castle Guard (1981) (26-3079) [!]
+Castle of Tharoggad (1988) (26-3159) [!]
+Clowns & Balloons (1982) (26-3087) (RShack-Steve Bjork) [!]
+Color Baseball (1980) (26-3095) [!]
+Color Computer Controller (1982) (26-3022) (Radio Shack)
+Color Cubes (1981) (26-3075) [!]
+Color File (1981) (26-3103) [!]
+Color Scripsit (1981) (26-3105) [!]
+Color Scripsit (1981) (26-3105) [a1][!]
+Color Scripsit II (1986) (26-3109)
+Deluxe RS-232 Program Pak (1983) (26-2226) (Radio Shack)
+Demolition Derby (1984) (26-3044) [!]
+Diagnostics (1980) (26-3019) [!]
+Dino Wars (1981) (26-3057) [!]
+Direct Connect Modem Pak (1985) (26-2228) (Radio Shack)
+Doubleback (1982) (26-3091) [!]
+Downland (1983) (26-3046) [!]
+Dungeons of Daggorath (1982) (26-3093) (DynaMicro) [!]
+EDTASM+ (1982) (26-3250) [!]
+Facemaker (1984) (26-3166) (Spinnaker) [!]
+Football (1980) (26-3053) [!]
+Fraction Fever (1984) (26-3169) (Spinnaker) [!]
+Galactic Attack (1982) (26-3066) [!]
+GFL Championship Football II (1988) (26-3172) [!]
+Gin Champion (1982) (26-3083) [!]
+Gomoku-Renju (1983) (26-3069) (Intelligent Software Ltd) [!]
+Kids on Keys (1984) (26-3167) (Spinnaker) [!]
+Kindercomp (1984) (26-3168) (Spinnaker) [!]
+Mega-Bug (1982) (26-3076) [!]
+Micro Chess (1980) (26-3050) [!]
+Micro Painter (1982) (26-3077) [!]
+Microbes (1981) (26-3085) [!]
+Microworks Forth (1981) (26-xxxx) [!]
+Mind-Roll (1988) (26-3100) (EPYX) [!]
+Mind-Roll (1988) (26-3100) (EPYX) [h1]
+Orchestra 90-CC (1984) (26-3143) (Radio Shack)
+Personal Finance (1980) (26-3101) [!]
+Personal Finance II (1983) (26-3106) [!]
+Pinball (1980) (26-3052) [!]
+Polaris (1981) (26-3065) (Radio Shack) [!]
+Poltergeist (1982) (26-3073) [!]
+Popcorn (1981) (26-3090) (Radio Shack - Steve Bjork) [!]
+Popcorn (1981) (26-3090) (Radio Shack - Steve Bjork) [o1]
+Project Nebula (1981) (26-3063) [!]
+Quasar Commander (1980) (26-3051) [!]
+Reactoid (1983) (26-3092) [!]
+Roman Checkers (1981) (26-3071) (The Image Producers)
+Shanghai (1987) (26-3084) [!]
+Shooting Gallery (1982) (26-3088) (DataSoft)
+Silpheed (1988) (26-3054) (Sierra)
+Skiing (1981) (26-3058) [!]
+Slay the Nereis (1983) (26-3086) [!]
+Soko-Ban (1988) (26-3161) (Spectral Associates)
+Space Assault (1981) (26-3060) [!]
+Starblaze (1983) (26-3094) [!]
+Temple of ROM (1984) (26-3045) (Rick Adams) [!]
+Tennis (1981) (26-3080) [!]
+TRS-80 Color Logo (1983) (26-2722) [!]
+Typing Tutor (1980) (26-3152) [!]
+Videotex (1981) (26-2222) [!]
+Wildcatting (1982) (26-3067) [!]

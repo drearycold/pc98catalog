@@ -1,0 +1,25 @@
+(ROM) No-Intro Nintendo Game Boy Color (20070324 diff) (rr5%).rar
+10,033,383
+a53549a58325762b56d0c89f96b2e206ÅE71ea3250364cabb78de73bbf3731d396d06c5a1d
+
+:	GBC
+:	:	Antz Racing (E) (M6).zip
+:	:	Bob the Builder - Fix it Fun! (E) (M5) (Eng-Dan-Swe-Nor-Fin).zip
+:	:	Doraemon no Quiz Boy 2 (J).zip
+:	:	Doraemon no Study Boy - Kanji Yomikaki Master (J).zip
+:	:	Godzilla - The Series - Monster Wars (E) (M3).zip
+:	:	Hamster Monogatari GB + Magi Ham Mahou no Shoujo (J).zip
+:	:	Hugo - The Evil Mirror (E) (M11).zip
+:	:	Jissen ni Yakudatsu Tsumego (J) (v1.1).zip
+:	:	Looney Tunes Collector - Martian Quest! (J).zip
+:	:	Minnie & Friends - Yume no Kuni wo Sagashite (J).zip
+:	:	Nakayoshi Cooking Series 4 - Tanoshii Dessert (J).zip
+:	:	Nakayoshi Cooking Series 5 - Cake wo Tsukurou (J).zip
+:	:	Net de Gate - Minigame @ 100 (J) [b].zip
+:	:	Pocket Cooking (J).zip
+:	:	Raku x Raku - Mishin (J).zip
+:	:	Ready 2 Rumble Boxing (E).zip
+:	:	Stuart Little - The Journey Home (E) (M2).zip
+:	:	Tonka Raceway (U) (Rumble Version).zip
+:	:	Tonka Raceway (U).zip
+:	:	Ultimate Fighting Championship (E).zip

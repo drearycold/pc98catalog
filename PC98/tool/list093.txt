@@ -1,0 +1,229 @@
+[EMU]  [NEC][PC66] PC-6001 PC-6601SR Emulator + 106 Roms.zip
+d529485eab97e16e34a0a2918efba63b・9a52e1745e90ae22f70f093b7a311655c35234dc
+2,069,195
+ファイル数合計 = 109 個
+ファイルサイズ合計 = 2039281 Byte
+
+
+:	emulaor
+:	:	PC-6601_BIOS.zip
+:	:	ip6win063rel5.lzh
+:	:	vntrek04.zip
+:	rom
+:	:	3d golf (19xx)(t&e)(mode 5, page 3).zip
+:	:	4989 (19xx)(enix)(mode 5, page 3).zip
+:	:	Barri (19xx)(-)(Mode 1, Page 2).zip
+:	:	Lights Out (19xx)(Asm)(Page 1).zip
+:	:	Lights Out (19xx)(Page 1).zip
+:	:	Simon (19xx)(-)(Mode 1, Page 2).zip
+:	:	Woods (19xx)(-)(Mode 1, Page 2).zip
+:	:	ZZZ-UNK-format (19xx).zip
+:	:	ZZZ-UNK-inv (19xx).zip
+:	:	ZZZ-UNK-lightsba (19xx).zip
+:	:	ZZZ-UNK-tape (19xx).zip
+:	:	amazon, the (19xx)(-)(mode 2, page 3).zip
+:	:	american truck (19xx)(-)(mode 5, page 4).zip
+:	:	arabia (19xx)(-)(mode 1,page 1).zip
+:	:	aspicp  (19xx)(xtal soft)(side a)(mode 5, page 2).zip
+:	:	aspicp (19xx)(xtal soft)(side b)(mode 5, page 2).zip
+:	:	astero (19xx)(-)(mode 1, page 1).zip
+:	:	asteroid (19xx)(-)(mode 2, page 4).zip
+:	:	ax7 demo (19xx)(-)(mode 1, page 1).zip
+:	:	ax9 demo (19xx)(-)(mode 2, page 2).zip
+:	:	black onyx, the (19xx)(ascii)(mode 5, page 2).zip
+:	:	block (19xx)(-)(mode 1, page 2).zip
+:	:	bokosuka (19xx)(ascii)(mode 5, page 3).zip
+:	:	bound (19xx)(-)(mode 2, page 2).zip
+:	:	break through (19xx)(compac)(mode 2, page 2).zip
+:	:	car (19xx)(-)(mode 1, page 2).zip
+:	:	castle excellent (19xx)(-)(mode 5, page 2).zip
+:	:	chack 'n pop (19xx)(-)(mode5, page 1).zip
+:	:	chrith (19xx)(comix)(mode 5, page 3).zip
+:	:	daidasso (19xx)(carrylab)(mode 5, page 1).zip
+:	:	danger (19xx)(-)(mode 2 page 2).zip
+:	:	dark nebula  (19xx)(t&e)(disk 1 of 3)(mode 5, page 3).zip
+:	:	dark nebula (19xx)(t&e)(disk 2 of 3)(side a)(mode 5, page 3).zip
+:	:	dark nebula (19xx)(t&e)(disk 2 of 3)(side b)(mode 5, page 3).zip
+:	:	dark nebula (19xx)(t&e)(disk 3 of 3)(side a)(mode 5, page 3).zip
+:	:	dark nebula (19xx)(t&e)(disk 3 of 3)(side b)(mode 5, page 3).zip
+:	:	demo  (19xx)(-)(mode 1, page 1).zip
+:	:	destroy (19xx)(-)(mode  2 page 3).zip
+:	:	dual (19xx)(-)(mode 1,page 1).zip
+:	:	earth bound (19xx)(xtal soft)(mode 2, page 2).zip
+:	:	eggy (19xx)(bothtech)(mode 2, page 1).zip
+:	:	flappy (19xx)(db-soft)(mode 5, page 2).zip
+:	:	fls (19xx)(-)(mode 2, page 2).zip
+:	:	foot (19xx)(-)(mode 1, page 1).zip
+:	:	galac (19xx)(-)(mode 1, page 2).zip
+:	:	galaxy (19xx)(-)(mode 1, page 1).zip
+:	:	galaxy (19xx)(disk 1 of 2)(mode2 page 1).zip
+:	:	galaxy (19xx)(disk 2 of 2)(mode2, page 1).zip
+:	:	godhar (19xx)(-)(mode 1, page 1).zip
+:	:	h fox (19xx)(arrow soft)(mode 5,page 3).zip
+:	:	h fox 2 (19xx)(arrow soft)(mode 5,page 3).zip
+:	:	headon (19xx))(mode 1, page 1).zip
+:	:	hisya (19xx)(-)(mode 5,page 1).zip
+:	:	hydlide (19xx)(-)(mode 5, page 2).zip
+:	:	ice block (19xx)(db soft)(mode 5 ,page 2).zip
+:	:	invaders (19xx)(-)(mode 1, page 2).zip
+:	:	kita (19xx)(falcom)(mode  2, page 3).zip
+:	:	kita (19xx)(falcom)(mode 2 page 3).zip
+:	:	ledzone (19xx)(-)(mode 5, page 3).zip
+:	:	lode runner (19xx)(system soft)(mode 2, page 2).zip
+:	:	magnetic field (19xx)(-)(mode 2, page 2).zip
+:	:	master (19xx)(-)(mode 1, page 1).zip
+:	:	mephius (19xx)(ft&e  soft)(disk 1 of 3)(mode 5 page 3).zip
+:	:	mephius (19xx)(ft&e  soft)(disk 2 of 3)(side a)(mode 5 page 3).zip
+:	:	mephius (19xx)(ft&e  soft)(disk 2 of 3)(side b)(mode 5 page 3).zip
+:	:	mephius (19xx)(ft&e  soft)(disk 3 of 3)(side a)(mode 5 page 3).zip
+:	:	mephius (19xx)(ft&e  soft)(disk 3 of 3)(side b)(mode 5 page 3).zip
+:	:	mix (19xx)(-)(mode 2 page 2).zip
+:	:	monitor (19xx)(-)(mode 1, page 1).zip
+:	:	nostro (19xx)(-)(mode 1 ,page 1).zip
+:	:	olion4 (19xx)(ascii)(mode 2, page 2).zip
+:	:	orion3 (19xx)(ascii)(mode 2, page 2).zip
+:	:	outlaw (19xx)(-)(mode 1, page 1).zip
+:	:	panzerspitze (19xx)(-)(mode 2 page 2).zip
+:	:	plazma line (19xx)(-)(mode 5, page 3).zip
+:	:	pop (19xx)(-)(mode 1, page 1).zip
+:	:	porice (19xx)(-)(mode 1, page 1).zip
+:	:	power (19xx))(mode 1, page 1).zip
+:	:	punchball mario (1983)(nintendo)(mode 5, page 4).zip
+:	:	pyramid 2 (19xx)(-)(mode 4, page 3).zip
+:	:	quest 3 (19xx)(ascii)(mode 2, page 1).zip
+:	:	quest 4  (19xx)(ascii)(mode 2, page 1).zip
+:	:	risu (19xx))(mode 1, page 1).zip
+:	:	seven (19xx)(-)(mode 1, page 1).zip
+:	:	shut (19xx)(-)(mode 1, page 1.zip
+:	:	sky (19xx)(-)(mode 2, page 2).zip
+:	:	space (19xx)(-)(mode 4 page 3.zip
+:	:	star destroyer (19xx)(-)(mode 2, page 3).zip
+:	:	star wrecker (19xx)(-)(mode 2 page 2).zip
+:	:	steal (19xx)(-)(mode 1, page 2).zip
+:	:	suidou (19xx)(-)(mode 5,page 3).zip
+:	:	super ball (19xx)(-)(mode 2 page 2).zip
+:	:	thunder force (19xx)(tecno soft)(mode 5, pages 3).zip
+:	:	tiny xevious (19xx)(namco)(mode 4, page 2).zip
+:	:	trick boy (19xx)(-)(mode 2,page 2).zip
+:	:	tritorn (19xx)(sein soft)(mode 5, page 2).zip
+:	:	volguard (db soft) (1985)(mode 5, page 2).zip
+:	:	yakyuk (19xx)(-)(mode 5, page 4).zip
+:	:	zzz-unk-bobko60 (19xx)(ascii)(mode 5, page3).zip
+:	:	zzz-unk-colonyod  (19xx)(disk 2 of 3).zip
+:	:	zzz-unk-colonyod (19xx)(disk 1 of 3).zip
+:	:	zzz-unk-colonyod (19xx)(disk 3 of 3).zip
+:	:	zzz-unk-pc60 (19xx).zip
+:	:	zzz-unk-pc6001v (19xx).zip
+:	:	zzz-unk-unknown (19xx)(enix)(mode 5, page 3).zip
+:	:	zzz-unk-wordpro (19xx).zip
+
+各ファイルのサイズ
+ip6win063rel5.lzh,75570 Byte
+PC-6601_BIOS.zip,59497 Byte
+vntrek04.zip,235892 Byte
+3d golf (19xx)(t&e)(mode 5, page 3).zip,18221 Byte
+4989 (19xx)(enix)(mode 5, page 3).zip,7121 Byte
+amazon, the (19xx)(-)(mode 2, page 3).zip,8198 Byte
+american truck (19xx)(-)(mode 5, page 4).zip,21232 Byte
+arabia (19xx)(-)(mode 1,page 1).zip,4477 Byte
+aspicp  (19xx)(xtal soft)(side a)(mode 5, page 2).zip,33269 Byte
+aspicp (19xx)(xtal soft)(side b)(mode 5, page 2).zip,6680 Byte
+astero (19xx)(-)(mode 1, page 1).zip,4378 Byte
+asteroid (19xx)(-)(mode 2, page 4).zip,4616 Byte
+ax7 demo (19xx)(-)(mode 1, page 1).zip,6702 Byte
+ax9 demo (19xx)(-)(mode 2, page 2).zip,17534 Byte
+Barri (19xx)(-)(Mode 1, Page 2).zip,3037 Byte
+black onyx, the (19xx)(ascii)(mode 5, page 2).zip,27065 Byte
+block (19xx)(-)(mode 1, page 2).zip,3619 Byte
+bokosuka (19xx)(ascii)(mode 5, page 3).zip,10803 Byte
+bound (19xx)(-)(mode 2, page 2).zip,15010 Byte
+break through (19xx)(compac)(mode 2, page 2).zip,13792 Byte
+car (19xx)(-)(mode 1, page 2).zip,3451 Byte
+castle excellent (19xx)(-)(mode 5, page 2).zip,23086 Byte
+chack 'n pop (19xx)(-)(mode5, page 1).zip,25156 Byte
+chrith (19xx)(comix)(mode 5, page 3).zip,11919 Byte
+daidasso (19xx)(carrylab)(mode 5, page 1).zip,25377 Byte
+danger (19xx)(-)(mode 2 page 2).zip,5296 Byte
+dark nebula  (19xx)(t&e)(disk 1 of 3)(mode 5, page 3).zip,49511 Byte
+dark nebula (19xx)(t&e)(disk 2 of 3)(side a)(mode 5, page 3).zip,43302 Byte
+dark nebula (19xx)(t&e)(disk 2 of 3)(side b)(mode 5, page 3).zip,27986 Byte
+dark nebula (19xx)(t&e)(disk 3 of 3)(side a)(mode 5, page 3).zip,46510 Byte
+dark nebula (19xx)(t&e)(disk 3 of 3)(side b)(mode 5, page 3).zip,32836 Byte
+demo  (19xx)(-)(mode 1, page 1).zip,6145 Byte
+destroy (19xx)(-)(mode  2 page 3).zip,7503 Byte
+dual (19xx)(-)(mode 1,page 1).zip,3951 Byte
+earth bound (19xx)(xtal soft)(mode 2, page 2).zip,21390 Byte
+eggy (19xx)(bothtech)(mode 2, page 1).zip,14689 Byte
+flappy (19xx)(db-soft)(mode 5, page 2).zip,40928 Byte
+fls (19xx)(-)(mode 2, page 2).zip,6763 Byte
+foot (19xx)(-)(mode 1, page 1).zip,4533 Byte
+galac (19xx)(-)(mode 1, page 2).zip,3346 Byte
+galaxy (19xx)(-)(mode 1, page 1).zip,4463 Byte
+galaxy (19xx)(disk 1 of 2)(mode2 page 1).zip,18264 Byte
+galaxy (19xx)(disk 2 of 2)(mode2, page 1).zip,20243 Byte
+godhar (19xx)(-)(mode 1, page 1).zip,5174 Byte
+h fox (19xx)(arrow soft)(mode 5,page 3).zip,48703 Byte
+h fox 2 (19xx)(arrow soft)(mode 5,page 3).zip,43611 Byte
+headon (19xx))(mode 1, page 1).zip,3874 Byte
+hisya (19xx)(-)(mode 5,page 1).zip,18285 Byte
+hydlide (19xx)(-)(mode 5, page 2).zip,41347 Byte
+ice block (19xx)(db soft)(mode 5 ,page 2).zip,9814 Byte
+invaders (19xx)(-)(mode 1, page 2).zip,3586 Byte
+kita (19xx)(falcom)(mode  2, page 3).zip,8095 Byte
+kita (19xx)(falcom)(mode 2 page 3).zip,8091 Byte
+ledzone (19xx)(-)(mode 5, page 3).zip,8405 Byte
+Lights Out (19xx)(Asm)(Page 1).zip,2898 Byte
+Lights Out (19xx)(Page 1).zip,2395 Byte
+lode runner (19xx)(system soft)(mode 2, page 2).zip,37378 Byte
+magnetic field (19xx)(-)(mode 2, page 2).zip,5453 Byte
+master (19xx)(-)(mode 1, page 1).zip,4862 Byte
+mephius (19xx)(ft&e  soft)(disk 1 of 3)(mode 5 page 3).zip,16940 Byte
+mephius (19xx)(ft&e  soft)(disk 2 of 3)(side a)(mode 5 page 3).zip,23719 Byte
+mephius (19xx)(ft&e  soft)(disk 2 of 3)(side b)(mode 5 page 3).zip,5385 Byte
+mephius (19xx)(ft&e  soft)(disk 3 of 3)(side a)(mode 5 page 3).zip,20852 Byte
+mephius (19xx)(ft&e  soft)(disk 3 of 3)(side b)(mode 5 page 3).zip,4365 Byte
+mix (19xx)(-)(mode 2 page 2).zip,6935 Byte
+monitor (19xx)(-)(mode 1, page 1).zip,10126 Byte
+nostro (19xx)(-)(mode 1 ,page 1).zip,5030 Byte
+olion4 (19xx)(ascii)(mode 2, page 2).zip,10450 Byte
+orion3 (19xx)(ascii)(mode 2, page 2).zip,10645 Byte
+outlaw (19xx)(-)(mode 1, page 1).zip,15036 Byte
+panzerspitze (19xx)(-)(mode 2 page 2).zip,9420 Byte
+plazma line (19xx)(-)(mode 5, page 3).zip,22692 Byte
+pop (19xx)(-)(mode 1, page 1).zip,10386 Byte
+porice (19xx)(-)(mode 1, page 1).zip,4710 Byte
+power (19xx))(mode 1, page 1).zip,6568 Byte
+punchball mario (1983)(nintendo)(mode 5, page 4).zip,18992 Byte
+pyramid 2 (19xx)(-)(mode 4, page 3).zip,10379 Byte
+quest 3 (19xx)(ascii)(mode 2, page 1).zip,10538 Byte
+quest 4  (19xx)(ascii)(mode 2, page 1).zip,10539 Byte
+risu (19xx))(mode 1, page 1).zip,16649 Byte
+seven (19xx)(-)(mode 1, page 1).zip,6705 Byte
+shut (19xx)(-)(mode 1, page 1.zip,3944 Byte
+Simon (19xx)(-)(Mode 1, Page 2).zip,2954 Byte
+sky (19xx)(-)(mode 2, page 2).zip,7457 Byte
+space (19xx)(-)(mode 4 page 3.zip,3697 Byte
+star destroyer (19xx)(-)(mode 2, page 3).zip,7517 Byte
+star wrecker (19xx)(-)(mode 2 page 2).zip,10062 Byte
+steal (19xx)(-)(mode 1, page 2).zip,3188 Byte
+suidou (19xx)(-)(mode 5,page 3).zip,12429 Byte
+super ball (19xx)(-)(mode 2 page 2).zip,8204 Byte
+thunder force (19xx)(tecno soft)(mode 5, pages 3).zip,20419 Byte
+tiny xevious (19xx)(namco)(mode 4, page 2).zip,9210 Byte
+trick boy (19xx)(-)(mode 2,page 2).zip,9555 Byte
+tritorn (19xx)(sein soft)(mode 5, page 2).zip,38556 Byte
+volguard (db soft) (1985)(mode 5, page 2).zip,27213 Byte
+Woods (19xx)(-)(Mode 1, Page 2).zip,2235 Byte
+yakyuk (19xx)(-)(mode 5, page 4).zip,36382 Byte
+zzz-unk-bobko60 (19xx)(ascii)(mode 5, page3).zip,10814 Byte
+zzz-unk-colonyod  (19xx)(disk 2 of 3).zip,68288 Byte
+zzz-unk-colonyod (19xx)(disk 1 of 3).zip,67023 Byte
+zzz-unk-colonyod (19xx)(disk 3 of 3).zip,47999 Byte
+ZZZ-UNK-format (19xx).zip,839 Byte
+ZZZ-UNK-inv (19xx).zip,2873 Byte
+ZZZ-UNK-lightsba (19xx).zip,1070 Byte
+zzz-unk-pc60 (19xx).zip,5921 Byte
+zzz-unk-pc6001v (19xx).zip,4172 Byte
+ZZZ-UNK-tape (19xx).zip,1538 Byte
+zzz-unk-unknown (19xx)(enix)(mode 5, page 3).zip,7143 Byte
+zzz-unk-wordpro (19xx).zip,86186 Byte

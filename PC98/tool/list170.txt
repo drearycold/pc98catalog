@@ -1,0 +1,454 @@
+(ROM) No-Intro Sega Master System - Sega Mark III (20061123) (rr5%).rar
+60,802,043
+99dda80cef4a0e0ed900d40dc4cc5404ÅE6bfe52ca51bf5a94014c095f16c3020148891bf6
+
+:	SMS
+:	:	20 em 1 (B).zip
+:	:	Ace of Aces (E).zip
+:	:	Action Fighter (J).zip
+:	:	Action Fighter (UE).zip
+:	:	Addams Family, The (E).zip
+:	:	Aerial Assault (UE).zip
+:	:	After Burner (UE).zip
+:	:	Air Rescue (BE).zip
+:	:	Aladdin (E).zip
+:	:	Aleste (J).zip
+:	:	Alex Kidd - High-Tech World (UE).zip
+:	:	Alex Kidd - The Lost Stars (UE).zip
+:	:	Alex Kidd BMX Trial (J).zip
+:	:	Alex Kidd in Miracle World (J).zip
+:	:	Alex Kidd in Miracle World (U) (v1.0).zip
+:	:	Alex Kidd in Miracle World (UE) (v1.1).zip
+:	:	Alex Kidd in Shinobi World (BUE).zip
+:	:	Alf (BU).zip
+:	:	Alien 3 (BE).zip
+:	:	Alien Storm (E).zip
+:	:	Alien Syndrome (BUE).zip
+:	:	Alien Syndrome (J).zip
+:	:	Altered Beast (UE).zip
+:	:	American Baseball (E).zip
+:	:	American Pro Football (E).zip
+:	:	Ancient Ys Vanished Omen (J).zip
+:	:	Ancient Ys Vanished Omen (UE).zip
+:	:	Andre Agassi Tennis (E).zip
+:	:	Anmitsu Hime (J).zip
+:	:	Arcade Smash Hits (E).zip
+:	:	Argos no Juujiken (J).zip
+:	:	Ariel - The Little Mermaid (B).zip
+:	:	Ashura (J).zip
+:	:	Assault City (BE) (Light Phaser).zip
+:	:	Assault City (E) (Pad).zip
+:	:	Asterix (E) (M2) (v1.0).zip
+:	:	Asterix (E) (M2) (v1.1).zip
+:	:	Asterix and the Great Rescue (E) (M5).zip
+:	:	Asterix and the Secret Mission (E) (M3).zip
+:	:	Astro Flash (J).zip
+:	:	Astro Warrior & Pit Pot (E).zip
+:	:	Astro Warrior (U).zip
+:	:	Ayrton Senna's Super Monaco GP II (E).zip
+:	:	Aztec Adventure - The Golden Road to Paradise (Nazca '88) (JUE).zip
+:	:	Back to the Future Part II (E).zip
+:	:	Back to the Future Part III (E).zip
+:	:	Baku Baku Animal (B).zip
+:	:	Bank Panic (E).zip
+:	:	Basket Ball Nightmare (BE).zip
+:	:	Batman Returns (E).zip
+:	:	Battle Out Run (E).zip
+:	:	Battlemaniacs (B).zip
+:	:	Black Belt (UE).zip
+:	:	Blade Eagle (Blade Eagle 3-D) (JUE).zip
+:	:	Bomber Raid (JUE).zip
+:	:	Bonanza Bros. (E).zip
+:	:	Bonkers Wax Up! (B).zip
+:	:	Bram Stoker's Dracula (E).zip
+:	:	Bubble Bobble (E).zip
+:	:	Buggy Run (BE).zip
+:	:	California Games (UE).zip
+:	:	California Games II (E).zip
+:	:	Captain Silver (JE).zip
+:	:	Captain Silver (U).zip
+:	:	Casino Games (UE).zip
+:	:	Castelo Ra-Tim-Bum (B).zip
+:	:	Castle of Illusion Starring Mickey Mouse (BE).zip
+:	:	Castle of Illusion Starring Mickey Mouse (U).zip
+:	:	Champions of Europe (BE).zip
+:	:	Championship Hockey (E).zip
+:	:	Chapolim x Dracula - Um Duelo Assustador (B).zip
+:	:	Cheese Cat-astrophe Starring Speedy Gonzales' (E) (M4).zip
+:	:	Choplifter (J) (Proto).zip
+:	:	Choplifter (UE).zip
+:	:	Chouon Senshi Borgman (J).zip
+:	:	Chuck Rock (E).zip
+:	:	Chuck Rock II - Son of Chuck (B).zip
+:	:	Chuck Rock II - Son of Chuck (E).zip
+:	:	Circuit, The (J).zip
+:	:	Cloud Master (UE).zip
+:	:	Color & Switch Test ().zip
+:	:	Columns (UE).zip
+:	:	Comical Machinegun Joe (J).zip
+:	:	Cool Spot (E).zip
+:	:	Cosmic Spacehead (E) (M4).zip
+:	:	Cyber Shinobi, The - Shinobi Part 2 (E).zip
+:	:	Cyborg Hunter (BUE).zip
+:	:	Daffy Duck in Hollywood (E) (M5).zip
+:	:	Dallyeora Pigu-Wang (K) (Unl).zip
+:	:	Danan - The Jungle Fighter (E).zip
+:	:	Dead Angle (UE).zip
+:	:	Deep Duck Trouble Starring Donald Duck (E).zip
+:	:	Desert Speedtrap Starring Road Runner and Wile E. Coyote (BE) (M5).zip
+:	:	Desert Strike (E) (M4).zip
+:	:	Dick Tracy (UE).zip
+:	:	Dinobasher Starring Bignose the Caveman (E) (Proto).zip
+:	:	Dokidoki Penguin Land - Uchuu Daibouken (J).zip
+:	:	Double Dragon (UE).zip
+:	:	Double Hawk (E).zip
+:	:	Double Target - Cynthia no Nemuri (J).zip
+:	:	Dr. Robotnik's Mean Bean Machine (E).zip
+:	:	Dragon - The Bruce Lee Story (E).zip
+:	:	Dragon Crystal (E).zip
+:	:	Dynamite Duke (E).zip
+:	:	Dynamite Dux (E).zip
+:	:	Dynamite Headdy (B).zip
+:	:	E-SWAT - City Under Siege (BUE) (Easy Version).zip
+:	:	E-SWAT - City Under Siege (BUE) (Hard Version).zip
+:	:	Earthworm Jim (B).zip
+:	:	Ecco - The Tides of Time (B).zip
+:	:	Ecco the Dolphin (E).zip
+:	:	Enduro Racer (J).zip
+:	:	Enduro Racer (UE).zip
+:	:	Excellent Dizzy Collection, The (UE) (M3) (Proto).zip
+:	:	F-16 Fighter (UE).zip
+:	:	F-16 Fighting Falcon (J).zip
+:	:	F-16 Fighting Falcon (U).zip
+:	:	F1 (E).zip
+:	:	Fantastic Dizzy (E) (M5).zip
+:	:	Fantasy Zone (UE).zip
+:	:	Fantasy Zone - The Maze (UE).zip
+:	:	Fantasy Zone II - The Tears of OPA-OPA (J).zip
+:	:	Fantasy Zone II - The Tears of OPA-OPA (UE).zip
+:	:	Ferias Frustradas do Pica-Pau (B).zip
+:	:	Fifa International Soccer (B) (M3).zip
+:	:	Final Bubble Bobble (J).zip
+:	:	Fire & Forget II (E).zip
+:	:	Fire & Ice (B).zip
+:	:	Flash, The (E).zip
+:	:	Flintstones, The (E).zip
+:	:	Forgotten Worlds (E).zip
+:	:	Fushigi no Oshiro Pit Pot (J).zip
+:	:	G-Loc Air Battle (BE).zip
+:	:	GP Rider (E).zip
+:	:	Gain Ground (E).zip
+:	:	Galactic Protector (J).zip
+:	:	Galaxy Force (BE).zip
+:	:	Galaxy Force (U).zip
+:	:	Game Box Esportes Radicais (B).zip
+:	:	Gangster Town (BUE).zip
+:	:	Gauntlet (E).zip
+:	:	George Foreman's KO Boxing (E).zip
+:	:	Geraldinho (B).zip
+:	:	Ghost House (BUE) (Proto).zip
+:	:	Ghost House (BUE).zip
+:	:	Ghost House (J).zip
+:	:	Ghostbusters (UE).zip
+:	:	Ghouls'n Ghosts (UE).zip
+:	:	Global Defense (UE) (Proto).zip
+:	:	Global Defense (UE).zip
+:	:	Gokuaku Doumei Dump Matsumoto (J).zip
+:	:	Golden Axe (UE).zip
+:	:	Golden Axe Warrior (BUE).zip
+:	:	Golfamania (E).zip
+:	:	Golfamania (UE) (Proto).zip
+:	:	Golvellius (J).zip
+:	:	Golvellius (UE).zip
+:	:	Great Baseball (J).zip
+:	:	Great Baseball (UE).zip
+:	:	Great Basketball (UE).zip
+:	:	Great Football (UE).zip
+:	:	Great Golf (J).zip
+:	:	Great Golf (Masters Golf) (JUE) (Proto).zip
+:	:	Great Golf (Masters Golf) (JUE).zip
+:	:	Great Ice Hockey (U).zip
+:	:	Great Soccer (E).zip
+:	:	Great Soccer (J).zip
+:	:	Great Soccer (World Soccer) (JBUE).zip
+:	:	Great Tennis [Super Tennis] (J).zip
+:	:	Great Volleyball (J).zip
+:	:	Great Volleyball (UE).zip
+:	:	Haja no Fuuin (J).zip
+:	:	Hang-On & Astro Warrior (U).zip
+:	:	Hang-On & Safari Hunt (U).zip
+:	:	Hang-On (BE).zip
+:	:	Hang-On (J).zip
+:	:	Heavyweight Champ (E).zip
+:	:	Heroes of the Lance (E).zip
+:	:	High School! Kimengumi (J).zip
+:	:	Hokuto no Ken (J).zip
+:	:	Home Alone (E).zip
+:	:	Hook (E) (Proto).zip
+:	:	Hoshi wo Sagasite (J).zip
+:	:	Impossible Mission (E).zip
+:	:	Incredible Crash Dummies, The (E).zip
+:	:	Incredible Hulk, The (E).zip
+:	:	Indiana Jones and the Last Crusade (E).zip
+:	:	James 'Buster' Douglas Knockout Boxing (U).zip
+:	:	James Bond 007 - The Duel (B).zip
+:	:	James Bond 007 - The Duel (E).zip
+:	:	James Pond II - Codename RoboCod (BE).zip
+:	:	Joe Montana Football (UE).zip
+:	:	Jogos de Verao II [California Games II] (B).zip
+:	:	Jungle Book, The (BE).zip
+:	:	Jurassic Park (E).zip
+:	:	Kenseiden (J).zip
+:	:	Kenseiden (UE).zip
+:	:	King's Quest - Quest for the Crown (U) (Proto).zip
+:	:	King's Quest - Quest for the Crown (U).zip
+:	:	Klax (E).zip
+:	:	Krusty's Fun House (E).zip
+:	:	Kujaku Ou (J).zip
+:	:	Kung Fu Kid (UE).zip
+:	:	Land of Illusion Starring Mickey Mouse (E).zip
+:	:	Laser Ghost (E).zip
+:	:	Legend of Illusion Starring Mickey Mouse (B).zip
+:	:	Lemmings (E) (Proto).zip
+:	:	Lemmings (E).zip
+:	:	Line of Fire (E).zip
+:	:	Lion King, The (E).zip
+:	:	Lord of Sword (J).zip
+:	:	Lord of the Sword (UE).zip
+:	:	Loretta no Shouzou (J).zip
+:	:	Lucky Dime Caper Starring Donald Duck, The (BE) (Proto).zip
+:	:	Lucky Dime Caper Starring Donald Duck, The (BE).zip
+:	:	Mahjong Sengoku Jidai (J) (Proto).zip
+:	:	Mahjong Sengoku Jidai (J).zip
+:	:	Makai Retsuden (J).zip
+:	:	Marble Madness (E).zip
+:	:	Marksman Shooting & Trap Shooting (BU).zip
+:	:	Master of Darkness (E).zip
+:	:	Masters of Combat (E).zip
+:	:	Maze Hunter 3-D (UE).zip
+:	:	Maze Walker (J).zip
+:	:	Megumi Rescue (J).zip
+:	:	Mercs (E).zip
+:	:	Michael Jackson's Moonwalker (UE).zip
+:	:	Mick & Mack as the Global Gladiators (E).zip
+:	:	Mickey's Ultimate Challenge (B).zip
+:	:	Micro Machines (E).zip
+:	:	Miracle Warriors - Seal of the Dark Land (UE).zip
+:	:	Missile Defense 3-D (UE).zip
+:	:	Monica no Castelo do Dragao (B).zip
+:	:	Mono Poly (U).zip
+:	:	Monopoly (UE).zip
+:	:	Montezuma's Revenge (U).zip
+:	:	Mortal Kombat (E).zip
+:	:	Mortal Kombat 3 (B).zip
+:	:	Mortal Kombat II (E).zip
+:	:	Ms. Pac-Man (E).zip
+:	:	My Hero (BUE).zip
+:	:	Nekkyuu Koushien (J).zip
+:	:	New Zealand Story, The (E).zip
+:	:	Ninja Gaiden (BE) (Proto).zip
+:	:	Ninja Gaiden (BE).zip
+:	:	Ninja, The (J).zip
+:	:	Ninja, The (UE).zip
+:	:	Opa Opa (J).zip
+:	:	Operation Wolf (E).zip
+:	:	Ottifants, The (E) (M5).zip
+:	:	Out Run (UE).zip
+:	:	Out Run 3-D (BE).zip
+:	:	Out Run Europa (E).zip
+:	:	PGA Tour Golf (E).zip
+:	:	Pac-Mania (E).zip
+:	:	Paperboy (E).zip
+:	:	Paperboy (U).zip
+:	:	Parlour Games (UE).zip
+:	:	Party Games (J).zip
+:	:	Pat Riley Basketball (U) (Proto).zip
+:	:	Penguin Land (UE).zip
+:	:	Phantasy Star (B).zip
+:	:	Phantasy Star (J) (Mega Drive).zip
+:	:	Phantasy Star (J).zip
+:	:	Phantasy Star (K).zip
+:	:	Phantasy Star (UE) (v1.2).zip
+:	:	Phantasy Star (UE) (v1.3).zip
+:	:	Pit Fighter - The Ultimate Challenge (B).zip
+:	:	Pit Fighter - The Ultimate Challenge (E).zip
+:	:	Populous (BE).zip
+:	:	Poseidon Wars 3-D (UE).zip
+:	:	Power Strike (UE).zip
+:	:	Power Strike II (E).zip
+:	:	Predator 2 (E).zip
+:	:	Prince of Persia (BE).zip
+:	:	Pro Wrestling (UE).zip
+:	:	Pro Yakyuu Pennant Race, The (J).zip
+:	:	Promocao Especial M. System III Compact (B) (Promo).zip
+:	:	Psychic World (E).zip
+:	:	Psycho Fox (BUE).zip
+:	:	Putt & Putter (BE).zip
+:	:	Putt & Putter (E) (Proto).zip
+:	:	Quartet (UE).zip
+:	:	Quest for the Shaven Yak Starring Ren Hoek & Stimpy (B).zip
+:	:	R-Type (UE).zip
+:	:	R.C. Grand Prix (UE).zip
+:	:	Rainbow Islands - The Story of Bubble Bobble 2 (B).zip
+:	:	Rainbow Islands - The Story of Bubble Bobble 2 (E).zip
+:	:	Rambo - First Blood Part II (U).zip
+:	:	Rambo III (UE).zip
+:	:	Rampage (BUE).zip
+:	:	Rampart (E).zip
+:	:	Rastan (BUE).zip
+:	:	Reggie Jackson Baseball (U).zip
+:	:	Renegade (E).zip
+:	:	Rescue Mission (UE).zip
+:	:	Road Rash (E).zip
+:	:	RoboCop 3 (E).zip
+:	:	RoboCop versus The Terminator (BE).zip
+:	:	Rocky (UE).zip
+:	:	Running Battle (E).zip
+:	:	SDI (J).zip
+:	:	Sagaia (E).zip
+:	:	Sangokushi 3 (K) (Unl).zip
+:	:	Sapo Xule - O Mestre do Kung Fu (B).zip
+:	:	Sapo Xule - SOS Lagoa Poluida (B).zip
+:	:	Sapo Xule vs. Os Invasores do Brejo (B).zip
+:	:	Satellite 7 (J).zip
+:	:	Scramble Spirits (E).zip
+:	:	Secret Command (E).zip
+:	:	Sega Chess (E).zip
+:	:	Sega World Tournament Golf (E).zip
+:	:	Seishun Scandal (J).zip
+:	:	Sensible Soccer (E).zip
+:	:	Shadow Dancer (E).zip
+:	:	Shadow of the Beast (E).zip
+:	:	Shanghai (UE).zip
+:	:	Shinobi (J).zip
+:	:	Shinobi (UE).zip
+:	:	Shooting Gallery (UE).zip
+:	:	Simpsons, The - Bart vs. The Space Mutants (E).zip
+:	:	Simpsons, The - Bart vs. The World (E).zip
+:	:	Sitio do Picapau Amarelo (B).zip
+:	:	Slap Shot (E) [a].zip
+:	:	Slap Shot (E).zip
+:	:	Smurfs 2, The (E) (M4).zip
+:	:	Smurfs, The (E) (M4).zip
+:	:	Solomon no Kagi - Oujo Rihita no Namida (J).zip
+:	:	Sonic Blast (B).zip
+:	:	Sonic Chaos (E).zip
+:	:	Sonic Spinball (E).zip
+:	:	Sonic the Hedgehog (UE).zip
+:	:	Sonic the Hedgehog 2 (E) (v1.0).zip
+:	:	Sonic the Hedgehog 2 (E) (v1.1).zip
+:	:	Space Gun (E).zip
+:	:	Space Harrier (J).zip
+:	:	Space Harrier (UE).zip
+:	:	Space Harrier 3-D (BUE).zip
+:	:	Space Harrier 3D (J).zip
+:	:	Special Criminal Investigation (E) (Beta).zip
+:	:	Special Criminal Investigation (E).zip
+:	:	Speedball (E) (Mirrorsoft).zip
+:	:	Speedball (E) (Virgin).zip
+:	:	Speedball 2 (E).zip
+:	:	Spellcaster (UE).zip
+:	:	Spider-Man - Return of the Sinister Six (E).zip
+:	:	Spider-Man vs. The Kingpin (UE).zip
+:	:	Sports Pad Football (U).zip
+:	:	Sports Pad Soccer (J).zip
+:	:	Spy vs. Spy (BUE).zip
+:	:	Spy vs. Spy (J).zip
+:	:	Spy vs. Spy (U) (Display-Unit Cart).zip
+:	:	Star Wars (E).zip
+:	:	Street Fighter II (B).zip
+:	:	Streets of Rage (E).zip
+:	:	Streets of Rage II (E).zip
+:	:	Strider (UE).zip
+:	:	Strider II (E).zip
+:	:	Submarine Attack (E).zip
+:	:	Sukeban Deka 2 (J).zip
+:	:	Summer Games (E).zip
+:	:	Super Basketball (U) (Demo).zip
+:	:	Super Kick Off (E) (M8).zip
+:	:	Super Monaco GP (BE).zip
+:	:	Super Monaco GP (U).zip
+:	:	Super Off-Road (E).zip
+:	:	Super Racing (J).zip
+:	:	Super Smash T.V. (E).zip
+:	:	Super Space Invaders (E).zip
+:	:	Super Tennis (UE).zip
+:	:	Super Wonder Boy (J).zip
+:	:	Super Wonder Boy - Monster World (J).zip
+:	:	Superman (E).zip
+:	:	T2 - The Arcade Game (E).zip
+:	:	TV Colosso (B).zip
+:	:	Taito Chase H.Q. (E).zip
+:	:	Taz Mania (BE) (Proto).zip
+:	:	Taz Mania (BE).zip
+:	:	Taz in Escape from Mars (B).zip
+:	:	Tecmo World Cup '92 (E) (Proto).zip
+:	:	Tecmo World Cup '93 (E).zip
+:	:	Teddy Boy (BUE).zip
+:	:	Teddy Boy Blues (J) (Ep-MyCard) (Proto).zip
+:	:	Teddy Boy Blues (J).zip
+:	:	Tennis Ace (BE).zip
+:	:	Tensai Bakabon (J).zip
+:	:	Terminator 2 - Judgment Day (E).zip
+:	:	Terminator, The (E).zip
+:	:	Thunder Blade (J).zip
+:	:	Thunder Blade (UE).zip
+:	:	Time Soldiers (UE).zip
+:	:	Tom & Jerry (E) (Proto).zip
+:	:	Tom and Jerry - The Movie (E).zip
+:	:	Toto World 3 (K) (Unl).zip
+:	:	TransBot (BUE).zip
+:	:	Trap Shooting & Marksman Shooting & Safari Hunt (E).zip
+:	:	Trivial Pursuit (E) (M4).zip
+:	:	Turma da Monica em O Resgate (B).zip
+:	:	Ultima IV - Quest of the Avatar (E) (Proto).zip
+:	:	Ultima IV - Quest of the Avatar (E).zip
+:	:	Ultimate Soccer (E) (M5).zip
+:	:	Vampire (UE) (Proto).zip
+:	:	Vigilante (UE).zip
+:	:	Virtua Fighter Animation (B).zip
+:	:	WWF Wrestlemania - Steel Cage Challenge (BE).zip
+:	:	Walter Payton Football (U).zip
+:	:	Wanted (UE).zip
+:	:	Where in the World is Carmen Sandiego (B).zip
+:	:	Where in the World is Carmen Sandiego (U).zip
+:	:	Wimbledon (E).zip
+:	:	Wimbledon II (E).zip
+:	:	Winter Olympics - Lillehammer '94 (B) (M8).zip
+:	:	Winter Olympics - Lillehammer '94 (E) (M8).zip
+:	:	Wolfchild (E).zip
+:	:	Wonder Boy (BUE).zip
+:	:	Wonder Boy III - The Dragon's Trap (UE).zip
+:	:	Wonder Boy in Monster Land (UE).zip
+:	:	Wonder Boy in Monster World (E) (Proto).zip
+:	:	Wonder Boy in Monster World (E).zip
+:	:	Woody Pop - Shinjinrui no Block Kuzushi (J).zip
+:	:	World Class Leader Board (E).zip
+:	:	World Cup Italia '90 (BE).zip
+:	:	World Cup USA 94 (E) (M8).zip
+:	:	World Games (BE) (Proto).zip
+:	:	World Games (BE).zip
+:	:	World Grand Prix (E).zip
+:	:	World Grand Prix (U).zip
+:	:	X-Men - Mojo World (B).zip
+:	:	Xenon 2 - Megablast (E) (Image Works).zip
+:	:	Xenon 2 - Megablast (E) (Virgin).zip
+:	:	Zaxxon 3-D (JUE) (Proto).zip
+:	:	Zaxxon 3-D (JUE).zip
+:	:	Zillion (Akai Koudan Zillion) (JE) (M2).zip
+:	:	Zillion (U).zip
+:	:	Zillion II - The Tri Formation (JUE).zip
+:	:	Zool - Ninja of the 'Nth' Dimension (JE).zip
+:	:	[Bios] Alex Kidd in Miracle World (UE).zip
+:	:	[Bios] Hang-On & Safari Hunt (UE) (v2.4).zip
+:	:	[Bios] Hang-On (UE) (v3.4).zip
+:	:	[Bios] Magic Drive Plus BIOS ().zip
+:	:	[Bios] Missile Defense 3-D (UE) (v4.4).zip
+:	:	[Bios] SMS BIOS (J) (v2.1).zip
+:	:	[Bios] SMS BIOS (U) (v1.3).zip
+:	:	[Bios] SMS Prototype M404 BIOS ().zip
+:	:	[Bios] SMS Store Display Unit BIOS (U).zip
+:	:	[Bios] Sonic the Hedgehog (E).zip
+:	:	[Bios] Super Magic Drive BIOS () (v3.0).zip
+:	:	[Bios] Super Magic Drive BIOS () (v3.1G).zip
+:	:	[Bios] Super Magic Drive BIOS () (v4.1a).zip

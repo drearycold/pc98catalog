@@ -1,0 +1,3858 @@
+:	0-9
+:	:	15 Puzzle 1 (PD).fig
+:	:	15 Puzzle 2 (PD).swc
+:	:	15 Puzzle 3 (PD).swc
+:	:	15 Puzzle 4 (PD).swc
+:	:	1997 New Year FD (PD).fig
+:	:	2.68 MHz Demo (PD).fig
+:	:	3 Ninjas Kick Back (U).smc
+:	:	3D Stereo World - Find the Hidden Images (PD).fig
+:	:	3x3 Eyes - Jyuma Houkan (J).swc
+:	:	3x3 Eyes - Seima Korin Den (J).fig
+:	:	4 Nin Shogi (J).mgd
+:	:	46 Okunen Monogatari (J).swc
+:	:	7th Saga, The (U).swc
+:	:	90 Minutes - European Prime Goal (Beta).swc
+:	:	90 Minutes - European Prime Goal (E) [!].swc
+:	A
+:	:	AAAHH!!! Real Monsters (E) [!].swc
+:	:	AAAHH!!! Real Monsters (U).smc
+:	:	ABC Monday Night Football (J).fig
+:	:	ABC Monday Night Football (U).swc
+:	:	AS - 110 Yard Fight (NES Hack).fig
+:	:	AS - Antartic Adventure (NES Hack).fig
+:	:	AS - Baseball (NES Hack).swc
+:	:	AS - Burger Time (NES Hack).fig
+:	:	AS - Circus Charlie (NES Hack).fig
+:	:	AS - Donkey Kong (NES Hack).swc
+:	:	AS - Donkey Kong 3 (NES Hack).fig
+:	:	AS - Donkey Kong JR (NES Hack).swc
+:	:	AS - Dough Boy (NES Hack).fig
+:	:	AS - Elevator Action (NES Hack).fig
+:	:	AS - Exerion (NES Hack).fig
+:	:	AS - Galg (NES Hack).fig
+:	:	AS - Galga (NES Hack).fig
+:	:	AS - Golf (NES Hack).swc
+:	:	AS - Lode Runner (NES Hack).swc
+:	:	AS - Mappy (NES Hack).swc
+:	:	AS - Mario Bro (NES Hack).swc
+:	:	AS - Millipede (NES Hack).swc
+:	:	AS - Nuts Milk (NES Hack).swc
+:	:	AS - Pac-Man (NES Hack).swc
+:	:	AS - Pinball (NES Hack).swc
+:	:	AS - Pooyan (NES Hack).fig
+:	:	AS - Popeye (NES Hack).swc
+:	:	AS - Road Fighter (NES Hack).fig
+:	:	AS - Sky Destroyer (NES Hack).fig
+:	:	AS - Star Force (NES Hack).fig
+:	:	AS - Tennis (NES Hack).swc
+:	:	AS - Volguard 2 (NES Hack).fig
+:	:	AS - Warpman (NES Hack).fig
+:	:	AS - Yie Ar Kung Fu (NES Hack).fig
+:	:	AYT BBS Intro (PD).fig
+:	:	AYT Demo (PD).fig
+:	:	Accelebrid (J).fig
+:	:	Ace wo Nerae (J).mgd
+:	:	Acrobat Mission (J).fig
+:	:	Act Raiser (E) [!].swc
+:	:	Act Raiser (F).fig
+:	:	Act Raiser (G).swc
+:	:	Act Raiser (J).mgd
+:	:	Act Raiser (U).swc
+:	:	Act Raiser 2 (E).fig
+:	:	Act Raiser 2 (U).swc
+:	:	Act Raiser 2 - Chinmoku heno Seisen (J).fig
+:	:	Action Pachio (J).fig
+:	:	Addams Family Values (E).fig
+:	:	Addams Family Values (U).fig
+:	:	Addams Family, The (E).swc
+:	:	Addams Family, The (J).mgd
+:	:	Addams Family, The (U).swc
+:	:	Addams Family, The - Pugsley's Scavenger Hunt (Beta).swc
+:	:	Addams Family, The - Pugsley's Scavenger Hunt (E).swc
+:	:	Addams Family, The - Pugsley's Scavenger Hunt (U).mgd
+:	:	Adult Manga 1 (PD).fig
+:	:	Adult Manga 2 (PD).fig
+:	:	Adventures of Batman & Robin, The (E).mgd
+:	:	Adventures of Batman & Robin, The (U).fig
+:	:	Adventures of Dr. Franken, The (E).gd3
+:	:	Adventures of Dr. Franken, The (U).swc
+:	:	Adventures of Kid Kleets, The (U).fig
+:	:	Adventures of Rocky & Bullwinkle (U).mgd
+:	:	Adventures of Tintin, The - Prisoners of the Sun (E).swc
+:	:	Aero Fighters (U).swc
+:	:	Aero the Acro-Bat (E).swc
+:	:	Aero the Acro-Bat (U).fig
+:	:	Aero the Acro-Bat 2 (U).swc
+:	:	Aerobiz (U).swc
+:	:	Aerobiz Supersonic (U).swc
+:	:	Air Cavalry (U).swc
+:	:	Air Management - Ozora ni Kakeru (V1.0) (J).swc
+:	:	Air Management - Ozora ni Kakeru (V1.1) (J) [!].mgd
+:	:	Air Management 2 - Kouku Ou wo Mezase (J).swc
+:	:	Air Strike Patrol (U).fig
+:	:	Airwolf 92 (PD) [h1].swc
+:	:	Airwolf 92 (PD).mgd
+:	:	Akazukin Cha Cha (J).mgd
+:	:	Akumajou Dracula (J) [!].fig
+:	:	Akumajou Dracula XX (J).mgd
+:	:	Al Unser Jr's Road to the Top (E).fig
+:	:	Al Unser Jr's Road to the Top (U).fig
+:	:	Aladdin (Beta) [h1].fig
+:	:	Aladdin (Beta).swc
+:	:	Aladdin (E).fig
+:	:	Aladdin (F).mgd
+:	:	Aladdin (G) [!].fig
+:	:	Aladdin (J).smc
+:	:	Aladdin (U) [!].swc
+:	:	Albert Odyssey (J).mgd
+:	:	Albert Odyssey 2 (J).swc
+:	:	Alcahest (J).fig
+:	:	Alfred Chicken (E)(4285).swc
+:	:	Alfred Chicken (E)(6937).swc
+:	:	Alfred Chicken (U).fig
+:	:	Alfred_Chicken_(E)_(4285).smc
+:	:	Alice in Wonderland (J).swc
+:	:	Alien 3 (Beta).swc
+:	:	Alien 3 (E) [!].fig
+:	:	Alien 3 (E) [T-Port].fig
+:	:	Alien 3 (J).swc
+:	:	Alien 3 (U).fig
+:	:	Alien vs. Predator (E) [!].swc
+:	:	Alien vs. Predator (U).swc
+:	:	Aliens Vs Predator (J).swc
+:	:	Alkaid Alpha Flight - Merry Christmas (PD).fig
+:	:	All-American Championship Football (E) [!].swc
+:	:	America Oudan Ultra Quiz (J).swc
+:	:	American Battle Dome (J).swc
+:	:	American Gladiators (U).swc
+:	:	Amiga IFF Japanese SlideShow (PD).swc
+:	:	An American Tale - Fievel Goes West (E).swc
+:	:	An American Tale - Fievel Goes West (U).swc
+:	:	Anarchy 2 (PD).fig
+:	:	Anarchy Logo (PD).fig
+:	:	Anarchy Scroller (PD).fig
+:	:	Ancient Magic - Bazoo! Mahou Sekai (J).swc
+:	:	Andre Agassi Tennis (J).swc
+:	:	Andre Agassi Tennis (U).fig
+:	:	Angel Eyes (PD).fig
+:	:	Angelic Voice Fantasy (J).swc
+:	:	Angelique (J).swc
+:	:	Angelique - Premium Box (J).swc
+:	:	Animaniacs (E).fig
+:	:	Animaniacs (J).fig
+:	:	Animaniacs (U) [!].gd3
+:	:	Anime (PD).fig
+:	:	Anime v1.0 (PD).swc
+:	:	Anime v1.1 (PD).swc
+:	:	Anime v1.2 (PD).swc
+:	:	Anime v1.3 (PD).swc
+:	:	Anime v1.4 (PD).swc
+:	:	Anime v1.5 (PD).swc
+:	:	Anime v1.6 (PD).swc
+:	:	Anime v1.7 (PD).swc
+:	:	Anime v1.8 (PD).swc
+:	:	Another World (E) [!].fig
+:	:	Anthrox - 3d Demo (PD).fig
+:	:	Anthrox - Bouncing Ball Trainer (Alternate Music) (PD).mgd
+:	:	Anthrox - Bouncing Ball Trainer (PD).fig
+:	:	Anthrox - C64 Intro (PD).fig
+:	:	Anthrox - Christmas Demo (PD).fig
+:	:	Anthrox - Gameboy Smart Card DOS for SWC DX (PD).fig
+:	:	Anthrox - Hand Held Smart Card Multi-DOS (PD).fig
+:	:	Anthrox - Mode 7 Interactive Demo (PD).fig
+:	:	Anthrox - Mode 7 Intro (PD).fig
+:	:	Anthrox - Mode 7 Trainer (PD).fig
+:	:	Anthrox - Plasma Intro (PD).fig
+:	:	Anthrox - Rotating Mode 7 Intro (PD).mgd
+:	:	Anthrox - Sine-dot Demo (PD).fig
+:	:	Anthrox - Slither Scroller Intro (PD).fig
+:	:	Anthrox - Starfield Trainer (PD).fig
+:	:	Anthrox - Text Scroller (PD).fig
+:	:	Anthrox - The Raider Bros. Demo (PD).swc
+:	:	Anthrox - The Raider Bros. Demo (Parallax) (PD).swc
+:	:	Anthrox - The Raider Bros. Demo (Rotator) (PD).swc
+:	:	Anthrox - The Raider Bros. Demo (Zoomer) (PD).swc
+:	:	Anthrox - Wavy Scroller Intro (PD).fig
+:	:	Anthrox 1 (PD).fig
+:	:	Aokidensetu Shoot! (J).fig
+:	:	Appleseed (J).swc
+:	:	Aqutallion (J).fig
+:	:	Arabian Knights - Sabaku no Seirei Ou (J).smc
+:	:	Araiguma Rascal (J).fig
+:	:	Arcana (U).fig
+:	:	Archer MacLean's Dropzone (E) [!].fig
+:	:	Arcus Spirits (Beta).fig
+:	:	Arcus Spirits (J).fig
+:	:	Ardy Lightfoot (Beta).fig
+:	:	Ardy Lightfoot (E).swc
+:	:	Ardy Lightfoot (J).swc
+:	:	Ardy Lightfoot (U).swc
+:	:	Area 88 (J).swc
+:	:	Aretha (J).mgd
+:	:	Aretha 2 - Ariel no Fushigi na Bouken (Beta).swc
+:	:	Aretha 2 - Ariel no Fushigi na Bouken (J).swc
+:	:	Arkanoid - Doh it Again (E) [!].swc
+:	:	Arkanoid - Doh it Again (J) [!].smc
+:	:	Arkanoid - Doh it Again (U).fig
+:	:	Arkanoid NES - Converted by POPC0RN (NES Hack).swc
+:	:	Armor Police Metal Jack (J).mgd
+:	:	Armored Trooper Votoms (J).fig
+:	:	Art of Fighting (E) [!].swc
+:	:	Art of Fighting (U).swc
+:	:	Aryol (J).fig
+:	:	As Aventuras de Pikachu (Hack).smc
+:	:	As_Aventuras_de_Pikachu_(Hack).smc
+:	:	Asahi Shinbun Rensai Kato Hihumi 9dan Shogi Shingiryu (J).swc
+:	:	Asameshimae Nyanko (J).fig
+:	:	Ashita no Joe (J).mgd
+:	:	Assault Suits Valken (J).smc
+:	:	Asterix & Obelix (E).mgd
+:	:	Asterix (E) [!].fig
+:	:	Astral Bout (J).fig
+:	:	Astral Bout 2, Sougou Kakutougi (J).mgd
+:	:	Astral Bout 3, RINGS (J).fig
+:	:	Astro Hawk (PD).fig
+:	:	Atlas, The - Renaissance Voyager (J).mgd
+:	:	Axelay (E) [!].swc
+:	:	Axelay (J).fig
+:	:	Axelay (U).swc
+:	:	Axeley - First Swiss Intro (PD).fig
+:	:	Ayrton Senna Racing (Nigel Mansell's Racing Hack).swc
+:	:	a18.smc
+:	:	a20.smc
+:	B
+:	:	B.O.B. (E).mgd
+:	:	B.O.B. (U).swc
+:	:	Baby T-Rex (Beta).fig
+:	:	Bahamut Lagoon (J) [!].swc
+:	:	Baku-Kyu Rennpatsu Super B-Daman (J).fig
+:	:	Bakumatsu Korinden ONI 2 (J).gd3
+:	:	Bakuto Dochers (J).swc
+:	:	Balbalossa (J).mgd
+:	:	Ball Bullet Gun (J).fig
+:	:	Ballz 3D (J).smc
+:	:	Ballz 3D (U) [!].fig
+:	:	Barbie Super Model (U).swc
+:	:	Barbie Vacation Adventure (U).fig
+:	:	Barcode Battler Senki - Coveni Wars (J).swc
+:	:	Barkley Shut Up and Jam! (E) [!].fig
+:	:	Barkley Shut Up and Jam! (U).fig
+:	:	Barkley's Power Dunk (J).fig
+:	:	Baseline - Simple Text Demo (PD).swc
+:	:	Baseline Trainer (PD).fig
+:	:	Bass Masters Classic (J).smc
+:	:	Bass Masters Classic (U).swc
+:	:	Bass Masters Classic Pro Edition (E).fig
+:	:	Bass Masters Classic Pro Edition (U).smc
+:	:	Bassins' Black Bass Fishing with Hank Parker (U).mgd
+:	:	Bastard!! - Ankoku no Hakaishin (J).swc
+:	:	Batman (Beta).fig
+:	:	Batman Forever (E) [!].smc
+:	:	Batman Forever (J).swc
+:	:	Batman Forever (U).swc
+:	:	Batman Returns (E).swc
+:	:	Batman Returns (J).fig
+:	:	Batman Returns (U).mgd
+:	:	Batman Revenge of the Joker (U).mgd
+:	:	Batman_Forever_(E).smc
+:	:	Battle Blaze (J).swc
+:	:	Battle Blaze (U).mgd
+:	:	Battle Cars (U).swc
+:	:	Battle Clash (E).gd3
+:	:	Battle Clash (U).swc
+:	:	Battle Commander - Hachibusyu Syura no Heihou (J).mgd
+:	:	Battle Cross (J).mgd
+:	:	Battle Dodgeball - Tokyu Gekitotsu (J).swc
+:	:	Battle Dodgeball 2 (J).smc
+:	:	Battle Grand Prix (J).swc
+:	:	Battle Grand Prix (U).swc
+:	:	Battle Jockey (J).smc
+:	:	Battle Master - Kyukyoku no Senshitachi (J).swc
+:	:	Battle Pinball (J).swc
+:	:	Battle Racers (J).swc
+:	:	Battle Robot Retsuden (J).smc
+:	:	Battle Soccer - Field no Hasya (J).mgd
+:	:	Battle Soccer 2 (J).mgd
+:	:	Battle Submarine (J).mgd
+:	:	Battle Tycoon (V1.0) (J).swc
+:	:	Battle Tycoon (V1.1) (J).smc
+:	:	Battle Zeque Den (J).swc
+:	:	Battletech (J).fig
+:	:	Battletech 3050 (J).swc
+:	:	Battletoads & Double Dragon - The Ultimate Team (E).swc
+:	:	Battletoads & Double Dragon - The Ultimate Team (U) [!].gd3
+:	:	Battletoads in Battlemaniacs (E).swc
+:	:	Battletoads in Battlemaniacs (J).swc
+:	:	Battletoads in Battlemaniacs (U)(26454).gd3
+:	:	Battletoads in Battlemaniacs (U)(6526).fig
+:	:	Bazooka Blitzkrieg (U).swc
+:	:	Beauty Girl Slide Show 12 (PD).mgd
+:	:	Beauty and the Beast (Beta).swc
+:	:	Beauty and the Beast (E).swc
+:	:	Beauty and the Beast (J).swc
+:	:	Beauty and the Beast (U).swc
+:	:	Beavis and Butthead (E) [!].fig
+:	:	Beavis and Butthead (U).fig
+:	:	Bebe's Kids (U).fig
+:	:	Beethoven's 2nd (E).swc
+:	:	Beethoven's 2nd (U).swc
+:	:	Benkei Gaiden - Suna no Syou (J).swc
+:	:	Best Shot Pro Golf (J).swc
+:	:	Best of the Best (E)(12934).fig
+:	:	Best of the Best (E)(5062).mgd
+:	:	Best of the Best (U).swc
+:	:	Big Ichi Geki Pachi Slot Daikoryaku! (J).fig
+:	:	Big Ichigeki 2 University (J).swc
+:	:	Big Run - 13e Rallye (J).fig
+:	:	Big Sky Trooper (E) [!].fig
+:	:	Big Sky Trooper (U) (Beta).smc
+:	:	Big Sky Trooper (U).swc
+:	:	Big_Sky_Trooper_(US)(25506).smc
+:	:	Bike Daisuki - Hashiriya Damashii (J).swc
+:	:	Biker Mice From Mars (E) [!].swc
+:	:	Biker Mice From Mars (U).swc
+:	:	Bill Laimbeer's Combat Basketball (U) [!].swc
+:	:	Bill Walsh College Football (U).swc
+:	:	Bing Bing Bingo (J).swc
+:	:	Bio Metal (E) [!].swc
+:	:	Bio Metal (J).fig
+:	:	Bio Metal (U).fig
+:	:	Bio Worm (PD).swc
+:	:	Bishin Densetsu Zoku - The Legend of Zoku (J).mgd
+:	:	Bisojo John - Shi Suuchiipai (V1.0) (J).mgd
+:	:	Bisojo John - Shi Suuchiipai (V1.1) (J).smc
+:	:	Bisyoujyo Senshi Sailor Moon (J).smc
+:	:	Bisyoujyo Senshi Sailor Moon - Another Story (J) [T-Eng].fig
+:	:	Bisyoujyo Senshi Sailor Moon - Another Story (J).fig
+:	:	Bisyoujyo Senshi Sailor Moon R (J).mgd
+:	:	Bisyoujyo Senshi Sailor Moon S - Fuwa Fuwa Panic 2 (J) (ST).fig
+:	:	Bisyoujyo Senshi Sailor Moon S - Jougai Rantou (J).swc
+:	:	Bisyoujyo Senshi Sailor Moon S - Kondoha Puzzle de Oshiokiyo (J).swc
+:	:	Bisyoujyo Senshi Sailor Moon S - Kurukkurin (J).swc
+:	:	Bisyoujyo Senshi Sailor Moon Super S - Fuwa Fuwa Panic (J).gd3
+:	:	Bisyoujyo Senshi Sailor Moon Super S - Zenin Sanka Syuyaku Soudatsusen (J).swc
+:	:	Bisyoujyo Wrestlinger's History (J).gd3
+:	:	Black Hawk (E) [!].swc
+:	:	Black Thorne (J).swc
+:	:	Black Thorne (U) (Pre-Release) [T-Port].swc
+:	:	Black Thorne (U) (Pre-Release).swc
+:	:	Black Thorne (U).fig
+:	:	Blazeon (J).mgd
+:	:	Blazeon (U).swc
+:	:	Blazeon_(J).smc
+:	:	Blazing Skies (E).swc
+:	:	Bling Blang Blong (PD).swc
+:	:	Block Kuzushi (J).fig
+:	:	Blue Crystal Rod, The (J).fig
+:	:	Blue Sky (PD).swc
+:	:	Blues Brothers, The (E) [!].swc
+:	:	Blues Brothers, The (E) [a1].swc
+:	:	Blues Brothers, The (J).fig
+:	:	Blues Brothers, The (U).gd3
+:	:	Bobby's World (U).mgd
+:	:	Bokujou Monogatari (V1.0) (J).swc
+:	:	Bokujou Monogatari (V1.1) (J) (NP) [!].mgd
+:	:	Bomberman B-Daman (J).swc
+:	:	Bombuzal (J).swc
+:	:	Bonkers (J).swc
+:	:	Bonkers (U).swc
+:	:	Boogerman - A Pick and Flick Adventure (E) [!].swc
+:	:	Boogerman - A Pick and Flick Adventure (U).swc
+:	:	Bounty Sword (J).smc
+:	:	Boxing Legends of the Ring (E).fig
+:	:	Boxing Legends of the Ring (U).swc
+:	:	Boy's Soccer Team 5 (Hack).swc
+:	:	Brain Lord (J).swc
+:	:	Brain Lord (U).smc
+:	:	Brainies, The (E).swc
+:	:	Brainies, The (U).gd3
+:	:	Bram Stoker's Dracula (Beta).swc
+:	:	Bram Stoker's Dracula (E) [!].swc
+:	:	Bram Stoker's Dracula (U).fig
+:	:	Brandish (J).fig
+:	:	Brandish (U) [!].swc
+:	:	Brandish 2 - Expert (J).ufo
+:	:	Brandish 2 - The Planet Buster (J).smc
+:	:	Brawl Brothers (U) [!].swc
+:	:	BreakThru! (U).fig
+:	:	Breath of Fire (J).swc
+:	:	Breath of Fire (U) [!].swc
+:	:	Breath of Fire II (E).swc
+:	:	Breath of Fire II (U) [!].swc
+:	:	Breath of Fire II (V1.0) (J).smc
+:	:	Breath of Fire II (V1.1) (J) (NP).swc
+:	:	Brett Hull Hockey '95 (U).swc
+:	:	Brett Hull Hockey (E) [!].swc
+:	:	Brett Hull Hockey (U).fig
+:	:	Bronkie Health Hero (U).swc
+:	:	Brunswick Bowling (U).swc
+:	:	Brutal - Paws of Fury (Beta) [h1].swc
+:	:	Brutal - Paws of Fury (Beta).mgd
+:	:	Brutal - Paws of Fury (E) [!].swc
+:	:	Brutal - Paws of Fury (J).fig
+:	:	Brutal - Paws of Fury (U).swc
+:	:	Bsts_Blds.smc
+:	:	Bubsy II (E).fig
+:	:	Bubsy II (U).fig
+:	:	Bubsy in Claws Encounters of the Furred Kind (Beta).swc
+:	:	Bubsy in Claws Encounters of the Furred Kind (E).swc
+:	:	Bubsy in Claws Encounters of the Furred Kind (J).gd3
+:	:	Bubsy in Claws Encounters of the Furred Kind (U).fig
+:	:	Bugs Bunny (J).swc
+:	:	Bugs Bunny in Rabbit Rampage (E).fig
+:	:	Bugs Bunny in Rabbit Rampage (U) [!].fig
+:	:	Bulls Vs. Blazers and the NBA Playoffs (V1.0) (E).gd3
+:	:	Bulls Vs. Blazers and the NBA Playoffs (V1.0) (U).swc
+:	:	Bulls Vs. Blazers and the NBA Playoffs (V1.1) (E).swc
+:	:	Bulls Vs. Blazers and the NBA Playoffs (V1.1) (U) [!].mgd
+:	:	Burai Hachigyoku no Yusyatachi (J).swc
+:	:	Bushi Seiryuden (J).fig
+:	:	Bust-a-Move (U).swc
+:	BS
+:	:	BS 3ji no Wide Shou (J).smc
+:	:	BS Albert Odyssey (J).smc
+:	:	BS Arkanoid - Doh It Again (J) [o1].smc
+:	:	BS Bdash 2 Gatsu Gou (J).smc
+:	:	BS Bdash 3 Gatsu Gou (J).smc
+:	:	BS Block Kuzushi (J).smc
+:	:	BS Busters - Digital Magazine 4-12-98 (J).smc
+:	:	BS Busters - Digital Magazine 5-10-98 (J).smc
+:	:	BS Busters - Digital Magazine 5-24-98 (J).smc
+:	:	BS Busters - Digital Magazine 8-23-98 (J).smc
+:	:	BS Cheap de Gorgeous Vol.1 (J).smc
+:	:	BS Chrono Trigger - Character Library (J).smc
+:	:	BS Chrono Trigger - Jet Bike Special (J).smc
+:	:	BS Chrono Trigger - Music Library (J).smc
+:	:	BS Columbus no Tamagoyaki 1 (J) [a1].smc
+:	:	BS Columbus no Tamagoyaki 2 (J) [a1].smc
+:	:	BS Columbus no Tamagoyaki 3 (J) [a1].smc
+:	:	BS Cu-On-Pa SFC (J).smc
+:	:	BS Daibakushou Jinsei Gekijou (J).smc
+:	:	BS Dan Dan Belt Conveyor Milk no Maki (J).smc
+:	:	BS Dan Dan Belt Conveyor Ukulele no Maki (J) (NG-Dump Known).smc
+:	:	BS Do-Re-Mi No.2 5-10 (J).smc
+:	:	BS Do-Re-Mi No.2 5-25 (J).smc
+:	:	BS Dokapon Gaiden - Honoo no Audition (J).smc
+:	:	BS Dr. Mario (J).smc
+:	:	BS Dragon Quest 1 (J).mgd
+:	:	BS Dragon Slayer - Eiyuu Densetsu (J).smc
+:	:	BS Dynami Tracer (J).smc
+:	:	BS Excitebike Bun Bun Mario Battle Stadium 1 (J) [a1].smc
+:	:	BS Excitebike Bun Bun Mario Battle Stadium 2 (J).smc
+:	:	BS Excitebike Bun Bun Mario Battle Stadium 3 (1-11) (J).smc
+:	:	BS Excitebike Bun Bun Mario Battle Stadium 3 (2-8) (J).smc
+:	:	BS Excitebike Bun Bun Mario Battle Stadium 4 (J).smc
+:	:	BS F-ZERO (J).smc
+:	:	BS F-ZERO Ace League (J).smc
+:	:	BS F-ZERO Grand Prix 2 (J).smc
+:	:	BS F-ZERO King League (J).smc
+:	:	BS F-ZERO Knight League (J).smc
+:	:	BS F-ZERO Queen League (J).smc
+:	:	BS Fenek - June Edition (J).smc
+:	:	BS Fire Emblem Akaneia Senki 1 - Palace Kanraku (J).smc
+:	:	BS Fire Emblem Akaneia Senki 2 - Akai Ryuuki Shi (J).smc
+:	:	BS Fire Emblem Akaneia Senki 3 - Seigi no Tozokudan (J).smc
+:	:	BS Fire Emblem Akaneia Senki 4 - Hajimari no Toki (J).smc
+:	:	BS Furoito no Chousenjou 1 (J).smc
+:	:	BS Furoito no Chousenjou 2 (J).smc
+:	:	BS Furoito no Chousenjou 3 (J).smc
+:	:	BS Furoito no Chousenjou 4 (J).smc
+:	:	BS Furoito no Chousenjou 5 (J).smc
+:	:	BS Furoito no Chousenjou 6 (J).smc
+:	:	BS Gekkan Coin Toss Deck 1 (J).smc
+:	:	BS Goods Press 3 Gatsu Gou (J).smc
+:	:	BS Goods Press 6 Gatsu Gou (J).smc
+:	:	BS Goods Press 7 Gatsu Gou (J).smc
+:	:	BS Guruguru Ball (J).smc
+:	:	BS Heisei Gunjin Shougi (J).smc
+:	:	BS Ikari no Yousai (J).smc
+:	:	BS Kaizou Choujin Shubibinman Zero (J).smc
+:	:	BS Kirby no Omocha Hako (J).smc
+:	:	BS Kobo Kenshou Magazine (J).smc
+:	:	BS Kodomo Chousadan Mighty Pockets 1 (J).smc
+:	:	BS Kodomo Chousadan Mighty Pockets 2 (J).smc
+:	:	BS Kodomo Chousadan Mighty Pockets 3 (J).smc
+:	:	BS Koi ha Balance - Battle of Lovers (J).smc
+:	:	BS Let's Pachinko Nante Gindama 1 (J).smc
+:	:	BS Let's Pachinko Nante Gindama 2 (J).smc
+:	:	BS Let's Pachinko Nante Gindama 3 (J).smc
+:	:	BS Let's Pachinko Nante Gindama 4 (J).smc
+:	:	BS Lord Monarch (J).smc
+:	:	BS Mario Collection 3 (J).smc
+:	:	BS Mario Paint - 1-11 (J).smc
+:	:	BS Mario Paint - 6-4 (J).smc
+:	:	BS Marvelous Camp Arnold Course 1 (J).smc
+:	:	BS Marvelous Camp Arnold Course 2 (J).smc
+:	:	BS Marvelous Camp Arnold Course 3 (J).smc
+:	:	BS Marvelous Camp Arnold Course 4 (J).smc
+:	:	BS Marvelous Time Athletic Course 1 (J).smc
+:	:	BS Marvelous Time Athletic Course 2 (J).smc
+:	:	BS Marvelous Time Athletic Course 3 (J).smc
+:	:	BS Marvelous Time Athletic Course 4 (J).smc
+:	:	BS NP Magazine 107 (J).smc
+:	:	BS Nichibutsu 4 Player Mahjong 1 (J).smc
+:	:	BS Nichibutsu 4 Player Mahjong 2 (J).smc
+:	:	BS Nichibutsu Mahjong (J).smc
+:	:	BS Nintama Rantarou 2 (J).smc
+:	:	BS Nintendo HP 5-17 (J).smc
+:	:	BS Nintendo HP 5-31 (J).smc
+:	:	BS Out of Bounds Golf (J).smc
+:	:	BS Panel de Pon Event '98 (J).smc
+:	:	BS Parlor! Parlor! (J).smc
+:	:	BS Pokekame Magajin (J).smc
+:	:	BS Radical Dreamers (J).smc
+:	:	BS Same Game Koma Data (J).mgd
+:	:	BS Satella Walker - Sate Bou wo Sukuidasu! (J).smc
+:	:	BS Satella2 1 (J).smc
+:	:	BS Shanghai - Banri no Choujou (J).smc
+:	:	BS Shin Onigashima Dai 1 Hanashi (J).smc
+:	:	BS Shin Onigashima Dai 2 Hanashi (J).smc
+:	:	BS Shin Onigashima Dai 3 Hanashi (J).smc
+:	:	BS Shin Onigashima Dai 4 Hanashi (J).smc
+:	:	BS Sousa Sentai Wappers 1 (J).smc
+:	:	BS Sousa Sentai Wappers 2 (J).smc
+:	:	BS Special Tee Shot (J).smc
+:	:	BS Spriggan Powered (J).smc
+:	:	BS St.Giga 10 Gatsu Gou (J).smc
+:	:	BS Super Earth Defense Force (J).smc
+:	:	BS Super Famicom Wars (J) [h1].smc
+:	:	BS Super Famicom Wars (J).smc
+:	:	BS Super Mahjong Taikai (J) [o1].smc
+:	:	BS Super Mario USA 1 (J).smc
+:	:	BS Super Mario USA 2 (J).smc
+:	:	BS Super Mario USA 3 (J).smc
+:	:	BS Super Mario USA 4 (J).smc
+:	:	BS Super Ninja-kun (J).smc
+:	:	BS Super Tsume Shougi 1000 (J) [o1].smc
+:	:	BS Sutte Hakkun (J).smc
+:	:	BS Sutte Hakkun 2 10-8 (J).smc
+:	:	BS Sutte Hakkun 2 6-3 (J) [!].smc
+:	:	BS Sutte Hakkun 98 Winter Event Version (J).smc
+:	:	BS Tantei Club Saihousou 1 (J).smc
+:	:	BS Tantei Club Saihousou 2 (J).smc
+:	:	BS Tantei Club Saihousou 3 (J).smc
+:	:	BS Tora no Maki 5-17 (J).smc
+:	:	BS Tora no Maki 5-31 (J).smc
+:	:	BS Treasure Conflix (J).smc
+:	:	BS Wai Wai Check 3-7th (J).smc
+:	:	BS Wapaaz Souryu Hen (J).smc
+:	:	BS Wario no Mori (J).smc
+:	:	BS Wizardry V - Heart of the Maelstrom (J).smc
+:	:	BS Yoshi no Panepon (J).smc
+:	:	BS Yung Hakase no Shinsatsu Shitsu 1 (J).smc
+:	:	BS Yung Hakase no Shinsatsu Shitsu 2 (J).smc
+:	:	BS Zelda no Densetsu - Kamigami no Triforce (J) [!].smc
+:	:	BS Zelda no Densetsu Kodai no Sekiban Dai 1 Hanashi (J).smc
+:	:	BS Zelda no Densetsu Kodai no Sekiban Dai 2 Hanashi (J).smc
+:	:	BS Zelda no Densetsu Kodai no Sekiban Dai 3 Hanashi (J).smc
+:	:	BS Zelda no Densetsu Kodai no Sekiban Dai 4 Hanashi (J).smc
+:	:	BS Zelda no Densetsu Remix (J).smc
+:	:	BS Zootto Mahjong! (J).smc
+:	:	BS Zootto Mahjong! Event Version (J).smc
+:	:	BS-X BIOS.swc
+:	C
+:	:	CB Chara Wars (J).swc
+:	:	CD - I (PD).fig
+:	:	Cacoma Knight (J).fig
+:	:	Cacoma Knight (U).swc
+:	:	Cadence BBS Demo (PD).fig
+:	:	Cal Ripken Jr. Baseball (Beta).mgd
+:	:	Cal Ripken Jr. Baseball (E).swc
+:	:	Cal Ripken Jr. Baseball (U) [!].swc
+:	:	California Games 2 (E).fig
+:	:	California Games 2 (J).fig
+:	:	California Games 2 (U).mgd
+:	:	Cameltry (J).mgd
+:	:	Cannon Fodder (E).gd3
+:	:	Cannondale Cup (U).fig
+:	:	Capcom MVP Football (U).fig
+:	:	Capcom's Soccer Shootout (U).fig
+:	:	Captain America & the Avengers (E).smc
+:	:	Captain America & the Avengers (U).mgd
+:	:	Captain Commando (E) [!].swc
+:	:	Captain Commando (J).mgd
+:	:	Captain Commando (U).fig
+:	:	Captain Novolin (U).mgd
+:	:	Captain Tsubasa 3 (J).mgd
+:	:	Captain Tsubasa 4 (J).swc
+:	:	Captain Tsubasa 5 (J).swc
+:	:	Captain Tsubasa J (J).swc
+:	:	Caravan Shooting Collection (J).mgd
+:	:	Card Master (J).fig
+:	:	Carrier Aces (E).swc
+:	:	Carrier Aces (J).fig
+:	:	Carrier Aces (U).fig
+:	:	Casper (J).smc
+:	:	Casper (U).fig
+:	:	Castlevania - Dracula X (U).smc
+:	:	Castlevania - Vampire's Kiss (E).swc
+:	:	Censor - Follow the Leader (PD).mgd
+:	:	Censor - Sid Player Demo (PD).fig
+:	:	Censor - Wireframe Intro (PD).mgd
+:	:	Censor 1 (PD).fig
+:	:	Champions World Class Soccer (E).fig
+:	:	Champions World Class Soccer (J).swc
+:	:	Champions World Class Soccer (U).swc
+:	:	Championship Pool (E).swc
+:	:	Championship Pool (U).mgd
+:	:	Championship Soccer '94 (U).fig
+:	:	Chaos Engine, The (E).fig
+:	:	Chaos Seed - Fuusui Kairoki (J).swc
+:	:	Chavez Boxing (Beta).fig
+:	:	Chavez Boxing (U).swc
+:	:	Chavez Boxing 2 (U).swc
+:	:	Chessmaster, The (E).gd3
+:	:	Chessmaster, The (J).swc
+:	:	Chessmaster, The (U).swc
+:	:	Chester Cheetah - Too Cool to Fool (U).swc
+:	:	Chester Cheetah - Wild Wild Quest (U)(14145).swc
+:	:	Chester Cheetah - Wild Wild Quest (U)(59734).mgd
+:	:	Chibi Maruko Chan - Harikiri 365 Nichi (J).swc
+:	:	Chibi Maruko Chan - Mezase Minami no Island (J).fig
+:	:	Chinhai (J).swc
+:	:	Cho Aniki - Bakuretsu Rantou Hen (J).gd3
+:	:	Cho Jikuu Yosai Macross (J).fig
+:	:	Cho Mahou Tairyku Wozz (J).fig
+:	:	Cho Makai Taisen Dorabotyan (J).mgd
+:	:	Chohmakaimura (J).fig
+:	:	Choplifter 3 (Beta).swc
+:	:	Choplifter 3 (E).mgd
+:	:	Choplifter 3 (J).smc
+:	:	Choplifter 3 (U)(30545).swc
+:	:	Choplifter 3 (U)(54553).mgd
+:	:	Chow Wai Man (PD).mgd
+:	:	Chrono Trigger (U) [T-Port].fig
+:	:	Chrono Trigger (U).swc
+:	:	Chrono Trigger - Kurono Toriga (J).mgd
+:	:	Chrono Trigger - Kurono Toriga (Pre-Release) (J).swc
+:	:	Chuck Rock (Beta).swc
+:	:	Chuck Rock (E) [!].swc
+:	:	Chuck Rock (U).swc
+:	:	Circuit USA (J).swc
+:	:	Civilization (Beta).mgd
+:	:	Civilization (J).ufo
+:	:	Civilization (U).mgd
+:	:	Classic Road (J).fig
+:	:	Classic Road 2 (J).mgd
+:	:	Clay Fighter (E).swc
+:	:	Clay Fighter (U).swc
+:	:	Clay Fighter 2 (E).swc
+:	:	Clay Fighter 2 (U).fig
+:	:	Clay Fighter TE (U).fig
+:	:	Claymates (E) [!].swc
+:	:	Claymates (U).swc
+:	:	Claymates Demo (U).mgd
+:	:	Cliffhanger (E).mgd
+:	:	Cliffhanger (U).fig
+:	:	Clock Tower (J).swc
+:	:	Clock Works (J).fig
+:	:	Clue (U) [!].fig
+:	:	Cobra Girls Vol. 1 (PD).fig
+:	:	College Slam Basketball (U) [!].swc
+:	:	Columns (J) (NP).swc
+:	:	Columns (PD).swc
+:	:	Combatribes (J).mgd
+:	:	Combatribes (U).gd3
+:	:	Commander (PD).fig
+:	:	Commodore 64 Collection (E) (PD).mgd
+:	:	Commodore 64 Collection (J) (PD).fig
+:	:	Computer Noryoku Kaiseki Ultra Baken (J).swc
+:	:	Congo's Caper (E).swc
+:	:	Congo's Caper (U).fig
+:	:	Console Cat (PD).swc
+:	:	Console Connections (PD).fig
+:	:	Console Elite Demo (PD).fig
+:	:	Console Horizons - PlayXTR Demo (PD).swc
+:	:	Console Horizons Demo (PD).swc
+:	:	Console Horizons Demo 2 (PD).swc
+:	:	Console World - Feb. '94 Charts (PD).swc
+:	:	Console World - Mar. '94 Charts (PD).swc
+:	:	Contra III - The Alien Wars (U) [!].mgd
+:	:	Contra Spirits (J).swc
+:	:	Controller Test Cartridge (J) [!].mgd
+:	:	Cool Spot (Beta).swc
+:	:	Cool Spot (E) [!].swc
+:	:	Cool Spot (J).gd3
+:	:	Cool Spot (U).swc
+:	:	Cool World (U).swc
+:	:	Copier - Backup Ad. (PD).fig
+:	:	Copper Demo (PD).fig
+:	:	Coron Land (J).swc
+:	:	Cosmo Gang Puzzle (J).mgd
+:	:	Cosmo Gang Video (J).mgd
+:	:	Cosmo Police Galivan 2 (J).fig
+:	:	Crayon Shin Chan - Arashi wo yobu Enji (J).mgd
+:	:	Crayon Shin Chan - Nagagutsu Dobon (J) (ST).mgd
+:	:	Crayon Shin Chan 2 - Dai Maou no Gyakusyu (J).swc
+:	:	Cream (PD).fig
+:	:	Crystal Anthraxus Demo (PD).fig
+:	:	Crystal Beans From Dungeon Explorer (J).smc
+:	:	Cu-On-Pa (J).fig
+:	:	Cutthroat Island (E).swc
+:	:	Cutthroat Island (U).fig
+:	:	Cyber Knight (J).swc
+:	:	Cyber Knight 2 - Tikyu Teikoku no Yabou (J).mgd
+:	:	Cyber Spin (U).swc
+:	:	Cybernator (E) [!].swc
+:	:	Cybernator (U).swc
+:	:	Cybernator - With Sound Test (U).swc
+:	:	Cyborg 009 (Beta).mgd
+:	:	Cyborg 009 (J).swc
+:	:	Cynix 1st Demo (PD).fig
+:	:	Cynix 2nd Demo (PD).fig
+:	:	console horizon 1996 (pd).smc
+:	D
+:	:	D-Force (U).swc
+:	:	Daffy Duck - The Marvin Missions (E).swc
+:	:	Daffy Duck - The Marvin Missions (U).swc
+:	:	Dai 3 Ji Super Robot Taisen (J).mgd
+:	:	Dai 4 Ji Super Robot Taisen (Korean Hack).fig
+:	:	Dai 4 Ji Super Robot Taisen (V1.0) (J).swc
+:	:	Dai 4 Ji Super Robot Taisen (V1.1) (J).mgd
+:	:	Dai Kaiju Monogatari (V1.0) (J).mgd
+:	:	Dai Kaiju Monogatari (V1.1) (J) (NP).mgd
+:	:	Dai Kaiju Monogatari 2 (J) [!].swc
+:	:	Dai Koukai Jidai 2 (J).mgd
+:	:	Dai Senryaku Expert (J).ufo
+:	:	Daibakusyo Jinsei Gekijyou (J).mgd
+:	:	Daibakusyo Jinsei Gekijyou - Dokidoki Seisyun Hen (J).smc
+:	:	Daibakusyo Jinsei Gekijyou - Oedo Nikki (J).mgd
+:	:	Daibakusyo Jinsei Gekijyou - Zukkoke Salary Man (J).swc
+:	:	Daisenryaku Expart WW2 (J).mgd
+:	:	Danger Zone (PD).fig
+:	:	Danger Zone 2 (PD).fig
+:	:	Darius Force (J).swc
+:	:	Darius Twin (E).gd3
+:	:	Darius Twin (J).swc
+:	:	Darius Twin (U).gd3
+:	:	Dark Half (J).swc
+:	:	Dark Kingdom (J).swc
+:	:	Dark Law - Meaning of Death (J).smc
+:	:	Darkness Dual Intro (PD).fig
+:	:	Date Kimiko no Virtual Tennis (J).mgd
+:	:	David Crane's Amazing Tennis (J).mgd
+:	:	David Crane's Amazing Tennis (U) [!].swc
+:	:	Daze Before Christmas (E).swc
+:	:	Dead Dance (J).mgd
+:	:	Deae Tonosama Appare Ichiban (J).mgd
+:	:	Dear Boys (J).fig
+:	:	Death Brade (J).fig
+:	:	Death and Return of Superman, The (E).fig
+:	:	Death and Return of Superman, The (U).mgd
+:	:	Dekitate High School (J).swc
+:	:	Demolition Man (E).smc
+:	:	Demolition Man (U).swc
+:	:	Demon's Blazon (J).ufo
+:	:	Demon's Crest (E).fig
+:	:	Demon's Crest (U).fig
+:	:	Dennis the Menace (Beta) (Title Screen Different).mgd
+:	:	Dennis the Menace (U).mgd
+:	:	Dennougai no Arukikata (PD).fig
+:	:	Densetsu no Ougabatoru (J) (NP).swc
+:	:	Densetsu no Ougabatoru (J).swc
+:	:	Der Langrisser (V1.0) (J).mgd
+:	:	Der Langrisser (V1.1) (J).gd3
+:	:	Derby Jockey 2 (J).mgd
+:	:	Derby Jockey Kisyuo eno Michi (V1.0) (J).fig
+:	:	Derby Jockey Kisyuo eno Michi (V1.1) (J) (NP) [!].mgd
+:	:	Derby Stallion 2 (J).mgd
+:	:	Derby Stallion 3 (V1.0) (J).swc
+:	:	Derby Stallion 3 (V1.2) (J) [!].mgd
+:	:	Derby Stallion 96 (J).mgd
+:	:	Derby Stallion 98 (J) (NP).fig
+:	:	Desert Fighter (E)(Sat Nov 09 '93).swc
+:	:	Desert Fighter (E)(Tue Dec 07 '93).swc
+:	:	Desert Fighter (J).swc
+:	:	Desert Strike - Return to the Gulf (E).swc
+:	:	Desert Strike - Return to the Gulf (J).fig
+:	:	Desert Strike - Return to the Gulf (U).fig
+:	:	Desire BBS Demo (PD).fig
+:	:	Destero Porno (PD).fig
+:	:	Destructive, Super Scope (J).gd3
+:	:	Detonation Trainers 5-in-1 Pack (PD).mgd
+:	:	Devil's Course 3D (J) [h1].fig
+:	:	Devil's Course 3D (J).mgd
+:	:	Devil's Course Sample (J) [!].mgd
+:	:	Dharma Dojyou (J).fig
+:	:	Diable De Laplace (J).swc
+:	:	Diddy's Kong Quest (E).swc
+:	:	Diddy's Kong Quest (G).swc
+:	:	Diddy's Kong Quest (V1.0) (U).swc
+:	:	Diddy's Kong Quest (V1.1) (U).swc
+:	:	Dig and Spike Vollyball (U).swc
+:	:	Digital Devil Story (V1.0) (J).fig
+:	:	Digital Devil Story (V1.1) (J).swc
+:	:	Digital Devil Story 1 & 2 (J).mgd
+:	:	Digital Devil Story 2 (J).fig
+:	:	Digital Devil Story-IF (J).swc
+:	:	Dikuritsu Sensou (J).swc
+:	:	Dimension Force (J).mgd
+:	:	Dino Dini's Soccer (E).fig
+:	:	Dinosaurs - Dino City (E) [!].smc
+:	:	Dinosaurs - Dino City (J).fig
+:	:	Dinosaurs - Dino City (U).ufo
+:	:	Dirt Racer (E).swc
+:	:	Dirt Trax FX (E).swc
+:	:	Dirt Trax FX (U) [!].swc
+:	:	Dirty Challenger - Muscle Man (J).swc
+:	:	Diver (PD).swc
+:	:	Diver's Selection Vol.1 (PD).swc
+:	:	Diver's Selection Vol.2 (PD).swc
+:	:	Dixie Kong's Double Trouble (E) [!].swc
+:	:	Dixie Kong's Double Trouble (U) [!].swc
+:	:	Dokapon 3.2.1. Arashi wo Yobu Yujyo (J).mgd
+:	:	Dokapon Gaiden - Honoo no Audition (J).mgd
+:	:	Dolucky's A League Soccer (J).mgd
+:	:	Dolucky's Kusa Yakyu (J).mgd
+:	:	Dolucky's Puzzle Tour (J).fig
+:	:	Donald Duck - Maui Mallard in Cold Shadow (E) [!].mgd
+:	:	Donald Duck - Maui Mallard in Cold Shadow (J).fig
+:	:	Donald Duck - Maui Mallard in Cold Shadow (U).fig
+:	:	Donald Duck Mahou No Boushi (J).swc
+:	:	Donkey Kong Country (Competition) (U).swc
+:	:	Donkey Kong Country (V1.0) (E) [!].gd3
+:	:	Donkey Kong Country (V1.0) (U) [!].swc
+:	:	Donkey Kong Country (V1.1) (E).swc
+:	:	Donkey Kong Country (V1.1) (U).swc
+:	:	Donkey_Kong_3_-_Dixie_Kong_s_Double_Trouble_(US).smc
+:	:	Doom (E).mgd
+:	:	Doom (J).fig
+:	:	Doom (U).swc
+:	:	Doom Troopers (U).fig
+:	:	Doomsday Warrior (U).swc
+:	:	Doraemon - Nobita to Yosei no Kuni (J).mgd
+:	:	Doraemon 2 - Nobita no Toys Land Daibouken (J).mgd
+:	:	Doraemon 3 - Nobita to Toki no Hogyoku (J).swc
+:	:	Doraemon 4 - Nobita to Tuki no Okoku (J).mgd
+:	:	Doremi Fantasy Milon no DokiDoki Daiboken (J).mgd
+:	:	Dossun! Ganseki Battle (J).fig
+:	:	Double Dragon V - The Shadow Falls (E).swc
+:	:	Double Dragon V - The Shadow Falls (U).swc
+:	:	Double Dragon, Return of (J).mgd
+:	:	Doukyusei 2 (J) (NP).mgd
+:	:	Dousei (PD).fig
+:	:	Down Town Nekketsu Baseball Monogatari (J).mgd
+:	:	Down the World (J).mgd
+:	:	Dr. Mario (J) (NP).fig
+:	:	Dragon - The Bruce Lee Story (E) [!].swc
+:	:	Dragon - The Bruce Lee Story (E) [a1].swc
+:	:	Dragon - The Bruce Lee Story (U).fig
+:	:	Dragon Ball Z - Hyper Dimension (F).mgd
+:	:	Dragon Ball Z - Hyper Dimension (J) [!].mgd
+:	:	Dragon Ball Z - Super Butoden (F).swc
+:	:	Dragon Ball Z - Super Butoden (J).swc
+:	:	Dragon Ball Z - Super Butoden 2 (V1.0) (J).swc
+:	:	Dragon Ball Z - Super Butoden 2 (V1.1) (J).smc
+:	:	Dragon Ball Z - Super Butoden 2 La Legende Saien (F).swc
+:	:	Dragon Ball Z - Super Butoden 3 (J).smc
+:	:	Dragon Ball Z - Super Butoden 3 (K).fig
+:	:	Dragon Ball Z - Super Gokuu Den Kakusei Hen (J).swc
+:	:	Dragon Ball Z - Super Gokuu Den Totsugeki Hen (J).fig
+:	:	Dragon Ball Z - Super Saiya Densetsu (V1.0) (J).fig
+:	:	Dragon Ball Z - Super Saiya Densetsu (V1.1) (J).fig
+:	:	Dragon Ball Z - Ultime Menace (F).swc
+:	:	Dragon Knight 4 (J).swc
+:	:	Dragon Quest 1 & 2 (J).fig
+:	:	Dragon Quest 3 (J).swc
+:	:	Dragon Quest 5 (J).fig
+:	:	Dragon Quest 6 (J) [T-Eng0.4_DeJap].fig
+:	:	Dragon Quest 6 (J).fig
+:	:	Dragon Slayer (V1.1) (J) (NP).swc
+:	:	Dragon Slayer (V1.1) (J).swc
+:	:	Dragon Slayer - Legend Of Heroes 2 (J).swc
+:	:	Dragon View (U).swc
+:	:	Dragon's Earth (J).mgd
+:	:	Dragon's Lair (Beta).swc
+:	:	Dragon's Lair (E).swc
+:	:	Dragon's Lair (U).swc
+:	:	Dragon's Magic (J).fig
+:	:	Drakkhen (E) [!].swc
+:	:	Drakkhen (G).smc
+:	:	Drakkhen (J).mgd
+:	:	Drakkhen (U).swc
+:	:	Drakkhen_(G).smc
+:	:	Dream Basketball - Dunk and Hoop (J).fig
+:	:	Dream Maze Kigurumi Daibouken (J).swc
+:	:	Dream TV (Beta-A).mgd
+:	:	Dream TV (Beta-B).mgd
+:	:	Dream TV (U).swc
+:	:	Drift King Shutokou Battle 2 (J).smc
+:	:	Dual Orb (J).mgd
+:	:	Dual Orb 2 (J).smc
+:	:	Dun Quest - Majin Fuuin no Densetsu (J).fig
+:	:	Dungeon Master (E).swc
+:	:	Dungeon Master (U).swc
+:	:	Dungeon Master (V1.0) (J).fig
+:	:	Dungeon Master (V1.1) (J).fig
+:	:	Dwarf (PD).fig
+:	:	Dynamic Stadium (J).mgd
+:	:	Dynamite the Las Vegas (J).smc
+:	E
+:	:	E.V.O. Search for Eden (U).swc
+:	:	E3 Slides (PD).fig
+:	:	EA College Football '97 (U).fig
+:	:	ESPN Baseball Tonight (E).swc
+:	:	ESPN Baseball Tonight (U)(10548).fig
+:	:	ESPN Baseball Tonight (U)(29611).swc
+:	:	ESPN Hockey Night (U).swc
+:	:	ESPN Speed World (U)(22556).swc
+:	:	ESPN Speed World (U)(33159)(Copyright Screen Different).swc
+:	:	ESPN Sunday Night NFL (U).swc
+:	:	Eagle Soft (PD).fig
+:	:	Earth Light (J).swc
+:	:	Earth Light 2 - Luna Strike (J).swc
+:	:	Earthbound (U).swc
+:	:	Earthworm Jim (E).fig
+:	:	Earthworm Jim (J).swc
+:	:	Earthworm Jim (U).fig
+:	:	Earthworm Jim - Gamesmaster's Special Ed. (U)(NG-Dump Known).gd3
+:	:	Earthworm Jim 2 (Beta).swc
+:	:	Earthworm Jim 2 (E).swc
+:	:	Earthworm Jim 2 (U) [!].fig
+:	:	Edo No Kiba (J).swc
+:	:	Eek! the Cat (E).swc
+:	:	Eek! the Cat (U).mgd
+:	:	Eien no Filena (J).swc
+:	:	Elfaria (J).swc
+:	:	Elfaria 2 (J).smc
+:	:	Elite Soccer (U).fig
+:	:	Ellen Chan Photo Session (PD).fig
+:	:	Ellen Chan Photo Session 2 (PD).fig
+:	:	Ellen Chan Photo Session 3 (PD).fig
+:	:	Ellen Chan Photo Session 4 (PD).mgd
+:	:	Elnard (J).swc
+:	:	Emerald Dragon (J).swc
+:	:	Emit-Volume 1 (J).swc
+:	:	Emit-Volume 2 (J).swc
+:	:	Emit-Volume 3 (J).swc
+:	:	Emmitt Smith Football (U).swc
+:	:	Emulation Camp Demo #1 - RSRSNES Advert (PD).fig
+:	:	Emulation Camp Demo #2 - SNIDE Advert (PD).swc
+:	:	Energy Breaker (J).mgd
+:	:	Equinox (Beta).mgd
+:	:	Equinox (E) [!].gd3
+:	:	Equinox (U).swc
+:	:	Eric Cantona Football (E).swc
+:	:	Esparks - Ijigen kara no Houmonsya (J).swc
+:	:	Estpolis Denki (J).swc
+:	:	Estpolis Denki 2 (J).swc
+:	:	Euro Football Champ (E).swc
+:	:	Europe Sensen (J).swc
+:	:	Evangelion Disk 00 (PD).mgd
+:	:	Evil (PD).fig
+:	:	Exertainment Mountain Bike Rally (U).swc
+:	:	Exhaust Heat (E).fig
+:	:	Exhaust Heat (J).swc
+:	:	Exhaust Heat 2 - F1 Driver heno Michi (J).gd3
+:	:	Extra Innings (U).swc
+:	:	Eye of the Beholder (J).mgd
+:	:	Eye of the Beholder (U).swc
+:	:	elfaria2.smc
+:	:	espn_speedworld.smc
+:	F
+:	:	F-1 Grand Prix (J).mgd
+:	:	F-1 Grand Prix 2 (J).swc
+:	:	F-1 Grand Prix Part 3 (J).swc
+:	:	F-1 Super Driving (E).swc
+:	:	F-1 World Championship Edition (E).smc
+:	:	F-Zero (E).swc
+:	:	F-Zero (J).swc
+:	:	F-Zero (U).swc
+:	:	F1 Pole Position (E).swc
+:	:	F1 Pole Position (U).mgd
+:	:	F1 Pole Position 2 (E).swc
+:	:	F1 Roc - Race of Champions (U).swc
+:	:	F1 Roc 2 - Race of Champions (U).swc
+:	:	FIFA 96 (E).gd3
+:	:	FIFA 96 (U).mgd
+:	:	FIFA 97 (E).swc
+:	:	FIFA 97 - Gold Edition (U).swc
+:	:	FIFA 98 (U).swc
+:	:	FIFA International Soccer (E).fig
+:	:	FIFA International Soccer (J).ufo
+:	:	FIFA International Soccer (U).fig
+:	:	FRONTM~2.SRM
+:	:	Faceball 2000 (U).swc
+:	:	Famicon Tantei Club 2 - Ushiro ni Tatsu Syojyo (V1.0) (J) (NP).swc
+:	:	Famicon Tantei Club 2 - Ushiro ni Tatsu Syojyo (V1.1) (J) (NP) [!].mgd
+:	:	Family Dog (E).swc
+:	:	Family Dog (U).swc
+:	:	Family Feud (U).swc
+:	:	Far East of Eden Zero (J).mgd
+:	:	Far East of Eden Zero - Shounen Jump no Shou (J) [!].mgd
+:	:	Farland Story (J).swc
+:	:	Farland Story 2 (J).smc
+:	:	Fatal Fury (E).gd3
+:	:	Fatal Fury (U).swc
+:	:	Fatal Fury 2 (U).fig
+:	:	Fatal Fury Special (E)(61959).swc
+:	:	Fatal Fury Special (E)(62580).swc
+:	:	Fatal Fury Special (U).fig
+:	:	Feda - Emblem of Justice (Beta).swc
+:	:	Feda - Emblem of Justice (J).swc
+:	:	Fever Pitch Soccer (E).fig
+:	:	Few 256 Color Pics, A (PD).fig
+:	:	Fighter's History (Beta).swc
+:	:	Fighter's History (J).mgd
+:	:	Fighter's History (U).swc
+:	:	Fighter's History 2 - Mizoguchi Kiki Ippatsu (J).smc
+:	:	Fighting Baseball (J).fig
+:	:	Final Fantasy - Mystic Quest (J).fig
+:	:	Final Fantasy - Mystic Quest (V1.0) (U) [!].swc
+:	:	Final Fantasy - Mystic Quest (V1.1) (U).swc
+:	:	Final Fantasy II (V1.0) (U).swc
+:	:	Final Fantasy II (V1.1) (U).swc
+:	:	Final Fantasy III (V1.0) (U) [!].swc
+:	:	Final Fantasy III (V1.1) (U) [!].swc
+:	:	Final Fantasy IV (J).fig
+:	:	Final Fantasy IV - Easy (J).swc
+:	:	Final Fantasy V (J).swc
+:	:	Final Fantasy VI (J).swc
+:	:	Final Fight (E).fig
+:	:	Final Fight (J).swc
+:	:	Final Fight (U).swc
+:	:	Final Fight 2 (E).gd3
+:	:	Final Fight 2 (J).fig
+:	:	Final Fight 2 (U).smc
+:	:	Final Fight 3 (Beta).mgd
+:	:	Final Fight 3 (E).mgd
+:	:	Final Fight 3 (U).swc
+:	:	Final Fight Guy (J).mgd
+:	:	Final Fight Guy (U).swc
+:	:	Final Fight Tough (J).fig
+:	:	Final Insect (PD).fig
+:	:	Final Knockout (J).mgd
+:	:	Final Set Tennis (J).fig
+:	:	Final Stretch (J).swc
+:	:	Fire Emblem - Monsyo no Nazo (V1.0) (J).fig
+:	:	Fire Emblem - Monsyo no Nazo (V1.1) (J).fig
+:	:	Fire Emblem 4 - Seisen no Keifu (J).swc
+:	:	Fire Emblem 5 Trachia 776 (J) (NP).swc
+:	:	Fire Emblem 5 Trachia 776 (Rom Version) (J).fig
+:	:	Fire Fighting (J).fig
+:	:	Fire Pro Jyoshi All Star Dream Slam (J).swc
+:	:	Fire Striker (Beta).swc
+:	:	Fire Striker (U).swc
+:	:	Firemen, The (E).swc
+:	:	Firemen, The (J).mgd
+:	:	Firepower 2000 (U).swc
+:	:	First Drop (PD).fig
+:	:	First Queen - Ornic Senki (J).fig
+:	:	First Samurai (E) [!].smc
+:	:	First Samurai (E) [a1].mgd
+:	:	First Samurai (J).mgd
+:	:	First Samurai (U).swc
+:	:	Fishing Koshien (J).fig
+:	:	Flashback (E) (M2).swc
+:	:	Flashback (E) (M3) [!].gd3
+:	:	Flashback (J).smc
+:	:	Flashback (U).swc
+:	:	Flashback_(J).smc
+:	:	Flex Scroller (PD).fig
+:	:	Flight 402 (PD).fig
+:	:	Flintstones, The (Beta).swc
+:	:	Flintstones, The (E).fig
+:	:	Flintstones, The (U).mgd
+:	:	Flintstones, The - The Treasure of Sierra Madrock (E).smc
+:	:	Flintstones, The - The Treasure of Sierra Madrock (J).mgd
+:	:	Flintstones, The - The Treasure of Sierra Madrock (U).swc
+:	:	Flying Hero - Bugyuru no Daibouken (J).mgd
+:	:	Flying Saucer Intro (PD).swc
+:	:	Football Fury (U).mgd
+:	:	Foreman For Real (E).mgd
+:	:	Foreman For Real (J).mgd
+:	:	Foreman For Real (U).fig
+:	:	Forest of Beginning - Haji Mari (J) (NP).swc
+:	:	Fortune Quest - Dice wo Korogase (J).fig
+:	:	Frank Thomas' Big Hurt Baseball (E).swc
+:	:	Frank Thomas' Big Hurt Baseball (J).gd3
+:	:	Frank Thomas' Big Hurt Baseball (U).swc
+:	:	Frankenstein (Beta).mgd
+:	:	Frankenstein (U).fig
+:	:	Frantic Flea (Beta).mgd
+:	:	Frantic Flea (E).mgd
+:	:	Frantic Flea (U) [!].fig
+:	:	Frogger (U).swc
+:	:	Frognes (PD).fig
+:	:	Front Mission (V1.0) (J).swc
+:	:	Front Mission (V1.1) (J).mgd
+:	:	Front Mission 2 - Gun Hazard (J).fig
+:	:	Full Power (J).fig
+:	:	Full Throttle Racing (Beta).swc
+:	:	Full Throttle Racing (E).swc
+:	:	Full Throttle Racing (U).swc
+:	:	Fun 'N Games (E).swc
+:	:	Fun 'N Games (U).swc
+:	:	Funaki Masakatsu no Hybrd Wrestler - Tougi Densyo (J).swc
+:	:	Fune Taro (J).mgd
+:	:	Fushigi no Dungeon 2 - Furai no Shiren (J).swc
+:	:	Futebol Brasileiro '96 (Hack).fig
+:	:	Fuzzy Shooting (PD).fig
+:	G
+:	:	G.O.D. - Mezameyo to Yobu Koe ha Kikoe (J).ufo
+:	:	GP-1 (E).swc
+:	:	GP-1 (J).mgd
+:	:	GP-1 (U).fig
+:	:	GP-1 Part 2 (U).fig
+:	:	GP-1 Rapid Stream (J).mgd
+:	:	GT Racing (J).mgd
+:	:	Gaia Gensouki (J).swc
+:	:	Gaia Saver (J).mgd
+:	:	Gakkou de Atta Kowai Hanashi (J).mgd
+:	:	Galaxy Robo (J).fig
+:	:	Galaxy Wars (J).fig
+:	:	Gamars (Copier BIOS).mgd
+:	:	Gambler Jiko Cyusinha (J).mgd
+:	:	Gambler Jiko Cyusinha 2 - Dorapon Quest (J).mgd
+:	:	Gambling Hourouki (J).swc
+:	:	Game Doctor SF v6.2 DOS Rom (BIOS).mgd
+:	:	Game Doctor SF v6.21 DOS Rom (BIOS).mgd
+:	:	Game Genie (BIOS) [a1][!].swc
+:	:	Game Genie (BIOS) [a1][o1].swc
+:	:	Game Genie (BIOS).mgd
+:	:	Game King - Takahashi Meijin Demo (PD).fig
+:	:	Game no Tatsujin (J).fig
+:	:	Game no Tesujin - The Shanhai (J).mgd
+:	:	Gamera Gyaosu Gekimetsu Sakusen (J).swc
+:	:	Gan Gan Ganchan (J).gd3
+:	:	Ganbare Daiku no Gensan (J).swc
+:	:	Ganbare Goemon - Yukihime Kyusyutu Emaki (V1.0) (J).fig
+:	:	Ganbare Goemon - Yukihime Kyusyutu Emaki (V1.2) (J).fig
+:	:	Ganbare Goemon 2 (J).mgd
+:	:	Ganbare Goemon 3 (J).swc
+:	:	Ganbare Goemon 4 - KiraKira Dotyu (J).swc
+:	:	Ganso Pachinko Ou (J).fig
+:	:	Ganso Pachisuro Nihonichi (J).mgd
+:	:	Garou Densetsu (J).swc
+:	:	Garou Densetsu 2 (V1.0) (J).swc
+:	:	Garou Densetsu 2 (V1.1) (J).mgd
+:	:	Garou Densetsu Special (J).mgd
+:	:	Gdleen (V1.0) (J).swc
+:	:	Gdleen (V1.1) (J).swc
+:	:	Gegege no Kitaro (J).mgd
+:	:	Gegege no Kitarou - Youkai Donjara (J) (ST).mgd
+:	:	Gekisou Sentai Car Rangers (J) (ST).mgd
+:	:	Gekitotsu Dangan Jidousya Kessen Battle Mobile (J).swc
+:	:	Gekitou Burning Wrestling (J).mgd
+:	:	Gemfire (U).mgd
+:	:	Genghis Khan 2 - Clan of the Grey Wolf (U).fig
+:	:	Genjuo Ryodan (J) (NP).fig
+:	:	Genocide 2 (Beta).fig
+:	:	Genocide 2 (J).mgd
+:	:	George Foreman K.O. Boxing (E).gd3
+:	:	George Foreman K.O. Boxing (U) (Doritos Promo).mgd
+:	:	George Foreman K.O. Boxing (V1.0) (U).ufo
+:	:	George Foreman K.O. Boxing (V1.1) (U).fig
+:	:	Getsumen No Anubis (J).swc
+:	:	Ghost Chaser Densei (J).fig
+:	:	Ghost Sweeper Mikami Gokuraku Daisakusen (J).swc
+:	:	Ghoul Patrol (E).swc
+:	:	Ghoul Patrol (J).fig
+:	:	Ghoul Patrol (U).fig
+:	:	Gineiden (J).mgd
+:	:	Ginga Eiyu Densetsu (J).fig
+:	:	Ginga Sengoku Gunyuuden Rai (J).mgd
+:	:	Go Go Ackman (J).mgd
+:	:	Go Go Ackman 2 (J).fig
+:	:	Go Go Ackman 3 (J).mgd
+:	:	Go! Go! Dodge League (V1.0) (J).mgd
+:	:	Go! Go! Dodge League (V1.1) (J).mgd
+:	:	Gods (E).gd3
+:	:	Gods (U).swc
+:	:	Godzilla - Kajuu Dai Kessen (J).fig
+:	:	Gokinjo Bouken Tai (J).mgd
+:	:	Gokujyou Parodius (Beta).smc
+:	:	Gokujyou Parodius (J).mgd
+:	:	Gon (J).fig
+:	:	Goodbye, Anthrox (PD).fig
+:	:	Goof Troop (E).fig
+:	:	Goof Troop (F).gd3
+:	:	Goof Troop (G).swc
+:	:	Goof Troop (J).fig
+:	:	Goof Troop (U).fig
+:	:	Gouketuji Ichizoko (J).smc
+:	:	Gourmet Sentai Bara Yarou (J).mgd
+:	:	Gradius III (J).swc
+:	:	Gradius III (U) [!].swc
+:	:	Grandhistoria (J).swc
+:	:	Graphic Show 3 - Slide Show 3 (PD).mgd
+:	:	Graphic Show 4 (PD) [a1].mgd
+:	:	Graphic Show 4 (PD).mgd
+:	:	Graphic Show 5 (PD).mgd
+:	:	Graphic Show 6 (PD).mgd
+:	:	Graphic Show H.K. (PD).mgd
+:	:	Graphic Show Version 3 (PD).mgd
+:	:	Great Battle 3, The (J).mgd
+:	:	Great Battle 4, The (J).swc
+:	:	Great Battle 4, The - Sample Cart (J)(NG-Dump Known).fig
+:	:	Great Battle 5, The (J).swc
+:	:	Great Battle Extra 2, The (J).swc
+:	:	Great Waldo Search (U).fig
+:	:	Gun Force (E).fig
+:	:	Gun Force (J).ufo
+:	:	Gun Force (U).swc
+:	:	Gunple (J).swc
+:	H
+:	:	H-DMA Demo (PD).fig
+:	:	H-DMA Fish Demo (PD).fig
+:	:	Habu Meijin no Omoshiro Syouhi (J) [!].mgd
+:	:	Hagane (Beta).fig
+:	:	Hagane (E).swc
+:	:	Hagane (J).mgd
+:	:	Hagane (U).fig
+:	:	Haisei Mahjong Ryoga (J).fig
+:	:	Hakunetsu Professional Baseball Ganba League '93 (Beta).fig
+:	:	Hakunetsu Professional Baseball Ganba League '93 (J).swc
+:	:	Hakunetsu Professional Baseball Ganba League (J).mgd
+:	:	Hakunetsu Professional Baseball Ganba League 3 (J).mgd
+:	:	Hal's Hole in One Golf (E).fig
+:	:	Hal's Hole in One Golf (U).swc
+:	:	Hammerlock Wrestling (U).fig
+:	:	Hana no Keiji - Kumo no Kanata ni (J).ufo
+:	:	Hanafuda (J).mgd
+:	:	Hanafuda Ou (J).fig
+:	:	Hanjyuku Hero - Aah Sekai yo Hanjuku Nare (J).mgd
+:	:	Hanna Barbera's Turbo Toons (E).swc
+:	:	Hansei Zaru Jiro kun no Daibouken (J).mgd
+:	:	Haou Taikei Ryu Knight (J).mgd
+:	:	Happy New Year 94 (PD).fig
+:	:	Happy New Year 96 (PD).mgd
+:	:	Harapeko Bakka (J).mgd
+:	:	Hardball 3 (U).fig
+:	:	Hardcore Manga Slide Show (PD).fig
+:	:	Harley's Humongous Adventure (Beta).swc
+:	:	Harley's Humongous Adventure (E).gd3
+:	:	Harley's Humongous Adventure (U).smc
+:	:	Harukanaru Augusta (J).swc
+:	:	Harukanaru Augusta 2 - Masters (J).swc
+:	:	Harukanaru Augusta 3 - Masters New (J).mgd
+:	:	Harvest Moon (E) [!].gd3
+:	:	Harvest Moon (G).swc
+:	:	Harvest Moon (U).smc
+:	:	Hashire Hebereke (J).mgd
+:	:	Hat Trick Hero (J).mgd
+:	:	Hat Trick Hero 2 (J).mgd
+:	:	Hatayama Hachi no Paro Yakyu News Jitsmeiban (J).fig
+:	:	Hayazashi 2 - Dan Morita Shogi (J).ufo
+:	:	Hayazashi Nidan Morita Shogi 2 (J).smc
+:	:	Head-On Soccer (Beta).mgd
+:	:	Head-On Soccer (U).swc
+:	:	Hebereke no Oishii Puzzle ha Irimasenka (J).ufo
+:	:	Hebereke no Popun (J).swc
+:	:	Hebereke's Popoitto (E).swc
+:	:	Hebereke's Popoon (Beta).mgd
+:	:	Heian Huuunden (J).smc
+:	:	Heisei Gunjin Shougi (J).fig
+:	:	Heisei Inu Monogatari Bow Pop'n Smash (J).mgd
+:	:	Heisei Shin Oni Ga Shima Kouhen (J).mgd
+:	:	Heisei Shin Oni Ga Shima Zenpen (J).mgd
+:	:	Heiwa Pachinko World (J).fig
+:	:	Heiwa Pachinko World 2 (J).smc
+:	:	Heiwa Pachinko World 3 (J).swc
+:	:	Heiwa Parlor! Mini 8 Pachinko Jikki Simulation (J).smc
+:	:	Hello! Pac-Man (J).mgd
+:	:	Hentai Columns (PD).mgd
+:	:	Herakles no Eikou 3 - Kamigami no Tinmoku (J).swc
+:	:	Herakles no Eikou 4 - Kamigami karano Okurimono (J).swc
+:	:	Hero Senki - Project Olympus (J).mgd
+:	:	Higashio Osamu Kansyu Pro Yakyu Stadium (J).fig
+:	:	Hiouden - Maou Tachi tono Chikai (J).ufo
+:	:	Hiryu no Ken S - Golden Fighter (J).fig
+:	:	Hiryu no Ken S - Golden Fighter Hyper Version (J).mgd
+:	:	Hissatsu Pachinko Collection (J).fig
+:	:	Hissatsu Pachinko Collection 2 (J).swc
+:	:	Hissatsu Pachinko Collection 3 (J).gd3
+:	:	Hissatsu Pachinko Collection 4 (J).swc
+:	:	Hisyou 777 Fighter - Pachi-Slot Eiyu Densetsu (J).swc
+:	:	Hisyou 777 Fighter 2 - Pachi-Slot Eiyu Maruhi Jyoho (J).mgd
+:	:	Hisyou 777 Fighter 3 - Kokuryu Ou no Fukkatsu (J).fig
+:	:	Hisyou Pachi Slot Fun (J).mgd
+:	:	Hit the Ice (U).swc
+:	:	Hokuto no Ken 5 (J).mgd
+:	:	Hokuto no Ken 6 (J).swc
+:	:	Hokuto no Ken 7 (J).fig
+:	:	Holy Striker (J).mgd
+:	:	Holy Umbrella - Dondera no Mubo (J).fig
+:	:	Home Alone (E) [!].swc
+:	:	Home Alone (J).swc
+:	:	Home Alone (U).mgd
+:	:	Home Alone 2 (E) [!].swc
+:	:	Home Alone 2 (U).swc
+:	:	Home Improvement (U).mgd
+:	:	Hong Kong 97 (PD).swc
+:	:	Honkaku Mahjong Tetsu Man (J).fig
+:	:	Honkaku Mahjong Tetsu Man 2 (J).mgd
+:	:	Honkaku Syogi Fuunji Ryuou (J).mgd
+:	:	Honkakuha Igo Gosei (J)(FX Chip).mgd
+:	:	Honkakuha Igo Gosei (J).mgd
+:	:	Honke Sankyo Fever - Jikkyo Simulation (J).fig
+:	:	Honke Sankyo Fever - Jikkyo Simulation 2 (J).fig
+:	:	Honke Sankyo Fever - Jikkyo Simulation 3 (J).swc
+:	:	Hono no Tokyuji Dodge Danpei (J).fig
+:	:	Hook (E).gd3
+:	:	Hook (J).swc
+:	:	Hook (U)(2648).swc
+:	:	Hook (U)(29252).fig
+:	:	Horai Gakuen no Bouken! - Tenkousei Scramble (J).smc
+:	:	Hoshi no Kirby 3 (J).mgd
+:	:	Hoshi no Kirby Super Deluxe (J).mgd
+:	:	Hot Teens Slideshow (PD).fig
+:	:	Houkago in Beppin Jyogakuen (J).swc
+:	:	Human Baseball (J).mgd
+:	:	Human Grand Prix 1 (J).mgd
+:	:	Human Grand Prix 2 (J).swc
+:	:	Human Grand Prix 3 - F-1 Triple Battle (J).mgd
+:	:	Human Grand Prix 4 - F-1 Dream Battle (J).swc
+:	:	Humans (E).swc
+:	:	Hungry Dinosaurs (E).swc
+:	:	Hunt for Red October, The (E).mgd
+:	:	Hunt for Red October, The (J).swc
+:	:	Hunt for Red October, The (U).swc
+:	:	Hunters Demo, The (PD).fig
+:	:	Hurricanes, The (E) (Beta).swc
+:	:	Hurricanes, The (E) [!].swc
+:	:	Hurricanes, The (U).swc
+:	:	Hyper Iria (J).mgd
+:	:	Hyper V-Ball (E) [T-French1.0].mgd
+:	:	Hyper V-Ball (E) [T-French1.1].mgd
+:	:	Hyper V-Ball (E).mgd
+:	:	Hyper V-Ball (U).fig
+:	:	Hyper Zone (E) [!].swc
+:	:	Hyper Zone (J).fig
+:	:	Hyper Zone (U).swc
+:	:	Hysteria (PD).fig
+:	I
+:	:	Idea No Hi (J).swc
+:	:	Ignition Factor (U).swc
+:	:	Igo Club (J).swc
+:	:	Ihatovo Monogatari (J).swc
+:	:	Ikari no Yousai (J).swc
+:	:	Illusion - Hidden Surprise Intro (PD).mgd
+:	:	Illusion Intro (PD).fig
+:	:	Illusion of Gaia (J).smc
+:	:	Illusion of Gaia (U).swc
+:	:	Illusion of Time (E).gd3
+:	:	Illusion of Time (F).fig
+:	:	Illusion of Time (G).swc
+:	:	Illusion of Time (S).fig
+:	:	Illvanian no Shiro (J).swc
+:	:	Imperium (U).mgd
+:	:	Inaduma Serve da Super Beach Volley (J).swc
+:	:	Incantation (E) [!].swc
+:	:	Incantation (U).fig
+:	:	Incredible Crash Dummies, The (Beta).fig
+:	:	Incredible Crash Dummies, The (E).gd3
+:	:	Incredible Crash Dummies, The (J).swc
+:	:	Incredible Crash Dummies, The (U).mgd
+:	:	Incredible Hulk, The (E).fig
+:	:	Incredible Hulk, The (U).swc
+:	:	Indiana Jones - Trilogy (E).swc
+:	:	Indiana Jones - Trilogy (J).gd3
+:	:	Indiana Jones - Trilogy (U).swc
+:	:	Infernal Byte Systems - Zoom Demo (PD).fig
+:	:	Infernal's Evil Demo! (PD).fig
+:	:	Inindo (U).swc
+:	:	Inquisition, The - Simple Demo (PD).fig
+:	:	Inspector Gadget (U).swc
+:	:	Internal Byte Systems - Zoom 3 (PD).fig
+:	:	International Console Service - Scroller (PD).swc
+:	:	International Superstar Soccer (E).swc
+:	:	International Superstar Soccer Deluxe (E).fig
+:	:	International Superstar Soccer Deluxe (U).gd3
+:	:	International Tennis Tour (J).swc
+:	:	International Tennis Tour (U).swc
+:	:	Intro-1 (PD).fig
+:	:	Intro-2 (PD).swc
+:	:	Intro-3 (PD).swc
+:	:	Intro-4 (PD).fig
+:	:	Intro-5 (PD).swc
+:	:	Intro-6 (PD).fig
+:	:	Ippatsu Gyakuten! Keiba Keirin Kyotei (J).gd3
+:	:	Irokazu Koujyou 1 (PD).mgd
+:	:	Iron Commando (E)(NG-Dump Known).mgd
+:	:	Iron Commando - Kotetsu no Senshi (J).swc
+:	:	Iso Zuri Ritou Hen (J).smc
+:	:	Itadaki Street 2 - Neon Sign ha Bara Iro ni (J).swc
+:	:	Itoi Shigesato's Bass Turi No.1 (J).mgd
+:	:	Itou 6dan no Shogi Dojyo (J).mgd
+:	:	Izzy's Quest for the Olympic Rings (Beta).swc
+:	:	Izzy's Quest for the Olympic Rings (E)(NG-Dump Known).swc
+:	:	Izzy's Quest for the Olympic Rings (U) [!].fig
+:	:	infinity demo (pd).smc
+:	J
+:	:	J League Excite Stage '94 (J).mgd
+:	:	J League Excite Stage '95 (J).mgd
+:	:	J League Excite Stage '96 (V1.0) (J).swc
+:	:	J League Excite Stage '96 (V1.1) (J) [!].mgd
+:	:	J-League '96 Dream Stadium (J).mgd
+:	:	J-League Soccer Prime Goal (V1.0) (J).swc
+:	:	J-League Soccer Prime Goal (V1.1) (J).fig
+:	:	J-League Soccer Prime Goal 2 (J).fig
+:	:	J-League Soccer Prime Goal 3 (J).swc
+:	:	J-League Super Soccer '95 (J).swc
+:	:	J-League Super Soccer (J).mgd
+:	:	JAF & DH - Sleep City BBS Intro (PD).swc
+:	:	JB the Bass Fishing (J).swc
+:	:	JRR Tolkien's The Lord of the Rings - Volume One (E).swc
+:	:	JRR Tolkien's The Lord of the Rings - Volume One (G).fig
+:	:	JRR Tolkien's The Lord of the Rings - Volume One (U).swc
+:	:	JWP Jyoshi Pro-Wrestling Pure Wrestle Queens (J).mgd
+:	:	Jack Chou Picture Gallery (PD).swc
+:	:	Jack Nicklaus Golf (U).swc
+:	:	Jaki Crush (J).swc
+:	:	James Bond Jr (E) [!].swc
+:	:	James Bond Jr (U).fig
+:	:	James Pond 3 - Operation Starfish (E).swc
+:	:	James Pond's Crazy Sports (E).swc
+:	:	Jammes (J).swc
+:	:	Jammit (U).fig
+:	:	Jango 4 (J).swc
+:	:	Janjyu Gakuen 2 (J).swc
+:	:	Jelly Boy (E).swc
+:	:	Jelly Boy 2 (Beta).smc
+:	:	Jeopardy! (U).swc
+:	:	Jeopardy! - Deluxe Edition (U).fig
+:	:	Jeopardy! - Sports Edition (U).fig
+:	:	Jerry Boy (J).swc
+:	:	Jetsons (U).smc
+:	:	Jigsaw Party (J).swc
+:	:	Jikkyo Power Pro Wresling (J).swc
+:	:	Jikkyou Keiba Simulation Stable Star (J).gd3
+:	:	Jikkyou Oshaberi Parodius (J).mgd
+:	:	Jikkyou Powerful Pro Yakyuu '94 (J).mgd
+:	:	Jikkyou Powerful Pro Yakyuu '96 Kaimakuban (V1.0) (J).fig
+:	:	Jikkyou Powerful Pro Yakyuu '96 Kaimakuban (V1.1) (J) [!].mgd
+:	:	Jikkyou Powerful Pro Yakyuu - Basic Edition '98 (J).fig
+:	:	Jikkyou Powerful Pro Yakyuu 2 (J).mgd
+:	:	Jikkyou Powerful Pro Yakyuu 3 (J).fig
+:	:	Jikkyou Powerful Pro Yakyuu 3 - '97 (V1.0) (J).fig
+:	:	Jikkyou Powerful Pro Yakyuu 3 - '97 (V1.1) (J).fig
+:	:	Jikkyou World Soccer 2 Fighting Eleven (Beta).fig
+:	:	Jikkyou World Soccer 2 Fighting Eleven (J).mgd
+:	:	Jikkyou World Soccer Perfect Eleven (J).mgd
+:	:	Jikkyou_Keiba_Simulation_Stable_Star_(J).smc
+:	:	Jim Lee's WildC.A.T.S (U).swc
+:	:	Jim Powers - The Lost Dimension 3D (E).fig
+:	:	Jim Powers - The Lost Dimension 3D (U) [!].swc
+:	:	Jimmy Connors Pro Tennis Tour (E).swc
+:	:	Jimmy Connors Pro Tennis Tour (F).swc
+:	:	Jimmy Connors Pro Tennis Tour (G).swc
+:	:	Jimmy Connors Pro Tennis Tour (J).ufo
+:	:	Jimmy Connors Pro Tennis Tour (U).swc
+:	:	Jimmy Houston's Bass Tournament USA (U).swc
+:	:	Jissen Kyotei (J).mgd
+:	:	Jissen Mahjong Sinan (J).swc
+:	:	Jissen Pachi Slot Hisyou Hou (J).mgd
+:	:	Jissen Pachi Slot Hisyou Hou 2 (J).mgd
+:	:	Jissen Pachi Slot Hisyou Hou Classic (J).swc
+:	:	Jissen Pachi Slot Hisyou Hou TWIN (J).smc
+:	:	Jissen Pachi Slot Hisyou Hou TWIN 2 (J).mgd
+:	:	Jissen Pachinko Hissyou Hou Yamasa Densetsu (J).gd3
+:	:	Jissen! Bass Fishing Hissyouhou in USA (J).fig
+:	:	Joe and Mac - Caveman Ninja (Beta).swc
+:	:	Joe and Mac - Caveman Ninja (E) [!].gd3
+:	:	Joe and Mac - Caveman Ninja (J).mgd
+:	:	Joe and Mac - Caveman Ninja (U).swc
+:	:	Joe and Mac 2 (U)(35468).fig
+:	:	Joe and Mac 2 (U)(54227).mgd
+:	:	Joe and Mac 3 (Beta).fig
+:	:	Joe and Mac 3 (E) [!].fig
+:	:	Jojo no Kimyou na Bouken (J).mgd
+:	:	Joystick Sampler with Still Picture (PD).smc
+:	:	Joystick_Sampler_with_Still_Picture_(PD).smc
+:	:	Judge Dredd (E).swc
+:	:	Judge Dredd (J).gd3
+:	:	Judge Dredd (U).ufo
+:	:	Judge Dredd - CES Preview Version (U)(NG-Dump Known).mgd
+:	:	Jumbo Ozaki no Hole in One (J).swc
+:	:	Jumpin' Derby (J).mgd
+:	:	Jumyou Ga Chijimaru (PD).fig
+:	:	Jungle Book, The (Beta).fig
+:	:	Jungle Book, The (E) [!].gd3
+:	:	Jungle Book, The (J).mgd
+:	:	Jungle Book, The (U).fig
+:	:	Jungle Strike (E) [!].fig
+:	:	Jungle Strike (J).swc
+:	:	Jungle Strike (U).fig
+:	:	Jungle Wars 2 (J).mgd
+:	:	Jungle no Ojya Tachan (J).mgd
+:	:	Jurassic Park (Beta) [h1].fig
+:	:	Jurassic Park (Beta).mgd
+:	:	Jurassic Park (E).swc
+:	:	Jurassic Park (F).gd3
+:	:	Jurassic Park (G).swc
+:	:	Jurassic Park (I).swc
+:	:	Jurassic Park (J).mgd
+:	:	Jurassic Park (S) [!].swc
+:	:	Jurassic Park (V1.0) (U).fig
+:	:	Jurassic Park (V1.1) (U).fig
+:	:	Jurassic Park 2 (Beta).ufo
+:	:	Jurassic Park 2 (E).swc
+:	:	Jurassic Park 2 (U).swc
+:	:	Justice League Task Force (E).swc
+:	:	Justice League Task Force (J).mgd
+:	:	Justice League Task Force (U).swc
+:	:	Jyantoushi Doraoh (J).mgd
+:	:	Jyantoushi Doraoh 2 (J).mgd
+:	:	Jyanyuki Goku Kaida (J).mgd
+:	:	Jyousyou Mahjong Ten Pai (J).smc
+:	:	Jyutei Senki (J).swc
+:	K
+:	:	K.H. Rummenigge's Player Manager (G).swc
+:	:	K.H. Rummenigge's Player Manager - 20 Week Sample (E)(NG-Dump Known).mgd
+:	:	KDD CG Collection (PD).mgd
+:	:	Kablooey (U).swc
+:	:	Kabuki Rocks (J).fig
+:	:	Kabuki Tyo Reach Mahjong (J).fig
+:	:	Kagaku sya Harley no Haran Banjyo (J).gd3
+:	:	Kaite Tukutte Asoberu Dezaemon (J).fig
+:	:	Kakinoki Shogi (J).mgd
+:	:	Kamaitachi no Yoru (J).fig
+:	:	Kamaitachi no Yoru (PD).swc
+:	:	Kamen Rider (J).mgd
+:	:	Kamen Rider SD (J).mgd
+:	:	Kami Demo 3 - Island Platformer (PD).mgd
+:	:	Kanji Hack Rpg 2 (Hack).fig
+:	:	Karuraou (J).fig
+:	:	Kashiwagi Shigetaka no Top Water Bashing (J).mgd
+:	:	Kat's Run - Zen Nihon K Car Sensyuken (J).mgd
+:	:	Katou 123 Shougi Club (J).swc
+:	:	Katyo Shima Kosaku (J).mgd
+:	:	Kawa no Nushizuri 2 (J).fig
+:	:	Kawasaki Carribean Challenge (U).fig
+:	:	Kawasaki Superbike Challenge (E).swc
+:	:	Kawasaki Superbike Challenge (U).swc
+:	:	Keeper (J).fig
+:	:	Keiba Eight Special - Hiba Konyu Jyutsu (V1.0) (J).mgd
+:	:	Keiba Eight Special - Hiba Konyu Jyutsu (V1.1) (J) [!].mgd
+:	:	Keiba Eight Special 2 (J).mgd
+:	:	Keiba Yosou Baken Renkin Jyutu (J).fig
+:	:	Ken Griffey Jr's. Baseball (U).swc
+:	:	Ken Griffey Jr's. Winning Run Baseball (U).fig
+:	:	Kendo Rage (U).fig
+:	:	Kentouou World Champion (J).mgd
+:	:	Kenyu Densetsu Yaiba (J).mgd
+:	:	Kerokero Keroppi no Bouken Nikki (J).mgd
+:	:	Kessen Dokapon 4 - Densetsu no Yusyatachi (J).fig
+:	:	Kevin Keegan's Player Manager (E).swc
+:	:	Kick Off (E).swc
+:	:	Kick Off 3 - European Challenge (Beta).mgd
+:	:	Kick Off 3 - European Challenge (E).swc
+:	:	Kid Icarus Angel Land Story (PD).swc
+:	:	Kid Klown in Crazy Chase (E).fig
+:	:	Kid Klown in Crazy Chase (J).fig
+:	:	Kid Klown in Crazy Chase (U).swc
+:	:	Kido Buto Den Gundam G (J).mgd
+:	:	Kido Senshi Gundam V (J).fig
+:	:	Kido Senshi Gundam Z - Away to the New Type (J).fig
+:	:	Kidou Keisatsu Patlabor (J).mgd
+:	:	Kidou Senshi Gandam Cross Dimension 0079 (J).mgd
+:	:	Kidou Senshi Gandum F91 (J).mgd
+:	:	Kidou Soukou Dion (J).fig
+:	:	Kikikaikai - Nazo no Kuro Manto (J).fig
+:	:	Kikikaikai - Tukiyozoushi (J).swc
+:	:	Killer Instinct (Beta).smc
+:	:	Killer Instinct (E) [!].gd3
+:	:	Killer Instinct (V1.0) (U).fig
+:	:	Killer Instinct (V1.1) (U) [!].swc
+:	:	Kim 1 (PD).swc
+:	:	Kindai Mahjong Special (J).mgd
+:	:	King Arthur & The Knights of Justice (U) [!].fig
+:	:	King Arthur's World (Beta).swc
+:	:	King Arthur's World (E) [!].swc
+:	:	King Arthur's World (U).fig
+:	:	King of Dragons, The (J).mgd
+:	:	King of Dragons, The (U).fig
+:	:	King of Rally, The (J).mgd
+:	:	King of the Monsters (E).gd3
+:	:	King of the Monsters (J).mgd
+:	:	King of the Monsters (U).swc
+:	:	King of the Monsters 2 (J).swc
+:	:	King of the Monsters 2 (U).swc
+:	:	Kingyo Chuiho Tobidase! Game Gakuen (J).mgd
+:	:	Kirby Bowl (J) [!].fig
+:	:	Kirby No Kira Kizzu (J) (NP).mgd
+:	:	Kirby Superstar (U) [!].mgd
+:	:	Kirby's Avalanche (U).swc
+:	:	Kirby's Dream Course (E).swc
+:	:	Kirby's Dream Course (U).swc
+:	:	Kirby's Dream Land 3 (U).mgd
+:	:	Kirby's Fun Pak (E) [!].mgd
+:	:	Kirby's Ghost Trap (E).swc
+:	:	Kishin Douji Zenki - Rettou Raiden (J).mgd
+:	:	Kishin Douji Zenki 2 - Den Ei Rai Bu (J).mgd
+:	:	Kishin Douji Zenki 3 - Tenchi Meidou (J).gd3
+:	:	Kishin Korinden ONI (J)(44230).mgd
+:	:	Kishin Korinden ONI (J)(7284).mgd
+:	:	Kiteretsu Daihyakkka Cho Jiku Sugoroku (J).mgd
+:	:	Knights of Xentar Slideshow (PD).fig
+:	:	Knights of the Round (J).swc
+:	:	Knights of the Round (U).swc
+:	:	Konpeki no Kantai (J).fig
+:	:	Korean League (K).smc
+:	:	Koryu no Mimi (J).mgd
+:	:	Kou Ryuu Ki (J).swc
+:	:	Kouryaku Casino Bar (J).mgd
+:	:	Kouryudensetsu Villgust (J).mgd
+:	:	Koushien 2 (J).swc
+:	:	Koushien 3 (J).mgd
+:	:	Koushien 4 (J).swc
+:	:	Kousoku Shikou Shogiou (J).mgd
+:	:	Koutetsu No Kishi (J).mgd
+:	:	Koutetsu No Kishi 2 (J).mgd
+:	:	Koutetsu No Kishi 3 (J).mgd
+:	:	Kunio Kun no Dodge Ball Zenin Syugo (J).mgd
+:	:	Kunio Kun no Dodge Ball Zenin Syugo Tournament Special (J) [!].mgd
+:	:	Kunio No Oden (J).fig
+:	:	Kuon no Kizuna 01 - Miki (PD).fig
+:	:	Kuon no Kizuna 02 - Mio (PD).fig
+:	:	Kuon no Kizuna 03 - Aya (PD).fig
+:	:	Kuon no Kizuna 04 - Kikuno (PD).fig
+:	:	Kuon no Kizuna 05 - Taichi (PD).fig
+:	:	Kuon no Kizuna 06 - Yasuko (PD).fig
+:	:	Kuon no Kizuna 07 - Touko (PD).fig
+:	:	Kuusou Kagaku Sekai Galliver Boy (J).fig
+:	:	Kyle Petty's No Fear Racing (U).swc
+:	:	Kyoraku Sanyo Maruhon Parlor Parlor! 5 (J).swc
+:	:	Kyoraku Sanyo Toyomaru Daiichi Maruhon Parlor Parlor! 2 (J).fig
+:	:	Kyoraku Sanyo Toyomaru Okumura Daiichi Maruhon Parlor Parlor! 4 CR (J).smc
+:	:	Kyoraku Sanyo Toyomaru Okumura Taiyou Parlor Parlor! 3 (J).smc
+:	:	Kyoraku Sanyo Toyomaru Parlor Parlor! (J).fig
+:	L
+:	:	LAGOON.SMC
+:	:	La Wares (J).swc
+:	:	Lady Stalker (J).mgd
+:	:	Lagoon (E) [!].fig
+:	:	Lagoon (G).mgd
+:	:	Lagoon (J).mgd
+:	:	Lagoon (U).swc
+:	:	Lamborghini - American Challenge (E) [!].swc
+:	:	Lamborghini - American Challenge (U).swc
+:	:	Larry Nixon's Super Bass Fishing (J).mgd
+:	:	Las Vegas Dream (J).mgd
+:	:	Laser Birdie - GET IN THE HOLE (J) [!].mgd
+:	:	Last Action Hero, The (E).mgd
+:	:	Last Action Hero, The (U).fig
+:	:	Last Battle, The (J).mgd
+:	:	Last Bible III (J).smc
+:	:	Last Fighter Twin (J).mgd
+:	:	Lawnmower Man, The (Beta).fig
+:	:	Lawnmower Man, The (E).gd3
+:	:	Lawnmower Man, The (U).swc
+:	:	Leading Company (J).mgd
+:	:	Leading Jockey (J).mgd
+:	:	Leading Jockey 2 (J).smc
+:	:	Lee's Album 1 (PD).swc
+:	:	Lee's Album 2 (PD).swc
+:	:	Legend (E).mgd
+:	:	Legend (U)(16725).fig
+:	:	Legend (U)(718).fig
+:	:	Legend - SNDS Info, Incredible Hulk Walkthru (PD).fig
+:	:	Legend - SNDS Info, Spike McFang Walkthru (PD).fig
+:	:	Legend of The Mystical Ninja, The (E).swc
+:	:	Legend of The Mystical Ninja, The (G) [!].fig
+:	:	Legend of The Mystical Ninja, The (G) [h1].swc
+:	:	Legend of The Mystical Ninja, The (U).swc
+:	:	Legend of Zelda, The (E) [!].swc
+:	:	Legend of Zelda, The (F).fig
+:	:	Legend of Zelda, The (FC).swc
+:	:	Legend of Zelda, The (G)(20555).swc
+:	:	Legend of Zelda, The (G)(20662).swc
+:	:	Legend of Zelda, The (U).swc
+:	:	Lemmings (E).mgd
+:	:	Lemmings (J).mgd
+:	:	Lemmings (V1.0) (U).swc
+:	:	Lemmings (V1.1) (U) [!].swc
+:	:	Lemmings 2 (E).swc
+:	:	Lemmings 2 (J).swc
+:	:	Lemmings 2 (U).swc
+:	:	Lennus (J).mgd
+:	:	Lennus 2 (J).swc
+:	:	Lester The Unlikely (U).fig
+:	:	Let's Go Freeze (PD).fig
+:	:	Let's Go Freeze 2 (PD).mgd
+:	:	Lethal Enforcers (E) [!].swc
+:	:	Lethal Enforcers (J).smc
+:	:	Lethal Enforcers (U).fig
+:	:	Lethal Weapon (E).swc
+:	:	Lethal Weapon (U).swc
+:	:	Level 3 Show (PD).swc
+:	:	Libble Rabble (J).smc
+:	:	Liberty or Death (U).mgd
+:	:	Light Fantasy (J).swc
+:	:	Light Fantasy 2 (J).mgd
+:	:	Lion King, The (E).fig
+:	:	Lion King, The (J).swc
+:	:	Lion King, The (U).fig
+:	:	Lion's Porno Party 1 (PD).fig
+:	:	Lion's Porno Party 3 (PD).fig
+:	:	Little Magic (Beta).mgd
+:	:	Little Magic (J).mgd
+:	:	Little Master - Niji Iro no Maseki (J).mgd
+:	:	Live-a-Live (J).mgd
+:	:	Lock-On (U).swc
+:	:	Lode Runner Twin (J).ufo
+:	:	Lodoss Tou Senki (J).fig
+:	:	Logic Entertainment - Parallel Playground (PD).fig
+:	:	Logos Panic (J).fig
+:	:	Looney Tunes - Acme Animation Factory (U).swc
+:	:	Looney Tunes B-Ball (U).fig
+:	:	Looney Tunes Basketball (E).fig
+:	:	Lord Monarch (J).mgd
+:	:	Lost Vikings 2, The (E).fig
+:	:	Lost Vikings 2, The (U).fig
+:	:	Lost Vikings, The (Beta).mgd
+:	:	Lost Vikings, The (E) [!].swc
+:	:	Lost Vikings, The (G).swc
+:	:	Lost Vikings, The (S).mgd
+:	:	Lost Vikings, The (U).fig
+:	:	Lost Vikings, The - Viking no Daimeiwaku (J).swc
+:	:	Lost_V.zst
+:	:	Lothar Matthaus Super Soccer (G).swc
+:	:	Lotto (PD).fig
+:	:	Love Quest (J).swc
+:	:	Lucky Luke (E).swc
+:	:	Lufia & The Fortress of Doom (U).swc
+:	:	Lufia II - Rise of the Sinistrals (E) [!].swc
+:	:	Lufia II - Rise of the Sinistrals (G).swc
+:	:	Lufia II - Rise of the Sinistrals (H).fig
+:	:	Lufia II - Rise of the Sinistrals (S).swc
+:	:	Lufia II - Rise of the Sinistrals (U).swc
+:	:	Lupin the 3rd - Densetu no Hihou (J).fig
+:	:	Lynch Mob - Name of the Game (PD).fig
+:	:	Lynch Mob - Scroller (PD).fig
+:	:	Lynch Mob's Music Pack 1 (PD).fig
+:	:	Lynch Mob's Music Pack 2 (PD).fig
+:	:	Lynch Mob's Music Pack 3 (PD).fig
+:	:	Lynch Mob's Music Pack 4 (PD).fig
+:	:	Lynch Mob's Music Pack 5 (PD).fig
+:	M
+:	:	M.A.C. Basic Rifle Simulator (U)(NG-Dump Known).fig
+:	:	MLBPA Baseball (U).fig
+:	:	Madden NFL '93 (E).swc
+:	:	Madden NFL '93 (U).swc
+:	:	Madden NFL '94 (E) [!].swc
+:	:	Madden NFL '94 (U).swc
+:	:	Madden NFL '95 (E).gd3
+:	:	Madden NFL '95 (U) [!].mgd
+:	:	Madden NFL '96 (U).swc
+:	:	Madden NFL '96 Reviewer Version (U) [h1].mgd
+:	:	Madden NFL '96 Reviewer Version (U).swc
+:	:	Madden NFL '97 (U).swc
+:	:	Madden NFL '98 (U).fig
+:	:	Madden NFL Football (U).swc
+:	:	Madou Monogatari - Hanamaru Dai Youchienji (J).mgd
+:	:	Magic Boy (Beta).fig
+:	:	Magic Boy (E).swc
+:	:	Magic Boy (U) [!].fig
+:	:	Magic Johnson's Super Slam Dunk (J).fig
+:	:	Magic Johnson's Super Slam Dunk (U).swc
+:	:	Magic Knight Ray Earth (J).swc
+:	:	Magic Sword (E).swc
+:	:	Magic Sword (J).swc
+:	:	Magic Sword (U).smc
+:	:	MagicMon (PD).fig
+:	:	Magical - Pic Play (PD).fig
+:	:	Magical - Wavy Palm Trees Intro (PD).mgd
+:	:	Magical Demo (PD).fig
+:	:	Magical Drop (J).swc
+:	:	Magical Drop 2 (J).swc
+:	:	Magical Pop'n (J).mgd
+:	:	Magical Quest Starring Mickey Mouse, The (Beta).fig
+:	:	Magical Quest Starring Mickey Mouse, The (E).swc
+:	:	Magical Quest Starring Mickey Mouse, The (U) [!].swc
+:	:	Magical Quest Starring Mickey Mouse, The (V1.0) (G).swc
+:	:	Magical Quest Starring Mickey Mouse, The (V1.1) (G).swc
+:	:	Magical Taruruto Kun - Magic Adventure (J).swc
+:	:	Magicode (PD).fig
+:	:	Magicom Graphics V2 - Super Famicom Graphics Sample Disk (PD).fig
+:	:	Magna Braban - Henreki no Yusya (J).mgd
+:	:	Mahjong Club (J).swc
+:	:	Mahjong Goku Tenjiku (J).fig
+:	:	Mahjong Hanjouki (J).mgd
+:	:	Mahjong Hisyo Den - Naki no Ryu (J).smc
+:	:	Mahjong Hisyo Den - Shin Naki no Ryu (J).gd3
+:	:	Mahjong Sengoku Monogatari (J).mgd
+:	:	Mahjong Taikai 2 (J).mgd
+:	:	Mahjong Touhaiden, The (J).mgd
+:	:	Mahou Poipoi Poitto (J).fig
+:	:	Mahoujin Guru Guru (J).swc
+:	:	Mahoujin Guru Guru 2 (J).swc
+:	:	Mai Ling (Linda Wong)(Slideshow)(PD).swc
+:	:	Majin Tensei (V1.0) (J).mgd
+:	:	Majin Tensei (V1.1) (J).swc
+:	:	Majin Tensei (V1.2) (J).mgd
+:	:	Majin Tensei 2 (J) [h1].smc
+:	:	Majin Tensei 2 (J).smc
+:	:	Major Title (E).mgd
+:	:	Major Title (J).smc
+:	:	Majyo Tachino Nemuri (J).smc
+:	:	Majyuuou (J).mgd
+:	:	Maka Maka (J).fig
+:	:	Makeruna Makendou (J).mgd
+:	:	Makeruna Makendou 2 - Kimero Youkai Souri (J).mgd
+:	:	Manchester United Championship Soccer (Beta).mgd
+:	:	Manchester United Championship Soccer (E).swc
+:	:	Marchen Adventure Cotton 100% (J).fig
+:	:	Marine Blue Vol.1 (PD).fig
+:	:	Mario & Wario (Joypad Hack).mgd
+:	:	Mario Paint (E) [!].swc
+:	:	Mario Paint (JU) [!].swc
+:	:	Mario Paint (JU) [h1] (Joystick).mgd
+:	:	Mario Paint (JU) [h2] (Joystick).mgd
+:	:	Mario Wrecking Crew '98 (J) (NP).swc
+:	:	Mario and Wario (J).fig
+:	:	Mario is Missing (E).swc
+:	:	Mario is Missing (F).gd3
+:	:	Mario is Missing (G).smc
+:	:	Mario is Missing (U).mgd
+:	:	Mario no Super Picross (J).smc
+:	:	Mario's Early Years - Fun With Letters (U).swc
+:	:	Mario's Early Years - Fun With Numbers (U).gd3
+:	:	Mario's Early Years - Preschool Fun! (U).smc
+:	:	Mario's Time Machine (E).swc
+:	:	Mario's Time Machine (G).swc
+:	:	Mario's Time Machine (U).swc
+:	:	Mark Davis' The Fishing Master (U).mgd
+:	:	Markers (PD).gd3
+:	:	Marko's Magic Football (E).mgd
+:	:	Marmalade Boy (J).mgd
+:	:	Martial Demo 1 (PD) [a1].mgd
+:	:	Martial Demo 1 (PD) [a2].mgd
+:	:	Martial Demo 1 (PD).swc
+:	:	Marvel Super Heroes - War of the Gems (E) [!].swc
+:	:	Marvel Super Heroes - War of the Gems (J).fig
+:	:	Marvel Super Heroes - War of the Gems (U).fig
+:	:	Marvelous (J).mgd
+:	:	Mask, The (Beta).swc
+:	:	Mask, The (E).swc
+:	:	Mask, The (J).fig
+:	:	Mask, The (U).swc
+:	:	Masoukishin - Super Robot Wars Gaiden - Lord of Elemental (J).mgd
+:	:	Masoukishin_-_Super_Robot_Wars_Gaiden_-_Lord_of_Elemental_(J).SM
+:	:	Masoukishin_-_Super_Robot_Wars_Gaiden_-_Lord_of_Elemental_(J).SMC
+:	:	Maten Densetsu (J).mgd
+:	:	Math Blaster (U).mgd
+:	:	Matsukata Hiroki no Super Tralling (J).swc
+:	:	Matsumura Kunihiro Den - Saikyo no Rekishi wo Kumikaero (J).fig
+:	:	Maze (PD).mgd
+:	:	Mazinger Z (J)(15743).mgd
+:	:	Mazinger Z (J)(28996).swc
+:	:	Mecarobot Golf (U).swc
+:	:	Mechwarrior (E) [!].swc
+:	:	Mechwarrior (F).mgd
+:	:	Mechwarrior (G).swc
+:	:	Mechwarrior (S).mgd
+:	:	Mechwarrior (U).fig
+:	:	Mechwarrior 3050 (E).swc
+:	:	Mechwarrior 3050 (U).fig
+:	:	Mega Man 7 (E).mgd
+:	:	Mega Man 7 (U).fig
+:	:	Mega Man Soccer (U).swc
+:	:	Mega Man X (E).swc
+:	:	Mega Man X (V1.0) (U).swc
+:	:	Mega Man X (V1.1) (U).swc
+:	:	Mega Man X 2 (E)(NG-Dump Known).swc
+:	:	Mega Man X 2 (U).mgd
+:	:	Mega Man X 3 (E) [!].swc
+:	:	Mega Man X 3 (U).fig
+:	:	Mega lo Mania (E).smc
+:	:	Mega lo Mania (J).mgd
+:	:	Mega_Lo_Mania_(E).smc
+:	:	Melfand Stories (J).swc
+:	:	Metal Combat - Falcon's Revenge (U).swc
+:	:	Metal Marines (E).swc
+:	:	Metal Marines (U).swc
+:	:	Metal Max 2 (J).swc
+:	:	Metal Max Returns (J).gd3
+:	:	Metal Morph (U).fig
+:	:	Metal Slader Glory - Director's Cut (J).fig
+:	:	Metal Warriors (U).swc
+:	:	Michael Andretti's Indy Car Challenge (J).smc
+:	:	Michael Andretti's Indy Car Challenge (U).swc
+:	:	Michael Jordan - Chaos in the Windy City (E) [!].swc
+:	:	Michael Jordan - Chaos in the Windy City (U).swc
+:	:	Mick & Mack - Global Gladiators (Beta) [a1].mgd
+:	:	Mick & Mack - Global Gladiators (Beta).smc
+:	:	Mick___Mack_-_Global_Gladiators_(Beta).smc
+:	:	Mickey & Donald 3 (J).smc
+:	:	Mickey & Minnie - The Great Circus Mystery (E).swc
+:	:	Mickey & Minnie - The Great Circus Mystery (U).swc
+:	:	Mickey & Minnie - The Great Circus Mystery 2 (J).gd3
+:	:	Mickey Madness Demo (PD).fig
+:	:	Mickey Mania (E).swc
+:	:	Mickey Mania (J).mgd
+:	:	Mickey Mania (U).swc
+:	:	Mickey Mouse - Tokyo Disneyland no Daibouken (J).swc
+:	:	Mickey no Magical Adventure (V1.0) (J).fig
+:	:	Mickey no Magical Adventure (V1.1) (J).gd3
+:	:	Mickey's Playtown Adventure - A Day Of Discovery! (U).fig
+:	:	Mickey's Ultimate Challenge (U).swc
+:	:	Mickey___Minnie_-_The_Great_Circus_Mystery_(U).smc
+:	:	Micro Machines (E).mgd
+:	:	Micro Machines (U).swc
+:	:	Micro Machines 2 - Turbo Tournament (E).swc
+:	:	Micro Machines 2 - Turbo Tournament (J)(NG-Dump Known).mgd
+:	:	Might and Magic II - Gates to Another World (E).swc
+:	:	Might and Magic II - Gates to Another World (G).swc
+:	:	Might and Magic II - Gates to Another World (J).swc
+:	:	Might and Magic III - Isles of Terror (Beta).mgd
+:	:	Might and Magic III - Isles of Terror (U).fig
+:	:	Mighty Max (Beta).smc
+:	:	Mighty Max (E).fig
+:	:	Mighty Max (U).swc
+:	:	Mighty Max Demo (PD).fig
+:	:	Mighty Morphin Power Rangers (E).swc
+:	:	Mighty Morphin Power Rangers (J).swc
+:	:	Mighty Morphin Power Rangers (U).smc
+:	:	Mighty Morphin Power Rangers - Fighting Edition (E).swc
+:	:	Mighty Morphin Power Rangers - Fighting Edition (U).smc
+:	:	Mighty Morphin Power Rangers - Movie Edition (E).fig
+:	:	Mighty Morphin Power Rangers - Movie Edition (U).swc
+:	:	Milandra (J).swc
+:	:	Militia (J).smc
+:	:	Mini 4ku Shining Scopion Let's & Go! (J).mgd
+:	:	Mini 4ku and Power WGP 2 (J) (NP).swc
+:	:	Miracle - Wavy Scroller (PD).fig
+:	:	Miracle Casino Paradise (J).mgd
+:	:	Miracle Girls (J).swc
+:	:	Mizuki Shigeru no Youkai Dotyuki (J).mgd
+:	:	Mode 7 and Sprite Demo (PD).fig
+:	:	Mode7 Demo (PD).fig
+:	:	Modular Escape (PD).swc
+:	:	Mohawk and Headphone Jack (E).swc
+:	:	Mohawk and Headphone Jack (U).fig
+:	:	Momotaro Dentetsu Happy (J) [!].mgd
+:	:	Monopoly (J).mgd
+:	:	Monopoly (V1.0) (U).swc
+:	:	Monopoly (V1.1) (U).mgd
+:	:	Monopoly 2 (J).fig
+:	:	Monstania (J).smc
+:	:	Monster Maker 3 - Hikari no Majyutsushi (J).swc
+:	:	Monster Maker Kids - Ousama ni Naritai (J).mgd
+:	:	Monsters (Beta).swc
+:	:	Mortal Kombat (Beta).fig
+:	:	Mortal Kombat (E).swc
+:	:	Mortal Kombat (J).mgd
+:	:	Mortal Kombat (U).fig
+:	:	Mortal Kombat 3 (E) (Beta).fig
+:	:	Mortal Kombat 3 (E) [!].swc
+:	:	Mortal Kombat 3 (U) (Beta).swc
+:	:	Mortal Kombat 3 (U) [!].gd3
+:	:	Mortal Kombat 3 Final (Anthrox Beta Hack).smc
+:	:	Mortal Kombat II (Anthrox Beta Hack).swc
+:	:	Mortal Kombat II (Beta).gd3
+:	:	Mortal Kombat II (J).mgd
+:	:	Mortal Kombat II (V1.0) (E).fig
+:	:	Mortal Kombat II (V1.0) (U).swc
+:	:	Mortal Kombat II (V1.1) (E).swc
+:	:	Mortal Kombat II (V1.1) (U).swc
+:	:	Mortal Kombat Turbo (Hack).mgd
+:	:	Mortal_Kombat_3_Final_(Anthrox_Beta_Hack).smc
+:	:	Moryo Senki Madara 2 (J).swc
+:	:	Mother 2 (J).fig
+:	:	Motoko chan no Wonder Kitchen (J).mgd
+:	:	Motteke Oh! Dorobou (J).smc
+:	:	Mr. Do! (E).fig
+:	:	Mr. Do! (J).swc
+:	:	Mr. Do! (U).swc
+:	:	Mr. Nutz (Beta).mgd
+:	:	Mr. Nutz (E).swc
+:	:	Mr. Nutz (J).gd3
+:	:	Mr. Nutz (U).gd3
+:	:	Mr. Tuff (E)(NG-Dump Known).mgd
+:	:	Ms. Pac-Man (U).swc
+:	:	Muhammad Ali Boxing (Beta).mgd
+:	:	Muhammad Ali Boxing (J).fig
+:	:	Mujintou Monogatari (J).mgd
+:	:	Multi Game Hunter (V1.3) - DOS Rom (BIOS).mgd
+:	:	Multi-Play Volleyball (J).fig
+:	:	Muscle Bomber (J).fig
+:	:	Musya (J).mgd
+:	:	Musya (U) [!].ufo
+:	:	Mystery Circle (J).mgd
+:	:	Mystic Ark - 7th Saga 2 (J) [T-Eng].swc
+:	:	Mystic Ark - 7th Saga 2 (J).gd3
+:	:	Mystic Demo (PD).fig
+:	:	Mystic Quest Legend (E).swc
+:	:	Mystic Quest Legend (F).swc
+:	:	Mystic Quest Legend (G).swc
+:	:	monstania.smc
+:	N
+:	:	NBA All-Star Challenge (E).smc
+:	:	NBA All-Star Challenge (J).fig
+:	:	NBA All-Star Challenge (U).swc
+:	:	NBA Give 'N Go (E) [!].fig
+:	:	NBA Give 'N Go (U).fig
+:	:	NBA Hang Time (E).smc
+:	:	NBA Hang Time (U).swc
+:	:	NBA Jam (Beta).swc
+:	:	NBA Jam (J).mgd
+:	:	NBA Jam (V1.0) (E) [!].swc
+:	:	NBA Jam (V1.0) (U).swc
+:	:	NBA Jam (V1.1) (E) [!].swc
+:	:	NBA Jam (V1.1) (U).swc
+:	:	NBA Jam Tournament Edition (Beta).swc
+:	:	NBA Jam Tournament Edition (E).swc
+:	:	NBA Jam Tournament Edition (J).swc
+:	:	NBA Jam Tournament Edition (U).mgd
+:	:	NBA Jikkyou Basket Winning Dunk (J).fig
+:	:	NBA Live '95 (E).gd3
+:	:	NBA Live '95 (J).fig
+:	:	NBA Live '95 (U).swc
+:	:	NBA Live '96 (E).mgd
+:	:	NBA Live '96 (U).swc
+:	:	NBA Live '97 (E).swc
+:	:	NBA Live '97 (U).smc
+:	:	NBA Live '98 (U).swc
+:	:	NBA Pro Basketball '94 - Bulls vs. Suns (J).mgd
+:	:	NBA Pro Basketball - Bulls vs. Blazers (J).mgd
+:	:	NBA Showdown (Beta).mgd
+:	:	NBA Showdown (U).mgd
+:	:	NBA_Hang_Time_(E).smc
+:	:	NCAA Basketball (V1.0) (U).gd3
+:	:	NCAA Basketball (V1.1) (U) [!].swc
+:	:	NCAA Final Four Basketball (U).fig
+:	:	NCAA Football (U).fig
+:	:	NESquik - New Demo (PD) [o1].fig
+:	:	NESquik - New Demo (PD).mgd
+:	:	NFL Football (J).smc
+:	:	NFL Football (U).mgd
+:	:	NFL Pro Football '94 (J).mgd
+:	:	NFL Quarterback Club '96 (Beta).swc
+:	:	NFL Quarterback Club '96 (E) [h1].smc
+:	:	NFL Quarterback Club '96 (E).swc
+:	:	NFL Quarterback Club '96 (J).swc
+:	:	NFL Quarterback Club '96 (U).swc
+:	:	NFL Quarterback Club (Beta).mgd
+:	:	NFL Quarterback Club (J).swc
+:	:	NFL Quarterback Club (U).swc
+:	:	NHL '94 (Beta).mgd
+:	:	NHL '94 (E) [!].swc
+:	:	NHL '94 (U) [!].fig
+:	:	NHL '95 (E).swc
+:	:	NHL '95 (U).mgd
+:	:	NHL '96 (E).swc
+:	:	NHL '96 (U).swc
+:	:	NHL '97 (E).swc
+:	:	NHL '97 (U).swc
+:	:	NHL '98 (U).fig
+:	:	NHL Pro Hockey '94 (J).mgd
+:	:	NHL Stanley Cup (U).swc
+:	:	NHLPA Hockey '93 (E) [!].swc
+:	:	NHLPA Hockey '93 (U).swc
+:	:	NTT JRA PAT (J) [!].mgd
+:	:	NTT JRA PAT Wide Baken Taiou (J) [!].mgd
+:	:	Nage Libre (J).mgd
+:	:	Nakajima Satoru Kansyu F-1 Hero '94 (J).fig
+:	:	Nakano Koichi Kansyu Keirin Ou (J).fig
+:	:	Namco Open (J).swc
+:	:	Nangoku Syonen Papuwa Kun (J).mgd
+:	:	Napalm - Laughing Skull Intro (PD).mgd
+:	:	Naruhodo The World (J).fig
+:	:	Natsuki Crisis Battle (J).smc
+:	:	Natsume Championship Wrestling (U).swc
+:	:	Nekketsu Tairiku Burning Heroes (J) [a1].mgd
+:	:	Nekketsu Tairiku Burning Heroes (J).mgd
+:	:	Neon Genesis Evangelion Asuka Slideshow (PD).mgd
+:	:	Neon Genesis Evangelion Slideshow E (PD).mgd
+:	:	Netsex Slide Show #1 (PD).fig
+:	:	Netsex Slide Show #2 (PD).fig
+:	:	Netsex Slide Show #3 (PD).fig
+:	:	Neugier (J).mgd
+:	:	New Yatterman - Nanndai Kanndai Yajirobe (J).mgd
+:	:	Newman Hass Indy Car Racing (E).fig
+:	:	Newman Hass Indy Car Racing (J).mgd
+:	:	Newman Hass Indy Car Racing (U).mgd
+:	:	Nice de Shot (J).mgd
+:	:	Nichibutsu Arcade Classics (J).fig
+:	:	Nichibutsu Arcade Classics 2 - Heiankyo Alien (J).swc
+:	:	Nichibutsu Collection (J).mgd
+:	:	Nichibutsu Collection 2 (J).swc
+:	:	Nickelodeon Guts (U).swc
+:	:	Nigel Mansell's F-1 Challenge (J).mgd
+:	:	Nigel Mansell's World Championship Racing (U).swc
+:	:	Nigel Mansell's World Championship Racing (V1.0) (E).swc
+:	:	Nigel Mansell's World Championship Racing (V1.1) (E).mgd
+:	:	Nightfall - Party Slide Demo (PD).fig
+:	:	Nights into Dreams Slideshow (PD).swc
+:	:	Ninja Gaiden Trilogy (U) [!].fig
+:	:	Ninja Ryukenden Tomoe (J).fig
+:	:	Ninja Warriors Again, The (J).fig
+:	:	Ninja Warriors, The (E) [!].swc
+:	:	Ninja Warriors, The (U).smc
+:	:	Nintama Rantarou 1 (J).fig
+:	:	Nintama Rantarou 2 (J).swc
+:	:	Nintama Rantarou 3 (J).swc
+:	:	Nintama Rantarou Puzzle - Ninjyutsu Gakuen Puzzle no Maki (J).gd3
+:	:	Nintama Rantarou Special (J).gd3
+:	:	Nintendo Power Menu Program (V1.0) (J) (NP).fig
+:	:	Nintendo Power Menu Program (V1.1) (J) (NP).mgd
+:	:	Nintendo Super Famicon 95 (Scrolling Clouds Kami Demo 2) (PD).swc
+:	:	Nishijin Pachinki Monogatari (J).fig
+:	:	Nishijin Pachinki Monogatari 2 (J).mgd
+:	:	Nishijin Pachinki Monogatari 3 (J).smc
+:	:	Nitro Punks Might Heads (J).swc
+:	:	No Escape (U).fig
+:	:	Nobunaga no Yabou Haouden (J).mgd
+:	:	Nobunaga no Yabou Tensyouki (J).mgd
+:	:	Nobunaga's Ambition (U).fig
+:	:	Nobunaga's Ambition 2 (U).fig
+:	:	Nolan Ryan's Baseball (U).swc
+:	:	Nomark Bakuhaitou (J).swc
+:	:	Nontan to Issyo Kuru Kuru Puzzle (J).fig
+:	:	Nosferatu (J).mgd
+:	:	Nosferatu (U).fig
+:	:	Nuke (PD).swc
+:	:	Numbers Paradise (J).fig
+:	:	Numbers Pirate BBS Ad (PD).fig
+:	O
+:	:	Obitus (U).gd3
+:	:	Oda Nobunga - Haou no Gundan (J).mgd
+:	:	Odekake Lester Lelele no Le (J).smc
+:	:	Oekaki Logic (J) (NP).swc
+:	:	Oekaki Logic 2 (J) (NP).smc
+:	:	Ogre Battle (U).swc
+:	:	Ohchan no Oekaki Logic (J).gd3
+:	:	Ohmono Black Bass Fishing - Jinzouko Hen (J).swc
+:	:	Okamoto Ayako to Match Play Golf (J).mgd
+:	:	Olivia Pin Up SlideShow! (PD).fig
+:	:	Olivia's Mystery (J).gd3
+:	:	Olympic Summer Games 96 (E).gd3
+:	:	Olympic Summer Games 96 (U).mgd
+:	:	On the Ball (E) [!].swc
+:	:	On the Ball (U).swc
+:	:	Ongaku Tukoolu Kanadeelu (J).mgd
+:	:	Onita Atsushi FMV (J).fig
+:	:	Onizuka Katsuya Super Virtual Boxing (J).mgd
+:	:	Operation Europe (U).swc
+:	:	Operation Logic Bomb (U).gd3
+:	:	Operation Thunderbolt (U).fig
+:	:	Oraga Land Syusai - Best Farmar Sensyuken (J).fig
+:	:	Oscar (U).swc
+:	:	Osu!! Karatebu (J).mgd
+:	:	Othello World (J).fig
+:	:	Otoboke Ninja Colosseum (J).fig
+:	:	Otogirisou (J).fig
+:	:	Out of This World (Beta).mgd
+:	:	Out of This World (U).swc
+:	:	Out to Lunch (E).swc
+:	:	Out to Lunch (U).swc
+:	:	Outer World (J).gd3
+:	:	Outlander (E) [!].swc
+:	:	Outlander (U).smc
+:	:	Ozumou Damashii (J).mgd
+:	P
+:	:	P Man (J).fig
+:	:	PGA European Tour (U).mgd
+:	:	PGA Tour 96 (U) [!].mgd
+:	:	PGA Tour Golf (E).ufo
+:	:	PGA Tour Golf (J).fig
+:	:	PGA Tour Golf (U).swc
+:	:	Pac Attack (E).swc
+:	:	Pac Attack (U).mgd
+:	:	Pac in Time (E) (Beta).swc
+:	:	Pac in Time (E) [!].gd3
+:	:	Pac in Time (J).mgd
+:	:	Pac in Time (U).swc
+:	:	Pac-Man (PD).swc
+:	:	Pac-Man 2 - The New Adventures (F) [!].swc
+:	:	Pac-Man 2 - The New Adventures (G).mgd
+:	:	Pac-Man 2 - The New Adventures (U).fig
+:	:	Pachi Slot Kenkyu (J).fig
+:	:	Pachi Slot Land - Pchi Pachi Coin no Densetsu (J).mgd
+:	:	Pachi Slot Love Story (J).mgd
+:	:	Pachi Slot Monogatari - PAL Kogyo Special (J).mgd
+:	:	Pachi Slot Monogatari - Universal Special (J).fig
+:	:	Pachi Slot Syoubushi (J).swc
+:	:	Pachinko Challenger (J).fig
+:	:	Pachinko Fan (J).fig
+:	:	Pachinko Fan 2 (J).fig
+:	:	Pachinko Hisshou Hou (J).mgd
+:	:	Pachinko Hisshou Hou 2 (J).swc
+:	:	Pachinko Maruhi Hisho (J).fig
+:	:	Pachinko Monogatari - Pachi Slot mo Arudeyo (J).mgd
+:	:	Pachinko Monogatari 2 - Nagoya Syachihoko no Teiou (J).mgd
+:	:	Pachinko Rentyan Tengoku - Super CR Special (J).swc
+:	:	Pachinko Tetsujin 7ban Syobu (J).fig
+:	:	Pachinko Wars (J).mgd
+:	:	Pachinko Wars 2 (J).mgd
+:	:	Pachio Kin Special (J).fig
+:	:	Pachio Kun Special 2 (J).mgd
+:	:	Pachio Kun Special 3 (J).gd3
+:	:	Pachislot Kanzen Kouryaku Shindai Nyuka Vol 1 (J).mgd
+:	:	Pacific Theater of Operations (U) [!].mgd
+:	:	Pacific Theater of Operations 2 (U).swc
+:	:	Packy and Marlon (U).mgd
+:	:	Pagemaster, The (E).swc
+:	:	Pagemaster, The (U) (Beta).mgd
+:	:	Pagemaster, The (U).fig
+:	:	Paladin's Quest (U).swc
+:	:	Panel de Pon (J).fig
+:	:	Panic in Nakayosi World (J).fig
+:	:	Paper Boy 2 (E).swc
+:	:	Paper Boy 2 (U).fig
+:	:	Paradox (PD).fig
+:	:	Parlor ! Mini 1 (J).smc
+:	:	Parlor ! Mini 2 (J).smc
+:	:	Parlor ! Mini 3 (J).smc
+:	:	Parlor ! Mini 4 (J).smc
+:	:	Parlor ! Mini 5 (J).mgd
+:	:	Parlor ! Mini 6 (J).smc
+:	:	Parlor ! Mini 7 (J).smc
+:	:	Parodius Da! Shinwa kara Owarai he (J) [!].swc
+:	:	Parodius Non-Sense Fantasy (E).mgd
+:	:	Party '92 Slide Show, The (PD).fig
+:	:	Party 4 (PD).fig
+:	:	Peace Keepers (U).fig
+:	:	Pebble Beach Golf Links (E).swc
+:	:	Pebble Beach Golf Links (U).swc
+:	:	Pebble Beach no Hato (J).mgd
+:	:	Pebble Beach no Hato 2 - New Tournament Edition (J).mgd
+:	:	Phalanx (Beta).mgd
+:	:	Phalanx (E).gd3
+:	:	Phalanx (J).swc
+:	:	Phalanx (U) [!].fig
+:	:	Phantom 2040 (E).fig
+:	:	Phantom 2040 (Sunsoft)(Beta).smc
+:	:	Phantom 2040 (Viacom)(U).fig
+:	:	Photo Album of Xu Ruo Xuan (PD).fig
+:	:	Picross Vol 1 (J) (NP).swc
+:	:	Picross Vol 2 (V1.0) (J) (NP).swc
+:	:	Picross Vol 2 (V1.1) (J) (NP).swc
+:	:	Picross Vol 3 (J) (NP).swc
+:	:	Picross Vol 4 (J) (NP).swc
+:	:	Picross Vol 5 (J) (NP).smc
+:	:	Picross Vol 6 (J) (NP).smc
+:	:	Picross Vol 7 (J) (NP).swc
+:	:	Picross Vol 8 (J) (NP).smc
+:	:	Pieces (U).fig
+:	:	Pikiinya! (J).smc
+:	:	Pilotwings (E).swc
+:	:	Pilotwings (J).mgd
+:	:	Pilotwings (U) [!].fig
+:	:	Pinball Dreams (Beta).mgd
+:	:	Pinball Dreams (E).swc
+:	:	Pinball Dreams (U).fig
+:	:	Pinball Fantasies (E).swc
+:	:	Pinball Fantasies (U).mgd
+:	:	Pinball Pinball (J).mgd
+:	:	Pink Panther Goes to Hollywood (E) [!].swc
+:	:	Pink Panther Goes to Hollywood (J).fig
+:	:	Pink Panther Goes to Hollywood (U).swc
+:	:	Pinocchio (E) [!].fig
+:	:	Pinocchio (J).swc
+:	:	Pinocchio (U).swc
+:	:	Pipe Dream (J).mgd
+:	:	Pirates of Dark Water (E).gd3
+:	:	Pirates of Dark Water (U).fig
+:	:	Pit Fighter (E) [!].swc
+:	:	Pit Fighter (U).swc
+:	:	Pitfall (Beta).swc
+:	:	Pitfall (E) [!].swc
+:	:	Pitfall (U).fig
+:	:	Pitfall - Maya no Daibouken (J).mgd
+:	:	Planets Champ TG 3000 (J).mgd
+:	:	Plasma (PD).fig
+:	:	Plok (E) [!].swc
+:	:	Plok (G).swc
+:	:	Plok (J).fig
+:	:	Plok (U).mgd
+:	:	Pocky & Rocky (E).fig
+:	:	Pocky & Rocky (U).swc
+:	:	Pocky & Rocky - Sample Cart (E)(NG-Dump Known).swc
+:	:	Pocky & Rocky 2 (E).fig
+:	:	Pocky & Rocky 2 (U)(54250).swc
+:	:	Pocky & Rocky 2 (U)(6254).swc
+:	:	Poi Poi Ninjya World (J) (ST).mgd
+:	:	Pokemon (PD).mgd
+:	:	Poko Nyan! Henpokorin Adventure (J).fig
+:	:	Pong (PD).swc
+:	:	Pop 'N' Twinbee (E).mgd
+:	:	Pop 'N' Twinbee (J).mgd
+:	:	Pop 'N' Twinbee - Rainbow Bell Adventure (E).gd3
+:	:	Pop 'N' Twinbee - Rainbow Bell Adventure (G) [f1].fig
+:	:	Pop 'N' Twinbee - Rainbow Bell Adventure (G).mgd
+:	:	Pop 'N' Twinbee Sample (J) [!].mgd
+:	:	Popeye - Ijiwaru Majo Seahug no Maki (J).mgd
+:	:	Pople Mail (J).mgd
+:	:	Popoitto Hebereke (J).fig
+:	:	Populous (E).mgd
+:	:	Populous (J).mgd
+:	:	Populous (U).swc
+:	:	Populous 2 (G).mgd
+:	:	Populous 2 (J).fig
+:	:	Populous 2 - Trials of the Olympian Gods (E).swc
+:	:	Porky Pig's Haunted Holiday (Acclaim) (U).fig
+:	:	Porky Pig's Haunted Holiday (E).swc
+:	:	Porky Pig's Haunted Holiday (Sunsoft) (U).swc
+:	:	Porno Manga (PD).fig
+:	:	Positive (PD).fig
+:	:	Power Athlete (J).fig
+:	:	Power Drive (E).fig
+:	:	Power Instinct (U)(60887).mgd
+:	:	Power Instinct (U)(61042).swc
+:	:	Power Lode Runner (J) (NP).swc
+:	:	Power Monger (E).mgd
+:	:	Power Monger - Masyou no Bouryaku (J).swc
+:	:	Power Moves (U).swc
+:	:	Power Piggs of the Dark Age (E) [!].gd3
+:	:	Power Piggs of the Dark Age (Pre-Release) [h1].mgd
+:	:	Power Piggs of the Dark Age (Pre-Release).mgd
+:	:	Power Piggs of the Dark Age (U) [!].fig
+:	:	Power Rangers Zeo - Battle Racers (U).mgd
+:	:	Power Soukoban (J) (NP).mgd
+:	:	Power of the Hired (J).swc
+:	:	Prehistorik Man (E).swc
+:	:	Prehistorik Man (U).swc
+:	:	Premiere - Dull Text Trainer (PD).fig
+:	:	Premiere - Rotating Logo Intro (PD).mgd
+:	:	Premiere Intro #2 (PD).mgd
+:	:	Primal Rage (E).swc
+:	:	Primal Rage (U)(No Sound Test).fig
+:	:	Primal Rage (U)(With Sound Test).swc
+:	:	Prime (PD) (Beta).mgd
+:	:	Prince of Persia (E) [!].swc
+:	:	Prince of Persia (J).fig
+:	:	Prince of Persia (U).swc
+:	:	Prince of Persia 2 (E).swc
+:	:	Prince of Persia 2 (U).mgd
+:	:	Princess Maker - Legend of Another World (J).swc
+:	:	Princess Minerva (J).mgd
+:	:	Pro Action Replay (BIOS).gd3
+:	:	Pro Football (J).mgd
+:	:	Pro Football 93' (J).mgd
+:	:	Pro Kishi Simulation Kishi no Hanamichi (J).mgd
+:	:	Pro Mahjong Kiwame (J).fig
+:	:	Pro Mahjong Kiwame 2 (V1.0) (J).mgd
+:	:	Pro Mahjong Kiwame 2 (V1.1) (J).mgd
+:	:	Pro Mahjong Kiwame 3 (J).fig
+:	:	Pro Mahjong Tuwamono (J).fig
+:	:	Pro Mahjong Tuwamono - Renka Ban (J).mgd
+:	:	Pro Quarterback (U).swc
+:	:	Pro Soccer (J).mgd
+:	:	Pro Sport Hockey (U).swc
+:	:	Pro Yakyu Nettou Puzzle Stadium (Beta).fig
+:	:	Pro Yakyu Nettou Puzzle Stadium (J).ufo
+:	:	Pro Yakyuu Star (J).swc
+:	:	Professor SF II v7.11 Rom (BIOS).mgd
+:	:	Psycho Dream (J).mgd
+:	:	Pushover (Beta).swc
+:	:	Pushover (E).swc
+:	:	Pushover (U).swc
+:	:	Putty Moon (J).gd3
+:	:	Putty Squad (E).mgd
+:	:	Puzzle (PD).swc
+:	:	Puzzle Bobble (E).swc
+:	:	Puzzle Bobble (J).smc
+:	:	Puzzle'n Desu! (J).mgd
+:	Q
+:	:	Q-bert 3 (J).ufo
+:	:	Q-bert 3 (U).swc
+:	:	Quartex (PD).fig
+:	:	Quartex - The Great Waldo Search Intro (PD).fig
+:	:	Quebecod BBS Intro (PD).fig
+:	:	Queenie Manga SlideShow (PD).fig
+:	:	Qwertie's Mode 7 Test (PD).swc
+:	:	Qwertie's Test Cart (PD).swc
+:	R
+:	:	R-Type 3 (E)(21451).swc
+:	:	R-Type 3 (E)(5711).mgd
+:	:	R-Type 3 (J).fig
+:	:	R-Type 3 (U).swc
+:	:	RHI Roller Hockey 95 (U)(NG-Dump Known).smc
+:	:	RPG Tukool - Super Dante (J).mgd
+:	:	RPG Tukool 2 (J) [!].fig
+:	:	RPG1 (PD).swc
+:	:	RPM Racing (J).gd3
+:	:	RPM Racing (U).swc
+:	:	RTS - Mode 7 Demo (PD).swc
+:	:	RTS - Tracks Demo (PD).swc
+:	:	Race Drivin' (E) [!].swc
+:	:	Race Drivin' (U).swc
+:	:	Radical Rex (E).mgd
+:	:	Radical Rex (U).swc
+:	:	Raiden Densetsu (J) [!].fig
+:	:	Raiden Densetsu (J) [p1][!].swc
+:	:	Raiden Trad (U).mgd
+:	:	Ramos Rui no World Wide Soccer (J).gd3
+:	:	Rampart (U).swc
+:	:	Ranma Nibunnoichi (E).swc
+:	:	Ranma Nibunnoichi (F).gd3
+:	:	Ranma Nibunnoichi (U).fig
+:	:	Ranma Nibunnoichi - Akanekodan no Hihou (J).swc
+:	:	Ranma Nibunnoichi - Bakuretsu Rantou Hen (J).fig
+:	:	Ranma Nibunnoichi - Chogi Ranbu Hen (J).smc
+:	:	Ranma Nibunnoichi - Chonai Gekitou Hen (J).mgd
+:	:	Ranma Nibunnoichi - Ougi Jaanken (J).mgd
+:	:	Rap Jam - Volume 1 (U) [!].fig
+:	:	Rape Games (PD).swc
+:	:	Rapid Fire Counter (PD).swc
+:	:	Realm (E) [!].swc
+:	:	Realm (U).gd3
+:	:	Red 1 (PD).swc
+:	:	Red 3 (PD).swc
+:	:	Redline F-1 Racer (U).swc
+:	:	Rejoice - Aretha Oukoku no Kanata (J).swc
+:	:	Relief Pitcher (U) (Beta).fig
+:	:	Relief Pitcher (U).fig
+:	:	Ren and Stimpy Show, The - Buckaroos (U).smc
+:	:	Ren and Stimpy Show, The - Fire Dog (U).swc
+:	:	Ren and Stimpy Show, The - Time Warp (E).swc
+:	:	Ren and Stimpy Show, The - Time Warp (U).mgd
+:	:	Ren and Stimpy Show, The - Veediots (E).swc
+:	:	Ren and Stimpy Show, The - Veediots (U).mgd
+:	:	Rendering Ranger R2 (J).smc
+:	:	Res Arcana Diana Ray - Uranai no Meikyu (J).swc
+:	:	Respect - Scrolling Trainer Template (PD).swc
+:	:	Revolution X (E) [!].mgd
+:	:	Revolution X (G).mgd
+:	:	Revolution X (J).mgd
+:	:	Revolution X (U).fig
+:	:	Rex Ronan (U).fig
+:	:	Riddick Bowe Boxing (J).mgd
+:	:	Riddick Bowe Boxing (U).swc
+:	:	Rightworks Sig. CG-1 (PD).mgd
+:	:	Rin Kaihou 9dan no Igo Taidou (J).mgd
+:	:	Ring Ni Kakero (J) (NP).swc
+:	:	Rise of the Phoenix (U).swc
+:	:	Rise of the Robots (Beta).smc
+:	:	Rise of the Robots (E).swc
+:	:	Rise of the Robots (J).smc
+:	:	Rise of the Robots (U).fig
+:	:	Rise_of_the_Robots_(Beta).fig
+:	:	Rival Turf (E).gd3
+:	:	Rival Turf (U).swc
+:	:	Riverse Kids (PD).mgd
+:	:	Road Riot 4WD (E).swc
+:	:	Road Riot 4WD (U)(3850).swc
+:	:	Road Riot 4WD (U)(6361).fig
+:	:	Road Runner (E).gd3
+:	:	Road Runner (U) (Beta).fig
+:	:	Road Runner VS Wyle E Coyote (J).mgd
+:	:	Road Runner's Death Valley Rally (U) [!].swc
+:	:	Robocop 3 (E) [!].gd3
+:	:	Robocop 3 (U).fig
+:	:	Robocop VS The Terminator (E).swc
+:	:	Robocop VS The Terminator (U).mgd
+:	:	Robotrek (U).fig
+:	:	Rock Fall (PD).fig
+:	:	Rock N' Roll Racing (Beta).swc
+:	:	Rock N' Roll Racing (E).swc
+:	:	Rock N' Roll Racing (J).gd3
+:	:	Rock N' Roll Racing (U).smc
+:	:	Rocketeer (J).mgd
+:	:	Rocketeer (U).swc
+:	:	Rockman & Forte (J).swc
+:	:	Rockman 7 - Syukumei no Taiketsu (J).mgd
+:	:	Rockman X (V1.0) (J).fig
+:	:	Rockman X (V1.1) (J).fig
+:	:	Rockman X 2 (J).mgd
+:	:	Rockman X 3 (J).smc
+:	:	Rockman's Soccer (J).fig
+:	:	Rocko's Modern Life (U).swc
+:	:	Rocky Rodent (E).mgd
+:	:	Rocky Rodent (U).ufo
+:	:	Roger Clemens' MVP Baseball (J).mgd
+:	:	Roger Clemens' MVP Baseball (U).fig
+:	:	Rokudenasi Blues (J).fig
+:	:	Romance of the Three Kingdoms II (U).swc
+:	:	Romance of the Three Kingdoms III - Dragon of Destiny (U).swc
+:	:	Romance of the Three Kingdoms IV - Wall of Fire (U).swc
+:	:	Romancing SaGa (V1.0) (J).swc
+:	:	Romancing SaGa (V1.1) (J).swc
+:	:	Romancing SaGa 2 (J).smc
+:	:	Romancing SaGa 3 (V1.0) (J) [T-Eng_partial].swc
+:	:	Romancing SaGa 3 (V1.0) (J).swc
+:	:	Romancing SaGa 3 (V1.1) (J).mgd
+:	:	Romancing SaGa 3 - Sample (J).mgd
+:	:	Ronaldinho Soccer 98 (Hack).fig
+:	:	Royal Conquest (J).mgd
+:	:	Rudora No Hihou (J).swc
+:	:	Ruin Arm (J).swc
+:	:	Run Saber (Beta).fig
+:	:	Run Saber (E) [!].swc
+:	:	Run Saber (U) [!].fig
+:	:	Running Long Jump (PD).fig
+:	:	Rushing Beat (J).swc
+:	:	Rushing Beat Ran - Fukusei Toshi (J).swc
+:	:	Rushing Beat Syura (J).swc
+:	:	Ryukihei Dan Danzarubu (J).mgd
+:	:	Ryuuko no Ken (J).mgd
+:	:	Ryuuko no Ken 2 (J).smc
+:	S
+:	:	SD F1 Grand Prix (J).mgd
+:	:	SD F1 Grand Prix Sample (J) [!].mgd
+:	:	SD Gundam - Power Formation Puzzle (J).mgd
+:	:	SD Gundam G-NEXT (J).mgd
+:	:	SD Gundam G-NEXT + Rom Pack Collection (J) [!].mgd
+:	:	SD Gundam GX (J).smc
+:	:	SD Gundam Gaiden - Knight Gundam Monogatari (V1.0) (J).mgd
+:	:	SD Gundam Gaiden - Knight Gundam Monogatari (V1.1) (J).swc
+:	:	SD Gundam Gaiden 2 - Entaku no Kishi (J).mgd
+:	:	SD Gundam Generations (A) 1 Nen Sensouki (J) (ST).mgd
+:	:	SD Gundam Generations (B) Guripus Senki (J) (ST).mgd
+:	:	SD Gundam Generations (C) Axiz Senki (J) (ST).mgd
+:	:	SD Gundam Generations (D) Babironia Kenkoku Senki (J) (ST).mgd
+:	:	SD Gundam Generations (E) Zansukaru Senki (J) (ST).mgd
+:	:	SD Gundam Generations (F) Colony Kakutouki (J) (ST).mgd
+:	:	SD Gundam X (J).mgd
+:	:	SD Hiryu no Ken (J).fig
+:	:	SD Kidou Senshi Gundam 2 (J) [a1].fig
+:	:	SD Kidou Senshi Gundam 2 (J).fig
+:	:	SD Kidou Senshi Gundam V (J).swc
+:	:	SD The Great Battle (J).mgd
+:	:	SD Ultra Battle - Seven & Ultraman (J) (ST).mgd
+:	:	SD Ultra Battle - Seven Densetsu (J) (ST).mgd
+:	:	SD Ultra Battle - Ultraman & Seven (J) (ST).mgd
+:	:	SD Ultra Battle - Ultraman Densetsu (J) (ST).mgd
+:	:	SM Choukyousi Hitomi (PD).fig
+:	:	SM Choukyousi Hitomi Test (PD).smc
+:	:	SM Choukyousi Hitomi Vol 2 (PD).fig
+:	:	SM Choukyousi Hitomi Vol 2 Remix (PD).mgd
+:	:	SM Choukyousi Hitomi Vol 2 Trial (PD).mgd
+:	:	SM Choukyousi Hitomi Vol 2.5 (PD).fig
+:	:	SM Choukyousi Hitomi Vol 2.5 2 - Maki no Love Love Panic (PD).mgd
+:	:	SM Choukyousi Hitomi Vol 3 Test (PD).mgd
+:	:	SM Choukyousi Hitomi Vol 3.04 (PD) [f1].gd3
+:	:	SM Choukyousi Hitomi Vol 3.04 (PD).fig
+:	:	SM Choukyousi Hitomi Vol 3.10 (PD) [f1].gd3
+:	:	SM Choukyousi Hitomi Vol 3.10 (PD).gd3
+:	:	SNES Demo NOT (AKA Cynix is Back) (PD).fig
+:	:	SNES Hulk Program (Hack).mgd
+:	:	SNES Test Program (U) [h1].swc
+:	:	SNES Test Program (U) [h2].swc
+:	:	SNES Test Program (U).swc
+:	:	SNES Trainer Charts (PD).fig
+:	:	SNES Type Font 2 (PD).fig
+:	:	SNES Type Font 3 (PD).fig
+:	:	SNES Wish (PD).fig
+:	:	SNIDE - A Cow for Lil (PD).swc
+:	:	SNIDE - Logo #1 (PD).swc
+:	:	SNIDE - Logo #2 (PD).swc
+:	:	SOS (PD).swc
+:	:	SOS (U) [!].swc
+:	:	ST Add-on Base Cassete (J).mgd
+:	:	Sabotage Music Sources (PD).swc
+:	:	Saibara Rieko no Mahjong Hourouki (J).smc
+:	:	Saikyo Takada Nobuhiko (J).fig
+:	:	Sailor Moon (F).gd3
+:	:	Sakura Wars (PD).fig
+:	:	Sakurai Syoichi no Jongki Ryu Mahjong Hisyoho (J).gd3
+:	:	Same Game Another Character (J)(NG-Dump Known).mgd
+:	:	Same Game Far East of Eden Character (J)(NG-Dump Known).mgd
+:	:	Same Game Mario (J).smc
+:	:	Same Game Tsume Game (J).swc
+:	:	Samurai Shodown (E) [!].swc
+:	:	Samurai Shodown (U).swc
+:	:	Samurai Spirits (Beta).gd3
+:	:	Samurai Spirits (J).gd3
+:	:	Sandra no Daibouken (J).swc
+:	:	Sangokushi 3 (HK).swc
+:	:	Sangokushi 3 (V1.0) (J).fig
+:	:	Sangokushi 3 (V1.1) (J).smc
+:	:	Sangokushi 4 (J).ufo
+:	:	Sangokushi Eiketsu Den (J).smc
+:	:	Sangokushi Seishi Tenbu Spirits (J).mgd
+:	:	Sankyo Fever! Fever! (J).mgd
+:	:	Sanrio Shanghai (J).fig
+:	:	Sanrio World Smash Ball (J).fig
+:	:	Sansara Saga 2 (J).mgd
+:	:	Saturday Night Slam Masters (U).fig
+:	:	Scooby-Doo (Beta).swc
+:	:	Scooby-Doo (U).fig
+:	:	SeaQuest DSV (E).mgd
+:	:	SeaQuest DSV (U).fig
+:	:	Secret of Evermore (E) [!].swc
+:	:	Secret of Evermore (F).mgd
+:	:	Secret of Evermore (G).swc
+:	:	Secret of Evermore (S).swc
+:	:	Secret of Evermore (U).swc
+:	:	Secret of Mana (F).mgd
+:	:	Secret of Mana (G).swc
+:	:	Secret of Mana (U).smc
+:	:	Secret of Mana (V1.0) (E).mgd
+:	:	Secret of Mana (V1.1) (E) [!].swc
+:	:	Secret of the Stars (Beta).mgd
+:	:	Secret of the Stars (U).fig
+:	:	Seifuku Densetsu Pretty Fighter (J).fig
+:	:	Seiken Densetsu 2 (J).swc
+:	:	Seiken Densetsu 3 (J).fig
+:	:	Seiken Densetsu 3 - Sample (J).smc
+:	:	Seima Jyuden Beasts and Blades (J).smc
+:	:	Sengo Kuno Hasha - Tenka Fubu heno Michi (J).mgd
+:	:	Sengoku Densyo (J).fig
+:	:	Sensible Soccer (E)(31010).mgd
+:	:	Sensible Soccer (E)(37362).mgd
+:	:	Sensible Soccer - International Edition (E).swc
+:	:	Septentrion (J).smc
+:	:	Serizawa Nobuo no Birdie Try (J).fig
+:	:	Sexy HK Game Girls 1 (PD).swc
+:	:	Sexy HK Game Girls 2 (PD).swc
+:	:	Sgt Saunders Combat (J).swc
+:	:	Shadow, The (Beta).fig
+:	:	Shadow, The (U).mgd
+:	:	Shadowrun (E).swc
+:	:	Shadowrun (G).swc
+:	:	Shadowrun (J).fig
+:	:	Shadowrun (SW).swc
+:	:	Shadowrun (U)(17759).mgd
+:	:	Shadowrun (U)(63540).swc
+:	:	Shanghai - Banri no Tyojyo (J).swc
+:	:	Shanghai 2 - The Dragon's Eye (U).swc
+:	:	Shanghai 3 (J).mgd
+:	:	Shaq Fu (E) [!].gd3
+:	:	Shaq Fu (J)(NG-Dump Known).smc
+:	:	Shaq Fu (U).fig
+:	:	Shaq_Fu_(J)(NG-Dump_Known).smc
+:	:	Shi Ki Eiyuu Den (J).swc
+:	:	Shien The Blade Chaser (J).swc
+:	:	Shien's Revenge (Beta).swc
+:	:	Shien's Revenge (U).fig
+:	:	Shijou Saikyou no Quiz Ou Kettei Sen Super (J).fig
+:	:	Shijyo Saikyo League Serie A - Ace Striker (J).mgd
+:	:	Shimono Masaki no Fishing To Bassing (J).fig
+:	:	Shin Kidoesenki Gundam Wing - Endless Duel (J).swc
+:	:	Shin Majan (J).mgd
+:	:	Shin Momotarou Densetsu (J).mgd
+:	:	Shin Nekketsu Kouha Kunio tachi no Bannka (J).swc
+:	:	Shin Nihon Pro Wresling - Tyosenshi in Tokyo Dome (J).mgd
+:	:	Shin Nihon Pro Wresling Battle Field in Tokyo Dome (J).fig
+:	:	Shin Nihon Pro Wresling Kounin '95 Tokyo Dome Battle 7 (J).mgd
+:	:	Shin SD Sengokuden Taisyo Retsuden (J).swc
+:	:	Shin Star Trek - The Next Generation (J).mgd
+:	:	Shin Syogi Club (J).mgd
+:	:	Shin Tyou Kouki (J).mgd
+:	:	Shinri Game 2, The - Magical Trip (J).mgd
+:	:	Shinri Game 3, The (J).smc
+:	:	Shinri Game, The - Akuma no Kokoroji (J).swc
+:	:	Shinseiki Odysselya (J).fig
+:	:	Shinseiki Odysselya 2 (J).fig
+:	:	Shinzui Taikyoku Igo Gosennin (J).fig
+:	:	Shock-01 (PD).fig
+:	:	Shock-02 (PD).fig
+:	:	Shodan Morita Shogi (J).fig
+:	:	Shodani Nintei Shodan Pro Mahjong (J).swc
+:	:	Shogi Club (J).mgd
+:	:	Shogi Mahjing (J).mgd
+:	:	Shogi Saikyou 2 (J).mgd
+:	:	Shonen Ninja Sasuke (Beta).mgd
+:	:	Shonen Ninja Sasuke (J).fig
+:	:	Shoot (PD).swc
+:	:	Shoot Your Load (PD).fig
+:	:	Shougi Saikyou (J) [!].mgd
+:	:	Shushoku Game (J).mgd
+:	:	Side Pocket (E) [!].swc
+:	:	Side Pocket (J).fig
+:	:	Side Pocket (U).fig
+:	:	Sidmania (PD) [a1].fig
+:	:	Sidmania (PD).fig
+:	:	Silva Saga 2 (J)(14120).mgd
+:	:	Silva Saga 2 (J)(14602).swc
+:	:	Sim Ant (J).mgd
+:	:	Sim Ant (U)(37113).swc
+:	:	Sim Ant (U)(49046).swc
+:	:	Sim City (E) [!].swc
+:	:	Sim City (F).mgd
+:	:	Sim City (G).swc
+:	:	Sim City (J).fig
+:	:	Sim City (U) [!].swc
+:	:	Sim City 2000 (E) [!].swc
+:	:	Sim City 2000 (J).mgd
+:	:	Sim City 2000 (U).fig
+:	:	Sim City Jr (J).swc
+:	:	Sim Earth (J).mgd
+:	:	Sim Earth (U).swc
+:	:	Simpsons, The - Bart no Fushigi na Yume no Daibouken (J).fig
+:	:	Simpsons, The - Bart's Nightmare (E).swc
+:	:	Simpsons, The - Bart's Nightmare (U) [!].swc
+:	:	Simpsons, The - Itchy & Scratchy (E).fig
+:	:	Simpsons, The - Itchy & Scratchy (U).swc
+:	:	Simpsons, The - Krusty's Super Fun House (E) [!].swc
+:	:	Simpsons, The - Krusty's Super Fun House (E) [a1].swc
+:	:	Simpsons, The - Krusty's Super Fun House (V1.0) (U).swc
+:	:	Simpsons, The - Krusty's Super Fun House (V1.1) (U).gd3
+:	:	Simpsons, The - Krusty's World (J).fig
+:	:	Simulation Pro Yakyu (J).swc
+:	:	Simulation Pro Yakyu 2 (J).fig
+:	:	Sin Ikkaku Senkin (J).mgd
+:	:	Sin Seiki GPX Cyber Formula (J).mgd
+:	:	Sink or Swim (E).fig
+:	:	Sink or Swim (U).fig
+:	:	Siren Manga Volume 1 (PD).swc
+:	:	Siroi Rinngu He - Twinkle Little Star Story (J).mgd
+:	:	Sityusuimeigaku Nyumon Shin Togenkyo (J).fig
+:	:	Ski Paradise (J).mgd
+:	:	Skins Game, The (U).mgd
+:	:	Skul Jagger (Beta).swc
+:	:	Skul Jagger (U).fig
+:	:	Sky Blazer (E).fig
+:	:	Sky Blazer (U)(12134).swc
+:	:	Sky Blazer (U)(7581).fig
+:	:	Sky Mission (J).mgd
+:	:	Slap Stick (J).mgd
+:	:	Slayers (J).swc
+:	:	Slide Show 1 (AKA Graphic Show 2) (PD).mgd
+:	:	Slide Show 2 (AKA Graphic Show) (PD).mgd
+:	:	Smart Ball (U).swc
+:	:	Smash TV (E).swc
+:	:	Smash TV (J).fig
+:	:	Smash TV (U).gd3
+:	:	Smash Tennis (Beta).swc
+:	:	Smash Tennis (E) [!].swc
+:	:	Smile Writer (PD).fig
+:	:	Smile Writer (V1.1) (PD).swc
+:	:	Smile! - Super Colors Beta (PD).swc
+:	:	Smile! Christmas Demo 1994 (PD).swc
+:	:	Smurfs 2, The (E) [!].swc
+:	:	Smurfs, The (E).swc
+:	:	Snake Blasters (PD).swc
+:	:	Sneakers - Starfield Intro (PD).mgd
+:	:	Sneakers - The Falling Leaves Intro (PD).fig
+:	:	Sneakers Intro (PD).mgd
+:	:	Snoopy Concert (J).fig
+:	:	Snow White in Happily Ever After (U).fig
+:	:	Soccer Kid (Beta).fig
+:	:	Soccer Kid (E).gd3
+:	:	Soccer Kid (J).mgd
+:	:	Soccer Shootout (E).mgd
+:	:	Soldiers of Fortune (U) [!].mgd
+:	:	Solid Runner (J).mgd
+:	:	Solstice 2 (J).mgd
+:	:	Song Master (J).swc
+:	:	Sonic Blastman (E).gd3
+:	:	Sonic Blastman (J).swc
+:	:	Sonic Blastman (U).swc
+:	:	Sonic Blastman 2 (J).swc
+:	:	Sonic Blastman 2 (U).swc
+:	:	Sonic Still Picture (PD).fig
+:	:	Sonic Wings (J).smc
+:	:	Sonic the Hedgehog (Unl) [p1].swc
+:	:	Soreyuke Ebisumaru Karakuri Meiro Kieta Goemon no Nazo (J).mgd
+:	:	Sotsugyou Bangai Hen - Nee Mahjong Shiyo! (J).mgd
+:	:	Soul & Sword (J).mgd
+:	:	Soul Blader (J).swc
+:	:	Soul Blazer (F).swc
+:	:	Soul Blazer (G).fig
+:	:	Soul Blazer (U).swc
+:	:	Sound Novel Tukool (J).gd3
+:	:	Space Ace (Beta).fig
+:	:	Space Ace (E).gd3
+:	:	Space Ace (J).mgd
+:	:	Space Ace (U).swc
+:	:	Space Bazooka, Super Scope (J).fig
+:	:	Space Football (U).swc
+:	:	Space Funky B.O.B. (J).mgd
+:	:	Space Invaders (J).mgd
+:	:	Space Invaders (U).fig
+:	:	Space Megaforce (U) [!].gd3
+:	:	Space Ship (PD).fig
+:	:	Spanky's Quest (E).fig
+:	:	Spanky's Quest (U).swc
+:	:	Spark World (J).fig
+:	:	Sparkster (E).fig
+:	:	Sparkster (J).mgd
+:	:	Sparkster (U).swc
+:	:	Spawn (E) [!].swc
+:	:	Spawn (J).mgd
+:	:	Spawn (U).fig
+:	:	Spc Explorer 95 (PD).fig
+:	:	Spectre (E) [!].swc
+:	:	Spectre (U).swc
+:	:	Speed Racer (U).fig
+:	:	Speedy Gonzales (Beta).swc
+:	:	Speedy Gonzales (V1.0) (U).fig
+:	:	Speedy Gonzales (V1.1) (U).swc
+:	:	Spell Craft (U).mgd
+:	:	Spider-Man (Alpha).mgd
+:	:	Spider-Man - Animated (E).swc
+:	:	Spider-Man - Animated (U).swc
+:	:	Spider-Man - Lethal Foes (J).fig
+:	:	Spider-Man - Maximum Carnage (E) [!].fig
+:	:	Spider-Man - Maximum Carnage (E) [b1].fig
+:	:	Spider-Man - Maximum Carnage (U).swc
+:	:	Spider-Man - Separation Anxiety (E).mgd
+:	:	Spider-Man - Separation Anxiety (U).mgd
+:	:	Spider-Man and the X-Men (E).swc
+:	:	Spider-Man and the X-Men (U) (4 Man Version).fig
+:	:	Spider-Man and the X-Men (U).swc
+:	:	Spike Mix (PD).fig
+:	:	Spindizzy Worlds (E).swc
+:	:	Spindizzy Worlds (J).mgd
+:	:	Spindizzy Worlds (U).swc
+:	:	Spirou (E).mgd
+:	:	Sporting News Power Baseball (U).swc
+:	:	Sports Illustrated Championship Football & Baseball (Beta).mgd
+:	:	Sports Illustrated Championship Football & Baseball (U) [a1].fig
+:	:	Sports Illustrated Championship Football & Baseball (U).mgd
+:	:	Spriggan Powered (J).smc
+:	:	Sprinter Monogatari - Mezase Ikkaku Sennkinn!! (J).fig
+:	:	St. Andrews - Eikou to Rekishi no Old Course (J).gd3
+:	:	Star Fox (J).mgd
+:	:	Star Fox (V1.0) (U).swc
+:	:	Star Fox (V1.2) (U) [!].swc
+:	:	Star Fox Competition - Weekend Edition (E) [!].swc
+:	:	Star Fox Competition - Weekend Edition (U).gd3
+:	:	Star Ocean (J) [!].mgd
+:	:	Star Trek - Deep Space Nine - Crossroads of Time (Beta).swc
+:	:	Star Trek - Deep Space Nine - Crossroads of Time (E).smc
+:	:	Star Trek - Deep Space Nine - Crossroads of Time (U).mgd
+:	:	Star Trek - Starfleet Academy (E).swc
+:	:	Star Trek - Starfleet Academy (G).fig
+:	:	Star Trek - Starfleet Academy (U).smc
+:	:	Star Trek - The Next Generation - Future's Past (E).mgd
+:	:	Star Trek - The Next Generation - Future's Past (U).fig
+:	:	Star Wars Dark Force Slide Show (PD).fig
+:	:	Star Wars Portfolio (PD).fig
+:	:	Stardust Suplex (J).mgd
+:	:	Stargate (Beta).swc
+:	:	Stargate (E).swc
+:	:	Stargate (J).mgd
+:	:	Stargate (U).swc
+:	:	Starwing (G) [!].swc
+:	:	Starwing (V1.0) (E).fig
+:	:	Starwing (V1.1) (E) [!].swc
+:	:	Static (PD).fig
+:	:	Stealth (J).swc
+:	:	Steel Talons (U).swc
+:	:	Sterling Sharpe End 2 End (U).swc
+:	:	Steven Seagal Final Option Demo, Rsp, Inc (Beta).mgd
+:	:	Stone Protectors (J).swc
+:	:	Stone Protectors (U).fig
+:	:	Street Combat (E).fig
+:	:	Street Combat (U).swc
+:	:	Street Fighter 5 (Hack).swc
+:	:	Street Fighter Alpha 2 (E) [!].mgd
+:	:	Street Fighter Alpha 2 (E) [b1].swc
+:	:	Street Fighter Alpha 2 (U) [!].swc
+:	:	Street Fighter II - The World Warrior (E) [!].fig
+:	:	Street Fighter II - The World Warrior (J).mgd
+:	:	Street Fighter II - The World Warrior (U).gd3
+:	:	Street Fighter II Black Belt Edition (Hack).swc
+:	:	Street Fighter II Carnage (Hack).fig
+:	:	Street Fighter II Champ. Edition (Hack).smc
+:	:	Street Fighter II Dragon Edition Japan (Hack).swc
+:	:	Street Fighter II Lightning Edition USA (Hack).swc
+:	:	Street Fighter II Modified Edition (Hype Hack).fig
+:	:	Street Fighter II New Moves Edition Japan (Hack).swc
+:	:	Street Fighter II Next Generation (Hack).swc
+:	:	Street Fighter II Special Accelerated Edition (Hack).swc
+:	:	Street Fighter II Turbo (J).smc
+:	:	Street Fighter II Turbo (U).fig
+:	:	Street Fighter II Turbo (V1.0) (E) [!].swc
+:	:	Street Fighter II Turbo (V1.1) (E) [!].smc
+:	:	Street Fighter Zero 2 (J).mgd
+:	:	Street Hockey '95 (U)(47875).fig
+:	:	Street Hockey '95 (U)(51328).swc
+:	:	Street Racer (Beta).swc
+:	:	Street Racer (E).fig
+:	:	Street Racer (J).mgd
+:	:	Street Racer (U).swc
+:	:	Strike Gunner (E).swc
+:	:	Strike Gunner (J).fig
+:	:	Strike Gunner (U) [!].fig
+:	:	Striker (Beta).mgd
+:	:	Striker (E).gd3
+:	:	Stunt Race FX (E).swc
+:	:	Stunt Race FX (V1.1) (U) [!].swc
+:	:	Sugoi Hebereke (J).mgd
+:	:	Sugoro Quest ++ Dicenics (J).fig
+:	:	Sugoroku Ginga Senki (J).ufo
+:	:	Sun Spo Fishing Keiryu Ou (J).mgd
+:	:	Sunset Riders (E).fig
+:	:	Sunset Riders (U).fig
+:	:	Supapoon (J).smc
+:	:	Supapoon DX (J).smc
+:	:	Super 11-in-1 [p1].swc
+:	:	Super 3D Baseball (J).fig
+:	:	Super 4WD - The Baja (J).gd3
+:	:	Super 5-in-1 [p1].fig
+:	:	Super 6-in-1 [p1].fig
+:	:	Super 7-in-1 1997 [p1].swc
+:	:	Super 7-in-1 [p1].fig
+:	:	Super 8 Bios (U).ufo
+:	:	Super 9-in-1 [p1].fig
+:	:	Super Adventure Island (E).fig
+:	:	Super Adventure Island (U).swc
+:	:	Super Adventure Island II (Beta).smc
+:	:	Super Adventure Island II (E).swc
+:	:	Super Adventure Island II (U).swc
+:	:	Super Air Diver (E)(NG-Dump Known).smc
+:	:	Super Air Diver (J).mgd
+:	:	Super Air Diver 2 (J).swc
+:	:	Super Aleste (E).mgd
+:	:	Super Aleste (J) [t1].swc
+:	:	Super Aleste (J).mgd
+:	:	Super Aoki Ookami to Shiroki Mezika - Gentyou Hishi (J).swc
+:	:	Super Aquatic Games (Beta).fig
+:	:	Super Aquatic Games (U).swc
+:	:	Super BC Kid (E).smc
+:	:	Super Back to the Future 2 (J).mgd
+:	:	Super Bakenou '95 (J).mgd
+:	:	Super Baseball 2020 (J).mgd
+:	:	Super Baseball 2020 (U).fig
+:	:	Super Baseball Simulator 1000 (U).swc
+:	:	Super Bases Loaded (U).mgd
+:	:	Super Bases Loaded 2 (U).swc
+:	:	Super Bases Loaded 3 (V1.0) (U).swc
+:	:	Super Bases Loaded 3 (V1.1) (U)(NG-Dump Known).swc
+:	:	Super Batter Up (U).fig
+:	:	Super Battleship (E).fig
+:	:	Super Battleship (U).smc
+:	:	Super Battletank (E).swc
+:	:	Super Battletank (J).ufo
+:	:	Super Battletank (V1.0) (U).swc
+:	:	Super Battletank (V1.1) (U) [!].fig
+:	:	Super Battletank 2 (E) [!].swc
+:	:	Super Battletank 2 (J).mgd
+:	:	Super Battletank 2 (S) [!].swc
+:	:	Super Battletank 2 (U).fig
+:	:	Super Bikkuriman (J).mgd
+:	:	Super Billiard (J).mgd
+:	:	Super Birdie Rush (J).swc
+:	:	Super Black Bass (J).mgd
+:	:	Super Black Bass (U).swc
+:	:	Super Black Bass 2 (J).swc
+:	:	Super Black Bass 3 (V1.0) (J).mgd
+:	:	Super Black Bass 3 (V1.1) (J).fig
+:	:	Super Bomberman (E).fig
+:	:	Super Bomberman (J).mgd
+:	:	Super Bomberman (U).swc
+:	:	Super Bomberman 2 (E).smc
+:	:	Super Bomberman 2 (J).mgd
+:	:	Super Bomberman 2 (U).swc
+:	:	Super Bomberman 2 - Caravan Edition (J).gd3
+:	:	Super Bomberman 3 (E).fig
+:	:	Super Bomberman 3 (J)(33874).swc
+:	:	Super Bomberman 3 (J)(35326).mgd
+:	:	Super Bomberman 4 (J).fig
+:	:	Super Bomberman 5 (J).swc
+:	:	Super Bomberman 5 Gold Cartridge (J) [!].mgd
+:	:	Super Bomberman Panic Bomber World (J).mgd
+:	:	Super Bombliss (J).mgd
+:	:	Super Bonk (U).fig
+:	:	Super Bowling (J).fig
+:	:	Super Bowling (U).swc
+:	:	Super Buster Brothers (V1.0) (U).swc
+:	:	Super Buster Brothers (V1.1) (U).fig
+:	:	Super Caesars Palace (Beta).fig
+:	:	Super Caesars Palace (U).fig
+:	:	Super Casino - Caesars Palace (V1.0) (J).gd3
+:	:	Super Casino - Caesars Palace (V1.1) (J).mgd
+:	:	Super Casino 2 (J).mgd
+:	:	Super Castles (J).mgd
+:	:	Super Castlevania IV (E) [!].gd3
+:	:	Super Castlevania IV (U) [!].swc
+:	:	Super Castlevania IV (U) [T-Port].swc
+:	:	Super Chase HQ (E) [!].swc
+:	:	Super Chase HQ (J).mgd
+:	:	Super Chase HQ (U).swc
+:	:	Super Chinese Fighter (J).swc
+:	:	Super Chinese World (J).fig
+:	:	Super Chinese World 2 (Beta).fig
+:	:	Super Chinese World 2 (J).mgd
+:	:	Super Chinese World 3 (J).mgd
+:	:	Super Conflict (E) [!].swc
+:	:	Super Conflict (U).swc
+:	:	Super Cup Soccer (J).fig
+:	:	Super Dai Koukai Jidai (J).mgd
+:	:	Super Dany (Beta).mgd
+:	:	Super Dany (F).swc
+:	:	Super Dogfight (J).fig
+:	:	Super Donkey Kong (V1.0) (J).mgd
+:	:	Super Donkey Kong (V1.1) (J).smc
+:	:	Super Donkey Kong 2 (V1.0) (J).mgd
+:	:	Super Donkey Kong 2 (V1.1) (J).smc
+:	:	Super Donkey Kong 3 (V1.0) (J).mgd
+:	:	Super Donkey Kong 3 (V1.1) (J).smc
+:	:	Super Double Dragon (E) [!].fig
+:	:	Super Double Dragon (E) [a1].swc
+:	:	Super Double Dragon (U).swc
+:	:	Super Double Yakuman (J).fig
+:	:	Super Double Yakuman 2 (J).fig
+:	:	Super Drakkhen (J)(1779) (PAL Hack) [h1].swc
+:	:	Super Drakkhen (J)(2295).swc
+:	:	Super Drift Out (J).mgd
+:	:	Super Dunk Shot (J).mgd
+:	:	Super Dunk Star (J).fig
+:	:	Super Earth Defense Force (E).fig
+:	:	Super Earth Defense Force (J).mgd
+:	:	Super Earth Defense Force (U).swc
+:	:	Super F1 Circus (J).fig
+:	:	Super F1 Circus 2 (J).swc
+:	:	Super F1 Circus 3 (J).swc
+:	:	Super F1 Circus Gaiden (J) [h1].smc
+:	:	Super F1 Circus Gaiden (J).smc
+:	:	Super F1 Circus Limited (J).mgd
+:	:	Super F1 Hero (J).mgd
+:	:	Super Famicom Wars (J) (NP).swc
+:	:	Super Family Circuit (J).mgd
+:	:	Super Family Gerende (J) (NP).mgd
+:	:	Super Family Tennis (J).mgd
+:	:	Super Famista (J).swc
+:	:	Super Famista 2 (J).mgd
+:	:	Super Famista 3 (J).swc
+:	:	Super Famista 4 (V1.0) (J) [h1].mgd
+:	:	Super Famista 4 (V1.0) (J).swc
+:	:	Super Famista 4 (V1.1) (J).mgd
+:	:	Super Famista 5 (J).swc
+:	:	Super Final Match Tennis (J).mgd
+:	:	Super Fire Pro Wrestling 1 (J).swc
+:	:	Super Fire Pro Wrestling 2 (J).fig
+:	:	Super Fire Pro Wrestling 3 (J).swc
+:	:	Super Fire Pro Wrestling 3 Easy (J).swc
+:	:	Super Fire Pro Wrestling Queens Special (J).swc
+:	:	Super Fire Pro Wrestling Special (J).swc
+:	:	Super Fire Pro Wrestling X (J).swc
+:	:	Super Fire Pro Wrestling X Premium (J).smc
+:	:	Super Fishing - Big Fight (J).mgd
+:	:	Super Formation Soccer (J).mgd
+:	:	Super Formation Soccer 2 (J).mgd
+:	:	Super Formation Soccer 94 (J).mgd
+:	:	Super Formation Soccer 94 - World Cup Final Data (J).mgd
+:	:	Super Formation Soccer 95 della Serie A (J).mgd
+:	:	Super Formation Soccer 95 della Serie A UCC Xaqua (J) [!].mgd
+:	:	Super Formation Soccer 96 (J).swc
+:	:	Super Full Metal (SW) (Beta) [h1].fig
+:	:	Super Full Metal (SW) (Beta).mgd
+:	:	Super Gameboy (V1.0) (J).swc
+:	:	Super Gameboy (V1.1) (J) [!].fig
+:	:	Super Gameboy (V1.2) (J) [R-Euro][!].ufo
+:	:	Super Gameboy 2 (V1.1(6)) (J) [!].smc
+:	:	Super Genjin (J).mgd
+:	:	Super Genjin 2 (J).fig
+:	:	Super Ghouls 'N Ghosts (E).swc
+:	:	Super Ghouls 'N Ghosts (U) [!].swc
+:	:	Super Goal! (E) [!].swc
+:	:	Super Goal! (U).swc
+:	:	Super Goal! 2 (U).fig
+:	:	Super Godzilla (J).fig
+:	:	Super Godzilla (U).fig
+:	:	Super Gomoku Narabe (J).fig
+:	:	Super Gomoku Shogi (J).mgd
+:	:	Super Gussun Oyoyo (J) (Sample) [!].mgd
+:	:	Super Gussun Oyoyo (J).fig
+:	:	Super Gussun Oyoyo 2 (J).swc
+:	:	Super Hanafuda (J).mgd
+:	:	Super Hanafuda 2 (J).mgd
+:	:	Super High Impact (Beta).mgd
+:	:	Super High Impact (J).mgd
+:	:	Super High Impact (U).fig
+:	:	Super Hockey '94 (J).mgd
+:	:	Super Hockey (E).swc
+:	:	Super Honnmei G1 Seiha (J).mgd
+:	:	Super Ice Hockey (E).mgd
+:	:	Super Igo Goou (J).fig
+:	:	Super Indy Champ (J).fig
+:	:	Super Inindo - Datou Nobunaga (J).mgd
+:	:	Super International Cricket (E)(31119) [!].swc
+:	:	Super International Cricket (E)(64074) [!].swc
+:	:	Super James Pond (Beta).fig
+:	:	Super James Pond (U).smc
+:	:	Super James Pond 2 (E) [!].mgd
+:	:	Super James Pond 2 (J).mgd
+:	:	Super Jinsei Game (V1.0) (J).swc
+:	:	Super Jinsei Game (V1.1) (J).fig
+:	:	Super Jinsei Game 2 (J).mgd
+:	:	Super Jinsei Game 3 (J).swc
+:	:	Super Keiba (J).mgd
+:	:	Super Keiba 2 (J).mgd
+:	:	Super Keirin (J).mgd
+:	:	Super Kick Boxing (J).fig
+:	:	Super Kick Off (J).mgd
+:	:	Super Kokou Yakyu - Ikkyu Nyu Kon (J).fig
+:	:	Super Kyosoba - Kaze no Sylphid (J).fig
+:	:	Super Kyotei (J).mgd
+:	:	Super Kyotei 2 (J).fig
+:	:	Super Kyukyoku Harikiri Stadium (J).fig
+:	:	Super Kyukyoku Harikiri Stadium 2 (J).smc
+:	:	Super Linear Ball (J).mgd
+:	:	Super Loopz (J).gd3
+:	:	Super Mad Champ (J).fig
+:	:	Super Mahjong (J).mgd
+:	:	Super Mahjong 2 - Honkaku 4nin Uchi (J).mgd
+:	:	Super Mahjong 3 - Karakuchi (J).mgd
+:	:	Super Mahjong Taikai (V1.0) (J).mgd
+:	:	Super Mahjong Taikai (V1.3) (J).swc
+:	:	Super Mario All-Stars & World (E) [!].swc
+:	:	Super Mario All-Stars & World (U).swc
+:	:	Super Mario All-Stars (E) [!].swc
+:	:	Super Mario All-Stars (U).swc
+:	:	Super Mario Collection (V1.0) (J).fig
+:	:	Super Mario Collection (V1.1) (J).mgd
+:	:	Super Mario Kart (E) [!].swc
+:	:	Super Mario Kart (J).mgd
+:	:	Super Mario Kart (Turbo Hack).swc
+:	:	Super Mario Kart (U).swc
+:	:	Super Mario RPG (U) [T-Norwegian_V2000.02.15-97A_Just4Fun].mgd
+:	:	Super Mario RPG (U) [T-Norwegian_V2000.10.04-98A_Just4Fun].mgd
+:	:	Super Mario RPG (U).mgd
+:	:	Super Mario RPG (V1.0) (J).mgd
+:	:	Super Mario RPG (V1.1) (J)(NG-Dump Known).swc
+:	:	Super Mario War (Hack).swc
+:	:	Super Mario World (J) [!].mgd
+:	:	Super Mario World (U) [!].fig
+:	:	Super Mario World (U) [T-Norwegian_V2001.04.28_Just4Fun].fig
+:	:	Super Mario World (V1.0) (E).swc
+:	:	Super Mario World (V1.1) (E) [!].swc
+:	:	Super Metroid (E) [!].swc
+:	:	Super Metroid (JU) [!].swc
+:	:	Super Moero Pro Yakyu (J).mgd
+:	:	Super Momotarou Densetsu 3 (V1.0) (J).fig
+:	:	Super Momotarou Densetsu 3 (V1.1) (J).smc
+:	:	Super Momotarou Densetsu 3 (V1.2) (J) [!].mgd
+:	:	Super Momotarou Dentetsu 2 (J).fig
+:	:	Super Momotarou Dentetsu DX (J).mgd
+:	:	Super Morph (E).swc
+:	:	Super NES - Nintendo Scope 6 (E) [!].smc
+:	:	Super NES - Nintendo Scope 6 (J).fig
+:	:	Super NES - Nintendo Scope 6 (U).swc
+:	:	Super Naxat Open Golf (J).mgd
+:	:	Super Nazo Puyo - Ruru no Ruu (J).mgd
+:	:	Super Nazo Puyo 2 - Ruru no Tetsuwan Hanjyou ki (J).mgd
+:	:	Super Nichibutsu Mahjong (J).swc
+:	:	Super Nichibutsu Mahjong 2 - Zenkoku Seiha Hen (J).fig
+:	:	Super Nichibutsu Mahjong 3 - Yoshimoto Gekijyo Hen (J).mgd
+:	:	Super Nichibutsu Mahjong 4 - Kiso Kenkyu Hen (J).fig
+:	:	Super Ninja Boy (U).swc
+:	:	Super Ninja Kun (J).mgd
+:	:	Super Noah's Ark 3D (U) (Retail Hack) [h1].swc
+:	:	Super Noah's Ark 3D (U).swc
+:	:	Super Nobunaga no Busyo Fuunroku (J).mgd
+:	:	Super Nobunaga no Yabou Zenkokuban (J).mgd
+:	:	Super Nova (U).fig
+:	:	Super Off Road (E) [!].swc
+:	:	Super Off Road (J).mgd
+:	:	Super Off Road (U).swc
+:	:	Super Offroad Baja (Beta).mgd
+:	:	Super Offroad Baja (U).smc
+:	:	Super Okuman Tyoja Game (J).mgd
+:	:	Super Oozumou - Nessen Ou Ichiban (J).swc
+:	:	Super Ota Quiz (PD).fig
+:	:	Super Pachi Slot & Mahjong (J).mgd
+:	:	Super Pachinko (J).mgd
+:	:	Super Pachinko Taisen (J).mgd
+:	:	Super Pang (E).gd3
+:	:	Super Pang (J).fig
+:	:	Super Pinball - Behind the Mask (E).fig
+:	:	Super Pinball - Behind the Mask (J)(17777).mgd
+:	:	Super Pinball - Behind the Mask (J)(63953).smc
+:	:	Super Pinball - Behind the Mask (V1.1) (U).swc
+:	:	Super Pinball 2 - Amazing Odyssey (J).swc
+:	:	Super Play Action Football (U).swc
+:	:	Super Pong (PD).mgd
+:	:	Super Power League (J).mgd
+:	:	Super Power League 2 (V1.0) (J).swc
+:	:	Super Power League 2 (V1.1) (J) [!].mgd
+:	:	Super Power League 3 (J).smc
+:	:	Super Power League 4 (J) [!].mgd
+:	:	Super Pro Fighter DOS rom (BIOS).mgd
+:	:	Super Probotector - The Alien Rebels (E).fig
+:	:	Super Professional Baseball (J).mgd
+:	:	Super Professional Baseball 2 (J).mgd
+:	:	Super Punch-Out!! (E).fig
+:	:	Super Punch-Out!! (J) (NP).mgd
+:	:	Super Punch-Out!! (U).swc
+:	:	Super Putty (Beta).swc
+:	:	Super Putty (E).fig
+:	:	Super Putty (U).fig
+:	:	Super Puyo Puyo (J).mgd
+:	:	Super Puyo Puyo (V1.1) (J) [!].mgd
+:	:	Super Puyo Puyo (V1.2) (J) [!].mgd
+:	:	Super Puyo Puyo 2 (J).smc
+:	:	Super Puyo Puyo 2 Remix (J).swc
+:	:	Super R-Type (E).swc
+:	:	Super R-Type (J).mgd
+:	:	Super R-Type (U).swc
+:	:	Super RBI Baseball (U).mgd
+:	:	Super Real Mahjong P4 (J).mgd
+:	:	Super Real Mahjong P5 - Paradise (J).mgd
+:	:	Super Robot Taisen EX (J).swc
+:	:	Super Royal Blood (J).fig
+:	:	Super Rugby (J).fig
+:	:	Super SWIV (E).swc
+:	:	Super SWIV (J) (32469).swc
+:	:	Super SWIV (J) (62746).mgd
+:	:	Super Sangokushi (J).ufo
+:	:	Super Sangokushi 2 (V1.0) (J).ufo
+:	:	Super Sangokushi 2 (V1.1) (J).mgd
+:	:	Super Shadow of the Beast (U).fig
+:	:	Super Shanghai - Dragons Eye (J).swc
+:	:	Super Shogi (J).mgd
+:	:	Super Shogi 2 (J).mgd
+:	:	Super Shogi 3 - Kitaihei (J).mgd
+:	:	Super Slapshot (J).swc
+:	:	Super Slapshot (U).swc
+:	:	Super Snakey (J).ufo
+:	:	Super Soccer (E).swc
+:	:	Super Soccer (U).swc
+:	:	Super Soccer Champion (U).swc
+:	:	Super Solitaire (E).fig
+:	:	Super Solitaire (U).smc
+:	:	Super Soukoban (J).mgd
+:	:	Super Stadium (J).mgd
+:	:	Super Star Wars (E) [!].fig
+:	:	Super Star Wars (J).fig
+:	:	Super Star Wars (U)(22563).swc
+:	:	Super Star Wars (U)(31438).swc
+:	:	Super Star Wars - Empire Strikes Back (E) (Beta).fig
+:	:	Super Star Wars - Empire Strikes Back (E) [!].swc
+:	:	Super Star Wars - Empire Strikes Back (J).swc
+:	:	Super Star Wars - Empire Strikes Back (V1.0) (U) [!].swc
+:	:	Super Star Wars - Empire Strikes Back (V1.1) (U).swc
+:	:	Super Star Wars - Return of the Jedi (E) [!].swc
+:	:	Super Star Wars - Return of the Jedi (J).fig
+:	:	Super Star Wars - Return of the Jedi (LucasArts) (U).gd3
+:	:	Super Star Wars - Return of the Jedi (T-HQ) (U).swc
+:	:	Super Street Fighter 2 - The New Challengers (E) [!].swc
+:	:	Super Street Fighter 2 - The New Challengers (J).swc
+:	:	Super Street Fighter 2 - The New Challengers (U).fig
+:	:	Super Street Fighter 2 - Turbo Picture Show (PD).fig
+:	:	Super Strike Eagle (E).swc
+:	:	Super Strike Eagle (J).smc
+:	:	Super Strike Eagle (U).mgd
+:	:	Super Syobo Syobo CG Collection (PD).smc
+:	:	Super Tekyu Fight (J).mgd
+:	:	Super Tennis (U).swc
+:	:	Super Tennis (V1.0) (E).swc
+:	:	Super Tennis (V1.1) (E) [!].swc
+:	:	Super Tennis World Circuit (J).mgd
+:	:	Super Tetris 2 & Bombliss (J).swc
+:	:	Super Tetris 2 & Bombliss Limited (J).fig
+:	:	Super Tetris 3 (J).mgd
+:	:	Super Tramp Collection (J).mgd
+:	:	Super Tramp Collection 2 (J).mgd
+:	:	Super Troll Islands (Beta).mgd
+:	:	Super Troll Islands (J).mgd
+:	:	Super Troll Islands (U).swc
+:	:	Super Tsumeshogi 1000 (J).fig
+:	:	Super Turrican (E).swc
+:	:	Super Turrican (J).mgd
+:	:	Super Turrican (U).mgd
+:	:	Super Turrican 2 (E).swc
+:	:	Super Turrican 2 (J).fig
+:	:	Super Turrican 2 (U)(32515).swc
+:	:	Super Turrican 2 (U)(6949).ufo
+:	:	Super UFO Pro-7 BIOS v7.3 (BIOS).swc
+:	:	Super Ultra Baseball (J).mgd
+:	:	Super Ultra Baseball 2 (J).mgd
+:	:	Super Uno (J).smc
+:	:	Super Valis - Akaki Tuki no Otome (J).swc
+:	:	Super Valis IV (U).smc
+:	:	Super Variable Geo (J).fig
+:	:	Super Volleyball 2 (J).swc
+:	:	Super Wagan Land (J).fig
+:	:	Super Wagan Land 2 (J).mgd
+:	:	Super Widget (U).swc
+:	:	Super Wild Card DX DOS ROM V1.122 (BIOS).mgd
+:	:	Super Wild Card DX2 DOS ROM V1.106 (BIOS).swc
+:	:	Super Wild Card V2.255 DOS ROM (BIOS).mgd
+:	:	Super Wrestle Angels (J).mgd
+:	:	Super Yakyudou (J).fig
+:	:	Super Zugan - Hakoten-Jyo Kara no Syoutai (J).swc
+:	:	Super Zugan 2 - Tsukanpo Fighter (J).swc
+:	:	Super_Adventure_Island_2_(Beta).smc
+:	:	Super_Air_Diver_(E)(NG-Dump_Known).smc
+:	:	Superstar Soccer 2 - Ronaldinho 97 (U) [p1][!].fig
+:	:	Sutobasu Yarou Show - 3 on 3 Basketball (J).mgd
+:	:	Sutte Hakkun (J) (NP).swc
+:	:	Suzuka 8 Hours (J).fig
+:	:	Suzuka 8 Hours (U).swc
+:	:	Suzuki Aguri no F-1 Super Driving (J).mgd
+:	:	Swap Intro (PD).fig
+:	:	Swat Kats (U).fig
+:	:	Sword Maniac (J).smc
+:	:	Sword World SFC (J).mgd
+:	:	Sword World SFC 2 (J).mgd
+:	:	Syndicate (E) [!].swc
+:	:	Syndicate (E) [a1].swc
+:	:	Syndicate (J).smc
+:	:	Syndicate (U).fig
+:	:	Syodai Nekketsu Kouha Kunio kun (J).fig
+:	:	Syogi Furinkazan (J).mgd
+:	:	Syonen Ashibe (J).swc
+:	:	Syonin yo Taishi wo Idake!! (J).swc
+:	:	Syougi Zanmai (J).gd3
+:	:	Syutoko Battle Racing 2 (J).mgd
+:	:	Syutoko Battle Racing 94' (J).smc
+:	:	Syvalion (Beta).swc
+:	:	Syvalion (E).mgd
+:	:	Syvalion (J).mgd
+:	:	shinoni1.r00
+:	:	shinoni1.r01
+:	:	shinoni2.r00
+:	:	shinoni2.r01
+:	:	star fox 2 (beta).smc
+:	:	star fox 2 (early beta) [!].smc
+:	:	super gameboy loader by anthrox (pd).smc
+:	T
+:	:	T2 - The Arcade Game (E).swc
+:	:	T2 - The Arcade Game (J).mgd
+:	:	T2 - The Arcade Game (U).mgd
+:	:	TKO Super Championship Boxing (E).swc
+:	:	TKO Super Championship Boxing (U).swc
+:	:	TNN Bass Fishing (U).swc
+:	:	TRSI Intro (PD).swc
+:	:	TV Animation Slam Dunk - SD Heat Up!! (J).mgd
+:	:	TV Animation Slam Dunk - Yonkyo Taiketu (J).fig
+:	:	TV Animation Slam Dunk - Yonkyo Taiketu Shueisha Limited (J) [!].mgd
+:	:	TV Animation Slam Dunk 2 - IH Yosen Kanzenban (J).swc
+:	:	Table Game Daisyugo - Shogi Mahjong Hanafuda (J).swc
+:	:	Tactical Soccer (J)(20981).swc
+:	:	Tactical Soccer (J)(20997).smc
+:	:	Tactics Ogre (V1.0) (J).fig
+:	:	Tactics Ogre (V1.1) (J).mgd
+:	:	Tactics Ogre (V1.2) (J).mgd
+:	:	Tadaima Yusya Bosyutyu Okawari (J).mgd
+:	:	Taekwon-Do (J).fig
+:	:	Taiketsu!! Brass Numbers (J).swc
+:	:	Taikou Rishinden (J).swc
+:	:	Taikyoku - IGO Goliath (J).mgd
+:	:	Taikyoku Igo Idaten (J).mgd
+:	:	Taiwan Mahjong (Unl) (J).mgd
+:	:	Takahashi Meijin no Daibouken Jima (J).mgd
+:	:	Takahashi Meijin no Daibouken Jima 2 (J).mgd
+:	:	Take Yutaka G1 Memory (J).mgd
+:	:	Take the A Train (J).fig
+:	:	Takeda Nobuhiro no Super Cup Soccer (J).mgd
+:	:	Takeda Nobuhiro no Super League Soccer (J).fig
+:	:	Takemiya Masaki 9dan no Igo Taisyou (J).mgd
+:	:	Tales of Phantasia (J) [T-Eng1.0_DeJap].swc
+:	:	Tales of Phantasia (J) [T-Eng1.2L_DeJap].swc
+:	:	Tales of Phantasia (J) [T-Eng1.2_DeJap].swc
+:	:	Tales of Phantasia (J).mgd
+:	:	Tamagotch Town (J) (NP).swc
+:	:	Tarot Mystery (J).smc
+:	:	Tatakae Gennshizin 2 (J).swc
+:	:	Tatakae Genshijin 3 - Syuyaku ha yappari Joe and Mac 3 (J).smc
+:	:	Taurus Intro (PD).swc
+:	:	Taz-Mania (Beta).swc
+:	:	Taz-Mania (E).swc
+:	:	Taz-Mania (U).swc
+:	:	Tecmo Super Baseball (Beta).swc
+:	:	Tecmo Super Baseball (J).mgd
+:	:	Tecmo Super Baseball (U).swc
+:	:	Tecmo Super Bowl (Beta) [b1].mgd
+:	:	Tecmo Super Bowl (Beta).swc
+:	:	Tecmo Super Bowl (J).fig
+:	:	Tecmo Super Bowl (U).fig
+:	:	Tecmo Super Bowl 2 (J).mgd
+:	:	Tecmo Super Bowl 2 (U).mgd
+:	:	Tecmo Super Bowl 3 (J).smc
+:	:	Tecmo Super Bowl 3 (U).swc
+:	:	Tecmo Super NBA Basketball (E) (Beta).swc
+:	:	Tecmo Super NBA Basketball (E) [!].swc
+:	:	Tecmo Super NBA Basketball (U).mgd
+:	:	Tecmo Super NBA Basketball (V1.0) (J).swc
+:	:	Tecmo Super NBA Basketball (V1.1) (J).mgd
+:	:	Teddy Demo (PD).swc
+:	:	Teddy Demo 2 (PD).swc
+:	:	Teenage Mutant Hero Turtles - Tournament Fighters (Beta).swc
+:	:	Teenage Mutant Hero Turtles - Tournament Fighters (E).gd3
+:	:	Teenage Mutant Hero Turtles IV - Turtles in Time (E).gd3
+:	:	Teenage Mutant Ninja Turtles - Mutant Warriors (J).smc
+:	:	Teenage Mutant Ninja Turtles - Tournament Fighters (Beta).mgd
+:	:	Teenage Mutant Ninja Turtles - Tournament Fighters (U).gd3
+:	:	Teenage Mutant Ninja Turtles - Turtles in Time (J).swc
+:	:	Teenage Mutant Ninja Turtles IV - Turtles in Time (U) (Beta).swc
+:	:	Teenage Mutant Ninja Turtles IV - Turtles in Time (U) [!].swc
+:	:	Tegami - A Letter #1 by Kami (PD).fig
+:	:	Teitoku no Ketsudan (V1.0) (J).mgd
+:	:	Teitoku no Ketsudan (V1.1) (J).fig
+:	:	Teitoku no Ketsudan 2 (V1.0) (J).smc
+:	:	Teitoku no Ketsudan 2 (V1.1) (J).fig
+:	:	Tekichuu Keiba Juku (J).mgd
+:	:	Tekken 2 (PD).swc
+:	:	Tenchi Muyou - Game hen (J) [T-EngV0.98].smc
+:	:	Tenchi Muyou - Game hen (J).mgd
+:	:	Tenchi Souzou (Chinese Hack).swc
+:	:	Tenchi Souzou (J).swc
+:	:	Tenchi Wo Kurau - Sangokushi Gunyuden (J).mgd
+:	:	Tenchi_Muyou_-_Game_hen_(J)_[T-EngV0.98].smc
+:	:	Tenshi no Uta (J).mgd
+:	:	Terminator 2 - Judgment Day (Beta).mgd
+:	:	Terminator 2 - Judgment Day (E) [!].swc
+:	:	Terminator 2 - Judgment Day (U).mgd
+:	:	Terminator, The (Beta).fig
+:	:	Terminator, The (U).mgd
+:	:	Terranigma (E) [!].swc
+:	:	Terranigma (F).swc
+:	:	Terranigma (G).swc
+:	:	Terranigma (S).fig
+:	:	Test - Frog Picture (PD).fig
+:	:	Test Drive 2 (U)(20429).swc
+:	:	Test Drive 2 (U)(24291).fig
+:	:	Tetris & Dr Mario (E) [!].swc
+:	:	Tetris & Dr Mario (U).swc
+:	:	Tetris 2 (E).fig
+:	:	Tetris 2 (V1.0) (U).fig
+:	:	Tetris 2 (V1.1) (U) [!].swc
+:	:	Tetris Attack (E).fig
+:	:	Tetris Attack (U).fig
+:	:	Tetris Battle Gaiden (J).mgd
+:	:	Tetris Flash (J).smc
+:	:	Tetsuwa no Atomu (J).mgd
+:	:	Theme Park (E) [!].swc
+:	:	Theme Park (E) [h1].mgd
+:	:	Theme Park (J).mgd
+:	:	Therapy Christmas Demo (PD).fig
+:	:	Therapy Party Demo (PD).fig
+:	:	Thingy - Bogus (PD).fig
+:	:	Thomas the Tank Engine & Friends (E) [!].swc
+:	:	Thomas the Tank Engine & Friends (U).swc
+:	:	Thoroughbred Breeder (J).mgd
+:	:	Thoroughbred Breeder 2 (J).mgd
+:	:	Thoroughbred Breeder 3 (J).swc
+:	:	Thunder Spirits (J).mgd
+:	:	Thunder Spirits (U).swc
+:	:	Thunderbirds (J).mgd
+:	:	Tic-Tac-Toe (PD).fig
+:	:	Tic-Tac-Toe - Test Version (PD).fig
+:	:	Tick, The (E) [!].mgd
+:	:	Tick, The (U).fig
+:	:	Time Cop (E).fig
+:	:	Time Cop (J).fig
+:	:	Time Cop (U).fig
+:	:	Time Slip (Beta).mgd
+:	:	Time Slip (E).smc
+:	:	Time Slip (U).swc
+:	:	Time Trax (Beta).swc
+:	:	Time Trax (E) [!].fig
+:	:	Time Trax (U).swc
+:	:	Timon & Pumbaa's Jungle Games (E) [!].swc
+:	:	Timon & Pumbaa's Jungle Games (U).fig
+:	:	Tin Tin in Tibet (E).swc
+:	:	Tinhead (E).fig
+:	:	Tinstar (U) [!].swc
+:	:	Tiny Toons - Wild and Wacky Sports (Beta)(NG-Dump Known).swc
+:	:	Tiny Toons - Wild and Wacky Sports (U).swc
+:	:	Tiny Toons - Wild and Wacky Sports (V1.0) (E) [!].fig
+:	:	Tiny Toons - Wild and Wacky Sports (V1.1) (E) [!].swc
+:	:	Tiny Toons Adventures - Buster Busts Loose! (E) [!].gd3
+:	:	Tiny Toons Adventures - Buster Busts Loose! (J).swc
+:	:	Tiny Toons Adventures - Buster Busts Loose! (S) [!].swc
+:	:	Tiny Toons Adventures - Buster Busts Loose! (U)(21699).swc
+:	:	Tiny Toons Adventures - Buster Busts Loose! (U)(22022).swc
+:	:	Tiny Toons Adventures - Dotabata Dai Undoukai (J).gd3
+:	:	Titans Intro (PD).fig
+:	:	Toc Intro (PD).fig
+:	:	Toilet (PD).fig
+:	:	Tokimeki Memorial (V1.0) (J) [!].gd3
+:	:	Tokimeki Memorial (V1.1) (J).smc
+:	:	Tokoro's Mahjong (J).fig
+:	:	Tom & Jerry (Beta).swc
+:	:	Tom & Jerry (J).swc
+:	:	Tom & Jerry (U).swc
+:	:	Tony Meola's Sidekicks Soccer (U).mgd
+:	:	Top Gear (E).swc
+:	:	Top Gear (U).swc
+:	:	Top Gear 2 (E) [!].swc
+:	:	Top Gear 2 (U).fig
+:	:	Top Gear 3000 (E).swc
+:	:	Top Gear 3000 (U).gd3
+:	:	Top Management 2 (J).mgd
+:	:	Top Racer (J).fig
+:	:	Top Racer 2 (J).mgd
+:	:	Toride (J).mgd
+:	:	Torneco no Daibouken (V1.0) (J).mgd
+:	:	Torneco no Daibouken (V1.1) (J) [!].fig
+:	:	Total Carnage (Beta).fig
+:	:	Total Carnage (E) [!].gd3
+:	:	Total Carnage (U) [!].swc
+:	:	Total Carnage (U) [a1].swc
+:	:	Total Football (E)(NG-Dump Known).swc
+:	:	Tottemo Lucky Man (J).mgd
+:	:	Touge Densetsu Saisoku Battle (J).fig
+:	:	Tower Dream (J).fig
+:	:	Toy Story (E).fig
+:	:	Toy Story (J).smc
+:	:	Toy Story (U).fig
+:	:	Toy Story Slide Show (PD).fig
+:	:	Toys (E).fig
+:	:	Toys (U).fig
+:	:	Tramp Island (J).fig
+:	:	Traverse Starlight & Prairie (J).swc
+:	:	Treasure Hunter G (J).swc
+:	:	Trendline - Flashing Intro (PD).mgd
+:	:	Tri-Star Dos - NES-SNES (Adaptor BIOS).swc
+:	:	Trinea (J).swc
+:	:	Troddlers (Beta).swc
+:	:	Troddlers (E) [!].swc
+:	:	Troddlers (U).swc
+:	:	Troy Aikman NFL Football (E).gd3
+:	:	Troy Aikman NFL Football (U).fig
+:	:	True Lies (Beta).fig
+:	:	True Lies (E).mgd
+:	:	True Lies (G) [!].gd3
+:	:	True Lies (J).fig
+:	:	True Lies (U).fig
+:	:	Tsukikomori (J).mgd
+:	:	Tsuppari Oozumo - Rissin Syusse Hen (J).mgd
+:	:	Tsuri Taro (J).mgd
+:	:	Tsuyoshi Shikkarishinasai Taisen Pazurudama (J).mgd
+:	:	Tuff E Nuff (E).fig
+:	:	Tuff E Nuff (U).fig
+:	:	Turf Hero (J).mgd
+:	:	Turf Memories (J).mgd
+:	:	Turn and Burn - No-Fly Zone (E).fig
+:	:	Turn and Burn - No-Fly Zone (U).fig
+:	:	Tut Sphere - Test Demo (PD).fig
+:	:	Tweetie Still Picture (PD).fig
+:	:	Twinbee - Rainbow Bell Adventure (J).fig
+:	:	Twisted Tales of Spike McFang (U).gd3
+:	U
+:	:	U.N. Squadron (E).swc
+:	:	U.N. Squadron (U).fig
+:	:	UFO Kamen Yakisoban (Free Version) (J).mgd
+:	:	UFO Kamen Yakisoban (J).swc
+:	:	USA Ice Hockey (V1.0) (J).mgd
+:	:	USA Ice Hockey (V1.1) (J).fig
+:	:	Ultima - Runes of Virtue 2 (Beta) [h1].swc
+:	:	Ultima - Runes of Virtue 2 (Beta).mgd
+:	:	Ultima - Runes of Virtue 2 (U).swc
+:	:	Ultima Gaiden (J).mgd
+:	:	Ultima Kyoryu Teikoku (J).mgd
+:	:	Ultima VI - The False Prophet (Beta).fig
+:	:	Ultima VI - The False Prophet (J).mgd
+:	:	Ultima VI - The False Prophet (U).swc
+:	:	Ultima VII - The Black Gate (Beta).swc
+:	:	Ultima VII - The Black Gate (J).mgd
+:	:	Ultima VII - The Black Gate (U).swc
+:	:	Ultimate Fighter (U).fig
+:	:	Ultimate FootBall (J).mgd
+:	:	Ultimate Mortal Kombat 3 (E).swc
+:	:	Ultimate Mortal Kombat 3 (U).fig
+:	:	Ultra Baseball Jitsumei Ban (J).mgd
+:	:	Ultra Baseball Jitsumei Ban 2 (J).mgd
+:	:	Ultra Baseball Jitsumei Ban 3 (J).gd3
+:	:	Ultra League Moero Soccer Taisen (J).fig
+:	:	Ultra Seven (J).mgd
+:	:	Ultraman (J).mgd
+:	:	Ultraman - Towards the Future (E) [!].swc
+:	:	Ultraman - Towards the Future (U).swc
+:	:	Umi Hara Kawa Se (J).swc
+:	:	Umi no Nushizuri (J).swc
+:	:	Umizuri Maizin Suzuki Hen (J).swc
+:	:	Uncharted Waters - Sea Prince (U).swc
+:	:	Uncharted Waters 2 (U).fig
+:	:	Undercover Cops (J).smc
+:	:	Uniracers (U).fig
+:	:	Unirally (E) [!].gd3
+:	:	Unitrax - BBS Intro (PD).fig
+:	:	Unitrax Entertainment System Demo (PD).fig
+:	:	Universal Soldier (U).swc
+:	:	Unknown BBS Demo, The (PD).swc
+:	:	Untouchables, The (U).swc
+:	:	Urban Strike (E) [!].fig
+:	:	Urban Strike (U) [!].mgd
+:	:	Ushio To Tora (J).mgd
+:	:	Utopia (Beta).mgd
+:	:	Utopia (E).gd3
+:	:	Utopia (G).swc
+:	:	Utopia (J).mgd
+:	:	Utopia (U).fig
+:	:	Utyu Race Astro Go Go (J).mgd
+:	:	Utyu no Kishi Tekkaman Blade (Beta) [h1].fig
+:	:	Utyu no Kishi Tekkaman Blade (Beta).mgd
+:	:	Utyu no Kishi Tekkaman Blade (J).smc
+:	V
+:	:	VS Collection (J).gd3
+:	:	VSMC Beta Pre-Release (PD).swc
+:	:	VSMC System Explorer (PD).swc
+:	:	VSMC v0.70 Beta Demo (PD).swc
+:	:	Val D' Isere Championship (Loriciel) (E)(23398).mgd
+:	:	Val D' Isere Championship (Loriciel) (E)(59520).smc
+:	:	Val D' Isere Championship (Mindscape) (E).swc
+:	:	Vegas Stakes (E) [!].swc
+:	:	Vegas Stakes (U).fig
+:	:	Verne World (J).swc
+:	:	View PCX - Fairlight DBM (PD).fig
+:	:	Violinist of Hameln, The (J).mgd
+:	:	Virtual Bart (Beta).fig
+:	:	Virtual Bart (E) [!].swc
+:	:	Virtual Bart (J).smc
+:	:	Virtual Bart (U).fig
+:	:	Virtual Fighter CG Portrait Collection (PD).fig
+:	:	Virtual Soccer (E).swc
+:	:	Virtual Soccer (U)(NG-Dump Known).mgd
+:	:	Virtual Wars (J).gd3
+:	:	Volleyball Twin (J).mgd
+:	:	Vortex (E).swc
+:	:	Vortex (J).ufo
+:	:	Vortex (U) [!].swc
+:	:	Voxel (PD).mgd
+:	W
+:	:	WCW Super Brawl (U).swc
+:	:	WWF Raw (E).swc
+:	:	WWF Raw (U).swc
+:	:	WWF Royal Rumble (E).swc
+:	:	WWF Royal Rumble (J).mgd
+:	:	WWF Royal Rumble (U).mgd
+:	:	WWF Super Wrestlemania (E).swc
+:	:	WWF Super Wrestlemania (J).smc
+:	:	WWF Super Wrestlemania (U).mgd
+:	:	WWF Wrestlemania Arcade (E).mgd
+:	:	WWF Wrestlemania Arcade (J).smc
+:	:	WWF Wrestlemania Arcade (U).fig
+:	:	Wagyan Paradise (J).swc
+:	:	Waialae Golf (U).swc
+:	:	Waialae No Kiseki (J).mgd
+:	:	Wakataka Ohzumou - Yume no Kyodai Taiketsu (J).mgd
+:	:	Waku Waku Ski Wonder Shoot (J).ufo
+:	:	Wally wo Sagase (J).mgd
+:	:	War 2410 (U).mgd
+:	:	War 3010 The Revolution (U).swc
+:	:	War_in_Europe_Expert_WW_II_(J).SMC
+:	:	Waratte Iitomo Tamorinpic (J).mgd
+:	:	Wario's Woods (E).mgd
+:	:	Wario's Woods (U).swc
+:	:	Warlock (Beta).mgd
+:	:	Warlock (E) [!].swc
+:	:	Warlock (J).fig
+:	:	Warlock (U).fig
+:	:	WarpSpeed (E).swc
+:	:	WarpSpeed (U).ufo
+:	:	Waterworld (E).swc
+:	:	Wayne Gretzky Hockey (U)(54832).mgd
+:	:	Wayne Gretzky Hockey (U)(57116).fig
+:	:	Wayne's World (E).gd3
+:	:	Wayne's World (U).fig
+:	:	We're Back - A Dinosaur Story (U).swc
+:	:	Weapon Lord (E).swc
+:	:	Weapon Lord (U).swc
+:	:	Web Ring Intro (PD).fig
+:	:	Wedding Peach (J).mgd
+:	:	Weekly Famitsu NO.380 - Otona no Shikumi - Maboroshi no daichi no Shikumi 1 (J).swc
+:	:	Wesley Girl 01 (PD).smc
+:	:	Wesley Girl 02 (PD).smc
+:	:	Wesley Girl 03 (PD).smc
+:	:	Wesley Girl 04 (PD).smc
+:	:	Wesley Girl 05 (PD).smc
+:	:	Wesley Girl 06 (PD).smc
+:	:	Wesley Girl 07 (PD).smc
+:	:	Wesley Girl 08 (PD).smc
+:	:	Wesley Girl 09 (PD).smc
+:	:	Wesley Girl 10 (PD).smc
+:	:	Wesley Girl 11 (PD).mgd
+:	:	Wesley Girl 12 (PD).mgd
+:	:	Wesley Girl 13 (PD).mgd
+:	:	Wesley Girl 14 (PD).mgd
+:	:	Wesley Girl 15 (PD).mgd
+:	:	Wesley Girl 16 (PD).mgd
+:	:	Wesley Girl 17 (PD).smc
+:	:	Wesley Girl 18 (PD).smc
+:	:	Wesley Girl 19 (PD).smc
+:	:	Wesley Girl 20 (PD).smc
+:	:	Wesley Girl 21 (PD).smc
+:	:	Wesley Girl 22 (PD).smc
+:	:	Wesley Girl 23 (PD).smc
+:	:	Wesley Girl 24 (PD).smc
+:	:	Wesley Girl 25 (PD).smc
+:	:	Wesley Girl 26 (PD).smc
+:	:	Wesley Girl 27 (PD).smc
+:	:	Wesley Girl 28 (PD).smc
+:	:	Wesley Girl 29 (PD).smc
+:	:	Wesley Girl 30 (PD).smc
+:	:	Wesley Orangee Hotel (PD).smc
+:	:	Wesley Tokyo Eden 01 (PD).smc
+:	:	Wesley Tokyo Eden 02 (PD).mgd
+:	:	Wesley Tokyo Eden 03 (PD).mgd
+:	:	Wesley Tokyo Eden 04 (PD).smc
+:	:	Wesley Tokyo Eden 05 (PD).mgd
+:	:	Wesley Tokyo Eden 06 (PD).smc
+:	:	Wesley Tokyo Eden 07 (PD).mgd
+:	:	Wesley Tokyo Eden 08 (PD).mgd
+:	:	Wesley Tokyo Eden 09 (PD).mgd
+:	:	Wesley Tokyo Eden 10 (PD).mgd
+:	:	Wesley Tokyo Eden 11 (PD).mgd
+:	:	Wesley Tokyo Eden 12 (PD).mgd
+:	:	What A Chess (PD).fig
+:	:	Wheel of Fortune (U).mgd
+:	:	Wheel of Fortune - Deluxe Edition (U).swc
+:	:	Where in Time is Carmen Sandiego (U) [!].swc
+:	:	Where in the World is Carmen Sandiego (U).mgd
+:	:	Whirlo (E).swc
+:	:	Whizz (E) [!].swc
+:	:	Whizz (U) [!].fig
+:	:	Wicked 18 Golf (U).swc
+:	:	Wild Guns (Beta).mgd
+:	:	Wild Guns (E).swc
+:	:	Wild Guns (J).mgd
+:	:	Wild Guns (U).swc
+:	:	Wild Guns - Sample Cart (J)(NG-Dump Known).fig
+:	:	Wild Snake (U).fig
+:	:	Wild Trax (J).swc
+:	:	Wildcard (PD).fig
+:	:	Williams Arcade's Greatest Hits (E) [!].swc
+:	:	Williams Arcade's Greatest Hits (U).fig
+:	:	Williams Arcade's Greatest Hits-The Atari Collection 1 (U).fig
+:	:	Wing Commander (E).fig
+:	:	Wing Commander (G).swc
+:	:	Wing Commander (J).fig
+:	:	Wing Commander (U).mgd
+:	:	Wing Commander - The Secret Missions (Beta).swc
+:	:	Wing Commander - The Secret Missions (E) [!].gd3
+:	:	Wing Commander - The Secret Missions (U).smc
+:	:	Wings 2 (Beta).swc
+:	:	Wings 2 (U).swc
+:	:	Winning Post (V1.0) (J).swc
+:	:	Winning Post (V1.1) (J).swc
+:	:	Winning Post 2 '96 (V1.0) (J).swc
+:	:	Winning Post 2 '96 (V1.1) (J).swc
+:	:	Winning Post 2 (J).swc
+:	:	Winning_Post_2_(J).smc
+:	:	Winter Extreme Skiing and Snowboarding (U).swc
+:	:	Winter Gold FX (E).mgd
+:	:	Winter Olympics (E).fig
+:	:	Winter Olympics (U).fig
+:	:	Wizap (J)(43332).swc
+:	:	Wizap (J)(45768).mgd
+:	:	Wizard of Oz (U).fig
+:	:	Wizardry 1 2 3 (J) (NP).swc
+:	:	Wizardry 4 - Throb Of The Demon's Heart (V1.0) (J).swc
+:	:	Wizardry 4 - Throb Of The Demon's Heart (V1.1) (J).swc
+:	:	Wizardry 5 (J).fig
+:	:	Wizardry 5 (U).swc
+:	:	Wizardry 6 - Bane of the Cosmic Forge (J).mgd
+:	:	Wolf Child (U).fig
+:	:	Wolfenstein 3D (Beta).smc
+:	:	Wolfenstein 3D (E).swc
+:	:	Wolfenstein 3D (J).mgd
+:	:	Wolfenstein 3D (U).swc
+:	:	Wolverine - Adamantium Rage (Beta) [a1].smc
+:	:	Wolverine - Adamantium Rage (Beta).mgd
+:	:	Wolverine - Adamantium Rage (E).swc
+:	:	Wolverine - Adamantium Rage (J).swc
+:	:	Wolverine - Adamantium Rage (U).mgd
+:	:	Wonder Project (J).swc
+:	:	Wondrous Magic (J).mgd
+:	:	Wordtris (U).swc
+:	:	World Champion Rally (Network Q Rally) (U)(NG-Dump Known) [h1].swc
+:	:	World Champion Rally (Network Q Rally) (U)(NG-Dump Known).fig
+:	:	World Class Rugby (E) [!].swc
+:	:	World Class Rugby (F).swc
+:	:	World Class Rugby (J).mgd
+:	:	World Class Rugby 2 - Kokunai Gekitou Hen '93 (J).swc
+:	:	World Cup France 98 (Hack).swc
+:	:	World Cup Striker (Beta) [a1].swc
+:	:	World Cup Striker (Beta).swc
+:	:	World Cup Striker (E) [!].mgd
+:	:	World Cup Striker (J).mgd
+:	:	World Cup USA 94 (E).swc
+:	:	World Cup USA 94 (J).swc
+:	:	World Cup USA 94 (U).swc
+:	:	World Heroes (J).swc
+:	:	World Heroes (U) [!].swc
+:	:	World Heroes 2 (Beta).fig
+:	:	World Heroes 2 (J).fig
+:	:	World Heroes 2 (U).fig
+:	:	World League Basketball (UE) [!].swc
+:	:	World League Soccer (U).mgd
+:	:	World Masters Golf (E).swc
+:	:	World Soccer (E).mgd
+:	:	World Soccer (J).mgd
+:	:	World Soccer 94 Road to Glory (U).mgd
+:	:	World of Manga 2 (PD).fig
+:	:	Worms (E).swc
+:	:	Wrestle & Romance (J).fig
+:	:	Wyle E's Revenge (E)(NG-Dump Known).fig
+:	X
+:	:	X-Kaliber 2097 (Beta).mgd
+:	:	X-Kaliber 2097 (E).mgd
+:	:	X-Kaliber 2097 (U).fig
+:	:	X-Mas (PD).fig
+:	:	X-Men Mutant Apocalypse (E).swc
+:	:	X-Men Mutant Apocalypse (J).smc
+:	:	X-Men Mutant Apocalypse (U).swc
+:	:	X-Terminator 2 Sauke (J) [!].mgd
+:	:	X-Zone (E).swc
+:	:	X-Zone (U).swc
+:	:	XBand Modem BIOS (J).fig
+:	:	XBand Modem BIOS (U).swc
+:	:	Xak - The Art of Visual Stage (J).fig
+:	:	Xardion (E)(NG-Dump Known).swc
+:	:	Xardion (J).mgd
+:	:	Xardion (U).swc
+:	Y
+:	:	YM Sangokushi Bangi (J).swc
+:	:	YUUYUU Hakusho (J).mgd
+:	:	YUUYUU Hakusho 2 - Kakutou no Syo (J).fig
+:	:	YUUYUU Hakusho Final (J).swc
+:	:	YUUYUU Hakusho Tokubehuten (J).mgd
+:	:	Yadamon Wonderland Dreams (J).mgd
+:	:	Yakochu (J).mgd
+:	:	Yam Yam (J).smc
+:	:	Yamato Takeru (J).swc
+:	:	Yogi Bear (E).swc
+:	:	Yogi Bear (J).smc
+:	:	Yogi Bear (U).mgd
+:	:	Yokoyama Mitsuteru Sangokushi (J).fig
+:	:	Yokoyama Mitsuteru Sangokushi 2 (J).fig
+:	:	Yokozuna Monogatari (J).mgd
+:	:	Yoshi no Kuruppon - Oven de Cookie (J).gd3
+:	:	Yoshi's Cookie (E).swc
+:	:	Yoshi's Cookie (J).mgd
+:	:	Yoshi's Cookie (U).swc
+:	:	Yoshi's Island (V1.0) (E).mgd
+:	:	Yoshi's Island (V1.0) (J).mgd
+:	:	Yoshi's Island (V1.0) (U).ufo
+:	:	Yoshi's Island (V1.1) (E).ufo
+:	:	Yoshi's Island (V1.1) (J) [!].mgd
+:	:	Yoshi's Island (V1.1) (U).fig
+:	:	Yoshi's Island (V1.2) (J).mgd
+:	:	Yoshi's Safari (E).fig
+:	:	Yoshi's Safari (J).fig
+:	:	Yoshi's Safari (Joystick Hack).fig
+:	:	Yoshi's Safari (U).swc
+:	:	You Win! - Beautiful Girl Slideshow 9 (PD).mgd
+:	:	Youchiensenki Madara (J).mgd
+:	:	Youkai Buster Ruka no Daibouken (J).gd3
+:	:	Young Merlin (E).swc
+:	:	Young Merlin (Finland)(NG-Dump Known).mgd
+:	:	Young Merlin (U).smc
+:	:	Ys 3 - Wanderers from Ys (J).fig
+:	:	Ys 3 - Wanderers from Ys (U).swc
+:	:	Ys 4 - Mask of the Sun (J) [T-Eng_partial].mgd
+:	:	Ys 4 - Mask of the Sun (J).mgd
+:	:	Ys 5 - Ushinawareta Sunano Miyako Kefin (J).mgd
+:	:	Ys 5 Expert (J).smc
+:	:	Yu Yu No Quiz De Go! Go! (J).smc
+:	:	Yu_Yu_No_Quiz_De_Go!_Go!_(J).smc
+:	:	Yujin Janjyugakuen (J).fig
+:	:	Yujin no Furi Furi Girls (J).mgd
+:	:	Yume Maboroshi no Gotoku (J).fig
+:	Z
+:	:	ZOOM (PD).swc
+:	:	Zakuro No Aji (J).mgd
+:	:	Zan 2 Spirits (J).fig
+:	:	Zan 3 Spirits (J).fig
+:	:	Zelda no Densetsu (V1.0) (J).swc
+:	:	Zelda no Densetsu (V1.1) (J).swc
+:	:	Zelda no Densetsu (V1.2) (J).fig
+:	:	Zen Nihon GT Sensyuken (J).mgd
+:	:	Zen Nihon Pro Wrestling (J).swc
+:	:	Zen Nihon Pro Wrestling - Budoukan at 2 3-4 (J).smc
+:	:	Zen Nihon Pro Wrestling - Dash (J).fig
+:	:	Zenkoku Jyudan Ultra Shinri Game (J).swc
+:	:	Zenkoku Koukou Soccer Sensyuken '96 (J).gd3
+:	:	Zenkoku Koukou Soccer Sensyuken (J).fig
+:	:	Zenkoku Koukou Soccer Sensyuken 2 (J).smc
+:	:	Zennihon Pro Wrestlong Fight da Pon (J).mgd
+:	:	Zero 4 Champ RR (J).mgd
+:	:	Zero 4 Champ RRZ (J).mgd
+:	:	Zero the Kamikaze Squirrel (E).swc
+:	:	Zero the Kamikaze Squirrel (U).swc
+:	:	Zico Soccer (J) [!].mgd
+:	:	Zig Zag Cat (J).fig
+:	:	Zombies (E).gd3
+:	:	Zombies Ate My Neighbors (U) [!].swc
+:	:	Zone (PD).swc
+:	:	Zool (E).swc
+:	:	Zool (Sample Cart).mgd
+:	:	Zool (U).swc
+:	:	Zool no Yume Boken (J).swc
+:	:	Zoop (E).swc
+:	:	Zoop (U).fig
+:	:	Zoot Mahjong (J) (NP).swc
+:	:	Zophar's Domain Two Years Demo (PD).swc

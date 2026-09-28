@@ -1,0 +1,967 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xml:lang="ja" xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
+<!--龠龠龠-->
+<title xml:lang="ja" lang="ja">エミュで闘神都市２をプレイしてみよう（その３・MS-DOSインストール編） - MANIMANIAのレトロエロゲーカウントダウン</title>
+<meta http-equiv="Content-Type" content="text/html; charset=EUC-JP">
+<meta http-equiv="Content-Language" content="ja">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta name="description" xml:lang="ja" content="人生の残り時間が半分を切ったというのに若き日に目にしたエロゲーに魂を引かれ続けるイタいおっさんがこなしたゲームを紹介。" lang="ja">
+<link rel="stylesheet" type="text/css" href="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/static.css">
+<link rel="stylesheet" type="text/css" href="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/left_2c.css">
+<link rel="stylesheet" type="text/css" href="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/413d34abe2b8756823130599cf9a27e1.css">
+<link rel="alternate" type="application/rss+xml" title="RSS2.0" href="http://blog.goo.ne.jp/gekigangar/rss2.xml">
+<link rel="alternate" type="application/rss+xml" title="RSS1.0" href="http://blog.goo.ne.jp/gekigangar/index.rdf">
+<style type="text/css">
+<!--
+-->
+
+</style>
+<script src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/prototype.js" type="text/javascript"></script>
+<script src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/flashwrite.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+<!--
+var USER_NAME = "gekigangar";
+var BID = "eef00ab3de83fea16cafd56abe9e23d4";
+var SERVER_NAME = "blog.goo.ne.jp";
+var IMAGE_SERVER = "blogimg.goo.ne.jp";
+-->
+</script>
+<meta name="mixi-check-robots" content="noimage"><meta name="mixi-check-title" content="gooブログ &gt; チェック &gt; エミュで闘神都市２をプレイしてみよう（その３・MS-DOSインストール編）"><meta property="mixi:title" content="gooブログ &gt; チェック &gt; エミュで闘神都市２をプレイしてみよう（その３・MS-DOSインストール編）"></head><body>
+<!-- GLOBAL HEADER -->
+<div id="global-header" class="clearfix">
+<!-- GLOBAL HEADER MODULE -->
+<div id="mod-global-header">
+<div id="mod-global-header-l">
+<a href="http://www.goo.ne.jp/click.php?ID=bg03&amp;DEST=http://www.goo.ne.jp/"><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/mod_global_header_goo_logo.gif" alt="goo" height="22" width="46"></a>
+<a href="http://blog.goo.ne.jp/">ブログ</a>&nbsp;&nbsp;<a href="http://blog.goo.ne.jp/api/random_blog">ランダム</a>&nbsp;&nbsp;
+
+<a href="http://blog.goo.ne.jp/themesalon/e/af94b3f5c8afee46c8b0871808ac2380"><span style="color: rgb(217, 97, 0);">［トラックバック練習板］夕日の写真を送ってください！</span></a>
+</div>
+<script>
+if(typeof(click_count_id)==="undefined"){click_count_id = new Array();}
+click_count_id.push('mod-global-header-l');
+
+</script><script>
+if(typeof(click_count_id)==="undefined"){click_count_id = new Array();}
+click_count_id.push('mod-global-footer');
+
+</script><div id="mod-global-header-r">
+
+<!-- SEARCH -->
+<script type="text/javascript">
+<!--
+
+function s_dispatch() {
+	var bsf = document.bsearch;
+	if (bsf.scope.value == 'this') {
+		return true;
+	}
+
+	var gsf = document.gsearch;
+	if (bsf.scope.value == 'all') {
+		gsf.MT.value = bsf.sword.value;
+		gsf.submit();
+	}
+
+	var wsf = document.wsearch;
+	if (bsf.scope.value == 'web') {
+		wsf.MT.value = bsf.sword.value;
+		wsf.submit();
+	}
+
+	return false;
+}
+
+//-->
+</script>
+<form action="/gekigangar" method="post" name="bsearch" onsubmit="return s_dispatch();"><input name="m" value="s" type="hidden"><input name="bid" value="eef00ab3de83fea16cafd56abe9e23d4" type="hidden"><ul><li><label for="mod-global-header-search">検索</label>&nbsp;</li><li><input size="20" name="sword" id="mod-global-header-search" class="mod-global-header-search" type="text">&nbsp;<select name="scope" class="mod-global-header-select"><option value="web" selected="selected">ウェブ</option><option value="all">goo ブログ全て</option><option value="this">このブログ内で</option></select><input name="" id="mod-global-header-search-button" value="検索" src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/mod_global_header_search.gif" alt="検索" height="20" type="image" width="26"></li></ul></form>
+<form name="gsearch" method="get" action="/search_goo/result/"><input name="MT" type="hidden"><input name="tg" value="all" type="hidden"><input name="da" value="all" type="hidden"><input name="st" value="time" type="hidden"><input name="dp" value="all" type="hidden"><input name="status" value="select" type="hidden"><input name="bu" value="" type="hidden"><input name="ts" value="goo" type="hidden"></form>
+<form name="wsearch" method="get" action="http://search.goo.ne.jp/web.jsp"><input name="MT" type="hidden"><input name="PT" value="goo_blog" type="hidden"><input name="from" value="goo_blog" type="hidden"><input name="IE" value="eucjp" type="hidden"></form>
+
+<!-- /SEARCH -->
+</div></div>
+<!-- /GLOBAL HEADER MODULE -->
+</div>
+<!-- /GLOBAL HEADER -->
+
+<!-- CONTAINER -->
+<div id="container">
+
+<!-- TITLE BANNER -->
+<div id="title-banner">
+<div id="title-banner-top"></div>
+<div id="title-banner-body">
+<div id="title-banner-set">
+<h1><a href="http://blog.goo.ne.jp/gekigangar">MANIMANIAのレトロエロゲーカウントダウン</a></h1>
+<h2>人生の残り時間が半分を切ったというのに若き日に目にしたエロゲーに魂を引かれ続けるイタいおっさんがこなしたゲームを紹介。</h2>
+</div>
+</div>
+<div id="title-banner-bottom"></div>
+</div>
+<!-- /TITLE BANNER -->
+
+<!-- MAIN -->
+<div id="main" class="clearfix">
+<div id="main-top"></div>
+
+<!-- CENTER -->
+<div id="center">
+
+<!-- IN-CENTER -->
+<div id="in-center">
+
+<!-- CONTENT 2 COLUMNS -->
+<div class="content-2c">
+<div class="content-top"></div>
+<div class="content-body">
+
+<!-- PREV NEXT MODULE -->
+<div id="mod-prev-next">
+<div class="mod-prev-next-top"><div class="lt"><div class="rt"></div></div></div>
+<div class="mod-prev-next-body">
+<ul><li class="mod-pre-nex-prev"><a href="http://blog.goo.ne.jp/gekigangar/e/a439f8e8acef4f90c1551a53e0e8271c/prev"><span class="etNextPrev">前の記事へ</span></a></li><li class="mod-pre-nex-next"><a href="http://blog.goo.ne.jp/gekigangar/e/a439f8e8acef4f90c1551a53e0e8271c/next"><span class="etNextPrev">次の記事へ</span></a></li><li class="mod-pre-nex-top"><a href="http://blog.goo.ne.jp/gekigangar/arcv">記事一覧</a>&nbsp;|&nbsp;<a href="http://blog.goo.ne.jp/gekigangar/pch">フォトチャンネル一覧</a></li></ul>
+<div class="clearboth"></div>
+</div>
+<div class="mod-prev-next-bottom"><div class="lb"><div class="rb"></div></div></div>
+</div>
+<!-- /PREV NEXT MODULE -->
+<!-- ENTRIES MODULE -->
+<!-- ENTRY SET -->
+<div class="mod-entry-set">
+<div class="mod-entry-set-top"><div class="lt"><div class="rt"></div></div></div>
+
+<!-- entry -->
+<div class="entry">
+
+<!-- entry-top -->
+<div class="entry-top">
+<h3><a href="http://blog.goo.ne.jp/gekigangar/e/a439f8e8acef4f90c1551a53e0e8271c">エミュで闘神都市２をプレイしてみよう（その３・MS-DOSインストール編）</a></h3>
+<div class="entry-top-info"><a href="http://blog.goo.ne.jp/gekigangar/e/a439f8e8acef4f90c1551a53e0e8271c"><span class="entry-top-info-time">2008-06-26 03:05:01</span></a>&nbsp;|&nbsp;<a href="http://blog.goo.ne.jp/gekigangar/c/f3041843121230317371257e0a528849"><span class="entry-top-info-category">使ってみようエミュレータ</span></a></div>
+</div>
+<!-- /entry-top -->
+
+<!-- entry-body -->
+<div class="entry-body">
+<div class="entry-body-image"><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/db7490e7faaa7b62fc6c0db7f4d99ac7.png" class="etImage"></div><div class="entry-body-text">さて，ようやくハードディスクイメージにMS-DOSをインストールします。<br>
+まず，MS-DOSの１枚目のフロッピーディスクのイメージをFD DRIVEの１にセットします。<br>
+<img alt="MS-DOS１枚目ディスク挿入状態" src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/46238fddc77b0e21031c7f13a44d60cf.png"><br>
+<br>
+<br>
+さらに，MS-DOSをインストールするハードディスクイメージをHD DRIVEの１にセットします。カーソルを下画面の位置に移動させてクリックします。<br>
+<img alt="ハードディスクイメージ選択" src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/a88a8ad6e2a46cf485c897b8b0557828.png"><br>
+<br>
+<br>
+ハードディスクイメージを指定する画面が出るので，その１で作成した「t2.hdi」のハードディスクイメージを指定します。<br>
+<img alt="t2.hdiを指定" src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/e7b61ef1e733f68d05b208d41aef3675.png"><br>
+<br>
+<br>
+これで，t2.hdiをハードディスクとして実装し，１台目のFDDにMS-DOSの１枚目のフロッピーディスクを入れた仮想PC98マシンができました。<br>
+<img alt="MS-DOSインストール直前" src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/059395c299e3018f00a432947323a589.png"><br>
+<br>
+<br>
+この状態で，左端に並んでいる，「電源」，「再開」，「リセット」，・・・の「電源」をクリックして，仮想マシンを起動させます。<br>
+<img alt="電源オン" src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/f496aedfbea7ea366b45e92aad991bca.png"><br>
+<br>
+<br>
+仮想マシン上のMS-DOSが起動しました。<br>
+<img alt="MS-DOS起動画面" src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/55dc8d6667d6714d0113a658725d4ed1.png"><br>
+<br>
+<br>
+この画面の後は，下の画面になるまで画面の指示に従ってEnterキーを数回押して下さい。<br>
+下の画面になったところで，仮想マシン画面のバックにある「T98-Next」のウインドウをアクティブウインドウにして下さい。<br>
+<img alt="FD入れ替え要求画面" src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/0503af1ee7007ee1cd607a780a76d4ea.png"><br>
+<br>
+<br>
+FDイメージを下の連続画面の手順で，MS-DOSの２枚目のフロッピーディスクイメージに変更します。<br>
+この画面のカーソル位置でクリック。<br>
+<img alt="FDイメージ変更開始" src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/9f64c893d118016d5bfae8f7ea5b566d.png"><br>
+<br>
+<br>
+MS-DOS２枚目のFDイメージを選択します。<br>
+<img alt="FDイメージ選択" src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/b879a4a1f6d2536b3bd11a191dc076d9.png"><br>
+<br>
+<br>
+FDイメージの変更が完了したところ。この画面のカーソル位置でクリックして，「Emulation Window」をアクティブウインドウにして，残りのインストール作業を続けます。<br>
+<img alt="FDイメージ変更完了" src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/6bbb0db835820f4825f6bc2297eec39d.png"><br>
+<br>
+<br>
+下の画面まで来たらMS-DOSのインストールは完了です。<br>
+画面で指示されているとおり，フロッピーディスクをFDDから外す必要があるので，「T98-Next」のウインドウをアクティブウインドウにしてFDイ
+メージを排出した上で，「Emulation Window」をアクティブウインドウに戻してから，Enterキーを押します。<br>
+<img alt="インストール終了画面" src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/f46421bccee47be4e3da2f5362d58c1a.png"><br>
+<br>
+<br>
+Enterキーを押すと仮想マシンが再起動されて，ついにハードディスクイメージ上のMS-DOSが起動します！<br>
+<img alt="仮想マシンハードディスク上のMS-DOS起動" src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/f85cc2dbf22c0af55d38cda7269d5edc.png"><br>
+<br>
+やっとこさ仮想マシンに装着するハードディスクが中身を含めて完成しました。<br>
+T98-Nextはここで終了させて下さい。<br>
+<br>
+その４で，このハードディスクに「闘神都市２」をインストールして，長きにわたる作業は完了です。<br>
+闘神都市は目前です。<br>
+<br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/d8508ed6f29df7e3f89d73c3bc905ada">エミュで闘神都市２をプレイしてみよう（その１・エミュレータ導入編）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/5d0af42c247a020c0f3446dcffaeff32">エミュで闘神都市２をプレイしてみよう（その２・MS-DOS導入準備編）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/a439f8e8acef4f90c1551a53e0e8271c">エミュで闘神都市２をプレイしてみよう（その３・MS-DOSインストール編）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/008ce0d5f57f8e864b1bc8cb2691542f">エミュで闘神都市２をプレイしてみよう（その４・最終回）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/f77579561acb5d87d1c78151a79d8883">エミュで闘神都市２をプレイしてみよう（特別編・freeDOS(98)ってどうよ）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/73a4102741701decbc655d3fa711dc12">ツァイ　メタ女ハードディスクイメージ起動プロセス検証-fdnp21改</a><br>
+闘神都市２のマニュアルは<a href="http://blog.goo.ne.jp/gekigangar/e/6bad1d26ccdc00d41a6c380a5d7c896a" target="_blank">こちら</a>。<br>
+<br>
+&lt;&lt;著作権に関して&gt;&gt;<br>
+本記事に引用している全てのソフトの名称・画像の著作権・その他権利は、制作、販売されたソフトハウス、メーカー、または作者様に帰属します。本サイトで
+の上記著作権物扱いは、著作権など各権利関係を侵害することが目的ではありません。問題などある場合は、メール(ｇｅｋｉｇａｎｇａｒあっと
+ｍａｉｌ．ｇｏｏ．ｎｅ．ｊｐ)にてその旨お知らせください。<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+  rdf:about="http://blog.goo.ne.jp/gekigangar/e/a439f8e8acef4f90c1551a53e0e8271c"
+  trackback:ping="http://blog.goo.ne.jp/tbinterface/a439f8e8acef4f90c1551a53e0e8271c/ee"
+  dc:title="エミュで闘神都市２をプレイしてみよう（その３・MS-DOSインストール編）"
+  dc:date="2008-06-26T03:05:01+09:00"
+  dc:description="さて，ようやくハードディスクイメージにMS-DOSをインストールします。
+まず，MS-DOSの１枚目のフロッピーディスクのイメージをFD DRIVEの１にセットします。
+
+
+
+さらに，MS-DOSをインストールするハードディスクイメージをHD DRIVEの１にセットします。カーソルを下画面の位置に移動させてクリックします。
+
+
+
+ハードディスクイメージを指定する画面が出るので，その１で作成した「t"
+  dc:identifier="http://blog.goo.ne.jp/gekigangar/e/a439f8e8acef4f90c1551a53e0e8271c" />
+</rdf:RDF>
+--></div>
+</div>
+<!-- /entry-body -->
+<!-- entry-bottom -->
+<script src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/sb.js" charset="euc-jp"></script>
+<script type="text/javascript">
+<!--
+function twitter_open(){
+	var url = "/ac.php";
+	var params = "type=clickcount&id=entry-twitter";
+	new Ajax.Request(url,{
+		method:"get",
+		parameters:params,
+		requestHeaders: ['If-Modified-Since','Wed, 15 Nov 1995 00:00:00 GMT']
+	});
+	
+	window.open('http://twitter.com/share?url=http%3A%2F%2Fblog.goo.ne.jp%2Fgekigangar%2Fe%2Fa439f8e8acef4f90c1551a53e0e8271c&lang=ja&text=%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%82%EF%BC%92%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88%E3%81%9D%E3%81%AE%EF%BC%93%E3%83%BBMS-DOS%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E7%B7%A8%EF%BC%89+%23goo_gekigangar', '_blank', 'width=600,height=400,menubar=no,toolbar=no,resizable=yes,status=no,directories=no');
+}
+function mixi_check(){
+	var url = "/ac.php";
+	var params = "type=clickcount&id=entry_mixi";
+	new Ajax.Request(url,{
+		method:"get",
+		parameters:params,
+		requestHeaders: ['If-Modified-Since','Wed, 15 Nov 1995 00:00:00 GMT']
+	});
+	
+	window.open('http://mixi.jp/share.pl?u=http%3A%2F%2Fblog.goo.ne.jp%2Fgekigangar%2Fe%2Fa439f8e8acef4f90c1551a53e0e8271c&k=39b2ad1311c9e9bfd477352c43b16634f3303fd6', '_blank', 'width=600,height=400,menubar=no,toolbar=no,resizable=yes,status=no,directories=no');
+}
+if(typeof(click_count_id)==="undefined"){click_count_id = new Array();}
+click_count_id.push('entry-twitter');
+click_count_id.push('entry-mixi');
+-->
+</script>
+
+
+
+<link rel="mixi-check-alternate" media="mixi-device-mobile" type="text/html" href="http://blog.goo.ne.jp/gekigangar/e/a439f8e8acef4f90c1551a53e0e8271c">
+<link rel="mixi-check-image" href="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/db7490e7faaa7b62fc6c0db7f4d99ac7.png"><link rel="mixi-check-image" href="http://blogimg.goo.ne.jp/user_photo/d6/eef00ab3de83fea16cafd56abe9e23d4.jpg"><div class="entry-bottom">
+<div class="entry-bottom-info">
+<a href="http://blog.goo.ne.jp/gekigangar/e/a439f8e8acef4f90c1551a53e0e8271c#comment-list">コメント&nbsp;(0)</a>&nbsp;|&nbsp;<a href="http://blog.goo.ne.jp/gekigangar/e/a439f8e8acef4f90c1551a53e0e8271c#trackback-list">トラックバック&nbsp;(0)</a>&nbsp;|&nbsp;<a href="http://blog.goo.ne.jp/admin.php?fid=bookmarklet&amp;title=%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%82%EF%BC%92%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88%E3%81%9D%E3%81%AE%EF%BC%93%E3%83%BBMS-DOS%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E7%B7%A8%EF%BC%89&amp;burl=http://blog.goo.ne.jp/gekigangar/e/a439f8e8acef4f90c1551a53e0e8271c"><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/mod_pen.gif" alt="この記事についてブログを書く" border="0" height="16" width="16"></a>&nbsp;|&nbsp;<script>document.write(gbSb.get_src());</script>&nbsp;<span id="entry-twitter"><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/mod_twitter_white.png" onclick="twitter_open()" style="cursor: pointer;" border="0" height="16" width="16"></span>&nbsp;<img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/mixi_icon_26x26.gif" onclick="mixi_check()" style="cursor: pointer;" border="0" height="16" width="16">&nbsp;|&nbsp;<a href="http://www.goo.ne.jp/" target="_blank">goo</a>
+</div>
+</div>
+<!-- /entry-bottom -->
+
+</div>
+<!-- /entry -->
+
+<div class="mod-entry-set-bottom"><div class="lb"><div class="rb"></div></div></div>
+</div>
+
+<!-- goo_ad -->
+<div class="mod-entry-set-goo-ad"></div>
+<!-- /goo_ad -->
+
+<!-- /ENTRY SET -->
+<!-- /ENTRIES MODULE -->
+<!-- COMMENTS MODULE -->
+<a name="comment-list"></a>
+<div id="mod-comments">
+<div class="mod-comments-top"><div class="lt"><div class="rt"></div></div></div>
+
+<!-- mod-comments-body -->
+<div class="mod-comments-body">
+
+<h3>コメント</h3>
+<!-- comment-list-none -->
+<div class="comment-alert"><span class="comment-list-none">コメントはありません。</span></div>
+<!-- /comment-list-none -->
+<!-- /comment-list -->
+
+<a name="comment-form"></a>
+<h3>コメントを投稿</h3>
+
+
+
+<!-- comment-deny -->
+<div class="comment-alert"><span class="comment-deny">現在、コメントを受け取らないよう設定されております。<br>※ブログ管理者のみ、編集画面で設定の変更が可能です。</span></div>
+<!-- /comment-deny -->
+
+</div>
+<!-- /mod-comments-body -->
+<div class="mod-comments-bottom"><div class="lb"><div class="rb"></div></div></div>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+var arImgName = new Array();
+arImgName[0] = new Array("m_0001.gif","m_0002.gif","m_0003.gif","m_0004.gif","m_0005.gif","m_0006.gif","m_0007.gif","m_0008.gif","m_0009.gif","m_0010.gif","m_0011.gif","m_0012.gif","m_0013.gif","m_0014.gif","m_0015.gif","m_0016.gif","m_0017.gif","m_0018.gif","m_0019.gif","m_0020.gif","m_0021.gif","m_0022.gif","m_0023.gif","m_0024.gif","m_0025.gif","m_0026.gif","m_0027.gif","m_0028.gif","m_0029.gif","m_0030.gif","m_0031.gif","m_0032.gif","m_0033.gif","m_0034.gif","m_0035.gif","m_0036.gif","m_0037.gif","m_0038.gif","m_0039.gif","m_0040.gif","m_0041.gif","m_0042.gif","m_0043.gif","m_0044.gif","m_0045.gif","m_0046.gif","m_0047.gif","m_0048.gif","m_0049.gif","m_0050.gif","m_0051.gif","m_0052.gif","m_0053.gif","m_0054.gif","m_0055.gif","m_0056.gif","m_0057.gif","m_0058.gif","m_0059.gif","m_0060.gif","m_0061.gif","m_0062.gif","m_0063.gif","m_0064.gif","m_0065.gif","m_0066.gif","m_0067.gif","m_0068.gif","m_0069.gif","m_0070.gif","m_0071.gif","m_0072.gif","m_0073.gif","m_0074.gif","m_0075.gif","m_0076.gif","m_0077.gif","m_0078.gif","m_0079.gif","m_0080.gif","m_0081.gif","m_0082.gif","m_0083.gif","m_0084.gif","m_0085.gif","m_0086.gif","m_0087.gif","m_0088.gif","m_0089.gif","m_0090.gif","m_0091.gif","m_0092.gif","m_0093.gif","m_0094.gif","m_0095.gif","m_0096.gif","m_0097.gif","m_0098.gif","m_0099.gif","m_0100.gif","m_0101.gif","m_0102.gif","m_0103.gif","m_0104.gif","m_0105.gif","m_0106.gif","m_0107.gif","m_0108.gif","m_0109.gif","m_0110.gif","m_0111.gif","m_0112.gif","m_0113.gif","m_0114.gif","m_0115.gif","m_0116.gif","m_0117.gif","m_0118.gif","m_0119.gif","m_0120.gif","m_0121.gif","m_0122.gif","m_0123.gif","m_0124.gif","m_0125.gif","m_0126.gif","m_0127.gif","m_0128.gif","m_0129.gif","m_0130.gif","m_0131.gif","m_0132.gif","m_0133.gif","m_0134.gif","m_0135.gif","m_0136.gif","m_0137.gif","m_0138.gif","m_0139.gif","m_0140.gif","m_0141.gif","m_0142.gif","m_0143.gif","m_0144.gif","m_0145.gif","m_0146.gif","m_0147.gif","m_0148.gif","m_0149.gif","m_0150.gif","m_0151.gif","m_0152.gif","m_0153.gif","m_0154.gif","m_0155.gif","m_0156.gif","m_0157.gif","m_0158.gif","m_0159.gif","m_0160.gif","m_0161.gif","m_0162.gif","m_0163.gif","m_0164.gif","m_0165.gif","m_0166.gif","m_0167.gif","m_0168.gif","m_0169.gif","m_0170.gif","m_0171.gif","m_0172.gif","m_0173.gif","m_0174.gif","m_0175.gif","m_0176.gif","m_0177.gif","m_0178.gif","m_0179.gif","m_0180.gif","m_0181.gif","m_0182.gif","m_0183.gif","m_0184.gif","m_0185.gif","m_0186.gif","m_0187.gif","m_0188.gif","m_0189.gif","m_0190.gif","m_0191.gif","m_0192.gif","m_0193.gif","m_0194.gif","m_0195.gif","m_0196.gif","m_0197.gif","m_0198.gif","m_0199.gif","m_0200.gif","m_0201.gif","m_0202.gif","m_0203.gif","m_0204.gif","m_0205.gif","m_0206.gif","m_0207.gif","m_0208.gif","m_0209.gif","m_0210.gif","m_0211.gif","m_0212.gif","m_0213.gif","m_0214.gif","m_0215.gif","m_0216.gif","m_0217.gif","m_0218.gif","m_0219.gif","m_0220.gif","m_0221.gif","m_0222.gif","m_0223.gif","m_0224.gif","m_0225.gif","m_0226.gif","m_0227.gif","m_0228.gif","m_0229.gif","m_0230.gif","m_0231.gif","m_0232.gif","m_0233.gif","m_0234.gif","m_0235.gif","m_0236.gif","m_0237.gif","m_0238.gif","m_0239.gif","m_0240.gif","m_0241.gif","m_0242.gif","m_0243.gif","m_0244.gif","m_0245.gif","m_0246.gif","m_0247.gif","m_0248.gif","m_0249.gif","m_0250.gif","m_0251.gif","m_0252.gif");
+arImgName[1] = new Array("kaeru_fine.gif", "hiyoko_thunder.gif" , "kaeru_rain.gif" , "hiyoko_cloud.gif" , "kaeru_snow.gif" , "hiyo_do.gif" , "kaeru_love.gif" , "hiyo_oro.gif" , "hiyo_uru.gif" , "hiyo_please.gif" , "kaeru_night.gif" , "kaeru_alone.gif" , "kaeru_shock1.gif" , "hiyob_uru.gif" , "hiyob_en.gif" , "hiyob_hat.gif" , "hiyob_eye.gif" , "hiyo_s.gif" , "kame.gif" , "nezumi.gif" , "niwatori.gif" , "hiyos.gif" , "usagi.gif" , "buta.gif" , "kaeru_yodare1.gif" , "kaeru_en1.gif" , "kaeru_en2.gif" , "kaeru_ang2.gif" , "kaeru_cry.gif" , "kaeru_yodare2.gif" , "kaeru_en3.gif" , "kaeru_en4.gif" , "kaeru_ang3.gif" , "kaeru_shock2.gif" , "kaeru_fuku.gif" , "hiyo_ang1.gif" , "hiyo_cock.gif" , "hiyo_eye.gif" , "hiyo_face.gif" , "hiyo_z.gif" , "hiyo_cry1.gif" , "hiyo_en1.gif" , "hiyo_shock1.gif" , "hiyo_cry2.gif" , "hiyo_ang2.gif" , "hiyo_shock2.gif" , "hiyo_en2.gif" , "kuma_fly.gif" , "face_heart.gif" , "face_nika.gif" , "face_ase1.gif" , "face_ase2.gif" , "face_hekomu.gif" , "face_acha.gif" , "face_kaze.gif" , "face_yaho.gif" , "face_suki.gif" , "face_ikari.gif" , "face_hohoemi.gif" , "face_tehe.gif" , "face_yoka.gif" , "face_warai.gif" , "face_zzz.gif" , "face_keibetsu.gif" , "face_maji.gif" , "face_naki.gif" , "face_setsunai.gif" , "face_gaan.gif" , "face_fight.gif" , "abanzai.gif" , "dogeza.gif" , "face_en.gif" , "face_ang.gif" , "face_cry.gif" , "face_sup.gif" , "face_z.gif" , "hikari_pink.gif" , "hikari_blue.gif" , "kirakira.gif" , "kaminari.gif" , "presents.gif" , "ase.gif" , "namida.gif" , "3hearts.gif" , "heartbreake.gif" , "heart.gif" , "heart_pink.gif" , "heart_orange.gif" , "hearts_pink.gif" , "hearts_red.gif" , "heartss_pink.gif" , "heratss_blue.gif" , "atten.gif" , "ee_1.gif" , "ee_2.gif" , "ee_3.gif" , "eq_1.gif" , "eq_2.gif" , "star.gif" , "shootingstar.gif" , "onpu.gif" , "roket.gif" , "mail.gif" , "arrow_l.gif" , "arrow_r.gif" , "arrow_t.gif" , "fukis_z.gif" , "z1.gif" , "z2.gif" , "up.gif" , "down.gif" , "hakushu.gif" , "hand_goo.gif" , "sayonara.gif" , "hand_iine.gif" , "choki.gif" , "goo.gif" , "good.gif" , "tv.gif" , "pc2.gif" , "handyph_pink.gif" , "handyph_blue.gif" , "phone.gif" , "cars_red.gif" , "cars_train.gif" , "sos.gif" , "v.gif" , "wakaba.gif" , "onsen.gif" , "apples.gif" , "ichigo.gif" , "cherry_blue.gif" , "cherry_red.gif" , "baseball.gif" , "soccer.gif" , "golf.gif" , "tennis.gif" , "mike.gif" , "game.gif" , "book.gif" , "headphone.gif" , "bag.gif" , "beers.gif" , "cocktail.gif" , "cups.gif" , "silver.gif" , "bikes.gif" , "cloud_face.gif" , "rain_face.gif" , "fine_face.gif" , "cloud_sim.gif" , "rain_sim.gif" , "fine_sim.gif" , "house_red.gif" , "house_blue.gif" , "car_pink.gif" , "airplane.gif" , "beer.gif" , "cocktail2.gif" , "cake.gif" , "erase.gif" , "note.gif" , "pen.gif" , "kaeru_wel.gif" , "kaeru_thank.gif" , "kuma_wel.gif" , "plane_wel.gif" , "new_bk.gif" , "new_color.gif" , "apple_up.gif" , "18.gif" , "fuki_cool.gif" , "fuki_oshirase.gif" , "fuki_osusume.gif" , "fuki_suki.gif" , "fuki_kouji.gif" , "fuki_yonde.gif" , "fuki_love.gif" , "fuki_cute.gif");
+arImgName[2] = new Array("cat_1.gif", "cat_2.gif", "cat_3.gif", "cat_4.gif", "cat_5.gif", "cat_6.gif", "cat_7.gif", "cat_8.gif", "hamster_1.gif", "hamster_2.gif", "hamster_3.gif", "hamster_4.gif", "hamster_5.gif", "hamster_6.gif", "hamster_7.gif", "ari_1.gif", "ari_2.gif", "kuri_1.gif", "kuri_2.gif", "kuri_3.gif", "kuri_4.gif", "kuri_5.gif", "panda_1.gif", "panda_2.gif", "onigiri_1.gif", "onigiri_2.gif", "baikin_1.gif", "baikin_2.gif", "dolphin.gif", "whale.gif", "teeth.gif", "mirror.gif", "ladybug.gif", "clover.gif", "christmas.gif", "airplane2.gif", "ship.gif", "bomb.gif", "cake_2.gif", "camera.gif", "angry.gif", "dododo.gif", "light.gif", "mark_c.gif", "mark_r.gif", "plus.gif", "minus.gif", "round_b.gif", "round_o.gif", "square_g.gif", "square_p.gif");
+arImgName[3] = new Array("astro_aries.gif", "astro_taurus.gif", "astro_gemini.gif", "astro_cancer.gif", "astro_leo.gif", "astro_vergo.gif", "astro_scorpio.gif", "astro_libra.gif", "astro_sagittarius.gif", "astro_capricornus.gif", "astro_aquarius.gif", "astro_pisces.gif", "eto_ne.gif", "eto_ushi.gif", "eto_tora.gif", "eto_u.gif", "eto_tatsu.gif", "eto_mi.gif", "eto_uma.gif", "eto_hitsuji.gif", "eto_saru.gif", "eto_tori.gif", "eto_inu.gif", "eto_i.gif", "face2_full_s.gif", "face2_full_m.gif", "face2_grin_s.gif", "face2_grin_m.gif", "face2_happy_s.gif", "face2_happy_m.gif", "face2_hungry_s.gif", "face2_hungry_m.gif", "face2_lose_s.gif", "face2_lose_m.gif", "face2_shock_s.gif", "face2_shock_m.gif", "body_walk.gif", "body_run.gif", "body_deject.gif", "body_jump.gif", "body_fall.gif", "body_lazy.gif", "body_stretch.gif", "body_stand.gif", "rabi_nomal.gif", "rabi_angry.gif", "rabi_cry.gif", "rabi_happy.gif", "rabi_left.gif", "rabi_right.gif", "rabi_lose.gif", "rabi_shy.gif", "rabi_smile.gif", "rabi_love.gif", "dog_nomal.gif", "dog_angry.gif", "dog_sad.gif", "dog_happy.gif", "dog_left.gif", "dog_right.gif", "dog_lose.gif", "dog_shy.gif", "dog_smile.gif", "dog_love.gif", "girl_compact_m.gif", "girl_compact_sl.gif", "girl_lipstick.gif", "girl_jewel_b.gif", "girl_jewel_r.gif", "girl_necklace.gif", "girl_ring.gif", "girl_pierce.gif", "heart2_arrow.gif", "heart2_beat.gif", "heart2_glitter.gif", "heart2_shine.gif", "hawaii_plumeria.gif", "hawaii_pine.gif", "hawaii_beach.gif", "hawaii_rainbow.gif", "bouquet.gif", "fashion_dress.gif", "fashion_pumps.gif", "fashion_boots.gif", "fashion_sandal.gif", "fashion_shoes.gif", "fashion_sneaker.gif", "fashion_tshirts.gif", "fashion_jeans.gif", "fashion_necktie.gif", "fashion_yshirts.gif", "fashion_attache.gif", "fashion_trank.gif", "drink_hottea.gif", "drink_juice.gif", "drink_pet.gif", "drink_ramune.gif", "drink_bottlebeer.gif", "drink_glassbeer.gif", "drink_sake.gif", "drink_ochoko.gif", "rice_eating.gif", "rice_full.gif", "rice_hungry.gif", "car2_ambulance.gif", "car2_fire.gif", "car2_pat.gif", "car2_taxi.gif", "car2_dump.gif", "car2_truck.gif", "car2_tank.gif", "insect_kabuto_s.gif", "insect_kabuto_m.gif", "insect_kuwa.gif", "insect_kuwa_m.gif", "insect_ami.gif", "insect_kago.gif", "s1_spr_chulip.gif", "s1_spr_sakura.gif", "s2_sum_sunflower.gif", "s2_sum_bbq.gif", "s2_sum_ball.gif", "s2_sum_sandal.gif", "s2_sum_furin.gif", "s2_sum_suika.gif", "s2_sum_katori.gif", "s2_sum_uchiwa.gif", "s2_sum_yukata_b.gif", "s2_sum_yukata_r.gif", "s2_sum_hotaru.gif", "s2_sum_beach.gif", "s2_sum_sea.gif", "s2_sum_mount.gif", "s3_aut_momiji.gif", "s4_win_snow.gif", "etc_school.gif", "etc_building.gif", "etc_amuse.gif", "etc_fire.gif", "arrow_down.gif", "b_face2_full_s.gif", "b_face2_full_m.gif", "b_face2_hungry_s.gif", "b_face2_hungry_m.gif", "b_face2_shock_s.gif", "b_face2_shock_m.gif", "b_body_deject.gif", "b_body_jump.gif", "b_body_lazy.gif", "b_bouquet.gif", "ramen.gif");
+arImgName[4] = new Array("gp01.gif", "gp02.gif", "gp04.gif", "gp05.gif", "gp07.gif", "gp08.gif", "gp11.gif", "gp13.gif", "gp16.gif", "gp17.gif", "gp18.gif", "gp21.gif", "gp22.gif", "gp23.gif", "gp25.gif", "gp27.gif", "gp28.gif", "gp29.gif", "gp30.gif", "gp31.gif", "pt01.gif", "pt02.gif", "pt04.gif", "pt05.gif", "pt06.gif", "pt07.gif", "pt10.gif", "pt11.gif", "pt12.gif", "pt13.gif", "pt16.gif", "pt17.gif", "pt18.gif", "pt19.gif", "pt22.gif", "pt26.gif", "pt29.gif", "pt30.gif", "pt31.gif", "pt34.gif", "shm01.gif", "shm03.gif", "shm06.gif", "shm07.gif", "shm09.gif", "shm12.gif", "shm13.gif", "shm14.gif", "shm15.gif", "shm17.gif", "shm18.gif", "shm20.gif", "shm21.gif", "shm28.gif", "shm29.gif", "shm30.gif", "shm31.gif", "shm32.gif", "shm33.gif", "shm35.gif");
+arImgName[5] = new Array("mush.gif","mush_mov.gif","moon.gif","moon_mov.gif","pampas.gif","pampas_mov.gif","dango.gif","fallen_mov.gif","redleaves.gif","flask1.gif","flask2.gif","lunch.gif","book2.gif","book_mov.gif","mug.gif","sushi.gif","oden.gif","udon.gif","cutlet.gif","curry.gif","spaghetti.gif","pizza.gif","poloneck.gif","woolcap.gif", "win_mountain.gif", "win_night.gif", "win_snowman.gif", "xmas_cake.gif", "xmas_candy.gif", "xmas_hiiragi.gif", "xmas_psox.gif", "xmas_santa.gif", "xmas_tonakai.gif", "xmas_tree.gif", "xmas_wine.gif", "xmas_winebottle.gif", "xmas_wreathe.gif", "ny_hagoita.gif", "ny_hatsuhinode.gif", "ny_kadomatsu.gif", "ny_kagamimochi.gif", "ny_kimono_f.gif", "ny_kimono_m.gif", "ny_ozouni.gif", "ny_tako.gif");
+arImgName[6] = new Array("aobara.gif","benibara.gif","kojika.gif","tyou2.gif","tyou.gif","risu.gif","robo.gif","kitune.gif","tanuki.gif","tyoutcin.gif","bakeneko.gif","kiraneko.gif","patineko.gif","shokneko.gif","winkneko.gif","nakioni.gif","oni.gif","waraioni.gif","pakukapa.gif","patikapa.gif","wahakapa.gif","winkapa.gif","akaname.gif","bakezouri.gif","dokuro.gif","hunayurei.gif","huririhi.gif","ipon.gif","isona.gif","kasabake.gif","kawauso.gif","korobo.gif","kudan.gif","rokuro.gif","tankoro.gif","teng.gif","zashiki.gif","do.gif","knamida.gif","warai.gif");
+
+function dispImgChar(page){
+
+  var darea = document.getElementById("comment-emoji-list");
+  darea.style.display = "none";
+  var typenode = 1;
+  for(i=0; i<darea.childNodes.length; i++){
+    if(darea.childNodes[i].nodeType != typenode){continue}
+    darea.childNodes[i].style.display = "none";
+  }
+
+  if(page==0){
+    document.cmform['comment/comment_text'].focus();
+    document.getElementById("emojioptstart").selected = "selected";
+    return
+  }
+  
+  var seekpage = "comment-emoji-list_" + page;
+  if(document.getElementById(seekpage)){
+    darea.style.display = "";
+    document.getElementById(seekpage).style.display = "";
+    return;
+  }
+
+  var adddiv = document.createElement("div");
+  adddiv.id = seekpage;
+  darea.appendChild(adddiv);
+  
+  page--;
+  for(i=0; i<arImgName[page].length; i++){
+    var srcdir = "http://blogimg.goo.ne.jp/img_emoji/" + arImgName[page][i];
+    var eimg = document.createElement("img");
+    eimg.onclick = function(){setName(this.src)};
+    eimg.onmouseover = function(){setSelect(this)}
+    eimg.onmouseout = function(){setSelect(this)}
+    eimg.style.margin = "3px";
+    eimg.src = srcdir;
+    adddiv.appendChild(eimg);
+  }
+
+  darea.style.display = "";
+  adddiv.style.display = "";
+}
+
+function setName(outstr){
+  outstr = outstr.replace(/^.+\//, "");
+  outstr = outstr.replace(/\.[^.]+$/,"");
+  outstr = "{/" + outstr + "/}";
+  puttxt(outstr);
+  var tartext = document.cmform['comment/comment_text'].focus();
+}
+
+function setSelect(imgS){
+  if(imgS.style.backgroundColor){
+    imgS.style.backgroundColor = "";
+  }else{
+    imgS.style.backgroundColor = "#CCC";
+  }
+}
+
+function puttxt(instext){
+  var tartext = document.cmform['comment/comment_text'];
+  if(document.selection){
+    tartext.focus();
+    var rng = document.selection.createRange();
+    if(rng.text.length == 0){rng.text = instext}else{rng.text += instext};
+    return;
+  }
+  if(tartext.selectionStart){
+    var point = tartext.selectionEnd;
+    if(!point){tartext.value += instext; return};
+    var srcval = tartext.value;
+    tartext.value = srcval.substr(0,point) + instext + srcval.substring(point,srcval.length);
+    return;
+  }
+  tartext.value += instext;
+}
+-->
+</script>
+
+<!-- /COMMENTS MODULE -->
+<!-- TRACKBACKS MODULE -->
+<script type="text/javascript">
+<!--
+var tid="a439f8e8acef4f90c1551a53e0e8271c";
+var es="ee";
+// -->
+</script>
+<a name="trackback-list"></a>
+<div id="mod-trackbacks">
+<div class="mod-trackbacks-top"><div class="lt"><div class="rt"></div></div></div>
+
+<!-- mod-trackbacks-body -->
+<div class="mod-trackbacks-body">
+
+<h3>トラックバック</h3>
+
+
+
+<!-- trackback-ping-url -->
+<div class="trackback-ping-url">
+<dl>
+<dt>この記事のトラックバック &nbsp;Ping-URL</dt>
+<dd><script type="text/javascript">document.write('<input size="40" id="tb-ping-url-input" class="tb-ping-url-input" value="http://blog.goo.ne.jp/tbinterface/'+tid+'/'+es+'" readonly="readonly" onfocus="this.select()" />');</script></dd>
+</dl>
+</div>
+<!-- /trackback-ping-url -->
+
+
+<!-- trackback-filter -->
+<div class="trackback-filter">
+<ul>
+<li>送信元の記事内容が半角英数のみのトラックバックは受け取らないよう設定されております。</li>
+<li>※ブログ管理者のみ、編集画面で設定の変更が可能です。</li>
+</ul>
+</div>
+<!-- /trackback-filter -->
+
+<!-- trackback-list -->
+<div class="trackback-list">
+<div class="trackback-list-top"><div class="lt"><div class="rt"></div></div></div>
+<div class="trackback-list-body">
+</div>
+<div class="trackback-list-bottom"><div class="lb"><div class="rb"></div></div></div>
+</div>
+<!-- /trackback-list -->
+
+
+</div>
+<!-- /mod-trackbacks-body -->
+<div class="mod-trackbacks-bottom"><div class="lb"><div class="rb"></div></div></div>
+</div>
+<!-- /TRACKBACKS MODULE -->
+
+
+
+</div>
+<div class="content-bottom"></div>
+</div>
+<!-- /CONTENT 2 COLUMNS -->
+
+</div>
+<!-- /IN-CENTER -->
+
+</div>
+<!-- /CENTER -->
+
+<!-- SIDE A -->
+<div id="side-a">
+
+<!-- SIDEBAR -->
+<div class="sidebar-top"></div>
+<div class="sidebar">
+
+<div id="sidebar-opt-top"></div>
+<!-- FREEAREA SIDEBAR MODULE -->
+<div id="mod-freearea-sidebar" class="module">
+<div class="module-top"></div>
+<h4>ブンブンカウンター</h4>
+<div class="module-body">
+<!-- ブンブンカウンター -->
+<script language="javascript" charset="utf-8" src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/48bad6e02bf56c0c1174962ed1dded9e.js" type="text/javascript"></script><div class="clearboth"></div>
+</div>
+<div class="module-bottom"></div>
+</div>
+<!-- /FREEAREA SIDEBAR MODULE -->
+<!-- FONT SIZE MODULE -->
+<script src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/cookie.js"></script>
+<script src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/font_resizer.js"></script>
+<div id="font-size-changer" class="module">
+<div class="module-top"></div>
+<h4>文字サイズ変更</h4>
+<div class="module-body">
+<div id="font-resizer">
+<ul><li class="mod-fon-siz-small"><a id="font-resizer-small" href="#">小</a></li><li class="mod-fon-siz-reset"><a id="font-resizer-reset" href="#">標準</a></li><li class="mod-fon-siz-large"><a id="font-resizer-large" href="#">大</a></li></ul>
+</div>
+<div class="clearboth"></div>
+</div>
+<div class="module-bottom"></div>
+</div>
+
+<script>
+//Event.observe(window,'load',function(){
+new FontResizer('font-resizer');
+//},false);
+</script>
+<!-- /FONT SIZE MODULE -->
+<!-- CALENDAR MODULE -->
+<div id="mod-calendar" class="module">
+<div class="module-top"></div>
+<h4>カレンダー</h4>
+<div class="module-body">
+<!-- mod-cal-table -->
+<div id="mod-cal-table">
+<table cellpadding="0" cellspacing="0">
+<caption class="mod-cal-caption">2010年9月</caption>
+<tbody><tr>
+<th class="mod-cal-week">日</th>
+<th class="mod-cal-week">月</th>
+<th class="mod-cal-week">火</th>
+<th class="mod-cal-week">水</th>
+<th class="mod-cal-week">木</th>
+<th class="mod-cal-week">金</th>
+<th class="mod-cal-week">土</th>
+</tr>
+<tr>
+<td class="mod-cal-day"> </td>
+<td class="mod-cal-day"> </td>
+<td class="mod-cal-day"> </td>
+<td class="mod-cal-day">1</td>
+<td class="mod-cal-day">2</td>
+<td class="mod-cal-day">3</td>
+<td class="mod-cal-day">4</td>
+</tr>
+<tr>
+<td class="mod-cal-day-lin-td"><a href="http://blog.goo.ne.jp/gekigangar/d/20100905"><span class="mod_cal_day_linked">5</span></a></td>
+<td class="mod-cal-day-lin-td"><a href="http://blog.goo.ne.jp/gekigangar/d/20100906"><span class="mod_cal_day_linked">6</span></a></td>
+<td class="mod-cal-day-lin-td"><a href="http://blog.goo.ne.jp/gekigangar/d/20100907"><span class="mod_cal_day_linked">7</span></a></td>
+<td class="mod-cal-day-lin-td"><a href="http://blog.goo.ne.jp/gekigangar/d/20100908"><span class="mod_cal_day_linked">8</span></a></td>
+<td class="mod-cal-day-lin-td"><a href="http://blog.goo.ne.jp/gekigangar/d/20100909"><span class="mod_cal_day_linked">9</span></a></td>
+<td class="mod-cal-day-lin-td"><a href="http://blog.goo.ne.jp/gekigangar/d/20100910"><span class="mod_cal_day_linked">10</span></a></td>
+<td class="mod-cal-day-lin-td"><a href="http://blog.goo.ne.jp/gekigangar/d/20100911"><span class="mod_cal_day_linked">11</span></a></td>
+</tr>
+<tr>
+<td class="mod-cal-day-lin-td"><a href="http://blog.goo.ne.jp/gekigangar/d/20100912"><span class="mod_cal_day_linked">12</span></a></td>
+<td class="mod-cal-day">13</td>
+<td class="mod-cal-day">14</td>
+<td class="mod-cal-day">15</td>
+<td class="mod-cal-day">16</td>
+<td class="mod-cal-day">17</td>
+<td class="mod-cal-day">18</td>
+</tr>
+<tr>
+<td class="mod-cal-day">19</td>
+<td class="mod-cal-day">20</td>
+<td class="mod-cal-day">21</td>
+<td class="mod-cal-day">22</td>
+<td class="mod-cal-day">23</td>
+<td class="mod-cal-day">24</td>
+<td class="mod-cal-day">25</td>
+</tr>
+<tr>
+<td class="mod-cal-day">26</td>
+<td class="mod-cal-day">27</td>
+<td class="mod-cal-day">28</td>
+<td class="mod-cal-day">29</td>
+<td class="mod-cal-day">30</td>
+<td class="mod-cal-day"> </td>
+<td class="mod-cal-day"> </td>
+</tr>
+</tbody></table>
+<div id="mod-cal-prev-next">
+<div id="mod-cal-prev"><a href="http://blog.goo.ne.jp/gekigangar/m/201008">前月</a></div>
+<div id="mod-cal-next"><a href="http://blog.goo.ne.jp/gekigangar/m/201010">次月</a></div>
+</div>
+<div class="clearboth"></div>
+</div>
+<!-- /mod-cal-table -->
+</div>
+<div class="module-bottom"></div>
+</div>
+<!-- /CALENDAR MODULE -->
+<!-- RECENT ENTRIES MODULE -->
+<div id="mod-recent-entries" class="module">
+<div class="module-top"></div>
+<h4>最新記事</h4>
+<div class="module-body">
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/e/80f91d65cc40a6ceceba8620e3302dae">美少女パソコンゲーム大研究'93総集編上巻(三和出版・'94/04/15)</a></li><li><a href="http://blog.goo.ne.jp/gekigangar/e/64041ecb79249a5613e2fdcbad2c9f53">美少女パソコンゲーム大研究'90〜92総集編下巻(三和出版・'93/02/15)</a></li><li><a href="http://blog.goo.ne.jp/gekigangar/e/e6390a906a3b7151cdb7c0111081bf46">美少女パソコンゲーム大研究'90〜92総集編上巻(三和出版・'93/01/15)</a></li><li><a href="http://blog.goo.ne.jp/gekigangar/e/93f1b0c0694458d30bba7024a41d50ff">美少女ゲーム攻略本目録</a></li><li><a href="http://blog.goo.ne.jp/gekigangar/e/4f2be96043742a18e75c002b6f758521">美少女パソコンゲーム大研究１２(三和出版・'94/09/05)</a></li><li><a href="http://blog.goo.ne.jp/gekigangar/e/fb8f2efc6664ce339d2368b1ad2e2dd4">美少女パソコンゲーム大研究１１(三和出版・'94/07/05)</a></li><li><a href="http://blog.goo.ne.jp/gekigangar/e/b2751c41509441eab5426473b4aadad5">美少女パソコンゲーム大研究１０(三和出版・'94/05/05)</a></li><li><a href="http://blog.goo.ne.jp/gekigangar/e/1be0fb0354ceef3d017870a649eb5565">美少女ゲーム最前線パート１２(辰巳出版・'93/12/05)</a></li><li><a href="http://blog.goo.ne.jp/gekigangar/e/f33b1f1422abf776bf28db3aa213d8d9">美少女パソコンゲーム大研究９(三和出版・'94/03/05)</a></li><li><a href="http://blog.goo.ne.jp/gekigangar/e/3c17f2e3e8b3cbbe76bae764ee66ca90">美少女パソコンゲーム大研究８(三和出版・'94/01/05)</a></li></ul>
+<div class="arcv-link"><a href="http://blog.goo.ne.jp/gekigangar/arcv">もっと見る &gt;&gt;</a></div>
+<div class="clearboth"></div>
+</div>
+<div class="module-bottom"></div>
+</div>
+<!-- /RECENT ENTRIES MODULE -->
+<!-- BACK NUMBERS MODULE -->
+<div id="mod-back-numbers-scroll" class="module">
+<div class="module-top"></div>
+<h4>バックナンバー</h4>
+<div class="module-body">
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/201009">2010年09月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/201008">2010年08月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/201007">2010年07月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/201006">2010年06月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/201005">2010年05月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/201004">2010年04月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/201001">2010年01月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200912">2009年12月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200910">2009年10月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200909">2009年09月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200908">2009年08月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200907">2009年07月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200906">2009年06月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200905">2009年05月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200903">2009年03月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200902">2009年02月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200901">2009年01月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200812">2008年12月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200811">2008年11月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200810">2008年10月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200809">2008年09月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200808">2008年08月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200807">2008年07月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200806">2008年06月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200805">2008年05月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200804">2008年04月</a></li>
+</ul>
+<div class="clearboth"></div>
+</div>
+<div class="module-bottom"></div>
+</div>
+<!-- /BACK NUMBERS MODULE -->
+<!-- CATEGORIES MODULE -->
+<div id="mod-categories" class="module">
+<div class="module-top"></div>
+<h4>カテゴリー</h4>
+<div class="module-body">
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/4f5a43cbb85bd72cb0360878c809ee52"><span class="mod-cat-name">PC98ソフト　ADV</span></a><span class="mod-cat-count">(23)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/4492fcec706d5252faf101ab4c5b25a0"><span class="mod-cat-name">PC98ソフト　RPG</span></a><span class="mod-cat-count">(14)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/153c9ba32f4126e927f849fcf9188212"><span class="mod-cat-name">PC98ソフト　SLG</span></a><span class="mod-cat-count">(13)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/77b572c9d28bbda666db78fc9172e23b"><span class="mod-cat-name">PC98ソフト　クイズ</span></a><span class="mod-cat-count">(2)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/4064b45c88086a6e8621fdfe81a4e714"><span class="mod-cat-name">PC98ソフト　麻雀・花札</span></a><span class="mod-cat-count">(2)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/257c8648677d88ae9fe2c1bee3a6741d"><span class="mod-cat-name">PC98ソフト　TBL</span></a><span class="mod-cat-count">(3)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/620b2b683c7a6c0a81a9bf53f53f35c0"><span class="mod-cat-name">PC98ソフト　パズル</span></a><span class="mod-cat-count">(1)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/71988edfb5b6daec90509901f4e316f3"><span class="mod-cat-name">PC98ソフト　STG</span></a><span class="mod-cat-count">(1)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/2e9b5485469e5cb57f1d2e7163086ba6"><span class="mod-cat-name">PC98ソフト　その他</span></a><span class="mod-cat-count">(1)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/67b5fb2d68cd2e62c35c698fdf71b90b"><span class="mod-cat-name">PC88ソフト　グラフィック集</span></a><span class="mod-cat-count">(2)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/43edfc55569a75b3e74522f5f4098c1a"><span class="mod-cat-name">PC88ソフト　ADV</span></a><span class="mod-cat-count">(2)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/ddd17785bad0df91c7052740603af2f4"><span class="mod-cat-name">PC88ソフト　RPG</span></a><span class="mod-cat-count">(0)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/5ecde315aa7b3271198f18ac150923b8"><span class="mod-cat-name">PC88ソフト　アクション</span></a><span class="mod-cat-count">(1)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/edb856e188afe976dee9aab919193463"><span class="mod-cat-name">PC88ソフト　クイズ</span></a><span class="mod-cat-count">(2)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/0a8b90ed7cef5ca8f029cc3216679aed"><span class="mod-cat-name">PC88ソフト　その他</span></a><span class="mod-cat-count">(1)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/3b50ef077af1340ad6cd99c70804a74d"><span class="mod-cat-name">X68000ソフト　アクション</span></a><span class="mod-cat-count">(2)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/f3041843121230317371257e0a528849"><span class="mod-cat-name">使ってみようエミュレータ</span></a><span class="mod-cat-count">(11)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/c68f6bde026792b5f4ffd03bf4194981"><span class="mod-cat-name">レトロパソコンのお作法</span></a><span class="mod-cat-count">(5)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/9b65a444814eb062f86dae68663b72d9"><span class="mod-cat-name">美少女ゲーム　攻略本</span></a><span class="mod-cat-count">(35)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/c23efa577a9adbdaefa2e33705395d44"><span class="mod-cat-name">古本屋情報</span></a><span class="mod-cat-count">(1)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/64a0c1013ba2b544a02f810a61b6d746"><span class="mod-cat-name">Weblog</span></a><span class="mod-cat-count">(32)</span></li>
+</ul>
+<div class="clearboth"></div>
+</div>
+<div class="module-bottom"></div>
+</div>
+<!-- /CATEGORIES MODULE -->
+<!-- BOOKMARKS MODULE -->
+<div id="mod-bookmarks" class="module">
+<div class="module-top"></div>
+<h4>ブックマーク</h4>
+<div class="module-body">
+<dl>
+<dt><span class="mod-boo-name"><a href="http://www013.upp.so-net.ne.jp/ymurakami/" target="_blank" rel="nofollow">Chaserのジャンクヤード</a></span></dt>
+<dd><span class="mod-boo-description">レトロゲーの攻略のために大変参考にさせて戴いているサイト，レトロ美少女ゲームの攻略情報においてこのサイトの右に出るものはない。</span></dd>
+<dt><span class="mod-boo-name"><a href="http://fulmoe.s2.x-beat.com/index.html" target="_blank" rel="nofollow">古萌え画像掲示板</a></span></dt>
+<dd><span class="mod-boo-description">懐かしいPC98時代のゲーム等の画像をアップするサイト。うちのブログでは載せられない画像も満載。MLDのダウンロードと画像付きで解説があるのはココだけ！</span></dd>
+<dt><span class="mod-boo-name"><a href="http://www.george24.com/%7Etoppe/" target="_blank" rel="nofollow">88狂時代(リンク切れ？)</a></span></dt>
+<dd><span class="mod-boo-description">PC88シリーズの思い出やゲームの裏技を多数掲載されている、管理人「へりこいど」さんのサイト。おやじっ子達の憩いの場。攻略情報も増殖中で期待大。</span></dd>
+<dt><span class="mod-boo-name"><a href="http://refugee2005.sakura.ne.jp/" target="_blank" rel="nofollow">PC88ゲームライブラリ</a></span></dt>
+<dd><span class="mod-boo-description">国内で発売されたPC-8801ゲームをパッケージ画像、画面写真などで網羅する、非常に貴重なサイト。</span></dd>
+<dt><span class="mod-boo-name"><a href="http://gontajin.s151.xrea.com/" target="_blank" rel="nofollow">PC-98x1Gamelist</a></span></dt>
+<dd><span class="mod-boo-description">PC-9800シリーズ用市販ゲームのリストを作成するページです</span></dd>
+<dt><span class="mod-boo-name"><a href="http://kawashi.ld.infoseek.co.jp/index.html" target="_blank" rel="nofollow">こあぱぱの懐ゲームのお部屋</a></span></dt>
+<dd><span class="mod-boo-description">懐かしのパソコンゲームの攻略法を多数掲載されているページ。長らく更新されていない様子だが、レアレトロゲームの攻略法が結構載っていてびっくり。</span></dd>
+<dt><span class="mod-boo-name"><a href="http://homepage2.nifty.com/xgamestation/index.htm" target="_blank" rel="nofollow">X-GAME STATION</a></span></dt>
+<dd><span class="mod-boo-description">PCゲームのレビューと攻略を扱うKENさんのページ。Wizard V3 Reportによく画像ローダーを提供してらしたＥＰ−ＲＯＭさんのゲームについての昔話が興味深い</span></dd>
+<dt><span class="mod-boo-name"><a href="http://mikioden.blog89.fc2.com/" target="_blank" rel="nofollow">恥に働けば角が立つ。</a></span></dt>
+<dd><span class="mod-boo-description">PC-9801が好きな、W･コーギー（牝1匹）と白猫（牡1匹）を飼っている主婦の方のブログ。復活レッスルエンジェルスをやっているはずが旧作をプレイされていたり・・・。</span></dd>
+<dt><span class="mod-boo-name"><a href="http://www.alicesoft.com/" target="_blank" rel="nofollow">アリスソフト</a></span></dt>
+<dd><span class="mod-boo-description">名作「闘神都市２」のメーカーにして，「配布フリー宣言」，14年ぶりの「闘神都市３」の発売決定など，ユーザーの度肝を抜き続けるソフト会社。</span></dd>
+<dt><span class="mod-boo-name"><a href="http://www.suruga-ya.jp/pcgame.html" target="_blank" rel="nofollow">中古パソコン（PC)ゲーム販売・通販ショップの駿河屋</a></span></dt>
+<dd><span class="mod-boo-description">今となっては中古PC98ソフトを取り扱ってる業者はここくらい。レアものは高いのでヤフオクで探す？</span></dd>
+<dt><span class="mod-boo-name"><a href="http://page.cafe.ocn.ne.jp/profile/manimania" target="_blank" rel="nofollow">VIVA!OTAKU</a></span></dt>
+<dd><span class="mod-boo-description">本来，母艦にする予定だったホームページ。ゲームの感想をアップするのに適しないのであんまり使わないかも。</span></dd>
+</dl>
+<div class="clearboth"></div>
+</div>
+<div class="module-bottom"></div>
+</div>
+<!-- /BOOKMARKS MODULE -->
+<!-- RECENT COMMENTS MODULE -->
+<div id="mod-recent-comments" class="module">
+<div class="module-top"></div>
+<h4>最新コメント</h4>
+<div class="module-body">
+<ul>
+<li><span class="mod-rec-com-name">MANIMANIA/</span><a href="http://blog.goo.ne.jp/gekigangar/e/d3143165cf99dded6c3d4bbc9ba57319"><span class="mod-rec-com-entry">シャングリラ(エルフ・\'91/8）</span></a></li>
+<li><span class="mod-rec-com-name">MANIMANIA/</span><a href="http://blog.goo.ne.jp/gekigangar/e/647ed4e3b2b6dc7109785fc95744ad02"><span class="mod-rec-com-entry">NIKE ナイキ(\'91/07/12・カクテル・ソフト)</span></a></li>
+<li><span class="mod-rec-com-name">MANIMANIA/</span><a href="http://blog.goo.ne.jp/gekigangar/e/c332442f5bec2646693e87414516d62b"><span class="mod-rec-com-entry">98エミュレータから実機のCD-ROMドライブにアクセスしよう</span></a></li>
+<li><span class="mod-rec-com-name">MANIMANIA/</span><a href="http://blog.goo.ne.jp/gekigangar/e/a1fa194b2e8c70df313b638df906aaa7"><span class="mod-rec-com-entry">第１次大阪府下店舗探索完了</span></a></li>
+<li><span class="mod-rec-com-name">綾城　怜/</span><a href="http://blog.goo.ne.jp/gekigangar/e/d3143165cf99dded6c3d4bbc9ba57319"><span class="mod-rec-com-entry">シャングリラ(エルフ・\'91/8）</span></a></li>
+<li><span class="mod-rec-com-name">JOJOだやん/</span><a href="http://blog.goo.ne.jp/gekigangar/e/647ed4e3b2b6dc7109785fc95744ad02"><span class="mod-rec-com-entry">NIKE ナイキ(\'91/07/12・カクテル・ソフト)</span></a></li>
+<li><span class="mod-rec-com-name">だやん/</span><a href="http://blog.goo.ne.jp/gekigangar/e/c332442f5bec2646693e87414516d62b"><span class="mod-rec-com-entry">98エミュレータから実機のCD-ROMドライブにアクセスしよう</span></a></li>
+<li><span class="mod-rec-com-name">だやん/</span><a href="http://blog.goo.ne.jp/gekigangar/e/a1fa194b2e8c70df313b638df906aaa7"><span class="mod-rec-com-entry">第１次大阪府下店舗探索完了</span></a></li>
+<li><span class="mod-rec-com-name">fujimaru/</span><a href="http://blog.goo.ne.jp/gekigangar/e/a1fa194b2e8c70df313b638df906aaa7"><span class="mod-rec-com-entry">第１次大阪府下店舗探索完了</span></a></li>
+<li><span class="mod-rec-com-name">MANIMANIA/</span><a href="http://blog.goo.ne.jp/gekigangar/e/c332442f5bec2646693e87414516d62b"><span class="mod-rec-com-entry">98エミュレータから実機のCD-ROMドライブにアクセスしよう</span></a></li>
+</ul>
+<div class="clearboth"></div>
+</div>
+<div class="module-bottom"></div>
+</div>
+<!-- /RECENT COMMENTS MODULE -->
+<!-- RECENT TRACKBACKS MODULE -->
+<div id="mod-recent-trackbacks" class="module">
+<div class="module-top"></div>
+<h4>最新トラックバック</h4>
+<div class="module-body">
+<ul>
+<li>
+<a href="http://kisaragikumi.blog84.fc2.com/blog-entry-86.html"><span class="mod-rec-tra-entry">卒業旅行　ジャニス</span></a>
+<span class="mod-rec-tra-blog">(HCG大好き！)</span>
+</li>
+<li>
+<a href="http://kisaragikumi.blog84.fc2.com/blog-entry-207.html"><span class="mod-rec-tra-entry">DE・JA デ・ジャ（pc98）</span></a>
+<span class="mod-rec-tra-blog">(HCG大好き！)</span>
+</li>
+<li>
+<a href="http://roboko.blog41.fc2.com/blog-entry-625.html"><span class="mod-rec-tra-entry">ノリス</span></a>
+<span class="mod-rec-tra-blog">(りせっとさん)</span>
+</li>
+</ul>
+<div class="clearboth"></div>
+</div>
+<div class="module-bottom"></div>
+</div>
+<!-- /RECENT TRACKBACKS MODULE -->
+<!-- MOBILE MODULE -->
+<div id="mod-mobile" class="module">
+<div class="module-top"></div>
+<h4>携帯</h4>
+<div class="module-body">
+<ul>
+<li class="mod-mob-qr"><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/qrcode.png" alt="QRコード" height="82" width="82"></li><li class="mod-mob-mail"><a href="mailto:-@--?body=http://blog.goo.ne.jp/gekigangar"><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/i_42s_002.gif" alt="メール" border="0" height="16" width="16"></a>&nbsp;<a href="mailto:-@--?body=http://blog.goo.ne.jp/gekigangar">URLをメールで送信</a></li>
+</ul>
+</div>
+<div class="module-bottom"></div>
+</div>
+<!-- /MOBILE MODULE -->
+<!-- POWERED BY MODULE -->
+<div id="mod-powered-by">
+<ul><li><a href="http://blog.goo.ne.jp/gekigangar/index.rdf"><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/mod_rss1.gif" alt="RSS1.0" border="0" height="15" width="55"></a>&nbsp;<a href="http://blog.goo.ne.jp/gekigangar/rss2.xml"><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/mod_rss2.gif" alt="RSS2.0" border="0" height="15" width="55"></a></li><li><a href="http://reader.goo.ne.jp/web/addfeed/http://blog.goo.ne.jp/gekigangar/index.rdf"><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/mod_rss_reader.gif" alt="goo RSSリーダーに追加" border="0"></a></li><li><a href="http://blog.goo.ne.jp/"><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/icon_poweredbygooblog.gif" border="0"></a></li></ul>
+</div>
+<script>
+if(typeof(click_count_id)==="undefined"){click_count_id = new Array();}
+click_count_id.push('mod-powered-by');
+
+</script><!-- /POWERED BY MODULE -->
+<!-- goo RECOMMENDS MODULE -->
+<div id="mod-goo-recommends" class="module">
+<div class="module-top"></div>
+<h4><span id="mod-goo-rec-goo">goo&nbsp;</span>おすすめ</h4>
+<div class="module-body">
+
+<!-- goo SERVICES -->
+<table border="0" cellpadding="0" width="100%">
+
+<tbody><tr><td valign="top" width="10%"><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/m_0072.gif" border="0"></td><td><a href="http://www.goo.ne.jp/miffycamp/">ミッフィーがgooに登場</a></td></tr>
+
+<tr><td valign="top" width="10%"><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/m_0146.gif" border="0"></td><td><a href="http://blog.goo.ne.jp/photo/">写真共有も楽しめるブログ</a></td></tr>
+
+</tbody></table>
+<!-- goo SERVICES -->
+
+<hr noshade="noshade" size="1">
+
+<!-- goo SERVICES -->
+<table border="0" cellpadding="0" width="100%">
+
+<tbody><tr><td colspan="2" valign="top"><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/recent_entry_goo.gif" height="16" width="16">&nbsp;<a href="http://www.goo.ne.jp/click.php?ID=bg04&amp;DEST=http://www.goo.ne.jp/">トップ</a>&nbsp;/&nbsp;<img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/mod_pen_002.gif" height="16" width="16">&nbsp;<a href="http://blog.goo.ne.jp/">ブログ</a></td></tr>
+
+<tr><td valign="top" width="10%"><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/i_42s.gif" height="16" width="16"></td><td><a href="http://mail.goo.ne.jp/">メール</a></td></tr>
+
+<tr><td valign="top" width="10%"><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/mod_home.gif" height="16" width="16"></td><td><a href="http://home.goo.ne.jp/">ホーム(SNS)</a></td></tr>
+
+<tr><td valign="top" width="10%"><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/i_50s.gif" height="16" width="16"></td><td><a href="http://oshiete.goo.ne.jp/?from=blog">教えて！goo</a></td></tr>
+
+<tr><td valign="top" width="10%"><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/i_111s.gif" height="16" width="16"></td><td><a href="http://ranking.goo.ne.jp/">ランキング</a></td></tr>
+
+<tr><td valign="top" width="10%"><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/i_56s.gif" height="16" width="16"></td><td><a href="http://local.goo.ne.jp/season/mikaku/">秋の味覚狩り特集2010</a></td></tr>
+
+
+</tbody></table>
+<!-- /goo SERVICES -->
+
+<hr noshade="noshade" size="1">
+
+<!-- goo BLOG -->
+<table border="0" cellpadding="0" width="100%">
+
+<tbody><tr><td valign="top" width="10%"><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/m_0170.gif" height="16" width="16"></td><td><a href="http://blog.goo.ne.jp/portal/official_blog_list/">公式ブログ</a></td>  </tr>
+
+<tr><td valign="top" width="10%"><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/m_0191.gif" height="16" width="16"></td><td><a href="http://blog.goo.ne.jp/portal/gold_blog_list/">ゴールドブロガー</a></td></tr>
+
+</tbody></table>
+<hr noshade="noshade" size="1">
+<table border="0" cellpadding="0" width="100%">
+
+<tbody><tr><td valign="top" width="10%"><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/m_0235.gif" height="16" width="16"></td><td><a href="http://blog.goo.ne.jp/portal/recent_entry/">最新記事一覧</a></td></tr>
+
+<tr><td valign="top" width="10%"><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/m_0070.gif" height="16" width="16"></td><td><a href="http://blog.goo.ne.jp/api/random_blog">ランダムブログ</a></td></tr>
+
+</tbody></table>
+<!-- /goo BLOG -->
+
+<div style="width: 100%; text-align: center; margin-top: 10px;"><a href="http://blog.goo.ne.jp/info/blog_hajimeru.html?fm=modrec2"><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/mod_newmake.gif" border="0"></a></div>
+
+</div>
+<div class="module-bottom"></div>
+</div>
+<!-- /goo RECOMMENDS MODULE -->
+<script>
+if(typeof(click_count_id)==="undefined"){click_count_id = new Array();}
+click_count_id.push('mod-goo-recommends');
+
+</script><!-- ADVERTISING MODULE -->
+<div id="mod-advertising" class="module">
+<div class="module-top"></div>
+<h4><span id="mod-adv-title">お知らせ</span></h4>
+<div class="module-body">
+
+<table border="0" cellpadding="0" width="100%">
+<tbody><tr><td valign="top" width="10%"><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/m_0114.gif" border="0"></td><td><a href="http://blog.goo.ne.jp/info/photo/?fm=modadv">パスワード付きで、仲間内だけのアルバム作成♪</a></td></tr>
+<tr><td valign="top" width="10%"><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/m_0184.gif" border="0"></td><td><a href="http://blog.goo.ne.jp/staffblog/e/c941c854be81e12ad1891fdd550aadda">高画質写真をみんなに公開！</a></td></tr>
+<tr><td valign="top" width="10%"><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/m_0139.gif" border="0"></td><td><a href="http://feature.goo.ne.jp/nicotto/blog/index.html">のんびりと居心地のよい仮想生活</a></td></tr>
+<tr><td valign="top" width="10%"><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/m_0068.gif" border="0"></td><td><a href="http://blog.goo.ne.jp/themesalon/e/af94b3f5c8afee46c8b0871808ac2380">夕日の写真を送ってください！</a></td></tr>
+<tr><td valign="top" width="10%"><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/m_0229.gif" border="0"></td><td><a href="http://blog.goo.ne.jp/info/special/family2010/?fm=modadv">家族で行こう♪ほんわか旅行</a></td></tr>
+</tbody></table>
+</div>
+<div class="module-bottom"></div>
+</div>
+<script>
+if(typeof(click_count_id)==="undefined"){click_count_id = new Array();}
+click_count_id.push('mod-advertising');
+
+</script><!-- /ADVERTISING MODULE -->
+<!-- LOGIN MODULE -->
+<div id="mod-login" class="module">
+<div class="module-top"></div>
+<h4>ログイン</h4>
+<div class="module-body">
+<img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/mod_pen.gif" alt="ログイン" height="16" width="16"><a href="http://blog.goo.ne.jp/admin/">編集画面にログイン</a>
+<hr noshade="noshade" size="1">
+<a href="http://blog.goo.ne.jp/info/blog_hajimeru.html">ブログの新規登録</a>
+</div>
+<div class="module-bottom"></div>
+</div>
+<script>
+if(typeof(click_count_id)==="undefined"){click_count_id = new Array();}
+click_count_id.push('mod-login');
+</script>
+<!-- LOGIN MODULE -->
+<div id="sidebar-opt-bottom"></div>
+
+</div>
+<div class="sidebar-bottom"></div>
+<!-- /SIDEBAR -->
+
+</div>
+<!-- /SIDE A -->
+
+<div class="clearboth"></div>
+
+<div id="main-bottom"></div>
+</div>
+<!-- /MAIN -->
+
+<!-- FOOTER -->
+<div id="footer"></div>
+<!-- /FOOTER -->
+
+<div class="clearboth"></div>
+
+</div>
+<!-- /CONTAINER -->
+
+<!-- GLOBAL FOOTER -->
+<div id="global-footer"></div>
+<!-- /GLOBAL FOOTER -->
+<script src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/prototype.js" type="text/javascript"></script>
+<script src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/window.js" type="text/javascript"></script>
+<script src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/blog.js" type="text/javascript"></script>
+<script src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/click_count.js" type="text/javascript"></script>
+<script type="text/javascript" src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/413d34abe2b8756823130599cf9a27e1.js"></script>
+<script type="text/javascript">VLTrace_custom_getparam='c=147&p=usrblog&u1=blg_free';</script><script type="text/javascript" src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/VLTraceDMD.js"></script><noscript><img src="%E3%82%A8%E3%83%9F%E3%83%A5%E3%81%A7%E9%97%98%E7%A5%9E%E9%83%BD%E5%B8%822%E3%82%92%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86_%E3%81%9D%E3%81%AE3_files/Trace.gif" border="0" height="0" width="0"></noscript></body></html>

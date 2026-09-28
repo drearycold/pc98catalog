@@ -1,0 +1,90 @@
+:	BadCode4 (Metal) (jag format) by Badcoder (2000) (PD).jag
+:	Fight For Your Life (1996) [a2].jag
+:	JagMarble (2000) (PD).jag
+:	Music Demo (2002) (ScatoLOGIC).jag
+:	alien vs predator (1994).jag
+:	arkanna demo (pd).jag
+:	assassin demo 1.0 release 2 (pd).jag
+:	assassin demo, the part 1 (1999) (pd).jag
+:	assassin demo, the part 1 (for bjl) (1999) (pd).jag
+:	asteroid (2000) (pd).jag
+:	atari karts (1995).jag
+:	attack of the mutant penguins (1996).jag
+:	badcode0 by badcoder (1999) (pd).jag
+:	badcode1 by badcoder (1999) (pd).jag
+:	badcode2 by badcoder (2000) (pd).jag
+:	badcode3 by badcoder (2000) (pd).jag
+:	badcode3 by badcoder (jag format) (2000) (pd).jag
+:	badcode4 (metal) (bin format) by badcoder (2000) (pd).jag
+:	badcode4 (metal) (rom format) by badcoder (2000) (pd).jag
+:	badcode4 by badcoder (2000) (pd).jag
+:	badcode4 by badcoder (jag format) (2000) (pd).jag
+:	badcode4c by badcoder (2000) (pd).jag
+:	badcode4c by badcoder (jag format) (2000) (pd).jag
+:	brutal sports football (1994) (telegames).jag
+:	bubsy - fractured furry tails (1994).jag
+:	cannon fodder (1995) (computer west).jag
+:	checkered flag (1994).jag
+:	chroma-luma colors picker (1996) (pd).jag
+:	chroma-luma colors picker for mouse (1996) (pd).jag
+:	club drive (1994).jag
+:	cybermorph (1993).jag
+:	defender 2000 (1996).jag
+:	doom - evil unleashed (1994).jag
+:	double dragon v (1995) (williams).jag
+:	dragon - the bruce lee story (1994).jag
+:	evolution - dino dudes (1993).jag
+:	fever pitch soccer (1995).jag
+:	fight for your life (1996) [a1].jag
+:	fight for your life (1996).jag
+:	flashback (1995) (u.s. gold).jag
+:	flip out (1995).jag
+:	force design - legion force jidai intro demo 0! (2001) (pd).jag
+:	gorf 2000 (pd).jag
+:	hover strike (1995).jag
+:	i-war (1995).jag
+:	international sensible soccer (1995).jag
+:	iron soldier (1994) [a1].jag
+:	iron soldier (1994).jag
+:	jagfest demo (2001) (pd).jag
+:	jagmania (apr 18) (1998) (pd).jag
+:	jagmania (aug 31) (2000) (pd).jag
+:	jagmania (jan 06) (2001) (pd).jag
+:	jagmania (july 8) (2000) (pd).jag
+:	jagmania (sep 10) (2000) (pd).jag
+:	jagmarble (1999) (pd).jag
+:	jagmarble (jul 13) (1997) (pd).jag
+:	jaguar tetris (1995) (pd).jag
+:	jdc demo v1 (2000) (pd).jag
+:	jdc demo v2 (2000) (pd).jag
+:	jdc demo v3 - e-jagfest demo by lars hannig (2000) (pd).jag
+:	joypad-teamtap test program (2000) (pd) [a1].jag
+:	joypad-teamtap test program (2000) (pd).jag
+:	kasumi ninja (1994) [a1].jag
+:	kasumi ninja (1994).jag
+:	missile command 3d (1995).jag
+:	native (demo) (bin format) (1997).jag
+:	native (demo) (jag format) (1997).jag
+:	nba jam te (1996).jag
+:	painter (1996) (pd).jag
+:	painter (bin format) (1996) (pd).jag
+:	phase zero (2000) (pd).jag
+:	pinball fantasies (1995) (computer west).jag
+:	pitfall - the mayan adventure (1995).jag
+:	power drive rally (1995) (twi).jag
+:	raiden (1994).jag
+:	rayman (1995) (ubi soft).jag
+:	ruiner pinball (1995).jag
+:	super burnout (1995).jag
+:	super cross 3d (1995).jag
+:	syndicate (1995) (ocean).jag
+:	tempest 2000 (1994).jag
+:	theme park (1995) (ocean).jag
+:	trevor mcfur in the crescent galaxy (1993).jag
+:	troy aikman nfl football (1995) (williams).jag
+:	ultra vortek (1995).jag
+:	val d'isere skiing & snowboarding (1994).jag
+:	white men can't jump (1995).jag
+:	wolfenstein 3d (1994).jag
+:	zool 2 (1994).jag
+:	zoop! (1996).jag

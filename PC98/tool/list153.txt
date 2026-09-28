@@ -1,0 +1,202 @@
+(ROM) No-Intro MSX2 (20050313) (rr5%).rar
+23,962,281
+a11cb7b47471dfaaae0beb607cad4578ÅE24ebe52bafb1e5884271acc697812caf26c3d7d4
+
+:	MSX2
+:	:	1942 (J).zip
+:	:	A Ressha de Ikou MSX (J).zip
+:	:	AcroJet (J).zip
+:	:	Aleste (J).zip
+:	:	Alges no Yoku (J).zip
+:	:	American Soccer (J).zip
+:	:	Aoki Ookami to Shiroki Mejika - Genchou Hishi (J).zip
+:	:	Aoki Ookami to Shiroki Mejika - Genghis Khan (J).zip
+:	:	Arctic - Active Rail Playing (J) [a1].zip
+:	:	Arctic - Active Rail Playing (J).zip
+:	:	Arkanoid II - Revenge of Doh (J).zip
+:	:	AshGuine (J).zip
+:	:	AshGuine - Fukushuu no Honoo (J).zip
+:	:	AshGuine 2 (J).zip
+:	:	Bubble Bobble (J) [a1].zip
+:	:	Bubble Bobble (J).zip
+:	:	Cockpit, The (J).zip
+:	:	Contra (J).zip
+:	:	Crimson (J).zip
+:	:	Daikoukai Jidai (J).zip
+:	:	Daisenryaku MSX2 (J).zip
+:	:	Darwin 4078 (J) [a1].zip
+:	:	Darwin 4078 (J) [a2].zip
+:	:	Darwin 4078 (J).zip
+:	:	Deep Forest (J) [a1].zip
+:	:	Deep Forest (J).zip
+:	:	Dires - Giger Loop (J).zip
+:	:	Double Vision (J).zip
+:	:	Dragon Buster (J).zip
+:	:	Dragon Quest (J).zip
+:	:	Dragon Quest II (J) [a1].zip
+:	:	Dragon Quest II (J).zip
+:	:	Dragon Slayer IV - Drasle Family (J) [a1].zip
+:	:	Dragon Slayer IV - Drasle Family (J).zip
+:	:	Druid (J) [a1].zip
+:	:	Druid (J).zip
+:	:	Dynamite Bowl (J) [a1].zip
+:	:	Dynamite Bowl (J).zip
+:	:	Eidolon, The (E).zip
+:	:	Elthlead (J).zip
+:	:	Empereur, L' (J).zip
+:	:	Europe Sensen (J).zip
+:	:	F-15 Strike Eagle (J).zip
+:	:	Famicle Parodic (J).zip
+:	:	Family Billiards (J).zip
+:	:	Family Boxing - MSX Title Match (J).zip
+:	:	Fantasy Zone II - The Tears of Opa-Opa (J) [a1].zip
+:	:	Fantasy Zone II - The Tears of Opa-Opa (J).zip
+:	:	Final Mystery Murder Club - Satsujin Club (J).zip
+:	:	Fire Ball (J).zip
+:	:	Fleet Commander II - Koukon no Kaiiki (J).zip
+:	:	Gakuen Monogatari - High School Story (J).zip
+:	:	Gambler Jikochuushinha 2 - Jishou! Kyougou Janshi Hen (J).zip
+:	:	Ganbare Goemon! - Karakuri Douchuu (J).zip
+:	:	Garakuta (J).zip
+:	:	Garyuu Ou (J) [a1].zip
+:	:	Garyuu Ou (J).zip
+:	:	Gekitotsu Pennant Race - Pro Yakyuu, The (J) [a1].zip
+:	:	Gekitotsu Pennant Race - Pro Yakyuu, The (J) [a2].zip
+:	:	Gekitotsu Pennant Race - Pro Yakyuu, The (J) [a3].zip
+:	:	Gekitotsu Pennant Race - Pro Yakyuu, The (J).zip
+:	:	Gekitotsu Pennant Race 2 (J) [English Menu].zip
+:	:	Gekitotsu Pennant Race 2 (J).zip
+:	:	Girly Block (J).zip
+:	:	Hacker (J).zip
+:	:	Hai no Majutsushi (J).zip
+:	:	Han Seimei Senki Andorogynus (J) [a1].zip
+:	:	Han Seimei Senki Andorogynus (J).zip
+:	:	Hard Ball (J).zip
+:	:	Heroes of the Lance (J).zip
+:	:	Higemaru Makai Shima - Nanatsu no Shima Daibouken (J).zip
+:	:	High School! Kimengumi (J).zip
+:	:	Hinotori - Houou Hen (J) [a1].zip
+:	:	Hinotori - Houou Hen (J) [a2].zip
+:	:	Hinotori - Houou Hen (J).zip
+:	:	Hole in One Special (J) [a1].zip
+:	:	Hole in One Special (J).zip
+:	:	Hydlide 3 - The Space Memories (J).zip
+:	:	Ide Yousuke Meijin no Jissen Mahjong (J).zip
+:	:	Ikari (J) [a1].zip
+:	:	Ikari (J).zip
+:	:	Inemuriryuu Asada Tetsuya no A-kyuu Mahjong (J).zip
+:	:	Inindou - Datou Nobunaga (J).zip
+:	:	Ishin no Arashi (J).zip
+:	:	Jansei (J) [a1].zip
+:	:	Jansei (J).zip
+:	:	Janyuu (J).zip
+:	:	Kempelen Chess (J).zip
+:	:	Kikikaikai (J).zip
+:	:	King Kong 2 - Yomigaeru Densetsu (J).zip
+:	:	Kisei (J).zip
+:	:	Kitahei (J).zip
+:	:	Koronis Rift (E).zip
+:	:	Labyrinth (J) [a1].zip
+:	:	Labyrinth (J).zip
+:	:	Lupin Sansei - Babylon no Ougon Densetsu (J) [a1].zip
+:	:	Lupin Sansei - Babylon no Ougon Densetsu (J).zip
+:	:	Lupin Sansei - Cagliostro no Shiro (J) [a1].zip
+:	:	Lupin Sansei - Cagliostro no Shiro (J).zip
+:	:	Mad Rider (J) [a1].zip
+:	:	Mad Rider (J).zip
+:	:	Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite... (J).zip
+:	:	Maison Ikkoku - Omoide no Photograph (J).zip
+:	:	Malaya no Hibou (J).zip
+:	:	Metal Gear (E).zip
+:	:	Metal Gear (J).zip
+:	:	Metal Gear 2 - Solid Snake (J) (Demo).zip
+:	:	Metal Gear 2 - Solid Snake (J).zip
+:	:	Mirai (J).zip
+:	:	Mississippi Satsujinjiken (J).zip
+:	:	Moero!! Nettou Yakyuu '88 (J).zip
+:	:	Monmon Kaibutsu (J).zip
+:	:	Nekketsu Juudou (J) [a1].zip
+:	:	Nekketsu Juudou (J).zip
+:	:	Ninja-kun - Asura no Shou (J).zip
+:	:	Nobunaga no Yabou - Bushou Fuuun Roku (J).zip
+:	:	Nobunaga no Yabou - Sengoku Gunyuuden (J).zip
+:	:	Nobunaga no Yabou - Zenkoku Ban (J).zip
+:	:	Ogre (J) [a1].zip
+:	:	Ogre (J).zip
+:	:	Ouke no Tani - El Giza no Fuuin (J).zip
+:	:	Ouke no Tani - El Giza no Fuuin - Edit Contest Yuushuu Sakuhinshuu (J).zip
+:	:	Out Run (J).zip
+:	:	Pac-Mania (J).zip
+:	:	Pachi Pro Densetsu (J).zip
+:	:	Penguin-kun Wars 2 (J) [a1].zip
+:	:	Penguin-kun Wars 2 (J).zip
+:	:	Predator (J).zip
+:	:	Pro Yakyuu Family Stadium - Pennant Race (J).zip
+:	:	Pro Yakyuu Fan - Telenet Stadium (J).zip
+:	:	Professional Mahjong Gokuu (J).zip
+:	:	Project A2 - Shijousaidai no Hyouteki (J).zip
+:	:	Quarth (J) (Demo).zip
+:	:	Quarth (J).zip
+:	:	Quarth (K).zip
+:	:	Quinpl (J).zip
+:	:	Rastan Saga (J).zip
+:	:	Relics (J).zip
+:	:	Replicart (J).zip
+:	:	Return of Ishtar, The (J).zip
+:	:	Return of Jelda (J).zip
+:	:	Rick to Mick no Daibouken (J).zip
+:	:	Romancia (J).zip
+:	:	Royal Blood (J).zip
+:	:	Sangokushi (J).zip
+:	:	Sangokushi II (J).zip
+:	:	Scramble Formation (J).zip
+:	:	Seikima II Special - Akuma no Gyakushuu (J) [a1].zip
+:	:	Seikima II Special - Akuma no Gyakushuu (J).zip
+:	:	Shanghai (J).zip
+:	:	Shirei Sensen - War of the Dead (J).zip
+:	:	Space Manbow (J).zip
+:	:	Star Virgin (J) [a1].zip
+:	:	Star Virgin (J).zip
+:	:	Strategic Mars (J).zip
+:	:	Suikoden - Tenmei no Chikai (J).zip
+:	:	Super Daisenryaku (J).zip
+:	:	Super Load Runner (J).zip
+:	:	Super Rambo Special (J).zip
+:	:	Super Runner (J).zip
+:	:	Super Tritorn (J).zip
+:	:	Taiyou no Shinden - Asteka II (J).zip
+:	:	Tanikawa Hiroshi no Shougi Shinan 2 (J).zip
+:	:	Teitoku no Ketsudan (J).zip
+:	:	Tengoku Yoitoko (J).zip
+:	:	Tetris (J).zip
+:	:	Topple Zip (J).zip
+:	:	Treasure of Usas, The (JE) [a1].zip
+:	:	Treasure of Usas, The (JE).zip
+:	:	Tsurikichi Sanpei - Blue Marine Hen (J).zip
+:	:	Tsurikichi Sanpei - Tsuri Sennin Hen (J).zip
+:	:	Ultima Exodus (J).zip
+:	:	Urusei Yatsura - Koi no Survival Birthday (J).zip
+:	:	Vampire Killer (JE) [a1].zip
+:	:	Vampire Killer (JE) [a2].zip
+:	:	Vampire Killer (JE) [a3].zip
+:	:	Vampire Killer (JE).zip
+:	:	Victorious Nine II - Koukou Yakyuu Hen (J).zip
+:	:	Wizardry (J).zip
+:	:	Woody Poco (J) [a1].zip
+:	:	Woody Poco (J).zip
+:	:	Xevious - Fardraut Saga (J) [a1].zip
+:	:	Xevious - Fardraut Saga (J).zip
+:	:	Yaksa (J).zip
+:	:	Yamamura Misa Suspense - Kyoto Ryuu no Tera Satsujinjiken (J).zip
+:	:	Yuurei-kun (J).zip
+:	:	Zanac Ex (J) [a1].zip
+:	:	Zanac Ex (J).zip
+:	:	Zoids - Chuuou Tairiku no Tatakai (J).zip
+:	:	Zombie Hunter (J).zip
+:	:	Zukkoke Yajikita Onmitsu Douchuu (J) [a1].zip
+:	:	Zukkoke Yajikita Onmitsu Douchuu (J).zip
+:	:	[Bios] Kanji ROM - JIS 1st+2nd Class (J).zip
+:	:	[Program] Cheese 2 (J).zip
+:	:	[Program] Hal Note (J).zip
+:	:	[Program] Japanese MSX-Write II (J).zip
+:	:	[Program] Synthe Saurus (J).zip

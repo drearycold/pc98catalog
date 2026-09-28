@@ -1,0 +1,159 @@
+<HTML>
+<HEAD>
+<STYLE TYPE="text/css">
+<!--
+A{text-decoration:
+none;}
+//-->
+</STYLE>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<TITLE>ハードディスクイメージの作成とMS-DOSのインストール</TITLE>
+</HEAD>
+<BODY BGCOLOR=#000000 TEXT=#FFFFFF LINK=#FFFFFF VLINK=#FFFFFF>
+■<B>ハードディスクイメージの作成とMS-DOSのインストール</B>
+<HR>
+<BLOCKQUOTE>
+多くのゲームがハードディスクへのインストールを必要とするので、<BR>
+まずはPC98エミュレーター用のハードディスクイメージの作成と、<BR>
+そのハードディスクイメージへのMS-DOSインストールを解説します。<BR>
+<BR>
+ここではAnex86を使い解説します。<BR>
+<BR>
+[<A HREF="tool/Anex86+DOS6.rar">Anex86+DOS6.rar</A>]<BR>
+<BR>
+上のファイルをダウンロードし解凍して下さい。<BR>
+<BR>
+<IMG SRC=tool/note01.jpg><BR>
+anex86.exeをダブルクリックし起動してください。<BR>
+<BR>
+<IMG SRC=tool/note02.jpg><BR>
+Anex86が起動します。Localのチェックボックスをチェックすると、<BR>
+<BR>
+<IMG SRC=tool/note03.jpg><BR>
+日本語化しますが、ここでは元の表示で解説します。<BR>
+<BR>
+<IMG SRC=tool/note04.jpg><BR>
+FDDはフロッピーディスクドライブ、HDDはハードディスクドライブを意味します。<BR>
+画像の赤丸で囲んだ部分、HDD1のNewボタンをクリックして下さい。<BR>
+このボタンは新規のハードディスクイメージの作成を行います。<BR>
+<BR>
+<IMG SRC=tool/note05.jpg><BR>
+まずは赤丸部分のボタンをクリックし、ハードディスクイメージのファイル名と保存場所を決めてください。<BR>
+ここでは、とりあえずMSDOS62.hdiという名前にし、anex86.exeと同じ場所に作成してください。<BR>
+<BR>
+<IMG SRC=tool/note06.jpg><BR>
+次にDisk infoのメニューで80MBを選択してください。<BR>
+そして、Createボタンをクリックします。<BR>
+作成中はウィンドウ下部のプログレスバーが作成進行状況を示します。<BR>
+バーが右端に達したら作成完了です。Closeボタンをクリックしてください。<BR>
+<BR>
+<IMG SRC=tool/note07.jpg><BR>
+HDD1にいま作成したハードディスクイメージが選択されているのが確認できます。<BR>
+<BR>
+<IMG SRC=tool/note08.jpg><BR>
+次にFDD1項目の「…」ボタンをクリックして下さい。<BR>
+<BR>
+<IMG SRC=tool/note09.jpg><BR>
+そしてanex86.exeと同じフォルダにある、MS-DOS6.2 DISK #1.FDIを開いてください。<BR>
+<BR>
+<IMG SRC=tool/note10.jpg><BR>
+これでFDD1、一台目のフロッピーディスクドライブにディスクが挿入されたことになります。<BR>
+次にStartボタンをクリックして下さい。これによりエミュレーションが開始されます。<BR>
+<BR>
+<IMG SRC=tool/note11.jpg><BR>
+挿入したフロッピーから立ち上がり、MD-DOSのインストーラーが起動します。<BR>
+ハードディスクへのインストールを行うので「固定ディスク」を選択し、Enterキーを押します。<BR>
+画面ではリターンキーと表示されますが、この解説ではEnterキーと表記します。<BR>
+<BR>
+<IMG SRC=tool/note12.jpg><BR>
+「固定ディスクを初期化します」と表示されます。初期化は必要な作業なのでそのままEnterキーを押して下さい。<BR>
+<BR>
+<IMG SRC=tool/note13.jpg><BR>
+確保する容量は変更の必要がないのでそのままEnterキーを押して下さい。<BR>
+確認の表示がでるので、「はい」を選択しEnterキーを押して下さい。<BR>
+作業が終わると一度ウィンドウが閉じるので、Startボタンをクリックし再起動します。<BR>
+<BR>
+<IMG SRC=tool/note14.jpg><BR>
+インストール先ディレクトリを変更する必要はないのでそのままEnterキーを押して下さい。<BR>
+確認の表示がでるので、「はい」を選択しEnterキーを押して下さい。<BR>
+<BR>
+<IMG SRC=tool/note15.jpg><BR>
+ディスク1の内容が転送されると、ディスク2を挿入するように求められます。<BR>
+「Anex86 Emulator」ウィンドウは閉じずに、<BR>
+<BR>
+<IMG SRC=tool/note16.jpg><BR>
+「Anex86 - Setting」ウィンドウをアクティブにし、FDD1の「…」ボタンをクリックし、<BR>
+MS-DOS6.2 DISK #2.FDIを開きます。これでディスクが交換されます。<BR>
+再び「Anex86 Emulator」ウィンドウをアクティブにし、Enterキーを押して下さい。<BR>
+作業が再開されます。この作業をディスク8まで繰り返します。<BR>
+<BR>
+<IMG SRC=tool/note17.jpg><BR>
+設定が自動で作成されます。そのままEnterキーを押して下さい。<BR>
+<BR>
+<IMG SRC=tool/note18.jpg><BR>
+そのままEnterキーを押して下さい。<BR>
+<BR>
+これでハードディスクへMS-DOS 6.2がインストールされました。<BR>
+これによりハードディスクからシステムを起動できるようになったわけですが、<BR>
+フロッピーディスクドライブにディスクが入った状態だと、フロッピーから起動しようとするので<BR>
+<BR>
+<IMG SRC=tool/note19.jpg><BR>
+Ejectボタンをクリックし、インストールに使ったディスクイメージを排出してください。<BR>
+それからStartボタンを押すと、ハードディスクから起動します。<BR>
+<BR>
+<IMG SRC=tool/note20.jpg><BR>
+最初はShellが起動します。ここからプロンプトに移行するにはShiftキーを押しながらF9キーを押してください。<BR>
+<BR>
+<IMG SRC=tool/note21.jpg><BR>
+試しに「ver」と打ちEnterキーを押して下さい。<BR>
+<BR>
+<IMG SRC=tool/note22.jpg><BR>
+DOSのバージョンが表示されます。<BR>
+エミュレーションを終了するには直接、「Anex86 Emulator」ウィンドウの閉じるボタン(ウィンドウ右上のX)で閉じてください。<BR>
+<BR>
+次に新規のフロッピーディスクイメージの作成を説明します。<BR>
+<BR>
+<IMG SRC=tool/note23.jpg><BR>
+FDD1のNewボタンをクリックして下さい。<BR>
+<BR>
+<IMG SRC=tool/note24.jpg><BR>
+作成画面ではBlankDiskボタンをクリックします。ファイル名と保存場所を決めるとすぐに新規のイメージが出来上がります。<BR>
+Closeボタンをクリックしてください。<BR>
+<BR>
+<IMG SRC=tool/note25.jpg><BR>
+いま作成したディスクがFDD1に挿入されていますが、このままStartするとこのフロッピーから起動しようします。<BR>
+しかし、このディスクはフォーマットされていない空のディスクなので、起動できずに真っ暗な画面が出るだけです。<BR>
+FDD1からディスクを排出し、ハードディスクから起動してください。<BR>
+そしてプロンプトに移行してから、FDD1に作成した新規のフロッピーディスクイメージを挿入してください。<BR>
+<BR>
+<IMG SRC=tool/note26.jpg><BR>
+formatと打ちEnterキーを押して下さい。<BR>
+<BR>
+<IMG SRC=tool/note27.jpg><BR>
+ディスクをフォーマットするためのプログラムが立ち上がります。<BR>
+フロッピィディスクを選択しEnterキーを押して下さい。<BR>
+<BR>
+<IMG SRC=tool/note28.jpg><BR>
+設定の変更は必要ないので、カーソルキー(↑↓)で「実行」を選択しEnterキーを押して下さい。<BR>
+これでディスクがフォーマットされます。同じようにカーソルキーで「終了」を選択しEnterキーを押して下さい。<BR>
+プロンプトに戻ります。ここで一度「Anex86 Emulator」ウィンドウを閉じてください。<BR>
+そして、FDD1にいまフォーマットしたディスクを挿入した状態で、Startボタンをクリックして下さい。<BR>
+<BR>
+<IMG SRC=tool/note29.jpg><BR>
+フォーマットした際にシステムが転送されているので、このようにフロッピーから起動できるようになりました。<BR>
+</BLOCKQUOTE>
+<BR>
+</BODY>
+</HTML>
+
+
+
+
+
+
+
+
+
+
+
+

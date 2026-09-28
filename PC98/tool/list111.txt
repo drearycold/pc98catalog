@@ -1,0 +1,16 @@
+MAME 0.94u4_roms.rar
+730cb3ec2282b5db4af7e8f6c02b7e9fE9a2dddbfdea59854bbed3792875b7180208c46dc
+14,784,934
+
+:	buccanra.zip
+:	buccanrs.zip
+:	crzrallg.zip
+:	crzrally.zip
+:	gground.zip
+:	lbgrande.zip
+:	list.pl
+:	list.txt
+:	passshtj.zip
+:	snapper.zip
+:	tekkena.zip
+:	wb34.zip

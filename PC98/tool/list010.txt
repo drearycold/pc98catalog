@@ -1,0 +1,751 @@
+:	０４０turbo.LZH
+:	１０１曲ｿﾝｸﾞﾗｲﾌﾞ_A.LZH
+:	１０１曲ｿﾝｸﾞﾗｲﾌﾞ_B.LZH
+:	２０６９ＡＤ_A.LZH
+:	２０６９ＡＤ_B.LZH
+:	２０６９ＡＤ_C.LZH
+:	ＢACK_UP_AMAV200.LZH
+:	ＢACK_UP_PRO_95_04.LZH
+:	ＢUSINESS_PRO_DAT.LZH
+:	ＢUSINESS_PRO_PRO.LZH
+:	ＢUSINESS_PRO_RUN.LZH
+:	ＦILE_ＭASTERV100.LZH
+:	ＦILE_ＭASTERV110.LZH
+:	ＦILE_ＭASTER_１号.LZH
+:	ＦILE_ＭASTER_２号.LZH
+:	ＦILE_ＭASTER_３号.LZH
+:	ＦILE_ＭASTER_４号.LZH
+:	ＦILE_ＭASTER_５号.LZH
+:	ＦILE_ＭASTER_６号.LZH
+:	ＦILE_ＭASTER_７号.LZH
+:	ＦILE_ＰROFESSOR.LZH
+:	ＦIXERV40V100_SYS.LZH
+:	ＦIXERV40V100_辞書.LZH
+:	ＦIXERV40V120_SYS.LZH
+:	ＦIXERV40V120_辞書.LZH
+:	ＦORMULAV260.LZH
+:	ＦＬＹ.LZH
+:	ＦＳＳ_A.LZH
+:	ＦＳＳ_B.LZH
+:	Ｆｉｎａｌ.LZH
+:	ＨOST_PRO３.LZH
+:	ＨYPER_ＷORD_1.LZH
+:	ＨYPER_ＷORD_2.LZH
+:	Ｌｕａ_A.LZH
+:	Ｌｕａ_B.LZH
+:	Ｌｕａ_C.LZH
+:	Ｌｕａ_D.LZH
+:	ＭULTI_ＷORD_BUN.LZH
+:	ＭULTI_ＷORD_GRA.LZH
+:	ＭULTI_ＷORD_RUN.LZH
+:	ＭULTI_ＷORD_SYS.LZH
+:	ＭULTI_ＷORD_VERUP.LZH
+:	ＭUSIC_PRO.LZH
+:	ＭUSIC_PRO_MIDI.LZH
+:	ＭUSIC_Ｍｕ－1_DAT.LZH
+:	ＭUSIC_Ｍｕ－1_SYS.LZH
+:	ＭUSIC_ＳTUDIO_DAT.LZH
+:	ＭUSIC_ＳTUDIO_SYS.LZH
+:	Ｍｉｓｔｙ.LZH
+:	Ｍｉｓｔｙ２.LZH
+:	Ｍｉｓｔｙ３.LZH
+:	Ｍｉｓｔｙ４.LZH
+:	Ｍｉｓｔｙ５.LZH
+:	Ｍｉｓｔｙ６.LZH
+:	Ｍｉｓｔｙ７.LZH
+:	Ｍｒ．ＤＯ！.LZH
+:	Ｍｙ_ｅｙｅｓ_A.LZH
+:	Ｍｙ_ｅｙｅｓ_B.LZH
+:	Ｍｙ_ｅｙｅｓ_C.LZH
+:	Ｍｙ_ｅｙｅｓ_D.LZH
+:	ＮＡＧＤＲＶ.LZH
+:	ＮＯＲＩＫＯ.LZH
+:	ＮｉＫｏ２.LZH
+:	ＰATTERN_EDITORV20.LZH
+:	ＰRINT_ＳHOPV1_DAT.LZH
+:	ＰRINT_ＳHOPV1_SYS.LZH
+:	ＰRINT_ＳHOPV2_DA1.LZH
+:	ＰRINT_ＳHOPV2_DA2.LZH
+:	ＰRINT_ＳHOPV2_RUN.LZH
+:	ＰRINT_ＳHOPV2_SYS.LZH
+:	ＰRINT_ＳHOP_GRA１.LZH
+:	ＰRINT_ＳHOP_GRA２.LZH
+:	ＰRINT_ＳHOP_GREET.LZH
+:	ＰＩＰＹＡＮ.LZH
+:	ＰＩＴＡＰＡＴ_A.LZH
+:	ＰＩＴＡＰＡＴ_B.LZH
+:	ＰＯＮＹＯＮ_A.LZH
+:	ＰＯＮＹＯＮ_B.LZH
+:	ＰＯＮＹＯＮ_C.LZH
+:	ＰＯＮＹＯＮ_D.LZH
+:	ＰＵＳＨ_ＢＯＮ！.LZH
+:	Ｐｒｉｓｍ_SAM.LZH
+:	Ｐｒｉｓｍ_SYS.LZH
+:	Ｒ．Ｃ.LZH
+:	Ｒ．Ｃロボット集２.LZH
+:	Ｒ．Ｃロボット集３.LZH
+:	Ｒ．Ｃロボット集４.LZH
+:	Ｒｙｕ_1.LZH
+:	Ｒｙｕ_2.LZH
+:	Ｒｙｕ_3.LZH
+:	Ｒｙｕ_4.LZH
+:	Ｖ’ＢＡＬＬ.LZH
+:	ＶＩＰＥＲV6_DAT1.LZH
+:	ＶＩＰＥＲV6_DAT2.LZH
+:	ＶＩＰＥＲV6_SYS.LZH
+:	ＶＩＰＥＲV8_DAT1.LZH
+:	ＶＩＰＥＲV8_DAT2.LZH
+:	ＶＩＰＥＲV8_DAT3.LZH
+:	ＶＩＰＥＲV8_SYS.LZH
+:	ねじ式_1.LZH
+:	ねじ式_2.LZH
+:	ねじ式_DEM.LZH
+:	ねじ式_SYS.LZH
+:	はんてｨんぐﾙｰﾚｯﾄ_A.LZH
+:	はんてｨんぐﾙｰﾚｯﾄ_B.LZH
+:	はんてｨんぐﾙｰﾚｯﾄ_C.LZH
+:	はｯちｬけあやよさん.LZH
+:	びんびん麻雀.LZH
+:	ぴんきぃﾎﾟﾝｷｨ１.LZH
+:	ぴんきぃﾎﾟﾝｷｨ２.LZH
+:	ぴんきぃﾎﾟﾝｷｨ３.LZH
+:	ふしぎの海ﾅﾃﾞｨｱ_1.LZH
+:	ふしぎの海ﾅﾃﾞｨｱ_2.LZH
+:	ふしぎの海ﾅﾃﾞｨｱ_3.LZH
+:	ふしぎの海ﾅﾃﾞｨｱ_4.LZH
+:	ふしぎの海ﾅﾃﾞｨｱ_5.LZH
+:	ふしぎの海ﾅﾃﾞｨｱ_6.LZH
+:	ふしぎの海ﾅﾃﾞｨｱ_7.LZH
+:	ふしぎの海ﾅﾃﾞｨｱ_8.LZH
+:	ふしぎの海ﾅﾃﾞｨｱ_9.LZH
+:	ふしぎの海ﾅﾃﾞｨｱｵﾏｹ.LZH
+:	ぶたさん.LZH
+:	ぷよぷよ.LZH
+:	まゆみ_A.LZH
+:	まゆみ_B.LZH
+:	めぞん一刻完結篇_0.LZH
+:	めぞん一刻完結篇_1.LZH
+:	めぞん一刻完結篇_2.LZH
+:	めぞん一刻完結篇_3.LZH
+:	めぞん一刻完結篇_S.LZH
+:	やじうまﾍﾟﾅﾝﾄ_1990.LZH
+:	やじうまﾍﾟﾅﾝﾄﾚｰｽ_A.LZH
+:	やじうまﾍﾟﾅﾝﾄﾚｰｽ_B.LZH
+:	やじうまﾍﾟﾅﾝﾄﾚｰｽ_C.LZH
+:	やりたい放題.LZH
+:	やりたい放題２.LZH
+:	トリロジー_A.LZH
+:	トリロジー_B.LZH
+:	トﾜｲﾗｲﾄｿﾞｰﾝ４_A.LZH
+:	トﾜｲﾗｲﾄｿﾞｰﾝ４_B.LZH
+:	トﾜｲﾗｲﾄｿﾞｰﾝ４_C.LZH
+:	トﾜｲﾗｲﾄｿﾞｰﾝ４_D.LZH
+:	トﾝﾈﾙｽﾞ&ﾄﾛｰﾙｽﾞ_PLY.LZH
+:	トﾝﾈﾙｽﾞ&ﾄﾛｰﾙｽﾞ_PRO.LZH
+:	トﾝﾈﾙｽﾞ&ﾄﾛｰﾙｽﾞ_起.LZH
+:	ドラゴンナイト_A.LZH
+:	ドラゴンナイト_B.LZH
+:	ドラゴンナイト４_A.LZH
+:	ドラゴンナイト４_B.LZH
+:	ドラゴンナイト４_C.LZH
+:	ドラゴンナイト４_D.LZH
+:	ドラゴンナイト４_E.LZH
+:	ドラゴンナイト４_F.LZH
+:	ドラゴンナイト４_G.LZH
+:	ドラゴンナイト４_H.LZH
+:	ドラゴンナイト４_I.LZH
+:	ドラゴンナイト４_J.LZH
+:	ドラゴンナイト４_K.LZH
+:	ドラゴンナイト４_L.LZH
+:	ドラゴンナイト４_M.LZH
+:	ドラゴンバスター.LZH
+:	ドラゴンｽﾄﾗｲｸ_A.LZH
+:	ドラゴンｽﾄﾗｲｸ_B.LZH
+:	ドラゴンｽﾋﾟﾘｯﾄ_A.LZH
+:	ドラゴンｽﾋﾟﾘｯﾄ_B.LZH
+:	ドラッケン_A.LZH
+:	ドラッケン_B.LZH
+:	ドラｽﾚ英雄伝説_EVE.LZH
+:	ドラｽﾚ英雄伝説_PRO.LZH
+:	ドラｽﾚ英雄伝説_SCN.LZH
+:	ナイアス_0.LZH
+:	ナイアス_1.LZH
+:	ナイトアームズ_A.LZH
+:	ナイトアームズ_B.LZH
+:	ナムコｹﾞｰﾑﾐｭｰｼﾞｯｸ.LZH
+:	ニコル.LZH
+:	ニニンバトル.LZH
+:	ニューラルギア_A.LZH
+:	ニューラルギア_B.LZH
+:	ニｭｰｼﾞｰﾗﾝﾄﾞｽﾄｰﾘｰ_A.LZH
+:	ニｭｰｼﾞｰﾗﾝﾄﾞｽﾄｰﾘｰ_B.LZH
+:	ネクタリス.LZH
+:	ネメシス９０改_DAT.LZH
+:	ネメシス９０改_SYS.LZH
+:	ノーブルマインド_A.LZH
+:	ノーブルマインド_B.LZH
+:	ノーブルマインド_C.LZH
+:	ノア.LZH
+:	ノスタルジア_A.LZH
+:	ノスタルジア_B.LZH
+:	ノスタルジア_C.LZH
+:	ノスタルジア_D.LZH
+:	ハイドライド３_A.LZH
+:	ハイドライド３_B.LZH
+:	ハイパーＵＤ_SAM.LZH
+:	ハイパーＵＤ_SYS.LZH
+:	ハウ･メニ･ロボット.LZH
+:	バーディーﾜｰﾙﾄﾞ_A.LZH
+:	バーディーﾜｰﾙﾄﾞ_B.LZH
+:	バーディーﾜｰﾙﾄﾞ_C.LZH
+:	バーンウエルト_DA1.LZH
+:	バーンウエルト_DA2.LZH
+:	バーンウエルト_DA3.LZH
+:	バーンウエルト_ED.LZH
+:	バーンウエルト_OP.LZH
+:	バーンウエルト_SYS.LZH
+:	バトルチェス_A.LZH
+:	バトルチェス_B.LZH
+:	バトルテック_A.LZH
+:	バトルテック_B.LZH
+:	バトルテック_OP.LZH
+:	バブルボブル.LZH
+:	バルーサの復讐_A.LZH
+:	バルーサの復讐_B.LZH
+:	バルーサの復讐_OP.LZH
+:	バンパイアﾊｲｽｸｰﾙ_A.LZH
+:	バンパイアﾊｲｽｸｰﾙ_B.LZH
+:	バンパイアﾊｲｽｸｰﾙ_C.LZH
+:	バンパイアﾊｲｽｸｰﾙ_D.LZH
+:	バンパイアﾊｲｽｸｰﾙ_E.LZH
+:	パズニック.LZH
+:	パチンコワールド.LZH
+:	パックマニア.LZH
+:	パックランド.LZH
+:	パペットショー１.LZH
+:	パロディウスだ！_A.LZH
+:	パロディウスだ！_B.LZH
+:	パワーモンガー.LZH
+:	パワーリーグ.LZH
+:	ヒｽﾄﾘｰｵﾌﾞｴﾙｽﾘｰﾄﾞ_1.LZH
+:	ヒｽﾄﾘｰｵﾌﾞｴﾙｽﾘｰﾄﾞ_2.LZH
+:	ヒｽﾄﾘｰｵﾌﾞｴﾙｽﾘｰﾄﾞ_3.LZH
+:	ビースト_A.LZH
+:	ビースト_B.LZH
+:	ビースト_C.LZH
+:	ビューポイント_DAT.LZH
+:	ビューポイント_SYS.LZH
+:	ピアス_A.LZH
+:	ピアス_B.LZH
+:	ピンキー１_1.LZH
+:	ピンキー１_2.LZH
+:	ピンキー１_3.LZH
+:	ピンキー１_4.LZH
+:	ピンボールﾋﾟﾝﾎﾞｰﾙ.LZH
+:	ファーｻｲﾄﾞﾑｰﾝ_DAT.LZH
+:	ファーｻｲﾄﾞﾑｰﾝ_GAM.LZH
+:	ファーｻｲﾄﾞﾑｰﾝ_SYS.LZH
+:	ファイナルﾌｧｲﾄ_1.LZH
+:	ファイナルﾌｧｲﾄ_2.LZH
+:	ファニーＢｅｅ_A.LZH
+:	ファニーＢｅｅ_B.LZH
+:	ファニーＢｅｅ_C.LZH
+:	ファニーＢｅｅ_D.LZH
+:	ファニーＢｅｅ_E.LZH
+:	ファニーＢｅｅ_F.LZH
+:	ファニーＢｅｅ_G.LZH
+:	ファランクス_DAT.LZH
+:	ファランクス_OP.LZH
+:	ファランクス_SYS.LZH
+:	ファンタジーゾーン.LZH
+:	フューチャーｳｵｰｽﾞ.LZH
+:	フラッピー２.LZH
+:	フルーツフィールド.LZH
+:	フルスロットル_A.LZH
+:	フルスロットル_B.LZH
+:	フｪｱﾘｰﾃｰﾙ海賊版_A.LZH
+:	フｪｱﾘｰﾃｰﾙ海賊版_B.LZH
+:	フｪｱﾘｰﾗﾝﾄﾞｰｽﾄｰﾘｰ_A.LZH
+:	フｪｱﾘｰﾗﾝﾄﾞｰｽﾄｰﾘｰ_B.LZH
+:	ブランマーカー_A.LZH
+:	ブランマーカー_B.LZH
+:	ブランマーカー_C.LZH
+:	ブランマーカー_D.LZH
+:	ブランマーカー_E.LZH
+:	ブランマーカー_F.LZH
+:	ブランマーカー_G.LZH
+:	ブランマーカー_H.LZH
+:	ブリッツクリーク_1.LZH
+:	ブリッツクリーク_2.LZH
+:	ブルーウィンド.LZH
+:	ブルトンレイ_1.LZH
+:	ブルトンレイ_2.LZH
+:	ブルトンレイ_OP.LZH
+:	ブロディア_A.LZH
+:	ブロディア_B.LZH
+:	ブﾙﾄﾝﾚｲｼﾅﾘｵ集１_PU.LZH
+:	ブﾙﾄﾝﾚｲｼﾅﾘｵ集１_SC.LZH
+:	ブﾙﾄﾝﾚｲｼﾅﾘｵ集２_S1.LZH
+:	ブﾙﾄﾝﾚｲｼﾅﾘｵ集２_S2.LZH
+:	ブﾙﾄﾝﾚｲｼﾅﾘｵｴﾃﾞｨﾀ_1.LZH
+:	ブﾙﾄﾝﾚｲｼﾅﾘｵｴﾃﾞｨﾀ_2.LZH
+:	プリティードール_1.LZH
+:	プリティードール_2.LZH
+:	プリティードール_3.LZH
+:	プリンスｵﾌﾞﾍﾟﾙｼｬ_A.LZH
+:	プリンスｵﾌﾞﾍﾟﾙｼｬ_B.LZH
+:	プリンスｵﾌﾞﾍﾟﾙｼｬ_C.LZH
+:	プレゼント_A.LZH
+:	プレゼント_B.LZH
+:	プレゼント_C.LZH
+:	プレミアム_A.LZH
+:	プレミアム_B.LZH
+:	プレミアム_C.LZH
+:	プレミアム_D.LZH
+:	プレミアム２_A.LZH
+:	プレミアム２_B.LZH
+:	プレミアム２_C.LZH
+:	プレミアム２_D.LZH
+:	プロサッカ－68.LZH
+:	プロｽﾁｭｰﾃﾞﾝﾄＧ_A.LZH
+:	プロｽﾁｭｰﾃﾞﾝﾄＧ_B.LZH
+:	プロｽﾁｭｰﾃﾞﾝﾄＧ_C.LZH
+:	プロｽﾁｭｰﾃﾞﾝﾄＧ_D.LZH
+:	プロｽﾁｭｰﾃﾞﾝﾄＧ_E.LZH
+:	プロｽﾁｭｰﾃﾞﾝﾄＧ_F.LZH
+:	プロｽﾁｭｰﾃﾞﾝﾄＧ_G.LZH
+:	プﾘﾝｾｽはｽﾄﾘｰﾄｶﾞｰﾙ.LZH
+:	プﾛﾀﾞｸｼｮﾝﾏﾈｰｼﾞｬｰ_A.LZH
+:	プﾛﾀﾞｸｼｮﾝﾏﾈｰｼﾞｬｰ_B.LZH
+:	ヘビーノバ.LZH
+:	ベルズアベニュー_A.LZH
+:	ベルズアベニュー_B.LZH
+:	ホテルウォーズ_A.LZH
+:	ホテルウォーズ_B.LZH
+:	ボスコニアン.LZH
+:	ボナンザﾌﾞﾗｻﾞ-ｽﾞ_A.LZH
+:	ボナンザﾌﾞﾗｻﾞ-ｽﾞ_B.LZH
+:	ボンバーマン.LZH
+:	ポピュラス.LZH
+:	ポリフォン.LZH
+:	ポﾋﾟｭﾗｽﾌﾟﾛﾐｽﾄﾗﾝﾄﾞ.LZH
+:	マーキュリー_A.LZH
+:	マーキュリー_SYS.LZH
+:	マーシャルエイジ_A.LZH
+:	マーシャルエイジ_B.LZH
+:	マーシャルエイジ_C.LZH
+:	マーダークラブDX_1.LZH
+:	マーダークラブDX_2.LZH
+:	マーダークラブDX_3.LZH
+:	マーブルマッドネス.LZH
+:	マイト&ﾏｼﾞｯｸ_A.LZH
+:	マイト&ﾏｼﾞｯｸ_A’.LZH
+:	マイト&ﾏｼﾞｯｸ_B.LZH
+:	マジカルショット.LZH
+:	マジックパレット.LZH
+:	マチエールV1_DAT.LZH
+:	マチエールV1_SYS.LZH
+:	マチエールV211_SYS.LZH
+:	マチエールV2_DAT.LZH
+:	マチエールV2_SYS.LZH
+:	マッドストーカー_A.LZH
+:	マッドストーカー_B.LZH
+:	マリリンＤＸ_A.LZH
+:	マリリンＤＸ_B.LZH
+:	マリリンＤＸ_C.LZH
+:	マリンバスター_A.LZH
+:	マリンバスター_B.LZH
+:	マﾝﾊｯﾀﾝﾚｸｲｴﾑ_A.LZH
+:	マﾝﾊｯﾀﾝﾚｸｲｴﾑ_B.LZH
+:	ミッドガルツGOLD_1.LZH
+:	ミッドガルツGOLD_2.LZH
+:	ミッドガルツGOLD_3.LZH
+:	ミッドガルツGOLD_4.LZH
+:	ミラージュ_A.LZH
+:	ミラージュ_B.LZH
+:	ミラージュ_C.LZH
+:	ミラージュ_D.LZH
+:	ミラージュ_E.LZH
+:	ミルクタイム_1.LZH
+:	ミルクタイム_2.LZH
+:	ミルクタイム_3.LZH
+:	ムーンクリスタル_A.LZH
+:	ムーンクリスタル_B.LZH
+:	ムーンクリスタル_C.LZH
+:	ムーンクリスタル_D.LZH
+:	ムｰﾝﾗｲﾄﾁｬﾝﾘﾝｼｬ_SYS.LZH
+:	ムｰﾝﾗｲﾄﾁｬﾝﾘﾝｼｬﾝ_1.LZH
+:	ムｰﾝﾗｲﾄﾁｬﾝﾘﾝｼｬﾝ_2.LZH
+:	ムｰﾝﾗｲﾄﾁｬﾝﾘﾝｼｬﾝ_3.LZH
+:	ムｰﾝﾗｲﾄﾁｬﾝﾘﾝｼｬﾝ_4.LZH
+:	メガロマニア_1.LZH
+:	メガロマニア_2.LZH
+:	メシアV13.LZH
+:	メタルアイ_A.LZH
+:	メタルアイ_B.LZH
+:	メタルアイ_C.LZH
+:	メタルアイ_D.LZH
+:	メタルアイ_E.LZH
+:	メタルアイ_F.LZH
+:	メタルアイ_G.LZH
+:	メタルオレンジEX_A.LZH
+:	メタルオレンジEX_B.LZH
+:	メタルサイト_1.LZH
+:	メタルサイト_2.LZH
+:	メタルサイト_3.LZH
+:	メタルサイト_4.LZH
+:	メタルサイト_5.LZH
+:	メルヘンメイズ_A.LZH
+:	メルヘンメイズ_B.LZH
+:	メルヘンﾊﾟﾗﾀﾞｲｽ_A.LZH
+:	メルヘンﾊﾟﾗﾀﾞｲｽ_B.LZH
+:	メルヘンﾊﾟﾗﾀﾞｲｽ_C.LZH
+:	モトス.LZH
+:	ヨ－ロッパ戦線_A.LZH
+:	ヨ－ロッパ戦線_B.LZH
+:	ヨ－ロッパ戦線_C.LZH
+:	ライヒスリッター_A.LZH
+:	ライヒスリッター_B.LZH
+:	ライヒスリッター_C.LZH
+:	ライフ＆デス_1.LZH
+:	ライフ＆デス_2.LZH
+:	ラグーン_1.LZH
+:	ラグーン_2.LZH
+:	ラグーン_3.LZH
+:	ラグーン_SYS.LZH
+:	ラストバタリアン_A.LZH
+:	ラストバタリアン_B.LZH
+:	ラストﾊﾙﾏｹﾞﾄﾞﾝ_A.LZH
+:	ラストﾊﾙﾏｹﾞﾄﾞﾝ_B.LZH
+:	ラストﾊﾙﾏｹﾞﾄﾞﾝ_C.LZH
+:	ラストﾊﾙﾏｹﾞﾄﾞﾝ_D.LZH
+:	ラストﾊﾙﾏｹﾞﾄﾞﾝ_E.LZH
+:	ラストﾊﾙﾏｹﾞﾄﾞﾝ_F.LZH
+:	ラストﾊﾙﾏｹﾞﾄﾞﾝ_G.LZH
+:	ラプラスの魔_DAT.LZH
+:	ラプラスの魔_GAM.LZH
+:	ラプラスの魔_SYS.LZH
+:	ランス_A.LZH
+:	ランス_B.LZH
+:	ランス_C.LZH
+:	ランス_D.LZH
+:	ランペルール_A.LZH
+:	ランペルール_B.LZH
+:	ランペルール_C.LZH
+:	ラｲﾄﾆﾝｸﾞﾊﾞｯｶｽ_1.LZH
+:	ラｲﾄﾆﾝｸﾞﾊﾞｯｶｽ_2.LZH
+:	リウィード_A.LZH
+:	リウィード_B.LZH
+:	リップｽﾃｨｯｸADV_0.LZH
+:	リップｽﾃｨｯｸADV_1.LZH
+:	リップｽﾃｨｯｸADV２_0.LZH
+:	リップｽﾃｨｯｸADV２_1.LZH
+:	リップｽﾃｨｯｸADV３_A.LZH
+:	リップｽﾃｨｯｸADV３_B.LZH
+:	リップｽﾃｨｯｸADV３_C.LZH
+:	リップｽﾃｨｯｸADV３_D.LZH
+:	リップｽﾃｨｯｸADV３_E.LZH
+:	リビドー７_A.LZH
+:	リビドー７_B.LZH
+:	リビドー７_C.LZH
+:	リビドー７_D.LZH
+:	リビドー７_SYS.LZH
+:	リブルラブル.LZH
+:	リングマスター_1.LZH
+:	リングマスター_2.LZH
+:	リングマスター_SYS.LZH
+:	リングﾏｽﾀｰ２_1.LZH
+:	リングﾏｽﾀｰ２_2.LZH
+:	リングﾏｽﾀｰ２_SYS.LZH
+:	リｰﾃﾞｨﾝｸﾞｶﾝﾊﾟﾆｰ_A.LZH
+:	リｰﾃﾞｨﾝｸﾞｶﾝﾊﾟﾆｰ_B.LZH
+:	ルーシーショット.LZH
+:	ルージュ_A.LZH
+:	ルージュ_B.LZH
+:	ループス.LZH
+:	ループｲﾚｰｻｰ_DAT.LZH
+:	ループｲﾚｰｻｰ_PRO.LZH
+:	ルーンワース_A.LZH
+:	ルーンワース_B.LZH
+:	ルーンワース_PRO.LZH
+:	レイガン_A.LZH
+:	レイガン_B.LZH
+:	レイガン_C.LZH
+:	レインﾌｫｰｻｰ_A.LZH
+:	レインﾌｫｰｻｰ_B.LZH
+:	レインﾌｫｰｻｰ_C.LZH
+:	レインﾌｫｰｻｰ_SYS.LZH
+:	レナム_A.LZH
+:	レナム_B.LZH
+:	レナム_C.LZH
+:	レナム_D.LZH
+:	レナム_OP.LZH
+:	レナム_PRO.LZH
+:	レビュー_A.LZH
+:	レビュー_B.LZH
+:	レミングス.LZH
+:	レリクス.LZH
+:	レｯｽﾙｴﾝｼﾞｪﾙｽ３_A.LZH
+:	レｯｽﾙｴﾝｼﾞｪﾙｽ３_B.LZH
+:	レｯｽﾙｴﾝｼﾞｪﾙｽ３_C.LZH
+:	レｯｽﾙｴﾝｼﾞｪﾙｽ３_D.LZH
+:	レｯｽﾙｴﾝｼﾞｪﾙｽ３_E.LZH
+:	レｯｽﾙｴﾝｼﾞｪﾙｽ３_F.LZH
+:	ローグｱﾗｲｱﾝｽ_PLY.LZH
+:	ローグｱﾗｲｱﾝｽ_PRO.LZH
+:	ローグｱﾗｲｱﾝｽ_起.LZH
+:	ロードス島戦記_OP.LZH
+:	ロードス島戦記_PRO.LZH
+:	ロードス島戦記_SCN.LZH
+:	ロードス島福神漬.LZH
+:	ロイヤルブロッド_A.LZH
+:	ロイヤルブロッド_B.LZH
+:	ロイヤルブロッド_C.LZH
+:	ワーズワース_A.LZH
+:	ワーズワース_B.LZH
+:	ワーズワース_C.LZH
+:	ワーズワース_D.LZH
+:	ワーズワース_E.LZH
+:	ワーズワース_F.LZH
+:	ワーズワース_G.LZH
+:	ワーズワース_H.LZH
+:	ワーズワース_I.LZH
+:	ワーズワース_J.LZH
+:	ワーズワース_K.LZH
+:	ワーズワース_L.LZH
+:	ワールドコート_A.LZH
+:	ワールドコート_B.LZH
+:	ワールドゴルフ３_A.LZH
+:	ワールドゴルフ３_B.LZH
+:	ワールドｽﾀｼﾞｱﾑ_A.LZH
+:	ワールドｽﾀｼﾞｱﾑ_B.LZH
+:	闇の血族_完結編_1.LZH
+:	闇の血族_完結編_2.LZH
+:	闇の血族_完結編_3.LZH
+:	闇の血族_完結編_4.LZH
+:	闇の血族_上巻_1.LZH
+:	闇の血族_上巻_2.LZH
+:	闇の血族_上巻_3.LZH
+:	花よりダンゴ_A.LZH
+:	花よりダンゴ_B.LZH
+:	花よりダンゴ_C.LZH
+:	花札天国.LZH
+:	花札放浪記_A.LZH
+:	花札放浪記_B.LZH
+:	信長の野望戦国_A.LZH
+:	信長の野望戦国_B.LZH
+:	信長の野望戦国_C.LZH
+:	信長の野望全国版_A.LZH
+:	信長の野望全国版_B.LZH
+:	信長の野望覇王_DAT.LZH
+:	信長の野望覇王_END.LZH
+:	信長の野望覇王_SCN.LZH
+:	信長の野望覇王_SYS.LZH
+:	信長の野望武将_A.LZH
+:	信長の野望武将_B.LZH
+:	信長の野望武将_C.LZH
+:	星の砂物語_A.LZH
+:	星の砂物語_B.LZH
+:	星の砂物語_C.LZH
+:	星の砂物語２_1.LZH
+:	星の砂物語２_2.LZH
+:	星の砂物語２_3.LZH
+:	星の砂物語２_4.LZH
+:	星の砂物語２_5.LZH
+:	星の砂物語２_6.LZH
+:	星の砂物語２_7.LZH
+:	星の砂物語２_8.LZH
+:	星の砂物語２_9.LZH
+:	星の砂物語２_SYS.LZH
+:	晴れのちｵｵｻﾜｷﾞ_1.LZH
+:	晴れのちｵｵｻﾜｷﾞ_2.LZH
+:	生中継68_A.LZH
+:	生中継68_B.LZH
+:	長くて甘い夜_A.LZH
+:	長くて甘い夜_B.LZH
+:	長くて甘い夜_C.LZH
+:	電脳倶楽部_088_A.LZH
+:	電脳倶楽部_088_B.LZH
+:	桃太郎伝説.LZH
+:	南海の死闘_A.LZH
+:	南海の死闘_B.LZH
+:	南海の死闘_C.LZH
+:	南海の死闘_D.LZH
+:	日本五景.LZH
+:	熱血高校ｻｯｶｰ編_A.LZH
+:	熱血高校ｻｯｶｰ編_B.LZH
+:	熱血高校ﾄﾞｯﾁﾎﾞｰﾙ部.LZH
+:	白夜物語_1.LZH
+:	白夜物語_2.LZH
+:	白夜物語_3.LZH
+:	煩悩予備校_A.LZH
+:	煩悩予備校_B.LZH
+:	煩悩予備校２_A.LZH
+:	煩悩予備校２_B.LZH
+:	煩悩予備校３_A.LZH
+:	煩悩予備校３_B.LZH
+:	秘密の花園_A.LZH
+:	秘密の花園_B.LZH
+:	秘密の花園_C.LZH
+:	飛翔鮫.LZH
+:	美少女ＣＧ大百科_1.LZH
+:	美少女ＣＧ大百科_2.LZH
+:	美少女ＣＧ大百科_3.LZH
+:	美少女ＣＧ大百科_4.LZH
+:	美少女ＣＧ大百科_5.LZH
+:	美少女ＣＧ大百科_6.LZH
+:	美少女写真館.LZH
+:	不思議の壁_1.LZH
+:	不思議の壁_2.LZH
+:	宝魔ﾊﾝﾀｰﾗｲﾑ11_1.LZH
+:	宝魔ﾊﾝﾀｰﾗｲﾑ11_2.LZH
+:	宝魔ﾊﾝﾀｰﾗｲﾑ11_3.LZH
+:	宝魔ﾊﾝﾀｰﾗｲﾑ１_DAT.LZH
+:	宝魔ﾊﾝﾀｰﾗｲﾑ１_SYS.LZH
+:	宝魔ﾊﾝﾀｰﾗｲﾑ２_DAT.LZH
+:	宝魔ﾊﾝﾀｰﾗｲﾑ２_SYS.LZH
+:	宝魔ﾊﾝﾀｰﾗｲﾑ３_DAT.LZH
+:	宝魔ﾊﾝﾀｰﾗｲﾑ３_SYS.LZH
+:	宝魔ﾊﾝﾀｰﾗｲﾑ６_DAT.LZH
+:	宝魔ﾊﾝﾀｰﾗｲﾑ６_SYS.LZH
+:	魔神宮_DAT.LZH
+:	魔神宮_SYS.LZH
+:	麻雀クリニック_1.LZH
+:	麻雀クリニック_2.LZH
+:	麻雀マスター_A.LZH
+:	麻雀マスター_B.LZH
+:	麻雀マスター_C.LZH
+:	麻雀マスター_D.LZH
+:	麻雀マスター_E.LZH
+:	麻雀狂時代SP_DAT.LZH
+:	麻雀狂時代SP_SYS.LZH
+:	麻雀幻想曲_A.LZH
+:	麻雀幻想曲_B.LZH
+:	麻雀幻想曲_C.LZH
+:	麻雀幻想曲_D.LZH
+:	麻雀悟空.LZH
+:	麻雀武蔵_1.LZH
+:	麻雀武蔵_2.LZH
+:	麻雀遊園地_A.LZH
+:	麻雀遊園地_B.LZH
+:	麻雀遊園地_C.LZH
+:	夜の天使たち_1.LZH
+:	夜の天使たち_2.LZH
+:	妖獣クラブ_A.LZH
+:	妖獣クラブ_B.LZH
+:	妖獣クラブ２_A.LZH
+:	妖獣クラブ２_B.LZH
+:	妖獣クラブ２_C.LZH
+:	妖獣戦記AD2048_1.LZH
+:	妖獣戦記AD2048_2.LZH
+:	妖獣戦記AD2048_3.LZH
+:	妖獣戦記AD2048_4.LZH
+:	妖獣戦記AD2048_SYS.LZH
+:	遥かなるｴｲﾄﾚｲｸｽ_1.LZH
+:	遥かなるｴｲﾄﾚｲｸｽ_2.LZH
+:	遥かなるｵｰｶﾞｽﾀ_1.LZH
+:	遥かなるｵｰｶﾞｽﾀ_2.LZH
+:	遥かなるｵｰｶﾞｽﾀ_SYS.LZH
+:	蘭丸_A.LZH
+:	蘭丸_B.LZH
+:	蘭丸_C.LZH
+:	蘭丸_D.LZH
+:	琉球.LZH
+:	DENKURA
+:	:	DENNO001.LZH
+:	:	DENNO002.LZH
+:	:	DENNO003.LZH
+:	:	DENNO004.LZH
+:	:	DENNO005.LZH
+:	:	DENNO006.LZH
+:	:	DENNO007.LZH
+:	:	DENNO008.LZH
+:	:	DENNO009.LZH
+:	:	DENNO010.LZH
+:	:	DENNO011.LZH
+:	:	DENNO012.LZH
+:	:	DENNO013.LZH
+:	:	DENNO014.LZH
+:	:	DENNO015.LZH
+:	:	DENNO016.LZH
+:	:	DENNO017.LZH
+:	:	DENNO018.LZH
+:	:	DENNO019.LZH
+:	:	DENNO020.LZH
+:	:	DENNO021.LZH
+:	:	DENNO022.LZH
+:	:	DENNO023.LZH
+:	:	DENNO024.LZH
+:	:	DENNO025.LZH
+:	:	DENNO026.LZH
+:	:	DENNO027.LZH
+:	:	DENNO028.LZH
+:	:	DENNO029.LZH
+:	:	DENNO030.LZH
+:	:	DENNO031.LZH
+:	:	DENNO032.LZH
+:	:	DENNO033.LZH
+:	:	DENNO034.LZH
+:	:	DENNO035.LZH
+:	:	DENNO036.LZH
+:	:	DENNO037.LZH
+:	:	DENNO038.LZH
+:	:	DENNO039.LZH
+:	:	DENNO040.LZH
+:	:	DENNO041.LZH
+:	:	DENNO042.LZH
+:	:	DENNO043.LZH
+:	:	DENNO044.LZH
+:	:	DENNO045.LZH
+:	:	DENNO046.LZH
+:	:	DENNO047.LZH
+:	:	DENNO048.LZH
+:	:	DENNO049.LZH
+:	:	DENNO050.LZH
+:	:	DENNO051.LZH
+:	:	DENNO052.LZH
+:	:	DENNO053.LZH
+:	:	DENNO054.LZH
+:	:	DENNO055.LZH
+:	:	DENNO056.LZH
+:	:	DENNO057.LZH
+:	:	DENNO058.LZH
+:	:	DENNO059.LZH
+:	:	DENNO060.LZH
+:	:	DENNO061.LZH
+:	:	DENNO062.LZH
+:	:	DENNO063.LZH
+:	:	DENNO064.LZH
+:	:	DENNO065.LZH
+:	:	DENNO066.LZH
+:	:	DENNO067.LZH
+:	:	DENNO068.LZH
+:	:	DENNO069.LZH
+:	:	DENNO070.LZH
+:	:	DENNO071.LZH
+:	:	DENNO072.LZH
+:	:	DENNO073.LZH
+:	:	DENNO074.LZH
+:	:	DENNO075.LZH
+:	:	DENNO076.LZH
+:	:	DENNO077.LZH
+:	:	DENNO078.LZH
+:	:	DENNO079.LZH
+:	:	DENNO080.LZH
+:	:	DENNO081.LZH
+:	:	DENNO082.LZH
+:	:	DENNO083.LZH
+:	:	DENNO084.LZH
+:	:	DENNO085.LZH
+:	:	DENNO086.LZH
+:	:	DENNO087.LZH
+:	:	DENNO088.LZH
+:	:	DENNO089.LZH
+:	:	DENNO090.LZH
+:	:	DENNO091.LZH
+:	:	DENNO092.LZH
+:	:	DENNO093.LZH
+:	:	DENNO095.LZH
+:	:	DENNO_B1.LZH
+:	:	DENNO_J1.LZH
+:	:	DENNO_J2.LZH

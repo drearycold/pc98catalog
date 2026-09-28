@@ -1,0 +1,105 @@
+[ファイル名],[サイズ]
+0701 - Best Play Pro Yakyuu (J).zip,2161538 Byte
+0702 - Nan no Umi no Odyssey (J).zip,3008063 Byte
+0704 - DiGi Charat DigiCommunication (J).zip,5387458 Byte
+0705 - Masters of the Universe HeMan - Power of Grayskull (U).zip,3407684 Byte
+0706 - Dungeons ans Dragons - Eye of the Beholder (U).zip,2165784 Byte
+0707 - Tony Hawk Pro Skater 4 (U).zip,5106563 Byte
+0708 - Reign Of Fire (U).zip,4593373 Byte
+0709 - Pocky & Rocky with Becky (U).zip,2030786 Byte
+0710 - The Powerpuff Girls - Him and Seek (U).zip,2957737 Byte
+0711 - Dexter's Lab - Chess Challenge (U).zip,3127422 Byte
+0712 - Disney's Treasure Planet (U).zip,5525354 Byte
+0713 - Crazy Chase (U).zip,2155497 Byte
+0714 - Godzilla Domination (E).zip,1719903 Byte
+0715 - The Lord of the Rings - Fellowship of the Ring (E).zip,5967612 Byte
+0716 - Davis Cup (U).zip,1301339 Byte
+0717 - The Lord of the Rings - The Two Towers (E).zip,12677580 Byte
+0718 - Justice Leage - Injustice for All (U).zip,7251101 Byte
+0720 - Fairly Odd Parents Enter The Cleft (U).zip,2627110 Byte
+0721 - Harry Potter and the Chamber of Secrets (U).zip,4404870 Byte
+0722 - Contra Advance - The Alien Wars EX (U).zip,1912916 Byte
+0723 - Frogger Advance 2 - The Lost Wand (U).zip,4093161 Byte
+0724 - Kawaii Pet Shop Monogatari 3 (J).zip,1585219 Byte
+0725 - Smuggler's Run (E).zip,2614412 Byte
+0726 - The Powerpuff Girls - Him and Seek (E).zip,2992470 Byte
+0727 - Agassi Tennis Generation 2002 (E).zip,1652514 Byte
+0728 - Zidane Football Generation 2002 (E).zip,1969187 Byte
+0729 - Defender (U).zip,1818103 Byte
+0730 - Star Wars - The New Droid Army (U).zip,5207407 Byte
+0731 - Disney All-Star Sport Soccer (U).zip,10362661 Byte
+0732 - Dan Doh!! Xi (J).zip,2347597 Byte
+0733 - Tomb Raider The Prophecey (U).zip,4542650 Byte
+0734 - THE MUMMY (E).zip,2532327 Byte
+0735 - Contra Hard Spirits (J).zip,1903578 Byte
+0736 - FIFA Football 2003 (U).zip,1979426 Byte
+0737 - Shin Megami Tensei Devil Children Yami no Sho (J).zip,5709326 Byte
+0738 - One Piece - Nanatsu Shima no Daihihou (J).zip,4870515 Byte
+0739 - Pink Panther (U).zip,2981983 Byte
+0740 - The Revenge of Shinobi (U).zip,4669314 Byte
+0741 - Rocky (U).zip,4268233 Byte
+0742 - Croke Yume no Bunker Survival (J).zip,2718521 Byte
+0743 - Hot Wheels Velocity X (U).zip,3767409 Byte
+0744 - Mary-Kate And Ashley Sweet 16 Licensed To Drive (U).zip,1485616 Byte
+0745 - Rugrats-I Gotta Go Party Gba (U).zip,2596947 Byte
+0746 - Hamster Gurakubu 3 (J).zip,3932943 Byte
+0747 - Super Robot Taisen Original Generation (J).zip,4163650 Byte
+0748 - Monster Rancher Advance 2.zip,4224161 Byte
+0749 - Galidor Defenders of the Outer Dimension.zip,1891980 Byte
+0750 - Island Xtreme Stunts.zip,1979910 Byte
+0751 - Rocket Power Beach Bandits.zip,1877792 Byte
+0752 - The Wild Thornberrys The Movie.zip,2739837 Byte
+0753 - Mortal Kombat Deadly Alliance (U).zip,11585562 Byte
+0754 - Shrek - Hassle at the Castle (E).zip,1690239 Byte
+0755 - Metroid Fusion (E).zip,4709568 Byte
+0756 - Shin Megami Tensei - Devil Children Hikari no Sho (J).zip,5650538 Byte
+0757 - Pokemon Saphire (J).zip,4749778 Byte
+0759 - Napoleon Aigle de Guerre (F).zip,3963571 Byte
+0760 - Pokemon Ruby (J).zip,4749048 Byte
+0761 - Fantastic Marchen Keaki Okusan Monogatari (J).zip,3369523 Byte
+0762 - Scan Hunter (J).zip,4819974 Byte
+0763 - Super Monkey Ball Jr (U).zip,2115518 Byte
+0764 - Tsukande! Mawashite! Dossun Pazuru Eggo Mania (J).zip,2262459 Byte
+0765 - Moto GP (J).zip,2743066 Byte
+0766 - Card Party (J).zip,2890916 Byte
+0767 - Silent Scope (J).zip,3272108 Byte
+0768 - Earthworm Jim 2 (E).zip,2805140 Byte
+0769 - Tarzan Return to the Jungle (F).zip,4456172 Byte
+0770 - Phantasy Star Collection (U).zip,3820055 Byte
+0771 - Gauntlet Dark Legacy (U).zip,4668321 Byte
+0772 - Disney's Kim Possible - Revenge of Monkey (U).zip,3200162 Byte
+0773 - Minority Report - Everybody Runs (U) .zip,4876614 Byte
+0774 - Altered Beast Guardian of the Realms (U).zip,5030344 Byte
+0777 - Disneys Treasure Planet (E).zip,5522328 Byte
+0778 - Street Fighter Alpha 3 (E).zip,7097361 Byte
+0779 - Titeuf - Ze Gagmachine (F).zip,1550695 Byte
+0780 - Legends of Wrestling 2 (E).zip,7058339 Byte
+0781 - Choro Q Advance 2 (J).zip,2819321 Byte
+0782 - Jikkyou World Soccer Pocket 2 (J).zip,4525600 Byte
+0783 - Medal of Honor Underground (U).zip,3421916 Byte
+0784 - Star Wars - The New Droid Army (E).zip,5205638 Byte
+0785 - Zapper (U).zip,2292324 Byte
+0786 - Carrera Power (E).zip,1377653 Byte
+0787 - Rockman Exe 3 (J).zip,4375422 Byte
+0788 - Worms Blast (E).zip,5549271 Byte
+0789 - Les Razmoket - A Moi La Fiesta (F).zip,2572860 Byte
+0790 - Qui Veut Gagner Des Millions (F).zip,3379076 Byte
+0791 - Hardcore Pinball (U).zip,1842606 Byte
+0792 - Ballistic Ecks Vs Sever 2 (E).zip,4308367 Byte
+0793 - Turok Evolution (U).zip,4038832 Byte
+0794 - Dave Mirra Freestyle BMX 3 (U).zip,4335070 Byte
+0795 - Derby Stallion Advance (J).zip,2714913 Byte
+0796 - Kinnikuman 2sei Seigi Choujin he no Michi (J).zip,10282222 Byte
+0797 - Harry Potter to Himitsu no Heya (J).zip,3859652 Byte
+0798 - Shaman King 3 - Cho Senji Ryakketsu 3 (J).zip,10886819 Byte
+0799 - Woody Woodpecker In Crazy Castle 5 (U).zip,3490444 Byte
+0800 - Tir Et But (F).zip,1644247 Byte
+
+0703
+0719
+0758
+0775
+0776が不足
+
+ファイル数合計 = 95 個
+ファイルサイズ合計 = 370548191 Byte

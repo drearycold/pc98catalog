@@ -1,0 +1,88 @@
+(ROM) NEC PC98xx - FDD 82Games (TOSEC 0.22) (rr5%).rar
+54,481,640
+6e58ebf33ad81252eaaf02d3718aab59ÅE4282b45a41067a3fa3f28a1424bbe84ae89ed9a6
+
+:	NEC PC98xx - FDDhave.txt
+:	NEC PC98xx - FDD
+:	:	177 (1986)(Macadamia Soft).fdd
+:	:	Akumu - Aoi Kajitsu no Sanka (1996)(Studio Mobius)(Disk 1 of 6)(Disk A).fdd
+:	:	Akumu - Aoi Kajitsu no Sanka (1996)(Studio Mobius)(Disk 2 of 6)(Disk B).fdd
+:	:	Akumu - Aoi Kajitsu no Sanka (1996)(Studio Mobius)(Disk 3 of 6)(Disk C).fdd
+:	:	Akumu - Aoi Kajitsu no Sanka (1996)(Studio Mobius)(Disk 4 of 6)(Disk D).fdd
+:	:	Akumu - Aoi Kajitsu no Sanka (1996)(Studio Mobius)(Disk 5 of 6)(Disk E).fdd
+:	:	Akumu - Aoi Kajitsu no Sanka (1996)(Studio Mobius)(Disk 6 of 6)(Disk F).fdd
+:	:	Byakuya Monogatari (19xx)(East Cube)(Disk 1 of 2)(Disk A).fdd
+:	:	Byakuya Monogatari (19xx)(East Cube)(Disk 2 of 2)(Disk B).fdd
+:	:	Can Can Bunny 1 (1989)(Cocktail Soft)(System Disk).fdd
+:	:	Elle (1991)(Elf)(Disk 1 of 4)(Disk A).fdd
+:	:	Elle (1991)(Elf)(Disk 2 of 4)(Disk B).fdd
+:	:	Elle (1991)(Elf)(Disk 3 of 4)(Disk C).fdd
+:	:	Elle (1991)(Elf)(Disk 4 of 4)(Disk D).fdd
+:	:	Exceed Jack (1995)(Misty)(Disk 1 of 3)[Req Install].fdd
+:	:	Exceed Jack (1995)(Misty)(Disk 2 of 3)[Req Install].fdd
+:	:	Exceed Jack (1995)(Misty)(Disk 3 of 3)[Req Install].fdd
+:	:	Immoral Study 1 (1995)(ScooP)(Disk 1 of 5).fdd
+:	:	Immoral Study 1 (1995)(ScooP)(Disk 2 of 5).fdd
+:	:	Immoral Study 1 (1995)(ScooP)(Disk 3 of 5).fdd
+:	:	Immoral Study 1 (1995)(ScooP)(Disk 4 of 5).fdd
+:	:	Immoral Study 1 (1995)(ScooP)(Disk 5 of 5).fdd
+:	:	Immoral Study 2 (1995)(ScooP)(Disk 1 of 5).fdd
+:	:	Immoral Study 2 (1995)(ScooP)(Disk 2 of 5).fdd
+:	:	Immoral Study 2 (1995)(ScooP)(Disk 3 of 5).fdd
+:	:	Immoral Study 2 (1995)(ScooP)(Disk 4 of 5).fdd
+:	:	Immoral Study 2 (1995)(ScooP)(Disk 5 of 5).fdd
+:	:	Immoral Study 3 (1995)(ScooP)(Disk 1 of 5).fdd
+:	:	Immoral Study 3 (1995)(ScooP)(Disk 2 of 5).fdd
+:	:	Immoral Study 3 (1995)(ScooP)(Disk 3 of 5).fdd
+:	:	Immoral Study 3 (1995)(ScooP)(Disk 4 of 5).fdd
+:	:	Immoral Study 3 (1995)(ScooP)(Disk 5 of 5).fdd
+:	:	Kankin (1993)(Illusion)(Disk 1 of 4)(Disk A).fdd
+:	:	Kankin (1993)(Illusion)(Disk 2 of 4)(Disk B).fdd
+:	:	Kankin (1993)(Illusion)(Disk 3 of 4)(Disk C).fdd
+:	:	Kankin (1993)(Illusion)(Disk 4 of 4)(Disk D).fdd
+:	:	Kokoha Rakuenso 1 (1994)(Foster)(Disk 1 of 2)(System Disk).fdd
+:	:	Kokoha Rakuenso 1 (1994)(Foster)(Disk 2 of 2)(Data Disk).fdd
+:	:	Kokoha Rakuenso 2 (19xx)(Foster)(Disk 1 of 2).fdd
+:	:	Kokoha Rakuenso 2 (19xx)(Foster)(Disk 2 of 2).fdd
+:	:	Koukan Nikki 2 (1995)(Fairy Dust)(Disk 1 of 8).fdd
+:	:	Koukan Nikki 2 (1995)(Fairy Dust)(Disk 2 of 8).fdd
+:	:	Koukan Nikki 2 (1995)(Fairy Dust)(Disk 3 of 8).fdd
+:	:	Koukan Nikki 2 (1995)(Fairy Dust)(Disk 4 of 8).fdd
+:	:	Koukan Nikki 2 (1995)(Fairy Dust)(Disk 5 of 8).fdd
+:	:	Koukan Nikki 2 (1995)(Fairy Dust)(Disk 6 of 8).fdd
+:	:	Koukan Nikki 2 (1995)(Fairy Dust)(Disk 7 of 8).fdd
+:	:	Koukan Nikki 2 (1995)(Fairy Dust)(Disk 8 of 8).fdd
+:	:	Kurumichan Ninja (1995)(Janis)(Disk 1 of 4)(Disk A).fdd
+:	:	Kurumichan Ninja (1995)(Janis)(Disk 2 of 4)(Disk B).fdd
+:	:	Kurumichan Ninja (1995)(Janis)(Disk 3 of 4)(Disk C).fdd
+:	:	Kurumichan Ninja (1995)(Janis)(Disk 4 of 4)(Disk D).fdd
+:	:	Pink Sox 1 (1989)(Wendy Magazine).fdd
+:	:	Pink Sox 2 (1990)(Wendy Magazine).fdd
+:	:	Pink Sox 3 (1990)(Wendy Magazine).fdd
+:	:	Pink Sox 7 (1991)(Wendy Magazine)(Disk 1 of 2)(Disk A).fdd
+:	:	Pink Sox 7 (1991)(Wendy Magazine)(Disk 2 of 2)(Disk B).fdd
+:	:	Pink Sox 8 (1992)(Wendy Magazine)(Disk 1 of 4)(Disk A).fdd
+:	:	Pink Sox 8 (1992)(Wendy Magazine)(Disk 2 of 4)(Disk B).fdd
+:	:	Pink Sox 8 (1992)(Wendy Magazine)(Disk 3 of 4)(Disk C).fdd
+:	:	Pink Sox 8 (1992)(Wendy Magazine)(Disk 4 of 4)(Disk D).fdd
+:	:	Queen's Cup (1994)(Queen Soft)(Disk 1 of 4)[Req Install].fdd
+:	:	Queen's Cup (1994)(Queen Soft)(Disk 2 of 4)[Req Install].fdd
+:	:	Queen's Cup (1994)(Queen Soft)(Disk 3 of 4)[Req Install].fdd
+:	:	Queen's Cup (1994)(Queen Soft)(Disk 4 of 4)[Req Install].fdd
+:	:	Sorcerian (1987)(Falcom)(Disk 1 of 6)(Program Disk).fdd
+:	:	Sorcerian (1987)(Falcom)(Disk 2 of 6)(Scenario 1).fdd
+:	:	Sorcerian (1987)(Falcom)(Disk 3 of 6)(Scenario 2).fdd
+:	:	Sorcerian (1987)(Falcom)(Disk 4 of 6)(Scenario 3).fdd
+:	:	Sorcerian (1987)(Falcom)(Disk 5 of 6)(User Disk).fdd
+:	:	Sorcerian (1987)(Falcom)(Disk 6 of 6)(Utility Disk).fdd
+:	:	Uruseiyatsura (19xx)(-).fdd
+:	:	Xak 1 (1989)(Micro Cabin)(Disk 1 of 2)(Disk A).fdd
+:	:	Xak 1 (1989)(Micro Cabin)(Disk 2 of 2)(Disk B).fdd
+:	:	Xak 2 (1990)(Micro Cabin)(Disk 1 of 3).fdd
+:	:	Xak 2 (1990)(Micro Cabin)(Disk 2 of 3).fdd
+:	:	Xak 2 (1990)(Micro Cabin)(Disk 2 of 3)[a].fdd
+:	:	Xak 2 (1990)(Micro Cabin)(Disk 3 of 3).fdd
+:	:	Ys 2 - Ancient Ys Vanished the Final Chapter (19xx)(Falcom)(Disk 1 of 2)(Program Disk).fdd
+:	:	Ys 2 - Ancient Ys Vanished the Final Chapter (19xx)(Falcom)(Disk 2 of 2)(Scenario Disk).fdd
+:	:	Ys 3 - Wanderers from Ys (19xx)(Falcom)(Disk 1 of 2)(Program Disk).fdd
+:	:	Ys 3 - Wanderers from Ys (19xx)(Falcom)(Disk 2 of 2)(Data Disk).fdd

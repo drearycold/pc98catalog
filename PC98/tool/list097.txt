@@ -1,0 +1,383 @@
+【エミュ】 【MZ700】 SHARP MZ700 MZ1500 Emulator + 142 Roms.zip
+20aae7bfbe2b37a1ab874ed63e386c5d・7318071e298d47a8f8ae33d3f79bacf53d981602
+1,284,386
+ファイル数合計 = 183 個
+ファイルサイズ合計 = 1654877 Byte
+
+:	BIOS
+:	:	1Z009.ROM
+:	:	1Z013.ROM
+:	:	MZ1500.ROM
+:	:	NEWMON.ROM
+:	:	NEWMON7.ROM
+:	:	mz700fon.jp
+:	MZ700win
+:	:	$qd$.mzt
+:	:	CMOS.RAM
+:	:	MZ700WIN.INI
+:	:	MZ80_KEY.DOC
+:	:	key.def
+:	:	mz700faq.htm
+:	:	mz700fon.dat
+:	:	mz700tips.htm
+:	:	mz700win.exe
+:	:	mz700win.txt
+:	:	mz700win_jp.txt
+:	:	whatsnew_jp.txt
+:	:	1Z-009B
+:	:	:	1Z-009B.ROM
+:	:	:	1Z-009B.asm
+:	:	:	1Z-009Blabel.asm
+:	:	ROMS
+:	:	:	IPL.rom
+:	:	:	MZ1500.ROM
+:	:	:	MZFONT.rom
+:	:	:	NEWMON.ROM
+:	:	:	NEWMON7.ROM
+:	:	:	P401.rom
+:	:	:	P402.rom
+:	:	:	P403.rom
+:	:	mkfnt
+:	:	:	mkfnt.c
+:	:	:	mkfnt.exe
+:	:	:	mz700fon.txt
+:	:	tapeload
+:	:	:	1Z007B.HED
+:	:	:	HUBAS700.HED
+:	:	:	MZ5Z001.HED
+:	:	:	SP5030A.HED
+:	:	:	tapeload.bat
+:	:	:	tapeload.cpp
+:	:	:	tapeload.exe
+:	:	:	tapeload.txt
+:	:	:	tapeload_jp.txt
+:	Roms
+:	:	AstroBattler.zip
+:	:	BUGFIRE.zip
+:	:	BUILDING HOPPER.zip
+:	:	CarRace82.zip
+:	:	CatapilarWar.zip
+:	:	DonkeyGollira.zip
+:	:	Emien.zip
+:	:	Eugea.zip
+:	:	Eyelarth.zip
+:	:	LAND ESCAPE.zip
+:	:	ProYakyu.zip
+:	:	RoundShoot.zip
+:	:	SIDE ROLL -F-.zip
+:	:	SpaceBird.zip
+:	:	Story Of Pendant.zip
+:	:	TIME SECRET.zip
+:	:	WONDER HOUSE.zip
+:	:	WhirlPool.zip
+:	:	galaop.zip
+:	:	mappy PCG対応版.zip
+:	:	mappy.zip
+:	:	アルカノイド.zip
+:	:	ギャラガ for MZ-1500.zip
+:	:	コンバットレーサー.zip
+:	:	サンダーフォース for MZ-1500.zip
+:	:	スペースハリアー.zip
+:	:	スペースブラスターFX.zip
+:	:	スペースブラスターGX.zip
+:	:	ゼビウス.zip
+:	:	ゾンビ パニック.zip
+:	:	タイムトンネル.zip
+:	:	ドルアーガの塔 for MZ-1500.zip
+:	:	メトロクロス.zip
+:	:	ヴォルガード for MZ-1500.zip
+:	:	亜空間ＦＩＧＨＴ.zip
+:	:	BASIC
+:	:	:	HuBasic Ver2.0A（HUDSON）.zip
+:	:	:	SBASIC 1Z-007B B1.0A（SHARP）.zip
+:	:	:	SP5030（SHARP）.zip
+:	:	Sharp MZ-7xx-800-1500 (TOSEC-v0.10) sets
+:	:	:	3d-Way Out (Bbg- Software)(Mz-700).zip
+:	:	:	Account Management (Mz-X00).zip
+:	:	:	Ace Racer (Mz-X00).zip
+:	:	:	Action Fly (Ge)(Mz-X00).zip
+:	:	:	Adventure World (Ge)(Mz-X00).zip
+:	:	:	Advoka (Bgg-Software)(Mz-700)(Unknown).zip
+:	:	:	Advoka (Bgg-Software)(Mz-700).zip
+:	:	:	Alligator (Ge)(Mz-X00).zip
+:	:	:	Autorennen (Ge)(Mz-X00).zip
+:	:	:	Basic Interpreter 1z-013b V1.0 (1983)(Sharp Corp)(Mz-700).zip
+:	:	:	Battle Game (1982)(Oak Corp)(Mz-700).zip
+:	:	:	Battlestar Galactica (Ge)(Pd)(Mz-X00).zip
+:	:	:	Bomberman F1200 (1983)(Hudson Soft)(Mz-700).zip
+:	:	:	Bubble Sort (Pd)(Mz-X00).zip
+:	:	:	Calendar (Pd)(Mz-X00).zip
+:	:	:	Cannon Ball (Probably Pd)(Mz-700).zip
+:	:	:	Circus Star (1983)(Oak Corp)(Mz-700).zip
+:	:	:	Club Golf (1982)(Solo Software)(Mz-X00).zip
+:	:	:	Con Chess Welt Meister (Ge)(Mz-700).zip
+:	:	:	Counter Reverse And Caterpillar Crawl (Mz-07coun)(Mz-X00).zip
+:	:	:	Cribbage (Mz-07crib)(Mz-X00).zip
+:	:	:	Devil Schach 700 (Ge)(Devil Soft)(Mz-700).zip
+:	:	:	Digitcounter (Pd)(Mz-X00).zip
+:	:	:	Donkey Gorilla (Tecmosoft)(Mz-700).zip
+:	:	:	Dragon Caves (1982)(Solo Software)(Mz-X00).zip
+:	:	:	Dynamite 2 (1983)(Mz-X00).zip
+:	:	:	Egg.Bas (Mz-X00).zip
+:	:	:	Egg.Obj (Mz-X00).zip
+:	:	:	Encounter(Mz-X00).zip
+:	:	:	Exploding Atoms (Mz-07expl)(Mz-X00).zip
+:	:	:	Fibonnacci (Pd)(Mz-X00).zip
+:	:	:	Flugsimulator (Ge)(Alt)(Mz-X00).zip
+:	:	:	Flugsimulator (Ge)(Mz-700).zip
+:	:	:	Foxy (Ge)(Mz-X00).zip
+:	:	:	G.C.D. (Pd)(Mz-X00).zip
+:	:	:	Gate Crasher And Jungle Jiks (Mz-07gate)(Mz-X00).zip
+:	:	:	Global War 3 (1982)(Solo Software)(A.K.A. World War)(Mz-X00).zip
+:	:	:	Hanoi Turm (1983)(Mz-X00).zip
+:	:	:	Head Driver (Probably The Data File)(Bbg-Software)(Mz-700).zip
+:	:	:	Head Driver (Probably The Loader)(Bbg-Software)(Mz-700).zip
+:	:	:	Hunchy (Solo Software)(Mz-X00).zip
+:	:	:	Ice Warriors (1983)(Solo Software)(Mz-X00).zip
+:	:	:	Insel (Pd)(Mz-X00).zip
+:	:	:	Insertion Sort (Pd)(Mz-X00).zip
+:	:	:	Jumpman (Ge)(Sharp Mz-721).zip
+:	:	:	Jungle-Jings (Mz-X00).zip
+:	:	:	Knight's Mz-700 Foth (Mz-700) .zip
+:	:	:	Knight's Wee Pascal V700 (Mz-700).zip
+:	:	:	Lady Bug (Ge)(1982)(Mz-700).zip
+:	:	:	Land Escape (Pd)(Mz-X00).zip
+:	:	:	Le Mans Turbo (Mz-07lema)(Mz-X00).zip
+:	:	:	Life (Pd)(Mz-X00).zip
+:	:	:	Light Wheels (Ge)(1984)(Mz-X00).zip
+:	:	:	Lightning Patrol (1983)(Solo Software)(Mz-X00).zip
+:	:	:	Lissajous700 (Mz-X00).zip
+:	:	:	Lottozahlen (Ge)(Mz-X00).zip
+:	:	:	M700 Schach (Ge)(Devil Soft)(Mz-700).zip
+:	:	:	Mac Pac (Ge)(1983)(Ursoft)(Mz-700).zip
+:	:	:	Man-Hunt Game (Mz-711).zip
+:	:	:	Mastermind (Pd).zip
+:	:	:	Maulwurf Im Wuerfellabyrint (Ge)(1984)(Pd).zip
+:	:	:	Mensch Aergere Dich Nicht (Ge)(1983)(Mz-700).zip
+:	:	:	Message Print (Pd)(Mz-X00).zip
+:	:	:	Minmax (Pd)(Mz-X00).zip
+:	:	:	Mondlandung (Ge)(Mz-X00).zip
+:	:	:	Moty (Mz-X00).zip
+:	:	:	Moving Searcher (1983)(Oak Corp)(Mz-700).zip
+:	:	:	Munroe Manor-A Gruesome Graphic Adventure (Solo Software)(Mz-X00).zip
+:	:	:	Mz-800 Adress Data (Bbg-Software)(Mz-800-700).zip
+:	:	:	Nakamoto (Ja)(Bbg Software)(Mz-700).zip
+:	:	:	Number Guess (Pd)(Mz-X00).zip
+:	:	:	Number Sort (Pd)(Mz-X00).zip
+:	:	:	Pac-Man (1983)(Devil-Soft)(Mz-700).zip
+:	:	:	Pac-Man (Not Working)(Mz-0xx).zip
+:	:	:	Painful Man (1982)(Zatsoft)(Mz-700).zip
+:	:	:	Para Shoot (1983)(Solo Software)(Mz-X00).zip
+:	:	:	Plusminus-20 (Ge)(Pd)(Mz-X00).zip
+:	:	:	Pyramide, Die (Ge)(1985)(Mz-X00).zip
+:	:	:	Quarzuhr (Ge)(Mz-X00).zip
+:	:	:	Rakete (Ge)(Pd)(Mz-X00).zip
+:	:	:	Raummuhle (Devil Soft)(Mz-700).zip
+:	:	:	Relaxer, The (Pd)(Mz-X00).zip
+:	:	:	Reverse (1982)(Hudson Soft)(Mz-X00).zip
+:	:	:	Rotation (Mz-X00).zip
+:	:	:	Round Shoot (Zatsoft)(Mz-700).zip
+:	:	:	S.A.S.Attack (1983)(Solo Software)(Mz-X00).zip
+:	:	:	Schiffe Versenken (Ge)(Mz-X00).zip
+:	:	:	Screenpainter (Pd)(Mz-X00).zip
+:	:	:	Send V0.1 (Zatsoft)(Mz-X00).zip
+:	:	:	Serpents (Ge)(Devil Soft)(Mz-700).zip
+:	:	:	Sherlock Holmes (Mz-X00).zip
+:	:	:	Snake & Snake (Tecno-Soft)(Mz-700).zip
+:	:	:	Soccer (Mz-X00).zip
+:	:	:	Steinbruch (Ge)(Pd)(Mz-X00).zip
+:	:	:	Suicide Run And Space Fighter (Mz-07suic)(Mz-X00).zip
+:	:	:	Super Helicopter (Nag Soft)(Mz-700).zip
+:	:	:	Super Puck-Man (Mz-700).zip
+:	:	:	Superhirn (1983)(Mz-X00).zip
+:	:	:	Tombs Of Karnak (Mz-X00).zip
+:	:	:	Trap Of Doom And Cave Adventure (Mz-07trap)(Mz-X00).zip
+:	:	:	Ufo (Mz-07ufo)(Solo Software)(Mz-700).zip
+:	:	:	Wall Man (1985)(Boy-Soft)(Mz-X00.zip
+:	:	:	Wizard Castle (Mz-07-Wiza)(Knight's Software)(Mz-X00).zip
+:	:	:	Yahtzee (Ge)(Mz-X00).zip
+
+各ファイルのサイズ
+1Z009.ROM,4096 Byte
+1Z013.ROM,4096 Byte
+MZ1500.ROM,10240 Byte
+mz700fon.jp,4096 Byte
+NEWMON.ROM,4096 Byte
+NEWMON7.ROM,4096 Byte
+$qd$.mzt,0 Byte
+CMOS.RAM,32768 Byte
+key.def,13697 Byte
+mz700faq.htm,8197 Byte
+mz700fon.dat,4096 Byte
+mz700tips.htm,6872 Byte
+mz700win.exe,172032 Byte
+MZ700WIN.INI,461 Byte
+mz700win.txt,6633 Byte
+mz700win_jp.txt,33938 Byte
+MZ80_KEY.DOC,3383 Byte
+whatsnew_jp.txt,1583 Byte
+1Z-009B.asm,79224 Byte
+1Z-009B.ROM,4096 Byte
+1Z-009Blabel.asm,62179 Byte
+mkfnt.c,2103 Byte
+mkfnt.exe,36864 Byte
+mz700fon.txt,46078 Byte
+IPL.rom,2048 Byte
+MZ1500.ROM,10240 Byte
+MZFONT.rom,2048 Byte
+NEWMON.ROM,4096 Byte
+NEWMON7.ROM,4096 Byte
+P401.rom,2048 Byte
+P402.rom,2048 Byte
+P403.rom,2048 Byte
+1Z007B.HED,128 Byte
+HUBAS700.HED,128 Byte
+MZ5Z001.HED,128 Byte
+SP5030A.HED,128 Byte
+tapeload.bat,27 Byte
+tapeload.cpp,17325 Byte
+tapeload.exe,45056 Byte
+tapeload.txt,4355 Byte
+tapeload_jp.txt,7342 Byte
+AstroBattler.zip,6032 Byte
+BUGFIRE.zip,13723 Byte
+BUILDING HOPPER.zip,14159 Byte
+CarRace82.zip,1860 Byte
+CatapilarWar.zip,4786 Byte
+DonkeyGollira.zip,12648 Byte
+Emien.zip,3560 Byte
+Eugea.zip,21114 Byte
+Eyelarth.zip,15112 Byte
+galaop.zip,10276 Byte
+LAND ESCAPE.zip,5788 Byte
+mappy PCG対応版.zip,15968 Byte
+mappy.zip,11153 Byte
+ProYakyu.zip,4080 Byte
+RoundShoot.zip,5986 Byte
+SIDE ROLL -F-.zip,19356 Byte
+SpaceBird.zip,4102 Byte
+Story Of Pendant.zip,15290 Byte
+TIME SECRET.zip,28409 Byte
+WhirlPool.zip,6682 Byte
+WONDER HOUSE.zip,10782 Byte
+アルカノイド.zip,5341 Byte
+ギャラガ for MZ-1500.zip,27311 Byte
+コンバットレーサー.zip,1669 Byte
+サンダーフォース for MZ-1500.zip,26529 Byte
+スペースハリアー.zip,20667 Byte
+スペースブラスターFX.zip,9773 Byte
+スペースブラスターGX.zip,11162 Byte
+ゼビウス.zip,8653 Byte
+ゾンビ パニック.zip,8293 Byte
+タイムトンネル.zip,40632 Byte
+ドルアーガの塔 for MZ-1500.zip,29308 Byte
+メトロクロス.zip,12488 Byte
+ヴォルガード for MZ-1500.zip,20447 Byte
+亜空間ＦＩＧＨＴ.zip,6115 Byte
+HuBasic Ver2.0A（HUDSON）.zip,25195 Byte
+SBASIC 1Z-007B B1.0A（SHARP）.zip,18975 Byte
+SP5030（SHARP）.zip,9425 Byte
+3d-Way Out (Bbg- Software)(Mz-700).zip,5224 Byte
+Account Management (Mz-X00).zip,3523 Byte
+Ace Racer (Mz-X00).zip,3537 Byte
+Action Fly (Ge)(Mz-X00).zip,3672 Byte
+Adventure World (Ge)(Mz-X00).zip,8197 Byte
+Advoka (Bgg-Software)(Mz-700)(Unknown).zip,1772 Byte
+Advoka (Bgg-Software)(Mz-700).zip,6611 Byte
+Alligator (Ge)(Mz-X00).zip,2383 Byte
+Autorennen (Ge)(Mz-X00).zip,1930 Byte
+Basic Interpreter 1z-013b V1.0 (1983)(Sharp Corp)(Mz-700).zip,19024 Byte
+Battle Game (1982)(Oak Corp)(Mz-700).zip,4115 Byte
+Battlestar Galactica (Ge)(Pd)(Mz-X00).zip,9605 Byte
+Bomberman F1200 (1983)(Hudson Soft)(Mz-700).zip,3745 Byte
+Bubble Sort (Pd)(Mz-X00).zip,731 Byte
+Calendar (Pd)(Mz-X00).zip,895 Byte
+Cannon Ball (Probably Pd)(Mz-700).zip,2038 Byte
+Circus Star (1983)(Oak Corp)(Mz-700).zip,4867 Byte
+Club Golf (1982)(Solo Software)(Mz-X00).zip,6258 Byte
+Con Chess Welt Meister (Ge)(Mz-700).zip,4201 Byte
+Counter Reverse And Caterpillar Crawl (Mz-07coun)(Mz-X00).zip,1942 Byte
+Cribbage (Mz-07crib)(Mz-X00).zip,8375 Byte
+Devil Schach 700 (Ge)(Devil Soft)(Mz-700).zip,13951 Byte
+Digitcounter (Pd)(Mz-X00).zip,519 Byte
+Donkey Gorilla (Tecmosoft)(Mz-700).zip,12698 Byte
+Dragon Caves (1982)(Solo Software)(Mz-X00).zip,12602 Byte
+Dynamite 2 (1983)(Mz-X00).zip,7527 Byte
+Egg.Bas (Mz-X00).zip,7327 Byte
+Egg.Obj (Mz-X00).zip,612 Byte
+Encounter(Mz-X00).zip,12876 Byte
+Exploding Atoms (Mz-07expl)(Mz-X00).zip,2330 Byte
+Fibonnacci (Pd)(Mz-X00).zip,553 Byte
+Flugsimulator (Ge)(Alt)(Mz-X00).zip,4897 Byte
+Flugsimulator (Ge)(Mz-700).zip,7472 Byte
+Foxy (Ge)(Mz-X00).zip,1384 Byte
+G.C.D. (Pd)(Mz-X00).zip,636 Byte
+Gate Crasher And Jungle Jiks (Mz-07gate)(Mz-X00).zip,2696 Byte
+Global War 3 (1982)(Solo Software)(A.K.A. World War)(Mz-X00).zip,8931 Byte
+Hanoi Turm (1983)(Mz-X00).zip,2785 Byte
+Head Driver (Probably The Data File)(Bbg-Software)(Mz-700).zip,5547 Byte
+Head Driver (Probably The Loader)(Bbg-Software)(Mz-700).zip,1798 Byte
+Hunchy (Solo Software)(Mz-X00).zip,7158 Byte
+Ice Warriors (1983)(Solo Software)(Mz-X00).zip,10423 Byte
+Insel (Pd)(Mz-X00).zip,2263 Byte
+Insertion Sort (Pd)(Mz-X00).zip,692 Byte
+Jumpman (Ge)(Sharp Mz-721).zip,9031 Byte
+Jungle-Jings (Mz-X00).zip,2385 Byte
+Knight's Mz-700 Foth (Mz-700) .zip,3783 Byte
+Knight's Wee Pascal V700 (Mz-700).zip,4247 Byte
+Lady Bug (Ge)(1982)(Mz-700).zip,7942 Byte
+Land Escape (Pd)(Mz-X00).zip,5814 Byte
+Le Mans Turbo (Mz-07lema)(Mz-X00).zip,7085 Byte
+Life (Pd)(Mz-X00).zip,1551 Byte
+Light Wheels (Ge)(1984)(Mz-X00).zip,2771 Byte
+Lightning Patrol (1983)(Solo Software)(Mz-X00).zip,4568 Byte
+Lissajous700 (Mz-X00).zip,419 Byte
+Lottozahlen (Ge)(Mz-X00).zip,2504 Byte
+M700 Schach (Ge)(Devil Soft)(Mz-700).zip,5287 Byte
+Mac Pac (Ge)(1983)(Ursoft)(Mz-700).zip,3746 Byte
+Man-Hunt Game (Mz-711).zip,1690 Byte
+Mastermind (Pd).zip,2237 Byte
+Maulwurf Im Wuerfellabyrint (Ge)(1984)(Pd).zip,3020 Byte
+Mensch Aergere Dich Nicht (Ge)(1983)(Mz-700).zip,8316 Byte
+Message Print (Pd)(Mz-X00).zip,349 Byte
+Minmax (Pd)(Mz-X00).zip,643 Byte
+Mondlandung (Ge)(Mz-X00).zip,2703 Byte
+Moty (Mz-X00).zip,21088 Byte
+Moving Searcher (1983)(Oak Corp)(Mz-700).zip,4216 Byte
+Munroe Manor-A Gruesome Graphic Adventure (Solo Software)(Mz-X00).zip,12615 Byte
+Mz-800 Adress Data (Bbg-Software)(Mz-800-700).zip,2553 Byte
+Nakamoto (Ja)(Bbg Software)(Mz-700).zip,13534 Byte
+Number Guess (Pd)(Mz-X00).zip,626 Byte
+Number Sort (Pd)(Mz-X00).zip,696 Byte
+Pac-Man (1983)(Devil-Soft)(Mz-700).zip,3746 Byte
+Pac-Man (Not Working)(Mz-0xx).zip,4379 Byte
+Painful Man (1982)(Zatsoft)(Mz-700).zip,5388 Byte
+Para Shoot (1983)(Solo Software)(Mz-X00).zip,3124 Byte
+Plusminus-20 (Ge)(Pd)(Mz-X00).zip,492 Byte
+Pyramide, Die (Ge)(1985)(Mz-X00).zip,10350 Byte
+Quarzuhr (Ge)(Mz-X00).zip,1878 Byte
+Rakete (Ge)(Pd)(Mz-X00).zip,1310 Byte
+Raummuhle (Devil Soft)(Mz-700).zip,2195 Byte
+Relaxer, The (Pd)(Mz-X00).zip,304 Byte
+Reverse (1982)(Hudson Soft)(Mz-X00).zip,3410 Byte
+Rotation (Mz-X00).zip,1274 Byte
+Round Shoot (Zatsoft)(Mz-700).zip,5995 Byte
+S.A.S.Attack (1983)(Solo Software)(Mz-X00).zip,6254 Byte
+Schiffe Versenken (Ge)(Mz-X00).zip,2806 Byte
+Screenpainter (Pd)(Mz-X00).zip,427 Byte
+Send V0.1 (Zatsoft)(Mz-X00).zip,4719 Byte
+Serpents (Ge)(Devil Soft)(Mz-700).zip,3068 Byte
+Sherlock Holmes (Mz-X00).zip,3190 Byte
+Snake & Snake (Tecno-Soft)(Mz-700).zip,10239 Byte
+Soccer (Mz-X00).zip,2974 Byte
+Steinbruch (Ge)(Pd)(Mz-X00).zip,2885 Byte
+Suicide Run And Space Fighter (Mz-07suic)(Mz-X00).zip,1642 Byte
+Super Helicopter (Nag Soft)(Mz-700).zip,5931 Byte
+Super Puck-Man (Mz-700).zip,4323 Byte
+Superhirn (1983)(Mz-X00).zip,1599 Byte
+Tombs Of Karnak (Mz-X00).zip,10457 Byte
+Trap Of Doom And Cave Adventure (Mz-07trap)(Mz-X00).zip,1621 Byte
+Ufo (Mz-07ufo)(Solo Software)(Mz-700).zip,4040 Byte
+Wall Man (1985)(Boy-Soft)(Mz-X00.zip,2514 Byte
+Wizard Castle (Mz-07-Wiza)(Knight's Software)(Mz-X00).zip,9218 Byte
+Yahtzee (Ge)(Mz-X00).zip,6322 Byte

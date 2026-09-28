@@ -1,0 +1,426 @@
+<HTML>
+
+<HEAD>
+<TITLE>
+Anex86 : FAQ#1 
+</TITLE>
+
+<STYLE TYPE="text/css">
+H5 { color="#aaaaaa" link="#000055" vlink="550000" }
+</STYLE>
+
+
+</HEAD>
+
+<BODY text="#ffffff" bgcolor="#000044" link="#FFFFFF" vlink="#FFFFFF"><a name="top"></a>
+
+<H5>
+<HR>
+
+<A href="../ax/axfaq.htm">[FAQ</A>
+#1
+<A href="../ax/axfaq2.htm">#2</A>
+<A href="../ax/axfaq3.htm">#3]</A>
+<HR>
+</H5>
+<H3>
+FAQ#1
+</H3>
+
+<UL>
+<LI><A HREF="../ax/axfaq1.htm#himem">HIMEM.SYS が動かない</A>
+<LI><A HREF="../ax/axfaq1.htm#format">HDD の使い方</A>
+<LI><A HREF="../ax/axfaq1.htm#anex86qs">Anex86 の最小限の起動方法</A>
+<LI><A HREF="../ax/axfaq1.htm#anvfatqs">Anvfat の最小限の使い方</A>
+<LI><A HREF="../ax/axfaq1.htm#keyboard">キー入力がおかしい</A>
+<LI><A HREF="../ax/axfaq1.htm#soft">ソフトが起動しない</A>
+<LI><A HREF="../ax/axfaq1.htm#soft2">ソフトが動かない</A>
+<LI><A HREF="../ax/axfaq1.htm#extram">拡張メモリを必要とするソフトが動かない</A>
+<LI><A HREF="../ax/axfaq1.htm#fdd">PC-x86/PC-98x1 のディスクを読めない</A>
+<LI><A HREF="../ax/axfaq1.htm#dossys">必要なファイルがわからない</A>
+<LI><A HREF="../ax/axfaq1.htm#fdi">.fdi ファイルが作れない</A>
+<LI><A HREF="../ax/axfaq1.htm#mem">コンベンショナルメモリが足りない</A>
+<LI><A HREF="../ax/axfaq1.htm#sound">音が鳴らない</A>
+<LI><A href="../ax/axfaq1.htm#e86file">.e86 ファイルの使い方</A>
+<LI><A href="../ax/axfaq1.htm#protect">EPSON プロテクト</A>
+<LI><A href="../ax/axfaq1.htm#dispell">EPSON プロテクトの解除</A>
+<LI><A href="../ax/axfaq1.htm#prot2">プロテクト</A>
+</UL>
+
+<HR>
+
+<DL>
+
+<DT>
+<H3>
+<A NAME="himem">HIMEM.SYS が動かない</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+</H3>
+<DL>
+<DT>Anex86 v1.42 以上
+<DD>[Config]-[System]-[Ext-RAM] をチェックする。
+<DT>Anex86 v1.41 or v1.40
+<DD>anemem1m.e86 を使用する必要があります。
+<DD>できれば最新版を使用してください。
+<DT>Anex86 v1.3x 以前
+<DD>使用できません。
+</DL>
+
+<DT>
+<H3>
+<A NAME="format">HDD の使い方</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+</H3>
+<DD>MS-DOS で HDD を使うための一般的な？方法。
+<OL>
+<LI>MS-DOS のシステムディスク（.fdi ファイル）を用意する。
+<BR>システムの他に FORMAT.EXE FORMATHD.EXE が必要
+<LI>Anex86 を起動する。
+<LI>[New]-[Create Hard Disk Image File] で希望の容量の HDD（.hdi ファイル）を作成する。
+<LI>[Start] で Emulator をスタートする。
+<LI>Emulator 上の MS-DOS で FORMAT /H と入力する。
+<BR>ここで HDD に関してメッセージが出ても無視する。
+<LI>装置初期化を選択する。
+<BR>この処理には１分程度かかる。
+<LI>領域確保を選択する。全てデフォルトを選択し、終了を待つ。
+<LI>FORMAT を終了する。
+<LI>Emulator を再起動する。
+</OL>
+
+<DT>
+<H3>
+<A NAME="anex86qs">Anex86 の最小限の起動方法</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+</H3>
+<DD>
+<OL>
+<LI>Anex86 をダブルクリックして起動します。
+<LI>実機の MS-DOS システムディスクをドライブA に挿入して FDD1 の
+<BR>[New] ボタンで .fdi ファイルを作成します。
+<BR>できれば NEC MS-DOS3.3D/6.2 or EPSON MS-DOS を使用してください。
+<LI>[Start] を押します。
+<LI>NEC MS-DOS が起動しない場合は dispell を試してください。
+<BR>dispell はベクターを探してください。
+</OL>
+
+<DT>
+<H3>
+<A NAME="anvfatqs">Anvfat の最小限の使い方</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+</H3>
+<DD>
+<OL>
+<LI>Win98 なら anvfat.inf、Win95 なら anvfat95.inf を右クリックします。
+<LI>メニューから[インストール]を選択します。
+<LI>Windows を再起動します。
+<LI>拡張子 .hdi .fdi のファイルがアイコンで表示されたはずです。
+<BR>ダブルクリックすると .hdi .fdi が開きます。
+<BR>Anex86 を使うときは必ずすべての Window を閉じてください。
+<BR>ファイル／フォルダはファイルの上にドロップしないでください。
+<BR>未フォーマットの .hdi .fdi は表示できません。
+</OL>
+
+<DT>
+<H3>
+<A NAME="keyboard">キー入力がおかしい</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+</H3>
+
+<DD>
+<P>
+Anex86 はキーのスキャンコードを扱います。
+<BR>
+このため PC/AT の標準以外のキーボードでは問題を起こすことがあります。
+<BR>
+問題がある場合、
+<A href="../axm/axmkey.htm">[Config]-[Keyboard]</A>
+のキーボード関連の設定を変更してみてください。
+</P>
+
+<DT>
+<H3>
+<A NAME="soft">ソフトが起動しないとき</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+</H3>
+
+<DD>
+<DL>
+<DT>.fdi ファイルの作成失敗
+<DD>.fdi ファイルを作り直してみてください。
+<DD>別のディスクから作ってみてください。
+<DT>EPSON プロテクト
+<DD><A href="../ax/axfaq1.htm#protect">EPSON プロテクト</A> 
+<DT>プロテクト
+<DD>自力で何とかしてください。
+<DT>拡張メモリを必要とする場合
+<DD>
+<A HREF="../ax/axfaq1.htm#extram">拡張メモリを必要とするャtトが動かない</A> を参照。
+<DT>Anex86 のバグまたは未対応
+<DD>ごめんなさい
+</DL>
+
+<DT>
+<H3>
+<A NAME="soft2">ソフトが動かない</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+</H3>
+
+<DD>
+<DL>
+<DT>プロテクト
+<DD>自力で何とかしてください。
+<DT>音源関係
+<DD>追加モジュールを使っている場合は外してみる
+<DD>MIDI を使っている場合はモジュールを外してみる
+<DD>音を出すのをやめてみる
+<DT>拡張メモリを必要とする場合
+<DD>
+<A HREF="../ax/axfaq1.htm#extram">拡張メモリを必要とするャtトが動かない</A> を参照。
+<DT>Anex86 のバグまたは未対応
+<DD>ごめんなさい
+</DL>
+
+<DT>
+<H3>
+<A NAME="extram">拡張メモリを必要とするソフトが動かない</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+</H3>
+
+<DD>
+<P>
+<A href="../axm/axmsys.htm">[Config]-[System]</A>
+[Ext-RAM] をチェックしてください。
+</P>
+
+<DT>
+<H3>
+<A NAME="fdd">PC-x86/PC-98x1 のディスクを読めない</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+</H3>
+
+<DD>
+<DL>
+<DT>汎用ツールを使う
+<DD>汎用ツールで使えるものがあります。
+<DD>Anex86 はフロッピーディスクの単純なイメージも .fdi ファイルとして扱うことができます。
+<DD>ツールはベクター等で探してください。
+<DT>MS-DOS の場合
+<DD>実機で別のフォーマットのシステムディスクを作成することができます。
+<DT>3mode FDD を導入する
+<DD>...
+</DL>
+
+<DT>
+<H3>
+<A NAME="fdi">.fdi ファイルが作れない</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+</H3>
+
+<DD>
+<P>
+ディスクが Windows のエクスプローラで
+正常に読み書きできることを確認してください。
+<BR>
+既に３モードフロッピーディスクを使っている場合は
+ドライバ等の設定を見直してください。
+<BR>
+<A HREF="../ax/axfaq1.htm#fdd">PC-x86/PC-98x1 のディスクを読めない</A> を参照。
+<BR>
+プロテクトが掛かっていると .fdi の作成に失敗することがあります。
+</P>
+
+<DT>
+<H3>
+<A NAME="dossys">必要なファイルがわからない</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+</H3>
+
+<DD>
+<P>
+必要なファイルがわからない場合は
+MS-DOS のマスターディスクのディスク１を使ってください。
+<BR>
+念のためバックアップしてから使うことをお勧めします。
+<BR>
+最初にメニューが立ち上がりますが終了してください。
+<BR>
+通常、このディスクがあればフォーマットできます。
+</P>
+
+<DT>
+<H3>
+<A NAME="mem">コンベンショナルメモリが足りない</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+</H3>
+
+<DD>
+<DL>
+<DT>古い MS-DOS を使う
+<DD>同じ条件ならメモリは少なくてすみます。
+<DD>config.sys の例
+
+<PRE>
+files=20
+buffers=1
+</PRE>
+
+<DT>新しい MS-DOS を使う
+<DD>HIMEM.SYS を組み込みます。
+<DD>HIMEM.SYS を使うときは必ず 
+<A href="../axm/axmsys.htm">[Config]-[System]</A>
+[Ext-RAM] をチェックしてください。
+<DD>config.sys の例
+<PRE>
+files=20
+buffers=1
+device=a:\himem.sys
+dos=high
+</PRE>
+</DL>
+
+<DT>
+<H3>
+<A NAME="sound">音が鳴らない</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+</H3>
+
+<DD>
+<DL>
+<DT>設定
+<DD>
+<A href="../axm/axmwave.htm">[Config]-[Wave]</A>
+を確認してください。
+<DD>
+<A href="../axm/axmsnd.htm">[Config]-[Sound]</A>
+を確認してください。
+<DT>ソフトの未対応
+<DD>音源は OPN ( YM-2203 )、26K 音源相当です。
+<DT>Windows の問題
+<DD>Anex86 は Windows の Wave を使用します。
+<DD>これが使用できない場合には音はなりません。
+<DD>Windows の設定を確認してください。
+</DL>
+
+<DT>
+<H3>
+<A NAME="e86file">.e86 ファイルの使い方</A>
+</H3>
+<DD>
+　まず、ダウンロードして解凍してください。
+解凍すると拡張子 .e86 のファイルができます。
+これを anex86.exe と同じディレクトリに置いてください。
+anex86.exe が起動時に自動的に読み込みます。
+<DD>
+　anex86.exe は必ず .e86 と同じバージョンのものを使用してください。
+バージョンはファイルのプロパティで確認できます。
+
+<DT>
+<H3>
+<A NAME="protect">EPSON プロテクト</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+</H3>
+
+<DD>
+<P>
+EPSON プロテクトとは EPSON の互換機でソフトが
+動かないようにするために掛けられたプロテクトのことです。
+<BR>
+Anex86 もこのプロテクトに引っかかります。
+</P>
+
+<DD>
+<P>
+ソフトが動かない場合（特に NEC ）は疑ってみてください。
+<BR>
+なお当然ですが EPSON のソフトにこのプロテクトはありません。
+<BR>
+以下、EPSON プロテクトが掛かっていると思われるソフトを
+いくつか上げておきます。
+<UL>
+<LI>NEC MS-DOS 3.3
+<LI>NEC MS-DOS 5.0
+<LI>NEC n88basic
+</UL>
+</P>
+
+<DT>
+<H3>
+<A NAME="dispell">EPSON プロテクトの解除</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+</H3>
+
+<DD>
+<P>
+EPSON プロテクトを解除するためには dispell を
+使うと便利です。
+<BR>
+このツールはベクターにあります。
+<BR>
+MS-DOS 用のツールなので
+MS-DOS が走っていれば PC-x86/PC-98x1 の必要はないようです。
+</P>
+
+<DD>
+<P>
+例えばドライブ A に挿入したフロッピーディスクの
+ EPSON プロテクトを解除するときは
+<PRE>
+dispell /a a:
+</PRE>
+と入力します。
+<BR>
+dispell はディスクの内容を書き換えます。
+<BR>
+バックアップを取ってから行ってください。
+</P>
+
+<DT>
+<H3>
+<A NAME="prot2">ソフトのプロテクト</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+</H3>
+
+<DD>
+<P>
+Anex86 ではプロテクトのかかったソフトは動きません。
+</P>
+
+<P>
+プロテクトがかかっているソフトの見分け方。
+</P>
+
+<DL>
+<DT>MS-DOS の DISKCOPY コマンドでディスクをコピーしてみる。
+<DD>動かないものは多分プロテクトがかかっています。
+<DD>この方法が面倒ですが確実です。
+<DT>不正コピー禁止マーク。
+<DD>このマークがあればプロテクトがかかっているはずです。
+<DT>メーカ名
+<DD>プロテクトをかけるメーカは決まっています。
+</DL>
+
+</DL>
+<H5>
+<HR>
+<A href="../index.htm">[HomePage]</A>
+[Anex86]
+<A href="../axm/axmindex.htm">[Manual]</A>
+
+<A href="../../../hpcgi2.nifty.com/ans/bbs_read.cgi">[BBS]</A>
+
+<A href="../lnk/axlink.htm">[Link]</A>
+<BR>
+<A href="../ax/axdown.htm">[Download]</A>
+
+<A href="../ax/axfaq.htm">[FAQ</A>
+#1
+<A href="../ax/axfaq2.htm">#2</A>
+<A href="../ax/axfaq3.htm">#3]</A>
+<HR>
+</H5>
+<DIV ALIGN=RIGHT>
+<IMG src="../../../hpcounter2.nifty.com/cgi-bin/counter.cgi7u=JAH03624&P=21&c=8">
+
+</DIV>
+
+</HTML>

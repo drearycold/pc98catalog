@@ -1,0 +1,208 @@
+(エミュレータ) ゲームボーイアドバンス(gba) ROM詰め合わせ① (0001～).zip
+ed3eaa78304716fd337b2f9edc85565c・8380f56acbad88b5295e37f79931e4eb382ea476
+327,384,149
+ファイル数合計 = 100 個
+ファイルサイズ合計 = 327366775 Byte
+
+:	0001 - F-Zero (J).zip
+:	0002 - Super Mario Advance (J).zip
+:	0003 - Rockman EXE (J).zip
+:	0004 - Kuru Kuru Kururin (J).zip
+:	0005 - Mr Driller 2 (J).zip
+:	0006 - Chu Chu Rocket (J).zip
+:	0007 - Castlevania - Circle of the Moon (J).zip
+:	0008 - Advance GTA (J).zip
+:	0009 - Wai Wai Racing (J).zip
+:	0010 - Super Dodgeball Advance (J).zip
+:	0011 - Pinobee - Quest of Heart (J).zip
+:	0012 - Powerful Pro Baseball 3 (J).zip
+:	0013 - Napoleon (J).zip
+:	0014 - Top Gear All-Japan GT Championship (J).zip
+:	0015 - Fire Pro Wrestling A (J).zip
+:	0016 - Tweety & The Magical Jewel (J).zip
+:	0017 - Golf Master (J).zip
+:	0018 - Winning Post (J).zip
+:	0019 - Silent Hill Play Novel (J).zip
+:	0020 - Yu-Gi-Oh! Dungeondice Monsters (J).zip
+:	0021 - I Am An Air Traffic Controller (J).zip
+:	0022 - J-League Pocket (J).zip
+:	0023 - Momotaro Festival (J).zip
+:	0024 - Monster Guardians (J).zip
+:	0025 - Super Mario Advance (U).zip
+:	0026 - Final Fight One (J).zip
+:	0027 - Bomberman Story (J).zip
+:	0028 - Iridion 3D (U).zip
+:	0029 - Pinobee - Wings of Adventure (U).zip
+:	0030 - Ready 2 Rumble Boxing - Round 2 (U).zip
+:	0031 - Konami Krazy Racers (U).zip
+:	0032 - Castlevania - Circle of the Moon (E).zip
+:	0033 - Tony Hawk's Pro Skater 2 (U).zip
+:	0034 - GT Championship Racing (U).zip
+:	0035 - Namco Museum Advanced (U).zip
+:	0036 - Chu Chu Rocket (U).zip
+:	0037 - Earthworm Jim (U).zip
+:	0038 - Pitfall - The Mayan Adventure (U).zip
+:	0039 - Army Men Advance (U).zip
+:	0040 - Super Dodgeball Advance (U).zip
+:	0041 - F-Zero - Maximum Velocity (U).zip
+:	0042 - Fire Pro Wrestling (U).zip
+:	0043 - Konami Krazy Racers (E).zip
+:	0044 - Ready 2 Rumble Boxing - Round 2 (E).zip
+:	0045 - Castlevania - Circle of the Moon (U).zip
+:	0046 - Rayman Advance (U).zip
+:	0047 - Tactics Ogre - Knight of Lodis (J).zip
+:	0048 - Kuru Kuru Kururin (E).zip
+:	0049 - Top Gear GT Championship (E).zip
+:	0050 - Super Mario Advance (E).zip
+:	0051 - Rayman Advance (E).zip
+:	0052 - Tweety & The Magic Gems (E).zip
+:	0053 - Tony Hawk's Pro Skater 2 (G).zip
+:	0054 - Yushun Rhapsody (J).zip
+:	0055 - Choro Q Advance (J).zip
+:	0056 - Toy Robot Force (J).zip
+:	0057 - Hot Potato (U).zip
+:	0058 - Bomberman Tournament (U).zip
+:	0059 - Tony Hawk's Pro Skater 2 (F).zip
+:	0060 - Breath of Fire (J).zip
+:	0061 - Yugioh Duel Monsters 5 Expert I (J).zip
+:	0062 - Super Street Fighter II X Revival (J).zip
+:	0063 - Mahjong Detective (J).zip
+:	0064 - Pac-Man Collection (U).zip
+:	0065？_-_Tweety_&_The_Magic_Gems_(Fre).zip
+:	0066 - EX Monopoly (J).zip
+:	0067 - Our Breeding Series - My Beetle (J).zip
+:	0068 - Get Backers - Jigoku no Sukaramushu (J).zip
+:	0069 - Space Hexcite X (J).zip
+:	0070 - Klonoa - Empire of Dreams (J).zip
+:	0071 - Mario Kart Advance (J).zip
+:	0072 - Doraemon Midori No Wakusei (J).zip
+:	0073 - Jurassic Park 3 - DNA Factor (U).zip
+:	0074 - Muscular Ranking (J).zip
+:	0075 - JGTO Golf Master Mobile (J).zip
+:	0076 - Zero Tours (J).zip
+:	0077 - Star Communicator (J).zip
+:	0078 - Mobile Pro Baseball (J).zip
+:	0079 - Ougon no Taiyo (Golden Sun) (J).zip
+:	0080 - Dokapon Q Monster Hunter (J).zip
+:	0081 - Our Breeding Series - My Ameba (J).zip
+:	0082 - Jurassic Park 3 - Park Builder (J).zip
+:	0083 - Final Fight One (E).zip
+:	0084 - Super Black Bass Advance (J).zip
+:	0085 - Meine Liebe (Angel League) (J).zip
+:	0086 - Mario Kart Super Circuit (U).zip
+:	0087 - Extreme Mahjong Deluxe - Terminator 21 (J).zip
+:	0088 - Fortress (U).zip
+:	0089 - Jurassic Park 3 - DNA Factor (E).zip
+:	0090 - Wario Land 4 (J).zip
+:	0091 - Tweety & The Magic Gems (G).zip
+:	0092 - Jurassic Park 3 - Advanced Action (J).zip
+:	0093 - ESPN Final Round Golf 2002 (U).zip
+:	0094 - Tang Tang (U).zip
+:	0095 - Advance Wars (U).zip
+:	0096 - F-14 Tomcat (U).zip
+:	0097 - Love Hina Advance (J).zip
+:	0098 - Men in Black - The Series (E).zip
+:	0099 - ESPN Final Round Golf (E).zip
+:	0100 - Medarot Navi - Kuwagata Version (J).zip
+
+各ファイルのサイズ
+0001 - F-Zero (J).zip,2200114 Byte
+0002 - Super Mario Advance (J).zip,2179801 Byte
+0003 - Rockman EXE (J).zip,3539395 Byte
+0004 - Kuru Kuru Kururin (J).zip,1828115 Byte
+0005 - Mr Driller 2 (J).zip,2389717 Byte
+0006 - Chu Chu Rocket (J).zip,2458658 Byte
+0007 - Castlevania - Circle of the Moon (J).zip,3997415 Byte
+0008 - Advance GTA (J).zip,4998880 Byte
+0009 - Wai Wai Racing (J).zip,1783925 Byte
+0010 - Super Dodgeball Advance (J).zip,1217286 Byte
+0011 - Pinobee - Quest of Heart (J).zip,3263090 Byte
+0012 - Powerful Pro Baseball 3 (J).zip,3582275 Byte
+0013 - Napoleon (J).zip,4067941 Byte
+0014 - Top Gear All-Japan GT Championship (J).zip,2331668 Byte
+0015 - Fire Pro Wrestling A (J).zip,4490757 Byte
+0016 - Tweety & The Magical Jewel (J).zip,1416491 Byte
+0017 - Golf Master (J).zip,6254326 Byte
+0018 - Winning Post (J).zip,1871330 Byte
+0019 - Silent Hill Play Novel (J).zip,5859315 Byte
+0020 - Yu-Gi-Oh! Dungeondice Monsters (J).zip,6535527 Byte
+0021 - I Am An Air Traffic Controller (J).zip,4307662 Byte
+0022 - J-League Pocket (J).zip,4438960 Byte
+0023 - Momotaro Festival (J).zip,3088629 Byte
+0024 - Monster Guardians (J).zip,3048311 Byte
+0025 - Super Mario Advance (U).zip,2176312 Byte
+0026 - Final Fight One (J).zip,2474528 Byte
+0027 - Bomberman Story (J).zip,2500110 Byte
+0028 - Iridion 3D (U).zip,2556116 Byte
+0029 - Pinobee - Wings of Adventure (U).zip,3241424 Byte
+0030 - Ready 2 Rumble Boxing - Round 2 (U).zip,2932322 Byte
+0031 - Konami Krazy Racers (U).zip,1761462 Byte
+0032 - Castlevania - Circle of the Moon (E).zip,3976950 Byte
+0033 - Tony Hawk's Pro Skater 2 (U).zip,5760070 Byte
+0034 - GT Championship Racing (U).zip,5016312 Byte
+0035 - Namco Museum Advanced (U).zip,1904730 Byte
+0036 - Chu Chu Rocket (U).zip,2384089 Byte
+0037 - Earthworm Jim (U).zip,2502756 Byte
+0038 - Pitfall - The Mayan Adventure (U).zip,1926106 Byte
+0039 - Army Men Advance (U).zip,1434410 Byte
+0040 - Super Dodgeball Advance (U).zip,1169621 Byte
+0041 - F-Zero - Maximum Velocity (U).zip,2189415 Byte
+0042 - Fire Pro Wrestling (U).zip,4445021 Byte
+0043 - Konami Krazy Racers (E).zip,1770603 Byte
+0044 - Ready 2 Rumble Boxing - Round 2 (E).zip,2945956 Byte
+0045 - Castlevania - Circle of the Moon (U).zip,3976827 Byte
+0046 - Rayman Advance (U).zip,3744250 Byte
+0047 - Tactics Ogre - Knight of Lodis (J).zip,4506143 Byte
+0048 - Kuru Kuru Kururin (E).zip,1847789 Byte
+0049 - Top Gear GT Championship (E).zip,2267750 Byte
+0050 - Super Mario Advance (E).zip,2176689 Byte
+0051 - Rayman Advance (E).zip,3744814 Byte
+0052 - Tweety & The Magic Gems (E).zip,1442291 Byte
+0053 - Tony Hawk's Pro Skater 2 (G).zip,5766906 Byte
+0054 - Yushun Rhapsody (J).zip,3758374 Byte
+0055 - Choro Q Advance (J).zip,3197085 Byte
+0056 - Toy Robot Force (J).zip,5534701 Byte
+0057 - Hot Potato (U).zip,1540446 Byte
+0058 - Bomberman Tournament (U).zip,2489323 Byte
+0059 - Tony Hawk's Pro Skater 2 (F).zip,5763517 Byte
+0060 - Breath of Fire (J).zip,1836118 Byte
+0061 - Yugioh Duel Monsters 5 Expert I (J).zip,6088184 Byte
+0062 - Super Street Fighter II X Revival (J).zip,5034001 Byte
+0063 - Mahjong Detective (J).zip,2465133 Byte
+0064 - Pac-Man Collection (U).zip,6724896 Byte
+0065？_-_Tweety_&_The_Magic_Gems_(Fre).zip,1422208 Byte
+0066 - EX Monopoly (J).zip,1804197 Byte
+0067 - Our Breeding Series - My Beetle (J).zip,2759242 Byte
+0068 - Get Backers - Jigoku no Sukaramushu (J).zip,2354684 Byte
+0069 - Space Hexcite X (J).zip,3148652 Byte
+0070 - Klonoa - Empire of Dreams (J).zip,2543959 Byte
+0071 - Mario Kart Advance (J).zip,2320882 Byte
+0072 - Doraemon Midori No Wakusei (J).zip,2716073 Byte
+0073 - Jurassic Park 3 - DNA Factor (U).zip,3429483 Byte
+0074 - Muscular Ranking (J).zip,4493068 Byte
+0075 - JGTO Golf Master Mobile (J).zip,6238258 Byte
+0076 - Zero Tours (J).zip,2616280 Byte
+0077 - Star Communicator (J).zip,2073600 Byte
+0078 - Mobile Pro Baseball (J).zip,2868203 Byte
+0079 - Ougon no Taiyo (Golden Sun) (J).zip,7166443 Byte
+0080 - Dokapon Q Monster Hunter (J).zip,3223198 Byte
+0081 - Our Breeding Series - My Ameba (J).zip,2919041 Byte
+0082 - Jurassic Park 3 - Park Builder (J).zip,2672944 Byte
+0083 - Final Fight One (E).zip,2481167 Byte
+0084 - Super Black Bass Advance (J).zip,1491421 Byte
+0085 - Meine Liebe (Angel League) (J).zip,5459661 Byte
+0086 - Mario Kart Super Circuit (U).zip,2183780 Byte
+0087 - Extreme Mahjong Deluxe - Terminator 21 (J).zip,3716975 Byte
+0088 - Fortress (U).zip,1840696 Byte
+0089 - Jurassic Park 3 - DNA Factor (E).zip,3531974 Byte
+0090 - Wario Land 4 (J).zip,3940885 Byte
+0091 - Tweety & The Magic Gems (G).zip,1423228 Byte
+0092 - Jurassic Park 3 - Advanced Action (J).zip,4561588 Byte
+0093 - ESPN Final Round Golf 2002 (U).zip,6034334 Byte
+0094 - Tang Tang (U).zip,850939 Byte
+0095 - Advance Wars (U).zip,2427074 Byte
+0096 - F-14 Tomcat (U).zip,1382268 Byte
+0097 - Love Hina Advance (J).zip,6391950 Byte
+0098 - Men in Black - The Series (E).zip,1071662 Byte
+0099 - ESPN Final Round Golf (E).zip,6033256 Byte
+0100 - Medarot Navi - Kuwagata Version (J).zip,5650364 Byte

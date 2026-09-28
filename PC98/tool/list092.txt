@@ -1,0 +1,868 @@
+(pc6)(pc6001)(pc6601)p6シリーズのゲーム.zip
+17c17271f0fda0ceee78e1e6be5c3999・e4db52cb9efddea344bc8652c0c746534d6ff5ba
+5,104,916
+ファイル数合計 = 362 個
+ファイルサイズ合計 = 8808207 Byte
+
+
+:	有名ソフトだが欠番.txt
+:	！！！その他ｐ６以外のゲームが混じっている。
+:	:	basic-blank.d88
+:	:	ハドソン ベストヒット集3.D88
+:	:	ハドソン ベストヒット集3.TXT
+:	:	PIOPIO
+:	:	:	PIOPIO.N80
+:	:	:	PIOPIO.TXT
+:	:	powmj2_m
+:	:	:	POWMJ2.TXT
+:	:	？？？NORMANDY
+:	:	:	normandy.n80
+:	:	？？？mugen1t
+:	:	:	MUGEN1T.TXT
+:	:	？？？onyx2t
+:	:	:	ONYX2T.TXT
+:	:	？？？原宿AFTeR DARK MANUAL？Ｐ６ゲームでない？
+:	:	:	AFTeRDARK_man.txt
+:	Ｐ６のユーティリティ
+:	:	PC-6601 ユーティリティ・ディスク
+:	:	:	PC-6601 ユーティリティ・ディスク.DSK
+:	:	:	PC-6601 ユーティリティ・ディスク.TXT
+:	:	PC-6601 日本語ワードプロセッサ
+:	:	:	PC-6601 日本語ワードプロセッサ.DSK
+:	:	:	PC-6601 日本語ワードプロセッサ.TXT
+:	:	:	WORDPRO.TXT
+:	:	p6_rom
+:	:	:	BASICROM.62
+:	:	:	CGROM60.62
+:	:	:	CGROM60M.62
+:	:	:	KANJIROM.62
+:	:	:	VOICEROM.62
+:	:	ＰＣ－６００１シリーズ用ディスクフォーマットプログラム Ver 1.0
+:	:	:	FORMAT.P6
+:	:	:	LIST.TXT
+:	:	:	README.TXT
+:	ｐｃ６バイオス
+:	:	60MK2_ROM
+:	:	:	BASICROM.62
+:	:	:	CGROM60.62
+:	:	:	CGROM60M.62
+:	:	:	KANJIROM.62
+:	:	:	VOICEROM.62
+:	:	60_ROM
+:	:	:	BASICROM.60
+:	:	:	CGROM60.60
+:	:	66SR_ROM
+:	:	:	basicrom.68
+:	:	:	cgrom60.68
+:	:	:	cgrom66.68
+:	:	:	kanjirom.68
+:	:	:	sysrom2.68
+:	:	:	voicerom.68
+:	あ行
+:	:	ＡＸシリーズ
+:	:	:	AX_01ブロックくずし
+:	:	:	:	ARABIA.CAS
+:	:	:	:	BARRI.CAS
+:	:	:	:	BLOCK.CAS
+:	:	:	:	DEMO.CAS
+:	:	:	:	README.TXT
+:	:	:	:	SIMON.CAS
+:	:	:	AX_02スティールエイリアン
+:	:	:	:	DEMO.CAS
+:	:	:	:	DUAL.CAS
+:	:	:	:	NOSTRO.CAS
+:	:	:	:	README.TXT
+:	:	:	:	STEAL.CAS
+:	:	:	:	WOODS.CAS
+:	:	:	AX_03
+:	:	:	:	Cosmic.cas
+:	:	:	:	Demo.cas
+:	:	:	:	Inter.cas
+:	:	:	:	Othelo.cas
+:	:	:	:	README.TXT
+:	:	:	:	Slot.cas
+:	:	:	AX_04カーレース
+:	:	:	:	BLACK.CAS
+:	:	:	:	CAR.CAS
+:	:	:	:	DEMO.CAS
+:	:	:	:	FOOT.CAS
+:	:	:	:	README.TXT
+:	:	:	:	SHUT.CAS
+:	:	:	AX_05
+:	:	:	:	Olion4.cas
+:	:	:	:	Orion3.cas
+:	:	:	:	Quest3.cas
+:	:	:	:	Quest4.cas
+:	:	:	:	ax5.txt
+:	:	:	AX_06
+:	:	:	:	DEMO.CAS
+:	:	:	:	HEADON.CAS
+:	:	:	:	MASTER.CAS
+:	:	:	:	POWER.CAS
+:	:	:	:	README.TXT
+:	:	:	:	SPACE.CAS
+:	:	:	AX_07
+:	:	:	:	ASTERO.CAS
+:	:	:	:	AX7DEMO.CAS
+:	:	:	:	GALAXY.CAS
+:	:	:	:	GODHAR.CAS
+:	:	:	:	PORICE.CAS
+:	:	:	:	README.TXT
+:	:	:	AX_08
+:	:	:	:	AX-8.txt
+:	:	:	:	Galaxy1.cas
+:	:	:	:	Galaxy2.cas
+:	:	:	AX_09
+:	:	:	:	ax9demo.cas
+:	:	:	:	bound.cas
+:	:	:	:	fls.cas
+:	:	:	:	readme.txt
+:	:	:	:	sky.cas
+:	:	:	AX_10
+:	:	:	:	AX-10.txt
+:	:	:	:	outlaw.cas
+:	:	:	:	pop.cas
+:	:	:	:	risu.cas
+:	:	:	:	seven.cas
+:	:	ＥＧＧＹ
+:	:	:	EGGY.CAS
+:	:	:	EGGY.TXT
+:	:	:	EGGY
+:	:	:	:	EGGY.CAS
+:	:	:	:	EGGY.TXT
+:	:	アースバウンド
+:	:	:	EARTH.CAS
+:	:	:	EARTH.TXT
+:	:	:	EARTH_T.TXT
+:	:	:	アースバウンド
+:	:	:	:	Earth Bound.CAS
+:	:	:	:	Earth Bound.TXT
+:	:	アーム・レスリング
+:	:	:	arm.p6
+:	:	:	arm.txt
+:	:	アイスブロック
+:	:	:	ICEBLOCK.CAS
+:	:	:	ICEBLOCK.TXT
+:	:	:	新しいフォルダ
+:	:	:	:	ICE BLOCK.CAS
+:	:	:	:	ICE BLOCK.TXT
+:	:	アスピック
+:	:	:	アスピック a.cas
+:	:	:	アスピック b.cas
+:	:	:	アスピック.txt
+:	:	アマゾン
+:	:	:	Amazon, The (19xx)(-)(Mode 2, Page 3).Cas
+:	:	:	Amazon, The (19xx)(-)(Mode 2, Page 3).txt
+:	:	アメリカントラック
+:	:	:	AMETRA.CAS
+:	:	:	AMETRA.TXT
+:	:	ヴォルガード
+:	:	:	ヴォルガード.cas
+:	:	:	ヴォルガード.txt
+:	:	海辺の物語'（自作）
+:	:	:	umibe.txt
+:	:	:	umibe1.p6
+:	:	:	umibe2.p6
+:	:	表参道アドベンチャー
+:	:	:	ADV1.N80
+:	:	:	ADV1.TXT
+:	か行
+:	:	くるくる
+:	:	:	kurukuru.P6
+:	:	:	kurukuru.txt
+:	:	:	kurukuru_readme.txt
+:	:	:	readme.txt
+:	:	キャッスル
+:	:	:	ザ・キャッスル.cas
+:	:	:	ザ・キャッスル.txt
+:	:	キャッスルエクセレント
+:	:	:	ザ・キャッスルエクセレント.cas
+:	:	:	ザ・キャッスルエクセレント.txt
+:	:	ギャラクシアン
+:	:	:	GALAXIAN.cas
+:	:	:	GALAXIAN.txt
+:	:	ギャラックコンボイ
+:	:	:	GALACTIC COMBOI.p6
+:	:	:	GALACTIC COMBOI.txt
+:	:	クリスの愛の旅立ち
+:	:	:	クリスの愛の旅立ち.cas
+:	:	:	クリスの愛の旅立ち.txt
+:	:	グロブダー
+:	:	:	grobda.cas
+:	:	:	グロブダー.txt
+:	:	コロニー・オデッセイ 冒険編
+:	:	:	コロニー・オデッセイ 冒険編 1.DSK
+:	:	:	コロニー・オデッセイ 冒険編 2.DSK
+:	:	:	コロニー・オデッセイ 冒険編 3.DSK
+:	:	:	コロニー・オデッセイ 冒険編.TXT
+:	:	ゴルゴ１３
+:	:	:	GOLGO13.N80
+:	:	:	GOLGO13.TXT
+:	:	北の脅威
+:	:	:	北の脅威.CAS
+:	:	:	北の脅威.TXT
+:	さ行
+:	:	ずっこけ橋
+:	:	:	ずっこけ橋.p6
+:	:	:	ずっこけ橋.txt
+:	:	それゆけくるくる
+:	:	:	それゆけくるくる.P6
+:	:	:	それゆけくるくる.txt
+:	:	サラダの国のトマト姫
+:	:	:	LOAD.txt
+:	:	:	TOMATO_1.CAS
+:	:	サンダーフォース
+:	:	:	サンダーフォース.cas
+:	:	:	サンダーフォース.txt
+:	:	シューティングインベーダー
+:	:	:	SHOOTING INVADER.p6
+:	:	:	SHOOTING INVADER.txt
+:	:	ジェルダ
+:	:	:	Jelda.cas
+:	:	:	Jelda.txt
+:	:	スーパーボール
+:	:	:	SUPER BALL.p6
+:	:	:	SUPER BALL.txt
+:	:	:	super.txt
+:	:	スターアーサー伝説ＩＩ　暗黒星雲
+:	:	:	ANKOKU.TXT
+:	:	:	ANKOKU1.CAS
+:	:	:	ANKOKU2.CAS
+:	:	:	ANKOKU2B.CAS
+:	:	:	ANKOKU3.CAS
+:	:	:	ANKOKU3B.CAS
+:	:	スターアーサー伝説ＩＩＩ　テラ４００１
+:	:	:	TERA4001.TXT
+:	:	:	TERA4001_1A.P6
+:	:	:	TERA4001_1B.P6
+:	:	:	TERA4001_2.P6
+:	:	:	TERA4001_3.P6
+:	:	スターアーサー伝説Ⅰ 惑星メフィウス
+:	:	:	MEPHI1.CAS
+:	:	:	MEPHI2_A.CAS
+:	:	:	MEPHI2_B.CAS
+:	:	:	MEPHI3_A.CAS
+:	:	:	MEPHI3_B.CAS
+:	:	:	MEPHIUS.TXT
+:	:	スターコマンドΣ
+:	:	:	1.JPG
+:	:	:	10.JPG
+:	:	:	11.JPG
+:	:	:	12.JPG
+:	:	:	13.JPG
+:	:	:	14.JPG
+:	:	:	2.JPG
+:	:	:	3.JPG
+:	:	:	4.JPG
+:	:	:	5.JPG
+:	:	:	6.JPG
+:	:	:	7.JPG
+:	:	:	8.JPG
+:	:	:	9.JPG
+:	:	:	biorms.P6
+:	:	:	command.P6
+:	:	:	labelm.P6
+:	:	:	readme.txt
+:	:	:	satan1.P6
+:	:	:	satan2.P6
+:	:	:	t_ment.P6
+:	:	:	vartst.P6
+:	:	スターデストロイヤー
+:	:	:	スターデストロイヤー.cas
+:	:	:	スターデストロイヤー.txt
+:	:	スターライトアドベンチャー
+:	:	:	STRLGHT1.T88
+:	:	:	STRLGHT1.TXT
+:	:	スターレッカー
+:	:	:	STARWR~1.CAS
+:	:	:	STARWR~1.TXT
+:	:	ストーンボール
+:	:	:	ston.cas
+:	:	:	ston.txt
+:	:	:	ストーンボール.txt
+:	:	スペースインベーダ
+:	:	:	SPACE INVERDERS.cas
+:	:	:	SPACE INVERDERS.txt
+:	:	スペースハリアー
+:	:	:	README.TXT
+:	:	:	SPACE.CAS
+:	:	水道小僧
+:	:	:	SUIDOU.CAS
+:	:	:	SUIDOU.TXT
+:	:	聖なる剣
+:	:	:	聖なる剣 マニュアル.TXT
+:	:	:	聖なる剣.CAS
+:	:	:	聖なる剣.TXT
+:	:	頭脳４９８９
+:	:	:	頭脳4989 P6.cas
+:	:	:	頭脳4989.cas
+:	:	:	頭脳4989.txt
+:	た行
+:	:	ちゃっくんぽっぷ
+:	:	:	CHACK_N.CAS
+:	:	:	README.TXT
+:	:	:	チャックンポップ
+:	:	:	:	CHACK'N POP.CAS
+:	:	:	:	CHACK'N POP.TXT
+:	:	タイニーゼビウス
+:	:	:	README.TXT
+:	:	:	TINYXEV.CAS
+:	:	タイニーゼビウス２
+:	:	:	README.TXT
+:	:	:	TINYXE2.CAS
+:	:	テ☆リス for pc6001
+:	:	:	T1.TXT
+:	:	:	T1.WAV
+:	:	:	T2.TXT
+:	:	:	T2.WAV
+:	:	:	T3.TXT
+:	:	:	T3.WAV
+:	:	:	T_PC6001.DOC
+:	:	テイクオフ（自作）
+:	:	:	takeoff.p6
+:	:	:	takeoff.txt
+:	:	デゼニランド
+:	:	:	デゼニランド 1.cas
+:	:	:	デゼニランド 2.cas
+:	:	:	デゼニランド 3.cas
+:	:	:	デゼニランド 4.cas
+:	:	:	デゼニランド 5.cas
+:	:	:	デゼニランド.txt
+:	:	デンジャージャングル
+:	:	:	DANGER JUNGLE.p6
+:	:	:	DANGER JUNGLE.txt
+:	:	デンジャラス
+:	:	:	Danger (19xx)(-)(Mode 2 Page 2).P6
+:	:	トイレットアドベンチャー
+:	:	:	toilet_readme.txt
+:	:	:	toiletadventure.cas
+:	:	:	toiletadventure.txt
+:	:	:	ﾄｲﾚｯﾄADV.cas
+:	:	トリックボーイ
+:	:	:	トリックボーイ.cas
+:	:	:	トリックボーイ.txt
+:	:	トリトーン
+:	:	:	TRITON.CAS
+:	:	:	TRITON.TXT
+:	:	七夕（自作）
+:	:	:	tanabata.txt
+:	:	:	tanabata1.p6
+:	:	:	tanabata2.p6
+:	:	大脱走
+:	:	:	大脱走.CAS
+:	:	:	大脱走.TXT
+:	:	投資ゲーム
+:	:	:	TOUSI.N80
+:	:	:	TOUSI.TXT
+:	な行
+:	:	ナナちゃんの禁じられた遊び
+:	:	:	NanaVoice.wav
+:	:	:	ナナちゃんの禁じられた遊び MK2.cas
+:	:	:	ナナちゃんの禁じられた遊び P6.cas
+:	:	:	ナナちゃんの禁じられた遊び.txt
+:	:	信長の野望
+:	:	:	信長の野望.cas
+:	:	:	信長の野望.txt
+:	は行
+:	:	Panzerspitze
+:	:	:	PANZERSPITZE.p6
+:	:	:	PANZERSPITZE.txt
+:	:	Ｆｉｅｌｄ　Ａｒｍｙ
+:	:	:	F_ARMY.N80
+:	:	:	F_ARMY.TXT
+:	:	は～りぃふぉっくす
+:	:	:	H_FOX1.CAS
+:	:	:	H_FOX1.TXT
+:	:	は～りぃふぉっくす　雪の魔王編
+:	:	:	H_FOX2.CAS
+:	:	:	H_FOX2.TXT
+:	:	ハイドライド
+:	:	:	HYDLIDE.CAS
+:	:	:	README.TXT
+:	:	:	ハイドライド
+:	:	:	:	HYDLIDE.CAS
+:	:	:	:	HYDLIDE.TXT
+:	:	バイタル　ランプ（自作）
+:	:	:	vital.p6
+:	:	:	vital.txt
+:	:	パックマン
+:	:	:	PAC-MAN.cas
+:	:	:	PAC-MAN.txt
+:	:	パンチボールマリオブラザーズ（やり方不明）
+:	:	:	Punchball Mario (1983)(Nintendo)(Mode 5, Page 4).Cas
+:	:	:	パンチボールマリオブラザース.txt
+:	:	ピラミッド２
+:	:	:	PYRAMID2.CAS
+:	:	:	README.TXT
+:	:	フォルツ（自作ゲーム）
+:	:	:	forts.txt
+:	:	:	forts1.p6
+:	:	:	forts2.p6
+:	:	:	forts_readme.txt
+:	:	フラッピー
+:	:	:	FLAPPY.CAS
+:	:	:	FLAPPY.TXT
+:	:	:	FLAPPY
+:	:	:	:	FLAPPY.CAS
+:	:	:	:	FLAPPY.TXT
+:	:	フロントライン
+:	:	:	frntline.cas
+:	:	:	フロントライン.txt
+:	:	ブラック・オニキス
+:	:	:	ONYX.CAS
+:	:	:	ONYX.TXT
+:	:	ブレイク・スルー Break Through
+:	:	:	BREAK.CAS
+:	:	:	BREAK.TXT
+:	:	:	ブレイクスルー
+:	:	:	:	BREAK.CAS
+:	:	:	:	BREAK.TXT
+:	:	プラズマライン
+:	:	:	Plazma Line (19xx)(-)(Mode 5, Page 3).Cas
+:	:	:	プラズマライン.txt
+:	:	ホームランキング（自作）
+:	:	:	homerun.p6
+:	:	:	homerun.txt
+:	:	ボコスカウォーズ
+:	:	:	BOKO60.CAS
+:	:	:	BOKO60.TXT
+:	:	飛車
+:	:	:	飛車.CAS
+:	:	:	飛車.TXT
+:	ま行
+:	:	MIX MIX
+:	:	:	MIX MIX.P6
+:	:	:	MIX MIX.txt
+:	:	マグネチック・フィールド
+:	:	:	マグネチック・フィールド.CAS
+:	:	:	マグネチック・フィールド.TXT
+:	:	ミステリーハウス
+:	:	:	ミステリーハウス1.cas
+:	:	:	ミステリーハウス1.txt
+:	:	ミステリーハウス２
+:	:	:	ミステリーハウス2.CAS
+:	:	:	ミステリーハウス2.TXT
+:	や行
+:	:	野球狂
+:	:	:	野球狂.cas
+:	:	:	野球狂.txt
+:	ら行
+:	:	ライツアウト
+:	:	:	Lights Out (19xx)(Page 1).cas
+:	:	:	ライツアウト.txt
+:	:	:	Lights Out (19xx)(Asm)(Page 1)
+:	:	:	:	Lights Out (19xx)(Asm)(Page 1).asm
+:	:	リザード
+:	:	:	lizard.cas
+:	:	:	lizard.txt
+:	:	レッドゾーン
+:	:	:	Ledzone (19xx)(-)(Mode 5, Page 3).Cas
+:	:	:	レッドゾーン.txt
+:	:	ロードランナー
+:	:	:	LODE RUNNER.p6
+:	:	:	LODE RUNNER.txt
+:	:	連立方程式
+:	:	:	連立方程式.cas
+:	:	:	連立方程式.txt
+:	参考ＨＰ
+:	:	emubm15.html
+:	:	emubm20.html
+:	:	emubm29.html
+:	:	emubm30.html
+:	:	emubm32.html
+:	:	emubm34.html
+:	:	emubm8.html
+:	:	file_ax1.html
+:	:	file_ax10.html
+:	:	file_ax2.html
+:	:	file_ax3.html
+:	:	file_ax4.html
+:	:	file_ax5.html
+:	:	file_ax6.html
+:	:	file_ax7.html
+:	:	file_ax8.html
+:	:	file_ax9.html
+:	:	files.html
+:	:	from_fjy.html
+:	:	star_command.html
+:	:	tape1.html
+:	:	tape2.html
+:	:	tape3.html
+:	:	宝石箱はこころの中に.htm
+:	数字
+:	:	３Ｄアステロイドファイヤー
+:	:	:	3Dアステロイドファイヤー.cas
+:	:	:	3Dアステロイドファイヤー.txt
+:	:	３Ｄゴルフシミュレーションスーパーバージョン
+:	:	:	3DGOLF.CAS
+:	:	:	3DGOLF.TXT
+:	:	:	3D-GOLF Simulation Super Version
+:	:	:	:	3DGOLF.CAS
+:	:	:	:	3DGOLF.TXT
+:	不明
+:	:	zzz-unk-unknown (19xx)(enix)(mode 5, page 3)
+:	:	:	ZZZ-UNK-unknown (19xx)(Enix)(Mode 5, Page 3).cas
+
+各ファイルのサイズ
+有名ソフトだが欠番.txt,50 Byte
+ICEBLOCK.CAS,28708 Byte
+ICEBLOCK.TXT,157 Byte
+ICE BLOCK.CAS,28708 Byte
+ICE BLOCK.TXT,157 Byte
+アスピック a.cas,47749 Byte
+アスピック b.cas,13107 Byte
+アスピック.txt,421 Byte
+Amazon, The (19xx)(-)(Mode 2, Page 3).Cas,15260 Byte
+Amazon, The (19xx)(-)(Mode 2, Page 3).txt,16 Byte
+AMETRA.CAS,43303 Byte
+AMETRA.TXT,201 Byte
+EARTH.CAS,41241 Byte
+EARTH.TXT,208 Byte
+EARTH_T.TXT,5928 Byte
+Earth Bound.CAS,41241 Byte
+Earth Bound.TXT,208 Byte
+arm.p6,8192 Byte
+arm.txt,4578 Byte
+ヴォルガード.cas,48365 Byte
+ヴォルガード.txt,155 Byte
+umibe.txt,4902 Byte
+umibe1.p6,2837 Byte
+umibe2.p6,3313 Byte
+ADV1.N80,32576 Byte
+ADV1.TXT,258 Byte
+ARABIA.CAS,6301 Byte
+BARRI.CAS,4167 Byte
+BLOCK.CAS,4837 Byte
+DEMO.CAS,13510 Byte
+README.TXT,1600 Byte
+SIMON.CAS,4526 Byte
+DEMO.CAS,13510 Byte
+DUAL.CAS,6414 Byte
+NOSTRO.CAS,8843 Byte
+README.TXT,2845 Byte
+STEAL.CAS,6378 Byte
+WOODS.CAS,3611 Byte
+Cosmic.cas,3426 Byte
+Demo.cas,13510 Byte
+Inter.cas,5950 Byte
+Othelo.cas,9085 Byte
+README.TXT,174 Byte
+Slot.cas,5429 Byte
+BLACK.CAS,6084 Byte
+CAR.CAS,5717 Byte
+DEMO.CAS,13510 Byte
+FOOT.CAS,6840 Byte
+README.TXT,2918 Byte
+SHUT.CAS,5863 Byte
+ax5.txt,157 Byte
+Olion4.cas,16417 Byte
+Orion3.cas,16923 Byte
+Quest3.cas,29730 Byte
+Quest4.cas,29730 Byte
+DEMO.CAS,11407 Byte
+HEADON.CAS,5711 Byte
+MASTER.CAS,6841 Byte
+POWER.CAS,13612 Byte
+README.TXT,6075 Byte
+SPACE.CAS,5579 Byte
+ASTERO.CAS,5477 Byte
+AX7DEMO.CAS,12017 Byte
+GALAXY.CAS,6801 Byte
+GODHAR.CAS,6944 Byte
+PORICE.CAS,6163 Byte
+README.TXT,3307 Byte
+AX-8.txt,232 Byte
+Galaxy1.cas,23444 Byte
+Galaxy2.cas,25764 Byte
+ax9demo.cas,23001 Byte
+bound.cas,22441 Byte
+fls.cas,10818 Byte
+readme.txt,144 Byte
+sky.cas,13609 Byte
+AX-10.txt,420 Byte
+outlaw.cas,27138 Byte
+pop.cas,17696 Byte
+risu.cas,23387 Byte
+seven.cas,15107 Byte
+EGGY.CAS,22307 Byte
+EGGY.TXT,179 Byte
+EGGY.CAS,22307 Byte
+EGGY.TXT,179 Byte
+kurukuru.P6,76076 Byte
+kurukuru.txt,1432 Byte
+kurukuru_readme.txt,1432 Byte
+readme.txt,1432 Byte
+ザ・キャッスル.cas,32980 Byte
+ザ・キャッスル.txt,148 Byte
+ザ・キャッスルエクセレント.cas,32980 Byte
+ザ・キャッスルエクセレント.txt,158 Byte
+GALAXIAN.cas,58391 Byte
+GALAXIAN.txt,46 Byte
+GALACTIC COMBOI.p6,5241 Byte
+GALACTIC COMBOI.txt,35 Byte
+クリスの愛の旅立ち.cas,26017 Byte
+クリスの愛の旅立ち.txt,154 Byte
+grobda.cas,42801 Byte
+グロブダー.txt,24 Byte
+コロニー・オデッセイ 冒険編 1.DSK,163840 Byte
+コロニー・オデッセイ 冒険編 2.DSK,163840 Byte
+コロニー・オデッセイ 冒険編 3.DSK,163840 Byte
+コロニー・オデッセイ 冒険編.TXT,38 Byte
+GOLGO13.N80,32576 Byte
+GOLGO13.TXT,20 Byte
+北の脅威.CAS,15697 Byte
+北の脅威.TXT,93 Byte
+ずっこけ橋.p6,33206 Byte
+ずっこけ橋.txt,2010 Byte
+それゆけくるくる.P6,76076 Byte
+それゆけくるくる.txt,1432 Byte
+LOAD.txt,169 Byte
+TOMATO_1.CAS,42062 Byte
+サンダーフォース.cas,35487 Byte
+サンダーフォース.txt,196 Byte
+SHOOTING INVADER.p6,4478 Byte
+SHOOTING INVADER.txt,43 Byte
+Jelda.cas,25238 Byte
+Jelda.txt,148 Byte
+MEPHI1.CAS,28362 Byte
+MEPHI2_A.CAS,38417 Byte
+MEPHI2_B.CAS,8326 Byte
+MEPHI3_A.CAS,34282 Byte
+MEPHI3_B.CAS,7079 Byte
+MEPHIUS.TXT,1429 Byte
+ANKOKU.TXT,1538 Byte
+ANKOKU1.CAS,83853 Byte
+ANKOKU2.CAS,77741 Byte
+ANKOKU2B.CAS,52374 Byte
+ANKOKU3.CAS,81756 Byte
+ANKOKU3B.CAS,54518 Byte
+TERA4001.TXT,598 Byte
+TERA4001_1A.P6,63417 Byte
+TERA4001_1B.P6,3014 Byte
+TERA4001_2.P6,42400 Byte
+TERA4001_3.P6,41736 Byte
+1.JPG,98542 Byte
+10.JPG,83373 Byte
+11.JPG,83102 Byte
+12.JPG,81732 Byte
+13.JPG,83596 Byte
+14.JPG,86824 Byte
+2.JPG,93360 Byte
+3.JPG,100627 Byte
+4.JPG,93260 Byte
+5.JPG,102002 Byte
+6.JPG,82365 Byte
+7.JPG,87641 Byte
+8.JPG,84123 Byte
+9.JPG,82886 Byte
+biorms.P6,1998 Byte
+command.P6,11692 Byte
+labelm.P6,2095 Byte
+readme.txt,519 Byte
+satan1.P6,3735 Byte
+satan2.P6,9034 Byte
+t_ment.P6,2131 Byte
+vartst.P6,3577 Byte
+スターデストロイヤー.cas,10925 Byte
+スターデストロイヤー.txt,157 Byte
+STRLGHT1.T88,36281 Byte
+STRLGHT1.TXT,259 Byte
+STARWR~1.CAS,17487 Byte
+STARWR~1.TXT,214 Byte
+ston.cas,4783 Byte
+ston.txt,4075 Byte
+ストーンボール.txt,38 Byte
+SPACE INVERDERS.cas,6346 Byte
+SPACE INVERDERS.txt,152 Byte
+README.TXT,98 Byte
+SPACE.CAS,43681 Byte
+SUPER BALL.p6,18114 Byte
+SUPER BALL.txt,27 Byte
+super.txt,27 Byte
+SUIDOU.CAS,27110 Byte
+SUIDOU.TXT,198 Byte
+聖なる剣 マニュアル.TXT,7387 Byte
+聖なる剣.CAS,18167 Byte
+聖なる剣.TXT,95 Byte
+頭脳4989 P6.cas,11296 Byte
+頭脳4989.cas,11810 Byte
+頭脳4989.txt,630 Byte
+CHACK_N.CAS,46630 Byte
+README.TXT,109 Byte
+CHACK'N POP.CAS,46630 Byte
+CHACK'N POP.TXT,109 Byte
+README.TXT,305 Byte
+TINYXEV.CAS,17741 Byte
+README.TXT,247 Byte
+TINYXE2.CAS,41774 Byte
+T1.TXT,2897 Byte
+T1.WAV,360142 Byte
+T2.TXT,1277 Byte
+T2.WAV,184620 Byte
+T3.TXT,2532 Byte
+T3.WAV,290890 Byte
+T_PC6001.DOC,7028 Byte
+takeoff.p6,996 Byte
+takeoff.txt,3024 Byte
+デゼニランド 1.cas,39484 Byte
+デゼニランド 2.cas,25092 Byte
+デゼニランド 3.cas,26102 Byte
+デゼニランド 4.cas,18572 Byte
+デゼニランド 5.cas,27901 Byte
+デゼニランド.txt,195 Byte
+Danger (19xx)(-)(Mode 2 Page 2).P6,14271 Byte
+DANGER JUNGLE.p6,14271 Byte
+DANGER JUNGLE.txt,39 Byte
+toiletadventure.cas,14235 Byte
+toiletadventure.txt,37 Byte
+toilet_readme.txt,37 Byte
+ﾄｲﾚｯﾄADV.cas,14235 Byte
+トリックボーイ.cas,25800 Byte
+トリックボーイ.txt,506 Byte
+TRITON.CAS,45145 Byte
+TRITON.TXT,181 Byte
+tanabata.txt,4707 Byte
+tanabata1.p6,2317 Byte
+tanabata2.p6,2365 Byte
+大脱走.CAS,41712 Byte
+大脱走.TXT,219 Byte
+TOUSI.N80,32576 Byte
+TOUSI.TXT,57 Byte
+NanaVoice.wav,735948 Byte
+ナナちゃんの禁じられた遊び MK2.cas,23841 Byte
+ナナちゃんの禁じられた遊び P6.cas,8928 Byte
+ナナちゃんの禁じられた遊び.txt,393 Byte
+信長の野望.cas,56435 Byte
+信長の野望.txt,142 Byte
+PANZERSPITZE.p6,17475 Byte
+PANZERSPITZE.txt,29 Byte
+H_FOX1.CAS,60911 Byte
+H_FOX1.TXT,278 Byte
+H_FOX2.CAS,58962 Byte
+H_FOX2.TXT,193 Byte
+HYDLIDE.CAS,44791 Byte
+README.TXT,169 Byte
+HYDLIDE.CAS,44791 Byte
+HYDLIDE.TXT,169 Byte
+vital.p6,11651 Byte
+vital.txt,4839 Byte
+PAC-MAN.cas,57671 Byte
+PAC-MAN.txt,201 Byte
+Punchball Mario (1983)(Nintendo)(Mode 5, Page 4).Cas,30669 Byte
+パンチボールマリオブラザース.txt,50 Byte
+PYRAMID2.CAS,18752 Byte
+README.TXT,112 Byte
+forts.txt,80 Byte
+forts1.p6,15446 Byte
+forts2.p6,3032 Byte
+forts_readme.txt,80 Byte
+FLAPPY.CAS,71422 Byte
+FLAPPY.TXT,150 Byte
+FLAPPY.CAS,71422 Byte
+FLAPPY.TXT,150 Byte
+frntline.cas,28812 Byte
+フロントライン.txt,28 Byte
+ONYX.CAS,45426 Byte
+ONYX.TXT,100 Byte
+BREAK.CAS,24029 Byte
+BREAK.TXT,257 Byte
+BREAK.CAS,24029 Byte
+BREAK.TXT,257 Byte
+Plazma Line (19xx)(-)(Mode 5, Page 3).Cas,35744 Byte
+プラズマライン.txt,52 Byte
+homerun.p6,5341 Byte
+homerun.txt,5001 Byte
+BOKO60.CAS,22292 Byte
+BOKO60.TXT,102 Byte
+飛車.CAS,30124 Byte
+飛車.TXT,95 Byte
+F_ARMY.N80,32576 Byte
+F_ARMY.TXT,12 Byte
+MIX MIX.P6,17646 Byte
+MIX MIX.txt,26 Byte
+マグネチック・フィールド.CAS,15666 Byte
+マグネチック・フィールド.TXT,221 Byte
+ミステリーハウス1.cas,20271 Byte
+ミステリーハウス1.txt,224 Byte
+ミステリーハウス2.CAS,73164 Byte
+ミステリーハウス2.TXT,157 Byte
+野球狂.cas,41941 Byte
+野球狂.txt,164 Byte
+Lights Out (19xx)(Page 1).cas,4504 Byte
+ライツアウト.txt,43 Byte
+Lights Out (19xx)(Asm)(Page 1).asm,9833 Byte
+lizard.cas,40671 Byte
+lizard.txt,144 Byte
+Ledzone (19xx)(-)(Mode 5, Page 3).Cas,16559 Byte
+レッドゾーン.txt,33 Byte
+LODE RUNNER.p6,72130 Byte
+LODE RUNNER.txt,27 Byte
+連立方程式.cas,17446 Byte
+連立方程式.txt,153 Byte
+ZZZ-UNK-unknown (19xx)(Enix)(Mode 5, Page 3).cas,11810 Byte
+emubm15.html,1585 Byte
+emubm20.html,2247 Byte
+emubm29.html,2344 Byte
+emubm30.html,3233 Byte
+emubm32.html,3290 Byte
+emubm34.html,2770 Byte
+emubm8.html,3280 Byte
+files.html,5209 Byte
+file_ax1.html,3470 Byte
+file_ax10.html,3200 Byte
+file_ax2.html,3541 Byte
+file_ax3.html,3537 Byte
+file_ax4.html,3463 Byte
+file_ax5.html,3222 Byte
+file_ax6.html,3548 Byte
+file_ax7.html,3265 Byte
+file_ax8.html,2578 Byte
+file_ax9.html,3168 Byte
+from_fjy.html,3356 Byte
+star_command.html,3800 Byte
+tape1.html,5107 Byte
+tape2.html,4767 Byte
+tape3.html,5250 Byte
+宝石箱はこころの中に.htm,15719 Byte
+3Dアステロイドファイヤー.cas,6903 Byte
+3Dアステロイドファイヤー.txt,164 Byte
+3DGOLF.CAS,51682 Byte
+3DGOLF.TXT,280 Byte
+3DGOLF.CAS,51682 Byte
+3DGOLF.TXT,280 Byte
+basic-blank.d88,174768 Byte
+ハドソン ベストヒット集3.D88,177888 Byte
+ハドソン ベストヒット集3.TXT,89 Byte
+PIOPIO.N80,32576 Byte
+PIOPIO.TXT,1535 Byte
+POWMJ2.TXT,26166 Byte
+MUGEN1T.TXT,26432 Byte
+normandy.n80,32576 Byte
+ONYX2T.TXT,26154 Byte
+AFTeRDARK_man.txt,18487 Byte
+BASICROM.62,32768 Byte
+CGROM60.62,8192 Byte
+CGROM60M.62,8192 Byte
+KANJIROM.62,32768 Byte
+VOICEROM.62,16384 Byte
+PC-6601 ユーティリティ・ディスク.DSK,163840 Byte
+PC-6601 ユーティリティ・ディスク.TXT,276 Byte
+PC-6601 日本語ワードプロセッサ.DSK,163840 Byte
+PC-6601 日本語ワードプロセッサ.TXT,33 Byte
+WORDPRO.TXT,33 Byte
+FORMAT.P6,1058 Byte
+LIST.TXT,2539 Byte
+README.TXT,416 Byte
+BASICROM.62,32768 Byte
+CGROM60.62,8192 Byte
+CGROM60M.62,8192 Byte
+KANJIROM.62,32768 Byte
+VOICEROM.62,16384 Byte
+BASICROM.60,32768 Byte
+CGROM60.60,8192 Byte
+basicrom.68,32768 Byte
+cgrom60.68,8192 Byte
+cgrom66.68,8192 Byte
+kanjirom.68,32768 Byte
+sysrom2.68,8192 Byte
+voicerom.68,16384 Byte

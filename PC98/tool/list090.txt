@@ -1,0 +1,1905 @@
+[EMU][MSX2]DISK詰め合わせ.7z
+3d09341e7504b45217261659ce3f6d05・d07ab861a3d826439f5217a0264990151764575f
+186,353,705
+ファイル数合計 = 948 個
+ファイルサイズ合計 = 185334572 Byte
+
+:	DISK
+:	:	123 (19xx).zip
+:	:	1942 (ja)(1987)(ascii).zip
+:	:	3 square (1993)(emphasis).zip
+:	:	31 (1995)(meuse soft).zip
+:	:	3d fire (1987)(octopus bros).zip
+:	:	7 narabe nights (ja)(1990)(satico).zip
+:	:	abunai (ja)(19xx)(agorm).zip
+:	:	acrojet (1985)(system soft).zip
+:	:	aerobic (sp)(1986)(idealogic)(disk 1 of 2).zip
+:	:	aerobic (sp)(1986)(idealogic)(disk 2 of 2).zip
+:	:	aerobic (sp)(1986)(idealogic).zip
+:	:	afterdark. harajuku (19xx)(kogado).zip
+:	:	agees (ja)(19xx)(kogado).zip
+:	:	akanbe dragon (1988)(hidaka).zip
+:	:	aleste (ja)(1988)(compile).zip
+:	:	aleste 2 (ja)(1989)(compile)(disk 1 of 3).zip
+:	:	aleste 2 (ja)(1989)(compile)(disk 2 of 3).zip
+:	:	aleste 2 (ja)(1989)(compile)(disk 3 of 3).zip
+:	:	aleste gaiden (ja)(1989)(compile).zip
+:	:	algo wars (ja)(1989)(msx magazine).zip
+:	:	alice (ja)(1989)(wao)[disk 1 of 8].zip
+:	:	alice (ja)(1989)(wao)[disk 2 of 8].zip
+:	:	alice (ja)(1989)(wao)[disk 3 of 8].zip
+:	:	alice (ja)(1989)(wao)[disk 4 of 8].zip
+:	:	alice (ja)(1989)(wao)[disk 5 of 8].zip
+:	:	alice (ja)(1989)(wao)[disk 6 of 8].zip
+:	:	alice (ja)(1989)(wao)[disk 7 of 8].zip
+:	:	alice (ja)(1989)(wao)[disk 8 of 8].zip
+:	:	alice soft demo (ja)(1989)(alice soft)(disk 1 of 2).zip
+:	:	alice soft demo (ja)(1989)(alice soft)(disk 2 of 2).zip
+:	:	alien slime (1990)(ax-alex & raketto).zip
+:	:	aliens 2 (1987)(activision).zip
+:	:	am-pah-mata (ja)(19xx).zip
+:	:	amazing cash (1990)(experience soft).zip
+:	:	amazonas (sp)(1987)(idealogic)(disk 1 of 3).zip
+:	:	amazonas (sp)(1987)(idealogic)(disk 2 of 3).zip
+:	:	amazonas (sp)(1987)(idealogic)(disk 3 of 3).zip
+:	:	amazonas (sp)(1987)(idealogic).zip
+:	:	american soccer (1987)(nidecom).zip
+:	:	an uncle in brazil (1995)(abyss).zip
+:	:	anatomie de l'homme (sp)(1987)(forum micros).zip
+:	:	ancient ys vanished omen 2 (ja)(1988)(disk 1 of 2 )(falcom).zip
+:	:	ancient ys vanished omen 2 (ja)(1988)(disk 2 of 2)  (falcom).zip
+:	:	ancient ys vanished omen 3 (ja)(1989)(disk 1 of 4)(falcom).zip
+:	:	ancient ys vanished omen 3 (ja)(1989)(disk 2 of 4)(falcom).zip
+:	:	ancient ys vanished omen 3 (ja)(1989)(disk 3 of 4)(falcom).zip
+:	:	ancient ys vanished omen 3 (ja)(1989)(disk 4 of 4)(falcom).zip
+:	:	ancient ys vanished, omen 1 (1987)(falcom).zip
+:	:	angelus (ja)(1989)(enix)[disk 1 of 3].zip
+:	:	angelus (ja)(1989)(enix)[disk 2 of 3].zip
+:	:	angelus (ja)(1989)(enix)[disk 3 of 3].zip
+:	:	anger (19xx)(marx).zip
+:	:	animal land (ja)(1987)(enix).zip
+:	:	ankoku (ja)(19xx).zip
+:	:	anmas amusement disk (1992)(anma).zip
+:	:	anoid (19xx).zip
+:	:	arc demo (19xx)(parallax).zip
+:	:	arctic (1987)(pony).zip
+:	:	arcus (ja)(1987)(disk 1 of 3)(wolf team).zip
+:	:	arcus (ja)(1987)(disk 2 of 3)(wolf team).zip
+:	:	arcus (ja)(1987)(disk 3 of 3)(wolf team).zip
+:	:	arcus 2 the silent symphony (ja)(19xx)(wolf team)(disk 1 of4).zip
+:	:	arcus 2 the silent symphony (ja)(19xx)(wolf team)(disk 2 of4).zip
+:	:	arcus 2 the silent symphony (ja)(19xx)(wolf team)(disk 3 of4).zip
+:	:	arcus 2 the silent symphony (ja)(19xx)(wolf team)(disk 4 of4).zip
+:	:	arcuso arch (ja)(19xx)(wolfteam).zip
+:	:	arkanoid revenge of doh (1989)(taito).zip
+:	:	arklight (ja)(1990)(scap trust).zip
+:	:	arsene lupin 2 (ja)(1988)(toho cinefile).zip
+:	:	ashguine (ja)(1987)(micro cabin).zip
+:	:	ashguine 2 (1987)(t&e soft).zip
+:	:	asteka 2 - taiyou no shinden (ja)(1987)(falcom).zip
+:	:	atch project (ja)(1996)(gigamix).zip
+:	:	aura battler dunbine (ja)(1991)(family soft)(disk 1 of 6).zip
+:	:	aura battler dunbine (ja)(1991)(family soft)(disk 2 of 6).zip
+:	:	aura battler dunbine (ja)(1991)(family soft)(disk 3 of 6).zip
+:	:	aura battler dunbine (ja)(1991)(family soft)(disk 4 of 6).zip
+:	:	aura battler dunbine (ja)(1991)(family soft)(disk 5 of 6).zip
+:	:	aura battler dunbine (ja)(1991)(family soft)(disk 6 of 6).zip
+:	:	aventure of randar iii (ja)(1990)(compile)(disk 1 of 5).zip
+:	:	aventure of randar iii (ja)(1990)(compile)(disk 2 of 5).zip
+:	:	aventure of randar iii (ja)(1990)(compile)(disk 3 of 5).zip
+:	:	aventure of randar iii (ja)(1990)(compile)(disk 4 of 5).zip
+:	:	aventure of randar iii (ja)(1990)(compile)(disk 5 of 5).zip
+:	:	axe the real scc (1989)(bcf).zip
+:	:	ayayo's love (ja)(19xx)(disk station).zip
+:	:	babel. the new megablocks (1994)(cabinet).zip
+:	:	back to the future (ja)(1986)(pony).zip
+:	:	balance of power (ja)(1985)(ascii).zip
+:	:	ballout (1988)(studio hg).zip
+:	:	ballout 2 (1988)(studio hg).zip
+:	:	ballout special (1989)(studio hg).zip
+:	:	bank buster (nl)(19xx)(eurosoft).zip
+:	:	barbarian (1988)(ford perfect).zip
+:	:	barunba (1990)(namcot).zip
+:	:	basaro attacker (19xx).zip
+:	:	baseball ascii (1987)(ascii).zip
+:	:	bastard (1987)(xain soft).zip
+:	:	battle front europe (ja)(19xx)(koei)(disk 1 of 2).zip
+:	:	battle front europe (ja)(19xx)(koei)(disk 2 of 2).zip
+:	:	be-bop bout (1994)(marz project)(electromagic).zip
+:	:	bedroom olympic (1987)(megasoft).zip
+:	:	beppin (ja)(1988)(cain).zip
+:	:	beyond (1986)(short program island).zip
+:	:	bilupani (ja)(1990)(n&m soft).zip
+:	:	black cyclon (1989)(parallax)(disk 1 of 2).zip
+:	:	black cyclon (1989)(parallax)(disk 2 of 2).zip
+:	:	blade lords (1997)(parallax).zip
+:	:	boggle (nl)(1992)(tiple soft).zip
+:	:	bon ball (1991)(kam's soft).zip
+:	:	bozos big adventura (1992)(sunrise).zip
+:	:	breaker (1987)(radar soft).zip
+:	:	breaker (ja)(1994)(electro logic studio)(disk 1 of 2).zip
+:	:	breaker (ja)(1994)(electro logic studio)(disk 2 of 2).zip
+:	:	brisk (nl)(1994)(triple soft).zip
+:	:	bubble bobble (1987)(taito).zip
+:	:	bubbles (1989)(mgf)[a1].zip
+:	:	burai (ja)(1990)(riverhill soft)(disk 1 of 6).zip
+:	:	burai (ja)(1990)(riverhill soft)(disk 2 of 6).zip
+:	:	burai (ja)(1990)(riverhill soft)(disk 3 of 6).zip
+:	:	burai (ja)(1990)(riverhill soft)(disk 4 of 6).zip
+:	:	burai (ja)(1990)(riverhill soft)(disk 5 of 6).zip
+:	:	burai (ja)(1990)(riverhill soft)(disk 6 of 6).zip
+:	:	burai 2 (ja)(19xx)(river hill soft)(disk 1 of 9).zip
+:	:	burai 2 (ja)(19xx)(river hill soft)(disk 2 of 9).zip
+:	:	burai 2 (ja)(19xx)(river hill soft)(disk 3 of 9).zip
+:	:	burai 2 (ja)(19xx)(river hill soft)(disk 4 of 9).zip
+:	:	burai 2 (ja)(19xx)(river hill soft)(disk 5 of 9).zip
+:	:	burai 2 (ja)(19xx)(river hill soft)(disk 6 of 9).zip
+:	:	burai 2 (ja)(19xx)(river hill soft)(disk 7 of 9).zip
+:	:	burai 2 (ja)(19xx)(river hill soft)(disk 8 of 9).zip
+:	:	burai 2 (ja)(19xx)(river hill soft)(disk 9 of 9).zip
+:	:	butaporc (ja)(19xx)(t&e soft).zip
+:	:	canvasa (ja)(19xx)(disk 1 of 3).zip
+:	:	canvasa (ja)(19xx)(disk 2 of 3).zip
+:	:	canvasa (ja)(19xx)(disk 3 of 3).zip
+:	:	captures double vision (1987)(19xx).zip
+:	:	castle adventure (nl)(1991)(drack soft).zip
+:	:	castle of blackburn (19xx)(top soft).zip
+:	:	cats nyan puzzle (1989)(compile).zip
+:	:	celcion (1991)(spc soft).zip
+:	:	choan super (ja)(19xx)(sequence).zip
+:	:	chopper 2 (1989)(bytebusters).zip
+:	:	chuka taisen (ja)(1988)(hot b).zip
+:	:	cita con rama (sp)(1986)(idealogic)(disk 1 of 2).zip
+:	:	cita con rama (sp)(1986)(idealogic)(disk 2 of 2).zip
+:	:	city fight (ja)(1986)(pony).zip
+:	:	cocos (1995).zip
+:	:	colpo groso (it)(1988)(mad soft).zip
+:	:	columns (ja)(1990)(telenet).zip
+:	:	colums (1995).zip
+:	:	compile's music (1988)(19xx).zip
+:	:	conqueror (1992)(taracot).zip
+:	:	construction craze (1990)(paragon).zip
+:	:	cosmic soldier (br)(1985).zip
+:	:	cowboyana jones (nl)(1991).zip
+:	:	crafton & xunk (1987)(ere).zip
+:	:	craze (ja)(1988)(heart soft).zip
+:	:	crimson 1 (ja)(1987)(xtal soft).zip
+:	:	crimson 2 (ja)(1989)(xtal soft)(disk 1 of 2).zip
+:	:	crimson 2 (ja)(1989)(xtal soft)(disk 2 of 2).zip
+:	:	crimson 3 (ja)(1990)(xtalsoft)(disk 1of 3).zip
+:	:	crimson 3 (ja)(1990)(xtalsoft)(disk 2 of 3).zip
+:	:	crimson 3 (ja)(1990)(xtalsoft)(disk 3 of 3).zip
+:	:	cross blaim (1986)(db soft).zip
+:	:	cubo rubik (nl)(1987).zip
+:	:	cutdown (1987)(gen soft).zip
+:	:	cyber punk adventure snatcher (ja)(1988)(konami)(disk 1 of 3).zip
+:	:	cyber punk adventure snatcher (ja)(1988)(konami)(disk 2 of 3).zip
+:	:	cyber punk adventure snatcher (ja)(1988)(konami)(disk 3 of 3).zip
+:	:	cybernetic hi-school 2. highway buster (19xx)(gainax)(disk 1 of 3).zip
+:	:	cybernetic hi-school 2. highway buster (19xx)(gainax)(disk 2 of 3).zip
+:	:	cybernetic hi-school 2. highway buster (19xx)(gainax)(disk 3 of 3).zip
+:	:	cybernetic highschool (ja)(19xx)(gainax)(disk 1 of 2).zip
+:	:	cybernetic highschool (ja)(19xx)(gainax)(disk 2 of 2).zip
+:	:	cytron (1994).zip
+:	:	d.c. connection (1989)(river hill soft)(disk 1 of 3).zip
+:	:	d.c. connection (1989)(river hill soft)(disk 2 of 3).zip
+:	:	d.c. connection (1989)(river hill soft)(disk 3 of 3).zip
+:	:	daikokai jidai (ja)(19xx)(koei)(disk 1 of 2).zip
+:	:	daikokai jidai (ja)(19xx)(koei)(disk 2 of 2).zip
+:	:	daisenryaku 2. super risk campaign v.2. (1992)(system soft)(disk 1 of 2).zip
+:	:	daisenryaku 2. super risk campaign v.2. (1992)(system soft)(disk 2 of 2).zip
+:	:	daiva 4 (ja)(1986-1987)(t&e soft)[dd].zip
+:	:	daiva 5 (ja)(1986-1987)(t&e soft).zip
+:	:	daiva iv asura's bloodfeud (1988)(t&e soft).zip
+:	:	daiva v the cup of soma (1988)(t&e soft).zip
+:	:	dante (ja)(1990)(msx magazine).zip
+:	:	dante 2 (ja)(1992)(msx magazine)(disk 1 of 7 - 0).zip
+:	:	dante 2 (ja)(1992)(msx magazine)(disk 3 of 7 - p).zip
+:	:	dante 2 (ja)(1992)(msx magazine)(disk 4 of 7 - u).zip
+:	:	dante 2 (ja)(1992)(msx magazine)(disk 6 of 7 - b).zip
+:	:	dante 2 (ja)(1992)(msx magazine)(disk 7 of 7 - c).zip
+:	:	dark sider (ja)(19xx)(city factory).zip
+:	:	darwin 4078 (1988)(hudson soft).zip
+:	:	dass (1992)(msx engine).zip
+:	:	databook (ja)(19xx).zip
+:	:	de sekte (nl)(1986)(radar soft).zip
+:	:	dead of the brain day of the living dead (ja)(19xx)(nightmare collection)(disk 1 of 3).zip
+:	:	dead of the brain day of the living dead (ja)(19xx)(nightmare collection)(disk 2 of 3).zip
+:	:	dead of the brain day of the living dead (ja)(19xx)(nightmare collection)(disk 3 of 3).zip
+:	:	deep forest (ja)(1987)(xain soft).zip
+:	:	defcon (1989)(cesium 137).zip
+:	:	delta force (nl)(1990)(experience soft).zip
+:	:	demo digitalizaciones (spa)(1987)(majara soft).zip
+:	:	destroyer (1986)(mind games).zip
+:	:	detective story (nl)(1993)(timmy soft).zip
+:	:	diablo (1991)(ascii).zip
+:	:	didageki (ja)(19xx).zip
+:	:	digan no maseki (ja)(19xx)(gdleen)(disk 1 of 6).zip
+:	:	digan no maseki (ja)(19xx)(gdleen)(disk 2 of 6).zip
+:	:	digan no maseki (ja)(19xx)(gdleen)(disk 3 of 6).zip
+:	:	digan no maseki (ja)(19xx)(gdleen)(disk 4 of 6).zip
+:	:	digan no maseki (ja)(19xx)(gdleen)(disk 5 of 6).zip
+:	:	digan no maseki (ja)(19xx)(gdleen)(disk 6 of 6).zip
+:	:	digger (ge)(1987)(data beutner kg).zip
+:	:	dimies (1991)(h-corp).zip
+:	:	dinamic publiser (1994)(rb soft).zip
+:	:	dios (ja)(1990)(zain soft)(disk 1 of 5).zip
+:	:	dios (ja)(1990)(zain soft)(disk 2 of 5).zip
+:	:	dios (ja)(1990)(zain soft)(disk 3 of 5).zip
+:	:	dios (ja)(1990)(zain soft)(disk 4 of 5).zip
+:	:	dios (ja)(1990)(zain soft)(disk 5 of 5).zip
+:	:	dires (1988)(bothtec).zip
+:	:	diskcoo 3 (fr)(1989)(fabrice).zip
+:	:	dix (1992)(msx engine).zip
+:	:	dix demo (nl)(1991)(msx engine).zip
+:	:	dixdaef (ja)(19xx)(tecnosoft).zip
+:	:	dizzy (1992)(msx engine).zip
+:	:	django collection 1 (fr)(1989)(django).zip
+:	:	django collection 2 (fr)(1989)(django).zip
+:	:	dome (ja)(1989)(sacom)(disk 1 of 2).zip
+:	:	dome (ja)(1989)(sacom)(disk 2 of 2).zip
+:	:	dot designers club (ja)(1989)(t&e soft).zip
+:	:	dragon buster (ja)(1987)(namcot).zip
+:	:	dragon city x (ja)(19xx)(fairy tale)(disk 1 of 4).zip
+:	:	dragon city x (ja)(19xx)(fairy tale)(disk 2 of 4).zip
+:	:	dragon city x (ja)(19xx)(fairy tale)(disk 3 of 4).zip
+:	:	dragon city x (ja)(19xx)(fairy tale)(disk 4 of 4).zip
+:	:	dragon knight (ja)(1989)(elf)(disk 1 of 4).zip
+:	:	dragon knight (ja)(1989)(elf)(disk 2 of 4).zip
+:	:	dragon knight (ja)(1989)(elf)(disk 3 of 4).zip
+:	:	dragon knight (ja)(1989)(elf)(disk 4 of 4).zip
+:	:	dragon knight 2 (ja)(1991)(elf)(disks 1 of 9).zip
+:	:	dragon knight 2 (ja)(1991)(elf)(disks 2 of 9).zip
+:	:	dragon knight 2 (ja)(1991)(elf)(disks 3 of 9).zip
+:	:	dragon knight 2 (ja)(1991)(elf)(disks 4 of 9).zip
+:	:	dragon knight 2 (ja)(1991)(elf)(disks 5 of 9).zip
+:	:	dragon knight 2 (ja)(1991)(elf)(disks 6 of 9).zip
+:	:	dragon knight 2 (ja)(1991)(elf)(disks 7 of 9).zip
+:	:	dragon knight 2 (ja)(1991)(elf)(disks 8 of 9).zip
+:	:	dragon knight 2 (ja)(1991)(elf)(disks 9 of 9).zip
+:	:	dragon quest ii (ja)(1987)(enix).zip
+:	:	dragon quiz (ja)(1988)(compile)(disk 2 of 2).zip
+:	:	dragon quiz (ja)(1991)(compile).zip
+:	:	dragon slayer 2, xanadu (ja)(1986)(falcom)(userdisk).zip
+:	:	dragon slayer 2, xanadu (ja)(1986)(falcom).zip
+:	:	dragon slayer 3, romancia (ja)(1986)(falcom).zip
+:	:	dragon slayer 4, the drasle family (ja)(1987)(falcom).zip
+:	:	dragon slayer 5, sorcerian (ja)(1987)(falcom)(disk 1 of 4).zip
+:	:	dragon slayer 5, sorcerian (ja)(1987)(falcom)(disk 2 of 4).zip
+:	:	dragon slayer 5, sorcerian (ja)(1987)(falcom)(disk 3 of 4).zip
+:	:	dragon slayer 5, sorcerian (ja)(1987)(falcom)(disk 4 of 4).zip
+:	:	dragon slayer 6 (ja)(1990)(falcom)(disk 1 of 4)[h].zip
+:	:	dragon slayer 6 (ja)(1990)(falcom)(disk 2 of 4)[h].zip
+:	:	dragon slayer 6 (ja)(1990)(falcom)(disk 3 of 4)[h].zip
+:	:	dragon slayer 6 (ja)(1990)(falcom)(disk 4 of 4)[h].zip
+:	:	dragon slayer 6, the legend of heroes (1990)(falcom)(disk 1 of 4).zip
+:	:	dragon slayer 6, the legend of heroes (1990)(falcom)(disk 2 of 4).zip
+:	:	dragon slayer 6, the legend of heroes (1990)(falcom)(disk 3 of 4).zip
+:	:	dragon slayer 6, the legend of heroes (1990)(falcom)(disk 4 of 4).zip
+:	:	dragon slayer 6, the legend of heroes (1990)(falcom)(userdisk).zip
+:	:	dragon world (sp)(1986)(idealogic) (disk 1 of 3).zip
+:	:	dragon world (sp)(1986)(idealogic) (disk 2 of 3).zip
+:	:	dragon world (sp)(1986)(idealogic) (disk 3 of 3).zip
+:	:	dragons eye super shangai (ja)(1991)(hot-b).zip
+:	:	dream program system (ja)(19xx)(alice soft).zip
+:	:	druid (ja)(1987)(dexter).zip
+:	:	dungeon striker (ja)(19xx)(mj-2 software).zip
+:	:	dynamite bowl (1987)(toshiba).zip
+:	:	eagle war - erenubu elslid (ja)(19xx)(ncs).zip
+:	:	earth (1996)(gws workshop).zip
+:	:	ease (sp)(1987)(opera soft).zip
+:	:	eastland campaing (ja)(19xx)(medo)(disk 1 of 2).zip
+:	:	eastland campaing (ja)(19xx)(medo)(disk 2 of 2).zip
+:	:	emerald dragon (ja)(19xx)(glodia)(disk 1 of 5 - opening demo).zip
+:	:	emerald dragon (ja)(19xx)(glodia)(disk 2 of 5 - game disk).zip
+:	:	emerald dragon (ja)(19xx)(glodia)(disk 3 of 5 - visual disk a).zip
+:	:	emerald dragon (ja)(19xx)(glodia)(disk 4 of 5 - visual disk b).zip
+:	:	emerald dragon (ja)(19xx)(glodia)(disk 5 of 5 - ending demo).zip
+:	:	endlos (nl)(1986)(radar soft).zip
+:	:	energy crash (19xx).zip
+:	:	english holidays (1986)(philips).zip
+:	:	erotic pac #1 (fr)(1989)(sink system)(disk 1 of 2).zip
+:	:	erotic pac #1 (fr)(1989)(sink system)(disk 2 of 2).zip
+:	:	evil spirit (1992)(19xx).zip
+:	:	exterlien (ja)(19xx)(do)(disk 1 of 3).zip
+:	:	exterlien (ja)(19xx)(do)(disk 2 of 3).zip
+:	:	exterlien (ja)(19xx)(do)(disk 3 of 3).zip
+:	:	f-zeru ex (1991)(madou yochien).zip
+:	:	f1 namcot (ja)(1988)(namcot).zip
+:	:	fahrenheit 451 (sp)(1986)(idealogic).zip
+:	:	famicle parodic (1989)(bit2).zip
+:	:	famicle parodic 2 (1988)(bit2)(disk 1 of 2).zip
+:	:	famicle parodic 2 (1988)(bit2)(disk 2 of 2).zip
+:	:	family billiards (sp)(1989)(pack in video)(genesis).zip
+:	:	family boxing (1988)(sony).zip
+:	:	fantasy zone (ja)(1986)(sega)[dd].zip
+:	:	fantasy zone 2 (1987)(pony).zip
+:	:	feedback (ja)(1988)(tecnosoft).zip
+:	:	final countdown (1987)(bytebusters).zip
+:	:	final fantasy (ja)(1985)(cia & pmm)(userdisk).zip
+:	:	final fantasy (ja)(1985)(cia & pmm).zip
+:	:	final potential (ja)(1990)(msx magazine)(anma).zip
+:	:	final zone (ja)(1986)(telenet)[dd].zip
+:	:	finally wizard (ja)(1989)(data system)(disk 1 of 3).zip
+:	:	finally wizard (ja)(1989)(data system)(disk 2 of 3).zip
+:	:	finally wizard (ja)(1989)(data system)(disk 3 of 3).zip
+:	:	fireball (1987)(humming bird soft).zip
+:	:	firebird. hinotori (1987)(konami).zip
+:	:	fishing (ja)(1986)(19xx).zip
+:	:	fishing freak (ja)(1989)(cross media)[dd].zip
+:	:	fishing freak. sampeise (ja)(1989)(cross media).zip
+:	:	fleet commander ii (ja)(1990)(ascii).zip
+:	:	fony's demo disk 1 (1991)(fony).zip
+:	:	for the day 2 (1990)(mirinae soft)(disk 1 of 3).zip
+:	:	for the day 2 (1990)(mirinae soft)(disk 2 of 3).zip
+:	:	for the day 2 (1990)(mirinae soft)(disk 3 of 3).zip
+:	:	fray in magical adventure (ja)(1990)(micro cabin)(disks 1 of 4).zip
+:	:	fray in magical adventure (ja)(1990)(micro cabin)(disks 2 of 4).zip
+:	:	fray in magical adventure (ja)(1990)(micro cabin)(disks 3 of 4).zip
+:	:	fray in magical adventure (ja)(1990)(micro cabin)(disks 4 of 4).zip
+:	:	fray promo [ja][1990][microcabin].zip
+:	:	fruta prohibida (fr)(1988).zip
+:	:	fun-demo (nl)(1991)(fcs).zip
+:	:	future time demo (1991)(sander soft).zip
+:	:	gagdius (ja)(1989)(limia soft)(disk 1 of 2).zip
+:	:	gagdius (ja)(1989)(limia soft)(disk 2 of 2).zip
+:	:	gaia (ja)(19xx).zip
+:	:	galf streem (ja)(19xx)(xain soft)(disk 1 of 3).zip
+:	:	galf streem (ja)(19xx)(xain soft)(disk 2 of 3).zip
+:	:	galf streem (ja)(19xx)(xain soft)(disk 3 of 3).zip
+:	:	galf streem (ja)(19xx)(xain soft)(userdisk).zip
+:	:	gall force (1986)(sony).zip
+:	:	gallforce eternal story (ja)(1986)(scaptrust).zip
+:	:	galmoon (ja)(19xx)(maron team).zip
+:	:	game collection special (ja)(1989)(konami).zip
+:	:	gandhara (ja)(1988)(19xx)(disk 1 of 2).zip
+:	:	gandhara (ja)(1988)(19xx)(disk 2 of 2).zip
+:	:	gandhara (ja)(1988)(y.hata)[disk 1 of 2].zip
+:	:	gandhara (ja)(1988)(y.hata)[disk 2 of 2].zip
+:	:	garyuo king (ja)(1987)(xain soft).zip
+:	:	gaudi (ja)(1992)(wolf team)(disk 1 of 4).zip
+:	:	gaudi (ja)(1992)(wolf team)(disk 2 of 4).zip
+:	:	gaudi (ja)(1992)(wolf team)(disk 3 of 4).zip
+:	:	gaudi (ja)(1992)(wolf team)(disk 4 of 4).zip
+:	:	genghis khan (ja)(19xx)(koei)(disk 1 of 2).zip
+:	:	genghis khan (ja)(19xx)(koei)(disk 2 of 2).zip
+:	:	ginden (ja)(1989)(bothtec)(disk 1 of 2).zip
+:	:	ginden (ja)(1989)(bothtec)(disk 2 of 2).zip
+:	:	ginden (ja)(1989)(bothtec)[disk 1 of 2].zip
+:	:	ginden (ja)(1989)(bothtec)[disk 2 of 2].zip
+:	:	girl map (sp)(1990)(map).zip
+:	:	girls control (ja)(19xx)(hard).zip
+:	:	girly block (ja)(1990)(the links).zip
+:	:	gladius (1992)(19xx).zip
+:	:	goldrush (nl)(1993)(wva).zip
+:	:	golvellius (1987)(compile).zip
+:	:	goody (sp)(1987)(operasoft).zip
+:	:	gram cats (ja)(19xx)(disk 1 of 2).zip
+:	:	gram cats (ja)(19xx)(disk 2 of 2).zip
+:	:	graph saurus 2 (ja)(1991)(bit 2).zip
+:	:	graph saurus 2.0 (1991)(bit2).zip
+:	:	greatest drive (ja)(1988)(t&e soft)[disk 1 of 2].zip
+:	:	greatest drive (ja)(1988)(t&e soft)[disk 2 of 2].zip
+:	:	greatest drive 2d (1988)(t&e soft).zip
+:	:	green crystal (ja)(1991)(compile).zip
+:	:	gryzor - contra (1989)(konami).zip
+:	:	gulliver.garibar (19xx)(cbc).zip
+:	:	gunbuster (ja)(1990)(gainax)[disk 1 of 3].zip
+:	:	gunbuster (ja)(1990)(gainax)[disk 2 of 3].zip
+:	:	gunbuster (ja)(1990)(gainax)[disk 3 of 3].zip
+:	:	gunship (1992)(microprose).zip
+:	:	hajafuin. hajya (19xx)(userdisk).zip
+:	:	hajafuin. hajya (19xx).zip
+:	:	halnote (1986)(hal).zip
+:	:	happy demo (merla soft).zip
+:	:	hard ball (1985)(accolade).zip
+:	:	herzog (ja)(1988)(tecnosoft).zip
+:	:	hexion 2 (ja)(19xx)(dob).zip
+:	:	hideger (ja)(19xx)(userdisk).zip
+:	:	hideger (ja)(19xx).zip
+:	:	higemaru (ja)(1987)(capcom).zip
+:	:	high school story (ja)(19xx)(great).zip
+:	:	hiranya no mazo (ja)(1986)(pony).zip
+:	:	hokkaido. gokdo (19xx)(micronet).zip
+:	:	hole in one special (1987)(hal).zip
+:	:	hot love 2 (19xx).zip
+:	:	how many robot (ja)(1988)(artdink).zip
+:	:	hydefos (ja)(1989)(hertz)(disk 1 of 2).zip
+:	:	hydefos (ja)(1989)(hertz)(disk 2 of 2).zip
+:	:	hydlide 1 (1984)(t&e soft).zip
+:	:	hydlide 2 (ja)(1985)(t&e soft)[dd].zip
+:	:	hydlide 3 (1987)(t&e soft).zip
+:	:	ifr-fly (1988)(philips).zip
+:	:	ikari warriors (ja)(1987)(snk).zip
+:	:	in the world of relics (1989)(bothtec).zip
+:	:	indianquest (ja)(1992)(office pasta).zip
+:	:	infinity (1991)(experience soft).zip
+:	:	inindo. el camino del ninja (19xx)(koei)(disk 1 of 3).zip
+:	:	inindo. el camino del ninja (19xx)(koei)(disk 2 of 3).zip
+:	:	inindo. el camino del ninja (19xx)(koei)(disk 3 of 3).zip
+:	:	ishido the way of stones (ja)(1991)(ascii)(disk 1 of 2).zip
+:	:	ishido the way of stones (ja)(1991)(ascii)(disk 2 of 2).zip
+:	:	jagur (ja)(1987)(hudson soft).zip
+:	:	jajanbo (19xx).zip
+:	:	jesus (ja)(1989)(enix)(disk 1 of 3).zip
+:	:	jesus (ja)(1989)(enix)(disk 2 of 3).zip
+:	:	jesus (ja)(1989)(enix)(disk 3 of 3).zip
+:	:	jiku no hanayome, heroic fantasy (ja)(19xx)(kogado)(disk 1 of 2).zip
+:	:	jiku no hanayome, heroic fantasy (ja)(19xx)(kogado)(disk 2 of 2).zip
+:	:	jiku no hanayome, heroic fantasy (ja)(19xx)(kogado)[disk 1 of 3].zip
+:	:	jiku no hanayome, heroic fantasy (ja)(19xx)(kogado)[disk 2 of 3].zip
+:	:	jiku no hanayome, heroic fantasy trainer (ja)(19xx)(kogado) [disk 3 of 3].zip
+:	:	jipshi (ja)(19xx)(champion soft).zip
+:	:	join 4 (1995).zip
+:	:	joker (ja)(1988)(birdy soft)(disk 1 of 3).zip
+:	:	joker (ja)(1988)(birdy soft)(disk 2 of 3).zip
+:	:	joker (ja)(1988)(birdy soft)(disk 3 of 3).zip
+:	:	joker ii (ja)(1989)(birdy soft)(disk 1 of 4).zip
+:	:	joker ii (ja)(1989)(birdy soft)(disk 2 of 4).zip
+:	:	joker ii (ja)(1989)(birdy soft)(disk 3 of 4).zip
+:	:	joker ii (ja)(1989)(birdy soft)(disk 4 of 4).zip
+:	:	kamino machi (ja)(1990)(panther soft)(disk 1 of 5).zip
+:	:	kamino machi (ja)(1990)(panther soft)(disk 2 of 5).zip
+:	:	kamino machi (ja)(1990)(panther soft)(disk 3 of 5).zip
+:	:	kamino machi (ja)(1990)(panther soft)(disk 4 of 5).zip
+:	:	kamino machi (ja)(1990)(panther soft)(disk 5 of 5).zip
+:	:	karuizaw (ja)(1985)(enix).zip
+:	:	kind gal's (ja)(1988)(hard)(disk 1 of 2).zip
+:	:	kind gal's (ja)(1988)(hard)(disk 2 of 2).zip
+:	:	kinetic connection (1986)(sony).zip
+:	:	king knight (1986)(square).zip
+:	:	king kong 2 (ja)(1986)(konami).zip
+:	:	king's valley 2 (1988)(konami).zip
+:	:	kioku - the strongest fandam's (19xx).zip
+:	:	kubikiri yakata - sachan ghyan (ja)(1989)(bit 2)[disk 1 of 5].zip
+:	:	kubikiri yakata - sachan ghyan (ja)(1989)(bit 2)[disk 2 of 5].zip
+:	:	kubikiri yakata - sachan ghyan (ja)(1989)(bit 2)[disk 3 of 5].zip
+:	:	kubikiri yakata - sachan ghyan (ja)(1989)(bit 2)[disk 4 of 5].zip
+:	:	kubikiri yakata - sachan ghyan (ja)(1989)(bit 2)[disk 5 of 5].zip
+:	:	kujaku (ja)(19xx)(pony).zip
+:	:	kutisakikaia (ja)(19xx)(hard).zip
+:	:	l'affaire (fr)(1986)(infogrames).zip
+:	:	l'empereur (ja)(19xx)(koei)(disk 1 of 2).zip
+:	:	l'empereur (ja)(19xx)(koei)(disk 2 of 2).zip
+:	:	l. elle (1992)(elf)(disks 1 of 7).zip
+:	:	l. elle (1992)(elf)(disks 2 of 7).zip
+:	:	l. elle (1992)(elf)(disks 3 of 7).zip
+:	:	l. elle (1992)(elf)(disks 4 of 7).zip
+:	:	l. elle (1992)(elf)(disks 5 of 7).zip
+:	:	l. elle (1992)(elf)(disks 6 of 7).zip
+:	:	l. elle (1992)(elf)(disks 7 of 7).zip
+:	:	la valeur (ja)(1989)(kogado)(disk 1 of 2).zip
+:	:	la valeur (ja)(1989)(kogado)(disk 2 of 2).zip
+:	:	labyrinth (ja)(19xx).zip
+:	:	laplas (ja)(1989)(humming bird soft).zip
+:	:	laser squad (it)(19xx)(hydra soft trento).zip
+:	:	lasp demo (1988)(lasp).zip
+:	:	last armageddon (ja)(1988)(brain grey)[disk 1 of 5].zip
+:	:	last armageddon (ja)(1988)(brain grey)[disk 2 of 5].zip
+:	:	last armageddon (ja)(1988)(brain grey)[disk 3 of 5].zip
+:	:	last armageddon (ja)(1988)(brain grey)[disk 4 of 5].zip
+:	:	last armageddon (ja)(1988)(brain grey)[disk 5 of 5].zip
+:	:	last darumadedon (ja)(1989)(sum soft).zip
+:	:	laydock (ja)(1986)(t&e soft).zip
+:	:	laydock 2 last attack (19xx)(t&e soft)(disk 1 of 2).zip
+:	:	laydock 2 last attack (19xx)(t&e soft)(disk 2 of 2).zip
+:	:	leather skirts (1987)(methodic solutions).zip
+:	:	leauty (ja)(19xx).zip
+:	:	legendly knight (1988)(topia).zip
+:	:	legendly nine gems (ja)(19xx)(tecnosoft).zip
+:	:	lemmings (1997)(ni).zip
+:	:	lenam sword of legend (ja)(1989)(hertz)(disk 1 of 4).zip
+:	:	lenam sword of legend (ja)(1989)(hertz)(disk 2 of 4).zip
+:	:	lenam sword of legend (ja)(1989)(hertz)(disk 3 of 4).zip
+:	:	leprechaun (nl)(1995)(triple soft).zip
+:	:	les passagers du vent (fr)(19xx)(infogrames).zip
+:	:	lick & mick (ja)(1984)(hummingbird soft)[dd].zip
+:	:	lick & mick - kumdan-f (ja)(1984)(humming bird soft).zip
+:	:	litkeiba (ja)(19xx)(m2 club).zip
+:	:	logic blob (1996)(eternal interactive).zip
+:	:	lola (1989)(bcn).zip
+:	:	love to casablanca (ja)(1987)(thinking rabbit)(disk 1 of 2).zip
+:	:	love to casablanca (ja)(1987)(thinking rabbit)(disk 2 of 2).zip
+:	:	loves disc 2 (ja)(19xx)(office pasta).zip
+:	:	lubeck (1989)(msx magazine).zip
+:	:	lucha con dios en la ciudad (ja)(1991)(alice soft)(disk 1 of 8).zip
+:	:	lucha con dios en la ciudad (ja)(1991)(alice soft)(disk 5 of 8).zip
+:	:	lucha con dios en la ciudad (ja)(1991)(alice soft)(disk 8 of 8).zip
+:	:	lulba (ja)(1990)(compile).zip
+:	:	lulba 1 (ja)(1988)(compile).zip
+:	:	lulba 2 (ja)(1988)(compile).zip
+:	:	lulba 3 (ja)(1989)(compile).zip
+:	:	madonna yamaku (ja)(19xx).zip
+:	:	madoo monogatori (ja)(1990)(compile)[disk 1 of 5].zip
+:	:	madoo monogatori (ja)(1990)(compile)[disk 2 of 5].zip
+:	:	madoo monogatori (ja)(1990)(compile)[disk 3 of 5].zip
+:	:	madoo monogatori (ja)(1990)(compile)[disk 4 of 5].zip
+:	:	madoo monogatori (ja)(1990)(compile)[disk 5 of 5].zip
+:	:	magical labyrinth remix, promo beta 1 (ja)(1995)(gigamix)(promo).zip
+:	:	magical voice (ja)(1989)(compile).zip
+:	:	magnar (1989)(parallax)(disk 1 of 3).zip
+:	:	magnar (1989)(parallax)(disk 2 of 3).zip
+:	:	magnar (1989)(parallax)(disk 3 of 3).zip
+:	:	magnum - prohibition 1931 (1988)(toshiba).zip
+:	:	mahjong kyo special ii (ja)(19xx)(micronet)(disk 1 of 2).zip
+:	:	mahjong kyo special ii (ja)(19xx)(micronet)(disk 2 of 2).zip
+:	:	mahjong shikaku (ja)(1990)(nichibutsu)(disk 1 of 3).zip
+:	:	mahjong shikaku (ja)(1990)(nichibutsu)[disk 1 of 3].zip
+:	:	mahjong shikaku (ja)(1990)(nichibutsu)[disk 2 of 3].zip
+:	:	mahjong shikaku (ja)(1990)(nichibutsu)[disk 3 of 3].zip
+:	:	maison ikkoku (ja)(1987)(micro cabin).zip
+:	:	maison ikkoku final episode (ja)(1988)(micro cabin).zip
+:	:	majutsushi. mah-jong 2 (ja)(1989)(konami).zip
+:	:	makaif (ja)(19xx)(wing)(disk 1 of 2).zip
+:	:	makaif (ja)(19xx)(wing)(disk 2 of 2).zip
+:	:	makyu (ja)(19xx).zip
+:	:	malaya no hihou (1988)(pony).zip
+:	:	manhattan requiem, angels flying in the dark, series #2 (ja)(19xx)(river hill soft).zip
+:	:	manhattan requiem, kiss of murder (ja)(1990)(river hill soft).zip
+:	:	marble choco let (1994)(19xx).zip
+:	:	marble world (1989)(peter jess).zip
+:	:	marchen (1991).zip
+:	:	marchen veil (ja)(1986)(sacom).zip
+:	:	master of monsters (ja)(1988)(system soft)(disk 1 of 2).zip
+:	:	master of monsters (ja)(1988)(system soft)(disk 2 of 2).zip
+:	:	masters' history (19xx)(disk 1 of 3).zip
+:	:	masters' history (19xx)(disk 2 of 3).zip
+:	:	masters' history (19xx)(disk 3 of 3).zip
+:	:	matrix v1.0 (1993)(bcn).zip
+:	:	mattix (ja)(19xx)(pack in video).zip
+:	:	megadoom (1992)(fcs)(2 disks)(demo).zip
+:	:	megaz monkeydo (ja)(1990)(compile).zip
+:	:	membership golf (ja)(1989)(sony)(disk 1 of 2).zip
+:	:	membership golf (ja)(1989)(sony)(disk 2 of 2).zip
+:	:	metal gear (1987)(konami).zip
+:	:	metal gear 2 - solid snake (1990)(konami).zip
+:	:	meteorite kiss (2000)(suzumikaki's factory).zip
+:	:	might and magic book two, gates to another world! (ja)(19xx)(disk 1 of 2).zip
+:	:	might and magic book two, gates to another world! (ja)(19xx)(disk 2 of 2).zip
+:	:	mighty battle skin panic (ja)(1993)(gainax)[disk 1 of 4].zip
+:	:	mighty battle skin panic (ja)(1993)(gainax)[disk 2 of 4].zip
+:	:	mighty battle skin panic (ja)(1993)(gainax)[disk 3 of 4].zip
+:	:	mighty battle skin panic (ja)(1993)(gainax)[disk 4 of 4].zip
+:	:	migicon scroll text (1991)(slayerman).zip
+:	:	milnas. majingu, strategic role play (19xx)(xain soft).zip
+:	:	mine-sveiper (nl)(1993)(norhtwind).zip
+:	:	mission a (1989)(lamant).zip
+:	:	mon mon monster (1989)(hot-b).zip
+:	:	monoghatai. binbin (1987)(east cube).zip
+:	:	moon landing (ja)(1988).zip
+:	:	mouse games (1988).zip
+:	:	moving school (ja)(1987)(hard).zip
+:	:	moving squares (1990)(19xx).zip
+:	:	mr ghost (ja)(1989)(sacom).zip
+:	:	mr ghost 2 - yurei (1989)(sacom).zip
+:	:	ms field gundam (1988)(family soft).zip
+:	:	msx fan - fandom library 8 (ja)(1990)(tokuma shoten).zip
+:	:	msx wars 5 (ja)(19xx)(syntax).zip
+:	:	msx2 demo digitalizaciones (sp)(1987)(majara soft).zip
+:	:	msx2 spring (ja)(1989)(asica).zip
+:	:	mule (ja)(19xx)(bps).zip
+:	:	murder club final mystery (ja)(19xx)(micro cabin).zip
+:	:	music demo (nl)(19xx)(jlsa soft).zip
+:	:	nekketsu judo (ja)(1989)(pony canyon).zip
+:	:	new legendly nine gems. shinku (19xx)(tecnosoft)(disk 1 of 2).zip
+:	:	new legendly nine gems. shinku (19xx)(tecnosoft)(disk 2 of 2).zip
+:	:	nichiyou uchujin (ja)(19xx)(disk 1 of 2).zip
+:	:	nichiyou uchujin (ja)(19xx)(disk 2 of 2).zip
+:	:	nightmare on elmstreet 4 (19xx)(unicorn).zip
+:	:	nihongo kotora streeptease (ja)(1988)(nihon bussan).zip
+:	:	niko 2 (e)(1991)(wolf team).zip
+:	:	ninja (ja)(1988)(bothtec).zip
+:	:	ninja - youmakor (1988)(dexter).zip
+:	:	ninja kun (ja)(1987)(hal).zip
+:	:	no fuss (1991)(anma).zip
+:	:	nobu_f (ja)(19xx)(koei)(disk 1 of 2).zip
+:	:	nobu_f (ja)(19xx)(koei)(disk 2 of 2).zip
+:	:	nobunaga 1 (ja)(19xx)(koei).zip
+:	:	nobunaga 3 (ja)(19xx)(koei).zip
+:	:	nobunaga no yabou gaba (ja)(19xx)(koei)(disk 1 of 2).zip
+:	:	nobunaga no yabou gaba (ja)(19xx)(koei)(disk 2 of 2).zip
+:	:	nosh (1992)(anma).zip
+:	:	not again! (1994)(flying bytes).zip
+:	:	nueve principes en amber (sp)(1986)(idealogic)(disk 1 of 3).zip
+:	:	nueve principes en amber (sp)(1986)(idealogic)(disk 2 of 3).zip
+:	:	nueve principes en amber (sp)(1986)(idealogic)(disk 3 of 3).zip
+:	:	nukenin (ja)(19xx)(brain grey)(disk 1 of 5).zip
+:	:	nukenin (ja)(19xx)(brain grey)(disk 2 of 5).zip
+:	:	nukenin (ja)(19xx)(brain grey)(disk 3 of 5).zip
+:	:	nukenin (ja)(19xx)(brain grey)(disk 4 of 5).zip
+:	:	nukenin (ja)(19xx)(brain grey)(disk 5 of 5).zip
+:	:	numarin 1 (ja)(1988)(are system).zip
+:	:	numarin 2 (ja)(1989)(are system).zip
+:	:	numarin 3 (ja)(1992)(are system).zip
+:	:	nyancle racing (ja)(1988)(matsushita-bit 2).zip
+:	:	ogre (19xx).zip
+:	:	onryod (ja)(19xx)(wing)(disk 1 of 4).zip
+:	:	onryod (ja)(19xx)(wing)(disk 2 of 4).zip
+:	:	onryod (ja)(19xx)(wing)(disk 3 of 4).zip
+:	:	onryod (ja)(19xx)(wing)(disk 4 of 4).zip
+:	:	orange road. kimaore1 (1988)(micro cabin).zip
+:	:	os cavaleiros do zodiaco (1996).zip
+:	:	ototch 2 (ja)(19xx).zip
+:	:	out run (1988)(pony).zip
+:	:	paccy (1993)(gbsoft).zip
+:	:	pacman (1993)(egega).zip
+:	:	palace prohibited (1990)(scap trust)(userdisk).zip
+:	:	palace prohibited (1990)(scap trust).zip
+:	:	palamede (1990)(hot-b).zip
+:	:	pallmith (1991)(elemental soft).zip
+:	:	pana amusement colection 1 (ja)(1990)(t&e soft).zip
+:	:	pana amusement colection 2 (ja)(1990)(t&e soft).zip
+:	:	paradream, parallel dream (1992)(rac house).zip
+:	:	patagoras, los gases (sp)(1986)(philips).zip
+:	:	penguin wars 2 (1988)(ascii).zip
+:	:	pennant race 2- baseball 3 (1989)(konami).zip
+:	:	pennant race- baseball 2 (ja)(1988)(konami).zip
+:	:	perfect soko-ban (19xx)(micro cabin)(disk 1 of 2).zip
+:	:	perfect soko-ban (19xx)(micro cabin)(disk 2 of 2).zip
+:	:	phantasie 4 (ja)(1991)(starcraft)[disk 1 of 2].zip
+:	:	phantasie 4 (ja)(1991)(starcraft)[disk 2 of 2].zip
+:	:	phantasie i (ja)(1988)(starcraft).zip
+:	:	phantasie ii (ja)(1989)(starcraft).zip
+:	:	phantasie iii (ja)(1990)(starcraft)(userdisk).zip
+:	:	phantasie iii (ja)(1990)(starcraft).zip
+:	:	playball 3 (ja)(1989)(sony).zip
+:	:	playboy late night (19xx)(msx club challenger).zip
+:	:	playboy, alles wat mannen boeit (nl)(1987)(powersoft).zip
+:	:	pocky (ja)(19xx)(pony)(disk 1 of 3).zip
+:	:	pocky (ja)(19xx)(pony)(disk 2 of 3).zip
+:	:	pocky (ja)(19xx)(pony)(disk 3 of 3).zip
+:	:	poles (ja)(1991)(apl).zip
+:	:	pooyan (fr)(19xx)(gerardin h).zip
+:	:	pooyan new (fr)(19xx).zip
+:	:	power ful 2 (ja)(1988)(db soft)(disk 1 of 4).zip
+:	:	power ful 2 (ja)(1988)(db soft)(disk 2 of 4).zip
+:	:	power ful 2 (ja)(1988)(db soft)(disk 3 of 4).zip
+:	:	power ful 2 (ja)(1988)(db soft)(disk 4 of 4).zip
+:	:	predator (1990)(pack in video)[a1].zip
+:	:	predator (e)(1990)(pack in video).zip
+:	:	princess (ja)(1989)(sony-cbs).zip
+:	:	princess maker (ja)(1992)(gainax)(disk 1 of 7).zip
+:	:	princess maker (ja)(1992)(gainax)(disk 2 of 7).zip
+:	:	princess maker (ja)(1992)(gainax)(disk 3 of 7).zip
+:	:	princess maker (ja)(1992)(gainax)(disk 4 of 7).zip
+:	:	princess maker (ja)(1992)(gainax)(disk 5 of 7).zip
+:	:	princess maker (ja)(1992)(gainax)(disk 6 of 7).zip
+:	:	princess maker (ja)(1992)(gainax)(disk 7 of 7).zip
+:	:	project a2 (1987)(pony).zip
+:	:	psy o blade (ja)(1988)(t&e soft)(disk 1 of 3).zip
+:	:	psy o blade (ja)(1988)(t&e soft)(disk 2 of 3).zip
+:	:	psy o blade (ja)(1988)(t&e soft)(disk 3 of 3).zip
+:	:	psychic war cosmic soldier 2 (ja)(19xx)(kdg soft).zip
+:	:	psycho ball (1993)(rat).zip
+:	:	psycho world (ja)(1988)(hertz).zip
+:	:	pumpkin adventure (1992)(umax)[a1].zip
+:	:	pumpkin adventure 3 promo (e)(1995)(umax).zip
+:	:	punky 2-sungma (ja)(1987)(sony-cbs).zip
+:	:	purofan (ja)(1988)(telenet).zip
+:	:	puyo puyo (1991)(compile).zip
+:	:	puzzle in london (ja)(19xx).zip
+:	:	qix (19xx).zip
+:	:	qop (1991)(lionsoft).zip
+:	:	quadromania (1987)(obisoft).zip
+:	:	quarth (1990)(konami).zip
+:	:	quattro (1989)(fcs).zip
+:	:	quinch (19xx)(mcev).zip
+:	:	quinpl (1988)(bit2).zip
+:	:	quiz master (ja)(19xx).zip
+:	:	racing cars. mad rider (1987)(carry lab).zip
+:	:	rad van fortuin (nl)(1991)(newvision).zip
+:	:	rairai (19xx).zip
+:	:	randar i (ja)(1989)(compile).zip
+:	:	randar ii, revenge of death (ja)(1989)(compile).zip
+:	:	rastan saga (1988)(taito).zip
+:	:	ray gun (ja)(1991)(elf)(disks 1 of 5).zip
+:	:	ray gun (ja)(1991)(elf)(disks 2 of 5).zip
+:	:	ray gun (ja)(1991)(elf)(disks 3 of 5).zip
+:	:	ray gun (ja)(1991)(elf)(disks 4 of 5).zip
+:	:	ray gun (ja)(1991)(elf)(disks 5 of 5).zip
+:	:	record of lodoss war (ja)(19xx)(humming bird soft)[disk 1 of 5 - opening].zip
+:	:	record of lodoss war (ja)(19xx)(humming bird soft)[disk 2 of 5 - game 1].zip
+:	:	record of lodoss war (ja)(19xx)(humming bird soft)[disk 3 of 5 - game 2].zip
+:	:	record of lodoss war (ja)(19xx)(humming bird soft)[disk 4 of 5 - game 3].zip
+:	:	record of lodoss war (ja)(19xx)(humming bird soft)[disk 5 of 5 - userdisk].zip
+:	:	replican (1987)(sony).zip
+:	:	return of jelda (1987)(carry lab).zip
+:	:	reviver real time adventure (ja)(1987)(arsys)(disk 1 of 2).zip
+:	:	reviver real time adventure (ja)(1987)(arsys)(disk 2 of 2).zip
+:	:	revolt 1789 (fra)(19xx)(legent software)[disk 1 of 3].zip
+:	:	revolt 1789 (fra)(19xx)(legent software)[disk 2 of 3].zip
+:	:	revolt 1789 (fra)(19xx)(legent software)[disk 3 of 3].zip
+:	:	rick dangerous extra levels (1991)(paragon).zip
+:	:	riot (1990)(hatimitsu demon).zip
+:	:	risiko u.s.a. (spa)(1989)(ifi).zip
+:	:	roads to victory - risk - estrategic art of war (1986)(micro cabin).zip
+:	:	robo crush (ja)(1990)(system soft)(disk 1 of 2).zip
+:	:	robo crush (ja)(1990)(system soft)(disk 2 of 2).zip
+:	:	robowres (19xx)(zemina).zip
+:	:	rogue alliance (ja)(19xx).zip
+:	:	rona (ja)(19xx)(dixie).zip
+:	:	royal blood (ja)(19xx)(koei)(disk 1 of 2).zip
+:	:	royal blood (ja)(19xx)(koei)(disk 2 of 2).zip
+:	:	royal blood (ja)(19xx)(koei)(userdisk).zip
+:	:	rune master (ja)(1989)(compile).zip
+:	:	rune master 2 (ja)(1990)(compile).zip
+:	:	rune master 3 (ja)(1991)(compile)(disk 1 of 3).zip
+:	:	rune master 3 (ja)(1991)(compile)(disk 2 of 3).zip
+:	:	rune master 3 (ja)(1991)(compile)(disk 3 of 3).zip
+:	:	rune worth (ja)(1990)(t&e soft)(disk 1 of 3).zip
+:	:	rune worth (ja)(1990)(t&e soft)(disk 2 of 3).zip
+:	:	rune worth (ja)(1990)(t&e soft)(disk 3 of 3).zip
+:	:	rune worth (ja)(1990)(t&e soft)(userdisk).zip
+:	:	running dragon (19xx)(polysoft).zip
+:	:	ryukyu (19xx)(login soft).zip
+:	:	sa zi ri - saziri (1988)(telenet).zip
+:	:	salas freehand v1.3 (19xx)(msx link international).zip
+:	:	samurai - ganbare goemon (ja)(1987)(konami).zip
+:	:	sanae (1992)(19xx).zip
+:	:	sangoku 1 (ja)(19xx)(koei).zip
+:	:	sangoku 2 (ja)(19xx)(koei)(disk 1 of 2).zip
+:	:	sangoku 2 (ja)(19xx)(koei)(disk 2 of 2).zip
+:	:	sangoku 2 (ja)(19xx)(koei)(userdisk).zip
+:	:	schwarzschild (ja)(19xx)(kogado)(disk 1 of 2).zip
+:	:	schwarzschild (ja)(19xx)(kogado)(disk 2 of 2).zip
+:	:	schwarzschild ii (ja)(19xx)(kogado)(disk 1 of 2).zip
+:	:	schwarzschild ii (ja)(19xx)(kogado)(disk 2 of 2).zip
+:	:	scrabble triton (1991)(osaka soft).zip
+:	:	scramble formation (1987)(taito).zip
+:	:	sd gundam 2 (ja)(1990)(sunrise).zip
+:	:	sea sardine (1991)(ascii).zip
+:	:	seilane (ja)(1987)(micro cabin)(disk 1 of 2).zip
+:	:	seilane (ja)(1987)(micro cabin)(disk 2 of 2).zip
+:	:	sexy pictures puzzel (nl)(1987)(pussy).zip
+:	:	shadow hero 3 (ja)(1993)(syntax).zip
+:	:	shalom - knightmare 3 (ja)(1987)(konami).zip
+:	:	shanghai (1987)(system soft).zip
+:	:	shanghai 2 (1989)(system soft).zip
+:	:	shenan dragon (ja)(1990)(technopolis soft)(disk 1 of 2).zip
+:	:	shenan dragon (ja)(1990)(technopolis soft)(disk 2 of 2).zip
+:	:	shrines of enigma (19xx)(enigma).zip
+:	:	shuffle puck (19xx)(mad).zip
+:	:	silviana (ja)(1990)(pack in video).zip
+:	:	slgbanza (ja)(1991)(msx magazine).zip
+:	:	snakes & laers (1988)(fss).zip
+:	:	sofia (1987)(dempa).zip
+:	:	soldier of fisla (ja)(1990)(compile).zip
+:	:	solid snail (1994)(vivid).zip
+:	:	solitaire (1990)(gohsoft).zip
+:	:	solitaire royale (1988)(game arts).zip
+:	:	sony hb-f1xv (ja)(1990)(sony).zip
+:	:	space force (19xx).zip
+:	:	space manbow (1989)(konami).zip
+:	:	space war. ginden ii (1990)(bothtec)(disk 1 of 5).zip
+:	:	space war. ginden ii (1990)(bothtec)(disk 2 of 5).zip
+:	:	space war. ginden ii (1990)(bothtec)(disk 3 of 5).zip
+:	:	space war. ginden ii (1990)(bothtec)(disk 4 of 5).zip
+:	:	space war. ginden ii (1990)(bothtec)(disk 5 of 5).zip
+:	:	speed game (ja)(1989)(soft house).zip
+:	:	sphere 2 (sp)(19xx).zip
+:	:	spiel borse (nl)(1987).zip
+:	:	squeek (1991)(anma).zip
+:	:	star ship rendzvous (ja)(1988)(scap trust).zip
+:	:	star ship rendzvous special stage - michelle  (ja)(1988)(scap trust).zip
+:	:	star virgin (ja)(19xx).zip
+:	:	star wars (19xx)(ft soft).zip
+:	:	steinzeit (19xx)(data beutner kg).zip
+:	:	strategic mars (1988)(db soft).zip
+:	:	street neo fighter 2 (1991)(neo).zip
+:	:	street snatch (1994)(futuredisk).zip
+:	:	sugo 8 (ja)(1989)(msx magazine).zip
+:	:	suiko (ja)(19xx)(koei).zip
+:	:	super boy 3 (1991)(zemina).zip
+:	:	super cooks (1989)(compile).zip
+:	:	super daisenryakiu (ja)(1988)(system soft).zip
+:	:	super deform snatcher (ja)(1990)(konami)(disk 1 of 3).zip
+:	:	super deform snatcher (ja)(1990)(konami)(disk 2 of 3).zip
+:	:	super deform snatcher (ja)(1990)(konami)(disk 3 of 3).zip
+:	:	super rambo special (ja)(1985)(pack in video).zip
+:	:	super runner (1988)(pony).zip
+:	:	super tritorn (1986)(sein soft).zip
+:	:	super tritorn 2, road of darkness (ja)(1988)(sein soft)(disk 1 of 4).zip
+:	:	super tritorn 2, road of darkness (ja)(1988)(sein soft)(disk 2 of 4).zip
+:	:	super tritorn 2, road of darkness (ja)(1988)(sein soft)(disk 3 of 4).zip
+:	:	super tritorn 2, road of darkness (ja)(1988)(sein soft)(disk 4 of 4).zip
+:	:	super trotorn (1986)(sein soft).zip
+:	:	super zelixer (1989)(msx magazine).zip
+:	:	super zelixer 2 (1989)(msx magazine).zip
+:	:	superstars of wrestling (1992)(enigma soft).zip
+:	:	takkae zigsaw (19xx)(micro cabin).zip
+:	:	tako and ika (1992)(ofuko).zip
+:	:	takoika (19xx).zip
+:	:	tamanegi (ja)(1989)(onion software).zip
+:	:	tamba (ja)(1987)(yonezawa).zip
+:	:	tanikawa's syogi sinan 2 (ja)(1989)(pony).zip
+:	:	tantei-x (ja)(1989)(heart soft)(disk 1 of 3).zip
+:	:	tantei-x (ja)(1989)(heart soft)(disk 2 of 3).zip
+:	:	tantei-x (ja)(1989)(heart soft)(disk 3 of 3).zip
+:	:	tdf (ja)(19xx).zip
+:	:	teachers terror (1993)(hegega).zip
+:	:	tempo typen (nl)(1986)(radar soft).zip
+:	:	test driver (ja)(1988)(charada).zip
+:	:	testament (19xx)(glodia)(disk 1 of 2).zip
+:	:	testament (19xx)(glodia)(disk 2 of 2).zip
+:	:	tetmas operation maison (1989)(final star).zip
+:	:	tetmas operation orange road (1989)(final star).zip
+:	:	tetris (1991)(bps).zip
+:	:	tetris disney (1990)(michi).zip
+:	:	tetris master (ja)(1989)(final star).zip
+:	:	tetrix (sp)(19xx).zip
+:	:	the 4th unit (ja)(19xx)(data west).zip
+:	:	the 4th unit 2 (ja)(19xx)(data west).zip
+:	:	the 4th unit 3 (ja)(19xx)(data west)(disk 1 of 2).zip
+:	:	the 4th unit 3 (ja)(19xx)(data west)(disk 2 of 2).zip
+:	:	the avenger of death (19xx)(system breaker).zip
+:	:	the bass demo (1988)(xela soft).zip
+:	:	the castle of zariostro (1987)(toho cinefile).zip
+:	:	the chess game 2 (1986)(bytebusters).zip
+:	:	the cockpit (19xx)(nidecom).zip
+:	:	the eye (1987)(endurance).zip
+:	:	the fac demo (1988)(gizmo).zip
+:	:	the fairyland story (1987)(hot-b).zip
+:	:	the fantasm soldier (ja)(1987)(telenet)[dd].zip
+:	:	the fantasm soldier 2 - valis (ja)(1989)(telenet-reno)[disk 1 of 4].zip
+:	:	the fantasm soldier 2 - valis (ja)(1989)(telenet-reno)[disk 2 of 4].zip
+:	:	the fantasm soldier 2 - valis (ja)(1989)(telenet-reno)[disk 3 of 4].zip
+:	:	the fantasm soldier 2 - valis (ja)(1989)(telenet-reno)[disk 4 of 4].zip
+:	:	the golf (ja)(19xx)(pack in video)(disk 1 of 3).zip
+:	:	the golf (ja)(19xx)(pack in video)(disk 2 of 3).zip
+:	:	the golf (ja)(19xx)(pack in video)(disk 3 of 3).zip
+:	:	the great gianna sisters (1989)(sunrise).zip
+:	:	the havoc (1990)(traposoft).zip
+:	:	the key (19xx).zip
+:	:	the last mission (sp)(1985)(opera soft).zip
+:	:	the man i love, disk mystery #4 (ja)(19xx)(thinking rabbit)(disk 1 of 2).zip
+:	:	the man i love, disk mystery #4 (ja)(19xx)(thinking rabbit)(disk 2 of 2).zip
+:	:	the missile human (ja)(1989)(sum soft).zip
+:	:	the return of ishtar (1988)(namcot).zip
+:	:	the stone of agni (ja)(19xx)(humming bird soft).zip
+:	:	the three-eyed one comes here - mitsume ga tooru 3lie-mon (ja)(1989)(natsume).zip
+:	:	the tower of cabin (ja)(1992)(micro cabin)(disk 1 of 3).zip
+:	:	the tower of cabin (ja)(1992)(micro cabin)(disk 2 of 3).zip
+:	:	the tower of cabin (ja)(1992)(micro cabin)(disk 3 of 3).zip
+:	:	the treasure of usas (ja)(1987)(konami).zip
+:	:	the tucs (1989)(msx magazine).zip
+:	:	the uhf painter (it)(1992)(enigma soft).zip
+:	:	the wig (1989)(msx magazine).zip
+:	:	the witch iz (ja)(1991)(chihiro)(ascii).zip
+:	:	thunderbal (nl)(1986)(bytebusters).zip
+:	:	timer ball (ja)(1990)(ascat).zip
+:	:	tir-nan-og (ja)(19xx)(disk 1 of 3).zip
+:	:	tir-nan-og (ja)(19xx)(disk 2 of 3).zip
+:	:	tir-nan-og (ja)(19xx)(disk 3 of 3).zip
+:	:	tnt (1987)(infogrames).zip
+:	:	topple zip 2 (1988)(bothtec).zip
+:	:	total parodius (19xx)(gemilis art)(promo).zip
+:	:	touwtrekken, tug-of-war (19xx)(smeekes)[a1].zip
+:	:	trojka (1992)(bcf).zip
+:	:	troxx (1993)(anma).zip
+:	:	tw cup (ja)(19xx)(atsic).zip
+:	:	twinkle star (ja)(1989)(msx magazine).zip
+:	:	ultima i, the first age of darkness (ja)(1986)(pony).zip
+:	:	ultima iv, quest of the avatar (ja)(1987)(pony)(disk 1 of 2).zip
+:	:	ultima iv, quest of the avatar (ja)(1987)(pony)(disk 2 of 2).zip
+:	:	unicorn corporation demo (nl)(1990)(unicorn)(disk 1 of 2).zip
+:	:	unicorn corporation demo (nl)(1990)(unicorn)(disk 2 of 2).zip
+:	:	unipaint (1985)(unison world).zip
+:	:	uranai. fortune teller (1988)(konami).zip
+:	:	urusei yatsura (ja)(1987)(micro cabin).zip
+:	:	usajong - babi in the world (ja)(1989)(compile).zip
+:	:	uwasa (ja)(19xx).zip
+:	:	uxsis (19xx).zip
+:	:	vampire killer. demon castle dracula (1987)(konami).zip
+:	:	vectron (1989)(parallax).zip
+:	:	veroveraar (nl)(19xx).zip
+:	:	war of the dead (ja)(1989)(fun factory).zip
+:	:	war of the dead ii (ja)(1990)(fun factory)(disk 1 of 2).zip
+:	:	war of the dead ii (ja)(1990)(fun factory)(disk 2 of 2).zip
+:	:	warau (ja)(1991)(compile)(disk 1 of 2).zip
+:	:	warau (ja)(1991)(compile)(disk 2 of 2).zip
+:	:	warning (ja)(1989).zip
+:	:	wast year iron maiden (1989)(unicorn).zip
+:	:	wellen (19xx)(frieven).zip
+:	:	what's michael (ja)(1989)(micro cabin)(disk 1 of 2).zip
+:	:	what's michael (ja)(1989)(micro cabin)(disk 2 of 2).zip
+:	:	whipple (1992)(pastel hope).zip
+:	:	wingman (ja)(19xx)(disk 1 of 2).zip
+:	:	wingman (ja)(19xx)(disk 2 of 2).zip
+:	:	winning solution (ja)(1990)(cosmos computer)(disk 1 of 2).zip
+:	:	winning solution (ja)(1990)(cosmos computer)(disk 2 of 2).zip
+:	:	wiz kids (ja)(1991)(19xx).zip
+:	:	wizardry (ja)(1987)(foretune).zip
+:	:	woody poco (ja)(1987)(db soft).zip
+:	:	word up (1988)(fss).zip
+:	:	world golf (1985)(enix).zip
+:	:	world golf 2 (ja)(1987)(enix)(disk 1 of 2).zip
+:	:	world golf 2 (ja)(1987)(enix)(disk 2 of 2).zip
+:	:	x mas quarrel (19xx)(titansoft).zip
+:	:	xak 1, the art of visual stage (ja)(1989)(micro cabin)(disk 1 of 3).zip
+:	:	xak 1, the art of visual stage (ja)(1989)(micro cabin)(disk 2 of 3).zip
+:	:	xak 1, the art of visual stage (ja)(1989)(micro cabin)(disk 3 of 3).zip
+:	:	xak 2, the rising of the redmoon (1990)(micro cabin)(disk 1 of 5).zip
+:	:	xak 2, the rising of the redmoon (1990)(micro cabin)(disk 2 of 5).zip
+:	:	xak 2, the rising of the redmoon (1990)(micro cabin)(disk 3 of 5).zip
+:	:	xak 2, the rising of the redmoon (1990)(micro cabin)(disk 4 of 5).zip
+:	:	xak 2, the rising of the redmoon (1990)(micro cabin)(disk 5 of 5).zip
+:	:	xak 2, the rising of the redmoon (1990)(micro cabin)(userdisk).zip
+:	:	xak 3, the tower of gazzel (1991)(micro cabin)(disk 1 of 4).zip
+:	:	xak 3, the tower of gazzel (1991)(micro cabin)(disk 2 of 4).zip
+:	:	xak 3, the tower of gazzel (1991)(micro cabin)(disk 3 of 4).zip
+:	:	xak 3, the tower of gazzel (1991)(micro cabin)(disk 4 of 4).zip
+:	:	xevious (1988)(namcot).zip
+:	:	xyz (ja)(1987)(hal).zip
+:	:	xzr i (ja)(1989)(telenet)(disk 1 of 2).zip
+:	:	xzr i (ja)(1989)(telenet)(disk 2 of 2).zip
+:	:	xzr ii (ja)(1988)(telenet)(disk 1 of 2).zip
+:	:	xzr ii (ja)(1988)(telenet)(disk 2 of 2).zip
+:	:	yaji baseball (ja)(1989)(cross media).zip
+:	:	yaksa (ja)(19xx)(wolf team).zip
+:	:	yakyud 1 (ja)(1989)(nihon create)(disk 1 of 2).zip
+:	:	yakyud 1 (ja)(1989)(nihon create)(disk 2 of 2).zip
+:	:	yakyud 2 (ja)(1990)(nihon create)(disk 1 of 4).zip
+:	:	yakyud 2 (ja)(1990)(nihon create)(disk 2 of 4).zip
+:	:	yakyud 2 (ja)(1990)(nihon create)(disk 3 of 4).zip
+:	:	yakyud 2 (ja)(1990)(nihon create)(disk 4 of 4).zip
+:	:	zanac extra (1986)(pony).zip
+:	:	zanac metalica 1 v.2. (1988)(pony).zip
+:	:	zanacex (1986)(pony).zip
+:	:	zatsugaru olimpic (ja)(19xx)(hard).zip
+:	:	zaworzo. robot construction. zowazo world (1989)(msx magazine).zip
+:	:	zoids (ja)(1988)(toshiba).zip
+:	:	zombie hunter (ja)(1988)(hiscore).zip
+:	:	zone terra (1994)(quadrivium).zip
+:	:	zoo (nl)(1987)(radar soft).zip
+:	:	zoto (nl)(1987)(scorpionsoft).zip
+:	:	zynos, on the adventure islands (nl)(1991)(grischasoft).zip
+
+各ファイルのサイズ
+123 (19xx).zip,360666 Byte
+1942 (ja)(1987)(ascii).zip,108617 Byte
+3 square (1993)(emphasis).zip,114357 Byte
+31 (1995)(meuse soft).zip,46911 Byte
+3d fire (1987)(octopus bros).zip,8556 Byte
+7 narabe nights (ja)(1990)(satico).zip,26050 Byte
+abunai (ja)(19xx)(agorm).zip,81062 Byte
+acrojet (1985)(system soft).zip,40689 Byte
+aerobic (sp)(1986)(idealogic)(disk 1 of 2).zip,316923 Byte
+aerobic (sp)(1986)(idealogic)(disk 2 of 2).zip,291172 Byte
+aerobic (sp)(1986)(idealogic).zip,182932 Byte
+afterdark. harajuku (19xx)(kogado).zip,510899 Byte
+agees (ja)(19xx)(kogado).zip,127038 Byte
+akanbe dragon (1988)(hidaka).zip,170770 Byte
+aleste (ja)(1988)(compile).zip,117251 Byte
+aleste 2 (ja)(1989)(compile)(disk 1 of 3).zip,254447 Byte
+aleste 2 (ja)(1989)(compile)(disk 2 of 3).zip,233356 Byte
+aleste 2 (ja)(1989)(compile)(disk 3 of 3).zip,250211 Byte
+aleste gaiden (ja)(1989)(compile).zip,214383 Byte
+algo wars (ja)(1989)(msx magazine).zip,112976 Byte
+alice (ja)(1989)(wao)[disk 1 of 8].zip,276589 Byte
+alice (ja)(1989)(wao)[disk 2 of 8].zip,398389 Byte
+alice (ja)(1989)(wao)[disk 3 of 8].zip,366530 Byte
+alice (ja)(1989)(wao)[disk 4 of 8].zip,396899 Byte
+alice (ja)(1989)(wao)[disk 5 of 8].zip,341417 Byte
+alice (ja)(1989)(wao)[disk 6 of 8].zip,362466 Byte
+alice (ja)(1989)(wao)[disk 7 of 8].zip,352289 Byte
+alice (ja)(1989)(wao)[disk 8 of 8].zip,376724 Byte
+alice soft demo (ja)(1989)(alice soft)(disk 1 of 2).zip,161576 Byte
+alice soft demo (ja)(1989)(alice soft)(disk 2 of 2).zip,166759 Byte
+alien slime (1990)(ax-alex & raketto).zip,85964 Byte
+aliens 2 (1987)(activision).zip,54865 Byte
+am-pah-mata (ja)(19xx).zip,158110 Byte
+amazing cash (1990)(experience soft).zip,33673 Byte
+amazonas (sp)(1987)(idealogic)(disk 1 of 3).zip,414757 Byte
+amazonas (sp)(1987)(idealogic)(disk 2 of 3).zip,490539 Byte
+amazonas (sp)(1987)(idealogic)(disk 3 of 3).zip,481659 Byte
+amazonas (sp)(1987)(idealogic).zip,268980 Byte
+american soccer (1987)(nidecom).zip,33748 Byte
+an uncle in brazil (1995)(abyss).zip,165505 Byte
+anatomie de l'homme (sp)(1987)(forum micros).zip,114074 Byte
+ancient ys vanished omen 2 (ja)(1988)(disk 1 of 2 )(falcom).zip,305807 Byte
+ancient ys vanished omen 2 (ja)(1988)(disk 2 of 2)  (falcom).zip,276602 Byte
+ancient ys vanished omen 3 (ja)(1989)(disk 1 of 4)(falcom).zip,152251 Byte
+ancient ys vanished omen 3 (ja)(1989)(disk 2 of 4)(falcom).zip,165895 Byte
+ancient ys vanished omen 3 (ja)(1989)(disk 3 of 4)(falcom).zip,161426 Byte
+ancient ys vanished omen 3 (ja)(1989)(disk 4 of 4)(falcom).zip,165504 Byte
+ancient ys vanished, omen 1 (1987)(falcom).zip,236842 Byte
+angelus (ja)(1989)(enix)[disk 1 of 3].zip,620861 Byte
+angelus (ja)(1989)(enix)[disk 2 of 3].zip,643920 Byte
+angelus (ja)(1989)(enix)[disk 3 of 3].zip,620548 Byte
+anger (19xx)(marx).zip,138297 Byte
+animal land (ja)(1987)(enix).zip,91304 Byte
+ankoku (ja)(19xx).zip,342758 Byte
+anmas amusement disk (1992)(anma).zip,262507 Byte
+anoid (19xx).zip,142616 Byte
+arc demo (19xx)(parallax).zip,26618 Byte
+arctic (1987)(pony).zip,64203 Byte
+arcus (ja)(1987)(disk 1 of 3)(wolf team).zip,274247 Byte
+arcus (ja)(1987)(disk 2 of 3)(wolf team).zip,298519 Byte
+arcus (ja)(1987)(disk 3 of 3)(wolf team).zip,227495 Byte
+arcus 2 the silent symphony (ja)(19xx)(wolf team)(disk 1 of4).zip,451058 Byte
+arcus 2 the silent symphony (ja)(19xx)(wolf team)(disk 2 of4).zip,372340 Byte
+arcus 2 the silent symphony (ja)(19xx)(wolf team)(disk 3 of4).zip,341185 Byte
+arcus 2 the silent symphony (ja)(19xx)(wolf team)(disk 4 of4).zip,501226 Byte
+arcuso arch (ja)(19xx)(wolfteam).zip,480325 Byte
+arkanoid revenge of doh (1989)(taito).zip,55729 Byte
+arklight (ja)(1990)(scap trust).zip,286185 Byte
+arsene lupin 2 (ja)(1988)(toho cinefile).zip,58259 Byte
+ashguine (ja)(1987)(micro cabin).zip,133352 Byte
+ashguine 2 (1987)(t&e soft).zip,136064 Byte
+asteka 2 - taiyou no shinden (ja)(1987)(falcom).zip,169557 Byte
+atch project (ja)(1996)(gigamix).zip,170337 Byte
+aura battler dunbine (ja)(1991)(family soft)(disk 1 of 6).zip,178134 Byte
+aura battler dunbine (ja)(1991)(family soft)(disk 2 of 6).zip,289205 Byte
+aura battler dunbine (ja)(1991)(family soft)(disk 3 of 6).zip,302766 Byte
+aura battler dunbine (ja)(1991)(family soft)(disk 4 of 6).zip,247096 Byte
+aura battler dunbine (ja)(1991)(family soft)(disk 5 of 6).zip,293739 Byte
+aura battler dunbine (ja)(1991)(family soft)(disk 6 of 6).zip,236844 Byte
+aventure of randar iii (ja)(1990)(compile)(disk 1 of 5).zip,150364 Byte
+aventure of randar iii (ja)(1990)(compile)(disk 2 of 5).zip,360159 Byte
+aventure of randar iii (ja)(1990)(compile)(disk 3 of 5).zip,385868 Byte
+aventure of randar iii (ja)(1990)(compile)(disk 4 of 5).zip,326514 Byte
+aventure of randar iii (ja)(1990)(compile)(disk 5 of 5).zip,377183 Byte
+axe the real scc (1989)(bcf).zip,151000 Byte
+ayayo's love (ja)(19xx)(disk station).zip,163854 Byte
+babel. the new megablocks (1994)(cabinet).zip,132013 Byte
+back to the future (ja)(1986)(pony).zip,216981 Byte
+balance of power (ja)(1985)(ascii).zip,266484 Byte
+ballout (1988)(studio hg).zip,8253 Byte
+ballout 2 (1988)(studio hg).zip,10670 Byte
+ballout special (1989)(studio hg).zip,42144 Byte
+bank buster (nl)(19xx)(eurosoft).zip,73801 Byte
+barbarian (1988)(ford perfect).zip,203905 Byte
+barunba (1990)(namcot).zip,113568 Byte
+basaro attacker (19xx).zip,50984 Byte
+baseball ascii (1987)(ascii).zip,90940 Byte
+bastard (1987)(xain soft).zip,110709 Byte
+battle front europe (ja)(19xx)(koei)(disk 1 of 2).zip,289592 Byte
+battle front europe (ja)(19xx)(koei)(disk 2 of 2).zip,328605 Byte
+be-bop bout (1994)(marz project)(electromagic).zip,333781 Byte
+bedroom olympic (1987)(megasoft).zip,142502 Byte
+beppin (ja)(1988)(cain).zip,255396 Byte
+beyond (1986)(short program island).zip,9026 Byte
+bilupani (ja)(1990)(n&m soft).zip,23528 Byte
+black cyclon (1989)(parallax)(disk 1 of 2).zip,99247 Byte
+black cyclon (1989)(parallax)(disk 2 of 2).zip,108746 Byte
+blade lords (1997)(parallax).zip,85443 Byte
+boggle (nl)(1992)(tiple soft).zip,206700 Byte
+bon ball (1991)(kam's soft).zip,53845 Byte
+bozos big adventura (1992)(sunrise).zip,246703 Byte
+breaker (1987)(radar soft).zip,26794 Byte
+breaker (ja)(1994)(electro logic studio)(disk 1 of 2).zip,263020 Byte
+breaker (ja)(1994)(electro logic studio)(disk 2 of 2).zip,176003 Byte
+brisk (nl)(1994)(triple soft).zip,399715 Byte
+bubble bobble (1987)(taito).zip,71302 Byte
+bubbles (1989)(mgf)[a1].zip,38057 Byte
+burai (ja)(1990)(riverhill soft)(disk 1 of 6).zip,564148 Byte
+burai (ja)(1990)(riverhill soft)(disk 2 of 6).zip,481050 Byte
+burai (ja)(1990)(riverhill soft)(disk 3 of 6).zip,359188 Byte
+burai (ja)(1990)(riverhill soft)(disk 4 of 6).zip,453697 Byte
+burai (ja)(1990)(riverhill soft)(disk 5 of 6).zip,404324 Byte
+burai (ja)(1990)(riverhill soft)(disk 6 of 6).zip,526009 Byte
+burai 2 (ja)(19xx)(river hill soft)(disk 1 of 9).zip,396718 Byte
+burai 2 (ja)(19xx)(river hill soft)(disk 2 of 9).zip,397350 Byte
+burai 2 (ja)(19xx)(river hill soft)(disk 3 of 9).zip,392549 Byte
+burai 2 (ja)(19xx)(river hill soft)(disk 4 of 9).zip,338534 Byte
+burai 2 (ja)(19xx)(river hill soft)(disk 5 of 9).zip,382816 Byte
+burai 2 (ja)(19xx)(river hill soft)(disk 6 of 9).zip,386776 Byte
+burai 2 (ja)(19xx)(river hill soft)(disk 7 of 9).zip,390451 Byte
+burai 2 (ja)(19xx)(river hill soft)(disk 8 of 9).zip,489207 Byte
+burai 2 (ja)(19xx)(river hill soft)(disk 9 of 9).zip,348723 Byte
+butaporc (ja)(19xx)(t&e soft).zip,56208 Byte
+canvasa (ja)(19xx)(disk 1 of 3).zip,171860 Byte
+canvasa (ja)(19xx)(disk 2 of 3).zip,133833 Byte
+canvasa (ja)(19xx)(disk 3 of 3).zip,211926 Byte
+captures double vision (1987)(19xx).zip,248954 Byte
+castle adventure (nl)(1991)(drack soft).zip,44142 Byte
+castle of blackburn (19xx)(top soft).zip,105745 Byte
+cats nyan puzzle (1989)(compile).zip,101473 Byte
+celcion (1991)(spc soft).zip,96809 Byte
+choan super (ja)(19xx)(sequence).zip,58126 Byte
+chopper 2 (1989)(bytebusters).zip,55573 Byte
+chuka taisen (ja)(1988)(hot b).zip,121691 Byte
+cita con rama (sp)(1986)(idealogic)(disk 1 of 2).zip,393103 Byte
+cita con rama (sp)(1986)(idealogic)(disk 2 of 2).zip,429698 Byte
+city fight (ja)(1986)(pony).zip,39649 Byte
+cocos (1995).zip,288912 Byte
+colpo groso (it)(1988)(mad soft).zip,261408 Byte
+columns (ja)(1990)(telenet).zip,67210 Byte
+colums (1995).zip,7543 Byte
+compile's music (1988)(19xx).zip,94835 Byte
+conqueror (1992)(taracot).zip,58147 Byte
+construction craze (1990)(paragon).zip,232122 Byte
+cosmic soldier (br)(1985).zip,76626 Byte
+cowboyana jones (nl)(1991).zip,135316 Byte
+crafton & xunk (1987)(ere).zip,52664 Byte
+craze (ja)(1988)(heart soft).zip,76901 Byte
+crimson 1 (ja)(1987)(xtal soft).zip,291596 Byte
+crimson 2 (ja)(1989)(xtal soft)(disk 1 of 2).zip,214580 Byte
+crimson 2 (ja)(1989)(xtal soft)(disk 2 of 2).zip,289162 Byte
+crimson 3 (ja)(1990)(xtalsoft)(disk 1of 3).zip,132714 Byte
+crimson 3 (ja)(1990)(xtalsoft)(disk 2 of 3).zip,264159 Byte
+crimson 3 (ja)(1990)(xtalsoft)(disk 3 of 3).zip,184803 Byte
+cross blaim (1986)(db soft).zip,41473 Byte
+cubo rubik (nl)(1987).zip,33637 Byte
+cutdown (1987)(gen soft).zip,9769 Byte
+cyber punk adventure snatcher (ja)(1988)(konami)(disk 1 of 3).zip,476678 Byte
+cyber punk adventure snatcher (ja)(1988)(konami)(disk 2 of 3).zip,435911 Byte
+cyber punk adventure snatcher (ja)(1988)(konami)(disk 3 of 3).zip,445200 Byte
+cybernetic hi-school 2. highway buster (19xx)(gainax)(disk 1 of 3).zip,331469 Byte
+cybernetic hi-school 2. highway buster (19xx)(gainax)(disk 2 of 3).zip,171768 Byte
+cybernetic hi-school 2. highway buster (19xx)(gainax)(disk 3 of 3).zip,277968 Byte
+cybernetic highschool (ja)(19xx)(gainax)(disk 1 of 2).zip,225752 Byte
+cybernetic highschool (ja)(19xx)(gainax)(disk 2 of 2).zip,301303 Byte
+cytron (1994).zip,117936 Byte
+d.c. connection (1989)(river hill soft)(disk 1 of 3).zip,444275 Byte
+d.c. connection (1989)(river hill soft)(disk 2 of 3).zip,487468 Byte
+d.c. connection (1989)(river hill soft)(disk 3 of 3).zip,486620 Byte
+daikokai jidai (ja)(19xx)(koei)(disk 1 of 2).zip,216698 Byte
+daikokai jidai (ja)(19xx)(koei)(disk 2 of 2).zip,261958 Byte
+daisenryaku 2. super risk campaign v.2. (1992)(system soft)(disk 1 of 2).zip,297450 Byte
+daisenryaku 2. super risk campaign v.2. (1992)(system soft)(disk 2 of 2).zip,102374 Byte
+daiva 4 (ja)(1986-1987)(t&e soft)[dd].zip,137294 Byte
+daiva 5 (ja)(1986-1987)(t&e soft).zip,157754 Byte
+daiva iv asura's bloodfeud (1988)(t&e soft).zip,137202 Byte
+daiva v the cup of soma (1988)(t&e soft).zip,157769 Byte
+dante (ja)(1990)(msx magazine).zip,217300 Byte
+dante 2 (ja)(1992)(msx magazine)(disk 1 of 7 - 0).zip,39483 Byte
+dante 2 (ja)(1992)(msx magazine)(disk 3 of 7 - p).zip,118273 Byte
+dante 2 (ja)(1992)(msx magazine)(disk 4 of 7 - u).zip,6226 Byte
+dante 2 (ja)(1992)(msx magazine)(disk 6 of 7 - b).zip,39485 Byte
+dante 2 (ja)(1992)(msx magazine)(disk 7 of 7 - c).zip,162024 Byte
+dark sider (ja)(19xx)(city factory).zip,72965 Byte
+darwin 4078 (1988)(hudson soft).zip,59541 Byte
+dass (1992)(msx engine).zip,292045 Byte
+databook (ja)(19xx).zip,155185 Byte
+de sekte (nl)(1986)(radar soft).zip,34606 Byte
+dead of the brain day of the living dead (ja)(19xx)(nightmare collection)(disk 1 of 3).zip,434640 Byte
+dead of the brain day of the living dead (ja)(19xx)(nightmare collection)(disk 2 of 3).zip,384992 Byte
+dead of the brain day of the living dead (ja)(19xx)(nightmare collection)(disk 3 of 3).zip,503392 Byte
+deep forest (ja)(1987)(xain soft).zip,55156 Byte
+defcon (1989)(cesium 137).zip,42244 Byte
+delta force (nl)(1990)(experience soft).zip,84588 Byte
+demo digitalizaciones (spa)(1987)(majara soft).zip,230983 Byte
+destroyer (1986)(mind games).zip,20349 Byte
+detective story (nl)(1993)(timmy soft).zip,59886 Byte
+diablo (1991)(ascii).zip,52455 Byte
+didageki (ja)(19xx).zip,242473 Byte
+digan no maseki (ja)(19xx)(gdleen)(disk 1 of 6).zip,196535 Byte
+digan no maseki (ja)(19xx)(gdleen)(disk 2 of 6).zip,224171 Byte
+digan no maseki (ja)(19xx)(gdleen)(disk 3 of 6).zip,240923 Byte
+digan no maseki (ja)(19xx)(gdleen)(disk 4 of 6).zip,237725 Byte
+digan no maseki (ja)(19xx)(gdleen)(disk 5 of 6).zip,224616 Byte
+digan no maseki (ja)(19xx)(gdleen)(disk 6 of 6).zip,1161 Byte
+digger (ge)(1987)(data beutner kg).zip,13023 Byte
+dimies (1991)(h-corp).zip,10279 Byte
+dinamic publiser (1994)(rb soft).zip,136756 Byte
+dios (ja)(1990)(zain soft)(disk 1 of 5).zip,85018 Byte
+dios (ja)(1990)(zain soft)(disk 2 of 5).zip,115226 Byte
+dios (ja)(1990)(zain soft)(disk 3 of 5).zip,131267 Byte
+dios (ja)(1990)(zain soft)(disk 4 of 5).zip,110630 Byte
+dios (ja)(1990)(zain soft)(disk 5 of 5).zip,50999 Byte
+dires (1988)(bothtec).zip,41845 Byte
+diskcoo 3 (fr)(1989)(fabrice).zip,253779 Byte
+dix (1992)(msx engine).zip,37040 Byte
+dix demo (nl)(1991)(msx engine).zip,36958 Byte
+dixdaef (ja)(19xx)(tecnosoft).zip,161847 Byte
+dizzy (1992)(msx engine).zip,60584 Byte
+django collection 1 (fr)(1989)(django).zip,160355 Byte
+django collection 2 (fr)(1989)(django).zip,192050 Byte
+dome (ja)(1989)(sacom)(disk 1 of 2).zip,256742 Byte
+dome (ja)(1989)(sacom)(disk 2 of 2).zip,142821 Byte
+dot designers club (ja)(1989)(t&e soft).zip,156183 Byte
+dragon buster (ja)(1987)(namcot).zip,83180 Byte
+dragon city x (ja)(19xx)(fairy tale)(disk 1 of 4).zip,264256 Byte
+dragon city x (ja)(19xx)(fairy tale)(disk 2 of 4).zip,258753 Byte
+dragon city x (ja)(19xx)(fairy tale)(disk 3 of 4).zip,258329 Byte
+dragon city x (ja)(19xx)(fairy tale)(disk 4 of 4).zip,258872 Byte
+dragon knight (ja)(1989)(elf)(disk 1 of 4).zip,385776 Byte
+dragon knight (ja)(1989)(elf)(disk 2 of 4).zip,372352 Byte
+dragon knight (ja)(1989)(elf)(disk 3 of 4).zip,425275 Byte
+dragon knight (ja)(1989)(elf)(disk 4 of 4).zip,391844 Byte
+dragon knight 2 (ja)(1991)(elf)(disks 1 of 9).zip,472777 Byte
+dragon knight 2 (ja)(1991)(elf)(disks 2 of 9).zip,477646 Byte
+dragon knight 2 (ja)(1991)(elf)(disks 3 of 9).zip,460934 Byte
+dragon knight 2 (ja)(1991)(elf)(disks 4 of 9).zip,449015 Byte
+dragon knight 2 (ja)(1991)(elf)(disks 5 of 9).zip,489687 Byte
+dragon knight 2 (ja)(1991)(elf)(disks 6 of 9).zip,481301 Byte
+dragon knight 2 (ja)(1991)(elf)(disks 7 of 9).zip,479521 Byte
+dragon knight 2 (ja)(1991)(elf)(disks 8 of 9).zip,457301 Byte
+dragon knight 2 (ja)(1991)(elf)(disks 9 of 9).zip,459742 Byte
+dragon quest ii (ja)(1987)(enix).zip,169854 Byte
+dragon quiz (ja)(1988)(compile)(disk 2 of 2).zip,253696 Byte
+dragon quiz (ja)(1991)(compile).zip,263000 Byte
+dragon slayer 2, xanadu (ja)(1986)(falcom)(userdisk).zip,96000 Byte
+dragon slayer 2, xanadu (ja)(1986)(falcom).zip,203396 Byte
+dragon slayer 3, romancia (ja)(1986)(falcom).zip,1390 Byte
+dragon slayer 4, the drasle family (ja)(1987)(falcom).zip,112599 Byte
+dragon slayer 5, sorcerian (ja)(1987)(falcom)(disk 1 of 4).zip,124373 Byte
+dragon slayer 5, sorcerian (ja)(1987)(falcom)(disk 2 of 4).zip,115112 Byte
+dragon slayer 5, sorcerian (ja)(1987)(falcom)(disk 3 of 4).zip,104302 Byte
+dragon slayer 5, sorcerian (ja)(1987)(falcom)(disk 4 of 4).zip,100954 Byte
+dragon slayer 6 (ja)(1990)(falcom)(disk 1 of 4)[h].zip,279439 Byte
+dragon slayer 6 (ja)(1990)(falcom)(disk 2 of 4)[h].zip,219416 Byte
+dragon slayer 6 (ja)(1990)(falcom)(disk 3 of 4)[h].zip,246991 Byte
+dragon slayer 6 (ja)(1990)(falcom)(disk 4 of 4)[h].zip,253448 Byte
+dragon slayer 6, the legend of heroes (1990)(falcom)(disk 1 of 4).zip,279302 Byte
+dragon slayer 6, the legend of heroes (1990)(falcom)(disk 2 of 4).zip,229510 Byte
+dragon slayer 6, the legend of heroes (1990)(falcom)(disk 3 of 4).zip,255868 Byte
+dragon slayer 6, the legend of heroes (1990)(falcom)(disk 4 of 4).zip,257261 Byte
+dragon slayer 6, the legend of heroes (1990)(falcom)(userdisk).zip,191877 Byte
+dragon world (sp)(1986)(idealogic) (disk 1 of 3).zip,174177 Byte
+dragon world (sp)(1986)(idealogic) (disk 2 of 3).zip,220631 Byte
+dragon world (sp)(1986)(idealogic) (disk 3 of 3).zip,220178 Byte
+dragons eye super shangai (ja)(1991)(hot-b).zip,278562 Byte
+dream program system (ja)(19xx)(alice soft).zip,262153 Byte
+druid (ja)(1987)(dexter).zip,62779 Byte
+dungeon striker (ja)(19xx)(mj-2 software).zip,215156 Byte
+dynamite bowl (1987)(toshiba).zip,48424 Byte
+eagle war - erenubu elslid (ja)(19xx)(ncs).zip,79446 Byte
+earth (1996)(gws workshop).zip,157958 Byte
+ease (sp)(1987)(opera soft).zip,183334 Byte
+eastland campaing (ja)(19xx)(medo)(disk 1 of 2).zip,231119 Byte
+eastland campaing (ja)(19xx)(medo)(disk 2 of 2).zip,190227 Byte
+emerald dragon (ja)(19xx)(glodia)(disk 1 of 5 - opening demo).zip,274305 Byte
+emerald dragon (ja)(19xx)(glodia)(disk 2 of 5 - game disk).zip,310628 Byte
+emerald dragon (ja)(19xx)(glodia)(disk 3 of 5 - visual disk a).zip,267598 Byte
+emerald dragon (ja)(19xx)(glodia)(disk 4 of 5 - visual disk b).zip,313089 Byte
+emerald dragon (ja)(19xx)(glodia)(disk 5 of 5 - ending demo).zip,372715 Byte
+endlos (nl)(1986)(radar soft).zip,29340 Byte
+energy crash (19xx).zip,6704 Byte
+english holidays (1986)(philips).zip,110660 Byte
+erotic pac #1 (fr)(1989)(sink system)(disk 1 of 2).zip,99006 Byte
+erotic pac #1 (fr)(1989)(sink system)(disk 2 of 2).zip,96307 Byte
+evil spirit (1992)(19xx).zip,108554 Byte
+exterlien (ja)(19xx)(do)(disk 1 of 3).zip,244091 Byte
+exterlien (ja)(19xx)(do)(disk 2 of 3).zip,321131 Byte
+exterlien (ja)(19xx)(do)(disk 3 of 3).zip,223505 Byte
+f-zeru ex (1991)(madou yochien).zip,41549 Byte
+f1 namcot (ja)(1988)(namcot).zip,155825 Byte
+fahrenheit 451 (sp)(1986)(idealogic).zip,352529 Byte
+famicle parodic (1989)(bit2).zip,128028 Byte
+famicle parodic 2 (1988)(bit2)(disk 1 of 2).zip,223307 Byte
+famicle parodic 2 (1988)(bit2)(disk 2 of 2).zip,184132 Byte
+family billiards (sp)(1989)(pack in video)(genesis).zip,32362 Byte
+family boxing (1988)(sony).zip,1672 Byte
+fantasy zone (ja)(1986)(sega)[dd].zip,68418 Byte
+fantasy zone 2 (1987)(pony).zip,97864 Byte
+feedback (ja)(1988)(tecnosoft).zip,200710 Byte
+final countdown (1987)(bytebusters).zip,116247 Byte
+final fantasy (ja)(1985)(cia & pmm)(userdisk).zip,1505 Byte
+final fantasy (ja)(1985)(cia & pmm).zip,229140 Byte
+final potential (ja)(1990)(msx magazine)(anma).zip,53891 Byte
+final zone (ja)(1986)(telenet)[dd].zip,65713 Byte
+finally wizard (ja)(1989)(data system)(disk 1 of 3).zip,102688 Byte
+finally wizard (ja)(1989)(data system)(disk 2 of 3).zip,52485 Byte
+finally wizard (ja)(1989)(data system)(disk 3 of 3).zip,68143 Byte
+fireball (1987)(humming bird soft).zip,69634 Byte
+firebird. hinotori (1987)(konami).zip,96001 Byte
+fishing (ja)(1986)(19xx).zip,368511 Byte
+fishing freak (ja)(1989)(cross media)[dd].zip,88019 Byte
+fishing freak. sampeise (ja)(1989)(cross media).zip,87907 Byte
+fleet commander ii (ja)(1990)(ascii).zip,154449 Byte
+fony's demo disk 1 (1991)(fony).zip,153975 Byte
+for the day 2 (1990)(mirinae soft)(disk 1 of 3).zip,207760 Byte
+for the day 2 (1990)(mirinae soft)(disk 2 of 3).zip,240694 Byte
+for the day 2 (1990)(mirinae soft)(disk 3 of 3).zip,234731 Byte
+fray in magical adventure (ja)(1990)(micro cabin)(disks 1 of 4).zip,325127 Byte
+fray in magical adventure (ja)(1990)(micro cabin)(disks 2 of 4).zip,302079 Byte
+fray in magical adventure (ja)(1990)(micro cabin)(disks 3 of 4).zip,313463 Byte
+fray in magical adventure (ja)(1990)(micro cabin)(disks 4 of 4).zip,294779 Byte
+fray promo [ja][1990][microcabin].zip,319828 Byte
+fruta prohibida (fr)(1988).zip,94810 Byte
+fun-demo (nl)(1991)(fcs).zip,25358 Byte
+future time demo (1991)(sander soft).zip,116996 Byte
+gagdius (ja)(1989)(limia soft)(disk 1 of 2).zip,36093 Byte
+gagdius (ja)(1989)(limia soft)(disk 2 of 2).zip,55266 Byte
+gaia (ja)(19xx).zip,222757 Byte
+galf streem (ja)(19xx)(xain soft)(disk 1 of 3).zip,187592 Byte
+galf streem (ja)(19xx)(xain soft)(disk 2 of 3).zip,190130 Byte
+galf streem (ja)(19xx)(xain soft)(disk 3 of 3).zip,201339 Byte
+galf streem (ja)(19xx)(xain soft)(userdisk).zip,2497 Byte
+gall force (1986)(sony).zip,77518 Byte
+gallforce eternal story (ja)(1986)(scaptrust).zip,485033 Byte
+galmoon (ja)(19xx)(maron team).zip,108702 Byte
+game collection special (ja)(1989)(konami).zip,161478 Byte
+gandhara (ja)(1988)(19xx)(disk 1 of 2).zip,234769 Byte
+gandhara (ja)(1988)(19xx)(disk 2 of 2).zip,397520 Byte
+gandhara (ja)(1988)(y.hata)[disk 1 of 2].zip,73204 Byte
+gandhara (ja)(1988)(y.hata)[disk 2 of 2].zip,400438 Byte
+garyuo king (ja)(1987)(xain soft).zip,98274 Byte
+gaudi (ja)(1992)(wolf team)(disk 1 of 4).zip,173478 Byte
+gaudi (ja)(1992)(wolf team)(disk 2 of 4).zip,232021 Byte
+gaudi (ja)(1992)(wolf team)(disk 3 of 4).zip,204373 Byte
+gaudi (ja)(1992)(wolf team)(disk 4 of 4).zip,261158 Byte
+genghis khan (ja)(19xx)(koei)(disk 1 of 2).zip,351676 Byte
+genghis khan (ja)(19xx)(koei)(disk 2 of 2).zip,4166 Byte
+ginden (ja)(1989)(bothtec)(disk 1 of 2).zip,100711 Byte
+ginden (ja)(1989)(bothtec)(disk 2 of 2).zip,115458 Byte
+ginden (ja)(1989)(bothtec)[disk 1 of 2].zip,196454 Byte
+ginden (ja)(1989)(bothtec)[disk 2 of 2].zip,242670 Byte
+girl map (sp)(1990)(map).zip,97653 Byte
+girls control (ja)(19xx)(hard).zip,372861 Byte
+girly block (ja)(1990)(the links).zip,56892 Byte
+gladius (1992)(19xx).zip,107512 Byte
+goldrush (nl)(1993)(wva).zip,45035 Byte
+golvellius (1987)(compile).zip,74228 Byte
+goody (sp)(1987)(operasoft).zip,62266 Byte
+gram cats (ja)(19xx)(disk 1 of 2).zip,303830 Byte
+gram cats (ja)(19xx)(disk 2 of 2).zip,373496 Byte
+graph saurus 2 (ja)(1991)(bit 2).zip,139084 Byte
+graph saurus 2.0 (1991)(bit2).zip,126922 Byte
+greatest drive (ja)(1988)(t&e soft)[disk 1 of 2].zip,95637 Byte
+greatest drive (ja)(1988)(t&e soft)[disk 2 of 2].zip,162339 Byte
+greatest drive 2d (1988)(t&e soft).zip,41701 Byte
+green crystal (ja)(1991)(compile).zip,399582 Byte
+gryzor - contra (1989)(konami).zip,76288 Byte
+gulliver.garibar (19xx)(cbc).zip,227087 Byte
+gunbuster (ja)(1990)(gainax)[disk 1 of 3].zip,355284 Byte
+gunbuster (ja)(1990)(gainax)[disk 2 of 3].zip,168389 Byte
+gunbuster (ja)(1990)(gainax)[disk 3 of 3].zip,265464 Byte
+gunship (1992)(microprose).zip,129289 Byte
+hajafuin. hajya (19xx)(userdisk).zip,17731 Byte
+hajafuin. hajya (19xx).zip,157110 Byte
+halnote (1986)(hal).zip,322848 Byte
+happy demo (merla soft).zip,72489 Byte
+hard ball (1985)(accolade).zip,43801 Byte
+herzog (ja)(1988)(tecnosoft).zip,236107 Byte
+hexion 2 (ja)(19xx)(dob).zip,82097 Byte
+hideger (ja)(19xx)(userdisk).zip,16198 Byte
+hideger (ja)(19xx).zip,168614 Byte
+higemaru (ja)(1987)(capcom).zip,89465 Byte
+high school story (ja)(19xx)(great).zip,162769 Byte
+hiranya no mazo (ja)(1986)(pony).zip,84204 Byte
+hokkaido. gokdo (19xx)(micronet).zip,221678 Byte
+hole in one special (1987)(hal).zip,70013 Byte
+hot love 2 (19xx).zip,109801 Byte
+how many robot (ja)(1988)(artdink).zip,207053 Byte
+hydefos (ja)(1989)(hertz)(disk 1 of 2).zip,217597 Byte
+hydefos (ja)(1989)(hertz)(disk 2 of 2).zip,134642 Byte
+hydlide 1 (1984)(t&e soft).zip,51831 Byte
+hydlide 2 (ja)(1985)(t&e soft)[dd].zip,67388 Byte
+hydlide 3 (1987)(t&e soft).zip,259822 Byte
+ifr-fly (1988)(philips).zip,13418 Byte
+ikari warriors (ja)(1987)(snk).zip,72852 Byte
+in the world of relics (1989)(bothtec).zip,60727 Byte
+indianquest (ja)(1992)(office pasta).zip,255659 Byte
+infinity (1991)(experience soft).zip,50505 Byte
+inindo. el camino del ninja (19xx)(koei)(disk 1 of 3).zip,344515 Byte
+inindo. el camino del ninja (19xx)(koei)(disk 2 of 3).zip,221745 Byte
+inindo. el camino del ninja (19xx)(koei)(disk 3 of 3).zip,215593 Byte
+ishido the way of stones (ja)(1991)(ascii)(disk 1 of 2).zip,137459 Byte
+ishido the way of stones (ja)(1991)(ascii)(disk 2 of 2).zip,174806 Byte
+jagur (ja)(1987)(hudson soft).zip,106322 Byte
+jajanbo (19xx).zip,47569 Byte
+jesus (ja)(1989)(enix)(disk 1 of 3).zip,219151 Byte
+jesus (ja)(1989)(enix)(disk 2 of 3).zip,213545 Byte
+jesus (ja)(1989)(enix)(disk 3 of 3).zip,261957 Byte
+jiku no hanayome, heroic fantasy (ja)(19xx)(kogado)(disk 1 of 2).zip,177927 Byte
+jiku no hanayome, heroic fantasy (ja)(19xx)(kogado)(disk 2 of 2).zip,199117 Byte
+jiku no hanayome, heroic fantasy (ja)(19xx)(kogado)[disk 1 of 3].zip,356290 Byte
+jiku no hanayome, heroic fantasy (ja)(19xx)(kogado)[disk 2 of 3].zip,388335 Byte
+jiku no hanayome, heroic fantasy trainer (ja)(19xx)(kogado) [disk 3 of 3].zip,388351 Byte
+jipshi (ja)(19xx)(champion soft).zip,142893 Byte
+join 4 (1995).zip,18411 Byte
+joker (ja)(1988)(birdy soft)(disk 1 of 3).zip,351483 Byte
+joker (ja)(1988)(birdy soft)(disk 2 of 3).zip,384085 Byte
+joker (ja)(1988)(birdy soft)(disk 3 of 3).zip,395742 Byte
+joker ii (ja)(1989)(birdy soft)(disk 1 of 4).zip,374757 Byte
+joker ii (ja)(1989)(birdy soft)(disk 2 of 4).zip,295953 Byte
+joker ii (ja)(1989)(birdy soft)(disk 3 of 4).zip,349407 Byte
+joker ii (ja)(1989)(birdy soft)(disk 4 of 4).zip,329664 Byte
+kamino machi (ja)(1990)(panther soft)(disk 1 of 5).zip,277435 Byte
+kamino machi (ja)(1990)(panther soft)(disk 2 of 5).zip,356187 Byte
+kamino machi (ja)(1990)(panther soft)(disk 3 of 5).zip,289847 Byte
+kamino machi (ja)(1990)(panther soft)(disk 4 of 5).zip,322746 Byte
+kamino machi (ja)(1990)(panther soft)(disk 5 of 5).zip,352184 Byte
+karuizaw (ja)(1985)(enix).zip,130758 Byte
+kind gal's (ja)(1988)(hard)(disk 1 of 2).zip,394631 Byte
+kind gal's (ja)(1988)(hard)(disk 2 of 2).zip,410664 Byte
+kinetic connection (1986)(sony).zip,61456 Byte
+king knight (1986)(square).zip,52090 Byte
+king kong 2 (ja)(1986)(konami).zip,90556 Byte
+king's valley 2 (1988)(konami).zip,82677 Byte
+kioku - the strongest fandam's (19xx).zip,115779 Byte
+kubikiri yakata - sachan ghyan (ja)(1989)(bit 2)[disk 1 of 5].zip,268303 Byte
+kubikiri yakata - sachan ghyan (ja)(1989)(bit 2)[disk 2 of 5].zip,265094 Byte
+kubikiri yakata - sachan ghyan (ja)(1989)(bit 2)[disk 3 of 5].zip,223949 Byte
+kubikiri yakata - sachan ghyan (ja)(1989)(bit 2)[disk 4 of 5].zip,248643 Byte
+kubikiri yakata - sachan ghyan (ja)(1989)(bit 2)[disk 5 of 5].zip,206873 Byte
+kujaku (ja)(19xx)(pony).zip,238510 Byte
+kutisakikaia (ja)(19xx)(hard).zip,377518 Byte
+l'affaire (fr)(1986)(infogrames).zip,182961 Byte
+l'empereur (ja)(19xx)(koei)(disk 1 of 2).zip,152227 Byte
+l'empereur (ja)(19xx)(koei)(disk 2 of 2).zip,312539 Byte
+l. elle (1992)(elf)(disks 1 of 7).zip,533227 Byte
+l. elle (1992)(elf)(disks 2 of 7).zip,359185 Byte
+l. elle (1992)(elf)(disks 3 of 7).zip,460159 Byte
+l. elle (1992)(elf)(disks 4 of 7).zip,490074 Byte
+l. elle (1992)(elf)(disks 5 of 7).zip,485010 Byte
+l. elle (1992)(elf)(disks 6 of 7).zip,521778 Byte
+l. elle (1992)(elf)(disks 7 of 7).zip,381946 Byte
+la valeur (ja)(1989)(kogado)(disk 1 of 2).zip,289826 Byte
+la valeur (ja)(1989)(kogado)(disk 2 of 2).zip,275548 Byte
+labyrinth (ja)(19xx).zip,128278 Byte
+laplas (ja)(1989)(humming bird soft).zip,331844 Byte
+laser squad (it)(19xx)(hydra soft trento).zip,59644 Byte
+lasp demo (1988)(lasp).zip,289781 Byte
+last armageddon (ja)(1988)(brain grey)[disk 1 of 5].zip,337292 Byte
+last armageddon (ja)(1988)(brain grey)[disk 2 of 5].zip,274754 Byte
+last armageddon (ja)(1988)(brain grey)[disk 3 of 5].zip,335321 Byte
+last armageddon (ja)(1988)(brain grey)[disk 4 of 5].zip,342289 Byte
+last armageddon (ja)(1988)(brain grey)[disk 5 of 5].zip,296859 Byte
+last darumadedon (ja)(1989)(sum soft).zip,52735 Byte
+laydock (ja)(1986)(t&e soft).zip,167473 Byte
+laydock 2 last attack (19xx)(t&e soft)(disk 1 of 2).zip,317805 Byte
+laydock 2 last attack (19xx)(t&e soft)(disk 2 of 2).zip,212768 Byte
+leather skirts (1987)(methodic solutions).zip,131200 Byte
+leauty (ja)(19xx).zip,85004 Byte
+legendly knight (1988)(topia).zip,60031 Byte
+legendly nine gems (ja)(19xx)(tecnosoft).zip,153185 Byte
+lemmings (1997)(ni).zip,62174 Byte
+lenam sword of legend (ja)(1989)(hertz)(disk 1 of 4).zip,541186 Byte
+lenam sword of legend (ja)(1989)(hertz)(disk 2 of 4).zip,453725 Byte
+lenam sword of legend (ja)(1989)(hertz)(disk 3 of 4).zip,472704 Byte
+leprechaun (nl)(1995)(triple soft).zip,251563 Byte
+les passagers du vent (fr)(19xx)(infogrames).zip,365688 Byte
+lick & mick (ja)(1984)(hummingbird soft)[dd].zip,42319 Byte
+lick & mick - kumdan-f (ja)(1984)(humming bird soft).zip,41803 Byte
+litkeiba (ja)(19xx)(m2 club).zip,53694 Byte
+logic blob (1996)(eternal interactive).zip,219974 Byte
+lola (1989)(bcn).zip,34321 Byte
+love to casablanca (ja)(1987)(thinking rabbit)(disk 1 of 2).zip,112395 Byte
+love to casablanca (ja)(1987)(thinking rabbit)(disk 2 of 2).zip,297887 Byte
+loves disc 2 (ja)(19xx)(office pasta).zip,180349 Byte
+lubeck (1989)(msx magazine).zip,115723 Byte
+lucha con dios en la ciudad (ja)(1991)(alice soft)(disk 1 of 8).zip,276927 Byte
+lucha con dios en la ciudad (ja)(1991)(alice soft)(disk 5 of 8).zip,344621 Byte
+lucha con dios en la ciudad (ja)(1991)(alice soft)(disk 8 of 8).zip,376778 Byte
+lulba (ja)(1990)(compile).zip,253669 Byte
+lulba 1 (ja)(1988)(compile).zip,29037 Byte
+lulba 2 (ja)(1988)(compile).zip,40666 Byte
+lulba 3 (ja)(1989)(compile).zip,58678 Byte
+madonna yamaku (ja)(19xx).zip,113348 Byte
+madoo monogatori (ja)(1990)(compile)[disk 1 of 5].zip,361395 Byte
+madoo monogatori (ja)(1990)(compile)[disk 2 of 5].zip,348182 Byte
+madoo monogatori (ja)(1990)(compile)[disk 3 of 5].zip,406363 Byte
+madoo monogatori (ja)(1990)(compile)[disk 4 of 5].zip,379943 Byte
+madoo monogatori (ja)(1990)(compile)[disk 5 of 5].zip,38021 Byte
+magical labyrinth remix, promo beta 1 (ja)(1995)(gigamix)(promo).zip,123600 Byte
+magical voice (ja)(1989)(compile).zip,360704 Byte
+magnar (1989)(parallax)(disk 1 of 3).zip,204844 Byte
+magnar (1989)(parallax)(disk 2 of 3).zip,77837 Byte
+magnar (1989)(parallax)(disk 3 of 3).zip,79147 Byte
+magnum - prohibition 1931 (1988)(toshiba).zip,50473 Byte
+mahjong kyo special ii (ja)(19xx)(micronet)(disk 1 of 2).zip,77674 Byte
+mahjong kyo special ii (ja)(19xx)(micronet)(disk 2 of 2).zip,283081 Byte
+mahjong shikaku (ja)(1990)(nichibutsu)(disk 1 of 3).zip,81874 Byte
+mahjong shikaku (ja)(1990)(nichibutsu)[disk 1 of 3].zip,81848 Byte
+mahjong shikaku (ja)(1990)(nichibutsu)[disk 2 of 3].zip,241270 Byte
+mahjong shikaku (ja)(1990)(nichibutsu)[disk 3 of 3].zip,222324 Byte
+maison ikkoku (ja)(1987)(micro cabin).zip,226724 Byte
+maison ikkoku final episode (ja)(1988)(micro cabin).zip,587774 Byte
+majutsushi. mah-jong 2 (ja)(1989)(konami).zip,96768 Byte
+makaif (ja)(19xx)(wing)(disk 1 of 2).zip,198943 Byte
+makaif (ja)(19xx)(wing)(disk 2 of 2).zip,94167 Byte
+makyu (ja)(19xx).zip,188151 Byte
+malaya no hihou (1988)(pony).zip,70290 Byte
+manhattan requiem, angels flying in the dark, series #2 (ja)(19xx)(river hill soft).zip,507632 Byte
+manhattan requiem, kiss of murder (ja)(1990)(river hill soft).zip,533117 Byte
+marble choco let (1994)(19xx).zip,8978 Byte
+marble world (1989)(peter jess).zip,20748 Byte
+marchen (1991).zip,6136 Byte
+marchen veil (ja)(1986)(sacom).zip,133869 Byte
+master of monsters (ja)(1988)(system soft)(disk 1 of 2).zip,288772 Byte
+master of monsters (ja)(1988)(system soft)(disk 2 of 2).zip,57725 Byte
+masters' history (19xx)(disk 1 of 3).zip,143463 Byte
+masters' history (19xx)(disk 2 of 3).zip,212646 Byte
+masters' history (19xx)(disk 3 of 3).zip,152872 Byte
+matrix v1.0 (1993)(bcn).zip,81160 Byte
+mattix (ja)(19xx)(pack in video).zip,137477 Byte
+megadoom (1992)(fcs)(2 disks)(demo).zip,31059 Byte
+megaz monkeydo (ja)(1990)(compile).zip,340949 Byte
+membership golf (ja)(1989)(sony)(disk 1 of 2).zip,209793 Byte
+membership golf (ja)(1989)(sony)(disk 2 of 2).zip,237572 Byte
+metal gear (1987)(konami).zip,91572 Byte
+metal gear 2 - solid snake (1990)(konami).zip,346838 Byte
+meteorite kiss (2000)(suzumikaki's factory).zip,77007 Byte
+might and magic book two, gates to another world! (ja)(19xx)(disk 1 of 2).zip,280793 Byte
+might and magic book two, gates to another world! (ja)(19xx)(disk 2 of 2).zip,249305 Byte
+mighty battle skin panic (ja)(1993)(gainax)[disk 1 of 4].zip,344698 Byte
+mighty battle skin panic (ja)(1993)(gainax)[disk 2 of 4].zip,387728 Byte
+mighty battle skin panic (ja)(1993)(gainax)[disk 3 of 4].zip,380459 Byte
+mighty battle skin panic (ja)(1993)(gainax)[disk 4 of 4].zip,357679 Byte
+migicon scroll text (1991)(slayerman).zip,188144 Byte
+milnas. majingu, strategic role play (19xx)(xain soft).zip,150324 Byte
+mine-sveiper (nl)(1993)(norhtwind).zip,10111 Byte
+mission a (1989)(lamant).zip,6735 Byte
+mon mon monster (1989)(hot-b).zip,72593 Byte
+monoghatai. binbin (1987)(east cube).zip,189999 Byte
+moon landing (ja)(1988).zip,8614 Byte
+mouse games (1988).zip,8858 Byte
+moving school (ja)(1987)(hard).zip,335777 Byte
+moving squares (1990)(19xx).zip,124226 Byte
+mr ghost (ja)(1989)(sacom).zip,75680 Byte
+mr ghost 2 - yurei (1989)(sacom).zip,157628 Byte
+ms field gundam (1988)(family soft).zip,133257 Byte
+msx fan - fandom library 8 (ja)(1990)(tokuma shoten).zip,173138 Byte
+msx wars 5 (ja)(19xx)(syntax).zip,101317 Byte
+msx2 demo digitalizaciones (sp)(1987)(majara soft).zip,230739 Byte
+msx2 spring (ja)(1989)(asica).zip,253458 Byte
+mule (ja)(19xx)(bps).zip,139247 Byte
+murder club final mystery (ja)(19xx)(micro cabin).zip,469817 Byte
+music demo (nl)(19xx)(jlsa soft).zip,330842 Byte
+nekketsu judo (ja)(1989)(pony canyon).zip,93208 Byte
+new legendly nine gems. shinku (19xx)(tecnosoft)(disk 1 of 2).zip,117058 Byte
+new legendly nine gems. shinku (19xx)(tecnosoft)(disk 2 of 2).zip,202803 Byte
+nichiyou uchujin (ja)(19xx)(disk 1 of 2).zip,97893 Byte
+nichiyou uchujin (ja)(19xx)(disk 2 of 2).zip,74739 Byte
+nightmare on elmstreet 4 (19xx)(unicorn).zip,136147 Byte
+nihongo kotora streeptease (ja)(1988)(nihon bussan).zip,133951 Byte
+niko 2 (e)(1991)(wolf team).zip,150017 Byte
+ninja (ja)(1988)(bothtec).zip,151143 Byte
+ninja - youmakor (1988)(dexter).zip,285492 Byte
+ninja kun (ja)(1987)(hal).zip,61722 Byte
+no fuss (1991)(anma).zip,33193 Byte
+nobunaga 1 (ja)(19xx)(koei).zip,30241 Byte
+nobunaga 3 (ja)(19xx)(koei).zip,340237 Byte
+nobunaga no yabou gaba (ja)(19xx)(koei)(disk 1 of 2).zip,220142 Byte
+nobunaga no yabou gaba (ja)(19xx)(koei)(disk 2 of 2).zip,19221 Byte
+nobu_f (ja)(19xx)(koei)(disk 1 of 2).zip,265815 Byte
+nobu_f (ja)(19xx)(koei)(disk 2 of 2).zip,407009 Byte
+nosh (1992)(anma).zip,92532 Byte
+not again! (1994)(flying bytes).zip,163468 Byte
+nueve principes en amber (sp)(1986)(idealogic)(disk 1 of 3).zip,360845 Byte
+nueve principes en amber (sp)(1986)(idealogic)(disk 2 of 3).zip,116387 Byte
+nueve principes en amber (sp)(1986)(idealogic)(disk 3 of 3).zip,271508 Byte
+nukenin (ja)(19xx)(brain grey)(disk 1 of 5).zip,375771 Byte
+nukenin (ja)(19xx)(brain grey)(disk 2 of 5).zip,375260 Byte
+nukenin (ja)(19xx)(brain grey)(disk 3 of 5).zip,381407 Byte
+nukenin (ja)(19xx)(brain grey)(disk 4 of 5).zip,371173 Byte
+nukenin (ja)(19xx)(brain grey)(disk 5 of 5).zip,267142 Byte
+numarin 1 (ja)(1988)(are system).zip,65170 Byte
+numarin 2 (ja)(1989)(are system).zip,144205 Byte
+numarin 3 (ja)(1992)(are system).zip,228453 Byte
+nyancle racing (ja)(1988)(matsushita-bit 2).zip,203812 Byte
+ogre (19xx).zip,58331 Byte
+onryod (ja)(19xx)(wing)(disk 1 of 4).zip,319940 Byte
+onryod (ja)(19xx)(wing)(disk 2 of 4).zip,302710 Byte
+onryod (ja)(19xx)(wing)(disk 3 of 4).zip,209786 Byte
+onryod (ja)(19xx)(wing)(disk 4 of 4).zip,322242 Byte
+orange road. kimaore1 (1988)(micro cabin).zip,417053 Byte
+os cavaleiros do zodiaco (1996).zip,335962 Byte
+ototch 2 (ja)(19xx).zip,80503 Byte
+out run (1988)(pony).zip,118821 Byte
+paccy (1993)(gbsoft).zip,11787 Byte
+pacman (1993)(egega).zip,15029 Byte
+palace prohibited (1990)(scap trust)(userdisk).zip,1160 Byte
+palace prohibited (1990)(scap trust).zip,127916 Byte
+palamede (1990)(hot-b).zip,41499 Byte
+pallmith (1991)(elemental soft).zip,54224 Byte
+pana amusement colection 1 (ja)(1990)(t&e soft).zip,234251 Byte
+pana amusement colection 2 (ja)(1990)(t&e soft).zip,156738 Byte
+paradream, parallel dream (1992)(rac house).zip,113043 Byte
+patagoras, los gases (sp)(1986)(philips).zip,54030 Byte
+penguin wars 2 (1988)(ascii).zip,105624 Byte
+pennant race 2- baseball 3 (1989)(konami).zip,93173 Byte
+pennant race- baseball 2 (ja)(1988)(konami).zip,86377 Byte
+perfect soko-ban (19xx)(micro cabin)(disk 1 of 2).zip,281571 Byte
+perfect soko-ban (19xx)(micro cabin)(disk 2 of 2).zip,3448 Byte
+phantasie 4 (ja)(1991)(starcraft)[disk 1 of 2].zip,290382 Byte
+phantasie 4 (ja)(1991)(starcraft)[disk 2 of 2].zip,203379 Byte
+phantasie i (ja)(1988)(starcraft).zip,187101 Byte
+phantasie ii (ja)(1989)(starcraft).zip,179741 Byte
+phantasie iii (ja)(1990)(starcraft)(userdisk).zip,158053 Byte
+phantasie iii (ja)(1990)(starcraft).zip,189323 Byte
+playball 3 (ja)(1989)(sony).zip,285183 Byte
+playboy late night (19xx)(msx club challenger).zip,390142 Byte
+playboy, alles wat mannen boeit (nl)(1987)(powersoft).zip,71390 Byte
+pocky (ja)(19xx)(pony)(disk 1 of 3).zip,257540 Byte
+pocky (ja)(19xx)(pony)(disk 2 of 3).zip,220870 Byte
+pocky (ja)(19xx)(pony)(disk 3 of 3).zip,251243 Byte
+poles (ja)(1991)(apl).zip,66698 Byte
+pooyan (fr)(19xx)(gerardin h).zip,23964 Byte
+pooyan new (fr)(19xx).zip,23947 Byte
+power ful 2 (ja)(1988)(db soft)(disk 1 of 4).zip,124417 Byte
+power ful 2 (ja)(1988)(db soft)(disk 2 of 4).zip,109725 Byte
+power ful 2 (ja)(1988)(db soft)(disk 3 of 4).zip,138731 Byte
+power ful 2 (ja)(1988)(db soft)(disk 4 of 4).zip,4395 Byte
+predator (1990)(pack in video)[a1].zip,75320 Byte
+predator (e)(1990)(pack in video).zip,75340 Byte
+princess (ja)(1989)(sony-cbs).zip,190745 Byte
+princess maker (ja)(1992)(gainax)(disk 1 of 7).zip,635510 Byte
+princess maker (ja)(1992)(gainax)(disk 2 of 7).zip,501632 Byte
+princess maker (ja)(1992)(gainax)(disk 3 of 7).zip,533110 Byte
+princess maker (ja)(1992)(gainax)(disk 4 of 7).zip,538106 Byte
+princess maker (ja)(1992)(gainax)(disk 5 of 7).zip,526362 Byte
+princess maker (ja)(1992)(gainax)(disk 6 of 7).zip,516566 Byte
+princess maker (ja)(1992)(gainax)(disk 7 of 7).zip,620439 Byte
+project a2 (1987)(pony).zip,64666 Byte
+psy o blade (ja)(1988)(t&e soft)(disk 1 of 3).zip,354877 Byte
+psy o blade (ja)(1988)(t&e soft)(disk 2 of 3).zip,631615 Byte
+psy o blade (ja)(1988)(t&e soft)(disk 3 of 3).zip,101316 Byte
+psychic war cosmic soldier 2 (ja)(19xx)(kdg soft).zip,198142 Byte
+psycho ball (1993)(rat).zip,176043 Byte
+psycho world (ja)(1988)(hertz).zip,413647 Byte
+pumpkin adventure (1992)(umax)[a1].zip,156333 Byte
+pumpkin adventure 3 promo (e)(1995)(umax).zip,189033 Byte
+punky 2-sungma (ja)(1987)(sony-cbs).zip,52278 Byte
+purofan (ja)(1988)(telenet).zip,146231 Byte
+puyo puyo (1991)(compile).zip,113448 Byte
+puzzle in london (ja)(19xx).zip,179662 Byte
+qix (19xx).zip,3249 Byte
+qop (1991)(lionsoft).zip,99966 Byte
+quadromania (1987)(obisoft).zip,7169 Byte
+quarth (1990)(konami).zip,73598 Byte
+quattro (1989)(fcs).zip,178479 Byte
+quinch (19xx)(mcev).zip,100825 Byte
+quinpl (1988)(bit2).zip,279451 Byte
+quiz master (ja)(19xx).zip,61716 Byte
+racing cars. mad rider (1987)(carry lab).zip,56708 Byte
+rad van fortuin (nl)(1991)(newvision).zip,68349 Byte
+rairai (19xx).zip,28677 Byte
+randar i (ja)(1989)(compile).zip,101486 Byte
+randar ii, revenge of death (ja)(1989)(compile).zip,277129 Byte
+rastan saga (1988)(taito).zip,124125 Byte
+ray gun (ja)(1991)(elf)(disks 1 of 5).zip,276518 Byte
+ray gun (ja)(1991)(elf)(disks 2 of 5).zip,459052 Byte
+ray gun (ja)(1991)(elf)(disks 3 of 5).zip,436398 Byte
+ray gun (ja)(1991)(elf)(disks 4 of 5).zip,458893 Byte
+ray gun (ja)(1991)(elf)(disks 5 of 5).zip,508391 Byte
+record of lodoss war (ja)(19xx)(humming bird soft)[disk 1 of 5 - opening].zip,152323 Byte
+record of lodoss war (ja)(19xx)(humming bird soft)[disk 2 of 5 - game 1].zip,280284 Byte
+record of lodoss war (ja)(19xx)(humming bird soft)[disk 3 of 5 - game 2].zip,268549 Byte
+record of lodoss war (ja)(19xx)(humming bird soft)[disk 4 of 5 - game 3].zip,322808 Byte
+record of lodoss war (ja)(19xx)(humming bird soft)[disk 5 of 5 - userdisk].zip,2401 Byte
+replican (1987)(sony).zip,63964 Byte
+return of jelda (1987)(carry lab).zip,41740 Byte
+reviver real time adventure (ja)(1987)(arsys)(disk 1 of 2).zip,358338 Byte
+reviver real time adventure (ja)(1987)(arsys)(disk 2 of 2).zip,326683 Byte
+revolt 1789 (fra)(19xx)(legent software)[disk 1 of 3].zip,85422 Byte
+revolt 1789 (fra)(19xx)(legent software)[disk 2 of 3].zip,246939 Byte
+revolt 1789 (fra)(19xx)(legent software)[disk 3 of 3].zip,188124 Byte
+rick dangerous extra levels (1991)(paragon).zip,179481 Byte
+riot (1990)(hatimitsu demon).zip,169207 Byte
+risiko u.s.a. (spa)(1989)(ifi).zip,17562 Byte
+roads to victory - risk - estrategic art of war (1986)(micro cabin).zip,256703 Byte
+robo crush (ja)(1990)(system soft)(disk 1 of 2).zip,102548 Byte
+robo crush (ja)(1990)(system soft)(disk 2 of 2).zip,142244 Byte
+robowres (19xx)(zemina).zip,60254 Byte
+rogue alliance (ja)(19xx).zip,292772 Byte
+rona (ja)(19xx)(dixie).zip,281440 Byte
+royal blood (ja)(19xx)(koei)(disk 1 of 2).zip,172375 Byte
+royal blood (ja)(19xx)(koei)(disk 2 of 2).zip,363848 Byte
+royal blood (ja)(19xx)(koei)(userdisk).zip,1734 Byte
+rune master (ja)(1989)(compile).zip,171651 Byte
+rune master 2 (ja)(1990)(compile).zip,214950 Byte
+rune master 3 (ja)(1991)(compile)(disk 1 of 3).zip,225061 Byte
+rune master 3 (ja)(1991)(compile)(disk 2 of 3).zip,254386 Byte
+rune master 3 (ja)(1991)(compile)(disk 3 of 3).zip,324594 Byte
+rune worth (ja)(1990)(t&e soft)(disk 1 of 3).zip,145630 Byte
+rune worth (ja)(1990)(t&e soft)(disk 2 of 3).zip,386412 Byte
+rune worth (ja)(1990)(t&e soft)(disk 3 of 3).zip,375743 Byte
+rune worth (ja)(1990)(t&e soft)(userdisk).zip,1214 Byte
+running dragon (19xx)(polysoft).zip,140295 Byte
+ryukyu (19xx)(login soft).zip,88716 Byte
+sa zi ri - saziri (1988)(telenet).zip,253776 Byte
+salas freehand v1.3 (19xx)(msx link international).zip,81358 Byte
+samurai - ganbare goemon (ja)(1987)(konami).zip,91604 Byte
+sanae (1992)(19xx).zip,51610 Byte
+sangoku 1 (ja)(19xx)(koei).zip,294324 Byte
+sangoku 2 (ja)(19xx)(koei)(disk 1 of 2).zip,205975 Byte
+sangoku 2 (ja)(19xx)(koei)(disk 2 of 2).zip,376415 Byte
+sangoku 2 (ja)(19xx)(koei)(userdisk).zip,1655 Byte
+schwarzschild (ja)(19xx)(kogado)(disk 1 of 2).zip,174497 Byte
+schwarzschild (ja)(19xx)(kogado)(disk 2 of 2).zip,158313 Byte
+schwarzschild ii (ja)(19xx)(kogado)(disk 1 of 2).zip,178964 Byte
+schwarzschild ii (ja)(19xx)(kogado)(disk 2 of 2).zip,151896 Byte
+scrabble triton (1991)(osaka soft).zip,115487 Byte
+scramble formation (1987)(taito).zip,94361 Byte
+sd gundam 2 (ja)(1990)(sunrise).zip,248439 Byte
+sea sardine (1991)(ascii).zip,43087 Byte
+seilane (ja)(1987)(micro cabin)(disk 1 of 2).zip,506834 Byte
+seilane (ja)(1987)(micro cabin)(disk 2 of 2).zip,491786 Byte
+sexy pictures puzzel (nl)(1987)(pussy).zip,97911 Byte
+shadow hero 3 (ja)(1993)(syntax).zip,91966 Byte
+shalom - knightmare 3 (ja)(1987)(konami).zip,175650 Byte
+shanghai (1987)(system soft).zip,295397 Byte
+shanghai 2 (1989)(system soft).zip,85262 Byte
+shenan dragon (ja)(1990)(technopolis soft)(disk 1 of 2).zip,208390 Byte
+shenan dragon (ja)(1990)(technopolis soft)(disk 2 of 2).zip,373748 Byte
+shrines of enigma (19xx)(enigma).zip,367378 Byte
+shuffle puck (19xx)(mad).zip,233948 Byte
+silviana (ja)(1990)(pack in video).zip,234107 Byte
+slgbanza (ja)(1991)(msx magazine).zip,97719 Byte
+snakes & laers (1988)(fss).zip,11623 Byte
+sofia (1987)(dempa).zip,21249 Byte
+soldier of fisla (ja)(1990)(compile).zip,326474 Byte
+solid snail (1994)(vivid).zip,203835 Byte
+solitaire (1990)(gohsoft).zip,21212 Byte
+solitaire royale (1988)(game arts).zip,229865 Byte
+sony hb-f1xv (ja)(1990)(sony).zip,128341 Byte
+space force (19xx).zip,12365 Byte
+space manbow (1989)(konami).zip,214217 Byte
+space war. ginden ii (1990)(bothtec)(disk 1 of 5).zip,210520 Byte
+space war. ginden ii (1990)(bothtec)(disk 2 of 5).zip,175929 Byte
+space war. ginden ii (1990)(bothtec)(disk 3 of 5).zip,283346 Byte
+space war. ginden ii (1990)(bothtec)(disk 4 of 5).zip,156978 Byte
+space war. ginden ii (1990)(bothtec)(disk 5 of 5).zip,1143 Byte
+speed game (ja)(1989)(soft house).zip,69439 Byte
+sphere 2 (sp)(19xx).zip,23020 Byte
+spiel borse (nl)(1987).zip,8468 Byte
+squeek (1991)(anma).zip,112720 Byte
+star ship rendzvous (ja)(1988)(scap trust).zip,287226 Byte
+star ship rendzvous special stage - michelle  (ja)(1988)(scap trust).zip,369990 Byte
+star virgin (ja)(19xx).zip,64976 Byte
+star wars (19xx)(ft soft).zip,160268 Byte
+steinzeit (19xx)(data beutner kg).zip,18428 Byte
+strategic mars (1988)(db soft).zip,61077 Byte
+street neo fighter 2 (1991)(neo).zip,69412 Byte
+street snatch (1994)(futuredisk).zip,121537 Byte
+sugo 8 (ja)(1989)(msx magazine).zip,99809 Byte
+suiko (ja)(19xx)(koei).zip,295529 Byte
+super boy 3 (1991)(zemina).zip,43962 Byte
+super cooks (1989)(compile).zip,317482 Byte
+super daisenryakiu (ja)(1988)(system soft).zip,143725 Byte
+super deform snatcher (ja)(1990)(konami)(disk 1 of 3).zip,340475 Byte
+super deform snatcher (ja)(1990)(konami)(disk 2 of 3).zip,320930 Byte
+super deform snatcher (ja)(1990)(konami)(disk 3 of 3).zip,281255 Byte
+super rambo special (ja)(1985)(pack in video).zip,63674 Byte
+super runner (1988)(pony).zip,60381 Byte
+super tritorn (1986)(sein soft).zip,46867 Byte
+super tritorn 2, road of darkness (ja)(1988)(sein soft)(disk 1 of 4).zip,222946 Byte
+super tritorn 2, road of darkness (ja)(1988)(sein soft)(disk 2 of 4).zip,182363 Byte
+super tritorn 2, road of darkness (ja)(1988)(sein soft)(disk 3 of 4).zip,128414 Byte
+super tritorn 2, road of darkness (ja)(1988)(sein soft)(disk 4 of 4).zip,1443 Byte
+super trotorn (1986)(sein soft).zip,46864 Byte
+super zelixer (1989)(msx magazine).zip,216480 Byte
+super zelixer 2 (1989)(msx magazine).zip,211209 Byte
+superstars of wrestling (1992)(enigma soft).zip,292167 Byte
+takkae zigsaw (19xx)(micro cabin).zip,183346 Byte
+tako and ika (1992)(ofuko).zip,43091 Byte
+takoika (19xx).zip,84924 Byte
+tamanegi (ja)(1989)(onion software).zip,125109 Byte
+tamba (ja)(1987)(yonezawa).zip,134655 Byte
+tanikawa's syogi sinan 2 (ja)(1989)(pony).zip,84077 Byte
+tantei-x (ja)(1989)(heart soft)(disk 1 of 3).zip,243111 Byte
+tantei-x (ja)(1989)(heart soft)(disk 2 of 3).zip,181561 Byte
+tantei-x (ja)(1989)(heart soft)(disk 3 of 3).zip,166975 Byte
+tdf (ja)(19xx).zip,70246 Byte
+teachers terror (1993)(hegega).zip,158558 Byte
+tempo typen (nl)(1986)(radar soft).zip,16970 Byte
+test driver (ja)(1988)(charada).zip,21707 Byte
+testament (19xx)(glodia)(disk 1 of 2).zip,238066 Byte
+testament (19xx)(glodia)(disk 2 of 2).zip,93325 Byte
+tetmas operation maison (1989)(final star).zip,246256 Byte
+tetmas operation orange road (1989)(final star).zip,257626 Byte
+tetris (1991)(bps).zip,189295 Byte
+tetris disney (1990)(michi).zip,47050 Byte
+tetris master (ja)(1989)(final star).zip,92696 Byte
+tetrix (sp)(19xx).zip,13312 Byte
+the 4th unit (ja)(19xx)(data west).zip,225911 Byte
+the 4th unit 2 (ja)(19xx)(data west).zip,220489 Byte
+the 4th unit 3 (ja)(19xx)(data west)(disk 1 of 2).zip,282489 Byte
+the 4th unit 3 (ja)(19xx)(data west)(disk 2 of 2).zip,224954 Byte
+the avenger of death (19xx)(system breaker).zip,34491 Byte
+the bass demo (1988)(xela soft).zip,76068 Byte
+the castle of zariostro (1987)(toho cinefile).zip,74697 Byte
+the chess game 2 (1986)(bytebusters).zip,38408 Byte
+the cockpit (19xx)(nidecom).zip,41060 Byte
+the eye (1987)(endurance).zip,20848 Byte
+the fac demo (1988)(gizmo).zip,352052 Byte
+the fairyland story (1987)(hot-b).zip,58701 Byte
+the fantasm soldier (ja)(1987)(telenet)[dd].zip,64990 Byte
+the fantasm soldier 2 - valis (ja)(1989)(telenet-reno)[disk 1 of 4].zip,356867 Byte
+the fantasm soldier 2 - valis (ja)(1989)(telenet-reno)[disk 2 of 4].zip,321666 Byte
+the fantasm soldier 2 - valis (ja)(1989)(telenet-reno)[disk 3 of 4].zip,154942 Byte
+the fantasm soldier 2 - valis (ja)(1989)(telenet-reno)[disk 4 of 4].zip,447040 Byte
+the golf (ja)(19xx)(pack in video)(disk 1 of 3).zip,98533 Byte
+the golf (ja)(19xx)(pack in video)(disk 2 of 3).zip,300741 Byte
+the golf (ja)(19xx)(pack in video)(disk 3 of 3).zip,17905 Byte
+the great gianna sisters (1989)(sunrise).zip,70812 Byte
+the havoc (1990)(traposoft).zip,7960 Byte
+the key (19xx).zip,5002 Byte
+the last mission (sp)(1985)(opera soft).zip,42006 Byte
+the man i love, disk mystery #4 (ja)(19xx)(thinking rabbit)(disk 1 of 2).zip,81402 Byte
+the man i love, disk mystery #4 (ja)(19xx)(thinking rabbit)(disk 2 of 2).zip,223036 Byte
+the missile human (ja)(1989)(sum soft).zip,15707 Byte
+the return of ishtar (1988)(namcot).zip,92946 Byte
+the stone of agni (ja)(19xx)(humming bird soft).zip,338581 Byte
+the three-eyed one comes here - mitsume ga tooru 3lie-mon (ja)(1989)(natsume).zip,76680 Byte
+the tower of cabin (ja)(1992)(micro cabin)(disk 1 of 3).zip,363322 Byte
+the tower of cabin (ja)(1992)(micro cabin)(disk 2 of 3).zip,327097 Byte
+the tower of cabin (ja)(1992)(micro cabin)(disk 3 of 3).zip,282769 Byte
+the treasure of usas (ja)(1987)(konami).zip,98728 Byte
+the tucs (1989)(msx magazine).zip,44613 Byte
+the uhf painter (it)(1992)(enigma soft).zip,191813 Byte
+the wig (1989)(msx magazine).zip,183747 Byte
+the witch iz (ja)(1991)(chihiro)(ascii).zip,47085 Byte
+thunderbal (nl)(1986)(bytebusters).zip,20764 Byte
+timer ball (ja)(1990)(ascat).zip,56036 Byte
+tir-nan-og (ja)(19xx)(disk 1 of 3).zip,111317 Byte
+tir-nan-og (ja)(19xx)(disk 2 of 3).zip,161353 Byte
+tir-nan-og (ja)(19xx)(disk 3 of 3).zip,143150 Byte
+tnt (1987)(infogrames).zip,114189 Byte
+topple zip 2 (1988)(bothtec).zip,57174 Byte
+total parodius (19xx)(gemilis art)(promo).zip,101435 Byte
+touwtrekken, tug-of-war (19xx)(smeekes)[a1].zip,174392 Byte
+trojka (1992)(bcf).zip,138879 Byte
+troxx (1993)(anma).zip,170193 Byte
+tw cup (ja)(19xx)(atsic).zip,204862 Byte
+twinkle star (ja)(1989)(msx magazine).zip,155740 Byte
+ultima i, the first age of darkness (ja)(1986)(pony).zip,171733 Byte
+ultima iv, quest of the avatar (ja)(1987)(pony)(disk 1 of 2).zip,150782 Byte
+ultima iv, quest of the avatar (ja)(1987)(pony)(disk 2 of 2).zip,156555 Byte
+unicorn corporation demo (nl)(1990)(unicorn)(disk 1 of 2).zip,101539 Byte
+unicorn corporation demo (nl)(1990)(unicorn)(disk 2 of 2).zip,143211 Byte
+unipaint (1985)(unison world).zip,185614 Byte
+uranai. fortune teller (1988)(konami).zip,282223 Byte
+urusei yatsura (ja)(1987)(micro cabin).zip,358666 Byte
+usajong - babi in the world (ja)(1989)(compile).zip,71482 Byte
+uwasa (ja)(19xx).zip,170783 Byte
+uxsis (19xx).zip,11427 Byte
+vampire killer. demon castle dracula (1987)(konami).zip,90295 Byte
+vectron (1989)(parallax).zip,30289 Byte
+veroveraar (nl)(19xx).zip,18759 Byte
+war of the dead (ja)(1989)(fun factory).zip,133237 Byte
+war of the dead ii (ja)(1990)(fun factory)(disk 1 of 2).zip,194663 Byte
+war of the dead ii (ja)(1990)(fun factory)(disk 2 of 2).zip,160280 Byte
+warau (ja)(1991)(compile)(disk 1 of 2).zip,269162 Byte
+warau (ja)(1991)(compile)(disk 2 of 2).zip,341464 Byte
+warning (ja)(1989).zip,181354 Byte
+wast year iron maiden (1989)(unicorn).zip,239554 Byte
+wellen (19xx)(frieven).zip,14869 Byte
+what's michael (ja)(1989)(micro cabin)(disk 1 of 2).zip,428199 Byte
+what's michael (ja)(1989)(micro cabin)(disk 2 of 2).zip,27534 Byte
+whipple (1992)(pastel hope).zip,167253 Byte
+wingman (ja)(19xx)(disk 1 of 2).zip,298236 Byte
+wingman (ja)(19xx)(disk 2 of 2).zip,308553 Byte
+winning solution (ja)(1990)(cosmos computer)(disk 1 of 2).zip,272939 Byte
+winning solution (ja)(1990)(cosmos computer)(disk 2 of 2).zip,215119 Byte
+wiz kids (ja)(1991)(19xx).zip,132399 Byte
+wizardry (ja)(1987)(foretune).zip,170485 Byte
+woody poco (ja)(1987)(db soft).zip,83387 Byte
+word up (1988)(fss).zip,19696 Byte
+world golf (1985)(enix).zip,157455 Byte
+world golf 2 (ja)(1987)(enix)(disk 1 of 2).zip,167371 Byte
+world golf 2 (ja)(1987)(enix)(disk 2 of 2).zip,150281 Byte
+x mas quarrel (19xx)(titansoft).zip,15391 Byte
+xak 1, the art of visual stage (ja)(1989)(micro cabin)(disk 1 of 3).zip,287014 Byte
+xak 1, the art of visual stage (ja)(1989)(micro cabin)(disk 2 of 3).zip,313598 Byte
+xak 1, the art of visual stage (ja)(1989)(micro cabin)(disk 3 of 3).zip,301311 Byte
+xak 2, the rising of the redmoon (1990)(micro cabin)(disk 1 of 5).zip,301098 Byte
+xak 2, the rising of the redmoon (1990)(micro cabin)(disk 2 of 5).zip,270219 Byte
+xak 2, the rising of the redmoon (1990)(micro cabin)(disk 3 of 5).zip,288653 Byte
+xak 2, the rising of the redmoon (1990)(micro cabin)(disk 4 of 5).zip,273619 Byte
+xak 2, the rising of the redmoon (1990)(micro cabin)(disk 5 of 5).zip,293716 Byte
+xak 2, the rising of the redmoon (1990)(micro cabin)(userdisk).zip,4083 Byte
+xak 3, the tower of gazzel (1991)(micro cabin)(disk 1 of 4).zip,138624 Byte
+xak 3, the tower of gazzel (1991)(micro cabin)(disk 2 of 4).zip,334604 Byte
+xak 3, the tower of gazzel (1991)(micro cabin)(disk 3 of 4).zip,315194 Byte
+xak 3, the tower of gazzel (1991)(micro cabin)(disk 4 of 4).zip,270448 Byte
+xevious (1988)(namcot).zip,87650 Byte
+xyz (ja)(1987)(hal).zip,57017 Byte
+xzr i (ja)(1989)(telenet)(disk 1 of 2).zip,219614 Byte
+xzr i (ja)(1989)(telenet)(disk 2 of 2).zip,304567 Byte
+xzr ii (ja)(1988)(telenet)(disk 1 of 2).zip,188819 Byte
+xzr ii (ja)(1988)(telenet)(disk 2 of 2).zip,346312 Byte
+yaji baseball (ja)(1989)(cross media).zip,221421 Byte
+yaksa (ja)(19xx)(wolf team).zip,209845 Byte
+yakyud 1 (ja)(1989)(nihon create)(disk 1 of 2).zip,177246 Byte
+yakyud 1 (ja)(1989)(nihon create)(disk 2 of 2).zip,151010 Byte
+yakyud 2 (ja)(1990)(nihon create)(disk 1 of 4).zip,23153 Byte
+yakyud 2 (ja)(1990)(nihon create)(disk 2 of 4).zip,185212 Byte
+yakyud 2 (ja)(1990)(nihon create)(disk 3 of 4).zip,178430 Byte
+yakyud 2 (ja)(1990)(nihon create)(disk 4 of 4).zip,139786 Byte
+zanac extra (1986)(pony).zip,57466 Byte
+zanac metalica 1 v.2. (1988)(pony).zip,43662 Byte
+zanacex (1986)(pony).zip,57480 Byte
+zatsugaru olimpic (ja)(19xx)(hard).zip,167070 Byte
+zaworzo. robot construction. zowazo world (1989)(msx magazine).zip,59365 Byte
+zoids (ja)(1988)(toshiba).zip,71877 Byte
+zombie hunter (ja)(1988)(hiscore).zip,59782 Byte
+zone terra (1994)(quadrivium).zip,193071 Byte
+zoo (nl)(1987)(radar soft).zip,137400 Byte
+zoto (nl)(1987)(scorpionsoft).zip,24715 Byte
+zynos, on the adventure islands (nl)(1991)(grischasoft).zip,44732 Byte

@@ -1,0 +1,9 @@
+(ROM) No-Intro Sega Game 1000 (20070107-20061123) (rr5%).rar
+63,383
+450c1ccc7fa74a6b58f7c115c7c1324fÅEdfb89860b09225df878cd764901d33ca4187f2e2
+
+:	SG1000.20070107
+:	:	C_So! (J).zip
+:	:	Mahjong (J).zip
+:	:	Othello (J).zip
+:	:	Pachinko (J).zip

@@ -1,0 +1,132 @@
+ You have 130 of 130 known Atari 7800 ROMS (1.00)
+
+3D Asteroids (19xx) (Atari) (Prototype) [a1]
+3D Asteroids (19xx) (Atari) (Prototype)
+Ace of Aces (1988) (Atari) (PAL)
+Ace of Aces (1988) (Atari)
+Alien Brigade (1990) (Atari) (PAL)
+Alien Brigade (1990) (Atari)
+Asteroids (1987) (Atari)
+Ballblazer (1987) (Atari-Lucasfilm) (PAL)
+Ballblazer (1987) (Atari-Lucasfilm)
+Barnyard Blaster (1988) (Atari) (PAL) [!]
+Barnyard Blaster (1988) (Atari) [!]
+Basketbrawl (1990) (Atari) (PAL)
+Basketbrawl (1990) (Atari)
+Centipede (1987) (Atari) (PAL)
+Centipede (1987) (Atari)
+Choplifter (1987) (Atari) (PAL)
+Choplifter (1987) (Atari)
+Color Selector Demo (2003) (PD)
+Commando (1989) (Atari) (PAL)
+Commando (1989) (Atari)
+Crack'ed (1988) (Atari) (PAL)
+Crack'ed (1988) (Atari)
+Crossbow (1988) (Atari) (PAL)
+Crossbow (1988) (Atari)
+Dark Chambers (1988) (Atari) (PAL)
+Dark Chambers (1988) (Atari)
+Desert Falcon (1987) (Atari) (PAL)
+Desert Falcon (1987) (Atari)
+Diagnostic Test Cartridge (19xx) (Atari)
+Dig Dug (1987) (Atari) (PAL)
+Dig Dug (1987) (Atari)
+Donkey Kong (1988) (Atari) (PAL)
+Donkey Kong (1988) (Atari)
+Donkey Kong Jr (1988) (Atari) (PAL)
+Donkey Kong Jr (1988) (Atari)
+Double Dragon (1989) (Activision) (PAL)
+Double Dragon (1989) (Activision)
+F-18 Hornet (1988) (Absolute) (PAL)
+F-18 Hornet (1988) (Absolute) [!]
+F-18 Hornet (1988) (Absolute) [b1]
+F-18 Hornet (1988) (Absolute) [b2]
+Fatal Run (1990) (Atari) (PAL)
+Fatal Run (1990) (Atari)
+Fight Night (1988) (Atari) (PAL)
+Fight Night (1988) (Atari)
+Food Fight (1987) (Atari) (PAL)
+Food Fight (1987) (Atari)
+Galaga (1987) (Atari) (PAL)
+Galaga (1987) (Atari)
+Hat Trick (1987) (Atari) (PAL)
+Hat Trick (1987) (Atari)
+Ikari Warriors (1989) (Atari) (PAL)
+Ikari Warriors (1989) (Atari)
+Impossible Mission (1987) (Atari) (PAL)
+Impossible Mission (1987) (Atari)
+Jinks (1989) (Atari) (PAL)
+Jinks (1989) (Atari)
+Joust (1987) (Atari) (PAL)
+Joust (1987) (Atari)
+Karateka (1987) (Atari) (PAL)
+Karateka (1987) (Atari)
+Klax (19xx) (Atari) (Prototype) [a1]
+Klax (19xx) (Atari) (Prototype)
+Kung Fu Master (1989) (Absolute) (PAL)
+Kung Fu Master (1989) (Absolute) [!]
+Mario Brothers (1988) (Atari) (PAL)
+Mario Brothers (1988) (Atari)
+Mat Mania Challenge (1989) (Atari) (PAL)
+Mat Mania Challenge (1989) (Atari)
+Mean 18 Golf (1988) (Atari) (PAL)
+Mean 18 Golf (1988) (Atari) [!]
+Meltdown (1990) (Atari) (PAL)
+Meltdown (1990) (Atari)
+Midnight Mutants (1990) (Atari) (PAL)
+Midnight Mutants (1990) (Atari)
+Motor Psycho (1990) (Atari) (PAL)
+Motor Psycho (1990) (Atari)
+Ms. Pac-Man (1987) (Atari) (PAL)
+Ms. Pac-Man (1987) (Atari)
+Ninja Golf (1990) (Atari) (PAL)
+Ninja Golf (1990) (Atari)
+One-on-One Basketball (1987) (Atari) (PAL)
+One-on-One Basketball (1987) (Atari)
+Pete Rose Baseball (1989) (Absolute) (PAL)
+Pete Rose Baseball (1989) (Absolute) [!]
+Pit Fighter (19xx) (Atari) (Prototype) [a1]
+Pit Fighter (19xx) (Atari) (Prototype) [a2]
+Pit Fighter (19xx) (Atari) (Prototype)
+Planet Smashers (1990) (Atari) (PAL)
+Planet Smashers (1990) (Atari)
+Pole Position II (1987) (Atari) (PAL)
+Pole Position II (1987) (Atari)
+Rampage (1989) (Activision)
+RealSports Baseball (1988) (Atari) [o1]
+RealSports Baseball (1988) (Atari)
+Robotron 2084 (1987) (Atari)
+Scrapyard Dog (1990) (Atari) (PAL)
+Scrapyard Dog (1990) (Atari)
+Senso 7800 DX2 (2001) (Karolj Nadj) (PD)
+Senso 7800 DX3 (2003) (Karolj Nadj) (PD)
+Senso 7800 DX4 (2003) (Karolj Nadj) (PD)
+Senso 7800 Test 5 (2001) (Karolj Nadj) (PD)
+Sentinel (1988) (Atari) [!]
+Sentinel (1991) (Atari) (PAL) [!]
+Summer Games (1987) (Atari) [!]
+Super Huey UH-IX (1989) (Atari) (PAL)
+Super Huey UH-IX (1989) (Atari)
+Super Skateboardin' (1989) (Absolute) (PAL)
+Super Skateboardin' (1989) (Absolute) [!]
+Symbolic Debug Monitor & Downloader (1988) (Atari) [a1]
+Symbolic Debug Monitor & Downloader (1988) (Atari)
+Tank Command (1988) (Froggo) [!]
+Tank Command (1988) (Froggo) [b1]
+Tank Command (1988) (Froggo) [o1]
+Title Match Pro Wrestling (1989) (Absolute) (PAL)
+Title Match Pro Wrestling (1989) (Absolute) [!]
+Tomcat - The F-14 (1989) (Absolute) (PAL)
+Tomcat - The F-14 (1989) (Absolute) [!]
+Touchdown Football (1988) (Atari)
+Tower Toppler (1988) (Atari) (PAL)
+Tower Toppler (1988) (Atari) [o1]
+Tower Toppler (1988) (Atari)
+Water Ski (1988) (Froggo) [b1]
+Water Ski (1988) (Froggo) [o1]
+Water Ski (1988) (Froggo)
+Winter Games (1987) (Atari) [!]
+Xenophobe (1989) (Atari) (PAL)
+Xenophobe (1989) (Atari) [!]
+Xevious (1987) (Atari) (PAL)
+Xevious (1987) (Atari)

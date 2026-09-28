@@ -1,0 +1,992 @@
+(エミュ)メガドライブロム4231本コンプリート(GoodGen_0_9997)(1-D).zip
+713,264,237
+abf801850606116e76a86d1d91420b47・55981eeba74022f8482295ab08982cf8de21eb3b 
+
+:	GenHave.txt
+:	GenMiss.txt
+:	GenRen
+:	:	16 Tiles Mahjong (Unl) [c].zip
+:	:	16 Tiles Mahjong (Unl) [h1].zip
+:	:	16 Tiles Mahjong (Unl) [h2].zip
+:	:	3 Ninjas Kick Back (U) [!].zip
+:	:	3 Ninjas Kick Back (U) [b1].zip
+:	:	3 Ninjas Kick Back (pre-release).zip
+:	:	688 Attack Sub (U) [!].zip
+:	:	688 Attack Sub (U) [h1].zip
+:	:	688 Attack Sub (U) [h2].zip
+:	:	688 Attack Sub (U) [h3].zip
+:	:	777 Casino (Unl) [c].zip
+:	:	777 Casino (Unl) [h1].zip
+:	:	ATP Tour Championship Tennis (E) [b1].zip
+:	:	ATP Tour Championship Tennis (E) [b2].zip
+:	:	ATP Tour Championship Tennis (E) [h1].zip
+:	:	ATP Tour Championship Tennis (E) [h2].zip
+:	:	ATP Tour Championship Tennis (E) [h3].zip
+:	:	ATP Tour Championship Tennis (E).zip
+:	:	ATP Tour Championship Tennis (U) [!].zip
+:	:	AWS Pro Moves Soccer (U) [!].zip
+:	:	AWS Pro Moves Soccer (U) [b1].zip
+:	:	Aaahh!!! Real Monsters (4) [!].zip
+:	:	Aaahh!!! Real Monsters (4) [h1].zip
+:	:	Aaahh!!! Real Monsters (4) [h2].zip
+:	:	Aah! Harimanada (J) [b1].zip
+:	:	Aah! Harimanada (J).zip
+:	:	Action 52-in-1 (UJE) [b1].zip
+:	:	Action 52-in-1 (UJE) [c][!].zip
+:	:	Action 52-in-1 (UJE) [h1].zip
+:	:	Action 52-in-1 (UJE) [h2].zip
+:	:	Action 52-in-1 (UJE) [h3].zip
+:	:	Action Replay (JUE) [!].zip
+:	:	Activator Command Demo 30 Hz (JUE) [c][!].zip
+:	:	Activator Command Demo 60 Hz (JUE) [c][!].zip
+:	:	Addams Family Values (8) [!].zip
+:	:	Addams Family, The (UE) [!].zip
+:	:	Addams Family, The (beta) [a1].zip
+:	:	Addams Family, The (beta) [a2].zip
+:	:	Addams Family, The (beta) [h1].zip
+:	:	Addams Family, The (beta) [h2].zip
+:	:	Addams Family, The (beta).zip
+:	:	Advanced Daisenryaku (J) [h1].zip
+:	:	Advanced Daisenryaku (J) [h2].zip
+:	:	Advanced Daisenryaku (J) [p1][T-Chinese].zip
+:	:	Advanced Daisenryaku (J).zip
+:	:	Aero Blasters (JU) [a1].zip
+:	:	Aero Blasters (JU) [h1].zip
+:	:	Aero Blasters (JU).zip
+:	:	Aero the Acro-Bat (U) [b1].zip
+:	:	Aero the Acro-Bat (U) [c][!].zip
+:	:	Aero the Acro-Bat (U) [h1].zip
+:	:	Aero the Acro-Bat (U) [h2].zip
+:	:	Aero the Acro-Bat (U) [h3].zip
+:	:	Aero the Acro-Bat 2 (E) [h1].zip
+:	:	Aero the Acro-Bat 2 (E) [h2].zip
+:	:	Aero the Acro-Bat 2 (E) [h3].zip
+:	:	Aero the Acro-Bat 2 (E).zip
+:	:	Aero the Acro-Bat 2 (U) [!].zip
+:	:	Aerobiz (U) [!].zip
+:	:	Aerobiz Supersonic (U) [!].zip
+:	:	Aerobiz Supersonic (U) [b1].zip
+:	:	Aerobiz Supersonic (U) [b2].zip
+:	:	Aerobiz Supersonic (U) [b3].zip
+:	:	Aerobiz Supersonic (U) [h1].zip
+:	:	Aerobiz Supersonic (U) [h2].zip
+:	:	Afterburner 32X (5) [!].zip
+:	:	Afterburner 32X (A) [!].zip
+:	:	Afterburner II (J) [h1].zip
+:	:	Afterburner II (J) [p1].zip
+:	:	Afterburner II (J).zip
+:	:	Afterburner II (U) [!].zip
+:	:	Afterburner II (U) [b1].zip
+:	:	Afterburner II (U) [b2].zip
+:	:	Afterburner II (U) [h1].zip
+:	:	Afterburner II (U) [h2].zip
+:	:	Afterburner II (U) [h3].zip
+:	:	Afterburner II (U) [h4].zip
+:	:	Air Busters (U) [c][!].zip
+:	:	Air Busters (U) [h1].zip
+:	:	Air Diver (J) [p1].zip
+:	:	Air Diver (J) [p1][h1].zip
+:	:	Air Diver (J) [p2].zip
+:	:	Air Diver (J) [p3].zip
+:	:	Air Diver (J).zip
+:	:	Air Diver (U) [!].zip
+:	:	Air Manager (J) [x].zip
+:	:	Air Manager 2 (J).zip
+:	:	Akumajo Dracula - Vampire Killer (J) [h1].zip
+:	:	Akumajo Dracula - Vampire Killer (J) [h2].zip
+:	:	Akumajo Dracula - Vampire Killer (J).zip
+:	:	Aladdin (E) [!].zip
+:	:	Aladdin (J) [!].zip
+:	:	Aladdin (U) [!].zip
+:	:	Aladdin (U) [T-German].zip
+:	:	Aladdin (U) [b1].zip
+:	:	Aladdin (U) [b2].zip
+:	:	Aladdin (beta).zip
+:	:	Aleste - Full Metal Fighter Ellinor (J) [!].zip
+:	:	Aleste - Full Metal Fighter Ellinor (J) [h1].zip
+:	:	Alex Kidd in the Enchanted Castle (E) [!].zip
+:	:	Alex Kidd in the Enchanted Castle (E) [a1].zip
+:	:	Alex Kidd in the Enchanted Castle (E) [h1].zip
+:	:	Alex Kidd in the Enchanted Castle (J) [h1].zip
+:	:	Alex Kidd in the Enchanted Castle (J).zip
+:	:	Alex Kidd in the Enchanted Castle (U) [!].zip
+:	:	Alex Kidd in the Enchanted Castle (U) [h1].zip
+:	:	Alien 3 (JUE) [!].zip
+:	:	Alien 3 (JUE) [o1][h1].zip
+:	:	Alien Soldier (A) [!].zip
+:	:	Alien Soldier (A) [b1].zip
+:	:	Alien Soldier (A) [h1].zip
+:	:	Alien Soldier (A) [h2].zip
+:	:	Alien Soldier (A) [h3].zip
+:	:	Alien Soldier (B) [b1].zip
+:	:	Alien Soldier (B) [b2].zip
+:	:	Alien Soldier (B) [c].zip
+:	:	Alien Soldier (B) [h1].zip
+:	:	Alien Soldier (B) [h2].zip
+:	:	Alien Soldier (B) [h3].zip
+:	:	Alien Soldier (B) [t1].zip
+:	:	Alien Soldier (B) [t2].zip
+:	:	Alien Soldier (B) [t3].zip
+:	:	Alien Storm (JUE) [!].zip
+:	:	Alien Storm (JUE) [b1].zip
+:	:	Alien Storm (JUE) [h1].zip
+:	:	Alien Storm (JUE) [h2].zip
+:	:	Alien Storm (JUE) [h3].zip
+:	:	Alien Storm (JUE) [p1][!].zip
+:	:	Alisia Dragoon (E) [!].zip
+:	:	Alisia Dragoon (JU) [!].zip
+:	:	Alisia Dragoon (JU) [h1].zip
+:	:	Alisia Dragoon (JU) [h2].zip
+:	:	Alisia Dragoon (JU) [h3].zip
+:	:	Alisia Dragoon (JU) [h4].zip
+:	:	Alisia Dragoon (beta).zip
+:	:	Altered Beast (REV 00) (JU) [x].zip
+:	:	Altered Beast (REV 01) (JU) [!].zip
+:	:	Altered Beast (REV 01) (JU) [h1].zip
+:	:	Altered Beast (REV 02) (JU) [!].zip
+:	:	Altered Beast (REV 02) (JU) [T-Port_Son_Car].zip
+:	:	Altered Beast (REV 02) (JU) [b1].zip
+:	:	Altered Beast (REV 02) (JU) [h1].zip
+:	:	Altered Beast (REV 02) (JU) [h2].zip
+:	:	Altered Beast (REV 02) (JU) [h3].zip
+:	:	Altered Beast (REV 02) (JU) [h4].zip
+:	:	Ambition of Caesar (J) [T-Chinese].zip
+:	:	Ambition of Caesar (J).zip
+:	:	Ambition of Caesar 2 (A) [x].zip
+:	:	American Gladiators (U) [!].zip
+:	:	American Gladiators (U) [b1].zip
+:	:	American Gladiators (U) [b2].zip
+:	:	Andre Agassi Tennis (REV 00) (JU) [!].zip
+:	:	Andre Agassi Tennis (REV 00) (JU) [b1].zip
+:	:	Andre Agassi Tennis (REV 01) (JE) [c][!].zip
+:	:	Andre Agassi Tennis (beta).zip
+:	:	Animaniacs (E) [h1].zip
+:	:	Animaniacs (E) [h2].zip
+:	:	Animaniacs (E).zip
+:	:	Animaniacs (UJ) [!].zip
+:	:	Animaniacs (UJ) [h1].zip
+:	:	Animaniacs (UJ) [h2].zip
+:	:	Animaniacs (UJ) [h3].zip
+:	:	Animaniacs (UJ) [h4].zip
+:	:	Another World (E) [!].zip
+:	:	Another World (E) [h1].zip
+:	:	Another World (E) [h2].zip
+:	:	Another World (beta) [h1].zip
+:	:	Aoki Gentyouhishi (J) [!].zip
+:	:	Aoki Gentyouhishi (J) [b1].zip
+:	:	Aq Renkan Awa (Unl) [c].zip
+:	:	Aquatic Games, The (U) [!].zip
+:	:	Aquatic Games, The (U) [h1].zip
+:	:	Arch Rivals (UE) [!].zip
+:	:	Arch Rivals (UE) [b1].zip
+:	:	Arch Rivals (UE) [p1].zip
+:	:	Arcus Odyssey (J).zip
+:	:	Arcus Odyssey (U) [!].zip
+:	:	Arcus Odyssey (U) [b1].zip
+:	:	Arcus Odyssey (U) [b2].zip
+:	:	Ariel - Disney's The Little Mermaid (U) [!].zip
+:	:	Ariel - Disney's The Little Mermaid (U) [h1].zip
+:	:	Ariel - Disney's The Little Mermaid (U) [h2].zip
+:	:	Ariel - Disney's The Little Mermaid (U) [h3].zip
+:	:	Arnold Palmer Tournament Golf (U) [!].zip
+:	:	Arnold Palmer Tournament Golf (U) [h1].zip
+:	:	Arnold Palmer Tournament Golf (U) [h2].zip
+:	:	Arnold Palmer Tournament Golf (U) [p1].zip
+:	:	Arrow Flash (JUE) [!].zip
+:	:	Arrow Flash (JUE) [b1].zip
+:	:	Arrow Flash (JUE) [p1].zip
+:	:	Arrow Flash (JUE) [p1][h1].zip
+:	:	Arrow Flash (JUE) [p2].zip
+:	:	Art Alive! (U) [!].zip
+:	:	Art Alive! (U) [b1].zip
+:	:	Art Alive! (U) [b2].zip
+:	:	Art Alive! (U) [b3].zip
+:	:	Art Alive! (U) [b4].zip
+:	:	Art Alive! (U) [o1].zip
+:	:	Art Alive! (U) [p1].zip
+:	:	Art of Fighting (E) [!].zip
+:	:	Art of Fighting (E) [h1].zip
+:	:	Art of Fighting (J) [b1].zip
+:	:	Art of Fighting (J) [h1].zip
+:	:	Art of Fighting (J) [h2].zip
+:	:	Art of Fighting (J) [h3].zip
+:	:	Art of Fighting (J).zip
+:	:	Art of Fighting (U) [!].zip
+:	:	Art of Fighting (U) [b1].zip
+:	:	Art of Fighting (U) [b2].zip
+:	:	Art of Fighting (U) [h1].zip
+:	:	Assault Suits Leynoss (J) [h1].zip
+:	:	Assault Suits Leynoss (J).zip
+:	:	Asterix and the Great Rescue (E) [x].zip
+:	:	Asterix and the Great Rescue (U) [!].zip
+:	:	Asterix and the Great Rescue (U) [h1].zip
+:	:	Asterix and the Great Rescue (U) [h2].zip
+:	:	AstroDuel (PD).zip
+:	:	Atomic Robo Kid (J) [c].zip
+:	:	Atomic Robo Kid (J) [h1].zip
+:	:	Atomic Robo Kid (J) [p1].zip
+:	:	Atomic Robo Kid (U) [c][!].zip
+:	:	Atomic Robo Kid (U) [h1].zip
+:	:	Atomic Robo Kid (U) [h2].zip
+:	:	Atomic Runner (E) [!].zip
+:	:	Atomic Runner (E) [b1].zip
+:	:	Atomic Runner (E) [b2].zip
+:	:	Atomic Runner (E) [b3].zip
+:	:	Atomic Runner (E) [h1].zip
+:	:	Atomic Runner (E) [h2].zip
+:	:	Atomic Runner (J) [R-USA][!].zip
+:	:	Australian Rugby League (E) [!].zip
+:	:	Australian Rugby League (E) [h1].zip
+:	:	Awesome Possum (UJE) [!].zip
+:	:	Awesome Possum (UJE) [b1].zip
+:	:	Awesome Possum (UJE) [h1].zip
+:	:	Awesome Possum (UJE) [h2].zip
+:	:	Awesome Possum (UJE) [h3].zip
+:	:	Awesome Possum (UJE) [h4].zip
+:	:	Awesome Possum (beta).zip
+:	:	Ayrton Senna's Super Monaco GP II (JE) [!].zip
+:	:	Ayrton Senna's Super Monaco GP II (U) [!].zip
+:	:	Ayrton Senna's Super Monaco GP II (U) [a1].zip
+:	:	Ayrton Senna's Super Monaco GP II (U) [b1].zip
+:	:	Ayrton Senna's Super Monaco GP II (U) [b2].zip
+:	:	Ayrton Senna's Super Monaco GP II (U) [b3].zip
+:	:	Ayrton Senna's Super Monaco GP II (U) [h1].zip
+:	:	B.O.B (REV 01) (UEJ) [!].zip
+:	:	B.O.B (REV 01) (UEJ) [h1].zip
+:	:	B.O.B (beta).zip
+:	:	BC Racers 32X (F) [c][!].zip
+:	:	Baby's Day Out (U) [b1].zip
+:	:	Baby's Day Out (U).zip
+:	:	Baby's Day Out (beta) [a1].zip
+:	:	Baby's Day Out (beta) [b1].zip
+:	:	Baby's Day Out (beta) [b2].zip
+:	:	Baby's Day Out (beta).zip
+:	:	Back to the Future 3 (JUE) [R-Eur][!].zip
+:	:	Back to the Future 3 (JUE) [R-USA][!].zip
+:	:	Back to the Future 3 (JUE) [R-USA][b1].zip
+:	:	Back to the Future 3 (JUE) [R-USA][h1].zip
+:	:	Bad Omen (J) [h1].zip
+:	:	Bad Omen (J) [p1].zip
+:	:	Bad Omen (J) [p1][h1].zip
+:	:	Bad Omen (J) [p2].zip
+:	:	Bad Omen (J) [p3][h1].zip
+:	:	Bad Omen (J) [x].zip
+:	:	Bahamut Bahant Senki (J) [a1][x].zip
+:	:	Bahamut Bahant Senki (J) [h1].zip
+:	:	Bahamut Bahant Senki (J) [x].zip
+:	:	Ball Jacks (JE) [c][!].zip
+:	:	Ball Jacks (JE) [h1].zip
+:	:	Ball Jacks (JE) [h2].zip
+:	:	Ball Jacks (JE) [h3].zip
+:	:	Ball Jacks (JE) [h4].zip
+:	:	Ball Jacks (JE) [h5].zip
+:	:	Ballz (JUE) [!].zip
+:	:	Ballz (JUE) [b1].zip
+:	:	Ballz (JUE) [b2].zip
+:	:	Ballz (JUE) [h1].zip
+:	:	Ballz (JUE) [h2].zip
+:	:	Barbie Super Model (U) [!].zip
+:	:	Barbie Super Model (U) [b1].zip
+:	:	Barbie Vacation Adventure (U) [b1].zip
+:	:	Barbie Vacation Adventure (U).zip
+:	:	Bare Knuckle 2 (beta) [h1].zip
+:	:	Bare Knuckle 2 (beta) [h2].zip
+:	:	Bare Knuckle 2 (beta) [h3].zip
+:	:	Bare Knuckle 2 (beta) [h4].zip
+:	:	Bare Knuckle 2 (beta) [h5].zip
+:	:	Bare Knuckle 2 (beta).zip
+:	:	Bare Knuckle 3 (J) [!].zip
+:	:	Bare Knuckle 3 (J) [a1].zip
+:	:	Bare Knuckle 3 (J) [a1][h1].zip
+:	:	Bare Knuckle 3 (J) [a1][h2].zip
+:	:	Bare Knuckle 3 (J) [a2][!].zip
+:	:	Bare Knuckle 3 (J) [b1].zip
+:	:	Bare Knuckle 3 (J) [b2].zip
+:	:	Bare Knuckle 3 (J) [p1].zip
+:	:	Barkley Shut Up and Jam (JUE) [!].zip
+:	:	Barkley Shut Up and Jam (JUE) [b1].zip
+:	:	Barkley Shut Up and Jam (JUE) [b2].zip
+:	:	Barkley Shut Up and Jam (JUE) [b3].zip
+:	:	Barkley Shut Up and Jam (JUE) [h1].zip
+:	:	Barkley Shut Up and Jam (JUE) [h2].zip
+:	:	Barkley Shut Up and Jam (JUE) [h3].zip
+:	:	Barkley Shut Up and Jam 2 (JUE) [!].zip
+:	:	Barkley Shut Up and Jam 2 (JUE) [b1].zip
+:	:	Barkley Shut Up and Jam 2 (JUE) [b2].zip
+:	:	Barkley Shut Up and Jam 2 (JUE) [b3].zip
+:	:	Barney's Hide and Seek (U) [!].zip
+:	:	Barney's Hide and Seek (U) [b1].zip
+:	:	Barney's Hide and Seek (U) [h1].zip
+:	:	Barney's Hide and Seek (U) [h2].zip
+:	:	Barney's Hide and Seek (U) [h3].zip
+:	:	Barney's Hide and Seek (U) [h4].zip
+:	:	Barney's Hide and Seek (U) [h5].zip
+:	:	Barney's Hide and Seek (U) [h6].zip
+:	:	Bass Masters Classic Pro Edition (F) [!].zip
+:	:	Bass Masters Classics (4) [!].zip
+:	:	Bass Masters Classics (4) [b1].zip
+:	:	Bastard!! (PD).zip
+:	:	Batman (E).zip
+:	:	Batman (J) [!].zip
+:	:	Batman (J) [b1].zip
+:	:	Batman (J) [h1].zip
+:	:	Batman (UE) [!].zip
+:	:	Batman (beta).zip
+:	:	Batman - Revenge of the Joker (U) [!].zip
+:	:	Batman - Revenge of the Joker (U) [h1].zip
+:	:	Batman - Revenge of the Joker (U) [h2].zip
+:	:	Batman - Revenge of the Joker (U) [h3].zip
+:	:	Batman - Revenge of the Joker (U) [p1].zip
+:	:	Batman - Revenge of the Joker (U) [p2].zip
+:	:	Batman - Revenge of the Joker (U) [p3].zip
+:	:	Batman - Revenge of the Joker (U) [p4].zip
+:	:	Batman Forever (F) [!].zip
+:	:	Batman Forever (F) [b1].zip
+:	:	Batman Returns (U) [!].zip
+:	:	Batman and Robin, The Adventures of (E) [h1].zip
+:	:	Batman and Robin, The Adventures of (E).zip
+:	:	Batman and Robin, The Adventures of (JU) [!].zip
+:	:	Battle Golfer Yui (J) [b1].zip
+:	:	Battle Golfer Yui (J) [b2].zip
+:	:	Battle Golfer Yui (J) [c][!].zip
+:	:	Battle Mania (J).zip
+:	:	Battle Mania (U) [h1].zip
+:	:	Battle Mania 2 - TS Vintage (J) [c][!].zip
+:	:	Battle Mania 2 - TS Vintage (JUE) [h1].zip
+:	:	Battle Mania 2 - TS Vintage (JUE) [h2].zip
+:	:	Battle Mania 2 - TS Vintage (JUE) [h3].zip
+:	:	Battle Mania 2 - TS Vintage (JUE) [h4].zip
+:	:	Battle Mania 2 - TS Vintage (JUE) [h5].zip
+:	:	Battle Squadron (U) [!].zip
+:	:	Battle Squadron (U) [b1].zip
+:	:	Battle Squadron (U) [b2].zip
+:	:	Battle Squadron (U) [p1].zip
+:	:	Battlemaster (JUE) [b1].zip
+:	:	Battlemaster (JUE) [b2].zip
+:	:	Battlemaster (JUE) [b3].zip
+:	:	Battlemaster (JUE) [b4].zip
+:	:	Battlemaster (JUE) [c][!].zip
+:	:	Battlemaster (JUE) [h1].zip
+:	:	Battletech (U) [!].zip
+:	:	Battletech (U) [b1].zip
+:	:	Battletech (U) [b2].zip
+:	:	Battletech (U) [b3].zip
+:	:	Battletech (U) [b4].zip
+:	:	Battletech (U) [h1].zip
+:	:	Battletoads (JUE) [!].zip
+:	:	Battletoads and Double Dragon (U) [c][!].zip
+:	:	Battletoads and Double Dragon (U) [h1].zip
+:	:	Battletoads and Double Dragon (U) [h2].zip
+:	:	Battletoads and Double Dragon (U) [h3].zip
+:	:	Battletoads and Double Dragon (U) [h4].zip
+:	:	Battletoads and Double Dragon (U) [h5].zip
+:	:	Battletoads and Double Dragon (U) [h6].zip
+:	:	Beast Warrior (J).zip
+:	:	Beast Wrestler (U) [!].zip
+:	:	Beast Wrestler (U) [h1].zip
+:	:	Beast Wrestler (U) [h2].zip
+:	:	Beauty and the Beast - Belle's Quest (U) [!].zip
+:	:	Beavis and Butthead (U) [!].zip
+:	:	Beavis and Butthead (U) [b1].zip
+:	:	Beavis and Butthead (U) [b2].zip
+:	:	Beavis and Butthead (U) [b3].zip
+:	:	Beavis and Butthead (U) [h1].zip
+:	:	Beavis and Butthead (U) [t1].zip
+:	:	Beavis and Butthead (beta).zip
+:	:	Berzerk (PD).zip
+:	:	Berzerk V1.00 by Paul Lee (PD).zip
+:	:	Best of the Best (beta).zip
+:	:	Beyond Oasis (4) [!].zip
+:	:	Beyond Oasis (4) [b1].zip
+:	:	Beyond Oasis (4) [b2].zip
+:	:	Beyond Oasis (4) [b3].zip
+:	:	Beyond Oasis (4) [h1].zip
+:	:	Beyond Oasis (4) [h3].zip
+:	:	Beyond Oasis (4) [h4].zip
+:	:	Beyond Oasis (4) [h5].zip
+:	:	Bible Adventures (Unl) [c][!].zip
+:	:	Bill Walsh College Football (UEJ) [c][!].zip
+:	:	Bill Walsh College Football (UEJ) [h1].zip
+:	:	Bill Walsh College Football 95 (U) [!].zip
+:	:	Bill Walsh College Football 95 (U) [b1].zip
+:	:	Bill Walsh College Football 95 (U) [h1].zip
+:	:	Bill Walsh College Football 95 (U) [h2].zip
+:	:	Bill Walsh College Football 95 (U) [h3].zip
+:	:	Bill Walsh College Football 95 (U) [h4].zip
+:	:	Bimini Run (JU) [!].zip
+:	:	Bimini Run (JU) [b1].zip
+:	:	Bimini Run (JU) [b2].zip
+:	:	Bimini Run (JU) [b3].zip
+:	:	Bimini Run (JU) [b4].zip
+:	:	Bio-Hazard Battle (Aug 1992) (U) [h1].zip
+:	:	Bio-Hazard Battle (Aug 1992) (U) [t1].zip
+:	:	Bio-Hazard Battle (Aug 1992) (U) [x].zip
+:	:	Bio-Hazard Battle (Sep 1992) (UE) [!].zip
+:	:	Bioship Paladin (JU) [b1].zip
+:	:	Bioship Paladin (JU) [b2].zip
+:	:	Bioship Paladin (JU) [b3].zip
+:	:	Bioship Paladin (JU) [c][!].zip
+:	:	Bioship Paladin (JU) [h1].zip
+:	:	Bioship Paladin (JU) [h2].zip
+:	:	Bioship Paladin (JU) [h3].zip
+:	:	Bioship Paladin (JU) [p1].zip
+:	:	Blackthorne 32X (4) [!].zip
+:	:	Blades of Vengence (EJU) [!].zip
+:	:	Blades of Vengence (EJU) [h1].zip
+:	:	Blades of Vengence (EJU) [h2].zip
+:	:	Blades of Vengence (EJU) [h3].zip
+:	:	Blaster Master 2 (U) [a1][h1].zip
+:	:	Blaster Master 2 (U) [a1][x].zip
+:	:	Blaster Master 2 (U) [b1].zip
+:	:	Blaster Master 2 (U) [b2].zip
+:	:	Blaster Master 2 (U) [c][!].zip
+:	:	Blaster Master 2 (U) [h1].zip
+:	:	Blaster Master 2 (U) [p1].zip
+:	:	Block Out (REV 01) (U) [!].zip
+:	:	Block Out (REV 01) (U) [b1].zip
+:	:	Block Out (REV 01) (U) [o1].zip
+:	:	Blood Shot (UE) [!].zip
+:	:	Blood Shot (UE) [b1].zip
+:	:	Blood Shot (UE) [b2].zip
+:	:	Blood Shot (UE) [b3].zip
+:	:	Blood Shot (UE) [h1].zip
+:	:	Blood Shot (UE) [h2].zip
+:	:	Blood Shot (UE) [h3].zip
+:	:	Blue Almanac (J) [b1].zip
+:	:	Blue Almanac (J) [h1].zip
+:	:	Blue Almanac (J).zip
+:	:	Body Count (E) [!].zip
+:	:	Body Count (E) [b1].zip
+:	:	Body Count (E) [b2].zip
+:	:	Body Count (E) [b3].zip
+:	:	Body Count (E) [h1].zip
+:	:	Body Count (E) [h2].zip
+:	:	Body Count (E) [h3].zip
+:	:	Body Count (E) [h4].zip
+:	:	Bonanza Brothers (REV 00) (JUE) [!].zip
+:	:	Bonanza Brothers (REV 00) (JUE) [b1].zip
+:	:	Bonanza Brothers (REV 00) (JUE) [b2].zip
+:	:	Bonanza Brothers (REV 00) (JUE) [h1].zip
+:	:	Bonanza Brothers (REV 00) (UE) [!].zip
+:	:	Bonanza Brothers (REV 01) (JUE).zip
+:	:	Bonkers (JUE) [!].zip
+:	:	Bonkers (JUE) [h1].zip
+:	:	Bonkers (JUE) [h2].zip
+:	:	Boogerman (U) [!].zip
+:	:	Boogerman (U) [h1].zip
+:	:	Boogerman (U) [h2].zip
+:	:	Boogerman (U) [h3].zip
+:	:	Boogie Woogie Bowling (J).zip
+:	:	Boxing Legends of the Ring (U) [!].zip
+:	:	Boxing Legends of the Ring (U) [b1].zip
+:	:	Bram Stoker's Dracula (E) [!].zip
+:	:	Bram Stoker's Dracula (JUE) [!].zip
+:	:	Bram Stoker's Dracula (JUE) [b1].zip
+:	:	Breath of Fire 3 (Chinese).zip
+:	:	Brett Hull Hockey 95 (JUE) [!].zip
+:	:	Brett Hull Hockey 95 (JUE) [b1].zip
+:	:	Brett Hull Hockey 95 (JUE) [b2].zip
+:	:	Brett Hull Hockey 95 (JUE) [b3].zip
+:	:	Brett Hull Hockey 95 (JUE) [b4].zip
+:	:	Brian Lara Cricket (Jun 1995) (E) [c][!].zip
+:	:	Brian Lara Cricket (Mar 1995) (JE) [c].zip
+:	:	Brian Lara Cricket (Mar 1995) (JE) [h1].zip
+:	:	Brian Lara Cricket 96 (Apr 1996) (E) [b1].zip
+:	:	Brian Lara Cricket 96 (Apr 1996) (E) [c].zip
+:	:	Brian Lara Cricket 96 (Apr 1996) (E) [h1].zip
+:	:	Brian Lara Cricket 96 (Apr 1996) (UE) [h1].zip
+:	:	Brian Lara Cricket 96 (Mar 1996) (E) [c][!].zip
+:	:	Brutal - Paws of Fury (E) [b1].zip
+:	:	Brutal - Paws of Fury (E) [b2].zip
+:	:	Brutal - Paws of Fury (E).zip
+:	:	Brutal - Paws of Fury (U) [!].zip
+:	:	Brutal - Paws of Fury (U) [h1].zip
+:	:	Brutal - Paws of Fury (U) [h2].zip
+:	:	Brutal - Paws of Fury (U) [h3].zip
+:	:	Brutal - Paws of Fury (U) [h4].zip
+:	:	Brutal Unleashed 32X (4) [!].zip
+:	:	Bubba N Stix (E) [c][!].zip
+:	:	Bubba N Stix (E) [h1].zip
+:	:	Bubba N Stix (E) [h2].zip
+:	:	Bubba N Stix (E) [h3].zip
+:	:	Bubba N Stix (E) [t1].zip
+:	:	Bubba N Stix (E) [t2].zip
+:	:	Bubba N Stix (E) [t3].zip
+:	:	Bubba N Stix (U) [!].zip
+:	:	Bubba N Stix (U) [h1].zip
+:	:	Bubba N Stix (U) [h2].zip
+:	:	Bubble and Squeek (U) [!].zip
+:	:	Bubble and Squeek (U) [b1].zip
+:	:	Bubble and Squeek (U) [b2].zip
+:	:	Bubble and Squeek (U) [h1].zip
+:	:	Bubble and Squeek (U) [h2].zip
+:	:	Bubble and Squeek (U) [h3].zip
+:	:	Bubsy (JUE) [!].zip
+:	:	Bubsy (JUE) [b1].zip
+:	:	Bubsy (JUE) [h1].zip
+:	:	Bubsy 2 (JUE) [!].zip
+:	:	Bubsy 2 (JUE) [b1].zip
+:	:	Buck Rodgers - Countdown to Doomsday (U) [!].zip
+:	:	Budokan - The Martial Spirit (Unl) [c][!].zip
+:	:	Budokan - The Martial Spirit (Unl) [h1].zip
+:	:	Bugs Bunny in Double Trouble (4) [!].zip
+:	:	Bugs Bunny in Double Trouble (4) [b1].zip
+:	:	Bulls vs Lakers (U) [!].zip
+:	:	Bulls vs Lakers (U) [b1].zip
+:	:	Bulls vs Lakers (U) [h1].zip
+:	:	Burning Force (E).zip
+:	:	Burning Force (J).zip
+:	:	Burning Force (U) [!].zip
+:	:	Burning Force (U) [b1].zip
+:	:	Burning Force (U) [b2].zip
+:	:	Burning Force (U) [h1].zip
+:	:	CDX Pro BIOS V1.8I (Unl) [o1].zip
+:	:	CDX Pro BIOS V1.8I (Unl).zip
+:	:	Cadash (U) [b1].zip
+:	:	Cadash (U) [c][!].zip
+:	:	Caesars Palace (U) [!].zip
+:	:	Caesars Palace (U) [b1].zip
+:	:	Cal Ripken Jr. Baseball (U) [b1].zip
+:	:	Cal Ripken Jr. Baseball (U) [c][!].zip
+:	:	Cal Ripken Jr. Baseball (U) [h1].zip
+:	:	Cal Ripken Jr. Baseball (U) [h2].zip
+:	:	Cal Ripken Jr. Baseball (U) [h3].zip
+:	:	Caliber Fifty (J) [!].zip
+:	:	Caliber Fifty (J) [b1].zip
+:	:	Caliber Fifty (J) [b2].zip
+:	:	California Games (U) [!].zip
+:	:	California Games (U) [T-Port_FjM].zip
+:	:	California Games (U) [b1].zip
+:	:	California Games (U) [h1].zip
+:	:	California Games (U) [p1].zip
+:	:	California Games (U) [p2].zip
+:	:	Cannon Fodder (E) [!].zip
+:	:	Cannon Fodder (E) [b1].zip
+:	:	Cannon Fodder (E) [o1].zip
+:	:	Cannon Fodder (E) [o1][b1].zip
+:	:	Cannon Fodder (E) [o1][h1].zip
+:	:	Capt'n Havoc (E) [!].zip
+:	:	Captain America and the Avengers (E).zip
+:	:	Captain America and the Avengers (J) [!].zip
+:	:	Captain America and the Avengers (J) [a1].zip
+:	:	Captain America and the Avengers (J) [b1].zip
+:	:	Captain America and the Avengers (J) [b2].zip
+:	:	Captain America and the Avengers (J) [h1].zip
+:	:	Castlevania - Bloodlines (U) [!].zip
+:	:	Castlevania - Bloodlines (U) [b1].zip
+:	:	Castlevania - Bloodlines (U) [h1].zip
+:	:	Castlevania - Bloodlines (U) [h2].zip
+:	:	Castlevania - The New Generation (E) [!].zip
+:	:	Castlevania - The New Generation (E) [b1].zip
+:	:	Censor 3D Demo (PD).zip
+:	:	Censor C64 Picture Demo (PD) [a1].zip
+:	:	Censor C64 Picture Demo (PD).zip
+:	:	Censor Intro (PD) [a1].zip
+:	:	Censor Intro 1 (PD).zip
+:	:	Censor Movie Trailer Demo (PD) [a1].zip
+:	:	Censor Movie Trailer Demo (PD).zip
+:	:	Censor Smiley Face Demo (PD) [a1].zip
+:	:	Censor Smiley Face Demo (PD).zip
+:	:	Centurion - Defender of Rome (U) [b1].zip
+:	:	Centurion - Defender of Rome (U) [b2].zip
+:	:	Centurion - Defender of Rome (U) [b3].zip
+:	:	Centurion - Defender of Rome (U) [c][!].zip
+:	:	Centurion - Defender of Rome (U) [o1].zip
+:	:	Chakan - The Forever Man (U) [!].zip
+:	:	Chakan - The Forever Man (U) [b1].zip
+:	:	Chakan - The Forever Man (U) [b2].zip
+:	:	Champions World Class Soccer (JUE) [!].zip
+:	:	Champions World Class Soccer (JUE) [b1].zip
+:	:	Champions World Class Soccer (JUE) [b2].zip
+:	:	Champions World Class Soccer (JUE) [h1].zip
+:	:	Champions World Class Soccer (JUE) [h2].zip
+:	:	Champions World Class Soccer (JUE) [o1].zip
+:	:	Champions World Class Soccer (JUE) [o2].zip
+:	:	Championship Bowling (U) [!].zip
+:	:	Championship Bowling (U) [b1].zip
+:	:	Championship Bowling (U) [b2].zip
+:	:	Championship Pool (U) [!].zip
+:	:	Championship Pool (U) [b1].zip
+:	:	Championship Pro Am (U) [b1].zip
+:	:	Championship Pro Am (U) [b2].zip
+:	:	Championship Pro Am (U) [c][!].zip
+:	:	Championship Pro Am (U) [h1].zip
+:	:	Championship Pro Am (U) [h2].zip
+:	:	Championship Pro Am (U) [h3].zip
+:	:	Chaos Engine, The (E) [!].zip
+:	:	Chaos Engine, The (E) [b1].zip
+:	:	Chaos Engine, The (E) [b2].zip
+:	:	Chaos Engine, The (E) [b3].zip
+:	:	Chaos Engine, The (E) [b4].zip
+:	:	Chaos Engine, The (E) [o1].zip
+:	:	Chaos Engine, The (E) [o1][b1].zip
+:	:	Chaos Engine, The (beta) [h1].zip
+:	:	Chaos Engine, The (beta) [h2].zip
+:	:	Chaos Engine, The (beta).zip
+:	:	Chase HQ 2 (JUE) [!].zip
+:	:	Chase HQ 2 (JUE) [b1].zip
+:	:	Chase HQ 2 (JUE) [b2].zip
+:	:	Chase HQ 2 (JUE) [b3].zip
+:	:	Chavez 2 (U) [h1].zip
+:	:	Chavez 2 (U).zip
+:	:	Chelnov (J).zip
+:	:	Chester Cheetah (U) [c][!].zip
+:	:	Chester Cheetah (U) [h1].zip
+:	:	Chester Cheetah 2 - Wild Wild Quest (U) [!].zip
+:	:	Chester Cheetah 2 - Wild Wild Quest (U) [b1].zip
+:	:	Chester Cheetah 2 - Wild Wild Quest (U) [h1].zip
+:	:	Chi Chi's Pro Challenge (U) [!].zip
+:	:	Chi Chi's Pro Challenge (U) [b1].zip
+:	:	Chi Chi's Pro Challenge (U) [b2].zip
+:	:	Chi Chi's Pro Challenge (U) [b3].zip
+:	:	Chi Chi's Pro Challenge (U) [h1].zip
+:	:	Chibi Maruko Chan Wakuwaku Shopping (J) [b1].zip
+:	:	Chibi Maruko Chan Wakuwaku Shopping (J) [b2].zip
+:	:	Chiki Chiki Boys (J) [b1].zip
+:	:	Chiki Chiki Boys (J).zip
+:	:	Chiki Chiki Boys (U) [!].zip
+:	:	Chinese Chess (Chinese).zip
+:	:	Chou Yakkyou Miracle Nine (1) [!].zip
+:	:	Chuck Rock (U) [b1].zip
+:	:	Chuck Rock (U) [c][!].zip
+:	:	Chuck Rock (U) [h1].zip
+:	:	Chuck Rock (U) [h2].zip
+:	:	Chuck Rock (U) [t1].zip
+:	:	Chuck Rock (U) [t2].zip
+:	:	Chuck Rock 2 (E) [c][!].zip
+:	:	Chuck Rock 2 (J).zip
+:	:	Chuck Rock 2 (U) [!].zip
+:	:	Chuck Rock 2 (U) [b1].zip
+:	:	Chuck Rock 2 (U) [b2].zip
+:	:	Chuck Rock 2 (beta) [h1].zip
+:	:	Chuck Rock 2 (beta) [h2].zip
+:	:	Chuck Rock 2 (beta) [h3].zip
+:	:	Chuck Rock 2 (beta) [h4].zip
+:	:	Chuck Rock 2 (beta) [h5].zip
+:	:	Chuck Rock 2 (beta).zip
+:	:	Clay Fighter (JUE) [h2].zip
+:	:	Clay Fighter (U) [!].zip
+:	:	Clay Fighter (U) [h1].zip
+:	:	Clay Fighter (U) [h2].zip
+:	:	Cliffhanger (U) [b1].zip
+:	:	Cliffhanger (U) [c][!].zip
+:	:	Cliffhanger (U) [h1].zip
+:	:	Cliffhanger (U) [h2].zip
+:	:	Clue (U) [!].zip
+:	:	Clue (U) [h1].zip
+:	:	Clue (U) [h2].zip
+:	:	Clue (U) [h3].zip
+:	:	Clue (U) [h4].zip
+:	:	Clue (U) [h5].zip
+:	:	Coach K College Basketball (U) [!].zip
+:	:	Coach K College Basketball (U) [h1].zip
+:	:	College Football USA 96 (4) [!].zip
+:	:	College Football USA 96 (4) [h1].zip
+:	:	College Football USA 96 (4) [o1].zip
+:	:	College Football USA 97 (4) [!].zip
+:	:	College Football USA 97 (4) [b1].zip
+:	:	College Slam (4) [!].zip
+:	:	College Slam (4) [h1].zip
+:	:	College Slam (4) [h2].zip
+:	:	Columns (REV 00) (JU) [p1].zip
+:	:	Columns (REV 00) (JU).zip
+:	:	Columns (REV 01) (JU) [!].zip
+:	:	Columns (REV 01) (JU) [h1].zip
+:	:	Columns (REV 01) (JU) [o1].zip
+:	:	Columns 3 - Revenge of Columns (J) [h1].zip
+:	:	Columns 3 - Revenge of Columns (J).zip
+:	:	Columns 3 - Revenge of Columns (U) [!].zip
+:	:	Columns 3 - Revenge of Columns (U) [h1].zip
+:	:	Columns 3 - Revenge of Columns (U) [h2].zip
+:	:	Columns 3 - Revenge of Columns (U) [h3].zip
+:	:	Columns 3 - Revenge of Columns (U) [h4].zip
+:	:	Columns 3 - Revenge of Columns (U) [h5].zip
+:	:	Combat Aces (beta) [h1].zip
+:	:	Combat Aces (beta) [h2].zip
+:	:	Combat Aces (beta).zip
+:	:	Combat Cars (JUE) [!].zip
+:	:	Combat Cars (JUE) [h1].zip
+:	:	Combat Cars (JUE) [h2].zip
+:	:	Combat Cars (JUE) [o1].zip
+:	:	Combat Cars (JUE) [o1][h1].zip
+:	:	Comix Zone (1) [!].zip
+:	:	Comix Zone (4) [!].zip
+:	:	Comix Zone (4) [b1].zip
+:	:	Comix Zone (4) [b2].zip
+:	:	Comix Zone (4) [h1].zip
+:	:	Comix Zone (4) [h2].zip
+:	:	Comix Zone (4) [h3].zip
+:	:	Comix Zone (4) [p1][!].zip
+:	:	Comix Zone (A).zip
+:	:	Comix Zone (beta) [b1].zip
+:	:	Comix Zone (beta) [b2].zip
+:	:	Comix Zone (beta).zip
+:	:	Command & Conquer (beta).zip
+:	:	Congo - The Game (beta).zip
+:	:	Conquering the World 3 (Chinese).zip
+:	:	Contra - Hard Corps (J) [!].zip
+:	:	Contra - Hard Corps (J) [h1].zip
+:	:	Contra - Hard Corps (J) [h2].zip
+:	:	Contra - Hard Corps (J) [h3].zip
+:	:	Contra - Hard Corps (J) [h4].zip
+:	:	Contra - Hard Corps (J) [p1].zip
+:	:	Contra - Hard Corps (J) [t1].zip
+:	:	Contra - Hard Corps (J) [t2].zip
+:	:	Contra - Hard Corps (U) [!].zip
+:	:	Contra - Hard Corps (U) [T-Port_BRGames].zip
+:	:	Contra - Hard Corps (U) [b1].zip
+:	:	Contra - Hard Corps (U) [h1].zip
+:	:	Contra - Hard Corps (U) [h2].zip
+:	:	Cool Spot (E).zip
+:	:	Cool Spot (U) [!].zip
+:	:	Cool Spot (U) [h1].zip
+:	:	Cool Spot (U) [h2].zip
+:	:	Cool Spot (U) [h3].zip
+:	:	Cool Spot (U) [h4].zip
+:	:	Cool Spot (beta) [h1].zip
+:	:	Cool Spot (beta).zip
+:	:	Corporation (E) [b1].zip
+:	:	Corporation (E) [b2].zip
+:	:	Corporation (E) [c][!].zip
+:	:	Corporation (E) [h1].zip
+:	:	Cosmic Carnage 32X (5) [!].zip
+:	:	Cosmic Carnage 32X (A) [!].zip
+:	:	Cosmic Spacehead (E) [c][!].zip
+:	:	Cosmic Spacehead (E) [h1].zip
+:	:	Cosmic Spacehead (E) [h2].zip
+:	:	Cosmic Spacehead (E) [h3].zip
+:	:	Crack Down (J) [!].zip
+:	:	Crack Down (J) [a1].zip
+:	:	Crack Down (J) [h1].zip
+:	:	Crack Down (J) [h2].zip
+:	:	Crack Down (J) [h3].zip
+:	:	Crack Down (UE) [!].zip
+:	:	CrossFire (J) [c][!].zip
+:	:	CrossFire (J) [h1].zip
+:	:	CrossFire (J) [h2].zip
+:	:	Crude Busters (J) [h1].zip
+:	:	Crude Busters (J).zip
+:	:	Crue Ball (U) [!].zip
+:	:	Crue Ball (U) [b1].zip
+:	:	Crusader of Centy (U) [!].zip
+:	:	Crusader of Centy (U) [h1].zip
+:	:	Crusader of Centy (U) [h2].zip
+:	:	Crusader of Centy (U) [h3].zip
+:	:	Crying (J) [h1].zip
+:	:	Crying (J).zip
+:	:	Crystal's Pony Tale (U) [!].zip
+:	:	Crystal's Pony Tale (U) [b1].zip
+:	:	Crystal's Pony Tale (U) [b2].zip
+:	:	Crystal's Pony Tale (U) [h1].zip
+:	:	Crystal's Pony Tale (U) [h2].zip
+:	:	Crystal's Pony Tale (U) [h3].zip
+:	:	Curse (J) [!].zip
+:	:	Curse (J) [h1].zip
+:	:	Curse (J) [h2].zip
+:	:	Cutey Suzuki's Ringside Angel (JU) [!].zip
+:	:	Cutey Suzuki's Ringside Angel (JU) [b1].zip
+:	:	Cutey Suzuki's Ringside Angel (JU) [h1].zip
+:	:	Cutthroat Island (F) [!].zip
+:	:	Cyber-Cop (UJ) [b1].zip
+:	:	Cyber-Cop (UJ) [c][!].zip
+:	:	Cyber-Cop (UJ) [h1].zip
+:	:	Cyber-Cop (UJ) [h2].zip
+:	:	CyberBall (JU) [!].zip
+:	:	CyberBall (JU) [b1].zip
+:	:	CyberBall (JU) [b2].zip
+:	:	CyberBall (JU) [b3].zip
+:	:	CyberBall (JU) [b4].zip
+:	:	Cyborg Justice (U) [!].zip
+:	:	Cyborg Justice (U) [h1].zip
+:	:	Cyborg Justice (U) [h2].zip
+:	:	Cyborg Justice (U) [h3].zip
+:	:	Cyborg Justice (U) [h4].zip
+:	:	D&D - Warriors of the Eternal Sun (U) [!].zip
+:	:	D&D - Warriors of the Eternal Sun (U) [a1].zip
+:	:	D&D - Warriors of the Eternal Sun (U) [h1].zip
+:	:	DJ Boy (J) [h1].zip
+:	:	DJ Boy (J) [p1].zip
+:	:	DJ Boy (J).zip
+:	:	DJ Boy (U) [!].zip
+:	:	Daffy Duck in Hollywood (JUE) [!].zip
+:	:	Daffy Duck in Hollywood (JUE) [t1].zip
+:	:	Daffy Duck in Hollywood (beta).zip
+:	:	Dahna Megami Tanjyo (J) [!].zip
+:	:	Dahna Megami Tanjyo (J) [b1].zip
+:	:	Dai Konsen (J).zip
+:	:	Dai Makaimura (REV 00) (J) [!].zip
+:	:	Dai Makaimura (REV 00) (J) [o1].zip
+:	:	Dai Makaimura (REV 01) (J).zip
+:	:	Daikoukai Jidai (J) [x].zip
+:	:	Daikoukai Jidai II (J) [T-Chinese].zip
+:	:	Daikoukai Jidai II (J) [a1].zip
+:	:	Daikoukai Jidai II (J).zip
+:	:	Dangerous Seed (J) [!].zip
+:	:	Dangerous Seed (J) [b1].zip
+:	:	Dangerous Seed (J) [h1].zip
+:	:	Dangerous Seed (J) [h2].zip
+:	:	Darius 2 (J) [c][!].zip
+:	:	Darius 2 (J) [h1].zip
+:	:	Darius 2 (J) [h2].zip
+:	:	Dark Castle (U) [!].zip
+:	:	Darwin 4081 (J) [!].zip
+:	:	Darwin 4081 (J) [b1].zip
+:	:	Darwin 4081 (J) [h1].zip
+:	:	Darxide 32X (A) [!].zip
+:	:	Dashin' Desperadoes (U) [!].zip
+:	:	Dashin' Desperadoes (U) [h1].zip
+:	:	Dashin' Desperadoes (U) [h2].zip
+:	:	Dashin' Desperadoes (U) [h3].zip
+:	:	Dashin' Desperadoes (beta) [h1].zip
+:	:	Dashin' Desperadoes (beta).zip
+:	:	David Crane's Amazing Tennis (U) [!].zip
+:	:	David Crane's Amazing Tennis (U) [b1].zip
+:	:	David Crane's Amazing Tennis (U) [b2].zip
+:	:	David Robinson's Basketball (J) [!].zip
+:	:	David Robinson's Supreme Court (U) [!].zip
+:	:	Davis Cup World Tour Tennis (Jun 1993) (UJE).zip
+:	:	Daze Before Christmas, The (E) [!].zip
+:	:	Daze Before Christmas, The (E) [h1].zip
+:	:	Daze Before Christmas, The (beta) [a1].zip
+:	:	Daze Before Christmas, The (beta).zip
+:	:	Deadly Moves (J) [!].zip
+:	:	Deadly Moves (J) [b1].zip
+:	:	Deadly Moves (J) [h1].zip
+:	:	Deadly Moves (U) [h1].zip
+:	:	Death Duel (EU) [!].zip
+:	:	Death and Return of Superman, The (U) [!].zip
+:	:	Death and Return of Superman, The (U) [b1].zip
+:	:	Death and Return of Superman, The (U) [h1].zip
+:	:	Death and Return of Superman, The (U) [h2].zip
+:	:	Decap Attack (UE) [!].zip
+:	:	Decap Attack (UE) [b1].zip
+:	:	Decap Attack (UE) [p1][!].zip
+:	:	Decap Attack (UJ).zip
+:	:	Demolition Man (F) [!].zip
+:	:	Demolition Man (F) [b1].zip
+:	:	Demolition Man (F) [b2].zip
+:	:	Demolition Man (beta).zip
+:	:	Desert Demolition (UJE) [!].zip
+:	:	Desert Demolition (UJE) [h1].zip
+:	:	Desert Strike - Return to the Gulf (U) [!].zip
+:	:	Devil Crash MD (J) [!].zip
+:	:	Devil Crash MD (J) [h1].zip
+:	:	Devil Crash MD (J) [p1][!].zip
+:	:	Devil Hunter Yohko - The Seven Bells (J).zip
+:	:	Devil's Course 3-D Golf (J) [!].zip
+:	:	Devilish (U) [c][!].zip
+:	:	Devilish (U) [h1].zip
+:	:	Devilish Mahjong Tower (Unl) [c].zip
+:	:	Devilish Mahjong Tower (Unl) [h1].zip
+:	:	Devilish Mahjong Tower (Unl) [h2].zip
+:	:	Dick Tracy (JUE) [b1].zip
+:	:	Dick Tracy (JUE) [c][!].zip
+:	:	Dick Tracy (JUE) [h1].zip
+:	:	Dino Dini's Soccer (E).zip
+:	:	Dino Land (JU) [!].zip
+:	:	Dino Land (JU) [a1].zip
+:	:	Dinosaurs for Hire (U) [!].zip
+:	:	Dinosaurs for Hire (U) [b1].zip
+:	:	Dinosaurs for Hire (U) [h1].zip
+:	:	Divine Sealing (JU) [a1].zip
+:	:	Divine Sealing (JU) [c][!].zip
+:	:	Divine Sealing (JU) [h1].zip
+:	:	Dodge Ball - Kuy Kid (J) [h1].zip
+:	:	Dodge Ball - Kuy Kid (J) [h2].zip
+:	:	Dodge Ball - Kuy Kid (J).zip
+:	:	Dominus (JUE) [b1].zip
+:	:	Dominus (JUE) [b2].zip
+:	:	Dominus (JUE) [o1].zip
+:	:	Dominus (JUE) [o1][h1].zip
+:	:	Dominus (JUE) [o2].zip
+:	:	Dominus (JUE) [x].zip
+:	:	Donald Duck in Maui Mallard (A) [!].zip
+:	:	Donald Duck in Maui Mallard (A) [b1].zip
+:	:	Donald Duck in Maui Mallard (A) [b2].zip
+:	:	Donkey Kong 99 (J) [p1].zip
+:	:	Doom 32X (E) [!].zip
+:	:	Doom 32X (JU) [!].zip
+:	:	Double Clutch (JUE) [a1].zip
+:	:	Double Clutch (JUE) [c][!].zip
+:	:	Double Clutch (JUE) [h1].zip
+:	:	Double Dragon (U) [!].zip
+:	:	Double Dragon (U) [b1].zip
+:	:	Double Dragon (U) [h1].zip
+:	:	Double Dragon 2 (J) [!].zip
+:	:	Double Dragon 3 (U) [!].zip
+:	:	Double Dragon 3 (U) [h1].zip
+:	:	Double Dragon 3 (U) [h2].zip
+:	:	Double Dragon 3 (U) [h3].zip
+:	:	Double Dragon 3 (U) [t1].zip
+:	:	Double Dragon 3 (U) [t2].zip
+:	:	Double Dragon 5 (U) [!].zip
+:	:	Double Dragon 5 (U) [b1].zip
+:	:	Double Dragon 5 (U) [h1].zip
+:	:	Double Dragon 5 (U) [h2].zip
+:	:	Double Dribble - Playoff Edition (U) [!].zip
+:	:	Double Dribble - Playoff Edition (U) [b1].zip
+:	:	Double Dribble - Playoff Edition (U) [b2].zip
+:	:	Double Dribble - Playoff Edition (U) [b3].zip
+:	:	Double Dribble - Playoff Edition (U) [b4].zip
+:	:	Double Dribble - Playoff Edition (U) [b5].zip
+:	:	Double Dribble - Playoff Edition (U) [h1].zip
+:	:	Double Dribble - Playoff Edition (U) [h2].zip
+:	:	Dr. Robotnik's Mean Bean Machine (J) [x].zip
+:	:	Dr. Robotnik's Mean Bean Machine (U) [!].zip
+:	:	Dr. Robotnik's Mean Bean Machine (U) [h1].zip
+:	:	Dr. Robotnik's Mean Bean Machine (U) [h2].zip
+:	:	Dr. Robotnik's Mean Bean Machine (beta) [h1].zip
+:	:	Dr. Robotnik's Mean Bean Machine (beta).zip
+:	:	Dragon - The Bruce Lee Story (E) [h1].zip
+:	:	Dragon - The Bruce Lee Story (E).zip
+:	:	Dragon - The Bruce Lee Story (U) [!].zip
+:	:	Dragon - The Bruce Lee Story (U) [b1].zip
+:	:	Dragon - The Bruce Lee Story (U) [h1].zip
+:	:	Dragon - The Bruce Lee Story (U) [p1].zip
+:	:	Dragon Ball Z (E) (French) [h1].zip
+:	:	Dragon Ball Z (E) (French).zip
+:	:	Dragon Ball Z - Bu Yu Retsuden (J) [!].zip
+:	:	Dragon Ball Z - Bu Yu Retsuden (J) [b1].zip
+:	:	Dragon Ball Z - Bu Yu Retsuden (J) [b2].zip
+:	:	Dragon Ball Z - Bu Yu Retsuden (J) [h1].zip
+:	:	Dragon Ball Z - Bu Yu Retsuden (J) [h2].zip
+:	:	Dragon Ball Z - Bu Yu Retsuden (J) [h3].zip
+:	:	Dragon Ball Z - Bu Yu Retsuden (J) [h4].zip
+:	:	Dragon Slayer (J) [!].zip
+:	:	Dragon Slayer (J) [h1].zip
+:	:	Dragon Slayer (J) [h2].zip
+:	:	Dragon Slayer 2 - Legend of Heroes (B) [!].zip
+:	:	Dragon Slayer 2 - Legend of Heroes (B) [h1].zip
+:	:	Dragon's Eye - Shanghai 3 (J) [b1].zip
+:	:	Dragon's Eye - Shanghai 3 (J) [b2].zip
+:	:	Dragon's Eye - Shanghai 3 (J).zip
+:	:	Dragon's Fury (UE) [!].zip
+:	:	Dragon's Revenge (JUE) [!].zip
+:	:	Draxos (J).zip
+:	:	Duke Nukem 3D (F) [h1].zip
+:	:	Duke Nukem 3D (F) [h2].zip
+:	:	Duke Nukem 3D (F).zip
+:	:	Dune - The Battle for Arrakis (E) [b1].zip
+:	:	Dune - The Battle for Arrakis (E) [b2].zip
+:	:	Dune - The Battle for Arrakis (E) [h1].zip
+:	:	Dune - The Battle for Arrakis (E) [h2].zip
+:	:	Dune - The Battle for Arrakis (E) [h3].zip
+:	:	Dune - The Battle for Arrakis (E).zip
+:	:	Dune - The Building of a Dynasty (U) [!].zip
+:	:	Dyna Brothers (REV 01) (J).zip
+:	:	Dyna Brothers 2 (J) [!].zip
+:	:	Dyna Brothers 2 (J) [h1].zip
+:	:	Dynamite Duke (JU) [!].zip
+:	:	Dynamite Duke (JU) [a1][!].zip
+:	:	Dynamite Duke (JU) [h1].zip
+:	:	Dynamite Duke (JU) [h2].zip
+:	:	Dynamite Headdy (J) [c][!].zip
+:	:	Dynamite Headdy (J) [h1].zip
+:	:	Dynamite Headdy (J) [h2].zip
+:	:	Dynamite Headdy (J) [h3].zip
+:	:	Dynamite Headdy (J) [t1].zip
+:	:	Dynamite Headdy (J) [t2].zip
+:	:	Dynamite Headdy (UE) [c][!].zip
+:	:	Dynamite Headdy (beta) [h1].zip
+:	:	Dynamite Headdy (beta) [h2].zip
+:	:	Dynamite Headdy (beta).zip

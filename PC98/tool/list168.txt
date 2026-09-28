@@ -1,0 +1,76 @@
+(ROM) No-Intro Sega Game 1000 (20061123) (rr5%).rar
+1,139,093
+6256c31602142d90828e73ca72554e43ÅE7ecde85355990036fe4551b63f2c1ec2f3246214
+
+:	SG1000
+:	:	Bank Panic (J).zip
+:	:	Black Onyx, The (J).zip
+:	:	Bomb Jack (JA).zip
+:	:	Borderline (JAE).zip
+:	:	Castle, The (J).zip
+:	:	Chack'n Pop (J).zip
+:	:	Champion Baseball (J).zip
+:	:	Champion Billiards (J).zip
+:	:	Champion Boxing (J) (Cart).zip
+:	:	Champion Boxing (J) (MyCard).zip
+:	:	Champion Golf (J).zip
+:	:	Champion Ice Hockey (J).zip
+:	:	Champion Kendou (J).zip
+:	:	Champion Pro Wrestling (J).zip
+:	:	Champion Soccer (J).zip
+:	:	Champion Tennis (J).zip
+:	:	Championship Lode Runner (JA).zip
+:	:	Choplifter (J) (Proto).zip
+:	:	Choplifter (JA).zip
+:	:	Congo Bongo (AE) (alt).zip
+:	:	Congo Bongo (AE).zip
+:	:	Dokidoki Penguin Land (J).zip
+:	:	Dragon Wang (J) [a].zip
+:	:	Dragon Wang (J).zip
+:	:	Drol (JA).zip
+:	:	Elevator Action (J).zip
+:	:	Exerion (J).zip
+:	:	Flicky (J).zip
+:	:	GP World (J).zip
+:	:	Girl's Garden (J).zip
+:	:	Golgo 13 (J).zip
+:	:	Gulkave (J).zip
+:	:	H.E.R.O. (J).zip
+:	:	Hang-On II (JA).zip
+:	:	Hustle Chumy (J).zip
+:	:	Hyper Sports (J).zip
+:	:	Lode Runner (J).zip
+:	:	Monaco GP (J).zip
+:	:	N-Sub (J).zip
+:	:	Ninja Princess (JA).zip
+:	:	Orguss (J).zip
+:	:	Pacar (J).zip
+:	:	Pachinko II (J).zip
+:	:	Pitfall II - The Lost Caverns (J) [a].zip
+:	:	Pitfall II - The Lost Caverns (J).zip
+:	:	Pop Flamer (J).zip
+:	:	Rock n' Bolt (J).zip
+:	:	Safari Hunting (J).zip
+:	:	Safari Race (J).zip
+:	:	Sega Flipper (J).zip
+:	:	Sega-Galaga (J).zip
+:	:	Shinnyushain Tooru Kun (J).zip
+:	:	Sindbad Mystery (JAE).zip
+:	:	Soukoban (JA).zip
+:	:	Space Invaders (J).zip
+:	:	Space Slalom (J).zip
+:	:	Star Force (J).zip
+:	:	Star Jacker (J) (v1.0).zip
+:	:	Star Jacker (JAE) (v1.1).zip
+:	:	Star Jacker (JAE) (v1.2).zip
+:	:	Super Tank (J).zip
+:	:	Terebi Oekaki (J).zip
+:	:	Wonder Boy (J).zip
+:	:	Yamato (J).zip
+:	:	Zaxxon (J).zip
+:	:	Zippy Race (JA).zip
+:	:	Zoom 909 (J).zip
+:	:	[Othello Multivision] Guzzler (J).zip
+:	:	[Othello Multivision] James Bond 007 (J) (v2.7).zip
+:	:	[Othello Multivision] Q-bert (J).zip
+:	:	[Othello Multivision] Space Mountain (J).zip

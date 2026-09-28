@@ -1,0 +1,104 @@
+[ファイル名],[サイズ]
+0901 - Tom and Jerry in Infurnal Escape (U).zip,2493247 Byte
+0902 - Megaman and Bass (U).zip,4834231 Byte
+0903 - Sega Rally Championship (U).zip,3344633 Byte
+0904 - Defender (E).zip,1862554 Byte
+0905 - Crash Bandicoot 2 N-Tranced (E).zip,4345621 Byte
+0906 - Sonic Advance 2 (U).zip,4563427 Byte
+0907 - Pokemon Ruby (U).zip,4952339 Byte
+0908 - Yu-Gi-Oh! Duel Monsters 8 (J).zip,10355445 Byte
+0909 - Made in Wario (J).zip,10007473 Byte
+0910 - James Bond 007 - Nightfire (U).zip,4390868 Byte
+0911 - Bratz (U).zip,3457086 Byte
+0912 - Muppets - On With The Show (U).zip,4416723 Byte
+0913 - Piglet's Big Game (U).zip,2945831 Byte
+0914 - The Lost Vikings (E).zip,2324525 Byte
+0915 - Dr. Muto (E).zip,3540725 Byte
+0916 - Sonic Advance 2 (E).zip,4563066 Byte
+0917 - Samurai Jack - The Amulet of Time (U).zip,3283045 Byte
+0918 - MLB SlugFest 20-04 (U).zip,1608611 Byte
+0919 - One Piece - Mezase! King of Paris (J).zip,5470483 Byte
+0920 - Daredevil (G).zip,7265761 Byte
+0921 - Bruce Lee - Return of the Legend (E).zip,4592397 Byte
+0922 - Animal Snap - Rescue Them 2 By 2 (E).zip,4851624 Byte
+0923 - Ultimate Brain Games (U).zip,2030126 Byte
+0924 - Sister Princess Re Pure (J).zip,5706347 Byte
+0925 - Castleween (E).zip,3246698 Byte
+0926 - Superman - Countdown to Apokolips (U).zip,2974624 Byte
+0927 - Super Puzzle Fighter II (E).zip,4479412 Byte
+0928 - Shimura Ken no Bakatonosama (J).zip,1536323 Byte
+0929 - Inukko Club Fukumaru no Bouken (J).zip,1818651 Byte
+0930 - Dragon Quest Monsters - Caravan Heart (J).zip,4167253 Byte
+0931 - Jimmy Neutron vs. Jimmy Negatron (G).zip,2581523 Byte
+0932 - Gremlins - Stripe Vs Gizmo (E).zip,1584493 Byte
+0933 - Shin Megami Tensei (J).zip,4646420 Byte
+0934 - Quiere ser Millionario (S).zip,3345599 Byte
+0935 - Driver 2 Advance (U).zip,2918695 Byte
+0936 - Ed, Edd n Eddy - Jawbreakers! (U).zip,2162501 Byte
+0937 - Super Monkey Ball Jr. (E).zip,3724541 Byte
+0938 - Santa Claus Saves the Earth (E).zip,1568772 Byte
+0939 - Medabots - Rokusho Version (E).zip,5757873 Byte
+0940 - Golden Sun - The Lost Age (U).zip,13146613 Byte
+0941 - Ninja Cop (E).zip,1686596 Byte
+0942 - Disney Princess (U).zip,3184601 Byte
+0943 - Bomberman Max 2 Blue (E).zip,5568700 Byte
+0944 - Bomberman Max 2 Red (E).zip,5587433 Byte
+0945 - Whistle (J).zip,5073573 Byte
+0946 - Aozoora to Nakamatachi - Yume no Bouken (J).zip,2028032 Byte
+0947 - Hamtaro - Ham-Ham Heartbreak (U).zip,4498379 Byte
+0948 - Crazy Taxi - Catch a Ride (U).zip,3485948 Byte
+0949 - Daredevil (E).zip,3249626 Byte
+0950 - Freestyle Scooter (E).zip,2026200 Byte
+0951 - Mortal Kombat Advance (E).zip,5892575 Byte
+0952 - Dancing Sword (J).zip,3078677 Byte
+0953 - The Lost Vikings (U).zip,2290976 Byte
+0954 - Yu-Gi-Oh! Worldwide Edition (E).zip,6720770 Byte
+0955 - X-Men 2 - Wolverines Revenge (U).zip,4216571 Byte
+0956 - Bokujou Monogatari - Mineral Town no Nakama Tachi (J).zip,3579054 Byte
+0957 - Exciting Bass (J).zip,4438057 Byte
+0958 - Pink Panther - Pinkadelic Pursuit (U).zip,3016948 Byte
+0959 - Sengoku Kakumei Gaiden (J).zip,2603368 Byte
+0960 - Medarot 2 Core Kabuto Version (J).zip,5756475 Byte
+0961 - Colin McRea Rally 2 (U).zip,2173133 Byte
+0962 - SLOT!PRO 2 Advance GoGo Juggler (J).zip,952490 Byte
+0963 - Sylvania Family 4 (J).zip,1721963 Byte
+0964 - Japan Pro Mahjong Tetsuman Advance (J).zip,5408654 Byte
+0965 - Watashi No Make Salon (J).zip,2622696 Byte
+0966 - Disney Sports Basketball (J).zip,8890379 Byte
+0967 - Koukou Juken Advance Series Eijukugo Hen - 650 Phrases Syuuroku (J).zip,1860243 Byte
+0968 - Zoids Saga II (J).zip,4824730 Byte
+0969 - Kisekko Gurumi - Chesty to Nuigurumi no Mahou no Bouken (J).zip,2956322 Byte
+0970 - Medarot 2 Core Kuwagata Version (J).zip,5752236 Byte
+0971 - Shin Nihon Pro Wrestling Toukon Retsuden Advance (J).zip,3036060 Byte
+0972 - Simple 2960 Tomodachi Series Vol. 2 - The Block Kuzushi (J).zip,1072604 Byte
+0973 - Bass Tsuri Shiyouze (J).zip,4990840 Byte
+0974 - Tomb Raider - Prophecy (J).zip,4479248 Byte
+0975 - Fancy Pocket (J).zip,1727368 Byte
+0976 - Oshare Princess 2 And Doubutsu Kyaranabi (J).zip,3444680 Byte
+0977 - Superman Countdown to Apokolips (E).zip,2938216 Byte
+0978 - Sega Rally Championship (E).zip,3344638 Byte
+0979 - Fire Emblem - Rekka no Ken (J).zip,11457678 Byte
+0980 - Summonighcss (J).zip,5153206 Byte
+0981 - RPG Tsukuru Advance (J).zip,3570761 Byte
+0982 - The Sum of All Fears (U).zip,3930056 Byte
+0983 - HunterX - Hunter Minna Tomodachi Daisakusen (J).zip,11651228 Byte
+0984 - X-Men 2 - La vengeance de Wolverine (F).zip,4216852 Byte
+0985 - Rayman 3 - Hoodlum Havoc (U).zip,4753371 Byte
+0986 - Azumanga Daioh Advance (J).zip,5537967 Byte
+0987 - Disney Sports Motocross (U).zip,7045059 Byte
+0988 - Bouken Yuuki Plaston GP (J).zip,4827192 Byte
+0989 - Zero One (J).zip,9756396 Byte
+0990 - RockMan Zero 2 (J).zip,4425793 Byte
+0991 - Simple 2960 Vol. 1 - The Table Game Collection (J).zip,947167 Byte
+0992 - Lego Drone Racer (E).zip,4437215 Byte
+0993 - Splinter Cell (U).zip,5029257 Byte
+0994 - Naruto (J).zip,2190720 Byte
+0995 - Super Puzzle Fighter II (U).zip,4479516 Byte
+0996 - Castlevania - Minuet Of Dawn (J).zip,4344503 Byte
+0997 - Castlevania Aria of Sorrow (E).zip,4394461 Byte
+0998 - Lufia The Ruins Of Lore (U).zip,4851912 Byte
+0999 - Castlevania - Aria of Sorrow (U).zip,4394543 Byte
+1000 - Medal of Honor Underground (E).zip,3477360 Byte
+
+ファイル数合計 = 100 個
+ファイルサイズ合計 = 421917451 Byte

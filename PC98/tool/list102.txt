@@ -1,0 +1,55 @@
+(エミュ) MAME 0.85 新規対応rom (rr3%).rar
+e34746861125588ef424b241974f2c0e・e17e37190729aa13193aa13102a88f6c63ef2072
+245,877,787
+
+:	altb8571.zip
+:	bagnarda.zip
+:	bloxeedu.zip
+:	bm6thmix.zip
+:	capbowl3.zip
+:	capbowl4.zip
+:	caterplr.zip
+:	chmplst2.zip
+:	chugokur.zip
+:	ckongb.zip
+:	columns2.zip
+:	conquer.zip
+:	crusnexo.zip
+:	cybots.zip
+:	diggerc.zip
+:	dunkmnia.zip
+:	fantlnda.zip
+:	fax.zip
+:	faxa.zip
+:	flashgla.zip
+:	galpania.zip
+:	gnbarich.zip
+:	gtmr2.zip
+:	harem.zip
+:	hiimpact.zip
+:	invasn.zip
+:	jongbou.zip
+:	jyuo8571.zip
+:	lastforg.zip
+:	lhb.zip
+:	mfjump.zip
+:	mk4.zip
+:	mspacmnf.zip
+:	nibblerb.zip
+:	pacmanf.zip
+:	pop_hh.zip
+:	portrait.zip
+:	portrata.zip
+:	puckmanf.zip
+:	puzlstar.zip
+:	radru.zip
+:	sengoku3.zip
+:	sqixa.zip
+:	thegrid.zip
+:	trvgns.zip
+:	twinfalc.zip
+:	vasara2.zip
+:	vasara2a.zip
+:	vbowl.zip
+:	xymg.zip
+:	zupapa.zip

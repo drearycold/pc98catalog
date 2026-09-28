@@ -1,0 +1,40 @@
+[DVD] mame0.80_disc2_djmain(cdi+rr5).part1.rar
+7417c471e85aeecef0f4459e041935f5
+
+[DVD] mame0.80_disc2_djmain(cdi+rr5).part2.rar
+a2a5bcc952adb3fdea2505d939291e89
+
+[DVD] mame0.80_disc2_djmain(cdi+rr5).part3.rar
+8b393bfb9dc47796b25230da8efba709
+
+[DVD] mame0.80_disc2_djmain(cdi+rr5).part4.rar
+e05b40453a1ca95329fd3f00f937afb6
+
+[DVD] mame0.80_disc2_djmain(cdi+rr5).part5.rar
+c53e619fbd3909743cc2720c2d7eb2ea
+
+:	roms
+:	:	bm1stmix.zip
+:	:	bm2ndmix.zip
+:	:	bm2ndmxa.zip
+:	:	bm4thmix.zip
+:	:	bmcompmx.zip
+:	:	bmcorerm.zip
+:	:	bmdct.zip
+:	:	hmcompm2.zip
+:	:	hmcompmx.zip
+:	:	bm1stmix
+:	:	:	753jaa11.chd
+:	:	bm2ndmix
+:	:	:	853jaa11.chd
+:	:	bm4thmix
+:	:	:	847jaa11.chd
+:	:	bmcompmx
+:	:	:	858jaa11.chd
+:	:	bmcorerm
+:	:	:	a05jaa11.chd
+:	:	bmdct
+:	:	:	995jaa11.chd
+:	:	hmcompm2
+:	:	:	988jaa11.chd
+24

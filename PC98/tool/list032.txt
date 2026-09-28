@@ -1,0 +1,305 @@
+ You have 303 of 303 known Coleco ColecoVision ROMS (V2.01)
+
+2010 - The Graphic Action Game (1984) (Coleco)
+Adam's Musicbox Demo (1987) (Coleco)
+Adventurium3 Demo (2000) (PD)
+Air Battle V0.4 by Daniel Bienvenu (July 10) (2000) (PD)
+Alcazar - The Forgotten Fortress (1985) (Activision)
+Alphabet Zoo (1984) (Spinnaker)
+Amazing Bumpman (1986) (Telegames)
+Amazing Snake Beta 4 by Serge-Eric Tremblay (2001) (PD)
+Amazing Snake Beta 5 by Serge-Eric Tremblay (2001) (PD)
+Amazing Snake Beta X by Serge-Eric Tremblay (2001) (PD)
+Antarctic Adventure (1984) (Konami) (Prototype)
+Antarctic Adventure (1984) (Konami)
+Aquattack (1984) (Interphase) [a1]
+Aquattack (1984) (Interphase)
+Artillery Duel (1983) (Xonox)
+BC's Quest for Tires (1983) (Sierravision) [a1]
+BC's Quest for Tires (1983) (Sierravision)
+BC's Quest for Tires II - Grog's Revenge (1984) (24k) [a1]
+BC's Quest for Tires II - Grog's Revenge (1984) (32k) [b1]
+BC's Quest for Tires II - Grog's Revenge (1984) (32k)
+Beamrider (1983) (Activision) [!]
+Bejeweled Demo by Daniel Bienvenu (2001) (PD)
+Blockade Runner (1984) (Interphase)
+Boulder Dash (1984) (Micro Fun)
+Boulder Dash (1984) (Telegames) [t1] (50 Men)
+Boulder Dash (1984) (Telegames) [t2] (9 Men)
+Brain Strainers (1984) (Carousel)
+Breakout by Daniel Bienvenu (Feb 02) (1999) (PD)
+Breakout Paddle Demo by Daniel Bienvenu (Feb 12) (2001) (PD)
+Buck Rogers - Planet of Zoom (1983) (Sega) [a1]
+Buck Rogers - Planet of Zoom (1983) (Sega)
+Bump 'N' Jump (1982-84) (Data East)
+Bump 'N' Jump (1982-84) (Mattel) (Prototype)
+Burgertime (1982-83) (Mattel) (Prototype)
+Burgertime (1982-84) (Data East)
+BUsTin-Out Demo 0.5 by Daniel Bienvenu (2000) (PD)
+BUsTin-Out Volume 0 by Daniel Bienvenu (2000) (PD)
+BUsTin-Out Volume 1 by Daniel Bienvenu (2000) (PD)
+BUsTin-Out Volume 2 by Daniel Bienvenu (2000) (PD)
+BUsTin-Out Volume 3 by Daniel Bienvenu (2000) (PD)
+Cabbage Patch Kids - Adventure in the Park (1983)
+Cabbage Patch Kids - Adventures in the Park (1983) (Proto)
+Cabbage Patch Kids Picture Show (1984)
+Campaign '84 (1983) (Sunrise)
+Carnival (1982) [a1]
+Carnival (1982)
+Centipede (1983) (Atarisoft)
+Chateau du Dragon, Le by Daniel Bienvenu (2001) (PD)
+Choplifter (1982-84) (Broderbund) [b1]
+Choplifter (1982-84) (Broderbund)
+Christmas Demo by Daniel Bienvenu (Dec 25) (2001) (PD)
+Chuck Norris - Super Kicks (1983) (Xonox)
+ColecoVision BIOS (1982) [h1] (no title delay)
+ColecoVision BIOS (1982) [h2] (different font)
+ColecoVision BIOS (1982)
+ColecoVision Monitor Test (1982)
+ColecoVision Noise Generator by Marcel de Kogel (1996) (PD)
+Congo Bongo (1984)
+Cosmic Avenger (1982) (Universal) [a1]
+Cosmic Avenger (1982) (Universal)
+Cosmic Crisis (1983) (Bit Corp)
+Cosmo Challenge by Marcel de Kogel (1997) (PD)
+Cosmo Challenge-Trainer Menu by Marcel de Kogel (1997) (PD)
+Cosmo Fighter 2 by Marcel de Kogel (1996-97) (PD)
+Cosmo Fighter 3 Demo by Marcel de Kogel (2001) (PD)
+Cosmo Trainer by Marcel de Kogel (1997) (PD)
+Dacman (Aug 01) by Daniel Bienvenu (2000) (PD)
+Dacman (Aug 08) by Daniel Bienvenu (2000) (PD)
+Dacman (Aug 16) by Daniel Bienvenu (2000) (PD)
+Dacman (Jul 12) by Daniel Bienvenu (2000) (PD)
+Dacman (Jul 16) by Daniel Bienvenu (2000) (PD)
+Dacman (Jul 17) by Daniel Bienvenu (2000) (PD)
+Dacman (Jul 18) by Daniel Bienvenu (2000) (PD)
+Dacman (Jul 19) by Daniel Bienvenu (2000) (PD)
+Dacman (Jul 22) by Daniel Bienvenu (2000) (PD)
+Dacman (Jul 28) by Daniel Bienvenu (2000) (PD)
+Dacman (Jul 29) by Daniel Bienvenu (2000) (PD)
+Dam Busters, The (1984)
+Dance Fantasy (1984) (Fisher-Price)
+Decathlon (1983) (Activision)
+Defender (1983) (Atarisoft)
+Demon2 Demo by Yannick Proulx (2001) (PD)
+Destructor (1984) (Coleco)
+Dig Dug (1983) (Atarisoft) (Prototype) [o1]
+Dig Dug (1983) (Atarisoft) (Prototype)
+Donkey Kong (1982)
+Donkey Kong for Adam (1982)
+Donkey Kong Jr (1982-83)
+Dr. Seuss's Fix-Up The Mix-Up Puzzler (1984) (Coleco)
+DragonFire (1984) (Imagic)
+Dukes of Hazzard, The (1984) (Warner Bros)
+ELDCDBPAPP (Q-bert Hack)
+Escape From The Mind Master (1983) (Starpath) (Prototype)
+Evolution (1983) (Sydney)
+Facemaker (1983) (Spinnaker) [!]
+Facemaker (1983) (Spinnaker) [b1]
+Fall Guy (1983) (20th Century Fox) (Prototype)
+Fathom (1983) (Imagic)
+Final Test Cartridge (19xx)
+Flipper Slipper (1983) (Spectravideo)
+Fortune Builder (1984) (Circuits and Systems)
+Fraction Fever (1983) (Spinnaker)
+Frantic Freddy (1983) (Spectravideo)
+Frenzy! (1982-83) [a1]
+Frenzy! (1982-83)
+Frogger (1982-83) (Parker Bros) [o1]
+Frogger (1982-83) (Parker Bros)
+Frogger II - ThreeDeep! (1984) (Parker Bros)
+Frontline (1983) (Taito) [a1]
+Frontline (1983) (Taito)
+Galaxian (1983) (Atarisoft) [a1]
+Galaxian (1983) (Atarisoft) [a2]
+Galaxian (1983) (Atarisoft) [a3]
+Galaxian (1983) (Atarisoft)
+Gateway to Apshai (1984) (Epyx)
+Gorf (1981-83) (Midway) [b1]
+Gorf (1981-83) (Midway)
+Gust Buster (1983) (Sunrise)
+Gyruss (1984) (Parker Bros)
+H.E.R.O. (1984) (Activision)
+Happy Halloween by Daniel Bienvenu (2001) (PD)
+Heist, The (1983) (Micro Fun) [a1]
+Heist, The (1983) (Micro Fun) [t1] (50 Men)
+Heist, The (1983) (Micro Fun) [t2] (8 Men)
+Heist, The (1983) (Micro Fun)
+Illusions (1984) (Nice Ideas) [b1]
+Illusions (1984) (Nice Ideas)
+Its Only Rock 'N' Roll (1984) (Xonox)
+James Bond 007 (1984) (Parker Bros)
+JBulman Junior (Jumpman Jr. Hack) by Daniel Bienvenu (1997)
+Joust (1983) (Atarisoft) (Prototype)
+Juke Box (1984) (Spinnaker)
+Jumpman Junior (1984) (Epyx) [a1]
+Jumpman Junior (1984) (Epyx)
+Jungle Hunt (1983) (Atarisoft)
+Ken Uston's Blackjack-Poker (1983) [b1]
+Ken Uston's Blackjack-Poker (1983)
+Kevtris by Kevin Horton (1996) (PD) [a1]
+Kevtris by Kevin Horton (1996) (PD)
+Keystone Kapers (1983-84) (Activision)
+Kill Barney in Tokyo by Daniel Bienvenu (1997) (PD)
+Killer Instinct by Daniel Bienvenu (1997) (PD)
+Lady Bug (1982) (Universal)
+Learning With Leeper (1983) (Sierravision) [!]
+Linking Logic (1984) (Fisher-Price)
+Logic Levels (1984) (Fisher-Price)
+Looping (1983) (Venture Line) [b1]
+Looping (1983) (Venture Line)
+M.A.S.H. (1983) (20th Century Fox) (Prototype)
+Matt Patrol (1984) (Atarisoft) (Prototype)
+Memory Manor (1984) (Fisher-Price) [o1]
+Memory Manor (1984) (Fisher-Price)
+Meteoric Shower (1983) (Bit Corp)
+Miner 2049er (1983) (Micro Fun) [a1]
+Miner 2049er (1983) (Micro Fun) [t1] (50 Men)
+Miner 2049er (1983) (Micro Fun) [t2] (8 Men)
+Miner 2049er (1983) (Micro Fun)
+Monkey Academy (1984) (Konami) (Prototype)
+Monkey Academy (1984) (Konami) [o1]
+Monkey Academy (1984) (Konami)
+Montezuma's Revenge (1984) (Parker Bros)
+Moonsweeper (1983) (Imagic) [a1]
+Moonsweeper (1983) (Imagic)
+Motocross Racer (1984) (Xonox) [a1]
+Motocross Racer (1984) (Xonox)
+Mountain King (1983-84) (Sunrise) [!]
+Mountain King (1983-84) (Sunrise) [a1]
+Mousetrap (1982) (Exidy) [o1]
+Mousetrap (1982) (Exidy)
+Mr. Do! (1983) (Universal) [a1]
+Mr. Do! (1983) (Universal)
+Mr. Do's Castle (1983) (Parker Bros) [b1]
+Mr. Do's Castle (1983) (Parker Bros)
+Ms. Space Fury (Digital Press) (2001)
+Music Vol 1 by Daniel Bienvenu (2000) (PD)
+Nim by Daniel Bienvenu (Nov 03) (2000) (PD) [b1]
+Nim by Daniel Bienvenu (Nov 03) (2000) (PD)
+Nova Blast (1983) (Imagic) [!]
+Nova Blast (1983) (Imagic) [a1][!]
+Oil's Well (1984) (Sierravision) [b1]
+Oil's Well (1984) (Sierravision)
+Omega Race (1981-83) (Midway)
+One on One Basketball (1984) (Micro Fun)
+Pac-Man (1983) (Atarisoft) (Prototype) [o1]
+Pac-Man (1983) (Atarisoft) (Prototype)
+Pepper II (1983) (Exidy)
+Pere Noel by Daniel Bienvenu (2000) (PD)
+Pitfall II - Lost Caverns (1983-84) (Activision)
+Pitfall! (1983) (Activision) [!]
+Pitfall! (1983) (Activision) [b1]
+Pitstop (1983) (Epyx) [a1]
+Pitstop (1983) (Epyx) [a2]
+Pitstop (1983) (Epyx)
+Popeye (1983) (Parker Bros) [a1]
+Popeye (1983) (Parker Bros)
+Porky's (1983) (20th Century Fox) (Prototype)
+Power Lords - Quest for Volcan (1983) (Prototype)
+Puckman Sounds V001 (2003) (PD)
+Puckman Sounds V002 (2003) (PD)
+Puckman Sounds V003 (2003) (PD)
+Purple Dinosaur Massacre by John Dondzila (1996) (PD)
+Q-bert (1983) (Parker Bros) [a1]
+Q-bert (1983) (Parker Bros)
+Q-bert II (1984) (Parker Bros)
+Quest for Quintana Roo (1983) (Sunrise) [!]
+Quest for Quintana Roo (1983) (Sunrise) [a1]
+Reversi Demo by Daniel Bienvenu (2001) (PD)
+River Raid (1982-84) (Activision) [!]
+Robin Hood (1984) (Xonox) [a1]
+Robin Hood (1984) (Xonox)
+Roc 'N Rope (1983-84) (Konami)
+Rock 'N' Bolt (1984) (Telegames) [a1]
+Rock 'N' Bolt (1984) (Telegames)
+Rocky Super-Action Boxing (1983) (Coleco)
+Rolloverture (1983) (Sunrise)
+Sammy Lightfoot (1983) (Sierravision) [a1]
+Sammy Lightfoot (1983) (Sierravision)
+Sector Alpha (1983) (Spectravideo) [a1]
+Sector Alpha (1983) (Spectravideo) [a2]
+Sector Alpha (1983) (Spectravideo)
+Sewer Sam (1984) (Interphase)
+Sir Lancelot (1983) (Xonox) [!]
+Skiing (1986) (Telegames)
+Slither (1983) (Century II) [o1]
+Slither (1983) (Century II)
+Slurpy (1984) (Xonox) [b1]
+Slurpy (1984) (Xonox)
+Smurf - Paint 'n Play Workshop (1983)
+Smurf - Rescue in Gargamel's Castle (1982) [b1]
+Smurf - Rescue in Gargamel's Castle (1982)
+Sound FX Vol 1 by Daniel Bienvenu (2000) (PD)
+Sound FX Vol 2 by Daniel Bienvenu (2000) (PD)
+Space Fury (1983) (Sega) [b1]
+Space Fury (1983) (Sega)
+Space Invaders Collection Pack Demo (2002) (PD)
+Space Invasion by John Dondzila (1998) (PD)
+Space Invasion Demo by John Dondzila (Feb 06) (1998) (PD)
+Space Panic (1983) (Universal)
+Spectank Demo by Daniel Bienvenu (2000) (PD)
+Spectron (1983) (Spectravideo)
+Spy Hunter (1983-84) (Midway) [b1]
+Spy Hunter (1983-84) (Midway)
+Squish 'Em Sam! (1983) (Interphase)
+St-Valentine's Day (2002) (PD)
+St-Valentine's Day (No Alien Head) (2002) (PD)
+Star Fortress by John Dondzila (1997) (PD)
+Star Trek - Strategic Operations Simulator (1984) (Sega)[b1]
+Star Trek - Strategic Operations Simulator (1984) (Sega)
+Star Wars - The Arcade Game (1984) (Parker Bros)
+Steamroller (1984) (Activision) (Prototype)
+Strike It! (1983) (Telegames) [!]
+Strike It! (1983) (Telegames) [b1]
+Stubby Demo by Yannick Proulx (2001) (PD) [a1]
+Stubby Demo by Yannick Proulx (2001) (PD)
+Subroc (1983) (Sega) [a1]
+Subroc (1983) (Sega)
+Super Action Baseball (1983) (Coleco) [a1]
+Super Action Baseball (1983) (Coleco)
+Super Action Controller Test Cartridge (1983) (Nuvatec)
+Super Action Football (1984) (Coleco) [a1]
+Super Action Football (1984) (Coleco)
+Super Action Soccer (1984) (Coleco)
+Super Cobra (1983) (Parker Bros) [a1]
+Super Cobra (1983) (Parker Bros)
+Super Cross Force (1983) (Spectravideo) [a1]
+Super Cross Force (1983) (Spectravideo)
+Super DK! (1983) (Prototype)
+Super DK! Junior (1983) (Prototype)
+Superpong Demo (2000) (PD)
+Tank Wars (1983) (Bit Corp) [!]
+Tapper (1984) (Midway) [b1]
+Tapper (1984) (Midway)
+Tarzan (1984) (Coleco)
+Telly Turtle (1984) (Carousel)
+Tenchi Muyo Demo by Daniel Bienvenu (2000) (PD)
+Threshold (1983) (Sierravision)
+Tic Tac Toe by Norman Nithman (1996) (PD) [a1]
+Tic Tac Toe by Norman Nithman (1996) (PD)
+Time Pilot (1983) (Konami)
+Tomarc the Barbarian (1984) (Xonox) [b1]
+Tomarc the Barbarian (1984) (Xonox)
+Tournament Tennis (1984) (Imagic) [!]
+Tunnels & Trolls Demo (1983) (Adam)
+Turbo (1982) (Sega)
+Tutankham (1983) (Parker Bros) [o1]
+Tutankham (1983) (Parker Bros)
+Up 'N Down (1984) (Sega)
+Vampire (Venture Hack)
+Venture (1982) (Exidy)
+Venture (1982) [b1]
+Victory (1983)
+Video Hustler (1984) (Konami) (Prototype)
+War Games (1983-84)
+War Room (1983) (Probe 2000) [a1]
+War Room (1983) (Probe 2000)
+Wing War (1983) (Imagic)
+Winky Trap by John Dondzila (1997) (PD)
+Wizard of Id's Wizmath (1984) (Sierravision)
+Word Feud (1984) (Xonox)
+Yolk's on You, The (1983) (20th Century Fox) (Prototype)
+Zaxxon (1982) (Sega) [b1]
+Zaxxon (1982) (Sega)
+Zenji (1984) (Activision)

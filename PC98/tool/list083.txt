@@ -1,0 +1,50 @@
+[ファイル名],[サイズ]
+858jaa11.zip,1726137 Byte
+a05jaa11.zip,2111354 Byte
+argusg.zip,40827 Byte
+atluspsx.zip,126071 Byte
+bldyror2.zip,19392863 Byte
+bm5thmix.zip,1631160 Byte
+bonkadv.zip,157 Byte
+cball.zip,4312 Byte
+dadandrn.zip,370707 Byte
+dingoe.zip,10619 Byte
+getrivia.zip,48207 Byte
+getrv1.zip,132293 Byte
+getrv2.zip,136910 Byte
+getrv3.zip,35200 Byte
+getrv4.zip,132777 Byte
+gp500.zip,40299910 Byte
+gpan2qiz.zip,9877772 Byte
+gpgolf.zip,521857 Byte
+headoni.zip,5641 Byte
+hvnsgate.zip,15350384 Byte
+jojobaa.zip,132233 Byte
+jumppop.zip,353810 Byte
+le2j.zip,283016 Byte
+mmaulers.zip,8319182 Byte
+mspuzzle.zip,1577733 Byte
+opengol2.zip,320217 Byte
+opengolf.zip,12285383 Byte
+pbchmp95.zip,249223 Byte
+pkgnsh.zip,4893344 Byte
+pkgnshdx.zip,4814540 Byte
+psyforce.zip,5683660 Byte
+qbtrktst.zip,1160 Byte
+qdrmfgp.zip,1280362 Byte
+qdrmfgp2.zip,1413462 Byte
+sfchamp.zip,5998423 Byte
+sfchampj.zip,5990685 Byte
+sfex2p.zip,24880020 Byte
+sfexp.zip,11048441 Byte
+sfrushrk.zip,7586005 Byte
+spacelnc.zip,7953 Byte
+tgtball.zip,1315247 Byte
+tgtballa.zip,953187 Byte
+victnine.zip,99822 Byte
+vidvince.zip,62246 Byte
+wizwarz.zip,48530 Byte
+xexexj.zip,230202 Byte
+
+ファイル数合計 = 46 個
+ファイルサイズ合計 = 191783244 Byte

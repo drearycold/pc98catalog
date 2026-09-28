@@ -1,0 +1,677 @@
+:	20-em-1 (Brazil) [!].sms
+:	6 Button Controller Test by Charles MacDonald (PD).sms
+:	64 Color Palette Test (PD).sms
+:	ALF (UE) [!].sms
+:	Ace of Aces (UE) [!].sms
+:	Action Fighter (UE) [!].sms
+:	Addams Family, The (UE) [!].sms
+:	Aerial Assault (UE) [!].sms
+:	After Burner (UE) [!].sms
+:	After Burner (UE) [b1].sms
+:	Air Rescue (UE) [!].sms
+:	Air Rescue (UE) [b1].sms
+:	Air Rescue (UE) [b1][T-Port].sms
+:	Akai Koudan Zillion (J) [!].sms
+:	Aladdin (UE) [!].sms
+:	Aleste (JUE) [!].sms
+:	Alex Kidd - The Lost Stars (UE) [!].sms
+:	Alex Kidd - The Lost Stars (UE) [b1].sms
+:	Alex Kidd BMX Trial (UE) [!].sms
+:	Alex Kidd in High Tech World (UE) [!].sms
+:	Alex Kidd in Miracle World (Brazil) [p1][!].sms
+:	Alex Kidd in Miracle World (Brazil) [p1][b1].sms
+:	Alex Kidd in Miracle World (Brazil) [p1][o1].sms
+:	Alex Kidd in Miracle World (J) [!].sms
+:	Alex Kidd in Miracle World (UE) [!].sms
+:	Alex Kidd in Miracle World (UE) [T-Port].sms
+:	Alex Kidd in Miracle World (UE) [o1].sms
+:	Alex Kidd in Shinobi World (UE) [!].sms
+:	Alex Kidd in Shinobi World (UE) [b1].sms
+:	Alex Kidd in Shinobi World (UE) [b2].sms
+:	Alien 3 (UE) [!].sms
+:	Alien Storm (UE) [!].sms
+:	Alien Syndrome (UE) [!].sms
+:	Altered Beast (UE) [!].sms
+:	American Baseball (JE) [!].sms
+:	American Pro Football (UE) [!].sms
+:	Andre Agassi Tennis (UE) [!].sms
+:	Anmitsu Hime (J) [!].sms
+:	Arcade Smash Hits (UE) [!].sms
+:	Ashura (J) [!].sms
+:	Assault City - Light Phaser Version (U) [!].sms
+:	Assault City - Pad Version (E) [!].sms
+:	Asterix (UE) [!].sms
+:	Asterix and the Great Rescue (UE) [!].sms
+:	Asterix and the Secret Mission (UE) [!].sms
+:	Astro Flash (SC-3000) [!].sc
+:	Astro Warrior & Pit Pot (UE) [!].sms
+:	Astro Warrior & Pit Pot (UE) [b1].sms
+:	Astro Warrior & Pit Pot (UE) [o1].sms
+:	Astro Warrior (UE) [!].sms
+:	Astro Warrior (UE) [b1].sms
+:	Astro Warrior (UE) [o1].sms
+:	Aztec Adventure - The Golden Road to Paradise (UE) [!].sms
+:	Aztec Adventure - The Golden Road to Paradise (UE) [o1].sms
+:	Back to the Future 2 (UE) [!].sms
+:	Back to the Future 3 (UE) [!].sms
+:	Baku Baku Animals (UE) [!].sms
+:	Bank Panic (UE) [!].sms
+:	Bank Panic (UE) [a1].sms
+:	Bart vs. the Space Mutants (UE) [!].sms
+:	Bart vs. the World (UE) [!].sms
+:	Basket Ball Nightmare (UE) [!].sms
+:	Basket Ball Nightmare (UE) [b1].sms
+:	Batman Returns (UE).sms
+:	Battle Out Run (UE) [!].sms
+:	Battlemaniacs (Brazil) [!].sms
+:	Black Belt (UE) [!].sms
+:	Black Belt (UE) [o1].sms
+:	Blade Eagle 3D (Brazil).sms
+:	Blade Eagle 3D (UE) [!].sms
+:	Bomb Jack (SG-1000).sg
+:	Bomber Raid (UE) [!].sms
+:	Bomber Raid (UE) [b1].sms
+:	Bonanza Bros (UE) [!].sms
+:	Bonkers Wax Up! (UE) [!].sms
+:	Borderline (SG-1000).sg
+:	Borgman (JUE) [!].sms
+:	Bram Stoker's Dracula (UE) [!].sms
+:	Bubble Bobble (UE) [!].sms
+:	Buggy Run (UE) [!].sms
+:	California Games (Brazil).sms
+:	California Games (UE) [!].sms
+:	California Games 2 (UE) [!].sms
+:	California Games 2 (UE) [b1].sms
+:	Captain Silver (E) [!].sms
+:	Captain Silver (E) [b1].sms
+:	Captain Silver (U) [!].sms
+:	Casino Games (UE) [!].sms
+:	Casino Games (UE) [b1].sms
+:	Casino Games (UE) [b2].sms
+:	Castelo Ra Tin Bum (Brazil) [!].sms
+:	Castelo Ra Tin Bum (Brazil) [b1].sms
+:	Castle, The (SG-1000).sg
+:	Chack'n Pop (SG-1000).sg
+:	Champion Baseball (SG-1000).sg
+:	Champion Billards (SC-3000) [!].sc
+:	Champion Pro Wrestling (SG-1000) [!].sg
+:	Champions of Europe (UE) [!].sms
+:	Championship Golf (SG-1000).sg
+:	Championship Hockey (UE) [!].sms
+:	Chapolim x Dracula - Um Duelo Assustador (Brazil) [!].sms
+:	Chase_HQ_(J)_[!].sms
+:	Chase_HQ_(J)_[a1].sms
+:	Chase_HQ_(J)_[b1].sms
+:	Chase_HQ_(J)_[b2].sms
+:	Cheese Cat-astrophe (UE) [!].sms
+:	Cheese Cat-astrophe (UE) [b1].sms
+:	Chkstate Demo by Dave (PD).sms
+:	Choplifter (SG-1000) [!].sg
+:	Choplifter (UE) [!].sms
+:	Choplifter (UE) [b1].sms
+:	Choplifter (UE) [b2].sms
+:	Choplifter (UE) [o1].sms
+:	Chuck Rock (U) [!].sms
+:	Chuck Rock 2 (UE) [!].sms
+:	Circuit, The (J) - World Grand Prix (UE) [!].sms
+:	Cloud Master (JUE) [b1].sms
+:	Cloud Master (JUE).sms
+:	Columns (UE) [!].sms
+:	Congo Bongo (SC-3000).sc
+:	Cool Spot (UE) [!].sms
+:	Cool Spot (UE) [b1].sms
+:	Cosmic Spacehead (UE) [!].sms
+:	Cyber Shinobi (UE) [!].sms
+:	Cyborg Hunter (Brazil).sms
+:	Cyborg Hunter (UE) [!].sms
+:	Daffy Duck in Hollywood (UE) [!].sms
+:	Danan the Jungle Fighter (UE) [!].sms
+:	Dead Angle (UE) [!].sms
+:	Dead Angle (UE) [h1].sms
+:	Deep Duck Trouble (UE) [!].sms
+:	Desert Speedtrap (UE) [!].sms
+:	Desert Strike (UE) [!].sms
+:	Desert Strike (UE) [b1].sms
+:	Desert Strike (UE) [b2].sms
+:	Dick Tracy (UE) [!].sms
+:	Double Dragon (UE) [!].sms
+:	Double Dragon (UE) [b1].sms
+:	Double Dragon (UE) [h1].sms
+:	Double Hawk (UE) [!].sms
+:	Double Hawk (UE) [b1].sms
+:	Double Target (J) [!].sms
+:	Dr. Robotnik's Mean Bean Machine (UE) [!].sms
+:	Dragon - The Bruce Lee Story (UE) [!].sms
+:	Dragon Crystal (UE) [!].sms
+:	Drol (SG-1000).sg
+:	Dynamite Duke (UE) [!].sms
+:	Dynamite Duke (UE) [b1].sms
+:	Dynamite Dux (UE) [!].sms
+:	E-SWAT - City Under Siege (UE) [!].sms
+:	E-SWAT - City Under Siege (UE) [a1][!].sms
+:	Ecco the Dolphin (UE).sms
+:	Elevator Action (SG-1000) [!].sg
+:	Enduro Racer (Brazil).sms
+:	Enduro Racer (UE) [!].sms
+:	Enduro Racer (UE) [b1].sms
+:	European SMS BIOS (Sonic the Hedgehog) (E) [!].sms
+:	Exerion (SG-1000) [!].sg
+:	F1 Championship (UE) [!].sms
+:	F16 Fighting Falcon (SC-3000) [!].sc
+:	F16 Fighting Falcon (UE) [!].sms
+:	Fantasy Zone (UE) [!].sms
+:	Fantasy Zone (UE) [o1].sms
+:	Fantasy Zone 2 - The Tears of Opa-Opa (J) [!].sms
+:	Fantasy Zone 2 - The Tears of Opa-Opa (UE) [!].sms
+:	Fantasy Zone 3 - The Maze (UE) [!].sms
+:	Fantasy_Zone_3_-_The_Maze_(UE)_[o1].sms
+:	Felipe em Acao (Brazil).sms
+:	Final Bubble Bobble (J) [!].sms
+:	Fire & Forget 2 (UE) [!].sms
+:	Flash, The (UE) [!].sms
+:	Flicky (SG-1000) [b1].sg
+:	Flicky (SG-1000).sg
+:	Flintstones, The (UE) [!].sms
+:	Flipper (SG-1000).sg
+:	Forgotten Worlds (UE) [!].sms
+:	Fudebrowser - BrMSX (SG-1000) (PD).sg
+:	Fudebrowser - BrSMS (SG-1000) (PD).sg
+:	Fudebrowser - Expo SALT Logo (SG-1000) (PD).sg
+:	Fudebrowser - How Do They Do That With HTML (SG-1000) (PD).sg
+:	Fudebrowser - Jiraiya (SG-1000) (PD).sg
+:	Fudebrowser - Never (SG-1000) (PD).sg
+:	Fudebrowser - Newo (SG-1000) (PD).sg
+:	Fudebrowser - Shurato (SG-1000) (PD).sg
+:	Fudebrowser - Skybaby's SMS List (SG-1000) (PD).sg
+:	Fudebrowser - Winnie Cooper (SG-1000) (PD).sg
+:	G-Loc Air Battle (UE) [!].sms
+:	GP Rider (U) [!].sms
+:	GP World (SG-1000) [!].sg
+:	Gain Ground (UE) [!].sms
+:	Galactic Protector (UE) [!].sms
+:	Galaxy Force (UE) [!].sms
+:	Game Box Esportes Radicais (Brazil) [!].sms
+:	Gangster Town (UE) [!].sms
+:	Gauntlet (UE) [!].sms
+:	Gauntlet (UE) [b1].sms
+:	George Foreman's KO Boxing (UE) [!].sms
+:	Ghost House (SC-3000) [!].sc
+:	Ghost House (UE) [!].sms
+:	Ghost House (UE) [T-Port].sms
+:	Ghost House (UE) [b1].sms
+:	Ghost House (UE) [o1].sms
+:	Ghost House (UE) [o2].sms
+:	Ghost House (UE) [o3].sms
+:	Ghostbusters (UE) [!].sms
+:	Ghouls 'n Ghosts (UE) [!].sms
+:	Girl's Garden (SG-1000).sg
+:	Global Defense (UE) [!].sms
+:	Global Defense (UE) [o1].sms
+:	Global Gladiators (UE) [!].sms
+:	Global Gladiators (UE) [t1].sms
+:	Golden Axe (UE) [!].sms
+:	Golden Axe (UE) [b1].sms
+:	Golden Axe Warrior (Brazil).sms
+:	Golden Axe Warrior (UE) [!].sms
+:	Golden Axe Warrior (UE) [T-GermanV0.82_Taurus].sms
+:	Golden Axe Warrior (UE) [T-Port].sms
+:	Golden Axe Warrior (UE) [T-Port][a1].sms
+:	Golf Mania (UE) [!].sms
+:	Golf Mania (UE) [a1][!].sms
+:	Golgo 13 (SG-1000).sg
+:	Golvellius (Brazil).sms
+:	Golvellius - Valley of Doom (J).sms
+:	Golvellius - Valley of Doom (UE) [!].sms
+:	Great Baseball (SC-3000) [!].sc
+:	Great Baseball (UE) [!].sms
+:	Great Basketball (UE) [!].sms
+:	Great Football (UE) [!].sms
+:	Great Football (UE) [o1].sms
+:	Great Golf (J) [!].sms
+:	Great Golf (UE) [!].sms
+:	Great Golf (UE) [o1].sms
+:	Great Golf (UE) [o2].sms
+:	Great Ice Hockey (UE) [!].sms
+:	Great Soccer (J) [!].sms
+:	Great Volleyball (E) [!].sms
+:	Great Volleyball (J) [!].sms
+:	Great Volleyball (U) [!].sms
+:	Guerreiro Lobo (v2.0) (WonderBoy 3 Hack).sms
+:	Gulkave (SG-1000) [!].sg
+:	Guzzler (MV) [!].sms
+:	H.E.R.O. (SG-1000).sg
+:	Haja no Fuuin (J) [!].sms
+:	Hang-On & Safari Hunt (UE) [!].sms
+:	Hang-On (Brazil).sms
+:	Hang-On (J) [!].sms
+:	Hang-On (UE) [!].sms
+:	Hang-On (UE) [T-Port].sms
+:	Hang-On 2 (SG-1000).sg
+:	Happy Looser by Zoop (PD).sms
+:	Heavyweight Champ (UE) [!].sms
+:	Heroes of the Lance (UE) [!].sms
+:	High School Kimengumi (J) [!].sms
+:	Hokutonoken (J) [!].sms
+:	Hokutonoken (J) [a1][!].sms
+:	Home Alone (UE) [!].sms
+:	Hook (Brazil).sms
+:	Hook (UE) [!].sms
+:	Hoshi wo Sagasite (The Story of Mio) (J) [!].sms
+:	Hustle Chummy (SG-1000) [!].sg
+:	Hyper Sports (SG-1000) [!].sg
+:	Impossible Mission (UE) [!].sms
+:	Incredible Crash Dummies, The (UE) [!].sms
+:	Incredible Hulk, The (UE) [!].sms
+:	Indiana Jones and the Last Crusade (UE) [!].sms
+:	James Bond 007 (SG-1000) [!].sg
+:	James Bond 007 - The Duel (UE) [!].sms
+:	James Pond 2 - Codename Robocod (UE) [!].sms
+:	James Pond 2 - Codename Robocod (UE) [b1].sms
+:	Japanese SMS BIOS v2.1 (J) [!].sms
+:	Joe Montana Football (U) [!].sms
+:	Jogos de Verao 2 (Brazil) [!].sms
+:	Jornada do Mymo (Psycho Fox Hack) [a1].sms
+:	Jornada do Mymo (Psycho Fox Hack) [b1].sms
+:	Jornada do Mymo (Psycho Fox Hack).sms
+:	Jornada do Mymo II (Psycho Fox Hack).sms
+:	Jungle Book, The (UE) [!].sms
+:	Jungle Book, The (UE) [b1].sms
+:	Jurassic Park (UE) [!].sms
+:	Kamikaze (SF-7000).sf7
+:	Kenseiden (Brazil).sms
+:	Kenseiden (J) [!].sms
+:	Kenseiden (UE) [!].sms
+:	King's Quest (UE) [!].sms
+:	Klax (UE) [!].sms
+:	Klax (UE) [b1].sms
+:	Klax (UE) [b2].sms
+:	Klax (UE) [b3].sms
+:	Krusty's Fun House (UE) [!].sms
+:	Kujakuou (J) [!].sms
+:	Kung Fu Kid (SC-3000).sc
+:	Kung Fu Kid (UE) [!].sms
+:	Kung Fu Kid (UE) [o1].sms
+:	Laser Ghost (UE) [!].sms
+:	Lemmings (UE) [!].sms
+:	Lemmings (UE) [a1][!].sms
+:	Line of Fire (UE) [!].sms
+:	Lion King, The (UE) [!].sms
+:	Loderunner (SG-1000) [!].sg
+:	Loderunner (SG-1000) [a1].sg
+:	Loletta no Syouzou (J) [!].sms
+:	Lord of the Sword (J) [!].sms
+:	Lord of the Sword (UE) [!].sms
+:	Lucky Dime Caper Starring Donald Duck, The (UE) [!].sms
+:	Lucky Dime Caper Starring Donald Duck, The (UE) [T-Port].sms
+:	Machine Gun Joe (J) [!].sms
+:	Maechiko's Omikuji (SG-1000) (PD).sg
+:	Maechiko's S_Sniper (SG-1000) (PD).sg
+:	Magali no Castelo do Dragao (Monica no Castelo Hack).sms
+:	Magic Drive Plus BIOS [!].sms
+:	Mahjong Sengoku Jidai (J) [!].sms
+:	Mahjong Sengoku Jidai (J) [b1].sms
+:	Mahjong Sengoku Jidai (J) [o1].sms
+:	Makai Retsuden (J) [!].sms
+:	Marble Madness (UE) [!].sms
+:	Marble Madness (UE) [b1].sms
+:	Master Mario Bros (Teddy Boy Hack).sms
+:	Master Mega Man (Brazil) [o1].sms
+:	Master Mega Man (WonderBoy in ML Hack).sms
+:	Master Smash Brothers (v1.0) (Psycho Fox Hack).sms
+:	Master Zelda (Brazil) (Teddy Boy Hack) [a1].sms
+:	Master Zelda (Brazil) (Teddy Boy Hack).sms
+:	Master of Darkness (UE) [!].sms
+:	Master of Darkness (UE) [b1].sms
+:	Masters of Combat (UE) [!].sms
+:	Maze Hunter 3D (U) [!].sms
+:	Maze Walker (J) [!].sms
+:	Megumi Rescue (J) [!].sms
+:	Mercs (UE) [!].sms
+:	Michael Jackson's Moonwalker (UE) [!].sms
+:	Michael Jackson's Moonwalker (UE) [b1].sms
+:	Mick & Mack As The Global Gladiators (UE) [a1].sms
+:	Mick & Mack As The Global Gladiators (UE).sms
+:	Mickey Mouse - Castle of Illusion (UE) [!].sms
+:	Mickey Mouse - Land of Illusion (UE) [!].sms
+:	Mickey Mouse - Legend of Illusion (UE) [!].sms
+:	Mickey_Mouse_-_Castle_of_Illusion_(J)_[a1][!].sms
+:	Mickey_Mouse_-_Castle_of_Illusion_(J)_[h1].sms
+:	Micro Machines (E) [!].sms
+:	Micro Machines (E) [b1].sms
+:	Miracle Warriors - Seal of the Dark Lord (UE) [!].sms
+:	Miracle Warriors - Seal of the Dark Lord (UE) [b1].sms
+:	Missile Defense 3D (UE) [!].sms
+:	Monaco GP (SG-1000).sg
+:	Monica 3 (WonderBoy in MW Hack).sms
+:	Monica no Castelo do Dragao (Brazil) [!].sms
+:	Monopoly (U) [!].sms
+:	Monopoly (U) [a1][!].sms
+:	Montezuma's Revenge (UE) [!].sms
+:	Mortal Kombat (UE) [!].sms
+:	Mortal Kombat 2 (UE) [!].sms
+:	Mortal Kombat 2 (UE) [b1].sms
+:	Mortal Kombat 3 (UE) [!].sms
+:	Ms. Pac-man (UE) [!].sms
+:	Music Station V1.6 (SG-1000) [!].sg
+:	My Hero (UE) [!].sms
+:	My Hero (UE) [o1].sms
+:	My Hero (UE) [o2].sms
+:	My Hero (UE) [o3].sms
+:	N-Sub (SG-1000).sg
+:	Natal do Mymo (Psycho Fox Hack).sms
+:	Nekyuu Kousien (J) [!].sms
+:	New Zealand Story, The (UE) [!].sms
+:	New Zealand Story, The (UE) [o1].sms
+:	Nihonshi Ninpyou (SC-3000) [!].sc
+:	Ninja Gaiden (UE) [!].sms
+:	Ninja Gaiden (UE) [a1][!].sms
+:	Ninja Princess (SG-1000).sg
+:	Ninja, The (UE) [!].sms
+:	Ninja, The (UE) [o1].sms
+:	Ninja, The (UE) [o2].sms
+:	Olympic_Gold_-_Barcelona__92_(UE)_[!].sms
+:	Olympic_Gold_-_Barcelona__92_(UE)_[a1].sms
+:	Only Words by Mike Gordon (PD).sms
+:	Operation Wolf (U) [!].sms
+:	Operation Wolf (U) [T-French].sms
+:	Orguss (SG-1000).sg
+:	Ottifants, The (UE) [!].sms
+:	OutRun (UE) [!].sms
+:	OutRun (UE) [b1].sms
+:	OutRun (UE) [b2].sms
+:	OutRun 3D (U) [!].sms
+:	OutRun_Europa_(UE).sms
+:	PFR Detect V1.00 by Eric R. Quinn (PD).sms
+:	PFR Detect V2.00 by Eric R. Quinn (PD).sms
+:	PGA Tour Golf (UE) [!].sms
+:	Pac Mania (UE) [!].sms
+:	Pac Mania (UE) [b1].sms
+:	Pac Mania (UE) [o1].sms
+:	Pacar (SG-1000).sg
+:	Pachinko 2 (SG-1000) [!].sg
+:	Paperboy (UE) [!].sms
+:	Paperboy (UE) [a1][!].sms
+:	Paperboy (UE) [a1][t1].sms
+:	Paperboy (UE) [t1].sms
+:	Parlour Games (UE) [!].sms
+:	Party Games (AKA Family Games) (JUE) [!].sms
+:	Penguin Land (J) [!].sms
+:	Penguin Land (SC-3000).sc
+:	Penguin Land (SG-1000) [b1].sg
+:	Penguin Land (UE) [!].sms
+:	Phantasy Star (Brazil) [!].sms
+:	Phantasy Star (J) [!].sms
+:	Phantasy Star (Korean) [!].sms
+:	Phantasy Star (UE) (Lutz Hack).sms
+:	Phantasy Star (UE) [!].sms
+:	Phantasy Star (UE) [b1].sms
+:	Phantasy Star (from Saturn collection CD) (J) [!].sms
+:	Pit Fighter (UE) [!].sms
+:	Pit Pot - The Magical Castle (J) [!].sms
+:	Pitfall II (SG-1000) [!].sg
+:	Pitfall II (SG-1000) [a1][!].sg
+:	Pokemon Master (v2.0) (Psycho Fox Hack).sms
+:	Pokemon Versao Amarela (Teddy Boy Hack).sms
+:	Pokemon Versao Azul (Teddy Boy Hack).sms
+:	Pokemon Versao Secreta (Teddy Boy Hack).sms
+:	Pokemon Versao Vermelha (Teddy Boy Hack).sms
+:	Pop Flamer (SG-1000) [!].sg
+:	Populous (UE) [!].sms
+:	Poseidon Wars - Space Panic - Rambo (SF-7000).sf7
+:	Poseidon Wars 3D (UE) [!].sms
+:	Power Strike (UE) [!].sms
+:	Power Strike (UE) [o1].sms
+:	Power Strike 2 (UE) [!].sms
+:	Power Strike 2 (UE) [b1].sms
+:	Predator 2 (UE) [!].sms
+:	Prince of Persia (UE) [b1].sms
+:	Prince_of_Persia_(UE)_[!].sms
+:	Prince_of_Persia_(UE)_[a1][!].sms
+:	Pro Wrestling (UE) [!].sms
+:	Pro Wrestling (UE) [b1].sms
+:	Pro Wrestling (UE) [o1].sms
+:	Psychic World (UE) [!].sms
+:	Psycho Fox (UE) [!].sms
+:	Putt & Putter (UE) [!].sms
+:	Putt & Putter (UE) [a1][!].sms
+:	Q-bert (MV) [!].sms
+:	Quartet (UE) [!].sms
+:	Quartet (UE) [o1].sms
+:	Quartet_(UE)_[o1].sms
+:	R-Type (UE) [!].sms
+:	R-Type (UE) [T-Port].sms
+:	R.C. Grand Prix (UE) [!].sms
+:	R.H.W. 2000 (Psycho Fox Hack).sms
+:	Rainbow Islands (UE) [!].sms
+:	Rambo - First Blood Part 2 (UE) [!].sms
+:	Rambo 3 (UE) [!].sms
+:	Rampage (UE) [!].sms
+:	Rampart (UE) [!].sms
+:	Rastan (UE) [!].sms
+:	Rastan (UE) [b1].sms
+:	Reggie Jackson Baseball (U) [!].sms
+:	Ren & Stimpy - Quest for the Shaven Yak, The (UE) [!].sms
+:	Renegade (UE) [!].sms
+:	Renegade (UE) [T-Port].sms
+:	Rescue Mission (UE) [!].sms
+:	Road Rash (UE) [!].sms
+:	Road Rash (UE) [h1].sms
+:	Robocop 3 (UE) [!].sms
+:	Robocop vs. Terminator (UE) [!].sms
+:	Rock N' Bolt (SG-1000) [!].sg
+:	Rocky (UE) [!].sms
+:	Rocky (UE) [b1].sms
+:	Rodrigo 2 em Mate o Leonardo (Teddy Boy Hack).sms
+:	Rodrigo 2 em Mate o Papai Noel-Versao de Natal (T.Boy Hack).sms
+:	Rodrigo o Resgate (WB Hack) [a1].sms
+:	Rodrigo o Resgate (WB Hack) [b1].sms
+:	Rodrigo o Resgate (WB Hack).sms
+:	Running Battle (UE) [!].sms
+:	Rygar (J) [!].sms
+:	Rygar (J) [a1][!].sms
+:	SDI (JUE) [!].sms
+:	SMS Power Demo Build 31 by Zoop (PD).sms
+:	SMS Tetris Release 2 by Heliophobe (PD).sms
+:	SMS Tetris Release 3 by Heliophobe (PD).sms
+:	SMS Tetris Release 4 by Heliophobe (PD).sms
+:	SMSC Basic Demo (PD) [b1].sms
+:	SMSC Text Demo (v1) (PD) [b1].sms
+:	SMSC Text Demo (v2) (PD) [b1].sms
+:	SMSC Text Demo (v2) (PD).sms
+:	Safari Hunt (SG-1000) [!].sg
+:	Safari Race (SG-1000).sg
+:	Sagaia (UE) [!].sms
+:	Sagaia (UE) [b1].sms
+:	Sapo Xule SOS Lagoa Poluida (Brazil) [!].sms
+:	Sapo Xule o Mestre Do Kung Fu (Brazil) [!].sms
+:	Sapo Xule vs. os Invasores do Brejo (Brazil).sms
+:	Satellite 7 (SC-3000) [!].sc
+:	Scramble Spirits (UE) [!].sms
+:	Scroll Test Program by Charles MacDonald (PD).sms
+:	Secret Commando (UE) [!].sms
+:	Secret Commando (UE) [o1].sms
+:	Sega BASIC Level 2 (SC-3000).sc
+:	Sega BASIC Level 3 V1 (SC-3000) [b1].sc
+:	Sega BASIC Level 3 V1 (SC-3000).sc
+:	Sega Chess (UE) [!].sms
+:	Sega Chess (UE) [T-Spanish].sms
+:	Sega Disk Basic v1.0p (SF-7000).sf7
+:	Sega Disk Basic v1.0p with Yeno Demo (SF-7000).sf7
+:	Sega Galaga (SG-1000) [!].sg
+:	Sega Music Editor (SC-3000) [!].sc
+:	Sega Music Editor (SC-3000) [a1].sc
+:	Sega Music Editor (SC-3000) [b1].sc
+:	Sega World Tournament Golf (U) [!].sms
+:	Seishyun Scandal (J) [!].sms
+:	Sensible Soccer (UE) [!].sms
+:	Shadow Dancer (UE) [!].sms
+:	Shadow of the Beast (UE) [!].sms
+:	Shanghai (UE) [!].sms
+:	Shanghai (UE) [o1].sms
+:	Shinobi (UE) [!].sms
+:	Shinobi (UE) [b1].sms
+:	Shinobi_(UE)_[b1].sms
+:	Shooting Gallery (UE) [!].sms
+:	Sinbad Mystery (SG-1000).sg
+:	Sitio do Picapau Amarelo (Brazil) [!].sms
+:	Slap Shot (UE) [!].sms
+:	Slap Shot (UE) [b1].sms
+:	Smash TV (UE) [!].sms
+:	Smurfs 2, The (Smurfs Travel the World) (E) [!].sms
+:	Smurfs, The (UE) [!].sms
+:	Snail Music Demo (PD).sms
+:	Solomon no Kagi (J) [!].sms
+:	Sonic Blast (UE) [!].sms
+:	Sonic Boy 4 - Monster World (UE) (WonderBoy in MW Hack).sms
+:	Sonic Chaos (UE) [!].sms
+:	Sonic Chaos (UE) [b1].sms
+:	Sonic Spinball (UE) [!].sms
+:	Sonic the Hedgehog (UE) [!].sms
+:	Sonic the Hedgehog 2 (UE) [!].sms
+:	Sonic vs. os Mauniks (Psycho Fox Hack).sms
+:	Sonic-Boy 2 - Eggman's Trap (WonderBoy 3 Hack).sms
+:	Sonic-Boy 3 - Eggman's Room (Teddy Boy Hack).sms
+:	Sonic-Boy in Monster Land (WonderBoy in ML Hack).sms
+:	Soukoban (SG-1000) [!].sg
+:	Space Harrier (J) [!].sms
+:	Space Harrier (UE) [!].sms
+:	Space Harrier (UE) [b1].sms
+:	Space Harrier 3D (UE) [!].sms
+:	Space Invaders (SG-1000).sg
+:	Spacegun (UE) [!].sms
+:	Special Criminal Investigation (UE) [!].sms
+:	Speedball (Mirrorsoft) (UE) [!].sms
+:	Speedball (Virgin) (UE) [!].sms
+:	Speedball 2 (UE) [!].sms
+:	Spellcaster (UE) [!].sms
+:	Spellcaster (UE) [h1].sms
+:	Spider-man - Return of the Sinister Six (UE) [!].sms
+:	Spider-man vs. the Kingpin (UE) [!].sms
+:	Sports Pad Soccer (J) [!].sms
+:	Spy vs. Spy (SC-3000) [!].sc
+:	Spy vs. Spy (UE) [!].sms
+:	Star Force (SG-1000) [!].sg
+:	Star Jacker (SG-1000) [!].sg
+:	Star Jacker (SG-1000) [a1][!].sg
+:	Star Wars (UE) [!].sms
+:	Street Fighter 2 (Brazil).sms
+:	Street Fighter 2 (UE) [!].sms
+:	Street Fighter 2 (UE) [b1].sms
+:	Streets of Rage 1 (UE) [!].sms
+:	Streets of Rage 1 (UE) [T-French].sms
+:	Streets of Rage 2 (UE) [!].sms
+:	Strider (Brazil).sms
+:	Strider (UE) [!].sms
+:	Strider (UE) [T-Port].sms
+:	Strider (UE) [b1].sms
+:	Strider (UE) [b2].sms
+:	Strider 2 (UE) [!].sms
+:	Submarine Attack (UE) [!].sms
+:	Sukeban Deka 2 (J) [!].sms
+:	Summer Games (UE) [!].sms
+:	Super Futebol (UE) [b1].sms
+:	Super Kick Off (UE) [!].sms
+:	Super Magic Drive BIOS V3 [!].sms
+:	Super Monaco GP (UE) [!].sms
+:	Super Monaco GP 2 (UE) [!].sms
+:	Super Off-Road (UE) [!].sms
+:	Super Racing (UE) [!].sms
+:	Super Space Invaders (UE) [!].sms
+:	Super Tank (SG-1000) [!].sg
+:	Super Tennis (UE) [!].sms
+:	Super Tetris (UE) [!].sms
+:	Super Tetris (UE) [o1].sms
+:	Super Wonderboy - Monster World (J) [!].sms
+:	Superman (UE) [!].sms
+:	Tanoshii Sansuu (SC-3000) [!].sc
+:	Taz-Mania (UE) [!].sms
+:	Taz-Mania (UE) [a1][!].sms
+:	Teddy Boy (SC-3000) [!].sc
+:	Teddy Boy (UE) [!].sms
+:	Teddy Boy e Geraldinho (Brazil) (partial translation).sms
+:	Teddy Boy e Geraldinho (Brazil).sms
+:	Tennis Ace (UE) [!].sms
+:	Tensai Bakabon (J) [!].sms
+:	Terebi Oekaki (SG-1000) [!].sg
+:	Terminator 2 - Judgment Day (UE) [!].sms
+:	Terminator 2 - The Arcade Game (UE) [!].sms
+:	Terminator, The (UE) [!].sms
+:	Thunder Blade (J) [!].sms
+:	Thunder Blade (UE) [!].sms
+:	Thunder_Blade_(UE)_[!].sms
+:	Time Soldiers (Brazil).sms
+:	Time Soldiers (UE) [!].sms
+:	Time Soldiers (UE) [T-Port].sms
+:	Tom and Jerry (UE) [!].sms
+:	Tom and Jerry - The Movie (UE) [b1].sms
+:	Tom and Jerry - The Movie (UE) [b2].sms
+:	Tom and Jerry - The Movie (UE).sms
+:	Trans-Bot (UE) [o1].sms
+:	Trans-Bot (UE) [o2].sms
+:	Trans-Bot (UE) [o3].sms
+:	Trans-Bot (UE).sms
+:	Trap Shooting - Marksman Shooting - Safari Hunt (UE) [!].sms
+:	Treinamento Do Guerreiro Lobo (WonderBoy in MW Hack) [a1].sms
+:	Treinamento Do Guerreiro Lobo (WonderBoy in MW Hack).sms
+:	Treinamento Do Mymo (Brazil).sms
+:	Trivial Pursuit (UE) [!].sms
+:	Turma da Monica em O Resgate (Brazil) [!].sms
+:	US-European SMS BIOS V1.3 (UE) [f1].sms
+:	US-European SMS BIOS V1.3 (UE) [h1].sms
+:	Ultima 4 - Quest of the Avatar (UE) [!].sms
+:	Ultima 4 - Quest of the Avatar (UE) [T-German].sms
+:	Ultima 4 - Quest of the Avatar (UE) [a1][!].sms
+:	Ultimate Soccer (UE) [!].sms
+:	Ultimate Soccer (UE) [b1].sms
+:	V Counter Test by Charles MacDonald (PD).sms
+:	Vampire (UE) [!].sms
+:	Vampire (UE) [b1].sms
+:	Vigilante (UE) [!].sms
+:	Virtua Fighter Animation (J) [!].sms
+:	WWF_Steel_Cage_Challenge_(JUE)_[!].sms
+:	Wanted (UE) [!].sms
+:	Where in the World is Carmen Sandiego (U) [!].sms
+:	Wimbledon (UE) [!].sms
+:	Wimbledon 2 (UE) [!].sms
+:	Winnie Cooper (SG-1000) (PD).sg
+:	Winter Olympics '94 (UE) [!].sms
+:	Wolf Child (UE) [!].sms
+:	Wonder Boy (SG-1000) [!].sg
+:	Wonder Boy (UE) [!].sms
+:	Wonder Boy (UE) [o1].sms
+:	Wonder Boy 2 - Wonderboy in Monsterland (UE) [!].sms
+:	Wonder Boy 3 - The Dragon's Trap (UE) [!].sms
+:	Wonder Boy 3 D.C. (Hack).sms
+:	Wonder Boy 5 - Wonder Boy in Monster World (UE) (beta) [!].sms
+:	Wonder Boy 5 - Wonder Boy in Monster World (UE) (beta) [b1].sms
+:	Wonder Boy 5 - Wonder Boy in Monster World (UE) [!].sms
+:	Woody Pop (J) [!].sms
+:	World Class Leaderboard (UE) [!].sms
+:	World Cup '92 by Tecmo (UE) [!].sms
+:	World Cup '93 by Tecmo (JUE) [!].sms
+:	World Cup '94 (UE) [!].sms
+:	World Cup Italia '90 (UE) [!].sms
+:	World Games (UE) [!].sms
+:	World Grand Prix (UE) [!].sms
+:	World Grand Prix (UE) [o1].sms
+:	World Soccer (UE) [!].sms
+:	World Soccer (UE) [o1].sms
+:	X-Men - Mojo World (UE) [!].sms
+:	Xenon 2 (Image Works) (UE) [!].sms
+:	Xenon 2 (Virgin) (UE) [!].sms
+:	Y's - The Vanished Omens (UE) [!].sms
+:	Yamato (SG-1000) [!].sg
+:	Zaxxon (SG-1000).sg
+:	Zaxxon 3D (UE) [!].sms
+:	Zillion (UE) [!].sms
+:	Zillion (UE) [T-Port].sms
+:	Zillion (UE) [T-Port][o1].sms
+:	Zillion (UE) [h1].sms
+:	Zillion (UE) [o1].sms
+:	Zillion II - The Tri Formation (UE) [!].sms
+:	Zillion II - The Tri Formation (UE) [b1].sms
+:	Zillion II - Tri Formation (UE) [o1].sms
+:	Zippy Race (SG-1000) [!].sg
+:	Zool (UE) [!].sms
+:	Zoop's Birthday Demo (PD).sms
+:	fantasy zone 3 - the maze (ue) [o1].sms

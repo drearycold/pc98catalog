@@ -1,0 +1,19 @@
+A { text-decoration:none; }
+	A:link { color:#FFFFFF; }
+	A:visited { color:#FFFFFF; }
+	A:active { color:#FFFFFF; }
+	A:hover { color:#666666; }
+BODY { background-color:#000000; color:#FFFFFF;  }
+DIV { position:relative; left:1%; white-space:nowrap;}
+DIV.vertical { position:relative; left:15%; white-space:nowrap;}
+DIV.bg1 { background-color:#222222; white-space:nowrap;}
+SPAN.En { font-style:italic; }
+SPAN.Jp { font-weight:bold; }
+HR { border-bottom-width:thin; border-bottom-style:solid; }
+UL LI { list-style-type:square; }
+TD { white-space:nowrap; }
+TD.Review { white-space:normal; }
+TD.Note_Title { background-color:#333333; }
+TD.Note_Title2 { background-color:#222222; }
+TD.Note_link { background-color:#222222; border: 2px #555555 solid; }
+TD.Note_red { background-color:#550000; border: 2px #555555 solid; }

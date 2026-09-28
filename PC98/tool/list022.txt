@@ -1,0 +1,713 @@
+:	007 - dangereusement votre (f) (19xx).orc
+:	3d fongus (f) (1985) (disk version).orc
+:	3d fongus (f) (1985) [b1].orc
+:	3d fongus (f) (1985).orc
+:	3d luffar-schack (uk) (1983).orc
+:	3d maze (uk) (1983).orc
+:	3d munch (f) (1985).orc
+:	3d noughts and crosses (uk) (1984).orc
+:	3d polygon demo (f) (1998) (pd).orc
+:	3d tunnel, the (f) (1998) (pd).orc
+:	48k oric golf (uk) (1983).orc
+:	7eme dan, le (f) (19xx) (file 1 of 4).orc
+:	7eme dan, le (f) (19xx) (file 2 of 4).orc
+:	7eme dan, le (f) (19xx) (file 3 of 4).orc
+:	7eme dan, le (f) (19xx) (file 4 of 4).orc
+:	adventure quest (uk) (19xx) [b1].orc
+:	affaire en or, une (f) (19xx).orc
+:	agent 0013 (f) (1983) [a1].orc
+:	agent 0013 (f) (1983).orc
+:	aigle d'or, le (f) (1984).orc
+:	airfox (uk) (19xx) (file 1 of 3).orc
+:	airfox (uk) (19xx) (file 3 of 3).orc
+:	airline (for oric-1) (uk) (1983).orc
+:	alphabet (loader) (f) (19xx).orc
+:	alphabet (loader) (g) (19xx).orc
+:	am-1 a amnukor travail (f) (19xx).orc
+:	ammnukor utilitaires - side a (f) (19xx).orc
+:	ammnukor utilitaires - side b (f) (19xx).orc
+:	amnukor master prg princip (f) (19xx).orc
+:	amnukor master utilitaires (f) (19xx).orc
+:	amor's pilar (sw) (1983).orc
+:	animations, the (for telestrat) (f) (1996) (pd).orc
+:	antre de la peur, le (f) (1984).orc
+:	archeron's rage (uk) (1983).orc
+:	arena (f) (1984).orc
+:	arena 3000 (uk) (19xx) [b1].orc
+:	assemblermonitor wap v2.3 for lab 6502 assembler (uk) (1983).orc
+:	astro lander by a.p. gardner (uk) (1984) (pd).orc
+:	atlantid (f) (19xx) (file 1 of 3).orc
+:	atlantid (f) (19xx) (file 2 of 3).orc
+:	atlantid (f) (19xx) (file 3 of 3).orc
+:	atlantis (f) (1985) [a1].orc
+:	atlantis (f) (1985).orc
+:	atm - air terre mer (f) (1985).orc
+:	atmos 48k backgammon (uk) (1984).orc
+:	attack of the cybermen (uk) (1984).orc
+:	attack on kixi (f) (1984) (file 1 of 3).orc
+:	attack on kixi (f) (1984) (file 2 of 3).orc
+:	attack on kixi (f) (1984) (file 3 of 3).orc
+:	author (uk) (1983).orc
+:	aventures de lilla et jacky, les (f) (19xx).orc
+:	awari (uk) (1983).orc
+:	basic francais v1.0 (f) (1984).orc
+:	bataille des couleurs (f) (1983).orc
+:	battle flight 4 (uk) (1984).orc
+:	blitz (f) (19xx).orc
+:	blockbuster by a.p. gardner (uk) (1983) (pd).orc
+:	bombyx (f) (19xx).orc
+:	boss, the (uk) (19xx).orc
+:	bounce sound demo (f) (19xx).orc
+:	bozy boa (f) (19xx) (file 1 of 3).orc
+:	bozy boa (f) (19xx) (file 2 of 3).orc
+:	bozy boa (f) (19xx) (file 3 of 3).orc
+:	break out (uk) (19xx).orc
+:	break-out machine (f) (19xx).orc
+:	bricky (uk) (1983).orc
+:	bucanneer (uk) (1986) (file 1 of 2).orc
+:	bucanneer (uk) (1986) (file 2 of 2).orc
+:	bunker (f) (19xx).orc
+:	business, the (converted from bbc) (uk) (19xx).orc
+:	byrakrater (f) (19xx) [b1].orc
+:	bytes voir theoric no 13,14,15 (f) (19xx).orc
+:	bytes voir theoric no 15 (f) (19xx).orc
+:	calcul mental (f) (19xx).orc
+:	candyfloss (uk) (1983).orc
+:	cannonade - tir au cannon (f) (19xx).orc
+:	car maniac (uk) (19xx) (file 1 of 4).orc
+:	car maniac (uk) (19xx) (file 2 of 4).orc
+:	car maniac (uk) (19xx) (file 3 of 4).orc
+:	car maniac (uk) (19xx) (file 4 of 4).orc
+:	cargen - fonctions principales (f) (19xx).orc
+:	caspak (f) (19xx) (file 1 of 3).orc
+:	caspak (f) (19xx) (file 2 of 3).orc
+:	caspak (f) (19xx) (file 3 of 3).orc
+:	casse briques (f) (19xx) [a1].orc
+:	casse briques (f) (19xx).orc
+:	cassette mathematique (f) (19xx).orc
+:	categ-oric (f) (1983).orc
+:	catroons (f) (1983) (pd).orc
+:	cavalier (oriclisp demo) (f) (1986-95).orc
+:	centipede (uk) (1983) [a1].orc
+:	centipede (uk) (1983).orc
+:	ceo clip art 1 (f) (19xx).orc
+:	ceo clip art 2 (f) (19xx).orc
+:	ceo clip art 3 (f) (19xx).orc
+:	ceo clip art 4 (f) (19xx).orc
+:	ceo clip art 5 (f) (19xx).orc
+:	ceo clip art 6 (f) (19xx).orc
+:	challenge voile (f) (1984).orc
+:	cheese-snake (uk) (19xx).orc
+:	cheops (f) (1984).orc
+:	chess 3.48 (uk) (1984) [a1].orc
+:	chess 3.48 (uk) (1984).orc
+:	chess ii (uk) (1984).orc
+:	chopper (uk) (19xx) (disk version).orc
+:	chopper (uk) (19xx).orc
+:	chuckford (f) (19xx) (file 1 of 2).orc
+:	chuckford (f) (19xx) (file 2 of 2).orc
+:	circuit oric (f) (1983).orc
+:	ciro ou les envahisseurs fous (f) (19xx).orc
+:	citadelle (f) (1984) (file 1 of 2).orc
+:	citadelle (f) (1984) (file 2 of 2).orc
+:	citee interdite, la (f) (19xx).orc
+:	citee maudite, la (f) (19xx).orc
+:	classic racing (uk) (1984) (file 1 of 3).orc
+:	classic racing (uk) (1984) (file 2 of 3).orc
+:	classic racing (uk) (1984) (file 3 of 3).orc
+:	cobra invader (f) (1985).orc
+:	cobra pinball 2 (f) (1984).orc
+:	cock' in (f) (1984).orc
+:	cock' in (uk) (1984).orc
+:	cocktail recipes (uk) (19xx).orc
+:	colossal (uk) (19xx) [b1].orc
+:	colour match game (uk) (19xx).orc
+:	compilateur lm plus (f) (1984).orc
+:	contract bridge (uk) (1983).orc
+:	contract bridge docs (uk) (1983).orc
+:	conveyor belt by a.p. gardner (uk) (1983) (pd).orc
+:	corsaires (f) (19xx).orc
+:	cosmic chaos by a.p. gardner (uk) (1984) (pd).orc
+:	crabes (f) (19xx).orc
+:	crib master (uk) (19xx).orc
+:	cursor (f) (1984) (pd).orc
+:	dallas (uk) (1983).orc
+:	damsel in distress (uk) (1985).orc
+:	death driver (uk) (19xx).orc
+:	deblock 1.1 (uk) (19xx).orc
+:	dedal (f) (19xx) (file 1 of 4).orc
+:	dedal (f) (19xx) (file 2 of 4).orc
+:	dedal (f) (19xx) (file 3 of 4).orc
+:	dedal (f) (19xx) (file 4 of 4).orc
+:	dedal (f) (19xx) (multifile).orc
+:	defender force (f) (19xx).orc
+:	defense force (uk) (19xx).orc
+:	delta force 4 - space invaders (uk) (1983).orc
+:	demo mag (uk) (19xx) (pd) (disk version) [a1].orc
+:	demo mag (uk) (19xx) (pd) (disk version).orc
+:	demo mag (uk) (19xx) (pd).orc
+:	dexterite (f) (19xx).orc
+:	diamant de kheops, le (f) (19xx).orc
+:	diamant de l' ile maudite demo, le (f) (1984).orc
+:	diamant de l' ile maudite part 1, le (f) (1984).orc
+:	diamant de l' ile maudite part 2, le (f) (1984).orc
+:	diamant de l' ile maudite part 3, le (f) (1984).orc
+:	dico chimie (f) (19xx).orc
+:	digger (uk) (19xx) (file 1 of 3).orc
+:	digger (uk) (19xx) (file 2 of 3).orc
+:	digger (uk) (19xx) (file 3 of 3).orc
+:	dinky kong (uk) (19xx) (file 1 of 8).orc
+:	dinky kong (uk) (19xx) (file 2 of 8).orc
+:	dinky kong (uk) (19xx) (file 3 of 8).orc
+:	dinky kong (uk) (19xx) (file 4 of 8).orc
+:	dinky kong (uk) (19xx) (file 5 of 8).orc
+:	dinky kong (uk) (19xx) (file 6 of 8).orc
+:	dinky kong (uk) (19xx) (file 7 of 8).orc
+:	dinky kong (uk) (19xx) (file 8 of 8).orc
+:	doggy (f) (1984).orc
+:	domino (f) (19xx).orc
+:	don juan (f) (1984) [a1].orc
+:	don juan (f) (1984) [a2].orc
+:	don juan (f) (1984).orc
+:	don juan (uk) (1984).orc
+:	don't panic (uk) (1992) (pd).orc
+:	don't press q (uk) (19xx).orc
+:	dracula's revenge (uk) (1983) [a1].orc
+:	dracula's revenge (uk) (1983).orc
+:	driver (f) (19xx).orc
+:	dungeon adventure (uk) (19xx) [b1].orc
+:	dungeon master preview (f) (1996) (pd).orc
+:	electric eel (uk) (19xx).orc
+:	elektro storm (uk) (19xx).orc
+:	encounter (uk) (19xx).orc
+:	enter (music demo) (uk) (19xx).orc
+:	esquive (f) (19xx).orc
+:	fantasy quest (f) (1983).orc
+:	fantasy quest (uk) (1983).orc
+:	feux croises (f) (1985).orc
+:	fire flash (f) (1984) (disk version).orc
+:	fire flash (f) (1984).orc
+:	fire flash (uk) (1984).orc
+:	first oric demo ever, the (uk) (19xx).orc
+:	flight 401 (uk) (1983) [a1].orc
+:	flight 401 (uk) (1983) [b1].orc
+:	flight 401 (uk) (1983).orc
+:	flight simulator (uk) (19xx).orc
+:	fly for your life (uk) (19xx) (file 1 of 4).orc
+:	fly for your life (uk) (19xx) (file 2 of 4).orc
+:	fly for your life (uk) (19xx) (file 3 of 4).orc
+:	fly for your life (uk) (19xx) (file 4 of 4).orc
+:	font editors v2.1 (uk) (1995) (pd).orc
+:	football manager (uk) (1984) [a1].orc
+:	football manager (uk) (1984).orc
+:	forth 83 compiler v2.0 (f) (1983).orc
+:	forth 83 compiler v2.4 (f) (1983).orc
+:	forth 83 compiler v3.1 (f) (1983).orc
+:	forth 83 compiler v3.1 (g) (1983).orc
+:	fragancia (s) (19xx).orc
+:	frelon (f) (1984) (file 1 of 2).orc
+:	frelon (f) (1984) (file 2 of 2).orc
+:	frelon (f) (1984) [a1].orc
+:	frigate commander (uk) (19xx).orc
+:	frog-hop (uk) (1983-84).orc
+:	ft-dos (f) (1984).orc
+:	function (f) (19xx).orc
+:	fylle (sw) (19xx).orc
+:	galactosmash (uk) (1989) (pd).orc
+:	galaxians (uk,f) (19xx).orc
+:	galaxion (f) (19xx).orc
+:	gastronon (f) (19xx).orc
+:	geffers croll demo (uk) (1998) (pd).orc
+:	gestion de (f) (19xx).orc
+:	ghost gobbler (uk) (19xx).orc
+:	ghostman (f) (1984).orc
+:	ghostman (uk) (1984).orc
+:	ghousts and ghouls (uk) (19xx) (pd).orc
+:	godilloric (uk) (19xx).orc
+:	gravitor (uk) (19xx).orc
+:	great american presidents (uk) (19xx) (disk version).orc
+:	great american presidents (uk) (19xx) [b1].orc
+:	green cross toad (uk) (1984).orc
+:	gremlin (loader) (uk) (19xx).orc
+:	gremlin 1 (uk) (19xx).orc
+:	gremlin 2 (uk) (19xx).orc
+:	gremlin 4 (uk) (19xx).orc
+:	grendel (uk) (1990) (pd).orc
+:	gubbie (uk) (1984) (disk version).orc
+:	gubbie (uk) (1984) (file 1 of 3).orc
+:	gubbie (uk) (1984) (file 2 of 3).orc
+:	gubbie (uk) (1984) (file 3 of 3).orc
+:	hangman (uk) (19xx) [a1].orc
+:	hangman (uk) (19xx).orc
+:	harrier attack (uk) (1983).orc
+:	hell's temple (uk) (1983).orc
+:	hellion (f) (1984) (disk version).orc
+:	hellion (f) (1984).orc
+:	hobbit, the (uk) (19xx).orc
+:	hollywood director (uk) (1987) (disk version).orc
+:	hollywood director (uk) (1987).orc
+:	honey kong (f) (19xx).orc
+:	hopper (uk) (1983).orc
+:	house of death (uk) (1983).orc
+:	hover rescue (uk) (1984).orc
+:	hu-bert (f) (1984) (disk version).orc
+:	hu-bert (f) (1984).orc
+:	hunchback (uk) (19xx) [a1].orc
+:	hunchback (uk) (19xx).orc
+:	hyper olympics (f) (1984).orc
+:	hypercat disk cataloger (f) (19xx).orc
+:	hypercat disk cataloger (uk) (19xx).orc
+:	ice giant (uk) (1983).orc
+:	imonde dr. kokus, l' (f) (1986).orc
+:	incrust (f) (19xx).orc
+:	indiana john's (f) (19xx).orc
+:	infocom 04 - moonmist (uk) (1986).orc
+:	infocom 06 - sorcerer (uk) (1984).orc
+:	infocom 08 - suspended (uk) (1983) [b1].orc
+:	infocom 08 - suspended (uk) (1983).orc
+:	infocom 10 - zork iii - the dungeon master (uk) (1982).orc
+:	infocom 107 - stationfall (uk) (1987).orc
+:	infocom 14 - suspect (uk) (1984).orc
+:	infocom 15 - starcross (uk) (1982).orc
+:	infocom 15a - zork ii - the wizard of frobozz (uk) (1981).orc
+:	infocom 16 - enchanter (uk) (1983).orc
+:	infocom 16 - seastalker (uk) (19xx).orc
+:	infocom 20 - planetfall (uk) (1983).orc
+:	infocom 203 - the lurking horror (uk) (1983) [b1].orc
+:	infocom 203 - the lurking horror (uk) (1983).orc
+:	infocom 22 - infidel (uk) (1983).orc
+:	infocom 22 - the witness (uk) (1983).orc
+:	infocom 23 - cutthroats (uk) (1984).orc
+:	infocom 26 - plundered hearts (uk) (1987).orc
+:	infocom 27 - deadline (uk) (1982).orc
+:	infocom 47 - hitchhiker's guide to the galaxy (uk) (1984).orc
+:	infocom 47 - hitchhiker's guide to the galaxy (uk) (1984)[b1].orc
+:	infocom 59 - leather godesses of phobos (uk) (1986).orc
+:	infocom 63 - spellbreaker (uk) (1985).orc
+:	infocom 69 - wishbringer - magick stone of dreams (uk) (1985).orc
+:	infocom 97 - ballyhoo (uk) (1986).orc
+:	insect insanity (uk) (1984) (disk version).orc
+:	insect insanity (uk) (1984).orc
+:	intertron (f) (1983).orc
+:	invaders (uk) (1983) (disk version).orc
+:	invaders (uk) (1983).orc
+:	invasion (f) (19xx).orc
+:	invasion avant l'aube (f) (19xx).orc
+:	island of death, the (loader) (uk) (1983).orc
+:	island of death, the (uk) (1983) [a1].orc
+:	island of death, the (uk) (1983).orc
+:	jet attack (uk) (19xx).orc
+:	jeu du pendu (f) (19xx).orc
+:	jeux olympiques (f) (1992) (file 1 of 5).orc
+:	jeux olympiques (f) (1992) (file 2 of 5).orc
+:	jeux olympiques (f) (1992) (file 3 of 5).orc
+:	jeux olympiques (f) (1992) (file 4 of 5).orc
+:	jeux olympiques (f) (1992) (file 5 of 5).orc
+:	jogger (uk) (1983).orc
+:	johnny (uk) (19xx).orc
+:	jump (f) (19xx).orc
+:	jumpfox (f) (19xx) [b1].orc
+:	karate (f) (19xx).orc
+:	keyboard trainer (uk) (1983).orc
+:	keys of kraal, the (uk) (19xx).orc
+:	kilburn encounter, the (uk) (1983).orc
+:	kp-lotto (g) (19xx) (maybe pd) [b1].orc
+:	krillys (merged) (uk) (1984).orc
+:	kryllys (uk) (1984) (file 1 of 4).orc
+:	kryllys (uk) (1984) (file 2 of 4) [b1].orc
+:	kryllys (uk) (1984) (file 3 of 4) [b1].orc
+:	kryllys (uk) (1984) (file 4 of 4) [b1].orc
+:	krystal worlds ii (uk) (1996) (pd).orc
+:	l contre l (f) (1985).orc
+:	la crypte (f) (1983) (pd).orc
+:	laby 5 by jean-michel terrat (f) (1983) (pd).orc
+:	labyrinthes amnukor + utilitaires de fabrication (f) (1986).orc
+:	lancelot (f) (1984) [a1].orc
+:	lancelot (f) (1984).orc
+:	land of illusion (uk) (1985).orc
+:	las vegas high by j.m. haworth (uk) (1984) (pd).orc
+:	le jeu du gigabonux (f) (1991-95) (pd) (v0.1).orc
+:	le jeu du gigabonux (f) (1991-95) (pd) (v0.2).orc
+:	le jeu du gigabonux (f) (1991-95) (pd) (v0.3).orc
+:	le jeu du gigabonux high scores (f) (1991-95) (pd).orc
+:	leopard kongen (norway) (19xx).orc
+:	les drapeaux aux jeux olympiques (f) (19xx) (pd) [a1].orc
+:	light cycle (uk) (19xx) [a1].orc
+:	light cycle (uk) (19xx).orc
+:	lightbikes (uk) (19xx).orc
+:	lighttrack (f) (1983).orc
+:	locus (f) (1984).orc
+:	loki (uk) (1983).orc
+:	lone raider (uk) (19xx).orc
+:	lords of time (uk) (19xx) [b1].orc
+:	lorigraph (f) (1984).orc
+:	luna landa (uk) (1984).orc
+:	m.a.r.c. (uk) (19xx).orc
+:	madacam bumper (f) (19xx).orc
+:	magnetix by jonathan bristow (uk) (1994) [a1].orc
+:	magnetix by jonathan bristow (uk) (1994).orc
+:	manic miner by matthew smith (f) (19xx) (pd).orc
+:	manoir du dr. genius, le (f) (1983).orc
+:	marvel adventure #1 - the hulk (uk) (19xx) [a1].orc
+:	marvel adventure #1 - the hulk (uk) (19xx).orc
+:	masque d'or du pharaon, le (f) (1985).orc
+:	master mind (uk) (1992) (pd) [b1].orc
+:	master tyrann atmos, le (f) (1987) (side a).orc
+:	master tyrann atmos, le (f) (1987) (side b).orc
+:	maze rally (uk) (19xx) (file 1 of 2).orc
+:	maze rally (uk) (19xx) (file 2 of 2).orc
+:	megabase (uk) (1985) (file 1 of 4).orc
+:	megabase (uk) (1985) (file 2 of 4).orc
+:	megabase (uk) (1985) (file 3 of 4).orc
+:	megabase (uk) (1985) (file 4 of 4).orc
+:	mentor (f) (1984) (pd).orc
+:	merry christmas (uk) (19xx) (pd).orc
+:	meteor run by a.p. gardner (uk) (1983) (pd).orc
+:	millionaire (f) (1984) (file 1 of 3).orc
+:	millionaire (f) (1984) (file 2 of 3).orc
+:	millionaire (f) (1984) (file 3 of 3).orc
+:	mine field by a.p. gardner (uk) (1984) (pd).orc
+:	mine sweeper (uk) (1992) (pd).orc
+:	mined out (uk) (19xx) [h] (fixed).orc
+:	miner (uk) (1983) (disk version).orc
+:	miner (uk) (1983).orc
+:	mines of moria, the (uk) (19xx).orc
+:	mini sedoric menu v2.1 (uk) (19xx).orc
+:	mission delta (f) (1984) [a1].orc
+:	mission delta (f) (1984).orc
+:	mission delta - ecole de pilotage (f) (1984).orc
+:	mission delta test (f) (1984).orc
+:	mission impossible! (f) (1984).orc
+:	mission impossible! demo (f) (1984).orc
+:	modem utility disk (uk) (19xx) (pd).orc
+:	moon buggy (norway) (1989) (pd).orc
+:	morpion (f) (1984).orc
+:	morpion 10x10 (f) (19xx).orc
+:	morts-subites (f) (1983).orc
+:	mr. wimpy (uk) (1984) (disk version).orc
+:	mr. wimpy (uk) (1984).orc
+:	multifiler (uk) (19xx).orc
+:	multigame disk (uk) (19xx) (pd).orc
+:	multigraf programme de d.a.o. (f) (19xx).orc
+:	mushroom mania (uk) (1983).orc
+:	mushroom mania (uk) (1986) (pd) (disk version).orc
+:	mushroom mania (uk) (1986) (pd).orc
+:	mystere de kikekankoi, le (f) (1983).orc
+:	mysterious adventure #9 - perseus and andromeda (uk) (19xx).orc
+:	mysterious adventures - timemachine (uk) (19xx) (file 1 of 2).orc
+:	mysterious adventures - timemachine (uk) (19xx) (file 2 of 2).orc
+:	mystery tower (uk) (19xx) (file 1 of 3).orc
+:	mystery tower (uk) (19xx) (file 2 of 3).orc
+:	mystery tower (uk) (19xx) (file 3 of 3).orc
+:	neptune (f) (19xx) (file 1 of 3).orc
+:	neptune (f) (19xx) (file 2 of 3).orc
+:	neptune (f) (19xx) (file 3 of 3).orc
+:	nibbler (f) (1984).orc
+:	night rider (uk) (19xx).orc
+:	nightfight (f) (19xx).orc
+:	no...not anothere ladder game! (uk) (19xx).orc
+:	nowotnik puzzle, the (uk) (1983).orc
+:	nuclear war (f) (19xx).orc
+:	objective elysee (f) (1984).orc
+:	objets ok ici am-1_2 (f) (1986).orc
+:	oil-leak (f) (19xx).orc
+:	oirc raid (f) (1996) (pd).orc
+:	old-timer (f) (19xx).orc
+:	ordbehandling (no) (19xx) (pd).orc
+:	oric 48k reverse (uk) (1983).orc
+:	oric animations (f) (1996) [a1].orc
+:	oric animations (f) (1996).orc
+:	oric atmos (f) (1984).orc
+:	oric atmos demonstration program (uk) (19xx).orc
+:	oric bandit (uk) (19xx).orc
+:	oric base file managment system (f) (1983).orc
+:	oric basic plus 1 (uk) (1984).orc
+:	oric bingo (uk) (19xx).orc
+:	oric dos v1.13 (f) (19xx).orc
+:	oric flight (uk) (1983).orc
+:	oric invaders (uk) (1983).orc
+:	oric musicien (f) (19xx).orc
+:	oric parchen kirchen (uk) (1984).orc
+:	oric program book, the (uk) (1983).orc
+:	oric squash (uk) (19xx).orc
+:	oric worm (uk) (19xx).orc
+:	oric-calc (uk) (1983).orc
+:	oric-mon (uk) (1983) (file 1 of 2).orc
+:	oric-mon (uk) (1983) (file 2 of 2).orc
+:	oricade (uk) (19xx).orc
+:	oriclisp (f) (1986-95).orc
+:	oriclisp for 24k (f) (1986-95).orc
+:	oricmunch (uk) (1983).orc
+:	oricqs (uk) (19xx) [b1].orc
+:	orion (f) (1983) (disk version).orc
+:	orion (f) (1983) [a1].orc
+:	orion (f) (1983).orc
+:	orion 2 (f) (19xx) [b1].orc
+:	othello (f) (19xx) (pd) (2 players).orc
+:	othello - reversi (uk,f) (1985) [b1].orc
+:	othello by anders bostrom (uk) (1983) (pd).orc
+:	othello by stig ronand (sw) (1983) (pd).orc
+:	pacman (f) (19xx) (disk version).orc
+:	pacman (f) (19xx) (file 1 of 4) [b1].orc
+:	pacman (f) (19xx) (file 2 of 4) [b1].orc
+:	pacman (f) (19xx) (file 3 of 4) [b1].orc
+:	pacman (f) (19xx) (file 4 of 4) [b1].orc
+:	painter (uk) (1983) [a1].orc
+:	painter (uk) (1983).orc
+:	parachute (f) (19xx).orc
+:	paras (f) (1983).orc
+:	paras (uk) (1983).orc
+:	parcours du combattant, le (f) (19xx).orc
+:	pasta blasta (uk) (1983).orc
+:	patience (uk) (19xx).orc
+:	patricia music demo (uk) (19xx) (pd).orc
+:	pengoric (f) (1983).orc
+:	picture book (uk) (1984) (file 1 of 4).orc
+:	picture book (uk) (1984) (file 2 of 4).orc
+:	picture book (uk) (1984) (file 3 of 4).orc
+:	picture book (uk) (1984) (file 4 of 4).orc
+:	pilote (f) (19xx) (pd).orc
+:	pinforic (bootdisk for infocom adventures) (uk).orc
+:	pinforic interactive fiction tutor-sampler 1 (uk) (19xx).orc
+:	pinforic interactive fiction tutor-sampler 2 (uk) (19xx) [a1].orc
+:	pinforic interactive fiction tutor-sampler 2 (uk) (19xx).orc
+:	planeten (sw) (19xx).orc
+:	playground 21 (uk) (19xx).orc
+:	plouf (f) (19xx) (pd).orc
+:	plouf (uk) (19xx) (pd).orc
+:	pontoon by a.p. gardner (uk) (1984) (pd).orc
+:	pontoon card game (uk) (19xx).orc
+:	poopy (f) (1984).orc
+:	poule (f) (19xx) (pd).orc
+:	poursuit (f) (1983) (pd).orc
+:	probe 3 (f) (1985) (disk version).orc
+:	probe 3 (f) (1985).orc
+:	probe 3 (uk) (1985).orc
+:	projectiles (uk) (1983) [b1].orc
+:	protector, le (f) (19xx).orc
+:	protopus boot 1-2 et 3 avec rfm + objets (atmos) (f) (1986).orc
+:	protopus sources (atmos) (f) (1986).orc
+:	psychiatric (f) (1984) [a1].orc
+:	psychiatric (f) (1984) [a2].orc
+:	psychiatric (f) (1984).orc
+:	quak a jack (uk) (19xx).orc
+:	quark data flight simulator (uk) (19xx) (file 1 of 2).orc
+:	quark data flight simulator (uk) (19xx) (file 2 of 2).orc
+:	quest (uk) (1983).orc
+:	quest of the holy grail (uk) (19xx).orc
+:	qvc word processing v4.2 (uk) (1990).orc
+:	qvc word processing v4.3 (uk) (1990).orc
+:	rabbit (f) (19xx).orc
+:	rally-xs music demo (uk) (19xx).orc
+:	ramassem (f) (19xx).orc
+:	randos v1.0 (f) (1983).orc
+:	randos v1.0 w-utilities (f) (1983).orc
+:	rat splat (uk) (1983) (disk version).orc
+:	rat splat 2c (uk) (1983).orc
+:	rendevouz de la terreur (f) (1983) (demo).orc
+:	rendevouz de la terreur (f) (1983).orc
+:	retour du dr genius, le (f) (1984).orc
+:	reverse (uk) (1983).orc
+:	reversi (f) (19xx).orc
+:	reversi champion (f) (1984) (file 1 of 2).orc
+:	reversi champion (f) (1984) (file 2 of 2).orc
+:	reversi champion (f) (1984).orc
+:	reversi champion (uk) (1983).orc
+:	ring of darkness (uk) (1983) (file 1 of 5).orc
+:	ring of darkness (uk) (1983) (file 2 of 5).orc
+:	ring of darkness (uk) (1983) (file 3 of 5).orc
+:	ring of darkness (uk) (1983) (file 4 of 5).orc
+:	ring of darkness (uk) (1983) (file 5 of 5).orc
+:	road frog (uk) (19xx).orc
+:	rock 'n roll (uk) (19xx) [b1].orc
+:	roland garros (f) (1985).orc
+:	rosa pantern (sw) (19xx).orc
+:	rush hour (uk) (19xx) [a1].orc
+:	rush hour (uk) (19xx).orc
+:	saga (f) (1985).orc
+:	sceptre d'anubis, le (f) (19xx) [a1].orc
+:	sceptre d'anubis, le (f) (19xx).orc
+:	schtroumpfs (g) (19xx) (pd).orc
+:	scorbutt (f) (19xx).orc
+:	scribe (f) (19xx) [b1].orc
+:	scuba dive (uk) (1984) (disk version).orc
+:	scuba dive (uk) (1984) [a1].orc
+:	scuba dive (uk) (1984).orc
+:	sedoric v2.1 (80 track patch) (f) (1993).orc
+:	sedoric v3.006 (f) (1996).orc
+:	serpent (f) (19xx).orc
+:	show-jumping (uk) (1984).orc
+:	shuttle simulator (uk) (1983) [a1].orc
+:	shuttle simulator (uk) (1983).orc
+:	simon (uk) (19xx) [b1].orc
+:	sjefen (no) (1989) (pd).orc
+:	skramble (uk) (1983) [a1].orc
+:	skramble (uk) (1983).orc
+:	slalom (f) (19xx).orc
+:	slalom (uk) (19xx) (file 1 of 3) [b1].orc
+:	slalom (uk) (19xx) (file 2 of 3) [b1].orc
+:	slalom (uk) (19xx) (file 3 of 3) [b1].orc
+:	snake venom (uk) (19xx).orc
+:	snowball (uk) (19xx) [b1].orc
+:	sokobac (f) (19xx) (loader).orc
+:	sorvivor (f) (1984).orc
+:	soundtracker (uk) (1998).orc
+:	space crystal (uk) (19xx) [a1].orc
+:	space crystal (uk) (19xx).orc
+:	space quest (uk) (19xx).orc
+:	special operations (f) (1984) (loader).orc
+:	special operations part 1 (f) (1984).orc
+:	special operations part 2 (f) (1984).orc
+:	spies killer (f) (19xx).orc
+:	spooky mansion (uk) (1984).orc
+:	sprity dans la cave (f) (1985).orc
+:	squeek 1 (1991) (pd).orc
+:	squeek 2 (1992) (pd).orc
+:	star (uk) (1985).orc
+:	star probe (uk) (19xx) [b1].orc
+:	star trek (sw) (19xx).orc
+:	star war (uk) (19xx).orc
+:	starcruiser (uk) (1983).orc
+:	starfighter (uk) (1984).orc
+:	starter (f) (19xx).orc
+:	starter (uk) (19xx).orc
+:	stniccc 2000 winner (f) (2000) (pd).orc
+:	stockmarket (uk) (19xx).orc
+:	story book (uk) (1984) (file 1 of 3).orc
+:	story book (uk) (1984) (file 2 of 3).orc
+:	story book (uk) (1984) (file 3 of 3).orc
+:	story book example (proverbs) (uk) (1984).orc
+:	stratsed v2.0 (for telestrat) (f) (1986).orc
+:	stress (f) (19xx).orc
+:	strip 21 (f) (19xx) [b1].orc
+:	styx (f) (1984) (disk version).orc
+:	styx (f) (1984).orc
+:	suite et fin de sip et sip (f) (19xx).orc
+:	super advanced break-out (uk) (1983).orc
+:	super fruit (uk) (1984).orc
+:	super jeep (f) (1984) (disk version).orc
+:	super jeep (f) (1984).orc
+:	super maze (uk) (1983).orc
+:	super meteors (uk) (1983).orc
+:	swerve by a.p. gardner (uk) (1983) (pd).orc
+:	t42 (f) (19xx) [b1].orc
+:	talisman (f) (19xx).orc
+:	tank assult (uk) (19xx).orc
+:	tansoft lang. master class french (uk) (1983) (file 1 of 10).orc
+:	tansoft lang. master class french (uk) (1983) (file 10 of10).orc
+:	tansoft lang. master class french (uk) (1983) (file 2 of 10).orc
+:	tansoft lang. master class french (uk) (1983) (file 3 of 10).orc
+:	tansoft lang. master class french (uk) (1983) (file 4 of 10).orc
+:	tansoft lang. master class french (uk) (1983) (file 5 of 10).orc
+:	tansoft lang. master class french (uk) (1983) (file 6 of 10).orc
+:	tansoft lang. master class french (uk) (1983) (file 7 of 10).orc
+:	tansoft lang. master class french (uk) (1983) (file 8 of 10).orc
+:	tansoft lang. master class french (uk) (1983) (file 9 of 10).orc
+:	tansoft lang. master class german (uk) (1983) (file 1 of 10).orc
+:	tansoft lang. master class german (uk) (1983) (file 10 of10).orc
+:	tansoft lang. master class german (uk) (1983) (file 2 of 10).orc
+:	tansoft lang. master class german (uk) (1983) (file 3 of 10).orc
+:	tansoft lang. master class german (uk) (1983) (file 4 of 10).orc
+:	tansoft lang. master class german (uk) (1983) (file 5 of 10).orc
+:	tansoft lang. master class german (uk) (1983) (file 6 of 10).orc
+:	tansoft lang. master class german (uk) (1983) (file 7 of 10).orc
+:	tansoft lang. master class german (uk) (1983) (file 8 of 10).orc
+:	tansoft lang. master class german (uk) (1983) (file 9 of 10).orc
+:	tarak (f) (19xx).orc
+:	tarot (uk) (1988) (pd).orc
+:	teknis (f) (19xx).orc
+:	teleforth v1.2 (f) (1989).orc
+:	tendre poulet (f) (1984).orc
+:	tenis (loader) (s) (1983).orc
+:	tenis (s) (1983) (part of tenis).orc
+:	teniscm (s) (1983) (part of tenis).orc
+:	tenisgr (s) (1983) (part of tenis).orc
+:	terminus (f) (1984) (demo).orc
+:	terminus (f) (1984).orc
+:	testeur de tris (uk) (1985) (pd).orc
+:	tetris gb (uk) (1993) (pd).orc
+:	them, a paranoid fantasy (uk) (1983).orc
+:	third world war (f) (1983).orc
+:	tigre (f) (19xx).orc
+:	time switch (uk) (1983).orc
+:	tombeau d'axayacat, le (f) (1985) [a1].orc
+:	tombeau d'axayacat, le (f) (1985).orc
+:	tommy (f) (19xx).orc
+:	touche (f) (19xx) [b1].orc
+:	tour du monde en 80 jours, le (f) (1984) (demo).orc
+:	tour du monde en 80 jours, le (f) (1984).orc
+:	toutou (f) (19xx) (pd).orc
+:	toxic slime - considered harmfull (uk) (1995) (pd) [a1].orc
+:	toxic slime - considered harmfull (uk) (1995) (pd).orc
+:	trace (f) (19xx).orc
+:	transat 1 (uk) (1984) (file 1 of 2).orc
+:	transat 1 (uk) (1984) (file 2 of 2).orc
+:	trek (uk) (1983) [a1].orc
+:	trek (uk) (1983).orc
+:	tri-olymporic (atmos version) (f) (1984).orc
+:	tri-olymporic (f) (1984).orc
+:	triathlon (f) (19xx).orc
+:	trickshot (uk) (1984).orc
+:	trident de neptine, le (f) (1984).orc
+:	trident de neptune, le (f) (1984) (disk version).orc
+:	trouble in store (uk) (1984).orc
+:	turm von babilon (g) (1985) (pd) [b1].orc
+:	turtle graphics tutorial (uk) (1983) (file 2 of 2).orc
+:	tyrann (f) (1984) (disk version).orc
+:	tyrann (f) (1984).orc
+:	tyrann (uk) (1984).orc
+:	ultima zone (uk) (1983).orc
+:	ultra (uk) (19xx) (disk version).orc
+:	ultra (uk) (19xx) [a1].orc
+:	ultra (uk) (19xx).orc
+:	utilitaires pour obtf et listage des objets (f) (1986).orc
+:	valley, the (uk) (1982).orc
+:	velnor's lair (uk) (1984).orc
+:	video flipper (f) (1984).orc
+:	visioric (f) (19xx).orc
+:	war plane by a.p. gardner (uk) (1983) (pd).orc
+:	warlock's mountain, the (uk) (19xx).orc
+:	warlord (uk) (1983) [f1].orc
+:	water panic (f) (1984).orc
+:	way to king kung fu (for oric-1 and atmos) (uk) (1989).orc
+:	waydor (f) (1983).orc
+:	waydor (uk) (1983) (file 1 of 2).orc
+:	waydor (uk) (1983) (file 2 of 2).orc
+:	white barrows, the (uk) (19xx).orc
+:	wimpy (uk) (1984) (loader) [b1].orc
+:	wimpy (uk) (1984).orc
+:	wimpyprg (uk) (19xx) (part of wimpy) [b1].orc
+:	wimpyscr (uk) (19xx) (part of wimpy) [b1].orc
+:	word processor (uk) (19xx) [b1].orc
+:	words (uk) (19xx) (file 1 of 3).orc
+:	words (uk) (19xx) (file 2 of 3).orc
+:	words (uk) (19xx) (file 3 of 3).orc
+:	wordworth (uk) (1986) (file 1 of 2).orc
+:	wordworth (uk) (1986) (file 2 of 2).orc
+:	xenon 1 (uk) (1983) [a1].orc
+:	xenon 1 (uk) (1983) [a2].orc
+:	xenon 1 (uk) (1983).orc
+:	xenon 3 - the genesis probe (uk) (1985).orc
+:	xeragone (f) (19xx) (file 1 of 2).orc
+:	xeragone (f) (19xx) (file 2 of 2).orc
+:	xl-dos v0.6 (f) (1985).orc
+:	yatzy (g) (1985).orc
+:	yatzy (sw) (19xx).orc
+:	zagorsk adventure, the (uk) (19xx).orc
+:	zamcopter (f) (1985) (file 1 of 2).orc
+:	zamcopter (f) (1985) (file 2 of 2).orc
+:	zebbie (uk) (1985) [a1].orc
+:	zebbie (uk) (1985).orc
+:	zebulon (uk) (1992) (pd).orc
+:	zipnzap (f) (1999) (mar 26 1999) (pd) (disk version).orc
+:	zipnzap (uk) (1998) (oct 07 1998) (pd) (disk version).orc
+:	zipnzap (uk) (1998) (pd) (file 1 of 2).orc
+:	zipnzap (uk) (1998) (pd) (file 2 of 2).orc
+:	zipnzap (uk) (1999) (mar 26 1999) (pd) (disk version).orc
+:	zodiac adventure (uk) (1983).orc
+:	zonga (f) (1985).orc
+:	zoolympics (f) (1984).orc
+:	zorgon's revenge (uk) (1983) (disk version).orc
+:	zorgon's revenge (uk) (1983) [a1].orc
+:	zorgon's revenge (uk) (1983).orc
+:	zorgon's revenge (uk) (1984).orc

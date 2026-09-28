@@ -1,0 +1,85 @@
+:	その他
+:	:	MS-DOS3.3D.zip
+:	:	MS-DOS5.0A.zip
+:	:	MS-DOS6.2.zip
+:	:	PC-9801基本BIOS.zip
+:	:	brank_98.zip
+:	:	branksystem_98.zip
+:	:	font.bmp
+:	:	np2_makefont32(98エミュ用).zip
+:	:	vf001020（98エミュ用）.zip
+:	:	vficd88_120（98エミュ用）.zip
+:	わ
+:	:	わくわくすろっと.zip
+:	:	ワーズワース.zip
+:	:	ワーズワースSP.zip
+:	:	ワールドゴルフ３.zip
+:	:	ワイアラエの奇蹟.zip
+:	:	ワンダラーズフロムイース.zip
+:	:	私をゴルフに連れてって.zip
+:	:	笑ゥせぇるすまん２.zip
+:	:	笑ゥせぇるすまん３.zip
+:	:	惑星ΩのQ王子.zip
+:	アルファベット
+:	:	AD&Dヒーローオブランス.zip
+:	:	AD&Dヒルズファー.zip
+:	:	AD&Dｶｰｽｵﾌﾞｱｼﾞｭｱﾎﾞﾝﾄﾞ.zip
+:	:	AD&Dｼｰｸﾚｯﾄｵﾌﾞｼﾙﾊﾞｰﾌﾞﾚｲﾄﾞ.zip
+:	:	AD&Dﾁｬﾝﾋﾟｵﾝｽﾞｵﾌﾞｸﾘﾝ.zip
+:	:	AD&Dﾌﾟｰﾙｵﾌﾞﾀﾞｰｸﾈｽ.zip
+:	:	AD&Dﾌﾟｰﾙｵﾌﾞﾚｲﾃﾞｨｱﾝｽ.zip
+:	:	A列車で行こう98.zip
+:	:	A列車で行こう２ ５周年.zip
+:	:	A列車で行こう２.zip
+:	:	A列車で行こう３.zip
+:	:	A列車で行こう３HD.zip
+:	:	A列車で行こう３MV.zip
+:	:	A列車で行こう４.zip
+:	:	A列車で行こう４MAP.zip
+:	:	CAL.zip
+:	:	CAL２.zip
+:	:	CAL３.zip
+:	:	CAL外伝 タイニィステップ.zip
+:	:	CGツクール3D.zip
+:	:	D 欧州蜃気楼.zip
+:	:	D.C.コネクション.zip
+:	:	D.P.S.SG.zip
+:	:	D.P.S.SG２.zip
+:	:	D.P.S.SG３.zip
+:	:	D.P.S.zip
+:	:	E.S.P.zip
+:	:	EO System 3.0.zip
+:	:	F-15ストライクイーグル２.zip
+:	:	F-19ステルスファイター.zip
+:	:	F29.zip
+:	:	Gokko vol.1.zip
+:	:	Gokko vol.2.zip
+:	:	Gokko vol.3.zip
+:	:	G戦略.zip
+:	:	KIDS 特殊行動警察.zip
+:	:	M1タンク プラトゥーン.zip
+:	:	Mr.プロ野球PERFECT.zip
+:	:	Mｩｰﾝﾗｲﾄﾁｬﾝﾘﾝｼｬﾝ無修正.zip
+:	:	OPNAリズムセット.zip
+:	:	PC-9801ｹﾞｰﾑﾊﾟｯｸvol.1.zip
+:	:	PC-9801ｹﾞｰﾑﾊﾟｯｸvol.2.zip
+:	:	PC-9801ｹﾞｰﾑﾊﾟｯｸvol.3.zip
+:	:	PC-9801ｹﾞｰﾑﾊﾟｯｸvol.4.zip
+:	:	RUNRUN狂走曲.zip
+:	:	Ryu 『哭きの竜』より.zip
+:	:	SAP 特殊行動警察.zip
+:	:	T.D.F.zip
+:	:	TAKERUディスクわぁるど10.zip
+:	:	TAKERUディスクわぁるど８.zip
+:	:	TAKERUディスクわぁるど９.zip
+:	:	Windows3.1.zip
+:	数字
+:	:	101回目のアプローチｼｮｯﾄ.zip
+:	:	2069AD.zip
+:	:	38万キロの虚空.zip
+:	:	46億年物語.zip
+:	:	4Dドライビング.zip
+:	:	4Dボクシング.zip
+:	:	688アタックサブ.zip
+:	:	98英和辞典.zip
+:	:	５時間目のヴィーナス.zip

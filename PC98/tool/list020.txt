@@ -1,0 +1,473 @@
+:	5 In 1 Funpak (UE) [!].gg
+:	A A Harimanada (J).gg
+:	Addams Family, The (UE) [!].gg
+:	Adventures of Batman & Robin, The (JUE).gg
+:	Aerial Assault (UE) [a1].gg
+:	Aerial Assault (UE).gg
+:	Aladdin (J) [b1].gg
+:	Aladdin (J).gg
+:	Aladdin (UE) [T-Port].gg
+:	Aladdin (UE).gg
+:	Aleste GG (J).gg
+:	Alien 3 (JUE).gg
+:	Alien Syndrome (JUE).gg
+:	Andre Agassi Tennis (UE) [!].gg
+:	Arcade Classics (UE) [!].gg
+:	Arch Rivals (JUE).gg
+:	Arena - Maze of Death (UE) [!].gg
+:	Asterix and the Great Rescue (UE).gg
+:	Ax Battler - A Legend of Golden Axe (V1.5) (J).gg
+:	Ax Battler - A Legend of Golden Axe (V2.4) (J) [T-French].gg
+:	Ax Battler - A Legend of Golden Axe (V2.4) (J) [a1].gg
+:	Ax Battler - A Legend of Golden Axe (V2.4) (J).gg
+:	Baku Baku Animals (UE) [!].gg
+:	Bart vs. The Space Mutants (JUE) [!].gg
+:	Bart vs. The World (JUE) [!].gg
+:	Bart vs. The World (JUE) [a1].gg
+:	Bartman Meets Radioactive Man (UE) [!].gg
+:	Baseball '91 (J).gg
+:	Batman Forever (JUE).gg
+:	Batman Returns (JUE) [!].gg
+:	Batman Returns (JUE) [a1].gg
+:	Batter Up (UE) [!].gg
+:	Batter Up (UE) [b1].gg
+:	Battleship (UE) [!].gg
+:	Battleship (UE) [b1].gg
+:	Battleship (UE) [b1][o1].gg
+:	Battleship (UE) [o1].gg
+:	Battleship (UE) [o2].gg
+:	Battletoads (UE).gg
+:	Beavis and Butthead (U) [a1].gg
+:	Beavis and Butthead (U).gg
+:	Berenstain Bears Camping Adventure (UE) [!].gg
+:	Berlin Wall (J).gg
+:	Big War (J).gg
+:	Bonkers Wax Up! (UE) [!].gg
+:	Bram Stoker's Dracula (UE) [!].gg
+:	Bubble Bobble (UE).gg
+:	Bugs Bunny in Double Trouble (UE) [!].gg
+:	Bust-A-Move (UE) [!].gg
+:	Buster Ball (J).gg
+:	Buster Fight (J).gg
+:	Caesar's Palace (UE) [!].gg
+:	Captain America and the Avengers (UE).gg
+:	Chakan (UE).gg
+:	Chaos 89 (PD).gg
+:	Chase HQ (J) [!].gg
+:	Chase HQ (J) [b1].gg
+:	Chase HQ (J) [o1].gg
+:	Chase HQ (J) [o1][b1].gg
+:	Chessmaster, The (UE).gg
+:	Chicago Syndicate (JUE).gg
+:	Choplifter 3 (UE) [!].gg
+:	Chuck Rock (JUE) [!].gg
+:	Chuck Rock 2 (UE) [!].gg
+:	Cliffhanger (UE) [!].gg
+:	Clutch Hitter (JUE) [!].gg
+:	Coca Cola Kid (J).gg
+:	Columns (J).gg
+:	Columns (UE) [!].gg
+:	Cool Spot (UE) [!].gg
+:	Crayon Shin Chan (J).gg
+:	Crystal Warriors (JUE) [!].gg
+:	Cutthroat Island (UE) [!].gg
+:	Daffy Duck in Hollywood (UE) [!].gg
+:	Daffy Duck in Hollywood (UE) [b1].gg
+:	Deep Duck Trouble (J).gg
+:	Defenders of Oasis (UE).gg
+:	Desert Speedtrap (JUE).gg
+:	Desert Strike (JUE).gg
+:	Devilish (J).gg
+:	Devilish (UE) [!].gg
+:	Doraemon Nora No Suke No Yabou (J).gg
+:	Double Dragon (UE) [!].gg
+:	Dr. Robotnik's Mean Bean Machine (UE).gg
+:	Dragon - The Bruce Lee Story (UE) [!].gg
+:	Dragon Crystal (J).gg
+:	Dragon Crystal (JUE).gg
+:	Dream Eleven (J) [!].gg
+:	Drop Zone (U) [!].gg
+:	Dunk Kids (J).gg
+:	Dynamite Headdy (JUE) [a1].gg
+:	Dynamite Headdy (JUE).gg
+:	Earthworm Jim (UE) [!].gg
+:	Earthworm Jim (UE) [t1].gg
+:	Ecco the Dolphin (JUE) [a1].gg
+:	Ecco the Dolphin (JUE) [b1].gg
+:	Ecco the Dolphin (JUE).gg
+:	Ecco the Dolphin 2 - Tides of Time (UE).gg
+:	Eternal Legend (J) [!].gg
+:	Evander Holyfield's Boxing (UE).gg
+:	Excellent Dizzy (UE) [!].gg
+:	F-15 Strike Eagle (UE) [!].gg
+:	FIFA International Soccer (JUE).gg
+:	FIFA Soccer 96 (UE) [!].gg
+:	Faceball 2000 (U) [!].gg
+:	Factory Panic (J).gg
+:	Factory Panic (UE) [!].gg
+:	Fantastic Dizzy (UE) [!].gg
+:	Fantasy Zone Gear (JUE) [a1].gg
+:	Fantasy Zone Gear (JUE).gg
+:	Fatal Fury Special (UE) [a1].gg
+:	Fatal Fury Special (UE).gg
+:	Foreman for Real (UE) [!].gg
+:	Formula 1 (UE) [!].gg
+:	Frank Thomas Big Hurt Baseball (U) [!].gg
+:	Fred Couples Golf (UE) [!].gg
+:	Frogs by Charles Doty (PD).gg
+:	G-Loc Air Battle (J) [!].gg
+:	G-Loc Air Battle (J) [a1].gg
+:	G-Loc Air Battle (JUE) [!].gg
+:	GG League 94 (J).gg
+:	GG Nibbles by Martin Konrad (v1) (PD).gg
+:	GG Nibbles by Martin Konrad (v2) (PD).gg
+:	GG Nibbles by Martin Konrad (v3) (PD).gg
+:	GG Nibbles by Martin Konrad (v4) (PD).gg
+:	GG Portrait - Akira (J) [!].gg
+:	GG Shinobi (E) [!].gg
+:	GG Shinobi (E) [b1].gg
+:	GG Shinobi (J).gg
+:	GG Shinobi 2 (JUE) [a1].gg
+:	GG Shinobi 2 (JUE) [b1].gg
+:	GG Shinobi 2 (JUE) [b2].gg
+:	GG Shinobi 2 (JUE).gg
+:	GP Rider (UE).gg
+:	Galaga '91 (J).gg
+:	Gamble Panic (J).gg
+:	Gambler (J).gg
+:	Gamegear Text Demo (PD).gg
+:	Gear (J).gg
+:	Gear Stadium (J).gg
+:	Gear Stadium Heiseiban (J) [!].gg
+:	Gear Works (UE) [!].gg
+:	George Foreman KO Boxing (UE).gg
+:	Godzilla (J) [!].gg
+:	Greendog (JUE) [a1].gg
+:	Greendog (JUE) [b1].gg
+:	Greendog (JUE).gg
+:	Griffin (J).gg
+:	Gunstar Heroes (J).gg
+:	Halley Wars (J).gg
+:	Head Buster (J) [b1].gg
+:	Head Buster (J).gg
+:	Home Alone (JUE) [!].gg
+:	Hook (UE) [!].gg
+:	House of Tarot (J) [!].gg
+:	Hurricanes (UE) [!].gg
+:	In the Wake of the Vampire (J).gg
+:	Incredible Crash Dummies, The (UE).gg
+:	Incredible Hulk, The (JUE).gg
+:	Indiana Jones and the Last Crusade (UE).gg
+:	Iron Man X-O Manowar in Heavy Metal (JUE) [b1].gg
+:	Iron Man X-O Manowar in Heavy Metal (JUE).gg
+:	Itchy & Scratchy (JUE) [!].gg
+:	James Bond 007 - The Duel (UE) [!].gg
+:	Jeopardy! (UE) [!].gg
+:	Jeopardy! - Sports Edition (UE) [!].gg
+:	Joe Montana's Football (JUE).gg
+:	Judge Dredd (JUE).gg
+:	Junction (JUE).gg
+:	Jungle Book, The (UE) [!].gg
+:	Jurassic Park (E) [!].gg
+:	Jurassic Park (J).gg
+:	Kawasaki Superbike Challenge (U) [!].gg
+:	Kinetic Connection (J) [o1].gg
+:	Kinetic Connection (J).gg
+:	Klax (UE) [!].gg
+:	Krusty's Funhouse (JUE) [!].gg
+:	Kuni Chan no Game Tengoku (J).gg
+:	Kuni Chan no Game Tengoku 2 (J).gg
+:	Kyoto Saint Tale (J).gg
+:	Last Action Hero (UE) [!].gg
+:	Last Bible (J).gg
+:	Last Bible 2 (J).gg
+:	Lemmings (JUE) [a1][!].gg
+:	Lemmings (JUE) [b1].gg
+:	Lemmings (JUE).gg
+:	Lion King, The (UE) [!].gg
+:	Lion King, The (UE) [a1].gg
+:	Little Mermaid, The (JUE).gg
+:	Lucky Dime Caper with Donald Duck (J).gg
+:	Lucky Dime Caper with Donald Duck (U) [!].gg
+:	Lunar (J) [T-Eng_partial1].gg
+:	Lunar (J) [T-Eng_partial2].gg
+:	Lunar (J) [T-Eng_partial3].gg
+:	Lunar (J).gg
+:	MLBPA Baseball (U) [!].gg
+:	Madden NFL '95 (JUE).gg
+:	Madden NFL '96 (UE) [!].gg
+:	Madou Monogatari 1 (J) [b1].gg
+:	Madou Monogatari 1 (J).gg
+:	Madou Monogatari 2 (J).gg
+:	Madou Monogatari 3 (J).gg
+:	Madou Monogatari A - Doki Doki (J).gg
+:	Magic Knight Rayearth (J).gg
+:	Magic Knight Rayearth 2 (J).gg
+:	Magical Puzzle Popils (J).gg
+:	Magical Tarurutokun (J).gg
+:	Majesco Game Gear BIOS (U) [!].gg
+:	Majors Pro Baseball (UE) [!].gg
+:	Man Overboard (UE) [!].gg
+:	Mappy (J).gg
+:	Marble Madness (JUE) [b1].gg
+:	Marble Madness (JUE) [o1].gg
+:	Marble Madness (JUE).gg
+:	Marko's Magic Football (UE) [!].gg
+:	Megaman (JUE) [b1].gg
+:	Megaman (JUE).gg
+:	Mick & Mack as the Global Gladiators (UE).gg
+:	Mickey Mouse - Castle of Illusion (J) [!].gg
+:	Mickey Mouse - Castle of Illusion (J) [a1].gg
+:	Mickey Mouse - Land of Illusion (UE) [!].gg
+:	Mickey Mouse in Land of Illusion (J).gg
+:	Mickey Mouse in Land of Illusion (JUE) [!].gg
+:	Mickey Mouse in Legend of Illusion (J).gg
+:	Mickey's Ultimate Challenge (UE).gg
+:	Mod2PSG V1.0 - Secret of Monkey Island (PD).gg
+:	Mod2PSG V1.1 - Secret of Monkey Island (PD).gg
+:	Mod2PSG V1.2 - Secret of Monkey Island (PD).gg
+:	Mod2PSG V1.3 - Secret of Monkey Island (PD).gg
+:	Mod2PSG V1.3 - Shadow of the Beast (PD).gg
+:	Mod2PSG V1.5 - Secret of Monkey Island (PD).gg
+:	Mod2PSG V1.5 - Shadow of the Beast (PD).gg
+:	Mod2PSG V1.6 - Secret of Monkey Island (PD).gg
+:	Mod2PSG V1.6 - Shadow of the Beast (PD).gg
+:	Mod2PSG V1.7 - Secret of Monkey Island (PD).gg
+:	Mod2PSG V1.7 - Shadow of the Beast (PD).gg
+:	Mod2PSG V1.8 - Secret of Monkey Island (PD).gg
+:	Mod2PSG V1.8 - Shadow of the Beast (PD).gg
+:	Moldorian (J) [!].gg
+:	Monster Truck Wars (JUE) [!].gg
+:	Monster World 2 (J).gg
+:	Mortal Kombat (V2.6) (JUE) [b1].gg
+:	Mortal Kombat (V2.6) (JUE).gg
+:	Mortal Kombat (V3.3) (JUE).gg
+:	Mortal Kombat 2 (JUE).gg
+:	Mortal Kombat 3 (JUE) [!].gg
+:	Ms. Pac-Man (UE) [!].gg
+:	NBA Action (UE) [!].gg
+:	NBA Jam (J).gg
+:	NBA Jam Tournament Edition (JUE).gg
+:	NFL 95 (UE) [!].gg
+:	NFL Quarterback Club '96 (JUE).gg
+:	NFL Quarterback Club (JUE) [!].gg
+:	NHL All-Star Hockey (JUE) [b1].gg
+:	NHL All-Star Hockey (JUE).gg
+:	NHL Hockey (UE) [!].gg
+:	Nazo Puyo (J) [!].gg
+:	Nazo Puyo 2 (J) [!].gg
+:	Ninja Gaiden (J) [!].gg
+:	Ninja Gaiden (J) [b1].gg
+:	Ninja Gaiden (UE) [!].gg
+:	Ninja Gaiden (UE) [T-Port].gg
+:	Ninku (J) [!].gg
+:	Olympic Gold - Barcelona '92 (UE) [!].gg
+:	Olympic Gold - Barcelona '92 (UE) [a1][!].gg
+:	Olympic Gold - Barcelona '92 (UE) [b1].gg
+:	Ottifants, The (UE).gg
+:	OutRun (JUE).gg
+:	OutRun Europa (UE) [!].gg
+:	OutRun Europa (UE) [b1].gg
+:	PGA Tour 2 (UE) [!].gg
+:	PGA Tour 2 (UE) [b1].gg
+:	PGA Tour 96 (JUE) [!].gg
+:	PGA Tour Golf (UE) [!].gg
+:	Pac-Attack (UE).gg
+:	Pac-Man (J).gg
+:	Panzer Dragoon Mini (J) [!].gg
+:	Paperboy (JUE) [t1].gg
+:	Paperboy (JUE).gg
+:	Pengo (J).gg
+:	Pete Sampras Tennis (E) [!].gg
+:	Phantasy Star Adventure (J) [T-Eng_AGTP].gg
+:	Phantasy Star Adventure (J) [T-Eng_partial].gg
+:	Phantasy Star Adventure (J) [b1].gg
+:	Phantasy Star Adventure (J).gg
+:	Phantasy Star Gaiden (J) [!].gg
+:	Phantasy Star Gaiden (J) [T-EngV1.0] (largefont).gg
+:	Phantasy Star Gaiden (J) [T-EngV1.0] (smallfont).gg
+:	Phantasy Star Gaiden (J) [T-EngV1.0_Magic_Trans] (largefont).gg
+:	Phantasy Star Gaiden (J) [T-EngV1.0_Magic_Trans] (smallfont).gg
+:	Phantasy Star Gaiden (J) [T-Eng_partial1] (largefont).gg
+:	Phantasy Star Gaiden (J) [T-Eng_partial1] (smallfont).gg
+:	Phantasy Star Gaiden (J) [T-Port].gg
+:	Phantom 2040 (UE).gg
+:	Pokemon Legends (Eternal Legend Hack).gg
+:	Poker Faced Paul's Blackjack (UE).gg
+:	Poker Faced Paul's Gin (UE) [!].gg
+:	Poker Faced Paul's Poker (UE).gg
+:	Poker Faced Paul's Solitaire (UE) [!].gg
+:	Pop Breaker (J).gg
+:	Popeye's Beach Volleyball (J).gg
+:	Power Rangers (JUE) [!].gg
+:	Power Rangers - The Movie (UE).gg
+:	Power Strike 2 (JUE) [b1].gg
+:	Power Strike 2 (JUE).gg
+:	Predator 2 (JUE) [!].gg
+:	Primal Rage (JUE).gg
+:	Prince of Persia (UE) [!].gg
+:	Prince of Persia (UE) [a1][!].gg
+:	Psychic World (JUE) [o1].gg
+:	Psychic World (JUE).gg
+:	Putt and Putter (JUE).gg
+:	Puyo Puyo 2 (J) [!].gg
+:	Puzlow Kids (Puyo Puyo) (J).gg
+:	Quiz of Gears, The (J).gg
+:	R.C. Grand Prix (UE) [!].gg
+:	R.C. Grand Prix (UE) [b1].gg
+:	RBI Baseball 94 (UE) [b1].gg
+:	Ren & Stimpy - Quest for the Shaven Yak, The (U) [!].gg
+:	Revenge of Drancon (UE) [!].gg
+:	Riddick Bowe Boxing (J).gg
+:	Rise of the Robots (UE) [!].gg
+:	Ristar the Shooting Star (JUE).gg
+:	Road Rash (JUE).gg
+:	Robocop 3 (UE).gg
+:	Robocop vs. the Terminator (UE).gg
+:	Ronald in the Magical World (JUE).gg
+:	Royal Stone (J).gg
+:	Ryu Kyu (J).gg
+:	SD Gundam Winner's History (J) [T-Eng].gg
+:	SD Gundam Winner's History (J).gg
+:	SMSC Gamegear Demo (PD) [b1].gg
+:	Sailor Moon S (J) [b1].gg
+:	Sailor Moon S (J) [b2].gg
+:	Sailor Moon S (J).gg
+:	Samurai Shodown (UE) [!].gg
+:	Samurai Spirits (J) [b1].gg
+:	Samurai Spirits (J).gg
+:	Scratch Golf (UE) [!].gg
+:	Sega 4 in 1 Pack (UE) [b1].gg
+:	Sega 4 in 1 Pack (UE).gg
+:	Shadam Crusader (J) [!].gg
+:	Shanghai 2 (J).gg
+:	Shaq Fu (UE) [!].gg
+:	Shining Force 2 - Sword of Haija (J).gg
+:	Shining Force 2 - Sword of Haija (UE).gg
+:	Shining Force 3 - Final Conflict (J) [T-Eng].gg
+:	Shining Force 3 - Final Conflict (J) [a1].gg
+:	Shining Force 3 - Final Conflict (J) [b1].gg
+:	Shining Force 3 - Final Conflict (J) [b2].gg
+:	Shining Force 3 - Final Conflict (J).gg
+:	Shining Force Gaiden (J) [!].gg
+:	Sikin Jyo (J).gg
+:	Skweek (JUE).gg
+:	Slam Dunk - Shouri he no Starting 5 (JUE) [!].gg
+:	Slider (UE).gg
+:	Smash TV (UE).gg
+:	Smurfs, The (E) [!].gg
+:	Sokoban World (J).gg
+:	Solitaire Funpak (UE) [!].gg
+:	Solitaire Poker (UE) [!].gg
+:	Sonic & Tails (J) [!].gg
+:	Sonic & Tails 2 (J).gg
+:	Sonic Chaos (JUE) [b1].gg
+:	Sonic Chaos (JUE).gg
+:	Sonic Drift (J).gg
+:	Sonic Drift 2 (J) [b1].gg
+:	Sonic Drift 2 (J).gg
+:	Sonic Labyrinth (JUE) [b1].gg
+:	Sonic Labyrinth (JUE).gg
+:	Sonic Spinball (UE).gg
+:	Sonic the Hedgehog (JUE).gg
+:	Sonic the Hedgehog - Triple Trouble (UE).gg
+:	Sonic the Hedgehog 2 (JUE) [!].gg
+:	Space Harrier (JUE).gg
+:	Spider-man vs. the Kingpin (UE) [!].gg
+:	Spiderman & X-Men - Arcade's Revenge (UE).gg
+:	Spiderman - Return of the Sinister Six (JUE).gg
+:	Sports Illustrated Football and Baseball (UE) [!].gg
+:	Sports Trivia (JUE) [!].gg
+:	Sports Trivia - Championship Edition (JUE).gg
+:	Star Trek Generations - Beyond the Nexus (UE) [!].gg
+:	Star Trek TNG - Advanced Holodeck Tutorial (UE) [!].gg
+:	Star Wars (UE).gg
+:	Stargate (JUE).gg
+:	Streets of Rage (JUE).gg
+:	Streets of Rage 2 (JUE).gg
+:	Strider Returns (JUE).gg
+:	Super Columns (UE) [!].gg
+:	Super Golf (J).gg
+:	Super Kick Off (J) [!].gg
+:	Super Monaco GP (J) [b1].gg
+:	Super Monaco GP (J).gg
+:	Super Monaco GP 2 (J) [b1].gg
+:	Super Monaco GP 2 (J).gg
+:	Super Off-Road (UE) [a1].gg
+:	Super Off-Road (UE) [b1].gg
+:	Super Off-Road (UE).gg
+:	Super Return of the Jedi (UE) [!].gg
+:	Super Space Invaders (JUE) [b1].gg
+:	Super Space Invaders (JUE).gg
+:	Superman (UE) [!].gg
+:	Surf Ninjas (UE) [b1].gg
+:	Surf Ninjas (UE) [b2].gg
+:	Surf Ninjas (UE).gg
+:	Sylvan Tale (J) [!].gg
+:	Sylvan Tale (J) [T-Eng_partial].gg
+:	Sylvan Tale (J) [h1].gg
+:	Tails' Adventures (UE).gg
+:	Tails' Sky Patrol (J) [!].gg
+:	Tails' Sky Patrol (J) [T-Port].gg
+:	Taisen Mahjan HaoPai (J).gg
+:	Taisen Mahjan HaoPai 2 (J).gg
+:	Tale Spin (UE).gg
+:	Tama & Friends - Tamalympics (J) [b1].gg
+:	Tama & Friends - Tamalympics (J).gg
+:	Tanto-R (Puzzle and Action) (J).gg
+:	Taz in Escape from Mars (UE) (Star Wars Hack).gg
+:	Taz in Escape from Mars (UE).gg
+:	Taz-Mania - The Search for the Lost Seabirds (UE).gg
+:	Tempo JR (JUE) [!].gg
+:	Terminator 2 - Judgement Day (JUE).gg
+:	Terminator 2 - The Arcade Game (JUE) [b1].gg
+:	Terminator 2 - The Arcade Game (JUE).gg
+:	Terminator, The (UE) [!].gg
+:	Tesserae (UE) [!].gg
+:	Tintin au Tibet (E) [!].gg
+:	Tom and Jerry - The Movie (JUE).gg
+:	True Lies (JUE).gg
+:	Ultimate Soccer (JUE).gg
+:	Urban Strike (U) [!].gg
+:	VR Troopers (UE) [!].gg
+:	VR Troopers (UE) [b1].gg
+:	Vampire - Master of Darkness (UE) [!].gg
+:	Virtua Fighter Mini (J) [!].gg
+:	Virtua Fighters (J) [b1].gg
+:	Virtua Fighters Portrait - Pai Chen (J) [!].gg
+:	Volleyball (J).gg
+:	WWF Raw (JUE) [!].gg
+:	WWF Raw (JUE) [b1].gg
+:	WWF Steel Cage Challenge (JUE) [!].gg
+:	Wakiyarando (Wagyan Land) (J) [a1].gg
+:	Wakiyarando (Wagyan Land) (J) [b1].gg
+:	Wakiyarando (Wagyan Land) (J).gg
+:	Wheel of Fortune (UE) [!].gg
+:	Windows for GG by Victor Kemp (PD).gg
+:	Winter Olympics - Lillehammer '94 (J).gg
+:	Winter Olympics - Lillehammer '94 (UE) [!].gg
+:	Wizard Pinball (UE) [!].gg
+:	Wolfchild (U) [!].gg
+:	Wonderboy (J).gg
+:	Wonderboy 3 - Dragon's Trap (UE).gg
+:	Woody Pop (JUE) [!].gg
+:	Woody Pop (JUE) [a1].gg
+:	World Class Leader Golf (U) [!].gg
+:	World Cup 94 (JUE) [!].gg
+:	World Cup Soccer (UE).gg
+:	World Derby (J).gg
+:	World Series Baseball '95 (UE) [!].gg
+:	World Series Baseball (UE) [!].gg
+:	World Series Baseball (UE) [a1][!].gg
+:	X-Men (UE).gg
+:	X-Men - Gamemaster's Legacy (UE).gg
+:	X-Men - Mojo World (UE) [!].gg
+:	Xaropinho (Mappy Hack).gg
+:	Yaiba Adventures (J).gg
+:	Yogi Bear (UE) (proto) [!].gg
+:	Yokaru Yotantori (J).gg
+:	Yuu Yuu Hakusho 1 (J).gg
+:	Yuu Yuu Hakusho 2 (J) [T-Eng].gg
+:	Yuu Yuu Hakusho 2 (J).gg
+:	Zool (J).gg
+:	Zoop (UE) [!].gg

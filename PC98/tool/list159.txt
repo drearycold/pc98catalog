@@ -1,0 +1,29 @@
+(ROM) No-Intro Nintendo Virtual Boy (20060630) (rr5%).rar
+10,149,865
+a5ba4b64a8b537f56c393a1e3803c3d0ÅEd8e2ad8a685e1ff7cd4abe361727785029d0aa33
+
+:	VBoy
+:	:	3-D Tetris (U).zip
+:	:	Galactic Pinball (JU).zip
+:	:	Golf (U).zip
+:	:	Innsmouth no Yakata (J).zip
+:	:	Jack Bros. (U).zip
+:	:	Jack Bros. no Meiro de Hiihoo! (J).zip
+:	:	Mario Clash (JU).zip
+:	:	Mario's Tennis (JU).zip
+:	:	Nester's Funky Bowling (U).zip
+:	:	Panic Bomber (U).zip
+:	:	Red Alarm (J).zip
+:	:	Red Alarm (U).zip
+:	:	Space Squash (J).zip
+:	:	T&E Virtual Golf (J).zip
+:	:	Teleroboxer (JU).zip
+:	:	Tobidase! Panibon (J).zip
+:	:	V-Tetris (J).zip
+:	:	Vertical Force (J).zip
+:	:	Vertical Force (U).zip
+:	:	Virtual Boy Wario Land (JU).zip
+:	:	Virtual Fishing (J).zip
+:	:	Virtual League Baseball (U).zip
+:	:	Virtual Pro Yakyuu '95 (J).zip
+:	:	Waterworld (U).zip

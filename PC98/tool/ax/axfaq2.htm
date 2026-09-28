@@ -1,0 +1,295 @@
+<HTML>
+
+<HEAD>
+<TITLE>
+Anex86 : FAQ#2 
+</TITLE>
+
+<STYLE TYPE="text/css">
+H5 { color="#aaaaaa" link="#000055" vlink="550000" }
+</STYLE>
+
+
+</HEAD>
+
+<BODY text="#ffffff" bgcolor="#000044" link="#FFFFFF" vlink="#FFFFFF"><a name="top"></a>
+
+<H5>
+<HR>
+
+<A href="../ax/axfaq.htm">[FAQ</A>
+<A href="../ax/axfaq1.htm">#1</A>
+#2
+<A href="../ax/axfaq3.htm">#3]</A>
+<HR>
+</H5>
+<H3>
+FAQ#2
+</H3>
+
+<UL>
+<LI><A HREF="../ax/axfaq2.htm#font">PC-x86/PC-98x1 のフォントを使う</A>
+<LI><A HREF="../ax/axfaq2.htm#keisenn">罫線を使いたい</A>
+<LI><A HREF="../ax/axfaq2.htm#display">ひょうじを滑らかにする</A>
+<LI><A HREF="../ax/axfaq2.htm#delay">音のレスポンスを改善する</A>
+<LI><A HREF="../ax/axfaq1.htm#sound">音が鳴らない</A>
+<LI><A HREF="../ax/axfaq2.htm#midi">MIDI を使う</A>
+<LI><A HREF="../ax/axfaq2.htm#e86">追加モジュールを使う</A>
+<LI><A HREF="../ax/axfaq2.htm#slow">速度を落とす</A>
+<LI><A HREF="../ax/axfaq2.htm#speed">快適に使うためのヒント</A>
+<LI><A HREF="../ax/axfaq2.htm#move">.fdi/.hdi にファイルをコピーする</A>
+<LI><A HREF="../ax/axfaq2.htm#large">大容量ハードディスク</A>
+<LI><A HREF="../ax/axfaq2.htm#shortcut">ショートカットキー</A>
+<LI><A HREF="../ax/axfaq2.htm#mouse">マウスが使いにくい</A>
+</UL>
+
+<HR>
+
+<DL>
+
+<DT>
+<H3>
+<A NAME="font">PC-x86/PC-98x1 のフォントを使う</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+<BR>
+<A NAME="keisenn">罫線を使いたい</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+</H3>
+
+<DD>
+<P>
+Anex86 は .bmp ファイルをフォントとして使うことができます。
+<BR>
+これにより任意のフォントを使うことができます。
+<BR>
+実機のフォントを Anex86 用のビットマップにすることもできます。
+<BR>
+※ フォントには著作権がありますので個人の範囲で行ってください。
+<P>
+
+<DT>
+<H3>
+<A NAME="display">表示を滑らかにする</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+</H3>
+
+<DD>
+<P>
+<A href="../axm/axmvideo.htm">[Config]-[Video]</A>
+ Update stratedy の設定を変更してみてください。
+<BR>
+お勧めは [Sync] です。
+<BR>
+数字は小さいほうが滑らかですがパワーを消費します。
+</P>
+
+<DT>
+<H3>
+<A NAME="delay">音のレスポンスを改善する</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+</H3>
+
+<DD>
+<P>
+<A href="../axm/axmwave.htm">[Config]-[Wave]</A>
+ Buffer の設定を変更してみてください。
+<BR>
+小さくするとレスポンスは改善しますが、
+その分音が途切れやすくなります。
+<BR>
+音が途切れない範囲で小さくしてみてください。
+</P>
+
+<DT>
+<H3>
+<A NAME="e86">追加モジュールを使う</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+</H3>
+
+<DD>
+<P>
+Anex86 は追加モジュールを使うことができます。
+<BR>
+.e86 ファイルと呼びます。
+<BR>
+使いかたは anex86.exe と同じディレクトリに .e86 ファイルを置くだけです。
+<BR>
+Anex86 起動時に自動的に読み込みます。
+</P>
+
+<P>
+.e86 ファイルは、かならず Anex86 と同じバージョンのものを使用してください。
+<BR>
+使用中のモジュールは
+<A href="../axm/axmmod.htm">[Config]-[Module]</A>
+で確認できます。
+</P>
+
+<P>
+追加モジュールはホームページの [Download] を探してください。
+</P>
+
+<DT>
+<H3>
+<A NAME="sound">音質を改善する</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+</H3>
+
+<DD>
+<P>
+音源モジュールがあります。
+<BR>
+かなりパワーを消費します。遅いマシンではつらいかもしれません。
+<BR>
+<A HREF="../ax/axfaq2.htm#e86">追加モジュールを使う</A> を参照
+</P>
+
+<DT>
+<H3>
+<A NAME="midi">MIDI を使う</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+</H3>
+
+<DD>
+<P>
+MIDI モジュールがあります。
+<BR>
+このモジュールは Windows の MIDI を使います。
+<BR>
+<A HREF="../ax/axfaq2.htm#e86">追加モジュールを使う</A> を参照
+</P>
+
+<DT>
+<H3>
+<A NAME="slow">速度を落とす</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+</H3>
+
+<DD>
+<P>
+まれに動作が速すぎてゲームにならない場合があります。
+<BR>
+そんな時は
+<A href="../axm/axmsys.htm">[Config]-[System]</A>
+Speed を使います。
+</P>
+
+<DT>
+<H3>
+<A NAME="speed">快適に使うためのヒント</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+</H3>
+
+<DD>
+<DL>
+<DT>ページングはできるだけ使わない。
+<DD>速度が半減します。
+<DD>具体的には EMM386.EXE 等です。
+<DD>なお HIMEM.SYS はそれほど速度に影響しません。
+<DT>ディスクキャッシュは使わない。
+<DD>多分効果はありません。
+<DD>逆に速度が下がるかも。
+<DT>音源を切る。
+<DD>音源は常にある程度のパワーを消費します。
+<DT>画面の更新を押さえる。
+<DD>画面更新を減らすとそのパワーをエミュレータが使えます。
+</DL>
+
+<DT>
+<H3>
+<A NAME="move">.fdi/.hdi にファイルをコピーする</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+</H3>
+
+<DD>
+<DL>
+<DT>anvfat を使う
+</DL>
+
+<DT>
+<H3>
+<A NAME="large">大容量ハードディスク</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+</H3>
+
+<DD>
+<P>
+.hdi ファイルを作成するときに容量として "user" を選びます。
+<BR>
+track/head/sector/bytes が変更可能になります。
+<BR>
+track を大きな値に変更してください。
+<BR>
+現在の容量は disk size に反映されます。
+<BR>
+設定を終了したら [Create] を押してください。
+<BR>
+※ Anex86 は SASI HDD の制限を受けません。
+</P>
+
+<DT>
+<H3>
+<A NAME="shortcut">ショートカットキー</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+</H3>
+
+<DD>
+<DL>
+<DT>[Alt]+[Return]
+<DD>全画面とウインドウ表示を切り替えます。
+<DD>関連：
+<A href="../axm/axmwnd.htm">[Config]-[Window]</A>
+<DT>[Alt]+[Space]
+<DD>メニュー画面を呼び出します。
+<DD>全画面表示中も有効です。
+<DT>[Alt]+[Back]
+<DD>マウスのモード（ Mouse Capture ）を切り替えます。
+<DD>マウスカーソルを１つにしたいときは使ってください。
+<DD>関連：
+<A href="../axm/axmmouse.htm">[Config]-[Mouse]</A>
+</DL>
+
+<DT>
+<H3>
+<A NAME="mouse">マウスが使いにくい</A>
+<A href="#top"><FONT SIZE=2>top</FONT></A>
+</H3>
+
+<DD>
+<P>
+ウインドウ状態ではマウスカーソルが２つ表示されます。
+<BR>
+Mouse Capture モードを使うと１つになります。
+<BR>
+[Alt]+[Back] を押してみてください。
+<BR>
+関連：
+<A href="../axm/axmmouse.htm">[Config]-[Mouse]</A>
+</P>
+
+</DL>
+
+<H5>
+<HR>
+<A href="../index.htm">[HomePage]</A>
+[Anex86]
+<A href="../axm/axmindex.htm">[Manual]</A>
+
+<A href="../../../hpcgi2.nifty.com/ans/bbs_read.cgi">[BBS]</A>
+
+<A href="../lnk/axlink.htm">[Link]</A>
+<BR>
+<A href="../ax/axdown.htm">[Download]</A>
+
+<A href="../ax/axfaq.htm">[FAQ</A>
+<A href="../ax/axfaq1.htm">#1</A>
+#2
+<A href="../ax/axfaq3.htm">#3]</A>
+<HR>
+</H5>
+<DIV ALIGN=RIGHT>
+<IMG src="../../../hpcounter2.nifty.com/cgi-bin/counter.cgi7u=JAH03624&P=21&c=8">
+
+</DIV>
+
+</HTML>

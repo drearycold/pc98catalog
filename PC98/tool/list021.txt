@@ -1,0 +1,241 @@
+:	Columns (PD).ngp
+:	Diamond Run by Ivan Mackintosh (PD).ngp
+:	E-Cup (J).ngp
+:	Flavor's NGPC Multi-ROM Menu v1.0 (PD).ngp
+:	Flavor's NGPC Multi-ROM Menu v2.0 BETA (PD).ngp
+:	Flavors Multipac 12-10-01 (PD).ngp
+:	Flavors Multipac 12-12-01 (PD).ngp
+:	Flavors Multipac 16MB 12-13-01 (PD).ngp
+:	Gals Fighters (UE) [h2].ngp
+:	Lines, Triangles and Points. First Step for 3D (PD).ngp
+:	Manic Miner V1.0 by Lindon Dodd (PD).ngp
+:	SFX for NGPC - Example by Ivan Mackintosh (PD).ngp
+:	SFX for NGPC - Sound Generator by Ivan Mackintosh (PD) [o1].ngc
+:	SFX for NGPC - Sound Generator by Ivan Mackintosh (PD).ngp
+:	SNK Vs Capcom - Card Fighters Clash 2 - Expand Edition (J) [T-EngV14.12.01].ngp
+:	SNK Vs Capcom - Match Of The Millennium (JUE) [b1].ngp
+:	Shufflepuck Cafe (Beta 1) by Loic Julien (PD).ngp
+:	Shufflepuck Cafe (Beta 2) by Loic Julien (PD).ngp
+:	Super 12 in 1 [p1][!].npc
+:	WAV Player Sample (2'40' song) (PD).ngp
+:	baseball stars (jue) [m].ngp
+:	baseball stars color (jue) [!].ngp
+:	baseball stars color (jue) [a1][!].ngp
+:	baseball stars color (jue) [h1].ngp
+:	big bang pro wrestling (jue) [!].ngp
+:	bikkuriman 2000 (j).ngp
+:	biomotor unitron (j).ngp
+:	biomotor unitron (ue) [!].ngp
+:	biomotor unitron (ue) [h1].ngp
+:	bust-a-move pocket (ue).ngp
+:	chaos 89 (pd).ngp
+:	cool boarders pocket (jue) [a1].ngp
+:	cool boarders pocket (jue).ngp
+:	cool cool jam (j) [!].ngp
+:	cool cool jam (j) [b1].ngp
+:	cool cool jam (j) [b2].ngp
+:	cool cool jam sample (u).ngp
+:	cotton - fantastic night dreams (j) [t1].ngp
+:	cotton - fantastic night dreams (j).ngp
+:	cotton - fantastic night dreams (ue) [t1].ngp
+:	cotton - fantastic night dreams (ue).ngp
+:	cpu test by judge_ (pd).ngp
+:	crush roller (jue) [a1].ngp
+:	crush roller (jue) [h1].ngp
+:	crush roller (jue).ngp
+:	dark arms - beast buster 1999 (jue) [!].ngp
+:	dark arms - beast buster 1999 (jue) [a1][!].ngp
+:	dark arms - beast buster 1999 (jue) [h1].ngp
+:	delta warp (j) [!].ngp
+:	delta warp (j) [b1].ngp
+:	densetsu no ogre battle (j) [!].ngp
+:	densha de go! 2 (j) [h1].ngp
+:	densha de go! 2 (j).ngp
+:	dive alert - becky's version (ue).ngp
+:	dive alert - burn edition (j).ngp
+:	dive alert - matt's version (ue).ngp
+:	dive alert - rebecca version (j).ngp
+:	dokodemo mahjong (j).ngp
+:	dynamite slugger (j).ngp
+:	evolution (j).ngp
+:	evolution - eternal dungeons (u) [t-french0.3_fry].ngp
+:	evolution - eternal dungeons (u).ngp
+:	faselei! (j).ngp
+:	faselei! (ue) [t-french60%-v1_j-yann].ngp
+:	faselei! (ue).ngp
+:	fatal fury f-contact (jue) [!].ngp
+:	gals fighters (j).ngp
+:	gals fighters (ue) [!].ngp
+:	gals fighters (ue) [h1].ngp
+:	ganbare neopoke kun (j).ngp
+:	hardware test (pd).ngp
+:	hello world! (neo clock) (pd).ngp
+:	hi-colour by fuz (pd).ngp
+:	infinity cure (j) [!].ngp
+:	invaders by tomasz slanina (pd).ngp
+:	kikouseki unitron (j).ngp
+:	king of fighters r-1 (jue) [m][!].ngp
+:	king of fighters r-1 (jue) [m][a1][!].ngp
+:	king of fighters r-1 (jue) [m][a2][!].ngp
+:	king of fighters r-2 (jue) [!].ngp
+:	king of fighters r-2 (jue) [a1][!].ngp
+:	king of fighters r-2 (jue) [a2].ngp
+:	king of fighters r-2 (jue) [a3].ngp
+:	king of fighters r-2 (jue) [b1].ngp
+:	king of fighters r-2 (jue) [h1].ngp
+:	king of fighters r-2 (jue) [h2].ngp
+:	king of fighters, the - battle de paradise (j) [!].ngp
+:	koi koi mahjong (j) [!].ngp
+:	koi koi mahjong (j) [b1].ngp
+:	last blade, the (j) [a1].ngp
+:	last blade, the (j) [a2].ngp
+:	last blade, the (j).ngp
+:	last blade, the (ue) [!].ngp
+:	lights! v1.0 by roger bacon (pd).ngp
+:	lights! v1.1 by roger bacon (pd).ngp
+:	magical drop pocket (j).ngp
+:	magical drop pocket (ue) [h1].ngp
+:	magical drop pocket (ue).ngp
+:	mainreg test (pd).ngp
+:	manic miner alpha v0.1g by lindon dodd (pd).ngp
+:	manic miner alpha v0.2a by lindon dodd (pd).ngp
+:	master of syougi (j) [!].ngp
+:	master of syougi (j) [m][!].ngp
+:	master of syougi (j) [m][b1].ngp
+:	maze demo (v1.00) by jeff siebold (pd).ngp
+:	maze demo (v1.01) by jeff siebold (pd).ngp
+:	maze demo (v1.02) by jeff siebold (pd).ngp
+:	maze demo (v1.04) by jeff siebold (bung comp entry) (pd).ngp
+:	melon chan's growth diary (j) [m].ngp
+:	memories off pure (j).ngp
+:	mersenne twister random number generator (pd).ngp
+:	metal slug - 1st mission (jue) [a1].ngp
+:	metal slug - 1st mission (jue) [a2].ngp
+:	metal slug - 1st mission (jue) [h2].ngp
+:	metal slug - 1st mission (jue).ngp
+:	metal slug - 2nd mission (jue) [!].ngp
+:	metal slug - 2nd mission (jue) [h1].ngp
+:	mezase! kanji ou (j).ngp
+:	mines v1.0 by ivan mackintosh (pd).ngp
+:	mizuki shigeru youkai shashin kan (j).ngp
+:	multi game menu (v1.0) (pd).ngp
+:	multi game menu (v1.1) (pd).ngp
+:	multi game menu (v1.2) (pd).ngp
+:	multi game menu (v1.3) (pd).ngp
+:	multi game menu (v1.4) (pd).ngp
+:	multi game menu (v1.5) (pd).ngp
+:	neo baccarat (ue) [!].ngp
+:	neo baccarat (ue) [h1].ngp
+:	neo centipede by roger bacon (04-05-2001) (pd).ngp
+:	neo centipede by roger bacon (05-13-2001) (pd).ngp
+:	neo cherry master (jue) [m][!].ngp
+:	neo cherry master color (jue) [!].ngp
+:	neo cherry master color (jue) [h1].ngp
+:	neo derby championship (j).ngp
+:	neo dragon's wild (v11) (jue).ngp
+:	neo dragon's wild (v13) (jue) [!].ngp
+:	neo dragon's wild (v13) (jue) [h1].ngp
+:	neo mystery bonus (jue) [!].ngp
+:	neo mystery bonus (jue) [h1].ngp
+:	neo poke pro yakyuu (j).ngp
+:	neo turf masters (jue) [!].ngp
+:	neo turf masters (jue) [a1].ngp
+:	neo turf masters (jue) [h1].ngp
+:	neo turf masters (jue) [h2].ngp
+:	neo twenty one (jue) [!].ngp
+:	neo twenty one (jue) [a1].ngp
+:	neo twenty one (jue) [a2].ngp
+:	neo twenty one (jue) [a3].ngp
+:	neo-neo! v1.0 (pd).ngp
+:	neo-neo! v1.1 (with music) (05-05-2001) (pd).ngp
+:	neogeo clock demo (v000524) (pd).ngp
+:	neogeo cup '98 (jue) [m][!].ngp
+:	neogeo cup '98 (jue) [m][h1].ngp
+:	neogeo cup '98 plus color (jue).ngp
+:	ngpc game pack (spacies & asteroids) (pd).ngp
+:	ni-ge-ron-pa (j) [!].ngp
+:	oekaki puzzle (j).ngp
+:	pac-man (jue) [!].ngp
+:	pac-man (jue) [h1].ngp
+:	pac-man (jue) [h2].ngp
+:	pac-man (jue) [t-french_j-yann].ngp
+:	pac-man (jue) [t1].ngp
+:	pac-man (jue) [t2].ngp
+:	pac-man (pd).ngp
+:	pachi-slot aruze oukoku porcano 2 (j) [!].ngp
+:	pachinko hissyou guide pocket parlor (j).ngp
+:	pachisuro aruze ohgoku pocket - e-cup (j) [!].ngp
+:	pachisuro aruze oogoku ohanabi (j) [!].ngp
+:	pachisuro aruze oogoku pocket - dekahel 2 (j) [!].ngp
+:	pachisuro aruze oogoku pocket - delsol 2 (j) [!].ngp
+:	pachisuro aruze oogoku pocket hanabi v1.02 (j) [!].ngp
+:	pachisuro aruze oogoku pocket hanabi v1.04 (j) [!].ngp
+:	pachisuro aruze oogoku pocket ward of lights (j).ngp
+:	pachisuro azure oogoku pocket azteca (j).ngp
+:	party mail (j).ngp
+:	picture puzzle (ue) [!].ngp
+:	picture puzzle (ue) [a1].ngp
+:	pocket love if (j).ngp
+:	pocket reversi (j).ngp
+:	pocket reversi (ue).ngp
+:	pocket tennis (jue) [m][!].ngp
+:	pocket tennis (jue) [m][a1].ngp
+:	pocket tennis color (jue) [!].ngp
+:	puyo pop (v05) (jue).ngp
+:	puyo pop (v06) (jue).ngp
+:	puzzle bobble mini (v10) (ej) [!].ngp
+:	puzzle bobble mini (v9) (ej) [a1].ngp
+:	puzzle bobble mini (v9) (ej).ngp
+:	puzzle link (ue) [!].ngp
+:	puzzle link 2 (ue) [!].ngp
+:	puzzle link 2 (ue) [h1].ngp
+:	puzzle link 2 (ue) [h2].ngp
+:	puzzle tsunagete pon (j) [m].ngp
+:	puzzle tsunagete pon 2 (j).ngp
+:	puzzle tsunagete pon color (j).ngp
+:	rockman battle & fighters (j) [!].ngp
+:	rockman battle & fighters (j) [t-eng0.05_lfont].ngp
+:	rockman battle & fighters (j) [t-eng0.05_sfont].ngp
+:	rockman battle & fighters (j) [t-eng0.10].ngp
+:	samurai shodown! (jue) [m][!].ngp
+:	samurai shodown! 2 (jue) [!].ngp
+:	samurai shodown! 2 (jue) [h1].ngp
+:	shanghai mini (jue).ngp
+:	simple fractal v1.0 by tomasz slanina (pd).ngp
+:	simple fractal v1.1 by tomasz slanina (pd).ngp
+:	simple fractal vx.x by dox (pd).ngp
+:	snake (v1.0) by ivan mackintosh (pd).ngp
+:	snake (v1.1) by ivan mackintosh (pd).ngp
+:	snake (v1.2) by ivan mackintosh (pd) [a1].ngp
+:	snake (v1.2) by ivan mackintosh (pd).ngp
+:	snk vs capcom - card fighters clash - capcom version (j) [h1].ngp
+:	snk vs capcom - card fighters clash - capcom version (j).ngp
+:	snk vs capcom - card fighters clash - capcom version (ue).ngp
+:	snk vs capcom - card fighters clash - snk version (j).ngp
+:	snk vs capcom - card fighters clash - snk version (ue) [h1].ngp
+:	snk vs capcom - card fighters clash - snk version (ue).ngp
+:	snk vs capcom - card fighters clash 2 - expand edition (j) [!].ngp
+:	snk vs capcom - match of the millennium (jue) [!].ngp
+:	snk vs capcom - match of the millennium (jue) [a1][!].ngp
+:	snk vs capcom - match of the millennium (jue) [a2].ngp
+:	snk vs capcom - match of the millennium (jue) [h1].ngp
+:	snk vs capcom - match of the millennium (jue) [h2].ngp
+:	snk vs capcom - match of the millennium (jue) [t1].ngp
+:	snk vs capcom - match of the millennium (jue) [t2].ngp
+:	solitaire 1.0 by ivan mackintosh (pd).ngp
+:	sonic the hedgehog - pocket adventure (jue) [!].ngp
+:	soreike! hanafuda doujyou (j).ngp
+:	spacies (newer version) by jim bagley (pd).ngp
+:	spacies by jim bagley (pd).ngp
+:	squall (pd).ngp
+:	starfield array test by roger bacon (pd).ngp
+:	super real mahjong (j) [!].ngp
+:	super real mahjong (j) [t1].ngp
+:	super real mahjong (j) [t2].ngp
+:	syko war (bung comp entry) (pd).ngp
+:	thieves (bung comp entry) by ivan mackintosh (pd).ngp
+:	thieves v1.0 by ivan mackintosh (pd).ngp
+:	tpaint (pd).ngp
+:	unnamed jumpy platform game by roger bacon (04-18-2001) (pd).ngp
+:	unnamed jumpy platform game by roger bacon (06-06-2001) (pd).ngp
+:	wrestling madness (beta) (jue).ngp

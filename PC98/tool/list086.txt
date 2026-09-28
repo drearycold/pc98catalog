@@ -1,0 +1,519 @@
+(emu)ディスクシステムfdsエミュ本体&ROMコンプリート詰め合わせ動作確認済.zip
+6a28eb19d55b988e6fb64cf30a8f1815・49a5803fd94689d1e8a90e14e5ee0f042ae89ada
+14,157,727
+ファイル数合計 = 253 個
+ファイルサイズ合計 = 35860290 Byte
+
+:	disksystem
+:	:	FAM2DSK.EXE
+:	:	FDS2NES.EXE
+:	:	PASO2NES.EXE
+:	:	gnes
+:	:	:	disksys.rom
+:	:	:	gnes.ini
+:	:	:	log.txt
+:	:	:	nes.pal
+:	:	:	nesemu2.exe
+:	:	:	readme.txt
+:	:	:	ード.fds
+:	:	pasov12c
+:	:	:	ANK.TXT
+:	:	:	DEMO.NES
+:	:	:	DEMO2.NES
+:	:	:	DSK2PASO.DOC
+:	:	:	DSK2PASO.EXE
+:	:	:	GBTITLE.BIN
+:	:	:	INSTALL.EXE
+:	:	:	KAIRO.TXT
+:	:	:	NESTITLE.BIN
+:	:	:	PASODCV2.EXE
+:	:	:	PASOFAMI.EEE
+:	:	:	PASOFAMI.EXE
+:	:	:	PASOFAMI.IN2
+:	:	:	PASOFAMI.INI
+:	:	:	PASOFAMI.PAL
+:	:	:	RAMKAIRO.TX2
+:	:	:	RAMKAIRO.TX3
+:	:	:	RAMKAIRO.TX4
+:	:	:	RAMKAIRO.TX5
+:	:	:	RAMKAIRO.TX6
+:	:	:	RAMKAIRO.TXT
+:	:	:	REGIST.TXT
+:	:	:	TITLE.TXT
+:	:	:	UNINST.TXT
+:	:	:	VERSION.TXT
+:	:	:	WING32.DL_
+:	disksystem rom
+:	:	19　ヌイーゼン.fds
+:	:	DANDY　ゼウオンの復活.fds
+:	:	Lutter.fds
+:	:	Mr.GOLD 遠山の金さん すぺえす帖.fds
+:	:	SDガンダムワールド　ガチャポン戦士　SCRAMBLE WARS(SG1).fds
+:	:	VSエキサイトバイク.fds
+:	:	ＳＤガンダムワールド ガチャポン戦士 スクランブルウォーズ.fam
+:	:	ＳＤガンダムワールドマップコレクション.fds
+:	:	おもいっきり探偵団 覇悪怒組　魔天郎の挑戦状.fds
+:	:	かっとび！ 童子.fds
+:	:	きね子 - Kinetic Connection - The Monitor Puzzle Vol. II.fds
+:	:	きね子 - Kinetic Connection - The Monitor Puzzle.fds
+:	:	じゃあまん探偵団 魔隣組 ジゴマ捜査ファイル.fds
+:	:	じゃんけんディスク城.fds
+:	:	とびだせ大作戦.fds
+:	:	なんきんのアドベンチア ナゾラーランドシリーズ.fds
+:	:	ふぁみこんむかし話　新・鬼ヶ島.fds
+:	:	ふぁみこんむかし話　遊遊記.fds
+:	:	もえろツインビーシナモン博士をすくえ.fds
+:	:	らじかるぼんばー!! 地雷くん.fds
+:	:	アイアムアティーチャー スーパーマリオのセーター.fds
+:	:	アイアムアティーチャー 手あみのきそ.fds
+:	:	アイスクライマー(ディスク版).fds
+:	:	アイスホッケー.fds
+:	:	アスピック 魔蛇王の呪い.fds
+:	:	アップルタウン物語 - Little Computer People.fds
+:	:	アディアンの杖.fds
+:	:	アルマナの奇跡.fds
+:	:	ウィンターゲームズ.fds
+:	:	ウルトラマン2　出撃科特隊.fds
+:	:	ウルトラマン　怪獣帝国の逆襲.fds
+:	:	ウルトラマン倶楽部　地球奪還作戦.fds
+:	:	エアフット.fam
+:	:	エキサイティング サッカー コナミカップ.fds
+:	:	エキサイティング バスケット.fds
+:	:	エキサイティング ビリヤード.fds
+:	:	エキサイティング ベースボール.fds
+:	:	エスパードリーム.fds
+:	:	エッガーランド 創造への旅立ち.fds
+:	:	エッガーランド.fds
+:	:	エレクトリシャン.fds
+:	:	オトッキー.fds
+:	:	カラテチャンプ.fds
+:	:	カリーンの剣.fds
+:	:	ガルフォース ETERNAL STORY.fds
+:	:	ガンスモーク.fds
+:	:	キック&ラン.fds
+:	:	キック・チャレンジャー　エアフット　野菜の国の足戦士.fds
+:	:	キン肉マン キン肉星王位争奪戦.fds
+:	:	ギャラガ.fds
+:	:	クルクルランド(ディスク版).fds
+:	:	クレオパトラの魔宝.fds
+:	:	グーニーズ.fds
+:	:	グリーンベレー.fds
+:	:	ココナワールド.fds
+:	:	コナミック　アイスホッケー.fds
+:	:	コナミック　テニス.fds
+:	:	ゴルフ.fds
+:	:	サッカー.fds
+:	:	サムライソード.fds
+:	:	サンタクロースの宝箱.fds
+:	:	ザナック.fds
+:	:	シルヴィアーナ 愛いっぱいの冒険者.fds
+:	:	ジャイラス.fds
+:	:	スーパーボーイアラン.fds
+:	:	スーパーマリオブラザーズ.fds
+:	:	スーパーマリオブラザーズ2.fds
+:	:	スーパーマリオブラザーズ　オールナイトニッポンバージョン.fds
+:	:	スーパーロードランナー.fds
+:	:	スーパーロードランナーII.fds
+:	:	スマッシュピンポン.fds
+:	:	セーラー服　美少女図鑑 Vol1.fds
+:	:	セーラー服　美少女図鑑 Vol3.fds
+:	:	セーラー服　美少女図鑑 Vol5.fds
+:	:	セーラー服　美少女図鑑 Vol6.fds
+:	:	セクションZ.fds
+:	:	ゼビウス.fds
+:	:	ゼルダの伝説.fds
+:	:	ソロモンの鍵.fds
+:	:	タイタニックミステリー.fds
+:	:	タイムツイスト　歴史のかたすみで・・・.fds
+:	:	タマ&フレンズ 3丁目の大冒険.fds
+:	:	タロット占い.fds
+:	:	ダーティペア プロジェクトエデン.fds
+:	:	ダンディー ゼウオンの復活.fds
+:	:	ツインビー.fds
+:	:	テニス.fds
+:	:	デート de BlackJack.fds
+:	:	ディープダンジョン 魔洞戦記.fds
+:	:	ディグダグ.fds
+:	:	ディグダグII.fds
+:	:	デッドゾーン.fds
+:	:	デッドゾーン.jpg
+:	:	トップルジップ.fds
+:	:	トランスフォーマー  ザ・ヘッドマスターズ.fds
+:	:	ドクター・カオス 地獄の扉.fds
+:	:	ドラキュラII 呪いの封印.fds
+:	:	ドルイド 恐怖の扉.fds
+:	:	ドレミッコ.fds
+:	:	ドンキーコング.fds
+:	:	ドンキーコングJR.fds
+:	:	ナイト・ロアー 魔城の狼男.fds
+:	:	ナイトムーブ.fds
+:	:	ハオ君の不思議な旅.fds
+:	:	ハレーウォーズ.fds
+:	:	バーガータイム.fds
+:	:	バイオミラクル ぼくってウパ.fds
+:	:	バックギャモン.fds
+:	:	バブルボブル.fds
+:	:	バレーボール.fds
+:	:	パズルボーイズ.fds
+:	:	パチコン.fds
+:	:	パチンコグランプリ.fds
+:	:	パットパットゴルフ.fds
+:	:	パルサーの光 SPACE WARS SIMULATION.fds
+:	:	パルテナの鏡.fds
+:	:	ビックチャレンジ! GOGOボウリング.fds
+:	:	ビックチャレンジ! ガンファイター.fds
+:	:	ビックチャレンジ! ドッグファイトスピリット.fds
+:	:	ビックチャレンジ! 柔道選手権.fds
+:	:	ピンボール.fds
+:	:	ファイナルコマンド赤い要塞.fds
+:	:	ファイヤーバム.fds
+:	:	ファイヤーロック.fds
+:	:	ファミコングランプリII　3Dホットラリー.fds
+:	:	ファミコングランプリ　F1レース.fds
+:	:	ファミコン探偵倶楽部 PartII  うしろに立つ少女.fds
+:	:	ファミコン探偵倶楽部 消えた後継者.fds
+:	:	ファミマガディスクvol1 香港.fds
+:	:	ファミマガディスクvol2　パニックスペース.fds
+:	:	ファミマガディスクvol3　オール1.fds
+:	:	ファミマガディスクvol4  クロックス.fds
+:	:	ファミマガディスクvol5　ぷよぷよ.fds
+:	:	ファミマガディスクvol6  じゃんけんディスク城.fds
+:	:	ファミリーコンピュータ　オセロ.fds
+:	:	ファミリーコンピュータ　ゴルフJAPANコース 入賞.fds
+:	:	ファミリーコンピュータ　ゴルフJAPANコース.fds
+:	:	ファミリーコンピュータ　ゴルフUSコース.fds
+:	:	ファミリーコンポーザー.fds
+:	:	ファルシオン.fds
+:	:	フェアリーテイル.fds
+:	:	ブリーダー.fds
+:	:	プロゴルファー猿 影のトーナメント.fds
+:	:	プロフェッショナル　麻雀悟空.fds
+:	:	プロレス Famicom Wrestling Association.fds
+:	:	ベースボール.fds
+:	:	ボンバーマン.fds
+:	:	マーチンヴェイル.fds
+:	:	マイケルのENGLISH大冒険 マイケルの単語帳(初級編).fds
+:	:	マグマプロジェクト ハッカー.fds
+:	:	ムーンボールマジック.fds
+:	:	メトロイド.fds
+:	:	メルヘンヴェール.fds
+:	:	モンティのドキドキ大脱走.fds
+:	:	リサの妖精伝説.fds
+:	:	リップスティック.fam
+:	:	リップスティック2.fam
+:	:	リップスティック3.fam
+:	:	リップスティック5.fam
+:	:	リップスティック４.fam
+:	:	リフレクトワールド.fds
+:	:	リンクの冒険.fds
+:	:	レッキングクルー.fds
+:	:	レプリカート.fds
+:	:	レリクス　暗黒要塞.fds
+:	:	ロジャーラビット.fds
+:	:	ワードナの森.fds
+:	:	亜紀とつかさの不思議の壁.fds
+:	:	亜空戦記ライジン.fds
+:	:	愛戦士ニコル.fds
+:	:	悪魔城ドラキュラ ２.fds
+:	:	悪魔城ドラキュラ.fds
+:	:	囲碁  九路盤対局.fds
+:	:	仮面ライダーBLACK 対決 シャドームーン.fds
+:	:	奇々怪界 怒涛編.fds
+:	:	機動警察パトレイバー.fds
+:	:	帰ってきたマリオブラザーズ.fds
+:	:	極楽遊戯.fds
+:	:	銀河伝承 GALAXY ODYSSEY.fds
+:	:	光GENJIローラーパニック.fds
+:	:	光神話パルテナの鏡.fds
+:	:	子猫物語 THE ADVENTURES OF CHATRAN.fds
+:	:	磁界少年メット・マグ.fds
+:	:	小林ひとみのホールドアップ.fds
+:	:	消えたプリンセス.fds
+:	:	水晶の龍.fds
+:	:	聖剣サイコカリバー 魔獣の森伝説.fds
+:	:	石道.fds
+:	:	谷川浩司の将棋指南II 詰め将棋.fds
+:	:	探偵神宮寺三郎 危険な二人.fds
+:	:	探偵神宮寺三郎　新宿中央公園殺人事件.fds
+:	:	地底大陸オルドーラ.fds
+:	:	中山美穂のトキメキハイスクール.fds
+:	:	謎のマガジンディスク　ナゾラーランド　創刊号.fds
+:	:	謎のマガジンディスク　ナゾラーランド　増刊号　クイズ王を探せ.fds
+:	:	謎のマガジンディスク　ナゾラーランド　第2号.fds
+:	:	謎のマガジンディスク　ナゾラーランド　第3号.fds
+:	:	謎の村雨城.fds
+:	:	謎の壁 ブロックくずし.fds
+:	:	爆闘士パットンくん COMMUNICATION BATTLE.fds
+:	:	美少女SFエイリアンバトル.fds
+:	:	美少女コントロール.fds
+:	:	美少女セクシーダービー.fsd
+:	:	美少女写真館.fds
+:	:	美少女麻雀倶楽部.fds
+:	:	風雲小林拳 暗黒の魔王.fds
+:	:	風雲小林拳.fds
+:	:	麻雀(CHR1).fds
+:	:	麻雀家族.fds
+:	:	夢工場ドキドキパニック.fds
+:	:	迷宮寺院ダババ.fds
+:	:	迷宮人　ダババ .fds
+:	:	勇士の紋章　ディープダンジョンII.fds
+:	:	遊メイズ.fds
+:	:	遊遊記.fds
+:	:	妖怪屋敷.fds
+:	:	涙の倉庫版 SPECIAL.fds
+
+
+各ファイルのサイズ
+FAM2DSK.EXE,51712 Byte
+FDS2NES.EXE,167975 Byte
+PASO2NES.EXE,53248 Byte
+disksys.rom,8192 Byte
+gnes.ini,6124 Byte
+log.txt,3061 Byte
+nes.pal,192 Byte
+nesemu2.exe,446464 Byte
+readme.txt,6392 Byte
+ード.fds,131016 Byte
+ANK.TXT,1958 Byte
+DEMO.NES,40976 Byte
+DEMO2.NES,40976 Byte
+DSK2PASO.DOC,228 Byte
+DSK2PASO.EXE,30208 Byte
+GBTITLE.BIN,75840 Byte
+INSTALL.EXE,188456 Byte
+KAIRO.TXT,8369 Byte
+NESTITLE.BIN,122944 Byte
+PASODCV2.EXE,88064 Byte
+PASOFAMI.EEE,1265702 Byte
+PASOFAMI.EXE,1257510 Byte
+PASOFAMI.IN2,2909 Byte
+PASOFAMI.INI,2827 Byte
+PASOFAMI.PAL,768 Byte
+RAMKAIRO.TX2,16495 Byte
+RAMKAIRO.TX3,19330 Byte
+RAMKAIRO.TX4,19214 Byte
+RAMKAIRO.TX5,16552 Byte
+RAMKAIRO.TX6,16548 Byte
+RAMKAIRO.TXT,10428 Byte
+REGIST.TXT,3599 Byte
+TITLE.TXT,70250 Byte
+UNINST.TXT,465 Byte
+VERSION.TXT,26262 Byte
+WING32.DL_,12800 Byte
+19　ヌイーゼン.fds,262016 Byte
+DANDY　ゼウオンの復活.fds,262016 Byte
+Lutter.fds,131016 Byte
+Mr.GOLD 遠山の金さん すぺえす帖.fds,131016 Byte
+SDガンダムワールド　ガチャポン戦士　SCRAMBLE WARS(SG1).fds,131016 Byte
+VSエキサイトバイク.fds,262016 Byte
+おもいっきり探偵団 覇悪怒組　魔天郎の挑戦状.fds,131016 Byte
+かっとび！ 童子.fds,131016 Byte
+きね子 - Kinetic Connection - The Monitor Puzzle Vol. II.fds,131016 Byte
+きね子 - Kinetic Connection - The Monitor Puzzle.fds,131016 Byte
+じゃあまん探偵団 魔隣組 ジゴマ捜査ファイル.fds,131016 Byte
+じゃんけんディスク城.fds,131016 Byte
+とびだせ大作戦.fds,131016 Byte
+なんきんのアドベンチア ナゾラーランドシリーズ.fds,131016 Byte
+ふぁみこんむかし話　新・鬼ヶ島.fds,262016 Byte
+ふぁみこんむかし話　遊遊記.fds,262016 Byte
+もえろツインビーシナモン博士をすくえ.fds,131016 Byte
+らじかるぼんばー!! 地雷くん.fds,131016 Byte
+アイアムアティーチャー スーパーマリオのセーター.fds,131016 Byte
+アイアムアティーチャー 手あみのきそ.fds,131016 Byte
+アイスクライマー(ディスク版).fds,65516 Byte
+アイスホッケー.fds,65516 Byte
+アスピック 魔蛇王の呪い.fds,131016 Byte
+アップルタウン物語 - Little Computer People.fds,131016 Byte
+アディアンの杖.fds,131016 Byte
+アルマナの奇跡.fds,131016 Byte
+ウィンターゲームズ.fds,131016 Byte
+ウルトラマン2　出撃科特隊.fds,131016 Byte
+ウルトラマン　怪獣帝国の逆襲.fds,131016 Byte
+ウルトラマン倶楽部　地球奪還作戦.fds,262016 Byte
+エアフット.fam,324016 Byte
+エキサイティング サッカー コナミカップ.fds,65516 Byte
+エキサイティング バスケット.fds,131016 Byte
+エキサイティング ビリヤード.fds,131016 Byte
+エキサイティング ベースボール.fds,131016 Byte
+エスパードリーム.fds,131016 Byte
+エッガーランド 創造への旅立ち.fds,131016 Byte
+エッガーランド.fds,131016 Byte
+エレクトリシャン.fds,131016 Byte
+オトッキー.fds,131016 Byte
+カラテチャンプ.fds,131016 Byte
+カリーンの剣.fds,131016 Byte
+ガルフォース ETERNAL STORY.fds,131016 Byte
+ガンスモーク.fds,131016 Byte
+キック&ラン.fds,131016 Byte
+キック・チャレンジャー　エアフット　野菜の国の足戦士.fds,131016 Byte
+キン肉マン キン肉星王位争奪戦.fds,131016 Byte
+ギャラガ.fds,65516 Byte
+クルクルランド(ディスク版).fds,65516 Byte
+クレオパトラの魔宝.fds,131016 Byte
+グリーンベレー.fds,131016 Byte
+グーニーズ.fds,65516 Byte
+ココナワールド.fds,131016 Byte
+コナミック　アイスホッケー.fds,131016 Byte
+コナミック　テニス.fds,131016 Byte
+ゴルフ.fds,65516 Byte
+サッカー.fds,65516 Byte
+サムライソード.fds,131016 Byte
+サンタクロースの宝箱.fds,131016 Byte
+ザナック.fds,65516 Byte
+シルヴィアーナ 愛いっぱいの冒険者.fds,131016 Byte
+ジャイラス.fds,131016 Byte
+スマッシュピンポン.fds,65516 Byte
+スーパーボーイアラン.fds,131016 Byte
+スーパーマリオブラザーズ.fds,65516 Byte
+スーパーマリオブラザーズ2.fds,65516 Byte
+スーパーマリオブラザーズ　オールナイトニッポンバージョン.fds,65516 Byte
+スーパーロードランナー.fds,131016 Byte
+スーパーロードランナーII.fds,131016 Byte
+セクションZ.fds,131016 Byte
+セーラー服　美少女図鑑 Vol1.fds,262016 Byte
+セーラー服　美少女図鑑 Vol3.fds,262016 Byte
+セーラー服　美少女図鑑 Vol5.fds,262016 Byte
+セーラー服　美少女図鑑 Vol6.fds,262016 Byte
+ゼビウス.fds,65516 Byte
+ゼルダの伝説.fds,131016 Byte
+ソロモンの鍵.fds,65516 Byte
+タイタニックミステリー.fds,131016 Byte
+タイムツイスト　歴史のかたすみで・・・.fds,262016 Byte
+タマ&フレンズ 3丁目の大冒険.fds,131016 Byte
+タロット占い.fds,131016 Byte
+ダンディー ゼウオンの復活.fds,131016 Byte
+ダーティペア プロジェクトエデン.fds,131016 Byte
+ツインビー.fds,65516 Byte
+テニス.fds,65516 Byte
+ディグダグ.fds,65516 Byte
+ディグダグII.fds,65516 Byte
+ディープダンジョン 魔洞戦記.fds,131016 Byte
+デッドゾーン.fds,131016 Byte
+デッドゾーン.jpg,30630 Byte
+デート de BlackJack.fds,262016 Byte
+トップルジップ.fds,131016 Byte
+トランスフォーマー  ザ・ヘッドマスターズ.fds,131016 Byte
+ドクター・カオス 地獄の扉.fds,131016 Byte
+ドラキュラII 呪いの封印.fds,131016 Byte
+ドルイド 恐怖の扉.fds,131016 Byte
+ドレミッコ.fds,131016 Byte
+ドンキーコング.fds,262016 Byte
+ドンキーコングJR.fds,262016 Byte
+ナイトムーブ.fds,65516 Byte
+ナイト・ロアー 魔城の狼男.fds,131016 Byte
+ハオ君の不思議な旅.fds,131016 Byte
+ハレーウォーズ.fds,131016 Byte
+バイオミラクル ぼくってウパ.fds,131016 Byte
+バックギャモン.fds,262016 Byte
+バブルボブル.fds,131016 Byte
+バレーボール.fds,65516 Byte
+バーガータイム.fds,262016 Byte
+パズルボーイズ.fds,131016 Byte
+パチコン.fds,65516 Byte
+パチンコグランプリ.fds,131016 Byte
+パットパットゴルフ.fds,131016 Byte
+パルサーの光 SPACE WARS SIMULATION.fds,131016 Byte
+パルテナの鏡.fds,262016 Byte
+ビックチャレンジ! GOGOボウリング.fds,131016 Byte
+ビックチャレンジ! ガンファイター.fds,131016 Byte
+ビックチャレンジ! ドッグファイトスピリット.fds,131016 Byte
+ビックチャレンジ! 柔道選手権.fds,131016 Byte
+ピンボール.fds,65516 Byte
+ファイナルコマンド赤い要塞.fds,131016 Byte
+ファイヤーバム.fds,131016 Byte
+ファイヤーロック.fds,131016 Byte
+ファミコングランプリII　3Dホットラリー.fds,131016 Byte
+ファミコングランプリ　F1レース.fds,131016 Byte
+ファミコン探偵倶楽部 PartII  うしろに立つ少女.fds,262016 Byte
+ファミコン探偵倶楽部 消えた後継者.fds,262016 Byte
+ファミマガディスクvol1 香港.fds,65516 Byte
+ファミマガディスクvol2　パニックスペース.fds,131016 Byte
+ファミマガディスクvol3　オール1.fds,65516 Byte
+ファミマガディスクvol4  クロックス.fds,65516 Byte
+ファミマガディスクvol5　ぷよぷよ.fds,131016 Byte
+ファミマガディスクvol6  じゃんけんディスク城.fds,131016 Byte
+ファミリーコンピュータ　オセロ.fds,65516 Byte
+ファミリーコンピュータ　ゴルフJAPANコース 入賞.fds,131016 Byte
+ファミリーコンピュータ　ゴルフJAPANコース.fds,131016 Byte
+ファミリーコンピュータ　ゴルフUSコース.fds,131016 Byte
+ファミリーコンポーザー.fds,131016 Byte
+ファルシオン.fds,131016 Byte
+フェアリーテイル.fds,131016 Byte
+ブリーダー.fds,262016 Byte
+プロゴルファー猿 影のトーナメント.fds,131016 Byte
+プロフェッショナル　麻雀悟空.fds,262016 Byte
+プロレス Famicom Wrestling Association.fds,65516 Byte
+ベースボール.fds,65516 Byte
+ボンバーマン.fds,65516 Byte
+マイケルのENGLISH大冒険 マイケルの単語帳(初級編).fds,131016 Byte
+マグマプロジェクト ハッカー.fds,131016 Byte
+マーチンヴェイル.fds,131016 Byte
+ムーンボールマジック.fds,131016 Byte
+メトロイド.fds,131016 Byte
+メルヘンヴェール.fds,131016 Byte
+モンティのドキドキ大脱走.fds,131016 Byte
+リサの妖精伝説.fds,131016 Byte
+リップスティック.fam,324041 Byte
+リップスティック2.fam,324041 Byte
+リップスティック3.fam,324041 Byte
+リップスティック5.fam,324041 Byte
+リップスティック４.fam,324041 Byte
+リフレクトワールド.fds,131016 Byte
+リンクの冒険.fds,131016 Byte
+レッキングクルー.fds,65516 Byte
+レプリカート.fds,131016 Byte
+レリクス　暗黒要塞.fds,131016 Byte
+ロジャーラビット.fds,131016 Byte
+ワードナの森.fds,131016 Byte
+中山美穂のトキメキハイスクール.fds,262016 Byte
+亜空戦記ライジン.fds,131016 Byte
+亜紀とつかさの不思議の壁.fds,131016 Byte
+仮面ライダーBLACK 対決 シャドームーン.fds,131016 Byte
+光GENJIローラーパニック.fds,131016 Byte
+光神話パルテナの鏡.fds,131016 Byte
+勇士の紋章　ディープダンジョンII.fds,131016 Byte
+囲碁  九路盤対局.fds,131016 Byte
+地底大陸オルドーラ.fds,131016 Byte
+夢工場ドキドキパニック.fds,262016 Byte
+奇々怪界 怒涛編.fds,131016 Byte
+妖怪屋敷.fds,131016 Byte
+子猫物語 THE ADVENTURES OF CHATRAN.fds,131016 Byte
+小林ひとみのホールドアップ.fds,262016 Byte
+帰ってきたマリオブラザーズ.fds,262016 Byte
+悪魔城ドラキュラ ２.fds,262016 Byte
+悪魔城ドラキュラ.fds,131016 Byte
+愛戦士ニコル.fds,131016 Byte
+探偵神宮寺三郎 危険な二人.fds,262016 Byte
+探偵神宮寺三郎　新宿中央公園殺人事件.fds,131016 Byte
+極楽遊戯.fds,131016 Byte
+機動警察パトレイバー.fds,131016 Byte
+水晶の龍.fds,131016 Byte
+消えたプリンセス.fds,131016 Byte
+涙の倉庫版 SPECIAL.fds,131016 Byte
+爆闘士パットンくん COMMUNICATION BATTLE.fds,131016 Byte
+石道.fds,131016 Byte
+磁界少年メット・マグ.fds,262016 Byte
+美少女SFエイリアンバトル.fds,131016 Byte
+美少女コントロール.fds,131016 Byte
+美少女セクシーダービー.fsd,131016 Byte
+美少女写真館.fds,262016 Byte
+美少女麻雀倶楽部.fds,131016 Byte
+聖剣サイコカリバー 魔獣の森伝説.fds,131016 Byte
+謎のマガジンディスク　ナゾラーランド　創刊号.fds,131016 Byte
+謎のマガジンディスク　ナゾラーランド　増刊号　クイズ王を探せ.fds,131016 Byte
+謎のマガジンディスク　ナゾラーランド　第2号.fds,131016 Byte
+謎のマガジンディスク　ナゾラーランド　第3号.fds,131016 Byte
+謎の壁 ブロックくずし.fds,131016 Byte
+謎の村雨城.fds,131016 Byte
+谷川浩司の将棋指南II 詰め将棋.fds,131016 Byte
+迷宮人　ダババ .fds,131016 Byte
+迷宮寺院ダババ.fds,131016 Byte
+遊メイズ.fds,131016 Byte
+遊遊記.fds,262016 Byte
+銀河伝承 GALAXY ODYSSEY.fds,131016 Byte
+風雲小林拳 暗黒の魔王.fds,131016 Byte
+風雲小林拳.fds,131016 Byte
+麻雀(CHR1).fds,65516 Byte
+麻雀家族.fds,131016 Byte
+ＳＤガンダムワールド ガチャポン戦士 スクランブルウォーズ.fam,324041 Byte
+ＳＤガンダムワールドマップコレクション.fds,262016 Byte

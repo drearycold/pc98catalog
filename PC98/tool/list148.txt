@@ -1,0 +1,124 @@
+(ROM) NEC PC98xx - HDI 118Games (TOSEC 0.22) (rr5%).rar
+644,253,809
+5d9bd08b126f6037e7a73f140a62c431ÅE0da551848b5e3a838be75ed50ed8f3f2eb85fa43
+
+:	NEC PC98xx - HDIhave.txt
+:	NEC PC98xx - HDI
+:	:	2 Shot Diary (1993)(Mink).hdi
+:	:	3 Tsu no Negai (1995)(Apple Pie).hdi
+:	:	Advanced Power Dolls 2 (1996)(Kogado).hdi
+:	:	Akiko (1993)(Ides).hdi
+:	:	Akumu - Aoi Kazitu no Sanka (1996)(Studio Mobius).hdi
+:	:	Akumu - Aoi Kazitu no Sanka (1996)(Studio Mobius)[a2].hdi
+:	:	Akumu - Aoi Kazitu no Sanka (1996)(Studio Mobius)[a].hdi
+:	:	Ambivalense (19xx)(Studio Mobius).hdi
+:	:	Animahjong X Perfect (1994)(Sogna).hdi
+:	:	Ayayo 3 (19xx)(Tomes Suzuki).hdi
+:	:	Beyond - Kurotaisyo ni Mirareteru (1996)(Silky's).hdi
+:	:	Binyu Hunter (1995)(T2).hdi
+:	:	Blind Games (1996)(May-Be Soft).hdi
+:	:	Bounty Hunter Lady (1996)(ScooP).hdi
+:	:	Bounty Hunter Lady (1996)(ScooP)[a2].hdi
+:	:	Bounty Hunter Lady (1996)(ScooP)[a].hdi
+:	:	Brandish 3 (1994)(Falcom).hdi
+:	:	Branmarker II (1995)(D.O.).hdi
+:	:	Branmarker II (1995)(D.O.)[a].hdi
+:	:	Briganty (1995)(Giga).hdi
+:	:	Can Can Bunny 5 Extra (1993)(Cocktail Soft).hdi
+:	:	Can Can Bunny 5 and half Limited (1994)(Cocktail Soft).hdi
+:	:	Carat (1992)(Custom) & Teens (1995)(Custom) & Star Platinum (1996)(Custom).hdi
+:	:	Carat (1992)(Custom).hdi
+:	:	Carat (1992)(Custom)[a].hdi
+:	:	Custom Mate 3 (1995)(Cocktail Soft).hdi
+:	:	Cyber Illusion (1995)(Pearl Soft).hdi
+:	:	Cyber Illusion (1995)(Pearl Soft)[a].hdi
+:	:	Dengeki Nurse (1992)(Cocktail Soft).hdi
+:	:	Dengeki Nurse (1992)(Cocktail Soft)[a].hdi
+:	:	Dengeki Nurse 2 - More Sexy (1994)(Cocktail Soft).hdi
+:	:	Desire (1994)(C's Ware).hdi
+:	:	Desire (1994)(C's Ware)[a].hdi
+:	:	Dr. 2 Night Jiyanki (19xx)(Fairy Tale).hdi
+:	:	Dragon Knight 3 (1991)(Elf).hdi
+:	:	Elle (1991)(Elf).hdi
+:	:	Eve - Burst Error (1995)(C's Ware).hdi
+:	:	Eve - Burst Error (1995)(C's Ware)[a].hdi
+:	:	Eye Of The Beholder III - Assault On Myth Drannor (1993)(Ving).hdi
+:	:	Farland Story 6 (1995)(TGL).hdi
+:	:	Farland Story 7 (1995)(TGL).hdi
+:	:	Gakuen Sodom (1995)(PIL).hdi
+:	:	GaoGao! 1st Radical Sequence (1994)(4x9).hdi
+:	:	GaoGao! 2nd Pandora Wood (1994)(4x9).hdi
+:	:	GaoGao! 3rd Wild Force Overture (1994)(4x9).hdi
+:	:	Garudius 95 (1995)(Co2pro).hdi
+:	:	Ginga Eiyu Densetsu 4 (19xx)(Bothtec).hdi
+:	:	Gloria (1996)(C's Ware).hdi
+:	:	Gloria (1996)(C's Ware)[a].hdi
+:	:	Gold - Queen of Adult (1994)(Fairy Tale Red-Zone).hdi
+:	:	Harlem Blade (1996)(Giga).hdi
+:	:	Horny Sweeper 2 (1995)(Mugen).hdi
+:	:	Hoshinosuna Monogatari 2 (1992)(D.O.).hdi
+:	:	Hoshinosuna Monogatari 2 (1992)(D.O.)[a].hdi
+:	:	Hoshinosuna Monogatari 3 (1995)(D.O.).hdi
+:	:	Immoral Study 1 (1995)(ScooP).hdi
+:	:	Immoral Study 2 (1995)(ScooP).hdi
+:	:	Immoral Study 3 (1995)(ScooP).hdi
+:	:	Injiu Genmu 1 (1993)(Ringer Bell).hdi
+:	:	Irium (1993)(Orange House).hdi
+:	:	Irium (1993)(Orange House)[a2].hdi
+:	:	Irium (1993)(Orange House)[a].hdi
+:	:	Isaku (1995)(Elf).hdi
+:	:	Jack - Haitoku no Megami (1995)(Silky's).hdi
+:	:	Kaien (19xx)(-).hdi
+:	:	Kakyusei (1996)(Elf).hdi
+:	:	Kankin (1995)(Illusion).hdi
+:	:	Kawarazakike no Ichizoku (1993)(Silky's).hdi
+:	:	Kito Joshi Keimushiyo (1994)(Illusion).hdi
+:	:	Konoyono Hatade Koiwo Utau Syozyo Yu-No (1996)(Elf).hdi
+:	:	Kotetsu no Daibouken (19xx)(T2).hdi
+:	:	Kounai Shasei 1 (1991)(Fairy Tale).hdi
+:	:	Kounai Shasei 2 (1991)(Fairy Tale).hdi
+:	:	Kounai Shasei 3 (1991)(Fairy Tale).hdi
+:	:	Kusuriyubi no Kyoukashiyo (1996)(Active Software).hdi
+:	:	La Blue Girl (1996)(Dezcrima).hdi
+:	:	Lakers 3 (1996)(Apple Pie).hdi
+:	:	Love Escalator (1998)(Umitsuki Productions).hdi
+:	:	Magical Angel Creamy Mami (19xx)(WishBone).hdi
+:	:	Magical Panic (1996)(Pearl Soft).hdi
+:	:	Magical Panic (1996)(Pearl Soft)[a].hdi
+:	:	Magical Princess Minky Momo (19xx)(WishBone).hdi
+:	:	Mahou Shoujo Fansi CoCo (19xx)(-).hdi
+:	:	Marion (1994)(May-Be Soft).hdi
+:	:	Marionette Mind (1993)(Studio Milk).hdi
+:	:	Metal Eye (1993)(Elf).hdi
+:	:	Mikosan Fight (19xx)(Mushroom).hdi
+:	:	Mirror (19xx)(Studio Twin'kle).hdi
+:	:	Mugen Yasou Kyoku (1995)(Apricot).hdi
+:	:	Net Guardian (19xx)(Moguraya Soft).hdi
+:	:	Ningyotukai 2 (1996)(Forest).hdi
+:	:	Popful Mail (1992)(Falcom).hdi
+:	:	Power Dolls 2 Dash (1995)(Kogado Software Products).hdi
+:	:	Queen Of Duelist Gaiden Alpha, The (19xx)(Agumix).hdi
+:	:	Rinkan Gakko (1994)(Foster).hdi
+:	:	Rookies (19xx)(Umitsuki Production).hdi
+:	:	Russian Mahjong Harasyo (1995)(Apple Pie).hdi
+:	:	Rusty (19xx)(C-Lab).hdi
+:	:	Sayonara no Mukougawa (19xx)(Foster).hdi
+:	:	Snow Memory (19xx)(Birdy Soft).hdi
+:	:	Star Platinum (1996)(Custom).hdi
+:	:	Steam Heart's (1994)(Giga).hdi
+:	:	Steel Gun Nyan (19xx)(Studio Genmaitya).hdi
+:	:	Super Real Mahjong P2, P3 & P4 (1992-4)(Ving).hdi
+:	:	Sword Dancer 93 (19xx)(TGL).hdi
+:	:	Teens (1995)(Custom).hdi
+:	:	Teens (1995)(Custom)[a].hdi
+:	:	Toomei Ningen Arawaru (1993)(Fairy Tale).hdi
+:	:	Valkyrie (1995)(Discovery Software).hdi
+:	:	Viper BTR (1996)(Sogna).hdi
+:	:	Waku Waku Mahjong Panic (1995)(4x9).hdi
+:	:	Waku Waku Mahjong Panic 2 (1995)(4x9).hdi
+:	:	Wedding Peach (1996)(KSS).hdi
+:	:	World Of Monster Maker, The (1993)(Wiz).hdi
+:	:	Youthful Eager Stories (1993)(Himeya Soft).hdi
+:	:	Yuugiri (1996)(Desire).hdi
+:	:	Zenith (1994)(Himeya Soft).hdi
+:	:	Zyojyu (19xx)(D.O.).hdi

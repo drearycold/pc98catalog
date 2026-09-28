@@ -1,0 +1,37 @@
+:	3d tetris (u) [!].vb
+:	croach, the (pd).vb
+:	galactic pinball (ju) [!].vb
+:	golf (u) [!].vb
+:	insane mouse mansion (j) [!].vb
+:	jack bros (j) [!].vb
+:	jack bros (u) [!].vb
+:	mario clash (ju) [!].vb
+:	mario clash (ju) [b1].vb
+:	mario's tennis (ju) [!].vb
+:	mario's tennis (ju) [a1].vb
+:	nester's funky bowling (u) [!].vb
+:	nester's funky bowling (u) [b1].vb
+:	nester's funky bowling (u) [b2].vb
+:	panic bomber (j) [!].vb
+:	panic bomber (u) [!].vb
+:	panic bomber (u) [b1].vb
+:	reality boy demo 1 (pd).vb
+:	reality boy demo 2 (pd).vb
+:	red alarm (j) [!].vb
+:	red alarm (u) [!].vb
+:	space squash (j) [!].vb
+:	t&e virtual golf (j) [!].vb
+:	teleroboxer (ju) [!].vb
+:	v tetris (j) [!].vb
+:	vertical force (j) [!].vb
+:	vertical force (u) [!].vb
+:	virtual boy wario land (ju) [!].vb
+:	virtual fishing (j) [!].vb
+:	virtual golf (j).vb
+:	virtual league baseball (u) [!].vb
+:	virtual league baseball (u) [a1].vb
+:	virtual pong (pd).vb
+:	virtual pro yakyuu '95 (j) [!].vb
+:	virtual-e cursor demo (pd).vb
+:	waterworld (u) [!].vb
+:	waterworld (u) [b1].vb

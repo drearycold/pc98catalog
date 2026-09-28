@@ -1,0 +1,299 @@
+:	FDS
+:	:	19 - Neunzehn.fds
+:	:	Adian no Tsue (Chinou Game Series).fds
+:	:	Ai Senshi Nicol.fds
+:	:	Aki to Tsukasa no Fushigi no Kabe (UNL).fds
+:	:	Akuma Jou Dracula (v1.0).fds
+:	:	Akuma Jou Dracula (v1.2) (HACK) (crc-F180BE62).fds
+:	:	Akuma Jou Dracula (v1.2) (HACK) [crc-4F50E98E].fds
+:	:	Akuma Jou Dracula (v1.2) (HACK).fds
+:	:	Akuma Jou Dracula (v1.2) (crc-65C4F1C3).fds
+:	:	Akuma Jou Dracula (v1.2).fds
+:	:	Akuu Senki Raijin.fds
+:	:	All Night Nippon Super Mario Bros.fds
+:	:	All One - Famimaga Disk Vol. 3 (crc-98C9EA35).fds
+:	:	All One - Famimaga Disk Vol. 3.fds
+:	:	Apple Town Story - Little Computer People.fds
+:	:	Arumana no Kiseki (HACK).fds
+:	:	Arumana no Kiseki.fds
+:	:	Aspic - Majaou no Noroi.fds
+:	:	Backgammon.fds
+:	:	Bakutoushi Patton Kun.fds
+:	:	Baseball.fds
+:	:	Big Challenge! Dogfight Spirit.fds
+:	:	Big Challenge! Go! Go! Bowling.fds
+:	:	Big Challenge! Gun Fighter.fds
+:	:	Big Challenge! Juudou Senshuken.fds
+:	:	Bio Miracle Bokutte Upa [crc-88F4A912].fds
+:	:	Bio Miracle Bokutte Upa.fds
+:	:	Bishoujo Control (UNL).fds
+:	:	Bishoujo Mahjong Club (UNL).fds
+:	:	Bishoujo SF Alien Battle (UNL).fds
+:	:	Bishoujo Sexy Derby (English).fds
+:	:	Bishoujo Sexy Derby (UNL).fds
+:	:	Bishoujo Sexy Slot (UNL).fds
+:	:	Bishoujo Shashinkan - Studio Cut (UNL).fds
+:	:	Bomberman.fds
+:	:	Breeder.fds
+:	:	Bubble Bobble.fds
+:	:	Burger Time.fds
+:	:	Casino de Pink (UNL).fds
+:	:	Chitei Tairiku Orudoora (Chinou Game Series 3).fds
+:	:	City Connection (Pirate).fds
+:	:	Cleopatra no Mahou.fds
+:	:	Clox - Famimaga Disk Vol. 4.fds
+:	:	Clu Clu Land - Welcome to New Cluclu Land.fds
+:	:	Cocona World.fds
+:	:	Dandy (Zeuon no Fukkatsu).fds
+:	:	Date de Blackjack (Hayama Reiko no) (UNL).fds
+:	:	Dead Zone [1-74f67b89].fds
+:	:	Dead Zone.fds
+:	:	Deep Dungeon (Madou Senki).fds
+:	:	Dig Dug II.fds
+:	:	Dig Dug.fds
+:	:	Dirty Pair - Project Eden.fds
+:	:	Donkey Kong Jr.fds
+:	:	Donkey Kong.fds
+:	:	Doremikko.fds
+:	:	Dr. Chaos (Jigoku no Tobira).fds
+:	:	Dracula II - Noroi no Fuuin.fds
+:	:	Druid - Kyoufu no Tobira.fds
+:	:	Eggerland - Souzou heno Tabidachi.fds
+:	:	Eggerland.fds
+:	:	Electrician.fds
+:	:	Esper Dream (v1.0) (crc-3E339ccd).fds
+:	:	Esper Dream (v1.0) [2-9833bd7f].fds
+:	:	Esper Dream (v1.0).fds
+:	:	Esper Dream (v1.1) [2-7a27e52d].fds
+:	:	Esper Dream (v1.1).fds
+:	:	Exciting Baseball [1-8589e82d].fds
+:	:	Exciting Baseball.fds
+:	:	Exciting Basket [crc-BA14054D].fds
+:	:	Exciting Basket.fds
+:	:	Exciting Billiard.fds
+:	:	Exciting Soccer - Konami Cup [2-dda23df6].fds
+:	:	Exciting Soccer - Konami Cup.fds
+:	:	Fairytale.fds
+:	:	Falsion [1-bf361bc5].fds
+:	:	Falsion.fds
+:	:	Famicom Grand Prix - F1 Race [crc-BB7DBD33].fds
+:	:	Famicom Grand Prix - F1 Race.fds
+:	:	Famicom Grand Prix II - 3D Hot Rally.fds
+:	:	Famicom Mukashi Banashi - Shin Onigashima [1-32ffdd1f] [2-1a7dd54f] [3-8650c7ca] [4-0e4e4b45].fds
+:	:	Famicom Mukashi Banashi - Shin Onigashima [1-8e2318e6] [2-263c54a1] [3-6b7a7a0c] [4-b17d3690].fds
+:	:	Famicom Mukashi Banashi - Shin Onigashima.fds
+:	:	Famicom Mukashi Banashi - Yuu Yuu Ki.fds
+:	:	Famicom Tantei Club - Kieta Koukeisha [1-bf57f84b] [2-84a0dca4] [3-f16f5160] [4-8e4e8f87].fds
+:	:	Famicom Tantei Club - Kieta Koukeisha.fds
+:	:	Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo [1-4edf9999] [2-a4a00857] [3-8ea57e69] [4-1b487f7b].fds
+:	:	Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo.fds
+:	:	Family Composer.fds
+:	:	Family Computer - Golf Japan Course.fds
+:	:	Family Computer - Golf U.S. Course.fds
+:	:	Family Computer - Othello.fds
+:	:	Final Commando - Akai Yousai (alt).fds
+:	:	Final Commando - Akai Yousai.fds
+:	:	Fire Bam.fds
+:	:	Fire Rock.fds
+:	:	Fuuun Shourinken - Ankoku no Maou.fds
+:	:	Fuuun Shourinken.fds
+:	:	Galaga.fds
+:	:	Galaxian.fds
+:	:	Gall Force - Eternal Story.fds
+:	:	Game Tengoku (Gokuraku Yuugi).fds
+:	:	Ginga Denshou - Galaxy Odyssey.fds
+:	:	Golf (v1.1).fds
+:	:	Golf Japan Course - Nyuushou (HACK) (crc-158C1DE9).fds
+:	:	Golf Japan Course - Nyuushou (HACK).fds
+:	:	Goonies, The (crc-0D38943E).fds
+:	:	Goonies, The.fds
+:	:	Green Beret (HACK).fds
+:	:	Green Beret.fds
+:	:	Gun.Smoke [1-46601785] [2-24ba04b4].fds
+:	:	Gun.Smoke.fds
+:	:	Gyruss.fds
+:	:	Halley Wars.fds
+:	:	Hao Kun no Fushigina Tabi.fds
+:	:	Hikari Shinwa - Parutena no Kagami (v1.1) [1-cc548533].fds
+:	:	Hikari Shinwa - Parutena no Kagami (v1.1).fds
+:	:	Hikaru Genji - Roller Panic.fds
+:	:	Hong Kong - Famimaga Disk Vol. 1.fds
+:	:	I am a Teacher (Super Mario no Sweater).fds
+:	:	I am a Teacher (Teami no Kiso).fds
+:	:	Ice Climber (crc-C1A16C02).fds
+:	:	Ice Climber.fds
+:	:	Ice Hockey.fds
+:	:	Igo (Kyuuroban Taikyoku).fds
+:	:	Ishido.fds
+:	:	Jaaman Tanteidan Marin Gumi (Maruhi Jigoma Sousa File).fds
+:	:	Janken Disk Jou - Famimaga Disk Vol. 6.fds
+:	:	Jikai Shounen Met Mag [2-c2a8fa9d].fds
+:	:	Jikai Shounen Met Mag.fds
+:	:	Kaettekita Mario Bros (alt).fds
+:	:	Kaettekita Mario Bros (crc-5B038028).fds
+:	:	Kaettekita Mario Bros [1-58b8b332] [2-bcb3d134].fds
+:	:	Kaettekita Mario Bros [2-eb1cc47b].fds
+:	:	Kaettekita Mario Bros.fds
+:	:	Kalin no Tsurugi (BAD1).fds
+:	:	Kalin no Tsurugi (BAD2).fds
+:	:	Kalin no Tsurugi.fds
+:	:	Kamen Rider Black - Taiketsu Shadow Moon (alt).fds
+:	:	Kamen Rider Black - Taiketsu Shadow Moon.fds
+:	:	Karate Champ.fds
+:	:	Kattobi! Douji.fds
+:	:	Kick Challenger - Air Foot (Yasai no Kuni no Ashi Senshi).fds
+:	:	Kick and Run.fds
+:	:	Kieta Princess.fds
+:	:	Kiki Kaikai - Dotou Hen (v1.1).fds
+:	:	Kineko - Kinetic Connection - The Monitor Puzzle Vol. II.fds
+:	:	Kineko - Kinetic Connection - The Monitor Puzzle.fds
+:	:	Kinniku Man - Kinniku Sei Oui Soudatsusen (HACK).fds
+:	:	Kinniku Man - Kinniku Sei Oui Soudatsusen (alt).fds
+:	:	Kinniku Man - Kinniku Sei Oui Soudatsusen.fds
+:	:	Knight Lore (Majou no Ookami Otoko).fds
+:	:	Knight Move.fds
+:	:	Kobayashi Hitomi no Hold Up (UNL).fds
+:	:	Konamic Ice Hockey.fds
+:	:	Konamic Tennis.fds
+:	:	Koneko Monogatari - The Adventures of Chatran.fds
+:	:	Legend of Zelda 2 - Link no Bouken, The (v1.1) (HACK).fds
+:	:	Legend of Zelda 2 - Link no Bouken, The (v1.1) [1-2f976a32].fds
+:	:	Legend of Zelda 2 - Link no Bouken, The (v1.1) [1-5f27476c].fds
+:	:	Legend of Zelda 2 - Link no Bouken, The (v1.1) [1-97d7ec99].fds
+:	:	Legend of Zelda 2 - Link no Bouken, The (v1.1).fds
+:	:	Lutter.fds
+:	:	Magma Project Hacker.fds
+:	:	Mahjong (CHR1).fds
+:	:	Mahjong (CHR2).fds
+:	:	Mahjong Kazoku.fds
+:	:	Marchen Veil.fds
+:	:	Mario Bobble (HACK).fds
+:	:	Matou no Houkai - The Hero of Babel (crc-BFBF8FB5).fds
+:	:	Matou no Houkai - The Hero of Babel.fds
+:	:	Meikyuu Jiin Dababa [1-c383f68b] [2-95550a0d].fds
+:	:	Meikyuu Jiin Dababa.fds
+:	:	Metroid (v1.1) (DEMO) [crc-3BE38126].fds
+:	:	Metroid (v1.1) (DEMO).fds
+:	:	Metroid (v1.1) (English).fds
+:	:	Metroid (v1.1) [1-c2fbbaaa] [2-e2e01b1c].fds
+:	:	Metroid (v1.1) [crc-8E266210].fds
+:	:	Metroid (v1.1).fds
+:	:	Metroid (v1.2) (English).fds
+:	:	Metroid (v1.2) [1-70158596] [2-e26e050e].fds
+:	:	Metroid (v1.2) [1-82bcf48e] [2-b2dab1ec] [crc-4BD04BBC].fds
+:	:	Metroid (v1.2) [1-82bcf48e] [2-b2dab1ec].fds
+:	:	Metroid (v1.2).fds
+:	:	Michael English Dai Bouken.fds
+:	:	Moero TwinBee - Cinnamon Hakase wo Sukue! (HACK).fds
+:	:	Moero TwinBee - Cinnamon Hakase wo Sukue! [crc-A3BF8D53].fds
+:	:	Moero TwinBee - Cinnamon Hakase wo Sukue!.fds
+:	:	Moero Yakyuuken (Emi Chan no) (UNL).fds
+:	:	Monty no Doki Doki Dai Dassou.fds
+:	:	Moonball Magic.fds
+:	:	Mr. Gold - Kinsan in the Space (Tooyama no Kinsan Space Chou).fds
+:	:	Nakayama Miho no Tokimeki High School [1-2a27471e].fds
+:	:	Nakayama Miho no Tokimeki High School [1-eafce907].fds
+:	:	Nakayama Miho no Tokimeki High School.fds
+:	:	Namida no Soukoban Special.fds
+:	:	Nankin no Adobenchia (Nazoraa Land Special).fds
+:	:	Nazo no Kabe - Block Kuzushi.fds
+:	:	Nazo no Magazine Disk - Nazoraa Land Dai 2 Gou.fds
+:	:	Nazo no Magazine Disk - Nazoraa Land Dai 3 Gou.fds
+:	:	Nazo no Magazine Disk - Nazoraa Land Soukan Gou.fds
+:	:	Nazo no Magazine Disk - Nazoraa Land Zoukan Gou - Quiz Ou wo Sagase!.fds
+:	:	Nazo no Murasame Jou.fds
+:	:	Omoikkiri Tanteidan Haado Gumi - Matenrou no Chousenjou (BAD CHR).fds
+:	:	Omoikkiri Tanteidan Haado Gumi - Matenrou no Chousenjou.fds
+:	:	Otocky.fds
+:	:	Pac-Man.fds
+:	:	Pachi Com.fds
+:	:	Pachinko Grand Prix.fds
+:	:	Panic Space - Famimaga Disk Vol. 2.fds
+:	:	Pat Pat Golf.fds
+:	:	Patlabor Mobile Police (Dai 2 Shoutai Shutsudou Seyo!).fds
+:	:	Pinball.fds
+:	:	Pro Golfer Saru - Kage no Tournament.fds
+:	:	Professional Mahjong Gokuu [2-e38a6876].fds
+:	:	Professional Mahjong Gokuu.fds
+:	:	Pulsar no Hikari - Space Wars Simulation.fds
+:	:	Puroresu - Famicom Wrestling Association.fds
+:	:	Puyo Puyo - Famimaga Disk Vol. 5.fds
+:	:	Puzzle Boys.fds
+:	:	Radical Bomber!! Jirai Kun.fds
+:	:	Reflect World.fds
+:	:	Relics - Ankoku Yousai.fds
+:	:	Replicart.fds
+:	:	Risa no Yousei Densetsu - Risa Tachibana.fds
+:	:	Roger Rabbit.fds
+:	:	SD Gundam World - Gachapon Senshi - Scramble Wars (SG1).fds
+:	:	SD Gundam World - Gachapon Senshi - Scramble Wars (SGW) (v1.0).fds
+:	:	SD Gundam World - Gachapon Senshi - Scramble Wars (SGW) (v1.1).fds
+:	:	SD Gundam World - Gachapon Senshi - Scramble Wars - Map Collection [crc-C149DEDF].fds
+:	:	SD Gundam World - Gachapon Senshi - Scramble Wars - Map Collection.fds
+:	:	Sailor Fuku Bishoujo Zukan Vol. 1 (Meimon Joshi Kousei) (UNL).fds
+:	:	Sailor Fuku Bishoujo Zukan Vol. 3 (Meimon Joshi Kousei) (UNL).fds
+:	:	Sailor Fuku Bishoujo Zukan Vol. 4 (Meimon Joshi Kousei) (UNL).fds
+:	:	Sailor Fuku Bishoujo Zukan Vol. 5 (Meimon Joshi Kousei) (UNL).fds
+:	:	Sailor Fuku Bishoujo Zukan Vol. 6 (Meimon Joshi Kousei) (UNL).fds
+:	:	Samurai Sword.fds
+:	:	Santa Claus no Takarabako.fds
+:	:	Section-Z.fds
+:	:	Seiken Saikokaribaa (Majuu no Mori Densetsu) (English v1.0).fds
+:	:	Seiken Saikokaribaa (Majuu no Mori Densetsu).fds
+:	:	Silviana (Ai Ippai no Boukensha).fds
+:	:	Smash Ping-Pong.fds
+:	:	Soccer.fds
+:	:	Solomon no Kagi.fds
+:	:	Suishou no Dragon.fds
+:	:	Super Boy Allan (Chinou Game Series 2).fds
+:	:	Super Lode Runner II.fds
+:	:	Super Lode Runner.fds
+:	:	Super Mario Bros (Mituy Kouji) (HACK).fds
+:	:	Super Mario Bros. 2.fds
+:	:	Super Mario Bros.fds
+:	:	Tama & Friends - 3 Choume Dai Bouken [crc-5823DBD0].fds
+:	:	Tama & Friends - 3 Choume Dai Bouken.fds
+:	:	Tanigawa Kouji no Shougi Shinan II (Meijin heno Michi) (Tsume Shougi) [crc-75A76F4].fds
+:	:	Tanigawa Kouji no Shougi Shinan II (Meijin heno Michi) (Tsume Shougi) [crc-7A94FC72].fds
+:	:	Tanigawa Kouji no Shougi Shinan II (Meijin heno Michi) (Tsume Shougi).fds
+:	:	Tanigawa Kouji no Shougi Shinan II (Meijin heno Michi).fds
+:	:	Tantei Jinguuji Saburou - Kikenna Futari.fds
+:	:	Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken.fds
+:	:	Tarot (Tarot Uranai).fds
+:	:	Tennis (BAD CHR 1).fds
+:	:	Tennis (BAD CHR 2).fds
+:	:	Tennis.fds
+:	:	Time Twist - Rekishi no Katasumi de.fds
+:	:	Titanic Mystery (Ao no Senritsu).fds
+:	:	Tobidase Daisakusen (BAD).fds
+:	:	Tobidase Daisakusen (HACK).fds
+:	:	Tobidase Daisakusen (Protected).fds
+:	:	Tobidase Daisakusen [crc-516D0D0B].fds
+:	:	Tobidase Daisakusen.fds
+:	:	Topple Zip.fds
+:	:	Transformer - The Head Masters.fds
+:	:	TwinBee (crc-5B54D1F1).fds
+:	:	TwinBee [1-d8f49994].fds
+:	:	TwinBee.fds
+:	:	Ultraman - Kaijuu Teikoku no Gyakushuu (HACK).fds
+:	:	Ultraman - Kaijuu Teikoku no Gyakushuu [crc-1B535ECD].fds
+:	:	Ultraman - Kaijuu Teikoku no Gyakushuu.fds
+:	:	Ultraman 2 - Shutsugeki Katoku Tai.fds
+:	:	Ultraman Club (Chikyuu Dakkan Sakusen).fds
+:	:	Volleyball.fds
+:	:	Vs. Excitebike [1-c5e8ac39] [2-c2a8fa9d].fds
+:	:	Vs. Excitebike [crc-5C6DBDB5].fds
+:	:	Vs. Excitebike.fds
+:	:	Wardner no Mori.fds
+:	:	Winter Games.fds
+:	:	Wrecking Crew.fds
+:	:	Xevious.fds
+:	:	Youkai Yashiki.fds
+:	:	Yume Koujou Doki Doki Panic.fds
+:	:	Yuu Maze (SAVE).fds
+:	:	Yuu Maze.fds
+:	:	Yuushi no Monshou (Deep Dungeon) (v1.1).fds
+:	:	Zanac.fds
+:	:	Zatsugaku Olympic Part II (Quiz) (UNL).fds
+:	:	Zelda no Densetsu - The Hyrule Fantasy (v1.1) [2-3025936b].fds
+:	:	Zelda no Densetsu - The Hyrule Fantasy (v1.1).fds

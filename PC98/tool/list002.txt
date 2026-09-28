@@ -1,0 +1,1265 @@
+\
+:	BIOS
+:	:	BIOS基本セット.zip
+:	:	OPNAリズムセット.zip
+:	:	PC-8001mkII_BIOS.zip
+:	:	PC-8801MA2_BIOS.zip
+:	:	PC-8801MC_BIOS.zip
+:	:	PC-8801_BIOS.zip
+:	:	PC-8801mkIIFH_BIOS.zip
+:	:	PC-8801mkIIFR_BIOS.zip
+:	:	PC-8801mkIISR_BIOS.zip
+:	:	PC-8801mkII_BIOS.zip
+:	:	PC-88VA_BIOS.zip
+:	:	PC-98DO_BIOS.zip
+:	:	漢字ROM98.zip
+:	:	漢字ROM丸文字.zip
+:	FILER
+:	:	EXPEPERT-88 COPYAID
+:	:	:	COPYAID88 910505.zip
+:	:	:	COPYAID88 920411.zip
+:	:	:	EXPERT88 860727.zip
+:	:	:	EXPERT88 V2.zip
+:	:	:	EXPERT88.zip
+:	:	etc
+:	:	:	CHARM COPY.zip
+:	:	:	NEWTYPE-88.zip
+:	:	:	RATS&STAR.zip
+:	:	:	ZETA88 vol.2.zip
+:	:	:	ZETA88 vol.3.zip
+:	:	magic copy2 wizard88
+:	:	:	Magic Copy2 ver.2.8.zip
+:	:	:	Magic Copy2 ver.2.9.zip
+:	:	:	Magic Copy2 ver.3.0.zip
+:	:	:	Magic Copy2 ver.3.1.zip
+:	:	:	Magic Copy2 ver.3.2.zip
+:	:	:	Magic Copy2 ver.3.3.zip
+:	:	:	Magic Copy2 ver.3.4.zip
+:	:	:	Magic Copy2 ver.3.5.zip
+:	:	:	Magic Copy2 ver.3.6.zip
+:	:	:	Magic Copy2 ver.3.7.zip
+:	:	:	Wizard88 Report 8708-4.zip
+:	:	:	Wizard88 Report 8709-2.zip
+:	:	:	Wizard88 Report 8711-2.zip
+:	:	:	Wizard88 Report 8802-1.zip
+:	:	:	Wizard88 Report 8806-2.zip
+:	:	:	Wizard88 Report 8806-3.zip
+:	:	:	Wizard88 Report 8807-3.zip
+:	:	:	Wizard88 Report 8811-2.zip
+:	:	:	Wizard88 Report 8812-3.zip
+:	:	:	Wizard88 Report 8904-3.zip
+:	:	:	Wizard88 Report 8906-1.zip
+:	:	:	Wizard88 Report 8908-2.zip
+:	:	:	Wizard88 Report 8909-3.zip
+:	:	:	Wizard88 Report 9001-3.zip
+:	:	:	Wizard88 Report 9002-2.zip
+:	:	:	Wizard88 Report 9003-1.zip
+:	:	:	Wizard88 Report 9005-1.zip
+:	:	:	Wizard88 Report 9009-2.zip
+:	:	:	Wizard88 Report 9011-3.zip
+:	:	:	Wizard88 Report 9011-4.zip
+:	:	:	Wizard88 Report 9103-1.zip
+:	:	:	Wizard88.zip
+:	:	:	wizlist.txt
+:	:	the file master88
+:	:	:	HOT FILE DISK NO.5.ZIP
+:	:	:	HOT FILE EXPRESS 860819.ZIP
+:	:	:	HOT FILE EXPRESS 860921.ZIP
+:	:	:	HOT FILE EXPRESS 861103.ZIP
+:	:	:	HOT FILE EXPRESS 861201.ZIP
+:	:	:	HOT FILE EXPRESS 861212.ZIP
+:	:	:	HOT FILE EXPRESS 861220.ZIP
+:	:	:	HOT FILE EXPRESS 870103.ZIP
+:	:	:	HOT FILE EXPRESS 870422.ZIP
+:	:	:	HOT FILE EXPRESS 870812.ZIP
+:	:	:	HOT FILE EXPRESS 890512.ZIP
+:	:	:	Hot File Express 860801.zip
+:	:	:	Hot File Express 861215.zip
+:	:	:	Hot File Express 870202.zip
+:	:	:	Hot File Express 870411.zip
+:	:	:	Hot File Express 870601.zip
+:	:	:	Hot File Express 870710.zip
+:	:	:	Hot File Express 880401.zip
+:	:	:	Hot File Express 880923.zip
+:	:	:	Hot File Express 881119.zip
+:	:	:	Hot File Express 881210.zip
+:	:	:	Hot File Express 890527.zip
+:	:	:	Hot File Express 890831.zip
+:	:	:	Hot File Express 891103.zip
+:	:	:	Hot File Express 891211.zip
+:	:	:	Hot File Express 891225.zip
+:	:	:	Hot File Express 900114.zip
+:	:	:	Hot File Express 900426.zip
+:	:	:	Hot File Express 900716.zip
+:	:	:	Hot File Express 900828.zip
+:	:	:	Hot File Express 910905.zip
+:	:	:	THE FILE MASTER 880105.zip
+:	:	:	THE FILE MASTER NEW.zip
+:	:	:	THE FILE MASTER ver.1.1.zip
+:	:	:	THE FILE MASTER88list.txt
+:	:	:	THE FILE MASTERお徳用.zip
+:	:	:	THE FILE MASTERナイス.zip
+:	:	:	THE FILE MASTERﾊﾟﾗﾒｰﾀ3.zip
+:	:	:	THE FILE MASTERﾊﾟﾗﾒｰﾀ7.zip
+:	:	:	THE FILE MASTERﾊﾟﾗﾒｰﾀ8BEST.zip
+:	:	:	THE FILE MASTERﾊﾟﾗﾒｰﾀ8NEW.zip
+:	memory
+:	:	アステロイドベルト.zip
+:	:	オリオン80.zip
+:	:	キシャポッポGAME.zip
+:	:	クイックス.zip
+:	:	クレイジークライマー.zip
+:	:	ゴルゴ13.zip
+:	:	スクランブル.zip
+:	:	スターファイヤー.zip
+:	:	スパイ大作戦.zip
+:	:	スペースマウス.zip
+:	:	ダブルバリアー.zip
+:	:	ノルマンディ上陸作戦.zip
+:	:	ピオピオ PiOPiO.zip
+:	:	ファンファン FANFUN.zip
+:	:	フィールドアーミー.zip
+:	:	ミサイルコマンダー.zip
+:	:	ラリーＸ.zip
+:	:	リバーレスキュー.zip
+:	:	ルナシティSOS!!.zip
+:	:	川中島の合戦.zip
+:	:	投資ゲーム.zip
+:	:	南青山アドベンチャー.zip
+:	:	表参道アドベンチャー.zip
+:	packs
+:	:	N-BASIC集.zip
+:	:	PC-8001ゲームパック１.zip
+:	:	PC-8001ゲームパック２.zip
+:	:	PC-8001ゲームパック３.zip
+:	:	PC-8001ゲームパック４.zip
+:	:	PC-8801ゲームパック４.ZIP
+:	:	PSKアクションパック.zip
+:	:	ゲームズA.txt
+:	:	ゲームズA.zip
+:	:	サービスパック88 vol.01.zip
+:	:	サービスパック88 vol.02.zip
+:	:	サービスパック88 vol.03.zip
+:	:	サービスパック88 vol.04.zip
+:	:	サービスパック88 vol.05.zip
+:	:	サービスパック88 vol.06.zip
+:	:	サービスパック88 vol.07.zip
+:	:	サービスパック88 vol.08.zip
+:	:	サービスパック88 vol.09.zip
+:	:	サービスパック88 vol.10.zip
+:	:	サービスパック88 vol.11.zip
+:	:	サービスパック88 vol.12.zip
+:	:	サービスパック88 ﾌﾙﾊﾟｯｸ.zip
+:	:	フルタイムN.zip
+:	tape
+:	:	アルフォス.zip
+:	:	ウルトラ四人麻雀.zip
+:	:	エギー EGGY.zip
+:	:	ギャラクシアン.zip
+:	:	コスモミューター.zip
+:	:	サンダーフォース.zip
+:	:	ザ・スパイダー.zip
+:	:	シュガーファクトリー.zip
+:	:	ジェルダ JELDA.zip
+:	:	ジェルダ２ JELDAII.zip
+:	:	スターライトアドベンチャー.zip
+:	:	スペースダイヤモンド.zip
+:	:	ゼクサス ZEXAS.zip
+:	:	ゼノン XENON.zip
+:	:	タイムシークレット.zip
+:	:	ディグダグ.zip
+:	:	ドアドア.zip
+:	:	ニュートロン.zip
+:	:	パックマン.zip
+:	:	ファンファン FANFUN.zip
+:	:	ホールインワン.zip
+:	:	ホーンテッドケイブ.zip
+:	:	ポイボス POIBOS.zip
+:	:	マリオブラザーズスペシャル.zip
+:	:	ミッドナイトマジック.zip
+:	:	メネシス88.zip
+:	:	メビウス.zip
+:	:	ルナボール.zip
+:	:	ロケットマン.zip
+:	:	将棋道場２.zip
+:	:	将棋名人.zip
+:	:	大富豪.zip
+:	utility
+:	:	88ターム 88TERM.zip
+:	:	N-BASIC.zip
+:	:	N80-BASIC.ZIP
+:	:	N88-BASIC FE.zip
+:	:	N88-BASIC FH.zip
+:	:	N88-BASIC FR.zip
+:	:	N88-BASIC SB2.zip
+:	:	N88-BASIC TR.zip
+:	:	N88-日本語BASIC FE.zip
+:	:	N88-日本語BASIC FH.zip
+:	:	N88-日本語BASIC FR.zip
+:	:	Pc-8834.zip
+:	:	ジェットターミナルV1.zip
+:	:	ブランクディスク.zip
+:	:	ｽｰﾊﾟｰｼｽﾃﾑ88２.zip
+:	:	ﾏｲｸﾛﾃﾞｨｽｸﾍﾞｰｼｯｸ.zip
+:	０９
+:	:	177.zip
+:	:	1942.zip
+:	:	A.E.zip
+:	:	A.I.R.zip
+:	:	F2グランプリSR.zip
+:	:	FSDサンプル音楽集 vol.1.zip
+:	:	FSDサンプル音楽集 vol.2.zip
+:	:	FSDサンプル音楽集 vol.3.zip
+:	:	FSDサンプル音楽集 vol.4.zip
+:	:	FSDサンプル音楽集 vol.5.zip
+:	:	FSDサンプル音楽集 vol.6.zip
+:	:	FSDサンプル音楽集 vol.7.zip
+:	:	MMKｱﾆﾒｺﾚｸｼｮﾝ3.zip
+:	:	MMKｱﾆﾒｺﾚｸｼｮﾝ4.zip
+:	:	MMKｵﾘｼﾞﾅﾙ11.zip
+:	:	MMKｵﾘｼﾞﾅﾙ12.zip
+:	:	MMKｵﾘｼﾞﾅﾙ13.zip
+:	:	MMKｵﾘｼﾞﾅﾙ4.zip
+:	:	MMKｵﾘｼﾞﾅﾙ6.zip
+:	:	MMKｵﾘｼﾞﾅﾙﾍﾞｽﾄ.zip
+:	:	MMKﾏｼﾝﾛﾎﾞ.zip
+:	:	N88-BASIC MR.zip
+:	:	RST音楽DISK01.zip
+:	:	RST音楽DISK02.zip
+:	:	RST音楽DISK03.zip
+:	:	RST音楽DISK04.zip
+:	:	RST音楽DISK05.zip
+:	:	RST音楽DISK06.zip
+:	:	RST音楽DISK07.zip
+:	:	RST音楽DISK08.zip
+:	:	RST音楽DISK09.zip
+:	:	RST音楽DISK10.zip
+:	:	RST音楽DISK11.zip
+:	:	RST音楽DISK12.zip
+:	:	S.O.S.forSB2.zip
+:	:	SFハレハレ三銃士.zip
+:	:	SSC1.zip
+:	:	SSC2.zip
+:	:	SSGゲームスペシャル.zip
+:	:	SSGゲームスペシャル２.zip
+:	あ
+:	:	Ａ列車で行こう.zip
+:	:	あーくしゅ.zip
+:	:	あたしのぱぴぷぺぽ.zip
+:	:	あたためっちゃスペシャル.zip
+:	:	あっぷるくらぶ.zip
+:	:	あっぷるくらぶ１&２&DATA集.zip
+:	:	あっぷるくらぶ２.zip
+:	:	あぶないてんぐ伝説.zip
+:	:	あぶない女性心理学入門.zip
+:	:	うぉーたーふろんとADV.zip
+:	:	うっでぃぽこ.zip
+:	:	うる星やつら ﾗﾌﾞﾘｰﾁｪｲｻｰ.zip
+:	:	うる星やつら.zip
+:	:	うろつき童子.zip
+:	:	おーい！かぐや姫.zip
+:	:	おとめぱーてぃ.zip
+:	:	おんなのこけーさつたい.zip
+:	:	お嬢様くらぶ 同人版.zip
+:	:	お嬢様くらぶ.zip
+:	:	アークス.zip
+:	:	アークス２.zip
+:	:	アークスロード.zip
+:	:	アーコン ARCHON.zip
+:	:	アートオブウォー+ｼﾅﾘｵ集.zip
+:	:	アートオブウォー.zip
+:	:	アイスクライマー.zip
+:	:	アイリーン IREEN.zip
+:	:	アクロジェット.zip
+:	:	アグニの石.zip
+:	:	アグレス AGGRES ZODIAC2.zip
+:	:	アゲイン.zip
+:	:	アステカ.zip
+:	:	アズテック AZTEC.zip
+:	:	アタッカー.zip
+:	:	アタック!!ひろ子ちゃん.zip
+:	:	アッシュ ASHE.zip
+:	:	アドバンストファンタジアン.zip
+:	:	アドベンチャーランド.zip
+:	:	アドレナリンコネクション.zip
+:	:	アニマルカルテット.ZIP
+:	:	アニマルカルテットデータ集.ZIP
+:	:	アビス ABYSS.zip
+:	:	アビス２ ABYSS II.zip
+:	:	アマゾン学術探検.zip
+:	:	アメージングディスク.zip
+:	:	アメリカンサクセス.zip
+:	:	アメリカントラックSR.zip
+:	:	アユミ AYUMI.zip
+:	:	アリオン.zip
+:	:	アリス.zip
+:	:	アリババ.zip
+:	:	アルカノイド.zip
+:	:	アルギースの翼.zip
+:	:	アルゴー ARGO.zip
+:	:	アルバトロス ｴｷｽﾊﾟｰﾄ.zip
+:	:	アルバトロス ﾋﾞｼﾞｭｱﾙ.zip
+:	:	アルバトロス ﾜｰﾙﾄﾞ.zip
+:	:	アルバトロス.zip
+:	:	アルファ.zip
+:	:	アルフォス.zip
+:	:	アンジェラス.zip
+:	:	アンドロギュヌス.zip
+:	:	イース.zip
+:	:	イースDEMO.zip
+:	:	イース１２３ML.zip
+:	:	イース２.zip
+:	:	イエローレモン.zip
+:	:	イカセ男入門愛をありがとう.zip
+:	:	イルミナ！.zip
+:	:	イン・ザ・ドリーム.zip
+:	:	イントルーダー.zip
+:	:	インフィニティア.zip
+:	:	ウィザード&プリンセス.zip
+:	:	ウィザードリィ.zip
+:	:	ウィザードリィ２.zip
+:	:	ウィザードリィ３.zip
+:	:	ウィザードリィ４.zip
+:	:	ウィザードリィ５.zip
+:	:	ウィル WILL.zip
+:	:	ウィンディーネ.zip
+:	:	ウィンディーネDEMO.zip
+:	:	ウイバーン WiBArm.zip
+:	:	ウイングマン.zip
+:	:	ウイングマン２.zip
+:	:	ウイングマンスペシャル.zip
+:	:	ウォーターワーカー.zip
+:	:	ウットイ UOOTOY.zip
+:	:	ウディリンパズル.zip
+:	:	ウルティマ.zip
+:	:	ウルティマ２.zip
+:	:	ウルティマ３.zip
+:	:	ウルティマ４.zip
+:	:	エキストラディスク vol.1.zip
+:	:	エキストラディスク vol.2.zip
+:	:	エキストラディスク vol.3.zip
+:	:	エキストラディスク vol.4.zip
+:	:	エギー EGGY.zip
+:	:	エクスタリアン.zip
+:	:	エクスプロージョン.zip
+:	:	エグザイル XZR.zip
+:	:	エグザイル２ XZRII.zip
+:	:	エプシロン３.zip
+:	:	エミー Emmy.zip
+:	:	エミー２ EmmyII.zip
+:	:	エメラルドドラゴン.zip
+:	:	エメラルドドラゴンMD.zip
+:	:	エメラルド伝説.zip
+:	:	エリカ.zip
+:	:	エルスリード.zip
+:	:	エルドラド伝奇.zip
+:	:	エレベーターアクション.zip
+:	:	エンジェル ANGEL.zip
+:	:	エンジェルハーツ.zip
+:	:	オーガ OGRE.zip
+:	:	オービットIII.zip
+:	:	オールドビレッジストーリー.zip
+:	:	オホーツクに消ゆ.zip
+:	:	オルフェミュージックBEST.zip
+:	:	オルフェミュージックBEST45.zip
+:	:	オレの島.zip
+:	:	ヴァクソル VAXOL.zip
+:	:	ヴァルナ VALNA.zip
+:	:	ヴァンパイア 夜の貴族.zip
+:	:	ヴェイグス VEIGUES.zip
+:	:	ヴェインドリーム.zip
+:	:	ヴォルガード.zip
+:	:	悪女かまきり.zip
+:	:	悪女伝説２.zip
+:	:	暗黒城.zip
+:	:	暗黒星雲.zip
+:	:	伊忍道.zip
+:	:	囲碁百科.zip
+:	:	維新のゲームセンター嵐.zip
+:	:	維新の嵐.zip
+:	:	宇宙の戦士.zip
+:	:	宇宙牧師.zip
+:	:	英雄ヤマトタケル.zip
+:	:	英雄伝説サーガ.zip
+:	:	怨霊戦記.zip
+:	:	王子ビンビン物語.zip
+:	:	黄金の墓.zip
+:	:	億万長者.zip
+:	:	音楽円盤コン・スピリト.zip
+:	:	音楽館.zip
+:	:	青い宇宙の冒険.zip
+:	:	戦闘伝説エルフ.zip
+:	:	蒼き狼と白き牝鹿 元朝秘史.zip
+:	:	蒼き狼と白き牝鹿 ｼﾞﾝｷﾞｽｶﾝ.zip
+:	:	蒼き狼と白き牝鹿.zip
+:	:	大奥マル秘物語.zip
+:	:	美しき獲物たち.zip
+:	:	美しき獲物たち２.zip
+:	:	美しき獲物たち３.zip
+:	:	美しき獲物たち４.zip
+:	:	美しき獲物たち５.zip
+:	:	表参道アドベンチャー.zip
+:	:	夢幻戦士ヴァリス.zip
+:	:	夢幻戦士ヴァリス２.zip
+:	:	妖しげパック.zip
+:	:	ｵﾗﾝﾀﾞ妻は電気ｳﾅｷﾞの夢.zip
+:	:	韋駄天いかせ男.zip
+:	か
+:	:	ADV#７ 「今夜は帰さない」 .zip
+:	:	からくり忍法.zip
+:	:	かわいそう物語SR.zip
+:	:	がんばれ！美樹ちゃん.zip
+:	:	きまぐれオレンジロード.zip
+:	:	きゃんきゃん★バニー.zip
+:	:	きゃんきゃん★バニー２.zip
+:	:	きゅーびーぱにっく.zip
+:	:	くりぃむレモン ｽﾀｰﾄﾗｯﾌﾟ.zip
+:	:	ぐっちゃんばんく.zip
+:	:	ぐるっぺ.zip
+:	:	これが噂のゴリンピック.zip
+:	:	ごくらく天国.zip
+:	:	カードゲームPRO２ﾊﾟｯｸ.zip
+:	:	カーボ CARBO.zip
+:	:	カインドギャルズ.zip
+:	:	カオスエンジェルス.zip
+:	:	カサブランカに愛を.zip
+:	:	カブールスパイ.zip
+:	:	カリオストロの城.zip
+:	:	カリフラワー.zip
+:	:	カレイジアスペルセウス.zip
+:	:	カレイドスコープ１.zip
+:	:	カレイドスコープ１＆２.zip
+:	:	ガールズパラダイス.zip
+:	:	ガイアの紋章.zip
+:	:	ガイフレーム.zip
+:	:	ガウディ Gaudi.zip
+:	:	ガオディウス３.zip
+:	:	ガムボール GUMBALL.zip
+:	:	ガルクライシス GULCRISIS.zip
+:	:	ガルフォース.zip
+:	:	ガルフストリーム.zip
+:	:	ガンシップ.zip
+:	:	ガンダーラ.zip
+:	:	ガンダム MSフィールド.zip
+:	:	ガンダム ﾀｸﾃｨｶﾙｵﾍﾟﾚｰｼｮﾝ.zip
+:	:	キャッスルエクセレント.zip
+:	:	キャロット.zip
+:	:	キャンペーン版大戦略２.zip
+:	:	キングサーモン.zip
+:	:	キングスナイトSP.zip
+:	:	キングフラッピー.zip
+:	:	キングブリーダー.zip
+:	:	ギャルっぽクラブ.zip
+:	:	ギャルウォーズ.zip
+:	:	ギャルマインド.zip
+:	:	クラッカー！ Cracker.zip
+:	:	クラックス CRUX.zip
+:	:	クラックス KLAX.zip
+:	:	クランストンマナー.zip
+:	:	クリスタルソフトJB.zip
+:	:	クリスタルドリーム.zip
+:	:	クリスタルプリズン.zip
+:	:	クリスチーヌ.zip
+:	:	クリム CRIM ver2.0.zip
+:	:	クリムゾン.zip
+:	:	クリムゾン２.zip
+:	:	クリムゾン３.zip
+:	:	クレイズ CRAZE.ZIP
+:	:	グーニーズ.zip
+:	:	グーニーズ改.zip
+:	:	グインサーガ.zip
+:	:	グラディウス.zip
+:	:	グラディウス改.zip
+:	:	グラムキャッツ.zip
+:	:	グロブダー.zip
+:	:	ゲゲゲの鬼太郎.zip
+:	:	ゲンジ Genji.zip
+:	:	コーン紙振動音楽集1-5.zip
+:	:	コスモエンジェル.zip
+:	:	コスモスクラブ.zip
+:	:	コズミックソルジャー.zip
+:	:	コムサイト.zip
+:	:	コラムス COLUMNS.zip
+:	:	コリドール 廻廊.zip
+:	:	コロン.zip
+:	:	ゴジラ.zip
+:	:	ゴルゴス GOLQUES.zip
+:	:	ゴルフｷｬﾋﾟｷｬﾋﾟﾙﾝ.zip
+:	:	ザ・キャッスル.zip
+:	:	ザ・クエスト.zip
+:	:	学園物語.zip
+:	:	棋聖.zip
+:	:	棋太平.zip
+:	:	帰ってきた探偵団Ｘ.zip
+:	:	気分はぱすてるたっち.zip
+:	:	極道陣取り.zip
+:	:	禁断のパラダイス.zip
+:	:	銀河.zip
+:	:	銀河英雄伝説.zip
+:	:	銀河英雄伝説PS.zip
+:	:	銀河英雄伝説２.zip
+:	:	九玉伝.zip
+:	:	九龍島-KyuRyuTou-.zip
+:	:	軽井沢誘拐案内.zip
+:	:	結成２周年記念ディスク.zip
+:	:	鍵穴殺人事件.zip
+:	:	古代祐三 vol.2.zip
+:	:	碁遊戯.zip
+:	:	口説き方教えます.zip
+:	:	項羽と劉邦.zip
+:	:	拷問マスター.zip
+:	:	殺しのドレス.zip
+:	:	自己中心派.zip
+:	:	自己中心派・麻雀パズル.zip
+:	:	自己中心派２.zip
+:	:	自己中心派３ USER.zip
+:	:	自己中心派３.zip
+:	:	小森愛のどきどきラリー.zip
+:	:	神の聖都.zip
+:	:	神の聖都MS.zip
+:	:	神戸恋愛物語.zip
+:	:	超美少女伝説クロッキー.zip
+:	:	彼と二人のスカイライン.zip
+:	:	風の谷のナウシカADV.zip
+:	:	冒険者達 賢者の遺言.zip
+:	:	魔獣戦記ガーディアン.zip
+:	:	ｹﾞｰﾑﾐｭｰｼﾞｯｸﾗｲﾌﾞﾗﾘｰ.zip
+:	:	琥珀色の遺言.zip
+:	さ
+:	:	1000年王国.zip
+:	:	GC-clusterz MD vol.1+.zip
+:	:	GC-clusterz MD vol.2.zip
+:	:	GC-clusterz MD vol.3.zip
+:	:	GC-clusterz MD vol.4.zip
+:	:	GC-clusterz MD vol.5.zip
+:	:	GC-clusterz MD vol.6.zip
+:	:	GC-clusterz MD vol.7.zip
+:	:	Zガンダム.zip
+:	:	さよならジュピター.zip
+:	:	せまってみたい.zip
+:	:	その後の慶子ちゃん ﾌﾙﾊﾟｯｸ.zip
+:	:	その後の慶子ちゃん.zip
+:	:	サーク Xak.zip
+:	:	サーク２ XakII.zip
+:	:	サーナチュレル Surnatur.zip
+:	:	サイ・オ・ブレード.zip
+:	:	サイキックシティ.zip
+:	:	サウザンティス号の冒険.zip
+:	:	サウンドシアター.zip
+:	:	サザンクロス.zip
+:	:	サッちゃんの大冒険！.zip
+:	:	サバッシュ ZAVAS.zip
+:	:	サラダの国のトマト姫.zip
+:	:	サンダーフォースSR.zip
+:	:	ザ・ピーピング.zip
+:	:	ザ・マン・アイ・ラブ.zip
+:	:	ザ・競馬２.zip
+:	:	ザ・病院.zip
+:	:	ザース.zip
+:	:	ザイロス XYLOS.zip
+:	:	ザナドゥSR.zip
+:	:	ザナドゥ・シナリオ２SR.zip
+:	:	シーナ Seena ﾜｲﾄﾞｽｸﾘｰﾝ.zip
+:	:	シェナンドラゴン.zip
+:	:	シグマ SIGMA.zip
+:	:	シティファイト.zip
+:	:	シャーウッドフォレスト.zip
+:	:	シャティ Chatty.zip
+:	:	シュバルツシルト.zip
+:	:	シュバルツシルト２.zip
+:	:	シルバーゴースト.zip
+:	:	シルフィード.zip
+:	:	シンデレラペルデュー.zip
+:	:	ジーザス.zip
+:	:	ジーザス２.zip
+:	:	ジーザス２DEMO.ZIP
+:	:	ジェネシス.zip
+:	:	ジェムストンウォーリア.zip
+:	:	ジハード.zip
+:	:	ジャーク JARK.zip
+:	:	ジャイロダイン改.zip
+:	:	ジャックニクラウスゴルフ.zip
+:	:	ジュベニリアス.zip
+:	:	スーパーソニックシューター.zip
+:	:	スーパーピットフォール.zip
+:	:	スーパーランボー.zip
+:	:	スーパー大戦略+MC.zip
+:	:	スーパー大戦略PUK.zip
+:	:	スカイスクレーパー.zip
+:	:	スカイフォックス.zip
+:	:	スカポン探検隊１.zip
+:	:	スキーム The Scheme MD.zip
+:	:	スキーム The Scheme.zip
+:	:	スクリーマー.zip
+:	:	スコッティ.zip
+:	:	スタークルーザー.zip
+:	:	スターシップランデブー.zip
+:	:	スターシンフォニー.zip
+:	:	スタートレーダー.zip
+:	:	スティルソード For Adult.zip
+:	:	スティルソード.zip
+:	:	ストーム.zip
+:	:	ストリート野球拳.zip
+:	:	スナッチャー.zip
+:	:	スピード.zip
+:	:	スプラッシュ２.zip
+:	:	スプラッシュ３.zip
+:	:	スペースハリアー.zip
+:	:	スライムランドストーリー.zip
+:	:	スロープ SLOPE.zip
+:	:	セーラー服戦士フェリス.zip
+:	:	セーラー服美少女図鑑１.zip
+:	:	セーラー服美少女図鑑２.zip
+:	:	セーラー服美少女図鑑３.zip
+:	:	セーラー服美少女図鑑４.zip
+:	:	セーラー服美少女図鑑５.zip
+:	:	セーラー服美少女図鑑６.zip
+:	:	セイレーン.zip
+:	:	セクシーオレンジ.zip
+:	:	ゼビウス.zip
+:	:	ゼリアード.zip
+:	:	ソー・アンド・ソー.zip
+:	:	ソーサリアン フルセット.zip
+:	:	ソーサリアン.zip
+:	:	ソーサリアンMD vol.1.zip
+:	:	ソーサリアンMG.zip
+:	:	ソーサリアンML ver.2.1.zip
+:	:	ソードオブレジェンド.zip
+:	:	ソリテアロイヤル.zip
+:	:	ゾーク123 ZORK123.zip
+:	:	巨神ゴーグ.zip
+:	:	殺意の接吻.zip
+:	:	殺人は手紙にのって.zip
+:	:	殺人倶楽部.zip
+:	:	雑学オリンピックﾜﾀﾅﾍﾞ.zip
+:	:	三国志.zip
+:	:	三国志SR.zip
+:	:	三国志２.zip
+:	:	三世諸佛.zip
+:	:	始皇帝.zip
+:	:	死霊戦線.zip
+:	:	死霊戦線２.zip
+:	:	私立探偵マックス ｸﾞﾗﾌｨｯｸ.zip
+:	:	私立探偵マックス.zip
+:	:	紫醜羅 SAZIRI.zip
+:	:	試験に出るうる星やつら.zip
+:	:	時空の花嫁.zip
+:	:	手天童子.zip
+:	:	重起動戦隊シグナス.zip
+:	:	重戦機エルガイム.zip
+:	:	女子大生プライベート.zip
+:	:	女子大生交際図鑑.zip
+:	:	将棋88.zip
+:	:	上海.zip
+:	:	上海RPG SR.zip
+:	:	上海RPG.zip
+:	:	上海２.zip
+:	:	新・九玉伝.zip
+:	:	新ベストナインプロ野球.zip
+:	:	新玉取物語.zip
+:	:	新竹取物語.zip
+:	:	深度40.zip
+:	:	水龍士.zip
+:	:	水龍士２.zip
+:	:	水滸伝.zip
+:	:	雀ボーグすずめ.zip
+:	:	世界やるほどsomuch.zip
+:	:	聖子ちゃんSOS.zip
+:	:	聖女ぱにっく.zip
+:	:	聖女伝説.zip
+:	:	西部の成りあがり.zip
+:	:	千之ナイフの魔少女館.zip
+:	:	戦場の狼.zip
+:	:	戦闘メカ ザブングル.zip
+:	:	全国おんせん麻雀.zip
+:	:	全国ナンパ修行 京都編.zip
+:	:	倉庫番.zip
+:	:	倉庫番１＆２＆ｴﾃﾞｨﾀ.zip
+:	:	倉庫番パーフェクト.zip
+:	:	地獄の練習問題.zip
+:	:	白伝説.zip
+:	:	白薔薇連続殺人事件.zip
+:	:	ｻﾃﾞｨｽﾃｨｯｸｹﾞｰﾏｰｽﾞ.zip
+:	:	ｻﾃﾞｨｽﾃｨｯｸｹﾞｰﾏｰｽﾞ2.zip
+:	:	ｽｰﾊﾟｰﾏﾘｵﾌﾞﾗｻﾞｰｽﾞSP.zip
+:	:	ザナドゥSR
+:	:	:	ザナドゥSR.d88
+:	た
+:	:	D'.zip
+:	:	D.C.コネクション.zip
+:	:	D.P.S.zip
+:	:	Dサイド D-SIDE.zip
+:	:	T.D.F.zip
+:	:	TNTボム&ボム TNT BOMB&BOMB.zip
+:	:	TOKYOナンパストリート.zip
+:	:	たたかうﾐﾓちゃんの大冒険.zip
+:	:	たんば.zip
+:	:	ちぇんじ vol.1.zip
+:	:	ちゃっくんぽっぷ.zip
+:	:	ちょっと名探偵.zip
+:	:	ですの.zip
+:	:	ときめきスポーツギャル１.zip
+:	:	ときめきスポーツギャル２.zip
+:	:	ときめきスポーツギャル３.zip
+:	:	とっぷるじっぷSR.zip
+:	:	どろろ.zip
+:	:	タイニーワスプ.zip
+:	:	タイムエンパイア.zip
+:	:	タイムゾーン.zip
+:	:	タイムトンネル.zip
+:	:	タッグオブウォー.zip
+:	:	タッチ.zip
+:	:	タッチダウン.zip
+:	:	タテスカウォーズ.zip
+:	:	タワーオブドラゴン.zip
+:	:	ダ・ビンチ ver.2.0.zip
+:	:	ダークシャイン.zip
+:	:	ダイナソア.zip
+:	:	ダイナソアMD.zip
+:	:	ダイナマイツボール.zip
+:	:	ダブルフェイス.zip
+:	:	ダメージズ＆ダイス.zip
+:	:	ダンジョンバスター.zip
+:	:	チームABﾐｭｰｼﾞｯｸﾃﾞｨｽｸ1.zip
+:	:	チャーリーソフト&VGM1.zip
+:	:	チャーリーソフトMD4.zip
+:	:	チャーリーソフトMG2.zip
+:	:	チョップリフター.zip
+:	:	チリトマト.zip
+:	:	ティルナノーグ.zip
+:	:	ティンカーベル.zip
+:	:	ティンカーベル２.zip
+:	:	テイクアウト vol.1.zip
+:	:	テイクアウト vol.2.zip
+:	:	テイクアウト vol.3.zip
+:	:	テイクアウト vol.4.zip
+:	:	テイクアウト vol.5.zip
+:	:	テイクアウト vol.6.zip
+:	:	テイクアウト vol.7.zip
+:	:	テグザー TEXDER.zip
+:	:	テグザー88 TEXDER88.zip
+:	:	テスタメント+拡張MAP.zip
+:	:	テスタメント.zip
+:	:	テトラス.zip
+:	:	テトリス.zip
+:	:	テニスフリーク.zip
+:	:	テレネットMUSICBOX.zip
+:	:	テレフォンクラブストーリー.zip
+:	:	デーモンクリスタル.zip
+:	:	デーモンズリング.zip
+:	:	ディーヴァ ヴリトラの炎.zip
+:	:	ディアブロ DIABLO.zip
+:	:	ディオーネ DIONE.zip
+:	:	ディガンの魔石.zip
+:	:	ディグダク.zip
+:	:	デイドリーム.zip
+:	:	デウリング.zip
+:	:	デザート DESSERT.zip
+:	:	デジャ DEJA.zip
+:	:	デストラクション下巻.zip
+:	:	デストラクション上巻.zip
+:	:	デストラップ.zip
+:	:	デゼニランド.zip
+:	:	デゼニワールドSR.zip
+:	:	デュエット Duet.zip
+:	:	デュエル DUEL.zip
+:	:	デリンジャー.zip
+:	:	トランシルバニア.zip
+:	:	トランシルバニア２.zip
+:	:	トランプ狂.zip
+:	:	トリトーン.zip
+:	:	トリトーン２.zip
+:	:	トワイライトゾーン３.zip
+:	:	ドーム THE DOME.zip
+:	:	ドール DOLL.zip
+:	:	ドアドア.zip
+:	:	ドアドアmkII.zip
+:	:	ドウジン Doujin.zip
+:	:	ドキドキカードリーグ.zip
+:	:	ドッキン美奈子先生！.zip
+:	:	ドラゴン DRAGON.zip
+:	:	ドラゴンアイズ.zip
+:	:	ドラゴンシティX指定.zip
+:	:	ドラゴンスレイヤー.zip
+:	:	ドラゴンスレイヤー英雄伝説.zip
+:	:	ドラゴンスレイヤー英雄伝説2.zip
+:	:	ドラゴンスレイヤー英雄伝説M.zip
+:	:	ドラゴンナイツ D.K.zip
+:	:	ドラゴンナイト.zip
+:	:	ドラゴンナイト２.zip
+:	:	ドラゴンバスター.zip
+:	:	ドラゴンプリンセス.zip
+:	:	ドリーミータウンMAJO.zip
+:	:	ドンキーゴリラ.zip
+:	:	ドンファン DON JUAN.zip
+:	:	詰碁120.zip
+:	:	太陽の神殿.zip
+:	:	堕天使KYOUKO.zip
+:	:	大航海時代.zip
+:	:	大戦略88.zip
+:	:	大脱走.zip
+:	:	第４のユニット.zip
+:	:	第４のユニット２.zip
+:	:	第４のユニット３.zip
+:	:	第４のユニット４.zip
+:	:	脱出・妖気の樹海.zip
+:	:	探偵団X.zip
+:	:	団地妻の誘惑.zip
+:	:	地底探検.zip
+:	:	超人ロック.zip
+:	:	提督の決断.zip
+:	:	敵は海賊・海賊版.zip
+:	:	天と地と.zip
+:	:	天使たちの午後.zip
+:	:	天使たちの午後２.zip
+:	:	天使たちの午後２番外編.zip
+:	:	天使たちの午後３.zip
+:	:	天使たちの午後３番外編.zip
+:	:	天使たちの午後の紅茶.zip
+:	:	天使たちの午後番外編.zip
+:	:	天地を喰らう.zip
+:	:	展望台.zip
+:	:	電研CGデモ.zip
+:	:	電脳学園.zip
+:	:	電脳学園２.zip
+:	:	電脳学園３.zip
+:	:	電脳水滸伝.zip
+:	:	電脳通信 vol.1.zip
+:	:	電脳通信 vol.7.zip
+:	:	東京女子高制服図鑑.zip
+:	:	東京女子高生セーラー服入門.zip
+:	:	東国の使者.zip
+:	:	闘氣王-TOKYO-.zip
+:	:	道化師殺人事件.zip
+:	:	道鏡.zip
+:	:	扉を開けて.zip
+:	:	ﾁｬﾝﾋﾟｵﾝｼｯﾌﾟﾛｰﾄﾞﾗﾝﾅｰ.zip
+:	:	ﾁｬﾝﾋﾟｵﾝﾌﾟﾛﾚｽSP.zip
+:	:	ﾄﾗﾌﾞﾙ&ｺﾝﾌｭｰｼﾞｮﾝ2.zip
+:	な
+:	:	ぬけるマスターPRO8.8K.zip
+:	:	ぬけるマスターXX.zip
+:	:	まじゃべんちゃー ねぎ麻雀.zip
+:	:	ナイザー.zip
+:	:	ナイトライフ.zip
+:	:	ナイルの涙.zip
+:	:	ナビチューン ﾄﾞﾗｺﾞﾝ航海記.zip
+:	:	ニード NEED.zip
+:	:	ニュートロン.zip
+:	:	ニューローダーズ vol.4.zip
+:	:	ニューローダーズ vol.5.zip
+:	:	ニューローダーズ vol.6.zip
+:	:	ネクロポリス.zip
+:	:	信長の野望.zip
+:	:	信長の野望・戦国群雄伝.zip
+:	:	信長の野望・全国版SR.zip
+:	:	信長の野望・武将風雲録.zip
+:	:	天然ヤシの実 ナテラ.zip
+:	:	南海の標的.zip
+:	:	任天堂のゴルフ.zip
+:	:	任天堂のテニス.zip
+:	:	忍者くん 魔城の冒険.zip
+:	:	抜忍伝説.zip
+:	:	抜忍伝説・番外編.zip
+:	は
+:	:	100円ソフト７.zip
+:	:	100円ソフト８FS.zip
+:	:	100円ソフト８RS.zip
+:	:	100円ディスク４.zip
+:	:	100円ディスク５.zip
+:	:	100円ディスク６.zip
+:	:	100円ディスク７.zip
+:	:	HARD社の社長クイズ.zip
+:	:	HIT-88 アセンブラ.zip
+:	:	PC-88ゲームブック.zip
+:	:	はーりぃふぉっくす.zip
+:	:	はーりぃふぉっくす２.zip
+:	:	はっちゃけあやよさん.zip
+:	:	はっちゃけあやよさん２.zip
+:	:	ばってんタヌキの大冒険.zip
+:	:	ぱにっくinセントフーレ.zip
+:	:	ぱのらま島.zip
+:	:	ひどいDISK vol.1.zip
+:	:	ひどいDISK vol.2.zip
+:	:	ぴんきぃぽんきぃ１.zip
+:	:	ぴんきぃぽんきぃ２.zip
+:	:	ぴんきぃぽんきぃ３.zip
+:	:	ふぇありぃてぃる.zip
+:	:	へらくれす.zip
+:	:	べろんちょ身体検査.zip
+:	:	ぺんぎんくんWARS.zip
+:	:	ぺんぎんビレッジ.zip
+:	:	ハードランク.zip
+:	:	ハーレッシュ HERLESH.zip
+:	:	ハイデッガー.zip
+:	:	ハイドライド.zip
+:	:	ハイドライド２.zip
+:	:	ハイドライド３.zip
+:	:	ハウメニロボット.zip
+:	:	ハッカー HACKER.zip
+:	:	ハラキリ HARAKIRI.zip
+:	:	ハングオン.zip
+:	:	バーニングポイント.zip
+:	:	バグアタック.zip
+:	:	バトルエントリー.zip
+:	:	バトルゴリラ.zip
+:	:	バトルバニーガール.zip
+:	:	バビロン.zip
+:	:	バブルガムクライシス.zip
+:	:	バランスオブパワー.zip
+:	:	バルバトゥスの魔女.zip
+:	:	パイパニック.zip
+:	:	パイレーツ！.zip
+:	:	パイレーツアドベンチャー.zip
+:	:	パスカル.ZIP
+:	:	パズルアドベンチャー.zip
+:	:	パラディン.zip
+:	:	パワフルじゃんけんEXE.zip
+:	:	パワフルまあじゃん.zip
+:	:	パワフルまあじゃんDATA1.zip
+:	:	パワフルまあじゃん２.zip
+:	:	パワフルエンジン.zip
+:	:	ヒラニプラ Hilanipla.zip
+:	:	ヒランヤの謎.zip
+:	:	ビクトリアスナインSR.zip
+:	:	ピーピングスキャンダル.zip
+:	:	ピアス PIAS.zip
+:	:	ピピ PiPi.zip
+:	:	ピュア.zip
+:	:	ピュア２.zip
+:	:	ピュアマイドール.zip
+:	:	ファーム FARM.zip
+:	:	ファーラの時結界.zip
+:	:	ファイナルクライシス.zip
+:	:	ファイナルゾーン.zip
+:	:	ファイナルロリータ.zip
+:	:	ファイナルロリータ改.zip
+:	:	ファイヤークリスタル.zip
+:	:	ファイヤークリスタルSR.zip
+:	:	ファイヤーホーク.zip
+:	:	ファイヤーホーク改.zip
+:	:	ファングス FANGS.zip
+:	:	ファンシープロムナード.zip
+:	:	ファンタジー.zip
+:	:	ファンタジー２.zip
+:	:	ファンタジー３.zip
+:	:	ファンタジー４.zip
+:	:	ファンタジーロップ.zip
+:	:	ファンタジアン.zip
+:	:	ファンタジックキュービック4.zip
+:	:	ファンハウスミステリー.zip
+:	:	フェードイン FADE IN.zip
+:	:	フェリル FERILL.zip
+:	:	フェリル データ集vol.1.zip
+:	:	フォクシー Foxy.zip
+:	:	フライトシミュレーター.zip
+:	:	フラッシュパワー.zip
+:	:	フラッピー.zip
+:	:	フリッキー.zip
+:	:	フルーツカクテル.zip
+:	:	フルーツパニック.zip
+:	:	ブードーキャッスル.zip
+:	:	ブライ・上巻.zip
+:	:	ブラスティー.zip
+:	:	ブラックオニキス.zip
+:	:	ブラックオニキスSR.zip
+:	:	ブラックプールの剣.zip
+:	:	ブルース･リー.zip
+:	:	ブルーナ BLUENA.zip
+:	:	ブルネット Burunet.zip
+:	:	プラジェータ.zip
+:	:	プラズマライン.zip
+:	:	プリプレプリチープリン.zip
+:	:	プロジェクトＡ子２.zip
+:	:	プロディジー Prodigy.zip
+:	:	プロデュース.zip
+:	:	プロフェッショナル麻雀悟空.zip
+:	:	プロペンシティ.zip
+:	:	プロンティス.zip
+:	:	プロヴィデンス.zip
+:	:	プロ野球ファン！+ギプス.zip
+:	:	ヘリコイド.zip
+:	:	ヘルツォーク.zip
+:	:	ベストナインプロ野球.ZIP
+:	:	ペンキ屋Youちゃん.zip
+:	:	ホーリーグレイ.zip
+:	:	ホールインワン.zip
+:	:	ホウリネスストーリー.zip
+:	:	ホウリネスストーリー２.zip
+:	:	ホットドッグ.zip
+:	:	ホットミルク.zip
+:	:	ホバーアタック.zip
+:	:	ホワイトクリスマス.zip
+:	:	ホワイトクリスマス２.zip
+:	:	ボールパニカー.zip
+:	:	ボコスカウォーズ.zip
+:	:	ボンジャック.zip
+:	:	ポーカーシスターズ.zip
+:	:	ポートピア連続殺人事件.zip
+:	:	ポッキー.zip
+:	:	ポッキー２.zip
+:	:	ポップレモン.zip
+:	:	ポプリLimited.zip
+:	:	花の清里.zip
+:	:	花嫁争奪 城昇りゲーム.zip
+:	:	華三眩.zip
+:	:	原宿アフターダーク.zip
+:	:	星の砂物語.zip
+:	:	早川愛美のスネークキャンプ.zip
+:	:	走れ！スカイラインSR.zip
+:	:	電脳絵ロ本 ぷるぷる.zip
+:	:	冬でござーる.zip
+:	:	覇者の封印.zip
+:	:	波動の標的.zip
+:	:	破邪大星ダンガイオー.zip
+:	:	白夜物語.zip
+:	:	飛車.zip
+:	:	美少女写真館 恐怖.zip
+:	:	美少女写真館 番外編.zip
+:	:	美少女写真館 ｽｸｰﾙ.zip
+:	:	美少女写真館 ｽﾀｼﾞｵ.zip
+:	:	不思議の壁.zip
+:	:	舞臓魔.zip
+:	:	冒険浪漫.zip
+:	:	北斗の拳.zip
+:	:	陽あたり良好！.zip
+:	:	媚少女NORIKO１.zip
+:	:	ﾊﾞｯｸﾄｩｻﾞﾌｭｰﾁｬｰAVG.zip
+:	:	ﾋﾞﾃﾞｵｹﾞｰﾑﾐｭｰｼﾞｯｸ1.zip
+:	:	ﾋﾞﾃﾞｵｹﾞｰﾑﾐｭｰｼﾞｯｸ2.zip
+:	:	ﾋﾟﾝﾎﾞｰﾙｺﾝｽﾄﾗｸｼｮﾝｾｯﾄ.zip
+:	:	ﾌｪｱﾘｰｽﾞﾚｼﾞﾃﾞﾝｽ.zip
+:	:	ﾌｪｱﾘｰｽﾞﾚｼﾞﾃﾞﾝｽSP4.zip
+:	:	ﾌｪｱﾘｰｽﾞﾚｼﾞﾃﾞﾝｽSPSF.zip
+:	:	ﾌｪｱﾘｰｽﾞﾚｼﾞﾃﾞﾝｽSP学園.zip
+:	:	ﾌｪｱﾘｰｽﾞﾚｼﾞﾃﾞﾝｽSPｸﾗﾌﾞ.zip
+:	:	ﾌﾘﾈﾃｨｯｸｼｭｰﾃｨﾝｸﾞ2.zip
+:	:	ﾌﾘﾈﾃｨｯｸｼｭｰﾃｨﾝｸﾞ3.zip
+:	ま
+:	:	Mr.プロ野球.zip
+:	:	まぁーまれーど.zip
+:	:	まぁーまれーど２.zip
+:	:	まぁーまれーど２PLUS.zip
+:	:	まほろば.zip
+:	:	まみりん.zip
+:	:	みさいるパニック.zip
+:	:	めいず君.zip
+:	:	めそん一刻・残酷編.zip
+:	:	めぞん一刻.zip
+:	:	めぞん一刻・完結編.zip
+:	:	もりな.zip
+:	:	マイト&マジック.zip
+:	:	マイト&マジック２.zip
+:	:	マイドン MAIDON.zip
+:	:	マイナー2049.ZIP
+:	:	マイロリータ.zip
+:	:	マインドストーム.zip
+:	:	マカダム.zip
+:	:	マグネットワールドFINAL.zip
+:	:	マグネットワールド２.zip
+:	:	マスカレード.zip
+:	:	マスターオブモンスターズ.zip
+:	:	マッピーSR.zip
+:	:	マリちゃん危機一髪.zip
+:	:	マリコの部屋 それから.zip
+:	:	マリコの部屋.zip
+:	:	マンハッタンレクイエム.zip
+:	:	ミスターバンプ.ZIP
+:	:	ミスターロボット.zip
+:	:	ミスティブルー.zip
+:	:	ミステリーハウスMC.zip
+:	:	ミステリーハウスSC.zip
+:	:	ミッドガルツ DUAL SIDE.zip
+:	:	ミッドナイトマジック.zip
+:	:	ミュージアム２.zip
+:	:	ミュージックディスク.zip
+:	:	ミュージックフロッピー２.zip
+:	:	ミュージックフロッピー３.zip
+:	:	ミュージックラボ.zip
+:	:	ミュール M.U.L.E.zip
+:	:	ミルキーウェイ.zip
+:	:	ムーンチャイルド.zip
+:	:	メーベルズマンション.zip
+:	:	メイズパニック.zip
+:	:	メイドゥム.zip
+:	:	メタルオレンジ.zip
+:	:	メダルジャック.zip
+:	:	メダルジャック２.zip
+:	:	メディフローラの泉.zip
+:	:	メルトダウン.zip
+:	:	メルヘンヴェールSR.zip
+:	:	メルヘンヴェールmkII.zip
+:	:	メロンソーダ.zip
+:	:	モールモール.zip
+:	:	モールモール２.zip
+:	:	モンスターランド.zip
+:	:	雅.zip
+:	:	女神転生.zip
+:	:	森田のバトルフィールド.zip
+:	:	森田和郎の将棋.zip
+:	:	素子姫アドベンチャー.zip
+:	:	超時空要塞マクロス.zip
+:	:	舞ちゃんてばFightingNow.zip
+:	:	摩訶迦羅.zip
+:	:	魔界村.zip
+:	:	魔界復活.zip
+:	:	魔浄理子 インビゾーン.zip
+:	:	魔法使いの妹子.zip
+:	:	麻雀狂時代スペシャル.zip
+:	:	未来.zip
+:	:	夢幻の心臓.zip
+:	:	夢幻の心臓２.zip
+:	:	夢幻の心臓３.zip
+:	:	卍.zip
+:	:	ﾐｽﾃﾘｱｽﾗﾌﾞﾄｰｸﾝ.zip
+:	:	ﾐｽﾃﾘｱｽﾗﾌﾞﾄｰｸﾝ98.zip
+:	:	ﾐﾝｷｰﾓﾓのﾊﾟﾆｯｸﾎﾞｰﾙ.zip
+:	ら
+:	:	LOGIN版ドラゴンスレイヤー.zip
+:	:	RUNRUN狂走曲.zip
+:	:	やじうまペナントレース.zip
+:	:	やじうまペナントレース２.ZIP
+:	:	らぷてっく.zip
+:	:	らんらん狂走曲.zip
+:	:	りみちゃんの危険な夜.zip
+:	:	バビロンの黄金伝説.zip
+:	:	ヤシャ YAKSA MD.zip
+:	:	ヤシャ YAKSA.zip
+:	:	ユニフォーム.zip
+:	:	ユリシーズ.zip
+:	:	ヨーロッパ戦線.zip
+:	:	ヨコスカウォーズ.zip
+:	:	ライオン LION.zip
+:	:	ライレーン.zip
+:	:	ラグランジュL-2.zip
+:	:	ラストアワーズ.zip
+:	:	ラストハルマゲドン.zip
+:	:	ラストハルマゲドンﾌﾙﾊﾟｯｸ.zip
+:	:	ラスベガス.zip
+:	:	ラビリンス.zip
+:	:	ラブメイト.zip
+:	:	ラブリーGAL.zip
+:	:	ラプラスの魔.zip
+:	:	ラミア1999.zip
+:	:	ランギスタンからの脱出.zip
+:	:	ランス.zip
+:	:	ランス２.zip
+:	:	ランペルール.zip
+:	:	リグラス.zip
+:	:	リザード.zip
+:	:	リターンオブイシター.zip
+:	:	リップスティック３OL.zip
+:	:	リップスティック５ｽﾁｭﾜｰﾃﾞｽ.zip
+:	:	リップステック１ﾛﾘｰﾀ.zip
+:	:	リップステック２女子学生.zip
+:	:	リトルボックス.zip
+:	:	リトルヴァンパイア.zip
+:	:	リバイバー.zip
+:	:	リファイト.zip
+:	:	リボルター.zip
+:	:	リボルター別version.zip
+:	:	リングクエスト.zip
+:	:	リンナちゃんの事件簿.zip
+:	:	リンナちゃんの事件簿２.zip
+:	:	ルール・ザ・ワールド.zip
+:	:	ルーンワース JB.zip
+:	:	ルーンワース.zip
+:	:	ルクソール.zip
+:	:	ルナシティ殺人事件.zip
+:	:	ルナボール.zip
+:	:	レビュー REVIEW.zip
+:	:	レプリカート.zip
+:	:	レモネード創刊号.zip
+:	:	レリクス.zip
+:	:	ローオブザウエスト.zip
+:	:	ローグ.zip
+:	:	ローグ・アライアンス.zip
+:	:	ロードウォー2000.ZIP
+:	:	ロードオーバー.zip
+:	:	ロードランナー.zip
+:	:	ロイヤルブラッド.zip
+:	:	ロストパワー.zip
+:	:	ロットロット LOTLOT.ZIP
+:	:	ロットロット.zip
+:	:	ロボレス2001.zip
+:	:	ロマンシア.zip
+:	:	ロリータ.zip
+:	:	ロリータ２.zip
+:	:	ロリータシンドローム.zip
+:	:	ロリータ姫の絵日記.ZIP
+:	:	ロリータ姫の伝説.zip
+:	:	闇の壱与伝説.zip
+:	:	楽園の招待状.zip
+:	:	地球戦士ライーザ.zip
+:	:	夢のファンタジア.zip
+:	:	夢のファンタジアNormal.zip
+:	:	夜明けのメリーゴーランド.zip
+:	:	野球狂.ZIP
+:	:	野球道.zip
+:	:	野球道２.zip
+:	:	有害コミック問題DEMO.zip
+:	:	遊撃隊 番外編.zip
+:	:	夕なぎのホライゾン.zip
+:	:	妖怪探偵ちまちま.zip
+:	:	妖姫伝.zip
+:	:	ﾘｯﾌﾟｽﾃｨｯｸｱﾄﾞﾍﾞﾝﾁｬｰ.zip
+:	:	ﾘﾄﾙｺﾝﾋﾟｭｰﾀｰﾋﾟｰﾌﾟﾙ.zip
+:	わ
+:	:	わが青春の妖怪屋敷.zip
+:	:	ワーニング Warning.zip
+:	:	ワールドゴルフ.zip
+:	:	ワールドゴルフ２.zip
+:	:	ワールドゴルフ３.zip
+:	:	ワイアード２ WEIRD2.zip
+:	:	ワイルドキャット.zip
+:	:	ワンダラーズフロムイース.zip
+:	:	ワンダラーズフロムイースMG.zip
+:	:	私をゴルフに連れてって.zip
+:	:	妖獣機甲兵ワードラゴン.zip
+:	:	惑星メフィウス.zip
+:	:	ﾜﾝﾀﾞﾗｰｽﾞﾌﾛﾑｲｰｽDEMO.zip
+:	:	ﾜﾝﾀﾞﾗｰｽﾞﾌﾛﾑｽｰﾊﾟｰｽｷｰﾑ.zip
+:	店頭DEMO
+:	:	PC-8801MAFA店頭DEMO.zip
+:	:	PC-8801MKII DEMO(TAPE).ZIP
+:	:	PC-8801MKIISR DEMO(TAPE).ZIP
+:	:	PC-8801mkIIMHFH店頭DEMO2.zip
+:	:	PC-8801mkIISR店頭DEMO.zip
+:	:	とっぷるじっぷDEMO.zip
+:	:	ねぎ麻雀DEMO.zip
+:	:	ぴんきぃぽんきぃDEMO.zip
+:	:	アークスDEMO.zip
+:	:	アルファDEMO.zip
+:	:	イース２DEMO.zip
+:	:	エメラルドドラゴンDEMO.zip
+:	:	コズミックソルジャーDEMO.zip
+:	:	シルフィードDEMO.zip
+:	:	スタートレーダーDEMO.zip
+:	:	ディーヴァDEMO.zip
+:	:	ディオーネDEMO.zip
+:	:	ピーワン P1 DEMO.zip
+:	:	ファイナルゾーンDEMO.zip
+:	:	フェアリーテールCM.zip
+:	:	ホウリネスストーリー２DEMO.zip
+:	:	ヤシャDEMO.zip
+:	:	ラヴァルーDEMO.zip
+:	:	ヴェイグスDEMO.zip
+:	:	自己中心派・麻雀パズルDEMO.zip
+:	:	自己中心派３DEMO.zip
+:	:	新・九玉伝DEMO.zip
+:	:	神の聖都DEMO SB2対応版.zip
+:	:	神の聖都DEMO.zip
+:	:	夢幻戦士ヴァリス２DEMO.zip
+:	付属DEMO
+:	:	PC-8801FA DEMO.zip
+:	:	PC-8801FE DEMO.zip
+:	:	PC-8801MA DEMO.zip
+:	:	PC-8801MA2 DEMO.zip
+:	:	PC-8801mkIIFH DEMO.zip
+:	:	PC-8801mkIIFR DEMO.zip
+:	:	PC-8801mkIIMH DEMO.zip
+:	:	PC-8801mkIIMR DEMO.zip
+:	:	PC-8801mkIISR DEMO.zip
+:	:	PC-8801mkIITR DEMO.zip
+:	:	PC-98DO DEMO.zip
+:	:	ミコとアケミ+ザ・マウス.zip

@@ -1,0 +1,240 @@
+:	:	AE (1984) (Atari) (Prototype) (U).zip
+:	:	Asteroids (1983) (Atari) (Prototype) (U) [o1].zip
+:	:	Astro Chase (1982) (Parker Brothers-First Star Software) (U).zip
+:	:	Atari Diagnostics V2.3 (1983) (Atari) (U).zip
+:	:	Ballblazer (1984) (Atari-Lucasfilm Games) (U) [a1].zip
+:	:	Ballblazer (1984) (Atari-Lucasfilm Games) (U).zip
+:	:	Barroom Baseball (1983) (Atari) (U).zip
+:	:	Battlezone (1983) (Atari) (U).zip
+:	:	Beamrider (1984) (Activision) (U) [b1].zip
+:	:	Beamrider (1984) (Activision) (U) [o1].zip
+:	:	Beamrider (1984) (Activision) (U).zip
+:	:	Berzerk (1983) (Atari) (U) [b1].zip
+:	:	Berzerk (1983) (Atari) (U) [o1].zip
+:	:	Berzerk (1983) (Atari) (U).zip
+:	:	Blueprint (1982) (CBS) (U) [a1].zip
+:	:	Blueprint (1982) (CBS) (U) [a1][o1].zip
+:	:	Blueprint (1982) (CBS) (U) [a1][o2].zip
+:	:	Blueprint (1982) (CBS) (U) [b1].zip
+:	:	Blueprint (1982) (CBS) (U) [b2].zip
+:	:	Blueprint (1982) (CBS) (U) [o1].zip
+:	:	Blueprint (1982) (CBS) (U).zip
+:	:	Boogie (1982) (Atari) (Prototype) (U) [o1].zip
+:	:	Boogie (1982) (Atari) (Prototype) (U) [o2].zip
+:	:	Bounty Bob Strikes Back (BB_40_4F) (1984) (Big Five Software) (U).zip
+:	:	Bounty Bob Strikes Back (BB_50_5F) (1984) (Big Five Software) (U).zip
+:	:	Bounty Bob Strikes Back (BB_A0_BF) (1984) (Big Five Software) (U).zip
+:	:	Bounty Bob Strikes Back (Merged) (Big Five Software) (U).zip
+:	:	Buck Rogers - Planet of Zoom (1983) (Sega) (U) [a1].zip
+:	:	Buck Rogers - Planet of Zoom (1983) (Sega) (U) [a1][b1].zip
+:	:	Buck Rogers - Planet of Zoom (1983) (Sega) (U) [b1].zip
+:	:	Buck Rogers - Planet of Zoom (1983) (Sega) (U).zip
+:	:	Castle Blast (2002) (U) (Demo V.03).zip
+:	:	Castle Blast (2002) (U) (NAVA Demo).zip
+:	:	Centipede (1982) (Atari) (U).zip
+:	:	Choplifter (1984) (Atari) (U) [o1].zip
+:	:	Choplifter (1984) (Atari) (U).zip
+:	:	Congo Bongo (1983) (Sega) (U) [a1].zip
+:	:	Congo Bongo (1983) (Sega) (U) [a1][b1].zip
+:	:	Congo Bongo (1983) (Sega) (U) [b1].zip
+:	:	Congo Bongo (1983) (Sega) (U).zip
+:	:	Countermeasure (1983) (Atari) (U) [o1].zip
+:	:	Countermeasure (1983) (Atari) (U).zip
+:	:	Decathlon (1984) (Activision) (U) [b1].zip
+:	:	Decathlon (1984) (Activision) (U).zip
+:	:	Defender (1982) (Atari) (U) [b1].zip
+:	:	Defender (1982) (Atari) (U) [b2].zip
+:	:	Defender (1982) (Atari) (U).zip
+:	:	Dig Dug (1983) (Atari) (U).zip
+:	:	Dreadnaught Factor, The (1983) (Atari) (U) [o1].zip
+:	:	Dreadnaught Factor, The (1983) (Atari) (U).zip
+:	:	Frisky Tom (1982) (Atari) (Prototype) (U).zip
+:	:	Frogger (1983) (Parker Brothers) (U) [a1].zip
+:	:	Frogger (1983) (Parker Brothers) (U) [b1].zip
+:	:	Frogger (1983) (Parker Brothers) (U) [b1][o1].zip
+:	:	Frogger (1983) (Parker Brothers) (U) [o1].zip
+:	:	Frogger (1983) (Parker Brothers) (U) [o2].zip
+:	:	Frogger (1983) (Parker Brothers) (U).zip
+:	:	Frogger 2 - Threedeep! (1984) (Parker Brothers) (U) [a1].zip
+:	:	Frogger 2 - Threedeep! (1984) (Parker Brothers) (U) [a1][o1].zip
+:	:	Frogger 2 - Threedeep! (1984) (Parker Brothers) (U) [a1][o2].zip
+:	:	Frogger 2 - Threedeep! (1984) (Parker Brothers) (U) [b1].zip
+:	:	Frogger 2 - Threedeep! (1984) (Parker Brothers) (U).zip
+:	:	Galaxian (1982) (Atari) (U) [b1].zip
+:	:	Galaxian (1982) (Atari) (U) [o1].zip
+:	:	Galaxian (1982) (Atari) (U) [o2].zip
+:	:	Galaxian (1982) (Atari) (U).zip
+:	:	Gorf (1982) (CBS) (U) [o1].zip
+:	:	Gorf (1982) (CBS) (U).zip
+:	:	Gremlins (1984) (Atari) (U) [b1].zip
+:	:	Gremlins (1984) (Atari) (U) [b2].zip
+:	:	Gyruss (1982) (Parker Brothers) (U).zip
+:	:	H.E.R.O. (1984) (Activision) (U) [b1].zip
+:	:	H.E.R.O. (1984) (Activision) (U) [o1].zip
+:	:	H.E.R.O. (1984) (Activision) (U).zip
+:	:	Hello World by Dan Boris (PD).zip
+:	:	James Bond 007 (1983) (Parker Brothers) (U) [a1][b1].zip
+:	:	James Bond 007 (1983) (Parker Brothers) (U) [b1].zip
+:	:	James Bond 007 (1983) (Parker Brothers) (U).zip
+:	:	Joust (1983) (Atari) (U) [b1].zip
+:	:	Joust (1984) (Atari) (U).zip
+:	:	Jr Pac-Man (1984) (Atari) (U) [b1].zip
+:	:	Jr Pac-Man (1984) (Atari) (U) [b2].zip
+:	:	Jr Pac-Man (1984) (Atari) (U).zip
+:	:	Jum's Pong (2000) (PD).zip
+:	:	Jungle Hunt (1983) (Atari) (U) [b1].zip
+:	:	Jungle Hunt (1983) (Atari) (U).zip
+:	:	K-razy Shootout (1982) (CBS) (U) [o1].zip
+:	:	K-razy Shootout (1982) (CBS) (U).zip
+:	:	KABOOM! (1983) (Activision) (U) [o1].zip
+:	:	KABOOM! (1983) (Activision) (U).zip
+:	:	Kangaroo (1982) (Atari) (U) [b1].zip
+:	:	Kangaroo (1982) (Atari) (U) [b2].zip
+:	:	Kangaroo (1982) (Atari) (U) [o1].zip
+:	:	Keystone Kapers (1984) (Activision) (U) [b1].zip
+:	:	Keystone Kapers (1984) (Activision) (U) [o1].zip
+:	:	Keystone Kapers (1984) (Activision) (U).zip
+:	:	Last Starfighter, The (1984) (Atari) (U) [b1].zip
+:	:	Last Starfighter, The (1984) (Atari) (U).zip
+:	:	Looney Tunes Hotel (1983) (Atari) (U) [b1].zip
+:	:	Looney Tunes Hotel (1983) (Atari) (U) [b2].zip
+:	:	Looney Tunes Hotel (1983) (Atari) (U) [b3].zip
+:	:	Looney Tunes Hotel (1983) (Atari) (U).zip
+:	:	Mario Brothers (1983) (Atari) (U) [a1].zip
+:	:	Mario Brothers (1983) (Atari) (U) [b1].zip
+:	:	Mario Brothers (1983) (Atari) (U).zip
+:	:	Meebzork (1983) (Atari) (U).zip
+:	:	Megamania (1983) (Activision) (U) [o1].zip
+:	:	Megamania (1983) (Activision) (U).zip
+:	:	Meteorites (1983) (Electra Concepts) (U) [o1].zip
+:	:	Meteorites (1983) (Electra Concepts) (U).zip
+:	:	Microgammon SB (1983) (Atari) (U) [b1].zip
+:	:	Microgammon SB (1983) (Atari) (U).zip
+:	:	Millipede (1984) (Atari) (U) [o1].zip
+:	:	Millipede (1984) (Atari) (U).zip
+:	:	Miner 2049 (1983) (Big Five Software) (U) [o1].zip
+:	:	Miner 2049 (1983) (Big Five Software) (U).zip
+:	:	Miniature Golf (1983) (Atari) (U) [b1].zip
+:	:	Miniature Golf (1983) (Atari) (U).zip
+:	:	Missile Command (1983) (Atari) (U) [b1].zip
+:	:	Missile Command (1983) (Atari) (U) [b2].zip
+:	:	Missile Command (1983) (Atari) (U) [b3].zip
+:	:	Missile Command (1983) (Atari) (U).zip
+:	:	Montezuma's Revenge (1984) (Parker Brothers) (U) [b1].zip
+:	:	Montezuma's Revenge (1984) (Parker Brothers) (U).zip
+:	:	Moon Patrol (1983) (Atari) (U) [o1].zip
+:	:	Moon Patrol (1983) (Atari) (U).zip
+:	:	Mountain King (1984) (Sunrise Software) (U) [o1].zip
+:	:	Mountain King (1984) (Sunrise Software) (U) [o2].zip
+:	:	Mountain King (1984) (Sunrise Software) (U).zip
+:	:	Mr. Do's Castle (1984) (Parker Brothers) (U) [b1].zip
+:	:	Mr. Do's Castle (1984) (Parker Brothers) (U) [b1][o1].zip
+:	:	Mr. Do's Castle (1984) (Parker Brothers) (U) [o1].zip
+:	:	Mr. Do's Castle (1984) (Parker Brothers) (U).zip
+:	:	Ms. Pac-Man (1982) (Atari) (U) [b1].zip
+:	:	Ms. Pac-Man (1982) (Atari) (U) [b2].zip
+:	:	Ms. Pac-Man (1982) (Atari) (U).zip
+:	:	PAM Diagnostics 2.0 (1982) (Atari) (U).zip
+:	:	PAM SALT v1.0 (1982) (Atari) (U) [o1].zip
+:	:	PAM SALT v1.0 (1982) (Atari) (U).zip
+:	:	Pac-Man (1982) (Atari) (U) [b1].zip
+:	:	Pac-Man (1982) (Atari) (U) [b2].zip
+:	:	Pac-Man (1982) (Atari) (U) [b3].zip
+:	:	Pac-Man (1982) (Atari) (U).zip
+:	:	Pac-Man Jr. (1982) (Atari) (Prototype) (U).zip
+:	:	Pengo (1983) (Atari) (U) [b1].zip
+:	:	Pengo (1983) (Atari) (U).zip
+:	:	Pete's Diagnostics (1982) (Atari) (U) [o1].zip
+:	:	Pete's Diagnostics (1982) (Atari) (U).zip
+:	:	Pitfall II - The Lost Caverns (1984) (Activision) (U) [o1].zip
+:	:	Pitfall II - The Lost Caverns (1984) (Activision) (U).zip
+:	:	Pitfall! (1982) (Activision) (U) [o1].zip
+:	:	Pitfall! (1982) (Activision) (U).zip
+:	:	Player & Missle Graphics Demo by Dan Boris (PD).zip
+:	:	Pole Position (1983) (Atari) (U).zip
+:	:	Popeye (1983) (Parker Brothers) (U) [b1].zip
+:	:	Popeye (1983) (Parker Brothers) (U).zip
+:	:	Q-bert (1983) (Parker Brothers) (U) [b1].zip
+:	:	Q-bert (1983) (Parker Brothers) (U) [o1].zip
+:	:	Q-bert (1983) (Parker Brothers) (U).zip
+:	:	QIX (1982) (Atari) (U) [b1].zip
+:	:	QIX (1982) (Atari) (U) [b2].zip
+:	:	QIX (1982) (Atari) (U).zip
+:	:	Quest for Quintana Roo (1984) (Sunrise Software) (U) [o1].zip
+:	:	Quest for Quintana Roo (1984) (Sunrise Software) (U).zip
+:	:	Realsports Baseball (1983) (Atari) (U) [o1].zip
+:	:	Realsports Basketball (1983) (Atari) (U) [a1].zip
+:	:	Realsports Basketball (1983) (Atari) (U).zip
+:	:	Realsports Football (1982) (Atari) (U) [b1].zip
+:	:	Realsports Football (1982) (Atari) (U).zip
+:	:	Realsports Soccer (1982) (Atari) (U) [a1].zip
+:	:	Realsports Soccer (1982) (Atari) (U) [b1].zip
+:	:	Realsports Soccer (1982) (Atari) (U) [b2].zip
+:	:	Realsports Soccer (1982) (Atari) (U).zip
+:	:	Realsports Tennis (1982) (Atari) (U).zip
+:	:	Rescue on Fractalus (1984) (Atari-Lucasfilm Games) (U).zip
+:	:	River Raid (1983) (Activision) (U) [b1].zip
+:	:	River Raid (1983) (Activision) (U) [b2].zip
+:	:	River Raid (1983) (Activision) (U) [o1].zip
+:	:	River Raid (1983) (Activision) (U).zip
+:	:	Road Runner (1982) (Atari) (U) [b1].zip
+:	:	Road Runner (1982) (Atari) (U).zip
+:	:	Robotron 2084 (1983) (Atari) (U) [b1].zip
+:	:	Robotron 2084 (1983) (Atari) (U) [o1].zip
+:	:	Robotron 2084 (1983) (Atari) (U) [o2].zip
+:	:	Robotron 2084 (1983) (Atari) (U).zip
+:	:	Space Dungeon (1983) (Atari) (U).zip
+:	:	Space Invaders (1982) (Atari) (U) [b1].zip
+:	:	Space Invaders (1982) (Atari) (U) [o1].zip
+:	:	Space Invaders (1982) (Atari) (U) [o2].zip
+:	:	Space Invaders (1982) (Atari) (U).zip
+:	:	Space Shuttle - A Journey Into Space (1983) (Activision) (U) [o1].zip
+:	:	Space Shuttle - A Journey Into Space (1983) (Activision) (U).zip
+:	:	Spitfire (1984) (Atari) (Prototype) (U) [a1].zip
+:	:	Spitfire (1984) (Atari) (Prototype) (U).zip
+:	:	Sport Goofy (1983) (Atari) (U) [b1].zip
+:	:	Sport Goofy (1983) (Atari) (U) [b2].zip
+:	:	Sport Goofy (1983) (Atari) (U) [b3].zip
+:	:	Sport Goofy (1983) (Atari) (U).zip
+:	:	Star Raiders (1982) (Atari) (U) [b1].zip
+:	:	Star Raiders (1982) (Atari) (U) [b2].zip
+:	:	Star Raiders (1982) (Atari) (U) [b3].zip
+:	:	Star Raiders (1982) (Atari) (U).zip
+:	:	Star Trek - Strategic Operations Simulator (1983) (Sega) (U) [b1].zip
+:	:	Star Trek - Strategic Operations Simulator (1983) (Sega) (U).zip
+:	:	Star Wars - ROTJ - Death Star Battle (1983) (Parker Bros) (U) [b1].zip
+:	:	Star Wars - ROTJ - Death Star Battle (1983) (Parker Bros) (U).zip
+:	:	Star Wars - The Arcade Game (1983) (Parker Bros) (U).zip
+:	:	Stargate (1984) (Atari) (U) [b1].zip
+:	:	Stargate (1984) (Atari) (U).zip
+:	:	Super Breakout (1982) (Atari) (U) [b2].zip
+:	:	Super Breakout (1982) (Atari) (U) [o1].zip
+:	:	Super Breakout (1982) (Atari) (U) [o2].zip
+:	:	Super Breakout (1982) (Atari) (U).zip
+:	:	Super Cobra (1983) (Parker Bros) (U) [b1].zip
+:	:	Super Cobra (1983) (Parker Bros) (U) [o1].zip
+:	:	Super Cobra (1983) (Parker Bros) (U) [o2].zip
+:	:	Super Cobra (1983) (Parker Bros) (U).zip
+:	:	Super Pac-Man (1982) (Atari) (Prototype) (U).zip
+:	:	Tempest (1983) (Atari) (Prototype) (U) [!].zip
+:	:	Track 'N Field (1984) (Atari) (U) [o1].zip
+:	:	Track 'N Field (1984) (Atari) (U).zip
+:	:	Vanguard (1983) (Atari) (U) [b1].zip
+:	:	Vanguard (1983) (Atari) (U).zip
+:	:	Wizard of Wor (1982) (CBS) (U) [b1].zip
+:	:	Wizard of Wor (1982) (CBS) (U) [o1].zip
+:	:	Wizard of Wor (1982) (CBS) (U).zip
+:	:	Xari Arena (1983) (Atari) (Prototype) (U) [b1].zip
+:	:	Xari Arena (1983) (Atari) (Prototype) (U) [b2].zip
+:	:	Xari Arena (1983) (Atari) (Prototype) (U).zip
+:	:	Xevious (1984) (Atari) (U) [b1].zip
+:	:	Xevious (1984) (Atari) (U).zip
+:	:	Yellow Submarine Demo (1982) (Atari) (Prototype) (U) [o1].zip
+:	:	Yellow Submarine Demo (1982) (Atari) (Prototype) (U) [o2].zip
+:	:	Zaxxon (1984) (Sega) (U) [b1].zip
+:	:	Zaxxon (1984) (Sega) (U) [b2].zip
+:	:	Zenji (1984) (Atari) (U) [b1].zip
+:	:	Zenji (1984) (Atari) (U) [o1].zip
+:	:	Zenji (1984) (Atari) (U).zip
+:	:	Zone Ranger (1984) (Activision) (U) [o1].zip
+:	:	Zone Ranger (1984) (Activision) (U).zip

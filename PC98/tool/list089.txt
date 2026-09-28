@@ -1,0 +1,127 @@
+(ROM) MSX Turbo-R 58Games (TOSEC 0.10) (rr5%).rar
+cf033b266ba899c12a245ffdb32636e2・6303ab8ce41e6623525c38d28a6902b73abc1de6
+14,285,489
+ファイル数合計 = 59 個
+ファイルサイズ合計 = 42764857 Byte
+
+:	MSX Turbo-Rhave.txt
+:	MSX Turbo-R
+:	:	2021 Snooky! (19xx)(-)[b].dsk
+:	:	Blade (1997)(GW's Workshop)[b].dsk
+:	:	Die Frage II (19xx)(Studio Sequence)(De)[b][Prime Release].dsk
+:	:	Earth Attack (19xx)(GW's Workshop)[b].dsk
+:	:	F-Nano 2 (1994)(XRay)[Promo].dsk
+:	:	Fishing (1996)(GW's Workshop)[b].dsk
+:	:	Fray Demo Disk 0 (1990)(MicroCabin)(Disk 1 of 5).dsk
+:	:	Fray Demo Disk 0 (1990)(MicroCabin)[a](Disk 1 of 5).dsk
+:	:	Fray Demo Disk 1 (1990)(MicroCabin)(Disk 2 of 5).dsk
+:	:	Fray Demo Disk 1 (1990)(MicroCabin)[a](Disk 2 of 5).dsk
+:	:	Fray Demo Disk 2 (1990)(MicroCabin)(Disk 3 of 5).dsk
+:	:	Fray Demo Disk 2 (1990)(MicroCabin)[a](Disk 3 of 5).dsk
+:	:	Fray Game Disk 0 (1990)(MicroCabin)(Disk 4 of 5).dsk
+:	:	Fray Game Disk 0 (1990)(MicroCabin)[a](Disk 4 of 5).dsk
+:	:	Fray Game Disk 1 (1990)(MicroCabin)(Disk 5 of 5).dsk
+:	:	Illusion City (1991)(MicroCabin)(Jp)(Disk 1 of 8).dsk
+:	:	Illusion City (1991)(MicroCabin)(Jp)(Disk 2 of 8).dsk
+:	:	Illusion City (1991)(MicroCabin)(Jp)(Disk 3 of 8).dsk
+:	:	Illusion City (1991)(MicroCabin)(Jp)(Disk 4 of 8).dsk
+:	:	Illusion City (1991)(MicroCabin)(Jp)(Disk 5 of 8).dsk
+:	:	Illusion City (1991)(MicroCabin)(Jp)(Disk 6 of 8).dsk
+:	:	Illusion City (1991)(MicroCabin)(Jp)(Disk 7 of 8).dsk
+:	:	Illusion City (1991)(MicroCabin)(Jp)(Disk 8 of 8).dsk
+:	:	Illusion City (1991)(MicroCabin)(Jp)[a](Disk 1 of 8).dsk
+:	:	Illusion City (1991)(MicroCabin)(Jp)[a](Disk 2 of 8).dsk
+:	:	Lemon (19xx)(-).dsk
+:	:	Mega Doom (demo) (1992)(First Class Software).dsk
+:	:	Moonlight Saga (1997)(-)[b].dsk
+:	:	Msx View (19xx)(-)[b].dsk
+:	:	Paralell Dreams (19xx)(Ascii Corp).dsk
+:	:	Paralell Dreams (19xx)(Ascii Corp)[b].dsk
+:	:	Pcm Player, The (19xx)(-)[b].dsk
+:	:	Princess Maker (1991)(MicroCabin)(Disk 1 of 7).dsk
+:	:	Princess Maker (1991)(MicroCabin)(Disk 2 of 7).dsk
+:	:	Princess Maker (1991)(MicroCabin)(Disk 3 of 7).dsk
+:	:	Princess Maker (1991)(MicroCabin)(Disk 4 of 7).dsk
+:	:	Princess Maker (1991)(MicroCabin)(Disk 5 of 7).dsk
+:	:	Princess Maker (1991)(MicroCabin)(Disk 6 of 7).dsk
+:	:	Princess Maker (1991)(MicroCabin)(Disk 7 of 7).dsk
+:	:	Ranma 1-2 (19xx)(MicroCabin)(Disk 1 of 8).dsk
+:	:	Ranma 1-2 (19xx)(MicroCabin)(Disk 2 of 8).dsk
+:	:	Ranma 1-2 (19xx)(MicroCabin)(Disk 3 of 8).dsk
+:	:	Ranma 1-2 (19xx)(MicroCabin)(Disk 4 of 8).dsk
+:	:	Ranma 1-2 (19xx)(MicroCabin)(Disk 5 of 8).dsk
+:	:	Ranma 1-2 (19xx)(MicroCabin)(Disk 6 of 8).dsk
+:	:	Ranma 1-2 (19xx)(MicroCabin)(Disk 7 of 8).dsk
+:	:	Ranma 1-2 (19xx)(MicroCabin)(Disk 8 of 8).dsk
+:	:	Seed Of Dragon (19xx)(River Hill)(Disk 1 of 3).dsk
+:	:	Seed Of Dragon (19xx)(River Hill)(Disk 2 of 3).dsk
+:	:	Seed Of Dragon (19xx)(River Hill)(Disk 3 of 3).dsk
+:	:	Shoot That Flying Windows! (19xx)(-).dsk
+:	:	Swiss Demo, The (1991-92)(MJ-CHJ & AT Productions)[b].dsk
+:	:	Turbo Booster (19xx)(-)[b].dsk
+:	:	Undead Line (19xx)(-)[b](Disk 1 of 2).dsk
+:	:	Undead Line (19xx)(-)[b](Disk 2 of 2).dsk
+:	:	Zone Terra (1994)(Quadrivium).dsk
+:	:	Zone Terra (1994)(Quadrivium)[Demo Version 2].dsk
+:	:	Zone Terra (1994)(Quadrivium)[b][Demo Version 2].dsk
+
+各ファイルのサイズ
+MSX Turbo-Rhave.txt,2617 Byte
+2021 Snooky! (19xx)(-)[b].dsk,737280 Byte
+Blade (1997)(GW's Workshop)[b].dsk,737280 Byte
+Die Frage II (19xx)(Studio Sequence)(De)[b][Prime Release].dsk,737280 Byte
+Earth Attack (19xx)(GW's Workshop)[b].dsk,737280 Byte
+F-Nano 2 (1994)(XRay)[Promo].dsk,737280 Byte
+Fishing (1996)(GW's Workshop)[b].dsk,737280 Byte
+Fray Demo Disk 0 (1990)(MicroCabin)(Disk 1 of 5).dsk,737280 Byte
+Fray Demo Disk 0 (1990)(MicroCabin)[a](Disk 1 of 5).dsk,737280 Byte
+Fray Demo Disk 1 (1990)(MicroCabin)(Disk 2 of 5).dsk,737280 Byte
+Fray Demo Disk 1 (1990)(MicroCabin)[a](Disk 2 of 5).dsk,737280 Byte
+Fray Demo Disk 2 (1990)(MicroCabin)(Disk 3 of 5).dsk,737280 Byte
+Fray Demo Disk 2 (1990)(MicroCabin)[a](Disk 3 of 5).dsk,737280 Byte
+Fray Game Disk 0 (1990)(MicroCabin)(Disk 4 of 5).dsk,737280 Byte
+Fray Game Disk 0 (1990)(MicroCabin)[a](Disk 4 of 5).dsk,737280 Byte
+Fray Game Disk 1 (1990)(MicroCabin)(Disk 5 of 5).dsk,737280 Byte
+Illusion City (1991)(MicroCabin)(Jp)(Disk 1 of 8).dsk,737280 Byte
+Illusion City (1991)(MicroCabin)(Jp)(Disk 2 of 8).dsk,737280 Byte
+Illusion City (1991)(MicroCabin)(Jp)(Disk 3 of 8).dsk,737280 Byte
+Illusion City (1991)(MicroCabin)(Jp)(Disk 4 of 8).dsk,737280 Byte
+Illusion City (1991)(MicroCabin)(Jp)(Disk 5 of 8).dsk,737280 Byte
+Illusion City (1991)(MicroCabin)(Jp)(Disk 6 of 8).dsk,737280 Byte
+Illusion City (1991)(MicroCabin)(Jp)(Disk 7 of 8).dsk,737280 Byte
+Illusion City (1991)(MicroCabin)(Jp)(Disk 8 of 8).dsk,737280 Byte
+Illusion City (1991)(MicroCabin)(Jp)[a](Disk 1 of 8).dsk,737280 Byte
+Illusion City (1991)(MicroCabin)(Jp)[a](Disk 2 of 8).dsk,737280 Byte
+Lemon (19xx)(-).dsk,737280 Byte
+Mega Doom (demo) (1992)(First Class Software).dsk,737280 Byte
+Moonlight Saga (1997)(-)[b].dsk,737280 Byte
+Msx View (19xx)(-)[b].dsk,737280 Byte
+Paralell Dreams (19xx)(Ascii Corp).dsk,737280 Byte
+Paralell Dreams (19xx)(Ascii Corp)[b].dsk,737280 Byte
+Pcm Player, The (19xx)(-)[b].dsk,737280 Byte
+Princess Maker (1991)(MicroCabin)(Disk 1 of 7).dsk,737280 Byte
+Princess Maker (1991)(MicroCabin)(Disk 2 of 7).dsk,737280 Byte
+Princess Maker (1991)(MicroCabin)(Disk 3 of 7).dsk,737280 Byte
+Princess Maker (1991)(MicroCabin)(Disk 4 of 7).dsk,737280 Byte
+Princess Maker (1991)(MicroCabin)(Disk 5 of 7).dsk,737280 Byte
+Princess Maker (1991)(MicroCabin)(Disk 6 of 7).dsk,737280 Byte
+Princess Maker (1991)(MicroCabin)(Disk 7 of 7).dsk,737280 Byte
+Ranma 1-2 (19xx)(MicroCabin)(Disk 1 of 8).dsk,737280 Byte
+Ranma 1-2 (19xx)(MicroCabin)(Disk 2 of 8).dsk,737280 Byte
+Ranma 1-2 (19xx)(MicroCabin)(Disk 3 of 8).dsk,737280 Byte
+Ranma 1-2 (19xx)(MicroCabin)(Disk 4 of 8).dsk,737280 Byte
+Ranma 1-2 (19xx)(MicroCabin)(Disk 5 of 8).dsk,737280 Byte
+Ranma 1-2 (19xx)(MicroCabin)(Disk 6 of 8).dsk,737280 Byte
+Ranma 1-2 (19xx)(MicroCabin)(Disk 7 of 8).dsk,737280 Byte
+Ranma 1-2 (19xx)(MicroCabin)(Disk 8 of 8).dsk,737280 Byte
+Seed Of Dragon (19xx)(River Hill)(Disk 1 of 3).dsk,737280 Byte
+Seed Of Dragon (19xx)(River Hill)(Disk 2 of 3).dsk,737280 Byte
+Seed Of Dragon (19xx)(River Hill)(Disk 3 of 3).dsk,737280 Byte
+Shoot That Flying Windows! (19xx)(-).dsk,737280 Byte
+Swiss Demo, The (1991-92)(MJ-CHJ & AT Productions)[b].dsk,737280 Byte
+Turbo Booster (19xx)(-)[b].dsk,737280 Byte
+Undead Line (19xx)(-)[b](Disk 1 of 2).dsk,737280 Byte
+Undead Line (19xx)(-)[b](Disk 2 of 2).dsk,737280 Byte
+Zone Terra (1994)(Quadrivium).dsk,737280 Byte
+Zone Terra (1994)(Quadrivium)[b][Demo Version 2].dsk,737280 Byte
+Zone Terra (1994)(Quadrivium)[Demo Version 2].dsk,737280 Byte

@@ -1,0 +1,2116 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xml:lang="ja" xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
+<!--龠龠龠-->
+<title xml:lang="ja" lang="ja">使ってみようエミュレータ - MANIMANIAのレトロエロゲーカウントダウン</title>
+<meta http-equiv="Content-Type" content="text/html; charset=EUC-JP">
+<meta http-equiv="Content-Language" content="ja">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta name="description" xml:lang="ja" content="人生の残り時間が半分を切ったというのに若き日に目にしたエロゲーに魂を引かれ続けるイタいおっさんがこなしたゲームを紹介。" lang="ja">
+<link rel="stylesheet" type="text/css" href="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/static.css">
+<link rel="stylesheet" type="text/css" href="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/left_2c.css">
+<link rel="stylesheet" type="text/css" href="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/413d34abe2b8756823130599cf9a27e1.css">
+<link rel="alternate" type="application/rss+xml" title="RSS2.0" href="http://blog.goo.ne.jp/gekigangar/rss2.xml">
+<link rel="alternate" type="application/rss+xml" title="RSS1.0" href="http://blog.goo.ne.jp/gekigangar/index.rdf">
+<style type="text/css">
+<!--
+-->
+
+</style>
+<script src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/prototype.js" type="text/javascript"></script>
+<script src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/flashwrite.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+<!--
+var USER_NAME = "gekigangar";
+var BID = "eef00ab3de83fea16cafd56abe9e23d4";
+var SERVER_NAME = "blog.goo.ne.jp";
+var IMAGE_SERVER = "blogimg.goo.ne.jp";
+-->
+</script>
+</head><body>
+<!-- GLOBAL HEADER -->
+<div id="global-header" class="clearfix">
+<!-- GLOBAL HEADER MODULE -->
+<div id="mod-global-header">
+<div id="mod-global-header-l">
+<a href="http://www.goo.ne.jp/click.php?ID=bg03&amp;DEST=http://www.goo.ne.jp/"><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/mod_global_header_goo_logo.gif" alt="goo" height="22" width="46"></a>
+<a href="http://blog.goo.ne.jp/">ブログ</a>&nbsp;&nbsp;<a href="http://blog.goo.ne.jp/api/random_blog">ランダム</a>&nbsp;&nbsp;
+
+<a href="http://blog.goo.ne.jp/info/special/family2010/?fm=h_special"><span style="color: rgb(245, 80, 100);">［ブログ特集］家族で行こう♪ほんわか「家族旅行特集」</span></a>
+</div>
+<script>
+if(typeof(click_count_id)==="undefined"){click_count_id = new Array();}
+click_count_id.push('mod-global-header-l');
+
+</script><script>
+if(typeof(click_count_id)==="undefined"){click_count_id = new Array();}
+click_count_id.push('mod-global-footer');
+
+</script><div id="mod-global-header-r">
+
+<!-- SEARCH -->
+<script type="text/javascript">
+<!--
+
+function s_dispatch() {
+	var bsf = document.bsearch;
+	if (bsf.scope.value == 'this') {
+		return true;
+	}
+
+	var gsf = document.gsearch;
+	if (bsf.scope.value == 'all') {
+		gsf.MT.value = bsf.sword.value;
+		gsf.submit();
+	}
+
+	var wsf = document.wsearch;
+	if (bsf.scope.value == 'web') {
+		wsf.MT.value = bsf.sword.value;
+		wsf.submit();
+	}
+
+	return false;
+}
+
+//-->
+</script>
+<form action="/gekigangar" method="post" name="bsearch" onsubmit="return s_dispatch();"><input name="m" value="s" type="hidden"><input name="bid" value="eef00ab3de83fea16cafd56abe9e23d4" type="hidden"><ul><li><label for="mod-global-header-search">検索</label>&nbsp;</li><li><input size="20" name="sword" id="mod-global-header-search" class="mod-global-header-search" type="text">&nbsp;<select name="scope" class="mod-global-header-select"><option value="web" selected="selected">ウェブ</option><option value="all">goo ブログ全て</option><option value="this">このブログ内で</option></select><input name="" id="mod-global-header-search-button" value="検索" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/mod_global_header_search.gif" alt="検索" height="20" type="image" width="26"></li></ul></form>
+<form name="gsearch" method="get" action="/search_goo/result/"><input name="MT" type="hidden"><input name="tg" value="all" type="hidden"><input name="da" value="all" type="hidden"><input name="st" value="time" type="hidden"><input name="dp" value="all" type="hidden"><input name="status" value="select" type="hidden"><input name="bu" value="" type="hidden"><input name="ts" value="goo" type="hidden"></form>
+<form name="wsearch" method="get" action="http://search.goo.ne.jp/web.jsp"><input name="MT" type="hidden"><input name="PT" value="goo_blog" type="hidden"><input name="from" value="goo_blog" type="hidden"><input name="IE" value="eucjp" type="hidden"></form>
+
+<!-- /SEARCH -->
+</div></div>
+<!-- /GLOBAL HEADER MODULE -->
+</div>
+<!-- /GLOBAL HEADER -->
+
+<!-- CONTAINER -->
+<div id="container">
+
+<!-- TITLE BANNER -->
+<div id="title-banner">
+<div id="title-banner-top"></div>
+<div id="title-banner-body">
+<div id="title-banner-set">
+<h1><a href="http://blog.goo.ne.jp/gekigangar">MANIMANIAのレトロエロゲーカウントダウン</a></h1>
+<h2>人生の残り時間が半分を切ったというのに若き日に目にしたエロゲーに魂を引かれ続けるイタいおっさんがこなしたゲームを紹介。</h2>
+</div>
+</div>
+<div id="title-banner-bottom"></div>
+</div>
+<!-- /TITLE BANNER -->
+
+<!-- MAIN -->
+<div id="main" class="clearfix">
+<div id="main-top"></div>
+
+<!-- CENTER -->
+<div id="center">
+
+<!-- IN-CENTER -->
+<div id="in-center">
+
+<!-- CONTENT 2 COLUMNS -->
+<div class="content-2c">
+<div class="content-top"></div>
+<div class="content-body">
+
+<!-- PREV NEXT MODULE -->
+<div id="mod-prev-next">
+<div class="mod-prev-next-top"><div class="lt"><div class="rt"></div></div></div>
+<div class="mod-prev-next-body">
+<ul><li class="mod-pre-nex-prev"></li><li class="mod-pre-nex-next"></li><li class="mod-pre-nex-top"><a href="http://blog.goo.ne.jp/gekigangar/arcv">記事一覧</a>&nbsp;|&nbsp;<a href="http://blog.goo.ne.jp/gekigangar/pch">フォトチャンネル一覧</a></li></ul>
+<div class="clearboth"></div>
+</div>
+<div class="mod-prev-next-bottom"><div class="lb"><div class="rb"></div></div></div>
+</div>
+<!-- /PREV NEXT MODULE -->
+<!-- ENTRIES MODULE -->
+<!-- ENTRY SET -->
+<div class="mod-entry-set">
+<div class="mod-entry-set-top"><div class="lt"><div class="rt"></div></div></div>
+
+<!-- entry -->
+<div class="entry">
+
+<!-- entry-top -->
+<div class="entry-top">
+<h3><a href="http://blog.goo.ne.jp/gekigangar/e/73a4102741701decbc655d3fa711dc12">ツァイ　メタ女ハードディスクイメージ起動プロセス検証-fdnp21改</a></h3>
+<div class="entry-top-info"><a href="http://blog.goo.ne.jp/gekigangar/e/73a4102741701decbc655d3fa711dc12"><span class="entry-top-info-time">2010-07-10 00:47:00</span></a>&nbsp;|&nbsp;<a href="http://blog.goo.ne.jp/gekigangar/c/f3041843121230317371257e0a528849"><span class="entry-top-info-category">使ってみようエミュレータ</span></a></div>
+</div>
+<!-- /entry-top -->
+
+<!-- entry-body -->
+<div class="entry-body">
+<div class="entry-body-text">当ブログ中，最大の集客力を誇る記事は，「使ってみようエミュレータ」カテゴリの<br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/d8508ed6f29df7e3f89d73c3bc905ada">エミュで闘神都市２をプレイしてみよう（その１・エミュレータ導入編）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/5d0af42c247a020c0f3446dcffaeff32">エミュで闘神都市２をプレイしてみよう（その２・MS-DOS導入準備編）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/a439f8e8acef4f90c1551a53e0e8271c">エミュで闘神都市２をプレイしてみよう（その３・MS-DOSインストール編）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/008ce0d5f57f8e864b1bc8cb2691542f">エミュで闘神都市２をプレイしてみよう（その４・最終回）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/f77579561acb5d87d1c78151a79d8883">エミュで闘神都市２をプレイしてみよう（特別編・freeDOS(98)ってどうよ）</a><br>
+です。多分。<br>
+<br>
+で，特別編では，MS-DOSなしで闘神都市２をプレイするために，freeDOS(98)導入済みのHDイメージ（起動可能状態）として，<a href="http://black.sakura.ne.jp/%7Esakai/metajo/mtj_main.htm">天文部南西支部</a>のページで提供されている，「ツァイ メタ女」のHDイメージを利用させていただいています。<br>
+<br>
+ただ，このイメージ，起動時に明らかにエラーメッセージを吐いている気がするので，確認してみます。<br>
+<br>
+NP21に「ツァイ メタ女」のハードディスクイメージをセットして，起動します。<br>
+なお，起動プロセス確認のため，CONFIG.SYSの「DEVICE=・・・」の行をすべて「DEVICE?=・・・」と変更して，ロードするかどうかを起動時に確認する処理を施してあります。<br>
+<br>
+すべてのDEVICEをロードさせながら起動すると，以下の画面のようになります（一覧性を優先して，連続する複数の画面を合成しています）。<br>
+<br>
+<img alt="ツァイ メタ女 起動プロセス" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/6bdf04dc59685abe2b9c1f835fb5165b.png"><br>
+<br>
+CONFIG.SYSのプロセス毎に黄色い線で区切りを入れるとともに，黄色文字でメッセージの大まかな意味を書き加えました。<br>
+<br>
+第１プロセス　CONFIG.SYSより手前部分<br>
+第２プロセス　NP2HMA.SYSをロード（成功）<br>
+第３プロセス　NP2EMS.SYSをロード（成功）<br>
+第４プロセス　FDXMS.SYSをロード（失敗）<br>
+第５プロセス　EMM386.EXEをロード（失敗）<br>
+<br>
+ご覧のとおり，FDXMS.SYSとEMM386.EXEはロードできていません。<br>
+<br>
+ゲームをプレイする上では支障はないのですが，起動の度に，エラーが出るのは美しくありません。<br>
+エラーが出ないように修正できるでしょうか。<br>
+<br>
+FDXMS.SYSのロードに失敗した理由は，「XMS is already insalled.」とのことです。<br>
+既にロードされていたNP2HMA.SYSとNP2EMS.SYSがFDXMS.SYSとバッティングしているようです。<br>
+<br>
+今度は，NP2HMA.SYSとNP2EMS.SYSをロードせずに，FDXMS.SYSとEMM386.EXEをロードしてみます。<br>
+<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/a65499e8d41a97b583e9555b872a18cf.png"><br>
+<br>
+意外にも，FDXMS.SYSとEMM386.EXEの組み合わせもロードできるようです。<br>
+<br>
+では，NP2HMA.SYS+NP2EMS.SYSと，FDXMS.SYS+EMM386.EXEの拡張メモリマネージャセットのどちらが多く空きメモリを確保してくれるのでしょうか。<br>
+<br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/f77579561acb5d87d1c78151a79d8883">エミュで闘神都市２をプレイしてみよう（特別編・freeDOS(98)ってどうよ）</a>で作ったfdnp21.hdiを改良して空きメモリを確認してみます。<br>
+<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/ffade0b002ad1f41dcb52da0f056860d.png"><br>
+<br>
+空きメモリを確認するために，CONFIG.SYSを修正します。<br>
+DiskExplore 上のHDイメージからCONFIG.SYSをドラッグアンドドロップでよそに引っ張り出すか，ファイル−取出して保存 で，Windows上で編集しましょう。<br>
+メモ帳か，日ごろからお使いのエディタソフトで良いでしょう。<br>
+<br>
+内容は以下のとおり。<br>
+files=20<br>
+buffers=10<br>
+device?=np2hma.sys<br>
+device?=np2ems.sys<br>
+device?=fdxms.sys<br>
+device?=emm386.exe<br>
+shell=command.com<br>
+dos=high<br>
+<br>
+NP2HMA.SYSとNP2EMS.SYSとをロードして，COMMAND.COM内のMEMORYコマンドで空きメモリを確認します。<br>
+<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/2b74af5035dcfc4bac8b755d050e094a.png"><br>
+<br>
+次に，FDXMS.SYSとEMM386.EXEとをロードして，COMMAND.COM内のMEMORYコマンドで空きメモリを確認するつもりが・・・。<br>
+<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/88f2f7706420058a40a01491ad510505.png"><br>
+<br>
+エラーウィンドウが出て，NP21が異常終了してしまいました。<br>
+<br>
+念のため，「ツァイ 
+メタ女」と同様に，NP2HMA.SYS，NP2EMS.SYS，FDXMS.SYS，EMM386.EXEを全部ロードして，空きメモリを確認しました
+が，NP2HMA.SYSとNP2EMS.SYSだけをロードした場合と変わりありませんでした。そりゃそうですよね，FDXMS.SYSと
+EMM386.EXEはどうせロードされないんですから。<br>
+<br>
+結局，freeDOS(98)用の拡張メモリマネージャとしては，NP2HMA.SYSとNP2EMS.SYSだけで十分というわけです。<br>
+<br>
+などと，分かったようなことを書きましたが，私の能力では，MEMORYコマンドで表示されてる内容がさっぱり分かりません。<br>
+追記・MEMORYコマンドは，COMMAND.COMの内部メモリの状況を示すもので空きメモリとは関係ない(-_-;)<br>
+<br>
+今回の記事を書くのに，「とことんこだわるCONFIG.SYS NEC MS-DOS6.2対応」（寺口俊伸著・エーアイ出版'95/08/14）を読んでいたところ，兵藤嘉彦さんの開発された <a href="http://www.vector.co.jp/soft/dos/hardware/se002492.html">VMAP</a>が紹介されており，平易なメモリマップ分析ができることが分かりましたので，こちらを使ってみます。<br>
+<br>
+まず，<a href="http://hp.vector.co.jp/authors/VA013937/editdisk/index.html">DiskExplorer</a>を用いてハードディスクイメージにこのVMAP.COMをコピーします。<br>
+<br>
+次に，CONFIG.SYSの内容を，<br>
+files=20<br>
+buffers=10<br>
+device?=np2hma.sys<br>
+device?=np2ems.sys<br>
+shell=command.com<br>
+dos=high<br>
+と改めます。<br>
+NP2HMA.SYSとNP2EMS.SYSのdevice=に?を付けているのは，これらを使用しない場合と使用時の違いを見比べるためです。<br>
+正確を期するため，VMAPはオプションnを付けて実行しました。<br>
+<br>
+まず，NP2HMA.SYSとNP2EMS.SYSを使用しない場合のメモリマップです。<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/57eaa4655d3cf3d536de156a58893983.png"><br>
+<br>
+これに対して，NP2HMA.SYSとNP2EMS.SYSを使用した場合のメモリマップです。<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/4c139fa4f34b36d6d733ef7458010d25.png"><br>
+<br>
+メモリマネージャを使用した方の下の画面では，コンベンショナル・メモリに加えて，EMSメモリ，XMSメモリの中身も示されています。<br>
+<br>
+いわゆる空きメモリというのは，（多分）コンベンショナル・メモリ中の連続した空きエリアのことなので，それぞれ<br>
+NP2HMA.SYSとNP2EMS.SYSを使用しない場合　476768 Byte(約466KB)<br>
+NP2HMA.SYSとNP2EMS.SYSを使用した場合　 　544320 Byte(約532KB)<br>
+の空きメモリがあることになります。<br>
+この差は，後者においては，メモリマネージャに加えて，CONFIG.SYSに記述した<br>
+DOS=HIGH<br>
+によって，DOSシステムのうち63KB分が，HMAメモリに組み込まれた結果です。<br>
+これは，後者にのみ表示されている<br>
+「----- XMS ver2.00 -----<br>
+　HMA used: 63 KB by DOS」<br>
+から読み取れることです。<br>
+<br>
+コンベンショナル・メモリは，いわゆるメインメモリで640KBしかなく，増設できない種類のメモリですから，今となっては顕微鏡単位にしか見えない63KBの解放といえども，大きな意味を持つわけです。<br>
+<br>
+以上をまとめると，拡張メモリマネージャNP2HMA.SYSとNP2EMS.SYSは使用すべきだし，かつ，それで足りるので，fdnp21.hdiのCONFIG.SYSとしておすすめする内容は，<br>
+files=20<br>
+buffers=10<br>
+device=np2hma.sys<br>
+device=np2ems.sys<br>
+shell=command.com<br>
+dos=high<br>
+<br>
+また，ハードディスクイメージからはFDXMS.SYSとEMM386.EXEを削除してよい。<br>
+<br>
+「ツァイ メタ女」のCONFIG.SYSも，<br>
+files=20<br>
+buffers=10<br>
+device=np2hma.sys<br>
+device=np2ems.sys<br>
+<s>device=fdxms.sys<br>
+device=emm386.exe</s><br>
+shell=zai.exe<br>
+dos=high<br>
+とするのが正解くさい。<br>
+<br>
+もっとも，今回，「ツァイ メタ女」をプレイしようとしてみたら，元々のハードディスクイメージでも，改訂したものでも，メーカーロゴ後早々にフリーズしてしまったので，正解も何も確認できませんでした・・・。<br>
+<br>
+今回の分析は，<a href="http://blog.goo.ne.jp/gekigangar/e/f77579561acb5d87d1c78151a79d8883">エミュで闘神都市２をプレイしてみよう（特別編・freeDOS(98)ってどうよ）</a>の記事内にも反映させておきます。<br>
+<br>
+&lt;&lt;著作権に関して&gt;&gt;<br>
+本記事に引用している全てのソフトの名称・画像の著作権・その他権利は、制作、販売されたソフトハウス、メーカー、または作者様に帰属します。本サイトで
+の上記著作権物扱いは、著作権など各権利関係を侵害することが目的ではありません。問題などある場合は、メール(ｇｅｋｉｇａｎｇａｒあっと
+ｍａｉｌ．ｇｏｏ．ｎｅ．ｊｐ)にてその旨お知らせください。  <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+  rdf:about="http://blog.goo.ne.jp/gekigangar/e/73a4102741701decbc655d3fa711dc12"
+  trackback:ping="http://blog.goo.ne.jp/tbinterface/73a4102741701decbc655d3fa711dc12/ee"
+  dc:title="ツァイ　メタ女ハードディスクイメージ起動プロセス検証-fdnp21改"
+  dc:date="2010-07-10T00:47:00+09:00"
+  dc:description="当ブログ中，最大の集客力を誇る記事は，「使ってみようエミュレータ」カテゴリの
+エミュで闘神都市２をプレイしてみよう（その１・エミュレータ導入編）
+エミュで闘神都市２をプレイしてみよう（その２・MS-DOS導入準備編）
+エミュで闘神都市２をプレイしてみよう（その３・MS-DOSインストール編）
+エミュで闘神都市２をプレイしてみよう（その４・最終回）
+エミュで闘神都市２をプレイしてみよう（特別編・fr"
+  dc:identifier="http://blog.goo.ne.jp/gekigangar/e/73a4102741701decbc655d3fa711dc12" />
+</rdf:RDF>
+--></div>
+</div>
+<!-- /entry-body -->
+<!-- entry-bottom -->
+<div class="entry-bottom">
+<div class="entry-bottom-info">
+<a href="http://blog.goo.ne.jp/gekigangar/e/73a4102741701decbc655d3fa711dc12#comment-list">コメント&nbsp;(0)</a>&nbsp;|&nbsp;<a href="http://blog.goo.ne.jp/gekigangar/e/73a4102741701decbc655d3fa711dc12#trackback-list">トラックバック&nbsp;(0)</a>&nbsp;|&nbsp;<a href="http://www.goo.ne.jp/" target="_blank">goo</a>
+</div>
+</div>
+<!-- /entry-bottom -->
+
+</div>
+<!-- /entry -->
+
+<div class="mod-entry-set-bottom"><div class="lb"><div class="rb"></div></div></div>
+</div>
+
+<!-- goo_ad -->
+<div class="mod-entry-set-goo-ad"></div>
+<!-- /goo_ad -->
+
+<!-- /ENTRY SET -->
+<!-- ENTRY SET -->
+<div class="mod-entry-set">
+<div class="mod-entry-set-top"><div class="lt"><div class="rt"></div></div></div>
+
+<!-- entry -->
+<div class="entry">
+
+<!-- entry-top -->
+<div class="entry-top">
+<h3><a href="http://blog.goo.ne.jp/gekigangar/e/c332442f5bec2646693e87414516d62b">98エミュレータから実機のCD-ROMドライブにアクセスしよう</a></h3>
+<div class="entry-top-info"><a href="http://blog.goo.ne.jp/gekigangar/e/c332442f5bec2646693e87414516d62b"><span class="entry-top-info-time">2010-01-11 10:44:31</span></a>&nbsp;|&nbsp;<a href="http://blog.goo.ne.jp/gekigangar/c/f3041843121230317371257e0a528849"><span class="entry-top-info-category">使ってみようエミュレータ</span></a></div>
+</div>
+<!-- /entry-top -->
+
+<!-- entry-body -->
+<div class="entry-body">
+<div class="entry-body-text">PC-9801シリーズ用エミュレータといえば，<a href="http://www.vector.co.jp/soft/win95/util/se090989.html">Anex86</a>，<a href="http://www.geocities.jp/t98next/">T98-Next</a>，<a href="http://www.retropc.net/yui/np2.html">Neko Project II</a>の３種が鉄板として知られているところです。<br>
+厳密にいえば，Anex86はEPSON PC-x86のエミュレータ，T98-NextはPC9821エミュレータですが。<br>
+<br>
+私は，主にNeko Project IIを用いていますが，ただ残念ながらNeko Project IIでは，CD-ROMを使うことができず，CD-ROMで発売されたソフトのインストールに難儀します。<br>
+<br>
+追記・<a href="http://schiphol.2ch.net/test/read.cgi/gameurawaza/1238516495/l50">PC98エミュ総合 パート2</a><br>
+の371とか375なんてのもあります。まだロダ上にあるみたいです。・追記終了<br>
+<br>
+そこで，今回は，CD-ROMにアクセスするためのプラグインが用意されている，Anex86とT98-Nextから実機のCD-ROM媒体にアクセスできるようにします。<br>
+これにより，CD-ROMで発売されたゲームソフトを，Anex86またはT98-Nextを介して98HDイメージ内にインストールすることが容易になります。<br>
+<br>
+Anex86については，Welcome to A.N.'s 
+page−Online版のページから，Download−オプション−その他−anecdxnt.zipをダウンロードして，FAQ−追加モジュールを
+使うの項目や，anecdxnt.zip自体に含まれるドキュメントを参考にして下さい。<br>
+CDXのモジュールを組み込んで，<br>
+CONFIG.SYS内の<br>
+DEVICE=A:￥CDX.SYS /D:CD_101<br>
+（D:CD_101の部分はAUTOEXEC.BAT内のMSCDEX.EXEの後で指定したデバイス名と同じにすること，また，A:￥CDX.SYSの部分は，HDイメージ内のCDX.SYSを置いた場所を指定すること）<br>
+の行をエラーなく起動できるようになれば問題ありません。うちのページでは半角で￥を打つと消えるので，全角で書いていますので，CONFIG.SYSの編集にあたっては半角で直打ちする等気を付けてください。<br>
+<br>
+エラーなく起動できるようになったら，Anex86起動時の設定メニューから，CDXタブを選び，「CD-ROM drive on your PC」で実機CD-ROMドライブを指定します。マイコンピュータ上で表示される，D:，Q:等のドライブレターです。<br>
+そのうえで再起動すれば実機CD-ROMにアクセスできるので，実機CD-ROMドライブにゲームCDを入れて，マニュアル所定のインストールをします。<br>
+Anex86はプロテクトとして多用された特殊フォーマットのゲームができない場合が多いことから私は使わないのですが，あんまり手間をかけずにエミュレータから実機CD-ROMにアクセスできるという利点があるので，特に紹介しました。<br>
+<br>
+次にT98-NextへのCD-ROMの導入方法です。<br>
+こちらは，<a href="http://like98.hp.infoseek.co.jp/">98Like!</a>さんのページ内に<a href="http://like98.hp.infoseek.co.jp/emu/nextcd1.html">T98-NEXT　用CD-ROMモジュール使用法</a>として詳しく記載されていますので，そちらを参考にして下さい。<br>
+先に書いておきますが，T98-Nextについては，エミュレーション画面起動時に，マウスコントロールをWindowsから奪ってしまいますので，マウスが使えなくなっても慌てずにF12を押したままF8を押してマウスのコントロールをWindowsに戻してください。<br>
+また，上記ページでは，Win9x用のCD-ROMモジュールであるSCSI4CD.NHWを用いた説明がされていますが，みなさんのパソコンのOSが
+Win2000やXP以降のものであれば，CD-ROMモジュールとしてSCSI4CDN.NHW(scsi4cd.zip内にSCSI4CDN.zip
+として同梱)を使用すべきこととなりますので，間違えて作業しないよう注意して下さい。<br>
+そして，SCSI4CDN.NHWを用いる場合，上のページの説明にある「SCSIハードウェア番号」の指定というのは出てこず，実機CD-ROMドライブを指定する形式をとることになります。マイコンピュータ上で表示される，D:，Q:等のドライブレターです。<br>
+<br>
+さらに，上のページを先に進むと<a href="http://like98.hp.infoseek.co.jp/emu/nextcd2.html">CDDRV.SYSを作ろう♪</a>のページに行きますが，こちらのページは，CD-DAの再生に必要なドライバを作成するためのページですので，ゲームのインストールのためにCD-ROMドライブを用いるだけであればこの作業は必要ありません（<a href="http://www.vector.co.jp/soft/dos/hardware/se007453.html">CDSD-mini</a>の利用で足り，<a href="http://www.vector.co.jp/soft/dos/hardware/se000298.html">CDSD-STD</a>のバイナリ化作業は必要ない）。<br>
+なお，このCDDRV.SYSを作ろう♪に書かれているツールには，現在入手ができないものがあり，これをふまえて<a href="http://like98.hp.infoseek.co.jp/emu/nextcd3.html">CDDRV.SYSを作ろう♪その２</a>の
+ページが書かれていますが，こちらは同ページ内からリンクされていません。その２のページの作業については，フォルダ名を変更して実行されても大丈夫です
+が（ただし全角文字の使用は避ける），ASM.BATを実行するフォルダはCドライブの直下に設けること，完成したCDDRV.SYSは，ASM.BAT
+を実行するフォルダ内でなく，Cドライブのルートディレクトリに出現することに気を付けて作業してください。<br>
+また，《危険　まねしちゃダメかも　自己責任モード》DaemonでCD-DAを再生するには，バージョンを3.47に落として，またOSがXP＋SP2
+の場合は，セーフモードで起動して，Ｃドライブルートのboot.iniファイル内の「/NoExecute=OptIn」を
+「/NoExecute=AlwaysOff」に書き替える。もちろん，「/NoExecute=OptOut」として除外リストによる指定をしてもよい
+《セーフモード立ち上げができるスキル持ちなら大丈夫かもね》。<br>
+<br>
+なお，CD-ROM導入後のエミュ上のAUTOEXEC.BAT及びCONFIG.SYSの内容については，例として<a href="http://blog.goo.ne.jp/gekigangar/e/7b7f67bc971125f0cddee7174c1afd0a">自分用メモ</a>に貼り付けておきました。<br>
+CD-ROMドライバについての記載はCONFIG.SYSの下から４行目から１行目です。<br>
+（解説）<br>
+下から４行目　DEVICE?=a:￥cddrv.sys /d:cd_101 /i0<br>
+「CDDRV.SYSを作ろう♪その２」で作ったCDDRY.SYSをＡドライブのルートディレクトリに置いて，T98-Nextで使う場合の記述。<br>
+CD-ROM実機の電源が入っていなかったり，繋いでいない場合にはエラーが出る。<br>
+Neko Project II上では使えないため，DEVICE?=として必要なときだけロードさせる処理とした。<br>
+<br>
+下から３行目　rem device?=a:￥cdsdmini.sys /d:cd_101 /i0 /u<br>
+「T98-NEXT　用CD-ROMモジュール使用法」の作業方法で設定したCDSDMINI.98をＡドライブのルートディレクトリに置いてT98-Next上で使う場合の記述。<br>
+ただし，通常はCDDRV.SYSを用いるため，remを付けて実行しないようにしてある。実行するときは，CONFIG.SYSファイルを編集してremを外す。<br>
+なお，CDSD-mini自体のドキュメントに従って，CDSDMINI.98をCDSDMINI.SYSにリネームしてある。<br>
+CD-ROM実機の電源が入っていなかったり，繋いでいない場合でも，/Uオプションによりエラーが出ない。<br>
+<br>
+下から２行目　rem DEVICE?=a:￥cdx.sys /d:cd_101<br>
+Anex86を用いる場合の記述。remを付けて実行しないようにしてある。<br>
+<br>
+同趣旨のページとして，現在は存在しないサイトですが，<a href="http://web.archive.org/web/20051001055949/aoba.sakura.ne.jp/%7Etongpoo/ysindex.html">ようこそミネアの町へ！</a>さんのページ内に<a href="http://web.archive.org/web/20080501205445/aoba.sakura.ne.jp/%7Etongpoo/t98n_index.html">T98‐NEXT（with CD‐ROM）環境構築講座</a>が
+ありますので，そちらも参考にして下さい。環境構築講座がうまく表示されない場合は，「ようこそミネアの町へ！」内の「■ 攻略＆データ ライブラリ 
+■」の囲み内にある「【応用編】「デモ用ディスクの作成」をアップしました」の下の「&gt;&gt; 詳しくはこちらへ」をクリックして下さい。<br>
+<br>
+とまあ固い話で終わるのもなんですので，実際にCD-ROM媒体のゲームをインストールしてみましょう。<br>
+用意したCD-ROMは，「Bacta１&amp;２＋Voice」です。<br>
+<br>
+早速T98-Nextを起動して，実機CD-ROMドライブ内のファイルを見てみます。<br>
+Qドライブをクリックします。<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/d39d9d8d9fe462aecc3e18af95f657d0.png"><br>
+<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/5cb509edde07c3fde2adbcbd33851e50.png"><br>
+<br>
+ファイル名がHDDBACTA.EXEといういかにもなそれっぽいファイルがありますが，実はこれを実行してしまうと，ハードディスク起動用のAUTOEXEC.BATがバックアップなしに書き替えられてしまいます。ええ，やりましたよ。ははは。<br>
+ま，ハードディスクがBacta専用になるだけですから，別にどうってことないんですけどね・・・。orz<br>
+<br>
+で，正しいファイルはどれかというと，こちら。BCCDH.EXE。<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/1a16254be852be26e86d5e2517d5d9ce.png"><br>
+<br>
+クリックすると，下の画面が出るので<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/d9f4babb38e3812196f9339593ee0a61.png"><br>
+<br>
+，Zキーを押して「その他のCD-ROMドライブ」を指定します。<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/6f0c2dcf3ae4e613752fa4c5c6541db4.png"><br>
+<br>
+すると，この画面が出ます。読んだらEnterキーを押します。<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/652e7edf6b41f793b9bf1ad2fd307cae.png"><br>
+<br>
+ハードディスクドライブを確認してEnterキーを押します。<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/5010b8f71a195429629e911fa547321d.png"><br>
+<br>
+フロッピーディスクドライブを指定して，<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/7097346daae6a23687143afd52cd623c.png"><br>
+<br>
+仮想フロッピードライブにフロッピーを挿入します。予めフォーマットしておく必要はありません。<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/2c8476654827e33770eea24084754f88.png"><br>
+<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/3576e237d24891e00ed93d47d57a611f.png"><br>
+<br>
+起動用FDイメージを適当な場所に適当な名前で指定して保存してください。<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/9d3bd432ca9e08d57a5f25056f0ce4be.png"><br>
+<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/4964953cd60d9ead5b95b9ba65b667ea.png"><br>
+<br>
+Emulation WindowをアクティブにしてEnterキーを押します。<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/e7168d69234ee7e2e79d396d5b71483f.png"><br>
+<br>
+さらにEnterキーを押します。<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/e3ef5576b7a32ef2a265ac29b1bc1ced.png"><br>
+<br>
+フォーマット処理は実機と変わらないくらい時間がかかります。<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/3390d1ae67d4e0eb32283abcd4382f15.png"><br>
+<br>
+実機だとこういう画面をちゃんとメモしておかないと後々困りました・・・。<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/ef845af3b3febbe804ac46aaa5abffeb.png"><br>
+<br>
+DOSシェル画面に戻ったので，作成したフロッピーの中身を確認しておきます。<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/fcdc2f1047f797c0b3067681f3bb936a.png"><br>
+<br>
+２つ前の画面の指示に従って，MSCDEX.EXEとCDDRV.SYSをフロッピー内にコピーします。コピーしたうえでフロッピー内のデータを確認しておきます。<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/8d97f182994639a78ab7feb010228a50.png"><br>
+<br>
+さらに，CONFIG.SYSの中身をSEDIT.EXEで書き替えます。こちらが書替前。<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/9fe44831087485bee5c1dc9440c9265f.png"><br>
+<br>
+こちらが書替後。DOS=HIGHの上の１行が加筆箇所。<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/1adc0ff7d5cae17233b767bb503c5dd0.png"><br>
+<br>
+必要な処理を終えたので，FDイメージを入れたまま再起動します。<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/9e03ef7eb9ec51cae7207a0807b07c99.png"><br>
+<br>
+ようやくハードディスクへのデータのインストールが行われます。<br>
+画面の指示に従って，順次，Enterキーを押します。<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/16accca5e83401aeeac22695353ddcea.png"><br>
+<br>
+後ろの画面のメッセージが出たら，FDイメージを入れたまま再起動するとゲームがはじまります。<br>
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/a53e12e6994f0d887488bff881af92d8.png"><br>
+<br>
+そうでした。昔のゲームはCD-ROMから直接インストールしてくれるわけじゃなく，起動用FDを作成して，そこからHDD内のデータにアクセスするタイプが多かったのでした・・・。<br>
+<br>
+&lt;&lt;著作権に関して&gt;&gt;<br>
+本記事に引用している全てのソフトの名称・画像の著作権・その他権利は、制作、販売されたソフトハウス、メーカー、または作者様に帰属します。本サイトで
+の上記著作物の取扱いは、著作権など各権利関係を侵害することが目的ではありません。問題などある場合は、メール(ｇｅｋｉｇａｎｇａｒあっと
+ｍａｉｌ．ｇｏｏ．ｎｅ．ｊｐ)にてその旨お知らせください。<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+  rdf:about="http://blog.goo.ne.jp/gekigangar/e/c332442f5bec2646693e87414516d62b"
+  trackback:ping="http://blog.goo.ne.jp/tbinterface/c332442f5bec2646693e87414516d62b/ee"
+  dc:title="98エミュレータから実機のCD-ROMドライブにアクセスしよう"
+  dc:date="2010-01-11T10:44:31+09:00"
+  dc:description="PC-9801シリーズ用エミュレータといえば，Anex86，T98-Next，Neko Project IIの３種が鉄板として知られているところです。
+厳密にいえば，Anex86はEPSON PC-x86のエミュレータ，T98-NextはPC9821エミュレータですが。
+
+私は，主にNeko Project IIを用いていますが，ただ残念ながらNeko Project IIでは，CD-ROMを使う"
+  dc:identifier="http://blog.goo.ne.jp/gekigangar/e/c332442f5bec2646693e87414516d62b" />
+</rdf:RDF>
+--></div>
+</div>
+<!-- /entry-body -->
+<!-- entry-bottom -->
+<div class="entry-bottom">
+<div class="entry-bottom-info">
+<a href="http://blog.goo.ne.jp/gekigangar/e/c332442f5bec2646693e87414516d62b#comment-list">コメント&nbsp;(4)</a>&nbsp;|&nbsp;<a href="http://blog.goo.ne.jp/gekigangar/e/c332442f5bec2646693e87414516d62b#trackback-list">トラックバック&nbsp;(0)</a>&nbsp;|&nbsp;<a href="http://www.goo.ne.jp/" target="_blank">goo</a>
+</div>
+</div>
+<!-- /entry-bottom -->
+
+</div>
+<!-- /entry -->
+
+<div class="mod-entry-set-bottom"><div class="lb"><div class="rb"></div></div></div>
+</div>
+
+<!-- goo_ad -->
+<div class="mod-entry-set-goo-ad"></div>
+<!-- /goo_ad -->
+
+<!-- /ENTRY SET -->
+<!-- ENTRY SET -->
+<div class="mod-entry-set">
+<div class="mod-entry-set-top"><div class="lt"><div class="rt"></div></div></div>
+
+<!-- entry -->
+<div class="entry">
+
+<!-- entry-top -->
+<div class="entry-top">
+<h3><a href="http://blog.goo.ne.jp/gekigangar/e/ac47f1dcd969fdf46d0cf5bfaef2d4ae">PC-98実機でのフロッピーディスクのイメージ化など</a></h3>
+<div class="entry-top-info"><a href="http://blog.goo.ne.jp/gekigangar/e/ac47f1dcd969fdf46d0cf5bfaef2d4ae"><span class="entry-top-info-time">2010-01-10 02:34:42</span></a>&nbsp;|&nbsp;<a href="http://blog.goo.ne.jp/gekigangar/c/f3041843121230317371257e0a528849"><span class="entry-top-info-category">使ってみようエミュレータ</span></a></div>
+</div>
+<!-- /entry-top -->
+
+<!-- entry-body -->
+<div class="entry-body">
+<div class="entry-body-text">98エミュレータ上でアセンブラを使おうとしたところ，MS-DOS6.2拡張機能分をHDイメージに入れておらず，インストールしようと思ったら，今度は拡張機能セットのFDイメージが見付からず・・・。<br>
+やむなく98実機上で再度イメージ化することになったので，メモメモ。<br>
+<br>
+方法１　<a href="http://www.vector.co.jp/soft/dos/util/se000604.html">MAHALITO</a>を使って吸い出した上で，<a href="http://www.cug.net/%7EanonB">PC-8x01 galley</a>さんで提供されている<a href="http://www.cug.net/%7EanonB/tool">DILTO</a>を使ってD88形式に変換する。<br>
+二度手間なので今回はパス。<br>
+<br>
+なお，<a href="http://www.cug.net/%7EanonB/tool">PC-8x01 gallery [toolz]</a>に書かれている88 Breakのページはリンク切れとなっており，現在は<a href="http://www.cug.net/%7Eakatta/">こちら</a>。<br>
+また，同ページに書かれているUME-3's Homepageは，もう存在しないようだが，現在も<a href="http://web.archive.org/web/19990203062028/http://w3mb.kcom.ne.jp/%7Eume-3/">こちら</a>で読める。<br>
+<br>
+方法２　<a href="http://www.geocities.co.jp/SiliconValley-Bay/2754/index.html">T98-Next</a>さんで提供されている<a href="http://www.geocities.co.jp/SiliconValley-Bay/2754/download/ntool007.lzh">T98-NEXT TOOL</a>に含まれるNFDMAKEを使って，NFD形式のFDイメージを作る。<br>
+こちらのイメージ変換は<a href="http://www.vector.co.jp/soft/win95/util/se151106.html">VFIC</a>を介するだけなので，そんなに手間ではないが，次のほうが楽なので，こちらもパス。<br>
+<br>
+コマンドライン<br>
+nfdmake -r1d 0(〜3，最もドライブレターの若いFDDを0として，FDDを番号により指定) example.nfd <br>
+<br>
+-r1dは，特殊フォーマットディスクの場合に付けるオプション。ドライブ番号より前に指定する点に注意。<br>
+<br>
+3.5インチFDD*2+5インチFDD*2の構成の場合などは，5インチ第１FDDは 2 として指定する。<br>
+また，HDDはドライブ数としてカウントしない。<br>
+　<br>
+方法３　<a href="http://www1.plala.or.jp/aoto/index.html">ぶるー牧場</a>さんで提供されている<a href="http://www1.plala.or.jp/aoto/soft/88emu100.lzh">PC8801SR以降エミュレータ</a>に含まれるMAKE_HD.EXEを使って，D88形式のFDイメージを作る。<br>
+<br>
+コマンドライン<br>
+make_hd.exe c: -f example.d88 -h<br>
+　　　　(1stFDD)(File name)   (2HDtype)<br>
+<br>
+<br>
+さらについでメモ。<br>
+MS-DOS6.2拡張機能セットをインストールするときは，DOSディレクトリ内の，SETUP.EXEから拡張機能ディスク内のSETUP.INIを呼び出して使うこと。<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+  rdf:about="http://blog.goo.ne.jp/gekigangar/e/ac47f1dcd969fdf46d0cf5bfaef2d4ae"
+  trackback:ping="http://blog.goo.ne.jp/tbinterface/ac47f1dcd969fdf46d0cf5bfaef2d4ae/ee"
+  dc:title="PC-98実機でのフロッピーディスクのイメージ化など"
+  dc:date="2010-01-10T02:34:42+09:00"
+  dc:description="98エミュレータ上でアセンブラを使おうとしたところ，MS-DOS6.2拡張機能分をHDイメージに入れておらず，インストールしようと思ったら，今度は拡張機能セットのFDイメージが見付からず・・・。
+やむなく98実機上で再度イメージ化することになったので，メモメモ。
+
+方法１　MAHALITOを使って吸い出した上で，PC-8x01 galleyさんで提供されているDILTOを使ってD88形式に変換する"
+  dc:identifier="http://blog.goo.ne.jp/gekigangar/e/ac47f1dcd969fdf46d0cf5bfaef2d4ae" />
+</rdf:RDF>
+--></div>
+</div>
+<!-- /entry-body -->
+<!-- entry-bottom -->
+<div class="entry-bottom">
+<div class="entry-bottom-info">
+<a href="http://blog.goo.ne.jp/gekigangar/e/ac47f1dcd969fdf46d0cf5bfaef2d4ae#comment-list">コメント&nbsp;(0)</a>&nbsp;|&nbsp;<a href="http://blog.goo.ne.jp/gekigangar/e/ac47f1dcd969fdf46d0cf5bfaef2d4ae#trackback-list">トラックバック&nbsp;(0)</a>&nbsp;|&nbsp;<a href="http://www.goo.ne.jp/" target="_blank">goo</a>
+</div>
+</div>
+<!-- /entry-bottom -->
+
+</div>
+<!-- /entry -->
+
+<div class="mod-entry-set-bottom"><div class="lb"><div class="rb"></div></div></div>
+</div>
+
+<!-- goo_ad -->
+<div class="mod-entry-set-goo-ad"></div>
+<!-- /goo_ad -->
+
+<!-- /ENTRY SET -->
+<!-- ENTRY SET -->
+<div class="mod-entry-set">
+<div class="mod-entry-set-top"><div class="lt"><div class="rt"></div></div></div>
+
+<!-- entry -->
+<div class="entry">
+
+<!-- entry-top -->
+<div class="entry-top">
+<h3><a href="http://blog.goo.ne.jp/gekigangar/e/eb320a1c5f0543ca8bb0ac95b3ab11f8">いや驚いた</a></h3>
+<div class="entry-top-info"><a href="http://blog.goo.ne.jp/gekigangar/e/eb320a1c5f0543ca8bb0ac95b3ab11f8"><span class="entry-top-info-time">2009-09-08 00:20:21</span></a>&nbsp;|&nbsp;<a href="http://blog.goo.ne.jp/gekigangar/c/f3041843121230317371257e0a528849"><span class="entry-top-info-category">使ってみようエミュレータ</span></a></div>
+</div>
+<!-- /entry-top -->
+
+<!-- entry-body -->
+<div class="entry-body">
+<div class="entry-body-text">ＰＩ．さんのサイト消失の関係で，ネットサーフィンしていたところ，思わぬところで，ＰＩ．さんのサイトアドレスを発見。<br>
+<br>
+国立国会図書館サイト内の，<br>
+<a href="http://www.ndl.go.jp/jp/aboutus/preservation_01_2006.html">平成18年度の調査研究の内容 | 国立国会図書館-National Diet Library</a>に，<br>
+<a href="http://www.ndl.go.jp/jp/aboutus/pdf/report_2006.pdf">「電子情報の長期利用保証に関する 平成 18 年度調査報告書 平成 19 年 3 月 国立国会図書館」</a><br>
+ってPDFファイルがあって，そこに「4. FD マイグレーションの調査」って項目があるんだけど，その中には，<br>
+「&#8226;  70年代後半から普及した NEC系 PC-88における N88-DiskBASIC環境 <br>
+&#8226;  80年代前半から普及した NEC系 PC-98における MS-DOS環境 <br>
+&#8226;  90年代前半から普及したIBM系 PCにおけるMS-DOS環境 <br>
+&#8226;  それら MS-DOS系の技術・規格に続いて普及した Macintosh環境 」って記述があったり，<br>
+FDの物理フォーマット解説があったり，<br>
+「表 4.3-1  主要ＦＤマイグレーションツール 」の中には，DiskExplorerが掲載されているばかりか，「代表的な PC98エミュレータとして、Neko Project II（フリーウェア）があげられる。」なんて記述もある。<br>
+<br>
+それに，国会図書館の作成文書で，「ベタ形式」なんて表記が出てくるとは・・・。<br>
+<br>
+データ異常FDのデータ復旧作業もわりと具体的に書かれてて，かなり面白かった。<br>
+<br>
+なお，ＰＩ．さんのサイトアドレスは，PDFファイルの127ページに出てくるのだが，X68kソフトの動作確認には，EX68が使用されているため，XM6はその名前を記されることもなく，出番はその１か所に終わった。<br>
+<br>
+まあ，あくまで図書館で保管されているFDの保全の話であって，エロゲー分野にはあんまり関係ない話なんでしょうが，国立国会図書館公認エミュレータというのもなかなか愉快だったので。<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+  rdf:about="http://blog.goo.ne.jp/gekigangar/e/eb320a1c5f0543ca8bb0ac95b3ab11f8"
+  trackback:ping="http://blog.goo.ne.jp/tbinterface/eb320a1c5f0543ca8bb0ac95b3ab11f8/ee"
+  dc:title="いや驚いた"
+  dc:date="2009-09-08T00:20:21+09:00"
+  dc:description="ＰＩ．さんのサイト消失の関係で，ネットサーフィンしていたところ，思わぬところで，ＰＩ．さんのサイトアドレスを発見。
+
+国立国会図書館サイト内の，
+平成18年度の調査研究の内容 | 国立国会図書館-National Diet Libraryに，
+「電子情報の長期利用保証に関する 平成 18 年度調査報告書 平成 19 年 3 月 国立国会図書館」
+ってPDFファイルがあって，そこに「4. FD マイ"
+  dc:identifier="http://blog.goo.ne.jp/gekigangar/e/eb320a1c5f0543ca8bb0ac95b3ab11f8" />
+</rdf:RDF>
+--></div>
+</div>
+<!-- /entry-body -->
+<!-- entry-bottom -->
+<div class="entry-bottom">
+<div class="entry-bottom-info">
+<a href="http://blog.goo.ne.jp/gekigangar/e/eb320a1c5f0543ca8bb0ac95b3ab11f8#comment-list">コメント&nbsp;(2)</a>&nbsp;|&nbsp;<a href="http://blog.goo.ne.jp/gekigangar/e/eb320a1c5f0543ca8bb0ac95b3ab11f8#trackback-list">トラックバック&nbsp;(0)</a>&nbsp;|&nbsp;<a href="http://www.goo.ne.jp/" target="_blank">goo</a>
+</div>
+</div>
+<!-- /entry-bottom -->
+
+</div>
+<!-- /entry -->
+
+<div class="mod-entry-set-bottom"><div class="lb"><div class="rb"></div></div></div>
+</div>
+
+<!-- goo_ad -->
+<div class="mod-entry-set-goo-ad"></div>
+<!-- /goo_ad -->
+
+<!-- /ENTRY SET -->
+<!-- ENTRY SET -->
+<div class="mod-entry-set">
+<div class="mod-entry-set-top"><div class="lt"><div class="rt"></div></div></div>
+
+<!-- entry -->
+<div class="entry">
+
+<!-- entry-top -->
+<div class="entry-top">
+<h3><a href="http://blog.goo.ne.jp/gekigangar/e/3d9332c357be0b10503767759d8005de">ＰＩ．さんのサイト消失？</a></h3>
+<div class="entry-top-info"><a href="http://blog.goo.ne.jp/gekigangar/e/3d9332c357be0b10503767759d8005de"><span class="entry-top-info-time">2009-09-05 10:37:26</span></a>&nbsp;|&nbsp;<a href="http://blog.goo.ne.jp/gekigangar/c/f3041843121230317371257e0a528849"><span class="entry-top-info-category">使ってみようエミュレータ</span></a></div>
+</div>
+<!-- /entry-top -->
+
+<!-- entry-body -->
+<div class="entry-body">
+<div class="entry-body-text">X68000エミュレータ，XM6の開発者，ＰＩ．さんのサイトである<a href="http://www.ipc-tokai.or.jp/%7Eytanaka/">ＰＩ． Home page</a>が消失している様子です。<br>
+<br>
+<a href="http://www.archive.org/index.php">Internet Archive</a>で上記アドレスを調べても，<a href="http://web.archive.org/web/*/http://www.ipc-tokai.or.jp/%7Eytanaka/x680x0/xm6.shtml">こんな様子</a>で，２００８年以降はサイトが存在していないように見えます。<br>
+<br>
+もっとも，Googleキャッシュでは，<br>
+<a href="http://74.125.153.132/search?q=cache:91NSqx-Jj9gJ:ytanaka.vicp.net/index.html+%EF%BC%B0%EF%BC%A9%EF%BC%8E+Home+page&amp;cd=1&amp;hl=ja&amp;ct=clnk&amp;gl=jp&amp;lr=lang_ja&amp;client=firefox-a">2009年8月5日 17:27:00 GMT に取得されたもの</a>となっていまして，掲示板(XM6)，掲示板(XM7)とも，2009/08/03に更新されているようなので，一時的な不具合かもしれません。<br>
+掲示板の中身が読めないので分かりませんが。<br>
+<br>
+問題なくサイトが復活されれば，この記事は消します。<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+  rdf:about="http://blog.goo.ne.jp/gekigangar/e/3d9332c357be0b10503767759d8005de"
+  trackback:ping="http://blog.goo.ne.jp/tbinterface/3d9332c357be0b10503767759d8005de/ee"
+  dc:title="ＰＩ．さんのサイト消失？"
+  dc:date="2009-09-05T10:37:26+09:00"
+  dc:description="X68000エミュレータ，XM6の開発者，ＰＩ．さんのサイトであるＰＩ． Home pageが消失している様子です。
+
+Internet Archiveで上記アドレスを調べても，こんな様子で，２００８年以降はサイトが存在していないように見えます。
+
+もっとも，Googleキャッシュでは，
+2009年8月5日 17:27:00 GMT に取得されたものとなっていまして，掲示板(XM6)，掲示板(XM"
+  dc:identifier="http://blog.goo.ne.jp/gekigangar/e/3d9332c357be0b10503767759d8005de" />
+</rdf:RDF>
+--></div>
+</div>
+<!-- /entry-body -->
+<!-- entry-bottom -->
+<div class="entry-bottom">
+<div class="entry-bottom-info">
+<a href="http://blog.goo.ne.jp/gekigangar/e/3d9332c357be0b10503767759d8005de#comment-list">コメント&nbsp;(3)</a>&nbsp;|&nbsp;<a href="http://blog.goo.ne.jp/gekigangar/e/3d9332c357be0b10503767759d8005de#trackback-list">トラックバック&nbsp;(0)</a>&nbsp;|&nbsp;<a href="http://www.goo.ne.jp/" target="_blank">goo</a>
+</div>
+</div>
+<!-- /entry-bottom -->
+
+</div>
+<!-- /entry -->
+
+<div class="mod-entry-set-bottom"><div class="lb"><div class="rb"></div></div></div>
+</div>
+
+<!-- goo_ad -->
+<div class="mod-entry-set-goo-ad"></div>
+<!-- /goo_ad -->
+
+<!-- /ENTRY SET -->
+<!-- ENTRY SET -->
+<div class="mod-entry-set">
+<div class="mod-entry-set-top"><div class="lt"><div class="rt"></div></div></div>
+
+<!-- entry -->
+<div class="entry">
+
+<!-- entry-top -->
+<div class="entry-top">
+<h3><a href="http://blog.goo.ne.jp/gekigangar/e/f2360e72ffa259b5b264b8f1660d66f4">freeDOS(98)研究</a></h3>
+<div class="entry-top-info"><a href="http://blog.goo.ne.jp/gekigangar/e/f2360e72ffa259b5b264b8f1660d66f4"><span class="entry-top-info-time">2008-06-30 02:57:10</span></a>&nbsp;|&nbsp;<a href="http://blog.goo.ne.jp/gekigangar/c/f3041843121230317371257e0a528849"><span class="entry-top-info-category">使ってみようエミュレータ</span></a></div>
+</div>
+<!-- /entry-top -->
+
+<!-- entry-body -->
+<div class="entry-body">
+<div class="entry-body-text"><a href="http://blog.goo.ne.jp/gekigangar/e/f77579561acb5d87d1c78151a79d8883">エミュで闘神都市２をプレイしてみよう（特別編・freeDOS(98)ってどうよ）</a>で初めてさわったfreeDOS(98)だが，現在では，開発を続けている人がいない様子。<br>
+<br>
+とりあえず目に付いた開発者のページは２つ。<br>
+<a href="http://silphire.finito-web.com/freedos/index.htm">FreeDOS(98)</a><br>
+こちらは，freeDOS(98)の開発作業から離れられた様子。<br>
+<br>
+もう１つは，<a href="http://www.retropc.net/tori/freedos/">FreeDOS(98)(旧サイト名Another FreeDOS(98))</a>。<br>
+開発中止とこそ書かれていないものの，やはりファイル置き場状態となっている。<br>
+ただ，かつては，もう少し多くのファイルを置いていた旨の記述がネット上に散見される。<br>
+そこで，<a href="http://www.archive.org/index.php">Internet Archive</a>内に保存された旧Another FreeDOS(98)のアーカイブを確認してみる。<br>
+<br>
+あった。<br>
+<a href="http://web.archive.org/web/*/http://www.retropc.net/tori/freedos/">Internet Archive Wayback Machine</a><br>
+この「Dec 30, 2002」をクリックする。<br>
+<a href="http://web.archive.org/web/20021230184230/http://www.retropc.net/tori/freedos/">Another FreeDOS(98)</a><br>
+<br>
+このページから有益な情報の残っているページに飛べる。<br>
+<a href="http://web.archive.org/web/20030125205414/www.retropc.net/tori/freedos/install.html">install</a><br>
+文字コードをISO-2022-JPにするとちゃんと読める。<br>
+「現在format.exeがない為、 MS-DOSが必要です。<br>
+<br>
+HDイメージ作成。 anex形式だと物理512/論理1024になるよーなので、それで(汗<br>
+<br>
+フォーマット。 システム転送なし、ブート可にしておく。<br>
+<br>
+kernel.sysと、ビルド時に同時に生成されるsys.comと freecomなどのシェル(command.com)をMS-DOS領域に入れて、 sys実行。HDパーティションIPLとkernelとshellが転送されます。<br>
+<br>
+続いてhdiplw.exeを実行。 HD IPLが転送されます。<br>
+<br>
+以上でMS-DOSコードが一切ない環境ができあがります。」<br>
+<br>
+とのこと。<br>
+要するに，HDイメージは所定の方式でMS-DOSによりフォーマット。<br>
+システムを転送する。その後，HD IPL転送という手順。<br>
+<br>
+ただ，ずいぶん前から，hdiplw.exeも，HDイメージの公開も止められているらしく，この情報を今後役立てられるかどうかは不明。<br>
+<br>
+現状では，「メタ女」，「ツァイ」は，ゲームとしてはもちろん，現在，ネットで手に入るブート可能なfreeDOS(98)ハードディスクイメージとして，非常に貴重だ。<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+  rdf:about="http://blog.goo.ne.jp/gekigangar/e/f2360e72ffa259b5b264b8f1660d66f4"
+  trackback:ping="http://blog.goo.ne.jp/tbinterface/f2360e72ffa259b5b264b8f1660d66f4/ee"
+  dc:title="freeDOS(98)研究"
+  dc:date="2008-06-30T02:57:10+09:00"
+  dc:description="エミュで闘神都市２をプレイしてみよう（特別編・freeDOS(98)ってどうよ）で初めてさわったfreeDOS(98)だが，現在では，開発を続けている人がいない様子。
+
+とりあえず目に付いた開発者のページは２つ。
+FreeDOS(98)
+こちらは，freeDOS(98)の開発作業から離れられた様子。
+
+もう１つは，FreeDOS(98)(旧サイト名Another FreeDOS(98))。
+開発中"
+  dc:identifier="http://blog.goo.ne.jp/gekigangar/e/f2360e72ffa259b5b264b8f1660d66f4" />
+</rdf:RDF>
+--></div>
+</div>
+<!-- /entry-body -->
+<!-- entry-bottom -->
+<div class="entry-bottom">
+<div class="entry-bottom-info">
+<a href="http://blog.goo.ne.jp/gekigangar/e/f2360e72ffa259b5b264b8f1660d66f4#comment-list">コメント&nbsp;(0)</a>&nbsp;|&nbsp;<a href="http://blog.goo.ne.jp/gekigangar/e/f2360e72ffa259b5b264b8f1660d66f4#trackback-list">トラックバック&nbsp;(0)</a>&nbsp;|&nbsp;<a href="http://www.goo.ne.jp/" target="_blank">goo</a>
+</div>
+</div>
+<!-- /entry-bottom -->
+
+</div>
+<!-- /entry -->
+
+<div class="mod-entry-set-bottom"><div class="lb"><div class="rb"></div></div></div>
+</div>
+
+<!-- goo_ad -->
+<div class="mod-entry-set-goo-ad"></div>
+<!-- /goo_ad -->
+
+<!-- /ENTRY SET -->
+<!-- ENTRY SET -->
+<div class="mod-entry-set">
+<div class="mod-entry-set-top"><div class="lt"><div class="rt"></div></div></div>
+
+<!-- entry -->
+<div class="entry">
+
+<!-- entry-top -->
+<div class="entry-top">
+<h3><a href="http://blog.goo.ne.jp/gekigangar/e/f77579561acb5d87d1c78151a79d8883">エミュで闘神都市２をプレイしてみよう（特別編・freeDOS(98)ってどうよ）</a></h3>
+<div class="entry-top-info"><a href="http://blog.goo.ne.jp/gekigangar/e/f77579561acb5d87d1c78151a79d8883"><span class="entry-top-info-time">2008-06-28 15:20:11</span></a>&nbsp;|&nbsp;<a href="http://blog.goo.ne.jp/gekigangar/c/f3041843121230317371257e0a528849"><span class="entry-top-info-category">使ってみようエミュレータ</span></a></div>
+</div>
+<!-- /entry-top -->
+
+<!-- entry-body -->
+<div class="entry-body">
+<div class="entry-body-text">全経験値を注ぎ込んだ，「エミュで闘神都市２をプレイしてみよう」でしたが，掲載当初よりの難点として，「MS-DOSは自分で用意しやがれ」というのがあり，今どきMS-DOSをどうやって用意するのかは大きな問題でした。<br>
+<br>
+まあ，中古市場で探す方法もありますが，２００８年６月２８日現在，ブックマークの駿河屋では，日本語MS-DOS(Ver5.0A)基本機能セットを１つ取り扱っているだけですし（しかも，５インチFD），<a href="http://www.pasocomclub.co.jp/list/98os.html">ぱそこん倶楽部</a>には多数在庫がありますが，ちょっと目をむく値段で，これを入手してまでエミュレータでプレイするのは普通にはおすすめできません。<br>
+<br>
+しかし，闘神都市２は，労力を費やしてでもやる値打ちのあるゲームです。<br>
+とりあえず，MS-DOSなしでのプレイ環境を確保するためには２つの方向性があります。<br>
+<br>
+１つは，freeDOS(98)導入済みのHDイメージ（起動可能状態）に，闘神都市２のデータをコピーする。<br>
+もう１つは，既に構築したMS-DOS+闘神都市２のHDイメージのシステムをMS-DOS→freeDOS(98)に入れ替えるという方法です。<br>
+<br>
+後者はやればできるのかもしれないけれど，作業を完了しても圧縮時で8MBを超えるHDイメージを提供する手段を用意しないといけません。<br>
+とりあえず，私にはその手段はありません。<br>
+<br>
+そこで，前者での解決を図りました。<br>
+こちとら昨日までfreeDOS(98)とfreeDOS/Vの区別もせずに導入を試みていたくらいの素人なので，今回は，勉強がてら完璧を求めないでfreeDOS(98)を使うというコンセプトで作業してみました。<br>
+<br>
+最初は，freeDOS(98)導入済みのHDイメージ（起動可能状態）の入手です。<br>
+<a href="http://black.sakura.ne.jp/%7Esakai/metajo/mtj_main.htm">天文部南西支部</a>のページから，「ツァイ メタ女」のHDイメージをダウンロードします。<br>
+同ページで提供されている「メタ女」のHDイメージは，Np2で起動しなかったので，こちらは諦めました。<br>
+さらに言えば，<a href="http://blog.goo.ne.jp/gekigangar/e/008ce0d5f57f8e864b1bc8cb2691542f">エミュで闘神都市２をプレイしてみよう（その４）</a>でも，空きメモリ不足による起動不能の問題が起きたことから，エミュレータNP21に特化したチューニングを施した「ツァイ メタ女」のイメージをベースにする方が間違いないからです。<br>
+<br>
+動作確認の都合もありますので，<a href="http://www.yui.ne.jp/np2/">ねこ</a>からお察し下さいのファイル(=Neko Project 21)をダウンロードして実行可能にしておいて下さい。<br>
+また，ディスクイメージの中身を見るためには，<a href="http://hp.vector.co.jp/authors/VA013937/editdisk/index.html">DiskExplorer</a>を使います。<br>
+<br>
+こちらが「ツァイ メタ女」のイメージ<br>
+<img alt="ツァイHDイメージ" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/4d77836934d674304e24ea5451066b6a.png"><br>
+<br>
+このイメージには，freeDOS(98)データ部分と，「ツァイ メタ女」のゲーム固有のデータ部分が含まれますが，下の画面の赤で囲んだ部分がfreeDOS(98)データ部分です。まあ，CONFIG.SYSは微妙ですが。<br>
+<img alt="freeDOS(98)データ部分" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/3317e97779e648d9a6372eed90dc553f.png"><br>
+<br>
+この次の操作は「ツァイ メタ女」著作者の方々に忍びないので説明は割愛します。ファイルメニューから順次操作してくださいとだけ書いておきます。<br>
+意味が分からなくても２つ下の画面を見るまでは付いてきて下さい。<br>
+<br>
+いったんDiskExplorerを閉じて下さい。NP21とは同時に同一のHDイメージを使うことができないので，常にどちらかは落としておかないといけません。ちょっと面倒ですね。<br>
+<br>
+しかるべき加工を施したHDイメージからNeko Project 21を立ち上げると次の画面になります。Emm386の起動に失敗しているほか，COMMAND.COMがないと文句を言っています。<br>
+<img alt="不完全起動画面" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/19b7c2977651b1df31ab97f89d6afbf9.png"><br>
+<br>
+CONFIG.SYSを修正するとともに，COMMAND.COMを追加しましょう。<br>
+<br>
+まず，CONFIG.SYSの修正です。<br>
+DiskExplore上のHDイメージからCONFIG.SYSをドラッグアンドドロップでよそに引っ張り出すか，ファイル−取出して保存 で，Windows上で編集しましょう。<br>
+メモ帳か，日ごろからお使いのエディタソフトで良いでしょう。<br>
+<br>
+内容を以下のように変更して下さい。<br>
+<br>
+files=20<br>
+buffers=10<br>
+device=np2hma.sys<br>
+device=np2ems.sys<br>
+<s>device=fdxms.sys</s><br>
+dos=high<br>
+<br>
+上書き保存をしたうえで，CONFIG.SYSをドラッグアンドドロップでDiskExplore上のHDイメージに落とすか，ファイル−外部ファイルの書込 で，HDイメージに反映させて下さい。<br>
+どちらの方法を採っても上書きの確認をされますが，上書きして下さい。<br>
+<br>
+さらに，COMMAND.COMの追加です。<br>
+<a href="http://homepage1.nifty.com/bible/fdos/">FreeDOS/Vページ</a><br>
+からFreeCOM 0.83PL3J R2をダウンロードして下さい。<br>
+解凍すると，「98」フォルダ内にCOMMAND.COMがあります。<br>
+これを先のCONFIG.SYSと同様に，HDイメージに反映させて下さい。<br>
+<br>
+ここまでの操作が終わると，HDイメージは下の画面のようになっているはずです。HDイメージファイルの名称をfreeDOSforNP21の意味でfdnp21.hdiと改めました。（10/07/09追記・FDXMS.SYSとEMM386.EXEは不要です。）<br>
+<img alt="fdnp21イメージ" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/ffade0b002ad1f41dcb52da0f056860d.png"><br>
+<br>
+<br>
+DiskExplorerを閉じてから，このHDイメージをNP21上で立ち上げます。入力待ち画面で２回Enterキーを押すと，コマンドプロンプト画面になりました。<br>
+なお，上でCONFIG.SYSを作成したときにdevice=fdxms.sysを外してある場合は，「FreeDOS(98) XMS-Driver」から始まる５行は表示されません。<br>
+<img alt="fdnp21起動画面" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/4f6d6a69eb1ec948780f33c0996bf1ae.png"><br>
+<br>
+ここからFDイメージを使ってインストールできればいいのですが，このHDイメージ，FDイメージの使用が予定されていないので，FDイメージにアクセスできません(T_T)。<br>
+このブログ書き始めてから初めて顔文字を使った気がします。泣けます。<br>
+<br>
+今度はDiskExplorerの出番です。<br>
+<br>
+さて，完成すべきHDイメージは，MS-DOS入りで持っています。<br>
+まず，これを見ましょう。t2.hdiの中身です。<br>
+<img alt="t2イメージ中身" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/668ac59f175b516eb39857549e1439d9.png"><br>
+<br>
+闘神都市２固有のファイルは，ALICE_T2内にあるわけですから，この中身をfdnp21.hdiに食わせないといけません。起動時の処理はその上で考えましょう。<br>
+ALICE_T2ディレクトリ内のファイルは下の画面のとおりです。<br>
+<img alt="ALICE_T2ディレクトリ内のファイル" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/c9f1fb92aa420e4ded95ae1d36703912.png"><br>
+<br>
+上の画面を見ながら，<a href="http://retropc.net/alice/">アリスソフト アーカイブズ</a>から入手したFDイメージをDiskExplorerで開いて，全FDイメージから上の画面にあるファイルを漏れなくfdnp21.hdiに食わせます。<br>
+システムディスクとそれ以外をごっちゃにしないようにするため，fdnp21.hdiをDiskExplorerで開いて，ファイル−新規ディレクトリ作成で，新ディレクトリを作って下さい。<br>
+右側のウインドウにNEWDIR_0というディレクトリが新設されたら，NEWDIR_0を右クリックして，ディレクトリ名をALICE_T2と変更して下さい。<br>
+<br>
+画面を操作して，下の画面のようになったら，FDイメージ内のファイルを食わせる作業に入って下さい。<br>
+<br>
+<img alt="FDデータコピー用画面" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/4a0c7d437357d2e787fdc162f57a392e.png"><br>
+<br>
+FDイメージをDiskExplorerで開いてみました。<br>
+ALICE_T2内には存在しないファイルも含まれています。<br>
+闘神都市２の実行上は２つ上の画面内のファイルで足ります。<br>
+それと，注意しないといけないのは，下の画面でも，<br>
+DISK1.LZHのように圧縮形式のファイルが含まれており(LZHタイプのみですが)，本来であればインストールプログラム内で解凍してALICE_T2内に格納されるデータが少なからずあることです。<br>
+こういうものは，一旦，Windows上で解凍したうえで，DiskExplorerのイメージ内に戻すという作業をすることになります。<br>
+はっきり言ってめちゃくちゃめんどくさいです。<br>
+<br>
+<img alt="FD１枚目イメージ" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/5945a90223336d601173a36a8ea946d2.png"><br>
+<br>
+何とか，イメージ内に必要なファイルのコピーを完了しました。<br>
+<img alt="ゲームデータコピー完了時イメージ" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/64833cd18485700d60e15ae03fc843eb.png"><br>
+<br>
+では，早速，DiskExplorerを閉じて，NP21を起動してみましょう。<br>
+２回Enterキーを押すと，コマンドプロンプト画面になりますので，<br>
+CD alice_t2（改行）<br>
+t2（改行）と入力してみます。<br>
+前述のとおり，上でCONFIG.SYSを作成したときにdevice=fdxms.sysを外してある場合は，「FreeDOS(98) XMS-Driver」から始まる５行は表示されません。<br>
+<br>
+<img alt="起動直前" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/017183abc9df32d9977becb60894ceaa.png"><br>
+<br>
+<img alt="起動画面" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/c59d7e2bcd88ff70445ababd3a466396.png"><br>
+<br>
+はい，このとおり，見事にfreeDOS(98)で闘神都市２が立ち上がりました。<br>
+とりあえず，賢者イソロクからはんこをもらうところまで（資格迷宮終了）までやってみましたが，MS-DOSとの使用感の差はありませんでした（正確に
+は，CAPSロックをかけるとメッセージの表示が早くなるはずが，ロックを外した方が早かったんですが，うちのパソコン固有の問題かもしれません。）。<br>
+他に，Anex86，T98-NextでこのHDイメージを使用して，いずれもタイトル画面まで行けることは確認しています（ダンジョンバトルとかは未確認という意味）。<br>
+<br>
+ほんとは，コマンド入力をせずに，AUTOEXEC.BATで無入力起動もできるんですけど，その程度は自分で勉強してもらってもいいかな・と。<br>
+たくさんの人が闘神都市２を楽しまれますように。<br>
+<br>
+あ，もちろん，ツァイ メタ女もやってみて下さいよ！！！お願いだから。<br>
+<br>
+参考記事<br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/f2360e72ffa259b5b264b8f1660d66f4">freeDOS(98)研究</a><br>
+<br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/d8508ed6f29df7e3f89d73c3bc905ada">エミュで闘神都市２をプレイしてみよう（その１・エミュレータ導入編）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/5d0af42c247a020c0f3446dcffaeff32">エミュで闘神都市２をプレイしてみよう（その２・MS-DOS導入準備編）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/a439f8e8acef4f90c1551a53e0e8271c">エミュで闘神都市２をプレイしてみよう（その３・MS-DOSインストール編）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/008ce0d5f57f8e864b1bc8cb2691542f">エミュで闘神都市２をプレイしてみよう（その４・最終回）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/f77579561acb5d87d1c78151a79d8883">エミュで闘神都市２をプレイしてみよう（特別編・freeDOS(98)ってどうよ）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/73a4102741701decbc655d3fa711dc12">ツァイ　メタ女ハードディスクイメージ起動プロセス検証-fdnp21改</a><br>
+<br>
+闘神都市２のマニュアルは<a href="http://blog.goo.ne.jp/gekigangar/e/6bad1d26ccdc00d41a6c380a5d7c896a" target="_blank">こちら</a>。<br>
+<br>
+&lt;&lt;著作権に関して&gt;&gt;<br>
+本記事に引用している全てのソフトの名称・画像の著作権・その他権利は、制作、販売されたソフトハウス、メーカー、または作者様に帰属します。本サイトで
+の上記著作権物扱いは、著作権など各権利関係を侵害することが目的ではありません。問題などある場合は、メール(ｇｅｋｉｇａｎｇａｒあっと
+ｍａｉｌ．ｇｏｏ．ｎｅ．ｊｐ)にてその旨お知らせください。<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+  rdf:about="http://blog.goo.ne.jp/gekigangar/e/f77579561acb5d87d1c78151a79d8883"
+  trackback:ping="http://blog.goo.ne.jp/tbinterface/f77579561acb5d87d1c78151a79d8883/ee"
+  dc:title="エミュで闘神都市２をプレイしてみよう（特別編・freeDOS(98)ってどうよ）"
+  dc:date="2008-06-28T15:20:11+09:00"
+  dc:description="全経験値を注ぎ込んだ，「エミュで闘神都市２をプレイしてみよう」でしたが，掲載当初よりの難点として，「MS-DOSは自分で用意しやがれ」というのがあり，今どきMS-DOSをどうやって用意するのかは大きな問題でした。
+
+まあ，中古市場で探す方法もありますが，２００８年６月２８日現在，ブックマークの駿河屋では，日本語MS-DOS(Ver5.0A)基本機能セットを１つ取り扱っているだけですし（しかも，５イ"
+  dc:identifier="http://blog.goo.ne.jp/gekigangar/e/f77579561acb5d87d1c78151a79d8883" />
+</rdf:RDF>
+--></div>
+</div>
+<!-- /entry-body -->
+<!-- entry-bottom -->
+<div class="entry-bottom">
+<div class="entry-bottom-info">
+<a href="http://blog.goo.ne.jp/gekigangar/e/f77579561acb5d87d1c78151a79d8883#comment-list">コメント&nbsp;(0)</a>&nbsp;|&nbsp;<a href="http://blog.goo.ne.jp/gekigangar/e/f77579561acb5d87d1c78151a79d8883#trackback-list">トラックバック&nbsp;(0)</a>&nbsp;|&nbsp;<a href="http://www.goo.ne.jp/" target="_blank">goo</a>
+</div>
+</div>
+<!-- /entry-bottom -->
+
+</div>
+<!-- /entry -->
+
+<div class="mod-entry-set-bottom"><div class="lb"><div class="rb"></div></div></div>
+</div>
+
+<!-- goo_ad -->
+<div class="mod-entry-set-goo-ad"></div>
+<!-- /goo_ad -->
+
+<!-- /ENTRY SET -->
+<!-- ENTRY SET -->
+<div class="mod-entry-set">
+<div class="mod-entry-set-top"><div class="lt"><div class="rt"></div></div></div>
+
+<!-- entry -->
+<div class="entry">
+
+<!-- entry-top -->
+<div class="entry-top">
+<h3><a href="http://blog.goo.ne.jp/gekigangar/e/008ce0d5f57f8e864b1bc8cb2691542f">エミュで闘神都市２をプレイしてみよう（その４・最終回）</a></h3>
+<div class="entry-top-info"><a href="http://blog.goo.ne.jp/gekigangar/e/008ce0d5f57f8e864b1bc8cb2691542f"><span class="entry-top-info-time">2008-06-26 03:10:43</span></a>&nbsp;|&nbsp;<a href="http://blog.goo.ne.jp/gekigangar/c/f3041843121230317371257e0a528849"><span class="entry-top-info-category">使ってみようエミュレータ</span></a></div>
+</div>
+<!-- /entry-top -->
+
+<!-- entry-body -->
+<div class="entry-body">
+<div class="entry-body-text">ついに最終章です。<br>
+<br>
+Neko Project IIを起動させて下さい。<br>
+そして，MS-DOS入りハードディスクイメージを指定して再起動です。<br>
+<img alt="ハードディスクイメージ指定" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/9542544bdc2e9dd84ba2906787635253.png"><br>
+<br>
+<img alt="t2.hdi選択" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/15835f0fe80c9d281455b0e408ab4439.png"><br>
+<br>
+<img alt="再起動" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/7cd30db449cf2c041e17d29ea3596a28.png"><br>
+<br>
+<br>
+再起動の結果，見事にMS-DOSの起動に成功しました。<br>
+<img alt="MS-DOS起動完了画面" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/cc027e23b1beff53aa221cea1b8551f0.png"><br>
+<br>
+<br>
+さて，いよいよ闘神都市２をインストールします。<br>
+１枚目のフロッピーディスクイメージを仮想マシンに差し入れます。<br>
+<img alt="" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/ae872945b8455a3a9886600fc386f856.png"><br>
+<br>
+<img alt="ゲームディスク１枚目選択" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/179b6a3139c8412f03eba47775a72ec3.png"><br>
+<br>
+<br>
+無事，挿入できたので，タイトルバー部分に，「FDD1:DISK01.HDM」と表示されています。<br>
+<img alt="ゲームディスク１枚目挿入時画面" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/9fbf657bf779968f0005b60c6182e539.png"><br>
+<br>
+<br>
+この後，SHIFT+F9キーを押してコマンドプロンプト画面に切り替えます。<br>
+DOS慣れしていないと不安だと思いますが，以下のように入力します。<br>
+b:（改行）<br>
+alsmenu b: a:(改行)<br>
+画面で見るとこうなります。<br>
+<img alt="コマンドプロンプト画面" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/03678b36db0f8e0b44a3b4535e6bc38b.png"><br>
+<br>
+後は画面上でゲームディスクの入替えを順次求められるのでこれに対応して下さい。<br>
+全ディスクの内容のコピーが終わると<br>
+exit<br>
+と入力して，DOSシェル画面に復帰して下さい。<br>
+<br>
+<br>
+DOSシェル画面に復帰したら，F5キーを押して下さい。<br>
+Aドライブに新設されたディレクトリALICE_T2が表示されるはずです。<br>
+<img alt="ALICE_T2確認" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/0ecc5beeb41fe2f6ba42bcc88271a76d.png"><br>
+<br>
+<br>
+Tabキーを押してカーソルを「ディレクトリ・ツリー」に移動させます。<br>
+<img alt="Tab押し後" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/4fe2ea96a5f8335bd3bbd5f208c08cfa.png"><br>
+<br>
+<br>
+矢印キーでカーソルを「ALICE_T2」に移動させます。これで「ALICE_T2」ディレクトリの中身が右側に表示されます。<br>
+<img alt="ALICE_T2選択" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/e9aecd8c0c8b771bd0aa9dc868568fd7.png"><br>
+<br>
+<br>
+さらにTabキーを押して，T2.BATを実行すると，ゲームが開始されます！<br>
+<img alt="T2BAT選択" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/95a9d61fbd8395d061cd91d82116dd09.png"><br>
+<br>
+とまあ段取りどおりには行かず，デフォルトのCONFIG.SYSのままではメモリ不足でゲームを開始してくれません。<br>
+そこで，再びSHIFT+F9キーを押して，コマンドプロンプト画面に入り(コマンドプロンプト画面のままだったかな？もしそうならそのままコマンドラインを入力。夜中に作業したのであんまり覚えてない)，CONFIG.SYSを編集します。<br>
+コマンドラインは，<br>
+a:&gt;sedit a:￥config.sys<br>
+<img alt="デフォルトconfig.sys" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/747684b2b74f498e572bf03f4f71bab5.png"><br>
+<br>
+編集内容としては，<br>
+DEVICEHIGH=・・・の４行をごっそり削除，<br>
+その下のDEVICE=・・・の２行も削除。<br>
+そのうえでF10キーを押して，SEDITを終了します。<br>
+もちろん，「文書を保存しエディタを終了」を選択してください。<br>
+<img alt="編集終了画面" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/a217653aa578d583ac60d4a22827f41d.png"><br>
+<br>
+<br>
+さて，これでメモリを解放した設定ファイルも完成したので再起動させて，T2.BATを実行すると・・・<br>
+<img alt="ゲーム開始画面" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/db7490e7faaa7b62fc6c0db7f4d99ac7.png"><br>
+<br>
+いやあ，軽い気持ちで始めてみたらえらく手間がかかりました。<br>
+何人付いてきて下さったか分かりませんが，無事起動できた方はおめでとうございます。<br>
+<br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/d8508ed6f29df7e3f89d73c3bc905ada">エミュで闘神都市２をプレイしてみよう（その１・エミュレータ導入編）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/5d0af42c247a020c0f3446dcffaeff32">エミュで闘神都市２をプレイしてみよう（その２・MS-DOS導入準備編）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/a439f8e8acef4f90c1551a53e0e8271c">エミュで闘神都市２をプレイしてみよう（その３・MS-DOSインストール編）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/008ce0d5f57f8e864b1bc8cb2691542f">エミュで闘神都市２をプレイしてみよう（その４・最終回）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/f77579561acb5d87d1c78151a79d8883">エミュで闘神都市２をプレイしてみよう（特別編・freeDOS(98)ってどうよ）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/73a4102741701decbc655d3fa711dc12">ツァイ　メタ女ハードディスクイメージ起動プロセス検証-fdnp21改</a><br>
+闘神都市２のマニュアルは<a href="http://blog.goo.ne.jp/gekigangar/e/6bad1d26ccdc00d41a6c380a5d7c896a" target="_blank">こちら</a>。<br>
+<br>
+&lt;&lt;著作権に関して&gt;&gt;<br>
+本記事に引用している全てのソフトの名称・画像の著作権・その他権利は、制作、販売されたソフトハウス、メーカー、または作者様に帰属します。本サイトで
+の上記著作権物扱いは、著作権など各権利関係を侵害することが目的ではありません。問題などある場合は、メール(ｇｅｋｉｇａｎｇａｒあっと
+ｍａｉｌ．ｇｏｏ．ｎｅ．ｊｐ)にてその旨お知らせください。<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+  rdf:about="http://blog.goo.ne.jp/gekigangar/e/008ce0d5f57f8e864b1bc8cb2691542f"
+  trackback:ping="http://blog.goo.ne.jp/tbinterface/008ce0d5f57f8e864b1bc8cb2691542f/ee"
+  dc:title="エミュで闘神都市２をプレイしてみよう（その４・最終回）"
+  dc:date="2008-06-26T03:10:43+09:00"
+  dc:description="ついに最終章です。
+
+Neko Project IIを起動させて下さい。
+そして，MS-DOS入りハードディスクイメージを指定して再起動です。
+
+
+
+
+
+
+
+再起動の結果，見事にMS-DOSの起動に成功しました。
+
+
+
+さて，いよいよ闘神都市２をインストールします。
+１枚目のフロッピーディスクイメージを仮想マシンに差し入れます。
+
+
+
+
+
+無事，挿入できたので，タイトルバー部分に，「FDD1:DI"
+  dc:identifier="http://blog.goo.ne.jp/gekigangar/e/008ce0d5f57f8e864b1bc8cb2691542f" />
+</rdf:RDF>
+--></div>
+</div>
+<!-- /entry-body -->
+<!-- entry-bottom -->
+<div class="entry-bottom">
+<div class="entry-bottom-info">
+<a href="http://blog.goo.ne.jp/gekigangar/e/008ce0d5f57f8e864b1bc8cb2691542f#comment-list">コメント&nbsp;(0)</a>&nbsp;|&nbsp;<a href="http://blog.goo.ne.jp/gekigangar/e/008ce0d5f57f8e864b1bc8cb2691542f#trackback-list">トラックバック&nbsp;(0)</a>&nbsp;|&nbsp;<a href="http://www.goo.ne.jp/" target="_blank">goo</a>
+</div>
+</div>
+<!-- /entry-bottom -->
+
+</div>
+<!-- /entry -->
+
+<div class="mod-entry-set-bottom"><div class="lb"><div class="rb"></div></div></div>
+</div>
+
+<!-- goo_ad -->
+<div class="mod-entry-set-goo-ad"></div>
+<!-- /goo_ad -->
+
+<!-- /ENTRY SET -->
+<!-- ENTRY SET -->
+<div class="mod-entry-set">
+<div class="mod-entry-set-top"><div class="lt"><div class="rt"></div></div></div>
+
+<!-- entry -->
+<div class="entry">
+
+<!-- entry-top -->
+<div class="entry-top">
+<h3><a href="http://blog.goo.ne.jp/gekigangar/e/a439f8e8acef4f90c1551a53e0e8271c">エミュで闘神都市２をプレイしてみよう（その３・MS-DOSインストール編）</a></h3>
+<div class="entry-top-info"><a href="http://blog.goo.ne.jp/gekigangar/e/a439f8e8acef4f90c1551a53e0e8271c"><span class="entry-top-info-time">2008-06-26 03:05:01</span></a>&nbsp;|&nbsp;<a href="http://blog.goo.ne.jp/gekigangar/c/f3041843121230317371257e0a528849"><span class="entry-top-info-category">使ってみようエミュレータ</span></a></div>
+</div>
+<!-- /entry-top -->
+
+<!-- entry-body -->
+<div class="entry-body">
+<div class="entry-body-image"><center><a href="http://blogimg.goo.ne.jp/user_image/4f/4e/db7490e7faaa7b62fc6c0db7f4d99ac7.png"><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/db7490e7faaa7b62fc6c0db7f4d99ac7.png" class="entry_body_img_large" border="0"></a></center></div><div class="entry-body-text">さて，ようやくハードディスクイメージにMS-DOSをインストールします。<br>
+まず，MS-DOSの１枚目のフロッピーディスクのイメージをFD DRIVEの１にセットします。<br>
+<img alt="MS-DOS１枚目ディスク挿入状態" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/46238fddc77b0e21031c7f13a44d60cf.png"><br>
+<br>
+<br>
+さらに，MS-DOSをインストールするハードディスクイメージをHD DRIVEの１にセットします。カーソルを下画面の位置に移動させてクリックします。<br>
+<img alt="ハードディスクイメージ選択" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/a88a8ad6e2a46cf485c897b8b0557828.png"><br>
+<br>
+<br>
+ハードディスクイメージを指定する画面が出るので，その１で作成した「t2.hdi」のハードディスクイメージを指定します。<br>
+<img alt="t2.hdiを指定" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/e7b61ef1e733f68d05b208d41aef3675.png"><br>
+<br>
+<br>
+これで，t2.hdiをハードディスクとして実装し，１台目のFDDにMS-DOSの１枚目のフロッピーディスクを入れた仮想PC98マシンができました。<br>
+<img alt="MS-DOSインストール直前" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/059395c299e3018f00a432947323a589.png"><br>
+<br>
+<br>
+この状態で，左端に並んでいる，「電源」，「再開」，「リセット」，・・・の「電源」をクリックして，仮想マシンを起動させます。<br>
+<img alt="電源オン" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/f496aedfbea7ea366b45e92aad991bca.png"><br>
+<br>
+<br>
+仮想マシン上のMS-DOSが起動しました。<br>
+<img alt="MS-DOS起動画面" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/55dc8d6667d6714d0113a658725d4ed1.png"><br>
+<br>
+<br>
+この画面の後は，下の画面になるまで画面の指示に従ってEnterキーを数回押して下さい。<br>
+下の画面になったところで，仮想マシン画面のバックにある「T98-Next」のウインドウをアクティブウインドウにして下さい。<br>
+<img alt="FD入れ替え要求画面" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/0503af1ee7007ee1cd607a780a76d4ea.png"><br>
+<br>
+<br>
+FDイメージを下の連続画面の手順で，MS-DOSの２枚目のフロッピーディスクイメージに変更します。<br>
+この画面のカーソル位置でクリック。<br>
+<img alt="FDイメージ変更開始" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/9f64c893d118016d5bfae8f7ea5b566d.png"><br>
+<br>
+<br>
+MS-DOS２枚目のFDイメージを選択します。<br>
+<img alt="FDイメージ選択" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/b879a4a1f6d2536b3bd11a191dc076d9.png"><br>
+<br>
+<br>
+FDイメージの変更が完了したところ。この画面のカーソル位置でクリックして，「Emulation Window」をアクティブウインドウにして，残りのインストール作業を続けます。<br>
+<img alt="FDイメージ変更完了" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/6bbb0db835820f4825f6bc2297eec39d.png"><br>
+<br>
+<br>
+下の画面まで来たらMS-DOSのインストールは完了です。<br>
+画面で指示されているとおり，フロッピーディスクをFDDから外す必要があるので，「T98-Next」のウインドウをアクティブウインドウにしてFDイ
+メージを排出した上で，「Emulation Window」をアクティブウインドウに戻してから，Enterキーを押します。<br>
+<img alt="インストール終了画面" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/f46421bccee47be4e3da2f5362d58c1a.png"><br>
+<br>
+<br>
+Enterキーを押すと仮想マシンが再起動されて，ついにハードディスクイメージ上のMS-DOSが起動します！<br>
+<img alt="仮想マシンハードディスク上のMS-DOS起動" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/f85cc2dbf22c0af55d38cda7269d5edc.png"><br>
+<br>
+やっとこさ仮想マシンに装着するハードディスクが中身を含めて完成しました。<br>
+T98-Nextはここで終了させて下さい。<br>
+<br>
+その４で，このハードディスクに「闘神都市２」をインストールして，長きにわたる作業は完了です。<br>
+闘神都市は目前です。<br>
+<br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/d8508ed6f29df7e3f89d73c3bc905ada">エミュで闘神都市２をプレイしてみよう（その１・エミュレータ導入編）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/5d0af42c247a020c0f3446dcffaeff32">エミュで闘神都市２をプレイしてみよう（その２・MS-DOS導入準備編）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/a439f8e8acef4f90c1551a53e0e8271c">エミュで闘神都市２をプレイしてみよう（その３・MS-DOSインストール編）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/008ce0d5f57f8e864b1bc8cb2691542f">エミュで闘神都市２をプレイしてみよう（その４・最終回）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/f77579561acb5d87d1c78151a79d8883">エミュで闘神都市２をプレイしてみよう（特別編・freeDOS(98)ってどうよ）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/73a4102741701decbc655d3fa711dc12">ツァイ　メタ女ハードディスクイメージ起動プロセス検証-fdnp21改</a><br>
+闘神都市２のマニュアルは<a href="http://blog.goo.ne.jp/gekigangar/e/6bad1d26ccdc00d41a6c380a5d7c896a" target="_blank">こちら</a>。<br>
+<br>
+&lt;&lt;著作権に関して&gt;&gt;<br>
+本記事に引用している全てのソフトの名称・画像の著作権・その他権利は、制作、販売されたソフトハウス、メーカー、または作者様に帰属します。本サイトで
+の上記著作権物扱いは、著作権など各権利関係を侵害することが目的ではありません。問題などある場合は、メール(ｇｅｋｉｇａｎｇａｒあっと
+ｍａｉｌ．ｇｏｏ．ｎｅ．ｊｐ)にてその旨お知らせください。<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+  rdf:about="http://blog.goo.ne.jp/gekigangar/e/a439f8e8acef4f90c1551a53e0e8271c"
+  trackback:ping="http://blog.goo.ne.jp/tbinterface/a439f8e8acef4f90c1551a53e0e8271c/ee"
+  dc:title="エミュで闘神都市２をプレイしてみよう（その３・MS-DOSインストール編）"
+  dc:date="2008-06-26T03:05:01+09:00"
+  dc:description="さて，ようやくハードディスクイメージにMS-DOSをインストールします。
+まず，MS-DOSの１枚目のフロッピーディスクのイメージをFD DRIVEの１にセットします。
+
+
+
+さらに，MS-DOSをインストールするハードディスクイメージをHD DRIVEの１にセットします。カーソルを下画面の位置に移動させてクリックします。
+
+
+
+ハードディスクイメージを指定する画面が出るので，その１で作成した「t"
+  dc:identifier="http://blog.goo.ne.jp/gekigangar/e/a439f8e8acef4f90c1551a53e0e8271c" />
+</rdf:RDF>
+--></div>
+</div>
+<!-- /entry-body -->
+<!-- entry-bottom -->
+<div class="entry-bottom">
+<div class="entry-bottom-info">
+<a href="http://blog.goo.ne.jp/gekigangar/e/a439f8e8acef4f90c1551a53e0e8271c#comment-list">コメント&nbsp;(0)</a>&nbsp;|&nbsp;<a href="http://blog.goo.ne.jp/gekigangar/e/a439f8e8acef4f90c1551a53e0e8271c#trackback-list">トラックバック&nbsp;(0)</a>&nbsp;|&nbsp;<a href="http://www.goo.ne.jp/" target="_blank">goo</a>
+</div>
+</div>
+<!-- /entry-bottom -->
+
+</div>
+<!-- /entry -->
+
+<div class="mod-entry-set-bottom"><div class="lb"><div class="rb"></div></div></div>
+</div>
+
+<!-- goo_ad -->
+<div class="mod-entry-set-goo-ad"></div>
+<!-- /goo_ad -->
+
+<!-- /ENTRY SET -->
+<!-- ENTRY SET -->
+<div class="mod-entry-set">
+<div class="mod-entry-set-top"><div class="lt"><div class="rt"></div></div></div>
+
+<!-- entry -->
+<div class="entry">
+
+<!-- entry-top -->
+<div class="entry-top">
+<h3><a href="http://blog.goo.ne.jp/gekigangar/e/5d0af42c247a020c0f3446dcffaeff32">エミュで闘神都市２をプレイしてみよう（その２・MS-DOS導入準備編）</a></h3>
+<div class="entry-top-info"><a href="http://blog.goo.ne.jp/gekigangar/e/5d0af42c247a020c0f3446dcffaeff32"><span class="entry-top-info-time">2008-06-26 03:03:32</span></a>&nbsp;|&nbsp;<a href="http://blog.goo.ne.jp/gekigangar/c/f3041843121230317371257e0a528849"><span class="entry-top-info-category">使ってみようエミュレータ</span></a></div>
+</div>
+<!-- /entry-top -->
+
+<!-- entry-body -->
+<div class="entry-body">
+<div class="entry-body-image"><center><a href="http://blogimg.goo.ne.jp/user_image/4f/4e/db7490e7faaa7b62fc6c0db7f4d99ac7.png"><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/db7490e7faaa7b62fc6c0db7f4d99ac7.png" class="entry_body_img_large" border="0"></a></center></div><div class="entry-body-text">さて，今度は，ハードディスクイメージにMS-DOSをインストールしないといけません。<br>
+<br>
+そして，MS-DOSは，フロッピーディスク媒体で販売されていました。<br>
+もう今は新品では売っていないかもしれませんが。<br>
+そして，ハードディスクイメージにMS-DOSをインストールするためには，MS-DOSのフロッピーディスクもイメージ化しないといけません。<br>
+<br>
+では，フロッピーディスクはどうすればイメージ化できるのでしょうか。<br>
+とりあえず，<br>
+ディスクイメージ　吸い出し　フロッピーディスク<br>
+をキーワードに検索してみましょう。<br>
+<br>
+ベクターのサイトに使えそうなフリーソフトがいくつも載っていますね。<br>
+まあ問題は，これらのユーティリティソフトは，MS-DOS上で使用するもので，とりあえずMS-DOSが入っていて，現在も使えるPC-9801の実機がないとディスクイメージの作成ができないということです。<br>
+もちろん私は実機を持っていますから別に問題はないですが，実機を使った説明となるとデジカメで操作の様子を撮影しないといけないけどセルフタイマーで撮
+るのか？とか，実機を撮影するとなると実機周りを片付けないといけないし・・・とか，とりあえずめんどくさいので，MS-DOS上での吸い出しはここでは
+パスします。<br>
+<br>
+なお，ソフトによっては，実機ドライブによる吸い出しでないとイメージ化自体できないものもあります。<br>
+そういうときは，私はベクターのページで紹介されているMAHALITOや，PC9821エミュレータ<a href="http://www.geocities.co.jp/SiliconValley-Bay/2754/index.html">T98-Next</a>で提供されているT98-NEXT TOOLのNFDMAKEを使っています。<br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/ac47f1dcd969fdf46d0cf5bfaef2d4ae">PC-98実機でのフロッピーディスクのイメージ化など</a>にはもう少し詳しく説明してあります。<br>
+<br>
+ついでにいうと，PC88用のフロッピーデータの吸い出しには，PC-98の実機内蔵の５インチFDDで、P88SR付属のMAKE_HD.exeを使います。<br>
+コマンドラインは、MAKE_HD.exe　ドライブ：　-f　ファイル名.d88<br>
+オプションを指定したい場合はP88SR付属のマニュアルを読んでください。<br>
+<br>
+さらに余談ですが，T98-Nextの後継エミュレータT98vmm(ｲｾ)を使うとパソコン本体がリセットされてしまう（前のパソコンではそんなことはなかったんだが）ため，作者さんもさんざんおっしゃっていますが，覚悟して使って下さい。<br>
+<br>
+本題に戻りまして，98実機を使わずにMS-DOSのフロッピーディスクをイメージ化する作業です。<br>
+こんな作業が必要なのはやはりエミュレータ分野ということで，エミュレータの方でFDイメージ吸い出し機能を実装しているのが，先ほど紹介したT98-
+NextとEPSON 
+PC-x86のエミュレータAnex86（ただし，シェアウェア，A.N.さんのホームページ，ベクターからのダウンロードのいずれも可能）です。<br>
+また，ディスクイメージ編集ツールである<a href="http://hp.vector.co.jp/authors/VA013937/editdisk/index.html">DiskExplorer</a>を使っても吸い出し可能です。<br>
+<br>
+Anex86による吸い出しについては，A.N.さんのホームページの[Anex86]-[Manual]-ガイド内に説明があるのでそちらを参照して下さい。<br>
+<br>
+今回は，特殊フォーマットFDの吸い出しを得意とするT98-NextによるFDイメージの吸い出しをやってみます(MS-DOSのFDは通常フォーマットなので，このディスクイメージに関してはDiskExplorerで問題ないのですが)。<br>
+まずは，T98-NextのホームページからダウンロードしたT98-Next本体を解凍して，起動します。<br>
+<br>
+<br>
+そうするとこんな画面が。<br>
+運用タブの下に，SAVEタブとDISKタブがあります。<br>
+<img alt="T98-Next初回起動画面" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/7874100d26a0be8195db7828a02df775.png"><br>
+<br>
+<br>
+DISKタブを選択。ここからは，私の使い古しのT98-Next画面なので，ADタブが増えてますが，今後の操作に影響はないので無視して下さい。つか，ADタブって何だ。<br>
+<img alt="DISKタブを選択" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/9a29aa0937040d6e9a7b6366f090def5.png"><br>
+<br>
+<br>
+FDドライブのNewボタンをクリック。<br>
+<img alt="Newボタンクリック" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/0cb824b86febc7fcbf9418d65011f903.png"><br>
+<br>
+<br>
+そうすると，どうやってFDイメージを作成するか聞かれるので，FDをイメージに変換を選択。<br>
+<img alt="FDをイメージに変換" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/4a8c4708697a48cb0f0480464f291cd7.png"><br>
+<br>
+FDDにイメージ化するフロッピーディスクを挿入してから，STARTボタンをクリック。<br>
+<img alt="変換スタート" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/a7f5485fa6abe68cb7ce4131e2f5b19a.png"><br>
+<br>
+<br>
+FDイメージの保存場所と作成するファイル名を聞かれるので，さくっと選択，さくっと入力。<br>
+<img alt="保存場所とファイル名指定" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/d146726249b09352aae0cebca242aa32.png"><br>
+<br>
+<br>
+ありゃま！ライトプロテクトをせずにイメージ化を指示すると怒られてしまいました。（追記・ライトプロテクトしてても警告する仕様だった記憶があるので，ライトプロテクトなしでもイメージ化は出来たような気が・・・）<br>
+<img alt="ライトプロテクト警告" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/91ca72de5389595236c3b7300b550029.png"><br>
+<br>
+<br>
+イメージ化が完了すると，FDDにセットされた状態になっています。<br>
+<img alt="イメージ化完了" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/46238fddc77b0e21031c7f13a44d60cf.png"><br>
+<br>
+この要領で，MS-DOSのフロッピーディスクを全部ディスクイメージ化して下さい。<br>
+<br>
+ここまでやっておいて言うのも何ですが，Neko Project IIでは，NFDタイプのフロッピーイメージを扱えませんので，その１で作成したハードディスクイメージのフォーマットをT98-Next上ですませてしまいましょう。<br>
+ちなみに，Neko Project II上ではMS-DOS6.2をインストールできないが，T98-Nextではインストール可能。なので，MS-DOS6.2しか持ってない人でもNP2を使えるメリットあり。<br>
+<br>
+どうしてもNP2上でハードディスクをフォーマットしたい方は<a href="http://www.vector.co.jp/soft/win95/util/se151106.html">Virtual Floppy Image Converter(通称VFIC)</a>でフロッピーディスクのイメージをNFDタイプからFDIタイプなりD88タイプにコンバートして下さい。<br>
+Axex86でイメージ化された方はNP2上でハードディスクイメージのフォーマットをしていただいて結構です。<br>
+<br>
+追記・エミュレータとして，<a href="http://www.yui.ne.jp/np2/">ねこ</a>にあるお察し下さいのファイル(=Neko Project 21)を使うと，HDイメージに直接，MS-DOS6.2をインストールできます。<br>
+<br>
+画像容量的にこの辺で改ページした方が良さそうなので，その２はここまでとします。ハードディスクイメージのフォーマット以下をその３で扱います。<br>
+<br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/d8508ed6f29df7e3f89d73c3bc905ada">エミュで闘神都市２をプレイしてみよう（その１・エミュレータ導入編）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/5d0af42c247a020c0f3446dcffaeff32">エミュで闘神都市２をプレイしてみよう（その２・MS-DOS導入準備編）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/a439f8e8acef4f90c1551a53e0e8271c">エミュで闘神都市２をプレイしてみよう（その３・MS-DOSインストール編）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/008ce0d5f57f8e864b1bc8cb2691542f">エミュで闘神都市２をプレイしてみよう（その４・最終回）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/f77579561acb5d87d1c78151a79d8883">エミュで闘神都市２をプレイしてみよう（特別編・freeDOS(98)ってどうよ）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/73a4102741701decbc655d3fa711dc12">ツァイ　メタ女ハードディスクイメージ起動プロセス検証-fdnp21改</a><br>
+闘神都市２のマニュアルは<a href="http://blog.goo.ne.jp/gekigangar/e/6bad1d26ccdc00d41a6c380a5d7c896a" target="_blank">こちら</a>。<br>
+<br>
+&lt;&lt;著作権に関して&gt;&gt;<br>
+本記事に引用している全てのソフトの名称・画像の著作権・その他権利は、制作、販売されたソフトハウス、メーカー、または作者様に帰属します。本サイトで
+の上記著作権物扱いは、著作権など各権利関係を侵害することが目的ではありません。問題などある場合は、メール(ｇｅｋｉｇａｎｇａｒあっと
+ｍａｉｌ．ｇｏｏ．ｎｅ．ｊｐ)にてその旨お知らせください。<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+  rdf:about="http://blog.goo.ne.jp/gekigangar/e/5d0af42c247a020c0f3446dcffaeff32"
+  trackback:ping="http://blog.goo.ne.jp/tbinterface/5d0af42c247a020c0f3446dcffaeff32/ee"
+  dc:title="エミュで闘神都市２をプレイしてみよう（その２・MS-DOS導入準備編）"
+  dc:date="2008-06-26T03:03:32+09:00"
+  dc:description="さて，今度は，ハードディスクイメージにMS-DOSをインストールしないといけません。
+
+そして，MS-DOSは，フロッピーディスク媒体で販売されていました。
+もう今は新品では売っていないかもしれませんが。
+そして，ハードディスクイメージにMS-DOSをインストールするためには，MS-DOSのフロッピーディスクもイメージ化しないといけません。
+
+では，フロッピーディスクはどうすればイメージ化できるの"
+  dc:identifier="http://blog.goo.ne.jp/gekigangar/e/5d0af42c247a020c0f3446dcffaeff32" />
+</rdf:RDF>
+--></div>
+</div>
+<!-- /entry-body -->
+<!-- entry-bottom -->
+<div class="entry-bottom">
+<div class="entry-bottom-info">
+<a href="http://blog.goo.ne.jp/gekigangar/e/5d0af42c247a020c0f3446dcffaeff32#comment-list">コメント&nbsp;(0)</a>&nbsp;|&nbsp;<a href="http://blog.goo.ne.jp/gekigangar/e/5d0af42c247a020c0f3446dcffaeff32#trackback-list">トラックバック&nbsp;(0)</a>&nbsp;|&nbsp;<a href="http://www.goo.ne.jp/" target="_blank">goo</a>
+</div>
+</div>
+<!-- /entry-bottom -->
+
+</div>
+<!-- /entry -->
+
+<div class="mod-entry-set-bottom"><div class="lb"><div class="rb"></div></div></div>
+</div>
+
+<!-- goo_ad -->
+<div class="mod-entry-set-goo-ad"></div>
+<!-- /goo_ad -->
+
+<!-- /ENTRY SET -->
+<!-- ENTRY SET -->
+<div class="mod-entry-set">
+<div class="mod-entry-set-top"><div class="lt"><div class="rt"></div></div></div>
+
+<!-- entry -->
+<div class="entry">
+
+<!-- entry-top -->
+<div class="entry-top">
+<h3><a href="http://blog.goo.ne.jp/gekigangar/e/d8508ed6f29df7e3f89d73c3bc905ada">エミュで闘神都市２をプレイしてみよう（その１・エミュレータ導入編）</a></h3>
+<div class="entry-top-info"><a href="http://blog.goo.ne.jp/gekigangar/e/d8508ed6f29df7e3f89d73c3bc905ada"><span class="entry-top-info-time">2008-06-26 03:02:23</span></a>&nbsp;|&nbsp;<a href="http://blog.goo.ne.jp/gekigangar/c/f3041843121230317371257e0a528849"><span class="entry-top-info-category">使ってみようエミュレータ</span></a></div>
+</div>
+<!-- /entry-top -->
+
+<!-- entry-body -->
+<div class="entry-body">
+<div class="entry-body-image"><center><a href="http://blogimg.goo.ne.jp/user_image/4f/4e/db7490e7faaa7b62fc6c0db7f4d99ac7.png"><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/db7490e7faaa7b62fc6c0db7f4d99ac7.png" class="entry_body_img_large" border="0"></a></center></div><div class="entry-body-text">せっかく名作エロゲ「闘神都市２」の続編が発売されることになったわけですが，エミュレータの使い方を知らない人もたくさんいそうなので，この機会に「闘神都市２」を例としてエミュでのプレイ方法を書き残してみます。<br>
+Windowsユーザーを前提とします。<br>
+<br>
+最初に書いておきますが，「闘神都市２」PC-9801版は動作環境として，<br>
+要ハードディスク，<br>
+要MS-DOS5.0以上<br>
+となってます。<br>
+前者はエミュレータ上で用意できますが，後者はご自身で用意していただくほかありません。<br>
+私が他の人のために用意する予定も入手方法を紹介する予定もないということです。予めお断りしておきます。<br>
+<br>
+などと固いことを書きましたが，MS-DOSをお持ちでない方でもfreeDOS(98)を使ってのプレイが可能ですので，一応ご紹介しておきます。<br>
+かなりめんどくさいですが，freeDOS(98)を体験するのも一興かと。<br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/f77579561acb5d87d1c78151a79d8883">エミュで闘神都市２をプレイしてみよう（特別編・freeDOS(98)ってどうよ）</a><br>
+<br>
+１　まず，エミュレータソフトを入手します。<br>
+とりあえずおすすめのNeko Project IIを入手します。<br>
+<a href="http://www.yui.ne.jp/np2/">ねこ</a><br>
+からお使いのWindowsのタイプに合わせてWin9x，WinNTどちらかを選んでダウンロードして下さい。XPやVistaユーザーはWinNTです。<br>
+<br>
+２　次に，ゲームソフト本体となるディスクイメージを入手します。<br>
+<a href="http://retropc.net/alice/">アリスソフト アーカイブズ</a><br>
+で，年齢チェックを経て<br>
+「闘神都市II」を選択します。<br>
+画面が切り替わったところで，<br>
+PC-9801版 ディスクイメージ (12,583,947 バイト)と書かれている横のフォルダアイコン（？）をクリックします。<br>
+はい。これでディスクイメージのダウンロードにも成功しました。<br>
+<br>
+３　さて，せっかく入手したディスクイメージですが，このゲーム，ハードディスク専用なので，ハードディスクにインストールしないとプレイできません。<br>
+そんなわけで，まずはハードディスクイメージを作成しましょう。<br>
+まずは，先ほどダウンロードしたNeko Project IIを解凍して本体を起動しましょう。<br>
+はい，こんなん出ました。<br>
+<img alt="システムディスクをセットしてください画面" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/f53104da3f8221e071b23375e5f49937.png"><br>
+<br>
+<br>
+OS入ってねえよとブーたれてます。<br>
+入れ先のハードディスクイメージがなくては先に進みませんので，まずハードディスクイメージを用意しましょう。<br>
+NP2のメニューからハードディスクイメージの作成にかかります。<br>
+<img alt="新規ディスク作成" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/66e84701b828e5cd7a591b6feecfba04.png"><br>
+<br>
+<br>
+まずは，保存する場所を指定して，<br>
+<img alt="保存場所指定画面" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/92597b2615ba5ed34739069c12a00b3a.png"><br>
+<br>
+<br>
+次に作成するディスクイメージの種類を決めます。深い意味はありませんが，何となくhdiタイプを選んでみました。<br>
+<img alt="hdi選択" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/430f9e5c1ae9802491389d3d354b633d.png"><br>
+<br>
+<br>
+闘神都市２プレイ用のハードディスクイメージなので，名前もt2としておきます。<br>
+<img alt="名称入力t2" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/9deda84cf3b55abcd9ea03e067b821f8.png"><br>
+<br>
+<br>
+つぎにハードディスクイメージのサイズを聞かれますので，指定します。<br>
+MS-DOS(バージョンによって容量は違う)+闘神都市２(19MB)となると30MBは必要と思われるのでこれを選択します。<br>
+<img alt="サイズ指定" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/3f03ec381b26a5a4683632d30f2972c0.png"><br>
+<br>
+<br>
+以上で，指定した場所に指定したサイズのハードディスクイメージが作成されました。<br>
+<br>
+このままでは，買ってきたハードディスクを本体に装着していないのと同じ状態なので，エミュ上の本体に装着してみましょう。<br>
+<img alt="ハードディスク装着" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/9542544bdc2e9dd84ba2906787635253.png"><br>
+<br>
+<br>
+先ほど作成したハードディスクイメージを指定します。<br>
+<img alt="ディスクイメージ指定" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/15835f0fe80c9d281455b0e408ab4439.png"><br>
+<br>
+<br>
+その上で再起動します。<br>
+<img alt="再起動" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/7cd30db449cf2c041e17d29ea3596a28.png"><br>
+<br>
+<br>
+ありゃま！またブーたれてます。<br>
+<img alt="ハードディスク未フォーマットエラー" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/c7f30ab955e309267602c76845e20d4c.png"><br>
+<br>
+<br>
+どうやら，このハードディスクイメージをフォーマットしないといけないようです。<br>
+フォーマットコマンドはどこにあるんでしょう・・・，フォーマットというのはディスク操作の一種で，ディスク操作のシステムはdisk operation system=DOSなわけで，ぼちぼちMS-DOSの出番ですね。<br>
+ここから先はMS-DOSが主役の話ですので，とりあえず，その１は終了。<br>
+いったんNeko Project IIは終了させて下さい。<br>
+<br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/d8508ed6f29df7e3f89d73c3bc905ada">エミュで闘神都市２をプレイしてみよう（その１・エミュレータ導入編）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/5d0af42c247a020c0f3446dcffaeff32">エミュで闘神都市２をプレイしてみよう（その２・MS-DOS導入準備編）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/a439f8e8acef4f90c1551a53e0e8271c">エミュで闘神都市２をプレイしてみよう（その３・MS-DOSインストール編）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/008ce0d5f57f8e864b1bc8cb2691542f">エミュで闘神都市２をプレイしてみよう（その４・最終回）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/f77579561acb5d87d1c78151a79d8883">エミュで闘神都市２をプレイしてみよう（特別編・freeDOS(98)ってどうよ）</a><br>
+<a href="http://blog.goo.ne.jp/gekigangar/e/73a4102741701decbc655d3fa711dc12">ツァイ　メタ女ハードディスクイメージ起動プロセス検証-fdnp21改</a><br>
+闘神都市２のマニュアルは<a href="http://blog.goo.ne.jp/gekigangar/e/6bad1d26ccdc00d41a6c380a5d7c896a" target="_blank">こちら</a>。<br>
+<br>
+&lt;&lt;著作権に関して&gt;&gt;<br>
+本記事に引用している全てのソフトの名称・画像の著作権・その他権利は、制作、販売されたソフトハウス、メーカー、または作者様に帰属します。本サイトで
+の上記著作権物扱いは、著作権など各権利関係を侵害することが目的ではありません。問題などある場合は、メール(ｇｅｋｉｇａｎｇａｒあっと
+ｍａｉｌ．ｇｏｏ．ｎｅ．ｊｐ)にてその旨お知らせください。<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+  rdf:about="http://blog.goo.ne.jp/gekigangar/e/d8508ed6f29df7e3f89d73c3bc905ada"
+  trackback:ping="http://blog.goo.ne.jp/tbinterface/d8508ed6f29df7e3f89d73c3bc905ada/ee"
+  dc:title="エミュで闘神都市２をプレイしてみよう（その１・エミュレータ導入編）"
+  dc:date="2008-06-26T03:02:23+09:00"
+  dc:description="せっかく名作エロゲ「闘神都市２」の続編が発売されることになったわけですが，エミュレータの使い方を知らない人もたくさんいそうなので，この機会に「闘神都市２」を例としてエミュでのプレイ方法を書き残してみます。
+Windowsユーザーを前提とします。
+
+最初に書いておきますが，「闘神都市２」PC-9801版は動作環境として，
+要ハードディスク，
+要MS-DOS5.0以上
+となってます。
+前者はエミュレー"
+  dc:identifier="http://blog.goo.ne.jp/gekigangar/e/d8508ed6f29df7e3f89d73c3bc905ada" />
+</rdf:RDF>
+--></div>
+</div>
+<!-- /entry-body -->
+<!-- entry-bottom -->
+<div class="entry-bottom">
+<div class="entry-bottom-info">
+<a href="http://blog.goo.ne.jp/gekigangar/e/d8508ed6f29df7e3f89d73c3bc905ada#comment-list">コメント&nbsp;(0)</a>&nbsp;|&nbsp;<a href="http://blog.goo.ne.jp/gekigangar/e/d8508ed6f29df7e3f89d73c3bc905ada#trackback-list">トラックバック&nbsp;(0)</a>&nbsp;|&nbsp;<a href="http://www.goo.ne.jp/" target="_blank">goo</a>
+</div>
+</div>
+<!-- /entry-bottom -->
+
+</div>
+<!-- /entry -->
+
+<div class="mod-entry-set-bottom"><div class="lb"><div class="rb"></div></div></div>
+</div>
+
+<!-- goo_ad -->
+<div class="mod-entry-set-goo-ad"></div>
+<!-- /goo_ad -->
+
+<!-- /ENTRY SET -->
+<!-- /ENTRIES MODULE -->
+
+
+
+</div>
+<div class="content-bottom"></div>
+</div>
+<!-- /CONTENT 2 COLUMNS -->
+
+</div>
+<!-- /IN-CENTER -->
+
+</div>
+<!-- /CENTER -->
+
+<!-- SIDE A -->
+<div id="side-a">
+
+<!-- SIDEBAR -->
+<div class="sidebar-top"></div>
+<div class="sidebar">
+
+<div id="sidebar-opt-top"></div>
+<!-- FREEAREA SIDEBAR MODULE -->
+<div id="mod-freearea-sidebar" class="module">
+<div class="module-top"></div>
+<h4>ブンブンカウンター</h4>
+<div class="module-body">
+<!-- ブンブンカウンター -->
+<script language="javascript" charset="utf-8" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/48bad6e02bf56c0c1174962ed1dded9e.js" type="text/javascript"></script><div class="clearboth"></div>
+</div>
+<div class="module-bottom"></div>
+</div>
+<!-- /FREEAREA SIDEBAR MODULE -->
+<!-- FONT SIZE MODULE -->
+<script src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/cookie.js"></script>
+<script src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/font_resizer.js"></script>
+<div id="font-size-changer" class="module">
+<div class="module-top"></div>
+<h4>文字サイズ変更</h4>
+<div class="module-body">
+<div id="font-resizer">
+<ul><li class="mod-fon-siz-small"><a id="font-resizer-small" href="#">小</a></li><li class="mod-fon-siz-reset"><a id="font-resizer-reset" href="#">標準</a></li><li class="mod-fon-siz-large"><a id="font-resizer-large" href="#">大</a></li></ul>
+</div>
+<div class="clearboth"></div>
+</div>
+<div class="module-bottom"></div>
+</div>
+
+<script>
+//Event.observe(window,'load',function(){
+new FontResizer('font-resizer');
+//},false);
+</script>
+<!-- /FONT SIZE MODULE -->
+<!-- CALENDAR MODULE -->
+<div id="mod-calendar" class="module">
+<div class="module-top"></div>
+<h4>カレンダー</h4>
+<div class="module-body">
+<!-- mod-cal-table -->
+<div id="mod-cal-table">
+<table cellpadding="0" cellspacing="0">
+<caption class="mod-cal-caption">2010年9月</caption>
+<tbody><tr>
+<th class="mod-cal-week">日</th>
+<th class="mod-cal-week">月</th>
+<th class="mod-cal-week">火</th>
+<th class="mod-cal-week">水</th>
+<th class="mod-cal-week">木</th>
+<th class="mod-cal-week">金</th>
+<th class="mod-cal-week">土</th>
+</tr>
+<tr>
+<td class="mod-cal-day"> </td>
+<td class="mod-cal-day"> </td>
+<td class="mod-cal-day"> </td>
+<td class="mod-cal-day">1</td>
+<td class="mod-cal-day">2</td>
+<td class="mod-cal-day">3</td>
+<td class="mod-cal-day">4</td>
+</tr>
+<tr>
+<td class="mod-cal-day-lin-td"><a href="http://blog.goo.ne.jp/gekigangar/d/20100905"><span class="mod_cal_day_linked">5</span></a></td>
+<td class="mod-cal-day-lin-td"><a href="http://blog.goo.ne.jp/gekigangar/d/20100906"><span class="mod_cal_day_linked">6</span></a></td>
+<td class="mod-cal-day-lin-td"><a href="http://blog.goo.ne.jp/gekigangar/d/20100907"><span class="mod_cal_day_linked">7</span></a></td>
+<td class="mod-cal-day-lin-td"><a href="http://blog.goo.ne.jp/gekigangar/d/20100908"><span class="mod_cal_day_linked">8</span></a></td>
+<td class="mod-cal-day-lin-td"><a href="http://blog.goo.ne.jp/gekigangar/d/20100909"><span class="mod_cal_day_linked">9</span></a></td>
+<td class="mod-cal-day-lin-td"><a href="http://blog.goo.ne.jp/gekigangar/d/20100910"><span class="mod_cal_day_linked">10</span></a></td>
+<td class="mod-cal-day-lin-td"><a href="http://blog.goo.ne.jp/gekigangar/d/20100911"><span class="mod_cal_day_linked">11</span></a></td>
+</tr>
+<tr>
+<td class="mod-cal-day-lin-td"><a href="http://blog.goo.ne.jp/gekigangar/d/20100912"><span class="mod_cal_day_linked">12</span></a></td>
+<td class="mod-cal-day">13</td>
+<td class="mod-cal-day">14</td>
+<td class="mod-cal-day">15</td>
+<td class="mod-cal-day">16</td>
+<td class="mod-cal-day">17</td>
+<td class="mod-cal-day">18</td>
+</tr>
+<tr>
+<td class="mod-cal-day">19</td>
+<td class="mod-cal-day">20</td>
+<td class="mod-cal-day">21</td>
+<td class="mod-cal-day">22</td>
+<td class="mod-cal-day">23</td>
+<td class="mod-cal-day">24</td>
+<td class="mod-cal-day">25</td>
+</tr>
+<tr>
+<td class="mod-cal-day">26</td>
+<td class="mod-cal-day">27</td>
+<td class="mod-cal-day">28</td>
+<td class="mod-cal-day">29</td>
+<td class="mod-cal-day">30</td>
+<td class="mod-cal-day"> </td>
+<td class="mod-cal-day"> </td>
+</tr>
+</tbody></table>
+<div id="mod-cal-prev-next">
+<div id="mod-cal-prev"><a href="http://blog.goo.ne.jp/gekigangar/m/201008">前月</a></div>
+<div id="mod-cal-next"><a href="http://blog.goo.ne.jp/gekigangar/m/201010">次月</a></div>
+</div>
+<div class="clearboth"></div>
+</div>
+<!-- /mod-cal-table -->
+</div>
+<div class="module-bottom"></div>
+</div>
+<!-- /CALENDAR MODULE -->
+<!-- RECENT ENTRIES MODULE -->
+<div id="mod-recent-entries" class="module">
+<div class="module-top"></div>
+<h4>最新記事</h4>
+<div class="module-body">
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/e/80f91d65cc40a6ceceba8620e3302dae">美少女パソコンゲーム大研究'93総集編上巻(三和出版・'94/04/15)</a></li><li><a href="http://blog.goo.ne.jp/gekigangar/e/64041ecb79249a5613e2fdcbad2c9f53">美少女パソコンゲーム大研究'90〜92総集編下巻(三和出版・'93/02/15)</a></li><li><a href="http://blog.goo.ne.jp/gekigangar/e/e6390a906a3b7151cdb7c0111081bf46">美少女パソコンゲーム大研究'90〜92総集編上巻(三和出版・'93/01/15)</a></li><li><a href="http://blog.goo.ne.jp/gekigangar/e/93f1b0c0694458d30bba7024a41d50ff">美少女ゲーム攻略本目録</a></li><li><a href="http://blog.goo.ne.jp/gekigangar/e/4f2be96043742a18e75c002b6f758521">美少女パソコンゲーム大研究１２(三和出版・'94/09/05)</a></li><li><a href="http://blog.goo.ne.jp/gekigangar/e/fb8f2efc6664ce339d2368b1ad2e2dd4">美少女パソコンゲーム大研究１１(三和出版・'94/07/05)</a></li><li><a href="http://blog.goo.ne.jp/gekigangar/e/b2751c41509441eab5426473b4aadad5">美少女パソコンゲーム大研究１０(三和出版・'94/05/05)</a></li><li><a href="http://blog.goo.ne.jp/gekigangar/e/1be0fb0354ceef3d017870a649eb5565">美少女ゲーム最前線パート１２(辰巳出版・'93/12/05)</a></li><li><a href="http://blog.goo.ne.jp/gekigangar/e/f33b1f1422abf776bf28db3aa213d8d9">美少女パソコンゲーム大研究９(三和出版・'94/03/05)</a></li><li><a href="http://blog.goo.ne.jp/gekigangar/e/3c17f2e3e8b3cbbe76bae764ee66ca90">美少女パソコンゲーム大研究８(三和出版・'94/01/05)</a></li></ul>
+<div class="arcv-link"><a href="http://blog.goo.ne.jp/gekigangar/arcv">もっと見る &gt;&gt;</a></div>
+<div class="clearboth"></div>
+</div>
+<div class="module-bottom"></div>
+</div>
+<!-- /RECENT ENTRIES MODULE -->
+<!-- BACK NUMBERS MODULE -->
+<div id="mod-back-numbers-scroll" class="module">
+<div class="module-top"></div>
+<h4>バックナンバー</h4>
+<div class="module-body">
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/201009">2010年09月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/201008">2010年08月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/201007">2010年07月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/201006">2010年06月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/201005">2010年05月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/201004">2010年04月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/201001">2010年01月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200912">2009年12月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200910">2009年10月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200909">2009年09月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200908">2009年08月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200907">2009年07月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200906">2009年06月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200905">2009年05月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200903">2009年03月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200902">2009年02月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200901">2009年01月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200812">2008年12月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200811">2008年11月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200810">2008年10月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200809">2008年09月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200808">2008年08月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200807">2008年07月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200806">2008年06月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200805">2008年05月</a></li>
+</ul>
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/m/200804">2008年04月</a></li>
+</ul>
+<div class="clearboth"></div>
+</div>
+<div class="module-bottom"></div>
+</div>
+<!-- /BACK NUMBERS MODULE -->
+<!-- CATEGORIES MODULE -->
+<div id="mod-categories" class="module">
+<div class="module-top"></div>
+<h4>カテゴリー</h4>
+<div class="module-body">
+<ul>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/4f5a43cbb85bd72cb0360878c809ee52"><span class="mod-cat-name">PC98ソフト　ADV</span></a><span class="mod-cat-count">(23)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/4492fcec706d5252faf101ab4c5b25a0"><span class="mod-cat-name">PC98ソフト　RPG</span></a><span class="mod-cat-count">(14)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/153c9ba32f4126e927f849fcf9188212"><span class="mod-cat-name">PC98ソフト　SLG</span></a><span class="mod-cat-count">(13)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/77b572c9d28bbda666db78fc9172e23b"><span class="mod-cat-name">PC98ソフト　クイズ</span></a><span class="mod-cat-count">(2)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/4064b45c88086a6e8621fdfe81a4e714"><span class="mod-cat-name">PC98ソフト　麻雀・花札</span></a><span class="mod-cat-count">(2)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/257c8648677d88ae9fe2c1bee3a6741d"><span class="mod-cat-name">PC98ソフト　TBL</span></a><span class="mod-cat-count">(3)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/620b2b683c7a6c0a81a9bf53f53f35c0"><span class="mod-cat-name">PC98ソフト　パズル</span></a><span class="mod-cat-count">(1)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/71988edfb5b6daec90509901f4e316f3"><span class="mod-cat-name">PC98ソフト　STG</span></a><span class="mod-cat-count">(1)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/2e9b5485469e5cb57f1d2e7163086ba6"><span class="mod-cat-name">PC98ソフト　その他</span></a><span class="mod-cat-count">(1)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/67b5fb2d68cd2e62c35c698fdf71b90b"><span class="mod-cat-name">PC88ソフト　グラフィック集</span></a><span class="mod-cat-count">(2)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/43edfc55569a75b3e74522f5f4098c1a"><span class="mod-cat-name">PC88ソフト　ADV</span></a><span class="mod-cat-count">(2)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/ddd17785bad0df91c7052740603af2f4"><span class="mod-cat-name">PC88ソフト　RPG</span></a><span class="mod-cat-count">(0)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/5ecde315aa7b3271198f18ac150923b8"><span class="mod-cat-name">PC88ソフト　アクション</span></a><span class="mod-cat-count">(1)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/edb856e188afe976dee9aab919193463"><span class="mod-cat-name">PC88ソフト　クイズ</span></a><span class="mod-cat-count">(2)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/0a8b90ed7cef5ca8f029cc3216679aed"><span class="mod-cat-name">PC88ソフト　その他</span></a><span class="mod-cat-count">(1)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/3b50ef077af1340ad6cd99c70804a74d"><span class="mod-cat-name">X68000ソフト　アクション</span></a><span class="mod-cat-count">(2)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/f3041843121230317371257e0a528849"><span class="mod-cat-name">使ってみようエミュレータ</span></a><span class="mod-cat-count">(11)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/c68f6bde026792b5f4ffd03bf4194981"><span class="mod-cat-name">レトロパソコンのお作法</span></a><span class="mod-cat-count">(5)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/9b65a444814eb062f86dae68663b72d9"><span class="mod-cat-name">美少女ゲーム　攻略本</span></a><span class="mod-cat-count">(35)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/c23efa577a9adbdaefa2e33705395d44"><span class="mod-cat-name">古本屋情報</span></a><span class="mod-cat-count">(1)</span></li>
+<li><a href="http://blog.goo.ne.jp/gekigangar/c/64a0c1013ba2b544a02f810a61b6d746"><span class="mod-cat-name">Weblog</span></a><span class="mod-cat-count">(32)</span></li>
+</ul>
+<div class="clearboth"></div>
+</div>
+<div class="module-bottom"></div>
+</div>
+<!-- /CATEGORIES MODULE -->
+<!-- BOOKMARKS MODULE -->
+<div id="mod-bookmarks" class="module">
+<div class="module-top"></div>
+<h4>ブックマーク</h4>
+<div class="module-body">
+<dl>
+<dt><span class="mod-boo-name"><a href="http://www013.upp.so-net.ne.jp/ymurakami/" target="_blank" rel="nofollow">Chaserのジャンクヤード</a></span></dt>
+<dd><span class="mod-boo-description">レトロゲーの攻略のために大変参考にさせて戴いているサイト，レトロ美少女ゲームの攻略情報においてこのサイトの右に出るものはない。</span></dd>
+<dt><span class="mod-boo-name"><a href="http://fulmoe.s2.x-beat.com/index.html" target="_blank" rel="nofollow">古萌え画像掲示板</a></span></dt>
+<dd><span class="mod-boo-description">懐かしいPC98時代のゲーム等の画像をアップするサイト。うちのブログでは載せられない画像も満載。MLDのダウンロードと画像付きで解説があるのはココだけ！</span></dd>
+<dt><span class="mod-boo-name"><a href="http://www.george24.com/%7Etoppe/" target="_blank" rel="nofollow">88狂時代(リンク切れ？)</a></span></dt>
+<dd><span class="mod-boo-description">PC88シリーズの思い出やゲームの裏技を多数掲載されている、管理人「へりこいど」さんのサイト。おやじっ子達の憩いの場。攻略情報も増殖中で期待大。</span></dd>
+<dt><span class="mod-boo-name"><a href="http://refugee2005.sakura.ne.jp/" target="_blank" rel="nofollow">PC88ゲームライブラリ</a></span></dt>
+<dd><span class="mod-boo-description">国内で発売されたPC-8801ゲームをパッケージ画像、画面写真などで網羅する、非常に貴重なサイト。</span></dd>
+<dt><span class="mod-boo-name"><a href="http://gontajin.s151.xrea.com/" target="_blank" rel="nofollow">PC-98x1Gamelist</a></span></dt>
+<dd><span class="mod-boo-description">PC-9800シリーズ用市販ゲームのリストを作成するページです</span></dd>
+<dt><span class="mod-boo-name"><a href="http://kawashi.ld.infoseek.co.jp/index.html" target="_blank" rel="nofollow">こあぱぱの懐ゲームのお部屋</a></span></dt>
+<dd><span class="mod-boo-description">懐かしのパソコンゲームの攻略法を多数掲載されているページ。長らく更新されていない様子だが、レアレトロゲームの攻略法が結構載っていてびっくり。</span></dd>
+<dt><span class="mod-boo-name"><a href="http://homepage2.nifty.com/xgamestation/index.htm" target="_blank" rel="nofollow">X-GAME STATION</a></span></dt>
+<dd><span class="mod-boo-description">PCゲームのレビューと攻略を扱うKENさんのページ。Wizard V3 Reportによく画像ローダーを提供してらしたＥＰ−ＲＯＭさんのゲームについての昔話が興味深い</span></dd>
+<dt><span class="mod-boo-name"><a href="http://mikioden.blog89.fc2.com/" target="_blank" rel="nofollow">恥に働けば角が立つ。</a></span></dt>
+<dd><span class="mod-boo-description">PC-9801が好きな、W･コーギー（牝1匹）と白猫（牡1匹）を飼っている主婦の方のブログ。復活レッスルエンジェルスをやっているはずが旧作をプレイされていたり・・・。</span></dd>
+<dt><span class="mod-boo-name"><a href="http://www.alicesoft.com/" target="_blank" rel="nofollow">アリスソフト</a></span></dt>
+<dd><span class="mod-boo-description">名作「闘神都市２」のメーカーにして，「配布フリー宣言」，14年ぶりの「闘神都市３」の発売決定など，ユーザーの度肝を抜き続けるソフト会社。</span></dd>
+<dt><span class="mod-boo-name"><a href="http://www.suruga-ya.jp/pcgame.html" target="_blank" rel="nofollow">中古パソコン（PC)ゲーム販売・通販ショップの駿河屋</a></span></dt>
+<dd><span class="mod-boo-description">今となっては中古PC98ソフトを取り扱ってる業者はここくらい。レアものは高いのでヤフオクで探す？</span></dd>
+<dt><span class="mod-boo-name"><a href="http://page.cafe.ocn.ne.jp/profile/manimania" target="_blank" rel="nofollow">VIVA!OTAKU</a></span></dt>
+<dd><span class="mod-boo-description">本来，母艦にする予定だったホームページ。ゲームの感想をアップするのに適しないのであんまり使わないかも。</span></dd>
+</dl>
+<div class="clearboth"></div>
+</div>
+<div class="module-bottom"></div>
+</div>
+<!-- /BOOKMARKS MODULE -->
+<!-- RECENT COMMENTS MODULE -->
+<div id="mod-recent-comments" class="module">
+<div class="module-top"></div>
+<h4>最新コメント</h4>
+<div class="module-body">
+<ul>
+<li><span class="mod-rec-com-name">MANIMANIA/</span><a href="http://blog.goo.ne.jp/gekigangar/e/d3143165cf99dded6c3d4bbc9ba57319"><span class="mod-rec-com-entry">シャングリラ(エルフ・\'91/8）</span></a></li>
+<li><span class="mod-rec-com-name">MANIMANIA/</span><a href="http://blog.goo.ne.jp/gekigangar/e/647ed4e3b2b6dc7109785fc95744ad02"><span class="mod-rec-com-entry">NIKE ナイキ(\'91/07/12・カクテル・ソフト)</span></a></li>
+<li><span class="mod-rec-com-name">MANIMANIA/</span><a href="http://blog.goo.ne.jp/gekigangar/e/c332442f5bec2646693e87414516d62b"><span class="mod-rec-com-entry">98エミュレータから実機のCD-ROMドライブにアクセスしよう</span></a></li>
+<li><span class="mod-rec-com-name">MANIMANIA/</span><a href="http://blog.goo.ne.jp/gekigangar/e/a1fa194b2e8c70df313b638df906aaa7"><span class="mod-rec-com-entry">第１次大阪府下店舗探索完了</span></a></li>
+<li><span class="mod-rec-com-name">綾城　怜/</span><a href="http://blog.goo.ne.jp/gekigangar/e/d3143165cf99dded6c3d4bbc9ba57319"><span class="mod-rec-com-entry">シャングリラ(エルフ・\'91/8）</span></a></li>
+<li><span class="mod-rec-com-name">JOJOだやん/</span><a href="http://blog.goo.ne.jp/gekigangar/e/647ed4e3b2b6dc7109785fc95744ad02"><span class="mod-rec-com-entry">NIKE ナイキ(\'91/07/12・カクテル・ソフト)</span></a></li>
+<li><span class="mod-rec-com-name">だやん/</span><a href="http://blog.goo.ne.jp/gekigangar/e/c332442f5bec2646693e87414516d62b"><span class="mod-rec-com-entry">98エミュレータから実機のCD-ROMドライブにアクセスしよう</span></a></li>
+<li><span class="mod-rec-com-name">だやん/</span><a href="http://blog.goo.ne.jp/gekigangar/e/a1fa194b2e8c70df313b638df906aaa7"><span class="mod-rec-com-entry">第１次大阪府下店舗探索完了</span></a></li>
+<li><span class="mod-rec-com-name">fujimaru/</span><a href="http://blog.goo.ne.jp/gekigangar/e/a1fa194b2e8c70df313b638df906aaa7"><span class="mod-rec-com-entry">第１次大阪府下店舗探索完了</span></a></li>
+<li><span class="mod-rec-com-name">MANIMANIA/</span><a href="http://blog.goo.ne.jp/gekigangar/e/c332442f5bec2646693e87414516d62b"><span class="mod-rec-com-entry">98エミュレータから実機のCD-ROMドライブにアクセスしよう</span></a></li>
+</ul>
+<div class="clearboth"></div>
+</div>
+<div class="module-bottom"></div>
+</div>
+<!-- /RECENT COMMENTS MODULE -->
+<!-- RECENT TRACKBACKS MODULE -->
+<div id="mod-recent-trackbacks" class="module">
+<div class="module-top"></div>
+<h4>最新トラックバック</h4>
+<div class="module-body">
+<ul>
+<li>
+<a href="http://kisaragikumi.blog84.fc2.com/blog-entry-86.html"><span class="mod-rec-tra-entry">卒業旅行　ジャニス</span></a>
+<span class="mod-rec-tra-blog">(HCG大好き！)</span>
+</li>
+<li>
+<a href="http://kisaragikumi.blog84.fc2.com/blog-entry-207.html"><span class="mod-rec-tra-entry">DE・JA デ・ジャ（pc98）</span></a>
+<span class="mod-rec-tra-blog">(HCG大好き！)</span>
+</li>
+<li>
+<a href="http://roboko.blog41.fc2.com/blog-entry-625.html"><span class="mod-rec-tra-entry">ノリス</span></a>
+<span class="mod-rec-tra-blog">(りせっとさん)</span>
+</li>
+</ul>
+<div class="clearboth"></div>
+</div>
+<div class="module-bottom"></div>
+</div>
+<!-- /RECENT TRACKBACKS MODULE -->
+<!-- MOBILE MODULE -->
+<div id="mod-mobile" class="module">
+<div class="module-top"></div>
+<h4>携帯</h4>
+<div class="module-body">
+<ul>
+<li class="mod-mob-qr"><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/qrcode.png" alt="QRコード" height="82" width="82"></li><li class="mod-mob-mail"><a href="mailto:-@--?body=http://blog.goo.ne.jp/gekigangar"><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/i_42s_002.gif" alt="メール" border="0" height="16" width="16"></a>&nbsp;<a href="mailto:-@--?body=http://blog.goo.ne.jp/gekigangar">URLをメールで送信</a></li>
+</ul>
+</div>
+<div class="module-bottom"></div>
+</div>
+<!-- /MOBILE MODULE -->
+<!-- POWERED BY MODULE -->
+<div id="mod-powered-by">
+<ul><li><a href="http://blog.goo.ne.jp/gekigangar/index.rdf"><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/mod_rss1.gif" alt="RSS1.0" border="0" height="15" width="55"></a>&nbsp;<a href="http://blog.goo.ne.jp/gekigangar/rss2.xml"><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/mod_rss2.gif" alt="RSS2.0" border="0" height="15" width="55"></a></li><li><a href="http://reader.goo.ne.jp/web/addfeed/http://blog.goo.ne.jp/gekigangar/index.rdf"><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/mod_rss_reader.gif" alt="goo RSSリーダーに追加" border="0"></a></li><li><a href="http://blog.goo.ne.jp/"><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/icon_poweredbygooblog.gif" border="0"></a></li></ul>
+</div>
+<script>
+if(typeof(click_count_id)==="undefined"){click_count_id = new Array();}
+click_count_id.push('mod-powered-by');
+
+</script><!-- /POWERED BY MODULE -->
+<!-- goo RECOMMENDS MODULE -->
+<div id="mod-goo-recommends" class="module">
+<div class="module-top"></div>
+<h4><span id="mod-goo-rec-goo">goo&nbsp;</span>おすすめ</h4>
+<div class="module-body">
+
+<!-- goo SERVICES -->
+<table border="0" cellpadding="0" width="100%">
+
+<tbody><tr><td valign="top" width="10%"><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/m_0072.gif" border="0"></td><td><a href="http://www.goo.ne.jp/miffycamp/">ミッフィーがgooに登場</a></td></tr>
+
+<tr><td valign="top" width="10%"><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/m_0146.gif" border="0"></td><td><a href="http://blog.goo.ne.jp/photo/">写真共有も楽しめるブログ</a></td></tr>
+
+</tbody></table>
+<!-- goo SERVICES -->
+
+<hr noshade="noshade" size="1">
+
+<!-- goo SERVICES -->
+<table border="0" cellpadding="0" width="100%">
+
+<tbody><tr><td colspan="2" valign="top"><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/recent_entry_goo.gif" height="16" width="16">&nbsp;<a href="http://www.goo.ne.jp/click.php?ID=bg04&amp;DEST=http://www.goo.ne.jp/">トップ</a>&nbsp;/&nbsp;<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/mod_pen_002.gif" height="16" width="16">&nbsp;<a href="http://blog.goo.ne.jp/">ブログ</a></td></tr>
+
+<tr><td valign="top" width="10%"><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/i_42s.gif" height="16" width="16"></td><td><a href="http://mail.goo.ne.jp/">メール</a></td></tr>
+
+<tr><td valign="top" width="10%"><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/mod_home.gif" height="16" width="16"></td><td><a href="http://home.goo.ne.jp/">ホーム(SNS)</a></td></tr>
+
+<tr><td valign="top" width="10%"><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/i_50s.gif" height="16" width="16"></td><td><a href="http://oshiete.goo.ne.jp/?from=blog">教えて！goo</a></td></tr>
+
+<tr><td valign="top" width="10%"><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/i_111s.gif" height="16" width="16"></td><td><a href="http://ranking.goo.ne.jp/">ランキング</a></td></tr>
+
+<tr><td valign="top" width="10%"><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/i_56s.gif" height="16" width="16"></td><td><a href="http://local.goo.ne.jp/season/mikaku/">秋の味覚狩り特集2010</a></td></tr>
+
+
+</tbody></table>
+<!-- /goo SERVICES -->
+
+<hr noshade="noshade" size="1">
+
+<!-- goo BLOG -->
+<table border="0" cellpadding="0" width="100%">
+
+<tbody><tr><td valign="top" width="10%"><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/m_0170.gif" height="16" width="16"></td><td><a href="http://blog.goo.ne.jp/portal/official_blog_list/">公式ブログ</a></td>  </tr>
+
+<tr><td valign="top" width="10%"><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/m_0191.gif" height="16" width="16"></td><td><a href="http://blog.goo.ne.jp/portal/gold_blog_list/">ゴールドブロガー</a></td></tr>
+
+</tbody></table>
+<hr noshade="noshade" size="1">
+<table border="0" cellpadding="0" width="100%">
+
+<tbody><tr><td valign="top" width="10%"><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/m_0235.gif" height="16" width="16"></td><td><a href="http://blog.goo.ne.jp/portal/recent_entry/">最新記事一覧</a></td></tr>
+
+<tr><td valign="top" width="10%"><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/m_0070.gif" height="16" width="16"></td><td><a href="http://blog.goo.ne.jp/api/random_blog">ランダムブログ</a></td></tr>
+
+</tbody></table>
+<!-- /goo BLOG -->
+
+<div style="width: 100%; text-align: center; margin-top: 10px;"><a href="http://blog.goo.ne.jp/info/blog_hajimeru.html?fm=modrec2"><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/mod_newmake.gif" border="0"></a></div>
+
+</div>
+<div class="module-bottom"></div>
+</div>
+<!-- /goo RECOMMENDS MODULE -->
+<script>
+if(typeof(click_count_id)==="undefined"){click_count_id = new Array();}
+click_count_id.push('mod-goo-recommends');
+
+</script><!-- ADVERTISING MODULE -->
+<div id="mod-advertising" class="module">
+<div class="module-top"></div>
+<h4><span id="mod-adv-title">お知らせ</span></h4>
+<div class="module-body">
+
+<table border="0" cellpadding="0" width="100%">
+<tbody><tr><td valign="top" width="10%"><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/m_0114.gif" border="0"></td><td><a href="http://blog.goo.ne.jp/info/photo/?fm=modadv">パスワード付きで、仲間内だけのアルバム作成♪</a></td></tr>
+<tr><td valign="top" width="10%"><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/m_0184.gif" border="0"></td><td><a href="http://blog.goo.ne.jp/staffblog/e/c941c854be81e12ad1891fdd550aadda">高画質写真をみんなに公開！</a></td></tr>
+<tr><td valign="top" width="10%"><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/m_0139.gif" border="0"></td><td><a href="http://feature.goo.ne.jp/nicotto/blog/index.html">のんびりと居心地のよい仮想生活</a></td></tr>
+<tr><td valign="top" width="10%"><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/m_0068.gif" border="0"></td><td><a href="http://blog.goo.ne.jp/themesalon/e/af94b3f5c8afee46c8b0871808ac2380">夕日の写真を送ってください！</a></td></tr>
+<tr><td valign="top" width="10%"><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/m_0229.gif" border="0"></td><td><a href="http://blog.goo.ne.jp/info/special/family2010/?fm=modadv">家族で行こう♪ほんわか旅行</a></td></tr>
+</tbody></table>
+</div>
+<div class="module-bottom"></div>
+</div>
+<script>
+if(typeof(click_count_id)==="undefined"){click_count_id = new Array();}
+click_count_id.push('mod-advertising');
+
+</script><!-- /ADVERTISING MODULE -->
+<!-- LOGIN MODULE -->
+<div id="mod-login" class="module">
+<div class="module-top"></div>
+<h4>ログイン</h4>
+<div class="module-body">
+<img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/mod_pen.gif" alt="ログイン" height="16" width="16"><a href="http://blog.goo.ne.jp/admin/">編集画面にログイン</a>
+<hr noshade="noshade" size="1">
+<a href="http://blog.goo.ne.jp/info/blog_hajimeru.html">ブログの新規登録</a>
+</div>
+<div class="module-bottom"></div>
+</div>
+<script>
+if(typeof(click_count_id)==="undefined"){click_count_id = new Array();}
+click_count_id.push('mod-login');
+</script>
+<!-- LOGIN MODULE -->
+<div id="sidebar-opt-bottom"></div>
+
+</div>
+<div class="sidebar-bottom"></div>
+<!-- /SIDEBAR -->
+
+</div>
+<!-- /SIDE A -->
+
+<div class="clearboth"></div>
+
+<div id="main-bottom"></div>
+</div>
+<!-- /MAIN -->
+
+<!-- FOOTER -->
+<div id="footer"></div>
+<!-- /FOOTER -->
+
+<div class="clearboth"></div>
+
+</div>
+<!-- /CONTAINER -->
+
+<!-- GLOBAL FOOTER -->
+<div id="global-footer"></div>
+<!-- /GLOBAL FOOTER -->
+<script src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/prototype.js" type="text/javascript"></script>
+<script src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/window.js" type="text/javascript"></script>
+<script src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/blog.js" type="text/javascript"></script>
+<script src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/click_count.js" type="text/javascript"></script>
+<script type="text/javascript" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/413d34abe2b8756823130599cf9a27e1.js"></script>
+<script type="text/javascript">VLTrace_custom_getparam='c=147&p=usrblog&u1=blg_free';</script><script type="text/javascript" src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/VLTraceDMD.js"></script><noscript><img src="%E3%83%84%E3%82%A1%E3%82%A4%E3%83%A1%E3%82%BF%E5%A5%B3%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E8%B5%B7%E5%8B%95%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%A4%9C%E8%A8%BC_files/Trace.gif" border="0" height="0" width="0"></noscript></body></html>

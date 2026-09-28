@@ -1,0 +1,69 @@
+(ROM) NEC PC98xx - DIP 63Games (TOSEC 0.22) (rr5%).rar
+46,776,695
+0b2002dbd2102de72282704c1496088cÅE1263065a0c082316736c59c9e2f1af159aa23292
+
+:	NEC PC98xx - DIPhave.txt
+:	NEC PC98xx - DIP
+:	:	Ami to Yobanaide! (1995)(C's Ware)(Disk 1 of 6)(Disk A)[Req Install].dip
+:	:	Ami to Yobanaide! (1995)(C's Ware)(Disk 2 of 6)(Disk B)[Req Install].dip
+:	:	Ami to Yobanaide! (1995)(C's Ware)(Disk 3 of 6)(Disk C)[Req Install].dip
+:	:	Ami to Yobanaide! (1995)(C's Ware)(Disk 4 of 6)(Disk D)[Req Install].dip
+:	:	Ami to Yobanaide! (1995)(C's Ware)(Disk 5 of 6)(Disk E)[Req Install].dip
+:	:	Ami to Yobanaide! (1995)(C's Ware)(Disk 6 of 6)(Disk F)[Req Install].dip
+:	:	Eturaku no Okita - Aoi Taiken (19xx)(Moonchild)(Disk 1 of 3)(Disk A).dip
+:	:	Eturaku no Okita - Aoi Taiken (19xx)(Moonchild)(Disk 2 of 3)(Disk B).dip
+:	:	Eturaku no Okita - Aoi Taiken (19xx)(Moonchild)(Disk 3 of 3)(Disk C).dip
+:	:	Gloria (1996)(C's Ware)(Disk 1 of 6)(Disk A)[Req Install].dip
+:	:	Gloria (1996)(C's Ware)(Disk 2 of 6)(Disk B)[Req Install].dip
+:	:	Gloria (1996)(C's Ware)(Disk 3 of 6)(Disk C)[Req Install].dip
+:	:	Gloria (1996)(C's Ware)(Disk 4 of 6)(Disk D)[Req Install].dip
+:	:	Gloria (1996)(C's Ware)(Disk 5 of 6)(Disk E)[Req Install].dip
+:	:	Gloria (1996)(C's Ware)(Disk 6 of 6)(Disk F)[Req Install].dip
+:	:	Ippatsu Jang! (1995)(May-Be Soft)(Disk 1 of 4)(Disk A).dip
+:	:	Ippatsu Jang! (1995)(May-Be Soft)(Disk 2 of 4)(Disk B).dip
+:	:	Ippatsu Jang! (1995)(May-Be Soft)(Disk 3 of 4)(Disk C).dip
+:	:	Ippatsu Jang! (1995)(May-Be Soft)(Disk 4 of 4)(Disk D).dip
+:	:	Itsuka dokokade (1995)(Cocktail Soft)(Disk 1 of 5)(Disk A).dip
+:	:	Itsuka dokokade (1995)(Cocktail Soft)(Disk 2 of 5)(Disk B).dip
+:	:	Itsuka dokokade (1995)(Cocktail Soft)(Disk 3 of 5)(Disk C).dip
+:	:	Itsuka dokokade (1995)(Cocktail Soft)(Disk 4 of 5)(Disk D).dip
+:	:	Itsuka dokokade (1995)(Cocktail Soft)(Disk 5 of 5)(Disk E).dip
+:	:	Japanese Cult Quiz Zipang (1993)(Wild-Life)(Disk 1 of 4)(Disk A).dip
+:	:	Japanese Cult Quiz Zipang (1993)(Wild-Life)(Disk 2 of 4)(Disk B).dip
+:	:	Japanese Cult Quiz Zipang (1993)(Wild-Life)(Disk 3 of 4)(Disk C).dip
+:	:	Japanese Cult Quiz Zipang (1993)(Wild-Life)(Disk 4 of 4)(Disk D).dip
+:	:	Kaiketsu Nikki (1994)(Ange)(Disk 1 of 3)(Disk A).dip
+:	:	Kaiketsu Nikki (1994)(Ange)(Disk 2 of 3)(Disk B).dip
+:	:	Kaiketsu Nikki (1994)(Ange)(Disk 3 of 3)(Disk C).dip
+:	:	Koihime - Mystic Princess (19xx)(-)(Disk 1 of 5)(Disk A).dip
+:	:	Koihime - Mystic Princess (19xx)(-)(Disk 2 of 5)(Disk B).dip
+:	:	Koihime - Mystic Princess (19xx)(-)(Disk 3 of 5)(Disk C).dip
+:	:	Koihime - Mystic Princess (19xx)(-)(Disk 4 of 5)(Disk D).dip
+:	:	Koihime - Mystic Princess (19xx)(-)(Disk 5 of 5)(Disk E).dip
+:	:	Kounai Shasei 1 (1991)(Fairy Tale)(Disk 1 of 2)(Boot Disk).dip
+:	:	Kounai Shasei 1 (1991)(Fairy Tale)(Disk 2 of 2)(Disk A).dip
+:	:	Kounai Shasei 2 (1991)(Fairy Tale)(Disk 1 of 2)(Boot Disk).dip
+:	:	Kounai Shasei 2 (1991)(Fairy Tale)(Disk 2 of 2)(Disk A).dip
+:	:	Kounai Shasei 3 (1991)(Fairy Tale)(Disk 1 of 2)(Boot Disk).dip
+:	:	Kounai Shasei 3 (1991)(Fairy Tale)(Disk 2 of 2)(Disk A).dip
+:	:	Sayaka - Gibo (1994)(Fairy Tale)(Disk 1 of 4)(Disk A).dip
+:	:	Sayaka - Gibo (1994)(Fairy Tale)(Disk 2 of 4)(Disk B).dip
+:	:	Sayaka - Gibo (1994)(Fairy Tale)(Disk 3 of 4)(Disk C).dip
+:	:	Sayaka - Gibo (1994)(Fairy Tale)(Disk 4 of 4)(Disk D).dip
+:	:	Seek (1995)(PIL)(Disk 1 of 6)(Disk A).dip
+:	:	Seek (1995)(PIL)(Disk 2 of 6)(Disk B).dip
+:	:	Seek (1995)(PIL)(Disk 3 of 6)(Disk C).dip
+:	:	Seek (1995)(PIL)(Disk 4 of 6)(Disk D).dip
+:	:	Seek (1995)(PIL)(Disk 5 of 6)(Disk E).dip
+:	:	Seek (1995)(PIL)(Disk 6 of 6)(Disk F).dip
+:	:	Utatane Hiroyuki no Yuwaku (1995)(T2)(Disk 1 of 5)(Disk A).dip
+:	:	Utatane Hiroyuki no Yuwaku (1995)(T2)(Disk 2 of 5)(Disk B).dip
+:	:	Utatane Hiroyuki no Yuwaku (1995)(T2)(Disk 3 of 5)(Disk C).dip
+:	:	Utatane Hiroyuki no Yuwaku (1995)(T2)(Disk 4 of 5)(Disk D).dip
+:	:	Utatane Hiroyuki no Yuwaku (1995)(T2)(Disk 5 of 5)(Disk E).dip
+:	:	Yes! HG (1995)(Himeya Soft)(Disk 1 of 6).dip
+:	:	Yes! HG (1995)(Himeya Soft)(Disk 2 of 6).dip
+:	:	Yes! HG (1995)(Himeya Soft)(Disk 3 of 6).dip
+:	:	Yes! HG (1995)(Himeya Soft)(Disk 4 of 6).dip
+:	:	Yes! HG (1995)(Himeya Soft)(Disk 5 of 6).dip
+:	:	Yes! HG (1995)(Himeya Soft)(Disk 6 of 6).dip

@@ -1,0 +1,482 @@
+:	Sega Game Gearhave.txt
+:	Sega Game Gear
+:	:	5 in 1 Funpak (1994)(Interplay)(En).gg
+:	:	AA Harimanada (1993)(Sega)(Jp).gg
+:	:	Addams Family, The (1993)(Acclaim)(En).gg
+:	:	Adventures of Batman & Robin, The (1995)(Sega)(En).gg
+:	:	Aerial Assault (1992)(Sega)(En).gg
+:	:	Aerial Assault (1992)(Sega)(En)[b].gg
+:	:	Aladdin (1994)(Sega)(En).gg
+:	:	Aladdin (1994)(Sega)(En)[tr Br].gg
+:	:	Aladdin (1994)(Sega)(Jp).gg
+:	:	Aladdin (1994)(Sega)(Jp)[b].gg
+:	:	Alien 3 (1992)(Acclaim)(En).gg
+:	:	Alien Syndrome (1992)(Sims Co. Ltd.)(En).gg
+:	:	Andre Agassi Tennis (1993)(TecMagik)(En).gg
+:	:	Arcade Classics (1996)(The Amoeba Group)(En).gg
+:	:	Arch Rivals (1992)(Acclaim)(En).gg
+:	:	Arena (1995)(Sega)(En).gg
+:	:	Ariel - The Little Mermaid (1992)(Sega)(En).gg
+:	:	Asterix and the Great Rescue (1994)(Sega)(En).gg
+:	:	Asterix and the Great Rescue (1994)(Sega)(M5).gg
+:	:	Ax Battler - A Legend of Golden Axe v1.5 (1991)(Sega)(Jp).gg
+:	:	Ax Battler - A Legend of Golden Axe v1.5 (1991)(Sega)(Jp)[a].gg
+:	:	Ax Battler - A Legend of Golden Axe v2.4 (1991)(Sega)(En).gg
+:	:	Ax Battler - A Legend of Golden Axe v2.4 (1991)(Sega)(En)[tr Fr].gg
+:	:	Ayrton Senna's Super Monaco GP II (1992)(Sega)(Jp).gg
+:	:	Ayrton Senna's Super Monaco GP II (1992)(Sega)(Jp)[b].gg
+:	:	Baku Baku Animal (1996)(Sega)(Jp).gg
+:	:	Bart vs. the Space Mutants (1992)(Acclaim)(En).gg
+:	:	Bart vs. the World (1993)(Acclaim)(En).gg
+:	:	Bart vs. the World (1993)(Acclaim)(En)[a].gg
+:	:	Bartman Meets Radioactive Man (1993)(Acclaim)(En).gg
+:	:	Batman Forever (1995)(Acclaim)(En).gg
+:	:	Batman Returns (1992)(Sega)(En).gg
+:	:	Batman Returns (1992)(Sega)(En)[b].gg
+:	:	Batter Up (1991)(Namco)(En).gg
+:	:	Batter Up (1991)(Namco)(En)[u2].gg
+:	:	Batter Up (1991)(Namco)(En)[u].gg
+:	:	Battleship (1992)(Mindscape Inc.)(En).gg
+:	:	Battleship (1992)(Mindscape Inc.)(En)[b].gg
+:	:	Battleship (1992)(Mindscape Inc.)(En)[o2].gg
+:	:	Battleship (1992)(Mindscape Inc.)(En)[o2][b].gg
+:	:	Battleship (1992)(Mindscape Inc.)(En)[o3].gg
+:	:	Battleship (1992)(Mindscape Inc.)(En)[o].gg
+:	:	Battletoads (1993)(Sega)(En).gg
+:	:	Beavis and Butt-head (1994)(Viacom)(En).gg
+:	:	Beavis and Butt-head (1994)(Viacom)(En)[a].gg
+:	:	Berenstain Bears' Camping Adventure, The (1994)(Sega)(En).gg
+:	:	Berlin Wall, The (1991)(Kaneco)(Jp).gg
+:	:	Bishojo Senshi Sailor Moon S (1995)(Bandai)(Jp).gg
+:	:	Bishojo Senshi Sailor Moon S (1995)(Bandai)(Jp)[b].gg
+:	:	Bishojo Senshi Sailor Moon S (1995)(Bandai)(Jp)[o][b].gg
+:	:	Bonkers Wax Up! (1994)(Sega)(En).gg
+:	:	Bram Stoker's Dracula (1993)(Sony)(En).gg
+:	:	Bubble Bobble (1994)(Taito)(En).gg
+:	:	Bugs Bunny in Double Trouble (1996)(Sega)(En).gg
+:	:	Bust-a-Move (1995)(Taito)(En).gg
+:	:	Buster Ball (1992)(Riverhill Soft)(Jp).gg
+:	:	Buster Fight (1994)(Sega)(Jp).gg
+:	:	Caesar's Palace - Video Poker (1993)(Virgin)(En).gg
+:	:	Captain America and the Avengers (1993)(Mindscape Inc.)(En).gg
+:	:	Chakan (1992)(Sega)(En).gg
+:	:	Chaos89 (199x)(Charles Doty)(PD).gg
+:	:	Chessmaster, The (1991)(Sega)(En).gg
+:	:	Chicago Syndicate (1995)(Sega)(En).gg
+:	:	Choplifter III (1993)(Beam Software)(En).gg
+:	:	Chuck Rock (1992)(Virgin)(En).gg
+:	:	Chuck Rock II - Son of Chuck (1993)(Core Design)(En).gg
+:	:	Cliffhanger (1993)(Sony)(En).gg
+:	:	Clutch Hitter (1991)(Sega)(En).gg
+:	:	Coca-Cola Kid (1994)(Sega)(Jp).gg
+:	:	Columns (1990)(Sega)(Jp).gg
+:	:	Columns (1991)(Sega)(En).gg
+:	:	Cool Spot (1993)(Virgin)(En).gg
+:	:	Crayon Shin-chan (1995)(Bandai)(Jp).gg
+:	:	Crystal Warriors (1992)(Sega)(En).gg
+:	:	Cutthroat Island (1995)(Acclaim)(En).gg
+:	:	Daffy Duck in Hollywood (1994)(Sega)(M5).gg
+:	:	Daffy Duck in Hollywood (1994)(Sega)(M5)[b].gg
+:	:	Daisenryaku G (1991)(System Soft)(Jp).gg
+:	:	Deep Duck Trouble starring Donald Duck (1993)(Sega)(Jp).gg
+:	:	Defenders of Oasis (1992)(Sega)(En).gg
+:	:	Desert Speedtrap staring Road Runner and Wile E. Coyote (1993)(Sega)(En).gg
+:	:	Desert Strike (1992)(Domark)(En).gg
+:	:	Desert Strike (1992)(Domark)(En)[u].gg
+:	:	Devilish (1991)(Genki)(Jp).gg
+:	:	Devilish (1991)(Sage's Creation Inc.)(En).gg
+:	:	Double Dragon (1993)(Virgin)(En)(proto).gg
+:	:	Double Dragon (1993)(Virgin)(En).gg
+:	:	Dr. Robotnik's Mean Bean Machine (1993)(Sega)(En).gg
+:	:	Dragon (1993)(Virgin)(En).gg
+:	:	Dragon Crystal (1990)(Sega)(Jp).gg
+:	:	Dragon Crystal (1991)(Sega)(En).gg
+:	:	Drop Zone (1994)(Codemasters)(En).gg
+:	:	Dunk Kids (1994)(Sega)(Jp).gg
+:	:	Dynamite Headdy (1994)(Sega)(En).gg
+:	:	Dynamite Headdy (1994)(Sega)(En)[a].gg
+:	:	Earthworm Jim (1995)(Playmates)(En).gg
+:	:	Earthworm Jim (1995)(Playmates)(En)[t].gg
+:	:	Ecco (1993)(Sega)(En).gg
+:	:	Ecco (1993)(Sega)(En)[a].gg
+:	:	Ecco (1993)(Sega)(En)[b].gg
+:	:	Ecco II - The Tides of Time (1994)(Sega)(En).gg
+:	:	Ecco II - The Tides of Time (1994)(Sega)(Jp).gg
+:	:	Ernie Els Golf (1994)(Codemasters)(En).gg
+:	:	Eternal Legend (1991)(Sega)(Jp).gg
+:	:	Eternal Legend (1991)(Sega)(Jp)[h RHW][Pokemon Legend].gg
+:	:	Evander Holyfield Boxing (1992)(Sega)(En).gg
+:	:	F-15 Strike Eagle (1993)(Microprose)(En).gg
+:	:	F1 (1993)(Domark)(En).gg
+:	:	FIFA International Soccer (1994)(Electronic Arts)(En).gg
+:	:	FIFA Soccer 96 (1995)(Electronic Arts)(En).gg
+:	:	Faceball 2000 (1993)(Riverhill Soft)(En).gg
+:	:	Factory Panic (1991)(Sega)(En).gg
+:	:	Fantasy Zone Gear (1991)(Sega)(En).gg
+:	:	Fantasy Zone Gear (1991)(Sega)(En)[a].gg
+:	:	Fatal Fury Special (1994)(Takara)(En).gg
+:	:	Fatal Fury Special (1994)(Takara)(En)[a].gg
+:	:	Foreman for Real (1995)(Acclaim)(En).gg
+:	:	Frank Thomas BIG HURT Baseball (1995)(Acclaim)(En).gg
+:	:	Fred Couples Golf (1994)(Sega)(En).gg
+:	:	Frogger (1991)(Sega)(En)(proto).gg
+:	:	Frogs (1998)(Charles Doty)(PD).gg
+:	:	From TV Animation Slam Dunk - Shouri he no Starting 5 (1994)(Bandai)(Jp).gg
+:	:	G-Loc Air Battle (1991)(Sega)(En).gg
+:	:	G-Loc Air Battle (1991)(Sega)(Jp).gg
+:	:	G-Loc Air Battle (1991)(Sega)(Jp)[a].gg
+:	:	GG Aleste (1991)(Complie)(Jp).gg
+:	:	GG Demo (2002)(Charles MacDonald)(En).gg
+:	:	GG Doraemon Nora no Suke no Yabou (1993)(Sega)(Jp).gg
+:	:	GG League '94 (1994)(Sega)(Jp).gg
+:	:	GG Portrait - Akira (1996)(Sega)(Jp).gg
+:	:	GG Portrait - Pai Chen (1996)(Sega)(Jp).gg
+:	:	GG Shinobi II, The - The Silent Fury (1992)(Sega)(En).gg
+:	:	GG Shinobi II, The - The Silent Fury (1992)(Sega)(En)[a].gg
+:	:	GG Shinobi II, The - The Silent Fury (1992)(Sega)(En)[u2].gg
+:	:	GG Shinobi II, The - The Silent Fury (1992)(Sega)(En)[u].gg
+:	:	GG Shinobi, The (1991)(Sega)(En).gg
+:	:	GG Shinobi, The (1991)(Sega)(En)[b].gg
+:	:	GG Shinobi, The (1991)(Sega)(Jp).gg
+:	:	GP Rider (1994)(Sega)(En).gg
+:	:	Galaga '91 (1991)(Namco)(Jp).gg
+:	:	Galaga '91 (1991)(Namco)(Jp)[u].gg
+:	:	Gamble Panic (1995)(Sega)(Jp).gg
+:	:	Gambler Jikochuushin Ha (1992)(Sega)(Jp).gg
+:	:	Game Gear Text Demo (1999)(Charles Doty)(PD).gg
+:	:	Game Gear Text Demo (1999)(Charles Doty)(PD)[b].gg
+:	:	Ganbare Gorby (1991)(Sega)(Jp).gg
+:	:	Gear Stadium (1991)(Namco)(Jp).gg
+:	:	Gear Stadium Heiseiban (1995)(Namco)(Jp).gg
+:	:	Gear Works (1993)(Sony)(En).gg
+:	:	George Foreman's KO Boxing (1992)(Acclaim)(En).gg
+:	:	Godzilla (1995)(Sega)(Jp).gg
+:	:	Greendog (1993)(Sega)(En).gg
+:	:	Greendog (1993)(Sega)(En)[a].gg
+:	:	Greendog (1993)(Sega)(En)[b].gg
+:	:	Griffin (1991)(Telenet Japan)(Jp).gg
+:	:	Gunstar Heroes (1995)(Sega)(Jp).gg
+:	:	Halley Wars (1991)(Taito)(Jp).gg
+:	:	Head Buster (1991)(NCS)(Jp).gg
+:	:	Head Buster (1991)(NCS)(Jp)[b].gg
+:	:	Home Alone (1992)(Sega)(En).gg
+:	:	Honoo no Doukyuuji - Dodge Danpei (1992)(Sega)(Jp).gg
+:	:	Hook (1992)(Sony)(En).gg
+:	:	House of Tarot (1991)(Sega)(Jp).gg
+:	:	Hurricanes (1994)(U.S. Gold)(En).gg
+:	:	In the Wake of Vampire (1992)(Sims)(Jp).gg
+:	:	Incredible Crash Dummies, The (1993)(Accalim)(En).gg
+:	:	Incredible Hulk, The (1994)(U.S. Gold)(En).gg
+:	:	Indiana Jones and the Last Crusade (1991)(Lucasarts)(En).gg
+:	:	Iron Man X-O Manowar in Heavy Metal (1996)(Acclaim)(En).gg
+:	:	Itchy & Scratchy Game, The (1994)(Acclaim)(En).gg
+:	:	J-League Soccer - Dream Eleven (1995)(Sega)(Jp).gg
+:	:	James Bond 007 - The Duel (1993)(Domark)(En).gg
+:	:	Jeopardy! (1993)(Gametek)(En).gg
+:	:	Jeopardy! - Sports Edition (1994)(Gametek)(En).gg
+:	:	Joe Montana Football (1991)(Sega)(En).gg
+:	:	Judge Dredd (1995)(Acclaim)(En).gg
+:	:	Junction (1991)(Micronet)(En).gg
+:	:	Jungle Book, The (1994)(Virgin)(En).gg
+:	:	Jurassic Park (1993)(Sega)(En).gg
+:	:	Jurassic Park (1993)(Sega)(Jp).gg
+:	:	Kaitou Saint Tail (1996)(Sega)(Jp).gg
+:	:	Kawasaki Superbike Challenge (1994)(Domark)(En).gg
+:	:	Kinetic Connection (1991)(Sega)(Jp).gg
+:	:	Kinetic Connection (1991)(Sega)(Jp)[o].gg
+:	:	Kishin Douji Zenki (1995)(Sega)(En).gg
+:	:	Klax (1991)(Tengen)(En).gg
+:	:	Krusty's Funhouse (1993)(Acclaim)(En).gg
+:	:	Kuni-chan no Game Tengoku (1991)(Sega)(Jp).gg
+:	:	Kuni-chan no Game Tengoku Part 2 (1992)(Sega)(Jp).gg
+:	:	Land of Illusion starring Mickey Mouse (1993)(Sega)(En).gg
+:	:	Land of Illusion starring Mickey Mouse (1993)(Sega)(Jp).gg
+:	:	Last Action Hero (1993)(Sony)(En).gg
+:	:	Legend of Illusion starring Mickey Mouse (1994)(Sega)(En).gg
+:	:	Legend of Illusion starring Mickey Mouse (1994)(Sega)(Jp).gg
+:	:	Lemmings (1992)(Sega)(En).gg
+:	:	Lemmings (1992)(Sega)(En)[a].gg
+:	:	Lemmings (1992)(Sega)(En)[b].gg
+:	:	Lion King, The (1994)(Virgin)(En).gg
+:	:	Lion King, The (1994)(Virgin)(En)[a].gg
+:	:	Lucky Dime Caper, The starring Donald Duck (1991)(Sega)(En).gg
+:	:	Lucky Dime Caper, The starring Donald Duck (1991)(Sega)(Jp).gg
+:	:	Lunar - Sanposuru Gakuen (1995)(Game Arts)(Jp).gg
+:	:	Lunar - Sanposuru Gakuen (1995)(Game Arts)(Jp)[tr En].gg
+:	:	Lunar - Sanposuru Gakuen (1995)(Game Arts)(Jp)[tr En][a2].gg
+:	:	Lunar - Sanposuru Gakuen (1995)(Game Arts)(Jp)[tr En][a3].gg
+:	:	Lunar - Sanposuru Gakuen (1995)(Game Arts)(Jp)[tr En][a4].gg
+:	:	Lunar - Sanposuru Gakuen (1995)(Game Arts)(Jp)[tr En][a].gg
+:	:	MLBPA Baseball (1995)(Electronic Arts)(En).gg
+:	:	Madden '96 (1995)(Electronic Arts)(En).gg
+:	:	Madden NFL '95 (1994)(Electronic Arts)(En).gg
+:	:	Madou Monogatari A - DokiDoki Bake-shon (1995)(Compile)(Jp).gg
+:	:	Madou Monogatari I (1993)(Sega)(Jp).gg
+:	:	Madou Monogatari I (1993)(Sega)(Jp)[b].gg
+:	:	Madou Monogatari II (1994)(Compile)(Jp).gg
+:	:	Madou Monogatari III (1994)(Compile)(Jp).gg
+:	:	Magical Puzzle Popils (1991)(Tengen)(Jp).gg
+:	:	Magical Taru Ruto-kun (1991)(Tsukuda Ideal)(Jp).gg
+:	:	Mahou Kishi Rayearth (1994)(Sega)(Jp).gg
+:	:	Mahou Kishi Rayearth 2 - Making of Magic Knight (1995)(Sega)(Jp).gg
+:	:	Majors Pro Baseball, The (1992)(Sega)(En).gg
+:	:	Mappy (1991)(Namco)(Jp).gg
+:	:	Mappy (1991)(Namco)(Jp)[h][Xaropinho].gg
+:	:	Marble Madness (1992)(Tengen)(En).gg
+:	:	Marble Madness (1992)(Tengen)(En)[b].gg
+:	:	Marble Madness (1992)(Tengen)(En)[o].gg
+:	:	Marko's Magic Football (1994)(Sega)(M4).gg
+:	:	MegaMan (1994)(U.S. Gold)(En).gg
+:	:	MegaMan (1994)(U.S. Gold)(En)[b].gg
+:	:	Megami Tensei Gaiden - Last Bible (1994)(Sega)(Jp).gg
+:	:	Megami Tensei Gaiden - Last Bible Special (1995)(Sega)(Jp).gg
+:	:	Mick & Mack as the Global Gladiators (1992)(Virgin)(En).gg
+:	:	Mickey's Ultimate Challenge (1994)(Hi Tech Expressions)(En).gg
+:	:	Micro Machines (1993)(Codemasters)(En).gg
+:	:	Micro Machines 2 - Turbo Tournament (1995)(Codemasters)(En).gg
+:	:	Mighty Morphin Power Rangers (1994)(Banpresto)(En).gg
+:	:	Mighty Morphin Power Rangers - The Movie (1995)(Banpresto)(En).gg
+:	:	Mod2PSG - Secret of Monkey Island, The - Theme Example v1.0 (2001)(Martin Konrad)(PD).gg
+:	:	Mod2PSG - Secret of Monkey Island, The - Theme Example v1.1 (2001)(Martin Konrad)(PD).gg
+:	:	Mod2PSG - Secret of Monkey Island, The - Theme Example v1.2 (2001)(Martin Konrad)(PD).gg
+:	:	Mod2PSG - Secret of Monkey Island, The - Theme Example v1.3 (2001)(Martin Konrad)(PD).gg
+:	:	Mod2PSG - Secret of Monkey Island, The - Theme Example v1.5 (2001)(Martin Konrad)(PD).gg
+:	:	Mod2PSG - Secret of Monkey Island, The - Theme Example v1.6 (2001)(Martin Konrad)(PD).gg
+:	:	Mod2PSG - Secret of Monkey Island, The - Theme Example v1.7 (2001)(Martin Konrad)(PD).gg
+:	:	Mod2PSG - Secret of Monkey Island, The - Theme Example v1.8 (2001)(Martin Konrad)(PD).gg
+:	:	Mod2PSG - Shadow of the Beast - Theme Example v1.3 (2001)(Martin Konrad)(PD).gg
+:	:	Mod2PSG - Shadow of the Beast - Theme Example v1.5 (2001)(Martin Konrad)(PD).gg
+:	:	Mod2PSG - Shadow of the Beast - Theme Example v1.6 (2001)(Martin Konrad)(PD).gg
+:	:	Mod2PSG - Shadow of the Beast - Theme Example v1.7 (2001)(Martin Konrad)(PD).gg
+:	:	Mod2PSG - Shadow of the Beast - Theme Example v1.8 (2001)(Martin Konrad)(PD).gg
+:	:	Moldorian (1994)(Sega)(Jp).gg
+:	:	Monster World II (1992)(Sega)(Jp).gg
+:	:	Mortal Kombat 3 (1995)(Acclaim)(En).gg
+:	:	Mortal Kombat II (1994)(Acclaim)(En).gg
+:	:	Mortal Kombat v2.6 (1993)(Acclaim)(En).gg
+:	:	Mortal Kombat v2.6 (1993)(Acclaim)(En)[b].gg
+:	:	Mortal Kombat v3.3 (1993)(Acclaim)(En).gg
+:	:	Ms. Pac-Man (1993)(Namco)(En).gg
+:	:	NBA Action starring David Robinson (1994)(Sega)(En).gg
+:	:	NBA Jam (1993)(Acclaim)(Jp).gg
+:	:	NBA Jam Tournament Edition (1994)(Acclaim)(En).gg
+:	:	NFL '95 (1994)(Sega)(En).gg
+:	:	NFL Quarterback Club '96 (1995)(Acclaim)(En).gg
+:	:	NFL Quarterback Club (1994)(Acclaim)(En).gg
+:	:	NHL All-Star Hockey (1995)(Sega)(En).gg
+:	:	NHL All-Star Hockey (1995)(Sega)(En)[b].gg
+:	:	NHL Hockey (1995)(Electronic Arts)(En).gg
+:	:	Nazo Puyo (1993)(Sega)(Jp).gg
+:	:	Nazo Puyo 2 (1993)(Sega)(Jp).gg
+:	:	Nibbles v1.0 (2000)(Martin Konrad)(PD).gg
+:	:	Nibbles v2.0 (2000)(Martin Konrad)(PD).gg
+:	:	Nibbles v3.0 (2000)(Martin Konrad)(PD).gg
+:	:	Nibbles v4.0 (2000)(Martin Konrad)(PD).gg
+:	:	Ninja Gaiden (1991)(Sega)(En).gg
+:	:	Ninja Gaiden (1991)(Sega)(En)[tr Br].gg
+:	:	Ninja Gaiden (1991)(Sega)(En)[tr Fr].gg
+:	:	Ninja Gaiden (1991)(Sega)(Jp).gg
+:	:	Ninja Gaiden (1991)(Sega)(Jp)[b].gg
+:	:	Ninku (1995)(Sega)(Jp).gg
+:	:	Ninku (1995)(Sega)(Jp)[tr En][v 0.1 Some Good Shit Translations].gg
+:	:	Ottifants, The (1993)(Sega)(M5).gg
+:	:	Out Run (1991)(Sega)(En).gg
+:	:	PGA Tour '96 (1995)(THQ)(En).gg
+:	:	PGA Tour Golf (1993)(Tengen)(En).gg
+:	:	PGA Tour Golf II (1993)(Time Warner Interactive)(En).gg
+:	:	PGA Tour Golf II (1993)(Time Warner Interactive)(En)[b].gg
+:	:	Pac-Attack (1994)(Namco)(En).gg
+:	:	Pac-Man (1990)(Namco)(Jp).gg
+:	:	Pac-Man (1990)(Namco)(Jp)[u].gg
+:	:	Panzer Dragoon Mini (1996)(Sega)(Jp).gg
+:	:	Paperboy (1992)(Tengen)(En).gg
+:	:	Paperboy (1992)(Tengen)(En)[t].gg
+:	:	Paperboy II (1992)(Tengen)(En).gg
+:	:	Pengo (1990)(Sega)(Jp).gg
+:	:	Pete Sampras Tennis (1994)(Codemaster)(En).gg
+:	:	Phantasy Star Adventure (1992)(Sega)(Jp).gg
+:	:	Phantasy Star Adventure (1992)(Sega)(Jp)[b].gg
+:	:	Phantasy Star Adventure (1992)(Sega)(Jp)[tr En].gg
+:	:	Phantasy Star Adventure (1992)(Sega)(Jp)[tr En][a].gg
+:	:	Phantasy Star Gaiden (1992)(Sega)(Jp).gg
+:	:	Phantasy Star Gaiden (1992)(Sega)(Jp)[tr Br].gg
+:	:	Phantasy Star Gaiden (1992)(Sega)(Jp)[tr En][a2][original font].gg
+:	:	Phantasy Star Gaiden (1992)(Sega)(Jp)[tr En][a2][wide font].gg
+:	:	Phantasy Star Gaiden (1992)(Sega)(Jp)[tr En][a][original font].gg
+:	:	Phantasy Star Gaiden (1992)(Sega)(Jp)[tr En][a][wide font].gg
+:	:	Phantasy Star Gaiden (1992)(Sega)(Jp)[tr En][original font].gg
+:	:	Phantasy Star Gaiden (1992)(Sega)(Jp)[tr En][wide font].gg
+:	:	Phantom 2040 (1995)(Viacom)(En).gg
+:	:	Poker Faced Paul's Blackjack (1993)(Adrenaline)(En).gg
+:	:	Poker Faced Paul's Gin (1994)(Adrenaline)(En).gg
+:	:	Poker Faced Paul's Poker (1993)(Adrenaline)(En).gg
+:	:	Poker Faced Paul's Solitaire (1994)(Adrenaline)(En).gg
+:	:	Pop Breaker (1990)(Microcabin)(Jp).gg
+:	:	Popeye Beach Volley Ball (1994)(Technos)(Jp).gg
+:	:	Power Strike II (1993)(Sega)(En).gg
+:	:	Power Strike II (1993)(Sega)(En)[b].gg
+:	:	Primal Rage (1995)(Time Warner Interactive)(En).gg
+:	:	Pro Yakyuu '91, The (1991)(Sega)(Jp).gg
+:	:	Psychic World (1991)(Sega)(En).gg
+:	:	Psychic World (1991)(Sega)(En)[o].gg
+:	:	Putt & Putter (1991)(Sega)(En).gg
+:	:	Puyo Puyo 2 (1994)(Sega)(Jp).gg
+:	:	Puzlow Kids (1993)(Sega)(Jp).gg
+:	:	Puzzle & Action - Tanto-R (1994)(Sega)(Jp).gg
+:	:	Quest for the Shaven Yak starring Ren Hoek & Stimpy (1993)(Sega)(En).gg
+:	:	Quiz of Gears, The (1995)(Sega)(Jp).gg
+:	:	RBI Baseball '94 (1994)(Tengen)(En)[b].gg
+:	:	Revenge of Drancon (1991)(Sega)(En).gg
+:	:	Riddick Bowe Boxing (1993)(Extreme Entertainment)(Jp).gg
+:	:	Rise of the Robots (1994)(Time Warner Interactive)(En).gg
+:	:	Ristar (1995)(Sega)(En).gg
+:	:	Road Rash (1993)(U.S. Gold)(En).gg
+:	:	RoboCop 3 (1993)(Acclaim)(En).gg
+:	:	Robocop versus the Terminator (1993)(Virgin)(En).gg
+:	:	Ronald in the Magical World (1994)(Sega)(En).gg
+:	:	Royal Stone (1995)(Sega)(Jp).gg
+:	:	Ryu Kyu (1991)(ASCII Corporation)(Jp).gg
+:	:	S.S. Lucifer - Man Overboard (1994)(Codemasters)(En).gg
+:	:	S.S. Lucifer - Man Overboard (1994)(Codemasters)(En)[u].gg
+:	:	SD Gundam - Winner's History (1994)(Bandai)(Jp).gg
+:	:	SD Gundam - Winner's History (1994)(Bandai)(Jp)[tr En].gg
+:	:	Samurai Shodown (1994)(Takara)(En).gg
+:	:	Samurai Spirits (1994)(Takara)(Jp).gg
+:	:	Samurai Spirits (1994)(Takara)(Jp)[b].gg
+:	:	Scratch Golf (1994)(Sims)(En).gg
+:	:	Sega Game Gear Bios (2000)(Sega)(En)[Majesco version].gg
+:	:	Sega Game Pack - 4 in 1 (1992)(Sega)(En).gg
+:	:	Sega Game Pack - 4 in 1 (1992)(Sega)(En)[b].gg
+:	:	Shadam Crusader (1992)(Sega)(Jp).gg
+:	:	Shanghai II (1990)(Sunsoft)(Jp).gg
+:	:	Shaq Fu (1995)(Delphine)(En).gg
+:	:	Shining Force Gaiden (1992)(Sega)(Jp).gg
+:	:	Shining Force II - The Sword of Hajya (1993)(Sega)(Jp).gg
+:	:	Shining Force II - The Sword of Hajya (1994)(Sega)(En).gg
+:	:	Shining Force III - Final Conflict (1995)(Sega)(Jp).gg
+:	:	Shining Force III - Final Conflict (1995)(Sega)(Jp)[a].gg
+:	:	Shining Force III - Final Conflict (1995)(Sega)(Jp)[tr En].gg
+:	:	Shining Force III - Final Conflict (1995)(Sega)(Jp)[tr En][a].gg
+:	:	Shining Force III - Final Conflict (1995)(Sega)(Jp)[u].gg
+:	:	Shining Force III - Final Conflict (1995)(Sega)(Jp)[u][b].gg
+:	:	Sikin Jyo (1991)(Sunsoft)(Jp).gg
+:	:	Skweek (1991)(Victor)(En).gg
+:	:	Slider (1991)(Slider)(En).gg
+:	:	Smash T.V. (1992)(Acclaim)(En).gg
+:	:	Smurfs, The (1994)(Infogrames)(M4).gg
+:	:	Sokoban World (1990)(Riverhill Soft)(Jp).gg
+:	:	Solitaire Funpak (1994)(Interplay)(En).gg
+:	:	Solitaire Poker (1991)(ASCII Corporation)(En).gg
+:	:	Sonic & Tails (1993)(Sega)(Jp).gg
+:	:	Sonic & Tails 2 (1994)(Sega)(Jp).gg
+:	:	Sonic Blast (1996)(Sega)(En).gg
+:	:	Sonic Chaos (1993)(Sega)(En).gg
+:	:	Sonic Chaos (1993)(Sega)(En)[b].gg
+:	:	Sonic Drift (1994)(Sega)(Jp).gg
+:	:	Sonic Drift 2 (1995)(Sega)(Jp).gg
+:	:	Sonic Drift 2 (1995)(Sega)(Jp)[b].gg
+:	:	Sonic Labyrinth (1995)(Sega)(En).gg
+:	:	Sonic Labyrinth (1995)(Sega)(En)[u].gg
+:	:	Sonic Spinball (1994)(SEga)(En).gg
+:	:	Sonic the Hedgehog (1991)(Sega)(En).gg
+:	:	Sonic the Hedgehog - Triple Trouble (1994)(Sega)(En).gg
+:	:	Sonic the Hedgehog 2 (1992)(Sega)(En).gg
+:	:	Sonic the Hedgehog 2 (1992)(Sega)(En)[o][b].gg
+:	:	Space Harrier (1991)(Sega)(En).gg
+:	:	Spider-Man - Return of the Sinister Six (1992)(Acclaim)(En).gg
+:	:	Spider-Man and The X-Men in Arcade's Revenge (1994)(Acclaim)(En).gg
+:	:	Spider-Man vs. The Kingpin (1992)(Sega)(En).gg
+:	:	Sports Illustrated - Championship Football & Baseball (1995)(Unexpected Development)(En).gg
+:	:	Sports Trivia (1995)(Sega)(En).gg
+:	:	Sports Trivia - Championship Edition (1995)(Sega)(En).gg
+:	:	Star Trek - The Next Generation (1994)(Absolute Entertainment)(En).gg
+:	:	Star Trek Generations - Beyond the Nexus (1994)(Absolute Entertainment)(En).gg
+:	:	Star Wars (1993)(U.S. Gold)(En).gg
+:	:	Star Wars - Super Return of the Jedi (1995)(THQ)(En).gg
+:	:	Stargate (1994)(Acclaim)(En).gg
+:	:	Streets of Rage (1992)(Sega)(En).gg
+:	:	Streets of Rage II (1993)(Sega)(En).gg
+:	:	Strider Returns - Journey from Darkness (1992)(U.S. Gold)(En).gg
+:	:	Super Columns (1995)(Sega)(En).gg
+:	:	Super Golf (1991)(Sigma Enterprises)(Jp).gg
+:	:	Super Monaco GP (1990)(SEga)(Jp).gg
+:	:	Super Monaco GP (1990)(SEga)(Jp)[b].gg
+:	:	Super Off Road (199x)(Virgin)(En).gg
+:	:	Super Off Road (199x)(Virgin)(En)[b].gg
+:	:	Super Off Road (199x)(Virgin)(En)[u].gg
+:	:	Super Space Invaders (199x)(Domark)(En).gg
+:	:	Super Space Invaders (199x)(Domark)(En)[b].gg
+:	:	Superman (1992)(Virgin)(En).gg
+:	:	Surf Ninjas (1993)(Sega)(En).gg
+:	:	Surf Ninjas (1993)(Sega)(En)[b2].gg
+:	:	Surf Ninjas (1993)(Sega)(En)[b].gg
+:	:	Sylvan Tale (1995)(Sega)(Jp).gg
+:	:	Sylvan Tale (1995)(Sega)(Jp)[h][tr En][a][music hack].gg
+:	:	Sylvan Tale (1995)(Sega)(Jp)[h][tr En][music hack].gg
+:	:	Sylvan Tale (1995)(Sega)(Jp)[tr En].gg
+:	:	Sylvan Tale (1995)(Sega)(Jp)[tr En][a].gg
+:	:	Tails' Adventures (1995)(Sega)(En).gg
+:	:	Tails' Skypatrol (1995)(Sega)(Jp).gg
+:	:	Tails' Skypatrol (1995)(Sega)(Jp)[tr Br].gg
+:	:	Taisen Mahjan Hao Pai (1990)(Sega)(Jp).gg
+:	:	Taisen Mahjan Hao Pai 2 (1993)(Sega)(Jp).gg
+:	:	Tale Spin (1993)(Sega)(En).gg
+:	:	Tama & Friends - Tamalympics (1995)(Sega)(Jp).gg
+:	:	Tama & Friends - Tamalympics (1995)(Sega)(Jp)[b].gg
+:	:	Taz in Escape from Mars (1994)(Sega)(En).gg
+:	:	Taz in Escape from Mars (1994)(Sega)(En)[h][Star Wars text].gg
+:	:	Taz-Mania - The Search for the Lost Seabirds (1992)(Sega)(En).gg
+:	:	Tempo Jr. (1995)(Sega)(En).gg
+:	:	Tengen World Cup Soccer (1993)(Tengen)(En).gg
+:	:	Terminator 2 - Judgment Day (1993)(Acclaim)(En).gg
+:	:	Terminator 2 - The Arcade Game (1993)(Acclaim)(En).gg
+:	:	Terminator 2 - The Arcade Game (1993)(Acclaim)(En)[b].gg
+:	:	Terminator, The (1992)(Virgin)(En).gg
+:	:	Tesserae (1993)(Gametek)(En).gg
+:	:	Tintin in Tibet (1995)(Infogrames)(M6).gg
+:	:	Tom and Jerry - The Movie (1993)(Sega)(En).gg
+:	:	True Lies (1995)(Acclaim)(En).gg
+:	:	U.S.H.R.A. Monster Truck Wars (1994)(Acclaim)(En).gg
+:	:	Ultimate Soccer (1993)(Sega)(M5).gg
+:	:	Urban Strike (1995)(THQ)(En).gg
+:	:	VR Troopers (1995)(Sega)(En).gg
+:	:	VR Troopers (1995)(Sega)(En)[b].gg
+:	:	Vampire - Master of Darkness (1993)(Sega)(En).gg
+:	:	Virtua Fighter Mini (1996)(Sega)(Jp).gg
+:	:	Virtua Fighters Animation (199x)(Sega)(Jp)[b].gg
+:	:	WWF Raw (1994)(Acclaim)(En).gg
+:	:	WWF Raw (1994)(Acclaim)(En)[u].gg
+:	:	Wakiyarando (1991)(Namco)(Jp).gg
+:	:	Wakiyarando (1991)(Namco)(Jp)[b2].gg
+:	:	Wakiyarando (1991)(Namco)(Jp)[b3].gg
+:	:	Wakiyarando (1991)(Namco)(Jp)[b].gg
+:	:	Wakiyarando (1991)(Namco)(Jp)[u].gg
+:	:	Wheel of Fortune (1993)(Gametek)(En).gg
+:	:	Windows for GG v4.0 (1999)(Victor Kemp)(PD).gg
+:	:	Wizard Pinball (199x)(Domark)(En).gg
+:	:	Wolfchild (1993)(Virgin)(En).gg
+:	:	Wonder Boy (1991)(Sega)(Jp).gg
+:	:	Wonder Boy III - The Dragon's Trap (1992)(Sega)(En).gg
+:	:	Woody Pop (1991)(Sega)(En).gg
+:	:	Woody Pop (1991)(Sega)(En)[a].gg
+:	:	World Class Leader Board (1991)(U.S. Gold)(En).gg
+:	:	World Cup USA '94 (1994)(U.S. Gold)(En).gg
+:	:	World Derby (1994)(CRT)(Jp).gg
+:	:	World Series Baseball '95 (1994)(Sega)(En).gg
+:	:	World Series Baseball (1993)(Sega)(En).gg
+:	:	World Series Baseball (1993)(Sega)(En)[a].gg
+:	:	X-Men (1993)(Sega)(En).gg
+:	:	X-Men - Gamemaster's Legacy (1994)(Sega)(En).gg
+:	:	X-Men - Mojo World (1996)(Sega)(En).gg
+:	:	XVII Olympic Winter Olympics Games, The - Lillehammer 1994 (1993)(U.S. Gold)(M8)[export].gg
+:	:	XVII Olympic Winter Olympics Games, The - Lillehammer 1994 (1993)(U.S. Gold)(M8)[japan].gg
+:	:	Yaiba Adventures (1994)(Sega)(Jp).gg
+:	:	Yogi Bear in Yogi Bear's Goldrush (1994)(Gametek)(En)(proto).gg
+:	:	Yokaru Yotantori (1992)(Sega)(Jp).gg
+:	:	Yuu Yuu Hakusho (1994)(Sega)(Jp).gg
+:	:	Yuu Yuu Hakusho II (1994)(Sega)(Jp).gg
+:	:	Yuu Yuu Hakusho II (1994)(Sega)(Jp)[tr En].gg
+:	:	Zen Gear (1990)(Wolf Team)(Jp).gg
+:	:	Zool (1993)(Gremlin Graphics)(Jp).gg
+:	:	Zoop (1995)(Viacom)(En).gg
+:	:	Zoop'em Up (2002)(Martin Konrad)(PD).gg

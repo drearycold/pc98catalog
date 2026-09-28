@@ -1,0 +1,35 @@
+[DVD] mame0.80_disc3_seattle(cdi+rr5).part1.rar
+9e5992ce8fe5bdc68b2889567cb3d203
+
+[DVD] mame0.80_disc3_seattle(cdi+rr5).part2.rar
+336d6bd54703d04ca3d30f1de9462381
+
+[DVD] mame0.80_disc3_seattle(cdi+rr5).part3.rar
+62ca87d9e664a1072c31bb8e7a45c97e
+
+[DVD] mame0.80_disc3_seattle(cdi+rr5).part4.rar
+017056859755cc089462c2e0f0d47b02
+
+:	roms
+:	:	biofreak.zip
+:	:	blitz.zip
+:	:	blitz2k.zip
+:	:	blitz99.zip
+:	:	calspeed.zip
+:	:	carnevil.zip
+:	:	wg3dh.zip
+:	:	biofreak
+:	:	:	biofreak.chd
+:	:	blitz
+:	:	:	blitz.chd
+:	:	blitz2k
+:	:	:	blitz2k.chd
+:	:	blitz99
+:	:	:	blitz99.chd
+:	:	calspeed
+:	:	:	calspeed.chd
+:	:	carnevil
+:	:	:	carnevil.chd
+:	:	wg3dh
+:	:	:	wg3dh.chd
+22

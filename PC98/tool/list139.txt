@@ -1,0 +1,488 @@
+(ROM) (PC98) HDM 482Games (TOSEC 0.24) (rr5%).rar
+397,870,648
+10653e8093fa8743b52501d1a9ff9abfÅE37198f31d34ab578f626916d418bb134f5061066
+
+:	NEC PC98xx - HDMhave.txt
+:	NEC PC98xx - HDM
+:	:	31 Iwayuruhitotsu no Chou Lovery na Boken Katsugeki (1995)(Altacia)(Disk 1 of 4)(Disk A).hdm
+:	:	31 Iwayuruhitotsu no Chou Lovery na Boken Katsugeki (1995)(Altacia)(Disk 2 of 4)(Disk B).hdm
+:	:	31 Iwayuruhitotsu no Chou Lovery na Boken Katsugeki (1995)(Altacia)(Disk 3 of 4)(Disk C).hdm
+:	:	31 Iwayuruhitotsu no Chou Lovery na Boken Katsugeki (1995)(Altacia)(Disk 4 of 4)(Disk D).hdm
+:	:	AD&D - Curse of the Azure Bonds (19xx)(Pony Canyon)(Disk 1 of 2).hdm
+:	:	AD&D - Curse of the Azure Bonds (19xx)(Pony Canyon)(Disk 2 of 2).hdm
+:	:	Ace of Spades (1995)(Lovegun)(Disk 1 of 2)(Disk A).hdm
+:	:	Ace of Spades (1995)(Lovegun)(Disk 2 of 2)(Disk B).hdm
+:	:	Alice no Yakata 2 (1992)(Alice Soft)(Disk 1 of 4)(Disk A).hdm
+:	:	Alice no Yakata 2 (1992)(Alice Soft)(Disk 2 of 4)(Disk B).hdm
+:	:	Alice no Yakata 2 (1992)(Alice Soft)(Disk 3 of 4)(Disk C).hdm
+:	:	Alice no Yakata 2 (1992)(Alice Soft)(Disk 4 of 4)(Disk D).hdm
+:	:	Angel Halo (1996)(Active Software)(Disk 1 of 4)(Disk A)[Req Install].hdm
+:	:	Angel Halo (1996)(Active Software)(Disk 2 of 4)(Disk B)[Req Install].hdm
+:	:	Angel Halo (1996)(Active Software)(Disk 3 of 4)(Disk C)[Req Install].hdm
+:	:	Angel Halo (1996)(Active Software)(Disk 4 of 4)(Disk D)[Req Install].hdm
+:	:	Artemis (19xx)(-)(Disk 1 of 3)(Disk A).hdm
+:	:	Artemis (19xx)(-)(Disk 2 of 3)(Disk B).hdm
+:	:	Artemis (19xx)(-)(Disk 3 of 3)(Disk C).hdm
+:	:	Beat Vice (19xx)(Fuga System)(Disk 1 of 3).hdm
+:	:	Beat Vice (19xx)(Fuga System)(Disk 2 of 3).hdm
+:	:	Beat Vice (19xx)(Fuga System)(Disk 3 of 3).hdm
+:	:	Brandish VT (19xx)(Falcom)(Disk 1 of 8)[Req Install].hdm
+:	:	Brandish VT (19xx)(Falcom)(Disk 2 of 8)[Req Install].hdm
+:	:	Brandish VT (19xx)(Falcom)(Disk 3 of 8)[Req Install].hdm
+:	:	Brandish VT (19xx)(Falcom)(Disk 4 of 8)[Req Install].hdm
+:	:	Brandish VT (19xx)(Falcom)(Disk 5 of 8)[Req Install].hdm
+:	:	Brandish VT (19xx)(Falcom)(Disk 6 of 8)[Req Install].hdm
+:	:	Brandish VT (19xx)(Falcom)(Disk 7 of 8)[Req Install].hdm
+:	:	Brandish VT (19xx)(Falcom)(Disk 8 of 8)[Req Install].hdm
+:	:	Bretonne Lays (19xx)(System Soft)(Disk 1 of 2)(Disk A).hdm
+:	:	Bretonne Lays (19xx)(System Soft)(Disk 2 of 2)(Disk B).hdm
+:	:	Burai Jokan (1990)(Riverhill Soft)(Disk 1 of 4).hdm
+:	:	Burai Jokan (1990)(Riverhill Soft)(Disk 2 of 4).hdm
+:	:	Burai Jokan (1990)(Riverhill Soft)(Disk 3 of 4).hdm
+:	:	Burai Jokan (1990)(Riverhill Soft)(Disk 4 of 4).hdm
+:	:	Cal 1 (1990)(Birdy Soft)(Disk 1 of 2)(Disk A).hdm
+:	:	Cal 1 (1990)(Birdy Soft)(Disk 2 of 2)(Disk B).hdm
+:	:	Cal 2 (1991)(Birdy Soft)(Disk 1 of 4)(Disk A).hdm
+:	:	Cal 2 (1991)(Birdy Soft)(Disk 2 of 4)(Disk B).hdm
+:	:	Cal 2 (1991)(Birdy Soft)(Disk 3 of 4)(Disk C).hdm
+:	:	Cal 2 (1991)(Birdy Soft)(Disk 4 of 4)(Disk D).hdm
+:	:	Canaan - Kannou Kyoushuu (19xx)(4x9)(Disk 01 of 12)(Disk A)[Req Install].hdm
+:	:	Canaan - Kannou Kyoushuu (19xx)(4x9)(Disk 02 of 12)(Disk B)[Req Install].hdm
+:	:	Canaan - Kannou Kyoushuu (19xx)(4x9)(Disk 03 of 12)(Disk C)[Req Install].hdm
+:	:	Canaan - Kannou Kyoushuu (19xx)(4x9)(Disk 04 of 12)(Disk D)[Req Install].hdm
+:	:	Canaan - Kannou Kyoushuu (19xx)(4x9)(Disk 05 of 12)(Disk E)[Req Install].hdm
+:	:	Canaan - Kannou Kyoushuu (19xx)(4x9)(Disk 06 of 12)(Disk F)[Req Install].hdm
+:	:	Canaan - Kannou Kyoushuu (19xx)(4x9)(Disk 07 of 12)(Disk G)[Req Install].hdm
+:	:	Canaan - Kannou Kyoushuu (19xx)(4x9)(Disk 08 of 12)(Disk H)[Req Install].hdm
+:	:	Canaan - Kannou Kyoushuu (19xx)(4x9)(Disk 09 of 12)(Disk I)[Req Install].hdm
+:	:	Canaan - Kannou Kyoushuu (19xx)(4x9)(Disk 10 of 12)(Disk J)[Req Install].hdm
+:	:	Canaan - Kannou Kyoushuu (19xx)(4x9)(Disk 11 of 12)(Disk K)[Req Install].hdm
+:	:	Canaan - Kannou Kyoushuu (19xx)(4x9)(Disk 12 of 12)(Disk L)[Req Install].hdm
+:	:	Caramel Quest (1991)(Agumix)(Disk 1 of 3).hdm
+:	:	Caramel Quest (1991)(Agumix)(Disk 2 of 3).hdm
+:	:	Caramel Quest (1991)(Agumix)(Disk 3 of 3).hdm
+:	:	Carat (1992)(Custom)(Disk 1 of 2)(Disk A).hdm
+:	:	Carat (1992)(Custom)(Disk 2 of 2)(Disk B).hdm
+:	:	Chaos Angels (1989)(ASCII).hdm
+:	:	Charade (1995)(Apple Pie)(Disk 1 of 5)(Disk A).hdm
+:	:	Charade (1995)(Apple Pie)(Disk 2 of 5)(Disk B).hdm
+:	:	Charade (1995)(Apple Pie)(Disk 3 of 5)(Disk C).hdm
+:	:	Charade (1995)(Apple Pie)(Disk 4 of 5)(Disk D).hdm
+:	:	Charade (1995)(Apple Pie)(Disk 5 of 5)(Disk E).hdm
+:	:	Cherry Moderate (1994)(Ucom)(Disk 1 of 5)(Disk A).hdm
+:	:	Cherry Moderate (1994)(Ucom)(Disk 2 of 5)(Disk B).hdm
+:	:	Cherry Moderate (1994)(Ucom)(Disk 3 of 5)(Disk C).hdm
+:	:	Cherry Moderate (1994)(Ucom)(Disk 4 of 5)(Disk D).hdm
+:	:	Cherry Moderate (1994)(Ucom)(Disk 5 of 5)(Disk E).hdm
+:	:	Chushiuki - Hibasawa Nurse School (19xx)(Aypio)(Disk 1 of 5)(Disk A)[Req Install].hdm
+:	:	Chushiuki - Hibasawa Nurse School (19xx)(Aypio)(Disk 2 of 5)(Disk B)[Req Install].hdm
+:	:	Chushiuki - Hibasawa Nurse School (19xx)(Aypio)(Disk 3 of 5)(Disk C)[Req Install].hdm
+:	:	Chushiuki - Hibasawa Nurse School (19xx)(Aypio)(Disk 4 of 5)(Disk D)[Req Install].hdm
+:	:	Chushiuki - Hibasawa Nurse School (19xx)(Aypio)(Disk 5 of 5)(Disk E)[Req Install].hdm
+:	:	Clone Doll Kagaijyugyo (1995)(Space Project)(Disk 1 of 6)[Req Install].hdm
+:	:	Clone Doll Kagaijyugyo (1995)(Space Project)(Disk 2 of 6)[Req Install].hdm
+:	:	Clone Doll Kagaijyugyo (1995)(Space Project)(Disk 3 of 6)[Req Install].hdm
+:	:	Clone Doll Kagaijyugyo (1995)(Space Project)(Disk 4 of 6)[Req Install].hdm
+:	:	Clone Doll Kagaijyugyo (1995)(Space Project)(Disk 5 of 6)[Req Install].hdm
+:	:	Clone Doll Kagaijyugyo (1995)(Space Project)(Disk 6 of 6)[Req Install].hdm
+:	:	Coin (1996)(Ange)(Disk 1 of 3)(Disk A).hdm
+:	:	Coin (1996)(Ange)(Disk 2 of 3)(Disk B).hdm
+:	:	Coin (1996)(Ange)(Disk 3 of 3)(Disk C).hdm
+:	:	Collector D Bangaihen (1993)(D.O.)(Disk 1 of 6).hdm
+:	:	Collector D Bangaihen (1993)(D.O.)(Disk 2 of 6).hdm
+:	:	Collector D Bangaihen (1993)(D.O.)(Disk 3 of 6).hdm
+:	:	Collector D Bangaihen (1993)(D.O.)(Disk 4 of 6).hdm
+:	:	Collector D Bangaihen (1993)(D.O.)(Disk 5 of 6).hdm
+:	:	Collector D Bangaihen (1993)(D.O.)(Disk 6 of 6).hdm
+:	:	Coming Heart (1995)(May-Be Soft)(Disk 1 of 3)(System Disk).hdm
+:	:	Coming Heart (1995)(May-Be Soft)(Disk 2 of 3)(Disk A).hdm
+:	:	Coming Heart (1995)(May-Be Soft)(Disk 3 of 3)(Disk B).hdm
+:	:	Crom Paradise - Ginhakushiyoku no Rakuen (1995)(Acid Plan)(Disk 1 of 8)[Req Install].hdm
+:	:	Crom Paradise - Ginhakushiyoku no Rakuen (1995)(Acid Plan)(Disk 2 of 8)[Req Install].hdm
+:	:	Crom Paradise - Ginhakushiyoku no Rakuen (1995)(Acid Plan)(Disk 3 of 8)[Req Install].hdm
+:	:	Crom Paradise - Ginhakushiyoku no Rakuen (1995)(Acid Plan)(Disk 4 of 8)[Req Install].hdm
+:	:	Crom Paradise - Ginhakushiyoku no Rakuen (1995)(Acid Plan)(Disk 5 of 8)[Req Install].hdm
+:	:	Crom Paradise - Ginhakushiyoku no Rakuen (1995)(Acid Plan)(Disk 6 of 8)[Req Install].hdm
+:	:	Crom Paradise - Ginhakushiyoku no Rakuen (1995)(Acid Plan)(Disk 7 of 8)[Req Install].hdm
+:	:	Crom Paradise - Ginhakushiyoku no Rakuen (1995)(Acid Plan)(Disk 8 of 8)[Req Install].hdm
+:	:	Crystal Chaser (19xx)(-)(Disk 1 of 2)(Disk A).hdm
+:	:	Crystal Chaser (19xx)(-)(Disk 2 of 2)(Disk B).hdm
+:	:	Custom Mate 3 (1995)(Cocktail Soft)(Disk 1 of 9)(Disk A)[Req Install].hdm
+:	:	Custom Mate 3 (1995)(Cocktail Soft)(Disk 2 of 9)(Disk B)[Req Install].hdm
+:	:	Custom Mate 3 (1995)(Cocktail Soft)(Disk 3 of 9)(Disk C)[Req Install].hdm
+:	:	Custom Mate 3 (1995)(Cocktail Soft)(Disk 4 of 9)(Disk D)[Req Install].hdm
+:	:	Custom Mate 3 (1995)(Cocktail Soft)(Disk 5 of 9)(Disk E)[Req Install].hdm
+:	:	Custom Mate 3 (1995)(Cocktail Soft)(Disk 6 of 9)(Disk F)[Req Install].hdm
+:	:	Custom Mate 3 (1995)(Cocktail Soft)(Disk 7 of 9)(Disk G)[Req Install].hdm
+:	:	Custom Mate 3 (1995)(Cocktail Soft)(Disk 8 of 9)(Disk H)[Req Install].hdm
+:	:	Custom Mate 3 (1995)(Cocktail Soft)(Disk 9 of 9)(Disk I)[Req Install].hdm
+:	:	Cyber Illusion (1995)(Pearl Soft)(Disk 1 of 8)(Disk A).hdm
+:	:	Cyber Illusion (1995)(Pearl Soft)(Disk 2 of 8)(Disk B).hdm
+:	:	Cyber Illusion (1995)(Pearl Soft)(Disk 3 of 8)(Disk C).hdm
+:	:	Cyber Illusion (1995)(Pearl Soft)(Disk 4 of 8)(Disk D).hdm
+:	:	Cyber Illusion (1995)(Pearl Soft)(Disk 5 of 8)(Disk E).hdm
+:	:	Cyber Illusion (1995)(Pearl Soft)(Disk 6 of 8)(Disk F).hdm
+:	:	Cyber Illusion (1995)(Pearl Soft)(Disk 7 of 8)(Disk G).hdm
+:	:	Cyber Illusion (1995)(Pearl Soft)(Disk 8 of 8)(Disk H).hdm
+:	:	Daraku no Kuni no Angie - Kyoukai no Mesudorei Tachi (1996)(PIL)(Disk 1 of 8)(Disk A)[Req Install].hdm
+:	:	Daraku no Kuni no Angie - Kyoukai no Mesudorei Tachi (1996)(PIL)(Disk 2 of 8)(Disk B)[Req Install].hdm
+:	:	Daraku no Kuni no Angie - Kyoukai no Mesudorei Tachi (1996)(PIL)(Disk 3 of 8)(Disk C)[Req Install].hdm
+:	:	Daraku no Kuni no Angie - Kyoukai no Mesudorei Tachi (1996)(PIL)(Disk 4 of 8)(Disk D)[Req Install].hdm
+:	:	Daraku no Kuni no Angie - Kyoukai no Mesudorei Tachi (1996)(PIL)(Disk 5 of 8)(Disk E)[Req Install].hdm
+:	:	Daraku no Kuni no Angie - Kyoukai no Mesudorei Tachi (1996)(PIL)(Disk 6 of 8)(Disk F)[Req Install].hdm
+:	:	Daraku no Kuni no Angie - Kyoukai no Mesudorei Tachi (1996)(PIL)(Disk 7 of 8)(Disk G)[Req Install].hdm
+:	:	Daraku no Kuni no Angie - Kyoukai no Mesudorei Tachi (1996)(PIL)(Disk 8 of 8)(Disk H)[Req Install].hdm
+:	:	Echigoya (1994)(Temg-Pro)(Disk 1 of 4)(Disk A)[Req Install].hdm
+:	:	Echigoya (1994)(Temg-Pro)(Disk 2 of 4)(Disk B)[Req Install].hdm
+:	:	Echigoya (1994)(Temg-Pro)(Disk 3 of 4)(Disk C)[Req Install].hdm
+:	:	Echigoya (1994)(Temg-Pro)(Disk 4 of 4)(Disk D)[Req Install].hdm
+:	:	Es no Houteisiki (1996)(Abogado Powers)(Disk 1 of 5)(Disk A)[Req Install].hdm
+:	:	Es no Houteisiki (1996)(Abogado Powers)(Disk 2 of 5)(Disk B)[Req Install].hdm
+:	:	Es no Houteisiki (1996)(Abogado Powers)(Disk 3 of 5)(Disk C)[Req Install].hdm
+:	:	Es no Houteisiki (1996)(Abogado Powers)(Disk 4 of 5)(Disk D)[Req Install].hdm
+:	:	Es no Houteisiki (1996)(Abogado Powers)(Disk 5 of 5)(Disk E)[Req Install].hdm
+:	:	Escape (1996)(May-Be Soft)(Disk 1 of 3)(System Disk).hdm
+:	:	Escape (1996)(May-Be Soft)(Disk 2 of 3)(Disk A).hdm
+:	:	Escape (1996)(May-Be Soft)(Disk 3 of 3)(Disk B).hdm
+:	:	Gaina Rock 2 (19xx)(Silence)(Disk 1 of 3)(System Disk).hdm
+:	:	Gaina Rock 2 (19xx)(Silence)(Disk 2 of 3)(Disk A).hdm
+:	:	Gaina Rock 2 (19xx)(Silence)(Disk 3 of 3)(Disk B).hdm
+:	:	Gakuen Bakuretsu Tenkousei (1995)(ZyX)(Disk 1 of 3)(Disk A).hdm
+:	:	Gakuen Bakuretsu Tenkousei (1995)(ZyX)(Disk 2 of 3)(Disk B).hdm
+:	:	Gakuen Bakuretsu Tenkousei (1995)(ZyX)(Disk 3 of 3)(Disk C).hdm
+:	:	Gakuen Senshi Sailor Fighter (1994)(Peach Soft)(Disk 1 of 5)(Disk A)[Req Install].hdm
+:	:	Gakuen Senshi Sailor Fighter (1994)(Peach Soft)(Disk 2 of 5)(Disk B)[Req Install].hdm
+:	:	Gakuen Senshi Sailor Fighter (1994)(Peach Soft)(Disk 3 of 5)(Disk C)[Req Install].hdm
+:	:	Gakuen Senshi Sailor Fighter (1994)(Peach Soft)(Disk 4 of 5)(Disk D)[Req Install].hdm
+:	:	Gakuen Senshi Sailor Fighter (1994)(Peach Soft)(Disk 5 of 5)(Disk E)[Req Install].hdm
+:	:	Geneitoshi - Illusion City (1991)(Micro Cabin)(Disk 1 of 7).hdm
+:	:	Geneitoshi - Illusion City (1991)(Micro Cabin)(Disk 2 of 7).hdm
+:	:	Geneitoshi - Illusion City (1991)(Micro Cabin)(Disk 3 of 7).hdm
+:	:	Geneitoshi - Illusion City (1991)(Micro Cabin)(Disk 4 of 7).hdm
+:	:	Geneitoshi - Illusion City (1991)(Micro Cabin)(Disk 5 of 7).hdm
+:	:	Geneitoshi - Illusion City (1991)(Micro Cabin)(Disk 6 of 7).hdm
+:	:	Geneitoshi - Illusion City (1991)(Micro Cabin)(Disk 7 of 7).hdm
+:	:	Geo Slave (19xx)(Sorciere)(Disk 1 of 8)(Disk A).hdm
+:	:	Geo Slave (19xx)(Sorciere)(Disk 2 of 8)(Disk B).hdm
+:	:	Geo Slave (19xx)(Sorciere)(Disk 3 of 8)(Disk C).hdm
+:	:	Geo Slave (19xx)(Sorciere)(Disk 4 of 8)(Disk D).hdm
+:	:	Geo Slave (19xx)(Sorciere)(Disk 5 of 8)(Disk E).hdm
+:	:	Geo Slave (19xx)(Sorciere)(Disk 6 of 8)(Disk F).hdm
+:	:	Geo Slave (19xx)(Sorciere)(Disk 7 of 8)(Disk G).hdm
+:	:	Geo Slave (19xx)(Sorciere)(Disk 8 of 8)(Disk H).hdm
+:	:	Get! (1996)(Black Package)(Disk 1 of 6)(Disk A).hdm
+:	:	Get! (1996)(Black Package)(Disk 1 of 6)(Disk A)[Req Install].hdm
+:	:	Get! (1996)(Black Package)(Disk 2 of 6)(Disk B).hdm
+:	:	Get! (1996)(Black Package)(Disk 2 of 6)(Disk B)[Req Install].hdm
+:	:	Get! (1996)(Black Package)(Disk 3 of 6)(Disk C).hdm
+:	:	Get! (1996)(Black Package)(Disk 3 of 6)(Disk C)[Req Install].hdm
+:	:	Get! (1996)(Black Package)(Disk 4 of 6)(Disk D).hdm
+:	:	Get! (1996)(Black Package)(Disk 4 of 6)(Disk D)[Req Install].hdm
+:	:	Get! (1996)(Black Package)(Disk 5 of 6)(Disk E).hdm
+:	:	Get! (1996)(Black Package)(Disk 5 of 6)(Disk E)[Req Install].hdm
+:	:	Get! (1996)(Black Package)(Disk 6 of 6)(Disk F).hdm
+:	:	Get! (1996)(Black Package)(Disk 6 of 6)(Disk F)[Req Install].hdm
+:	:	Girl 2 (1996)(Juice)(Disk 1 of 5).hdm
+:	:	Girl 2 (1996)(Juice)(Disk 2 of 5).hdm
+:	:	Girl 2 (1996)(Juice)(Disk 3 of 5).hdm
+:	:	Girl 2 (1996)(Juice)(Disk 4 of 5).hdm
+:	:	Girl 2 (1996)(Juice)(Disk 5 of 5).hdm
+:	:	Grounseed (1996)(Exit)(Disk 1 of 8)(Disk A).hdm
+:	:	Grounseed (1996)(Exit)(Disk 2 of 8)(Disk B).hdm
+:	:	Grounseed (1996)(Exit)(Disk 3 of 8)(Disk C).hdm
+:	:	Grounseed (1996)(Exit)(Disk 4 of 8)(Disk D).hdm
+:	:	Grounseed (1996)(Exit)(Disk 5 of 8)(Disk E).hdm
+:	:	Grounseed (1996)(Exit)(Disk 6 of 8)(Disk F).hdm
+:	:	Grounseed (1996)(Exit)(Disk 7 of 8)(Disk G).hdm
+:	:	Grounseed (1996)(Exit)(Disk 8 of 8)(Disk H).hdm
+:	:	Guardian Recall (1996)(Agumix)(Disk 01 of 15)(Data 01)[Req Install].hdm
+:	:	Guardian Recall (1996)(Agumix)(Disk 02 of 15)(Data 02)[Req Install].hdm
+:	:	Guardian Recall (1996)(Agumix)(Disk 03 of 15)(Data 03)[Req Install].hdm
+:	:	Guardian Recall (1996)(Agumix)(Disk 04 of 15)(Data 04)[Req Install].hdm
+:	:	Guardian Recall (1996)(Agumix)(Disk 05 of 15)(Data 05)[Req Install].hdm
+:	:	Guardian Recall (1996)(Agumix)(Disk 06 of 15)(Data 06)[Req Install].hdm
+:	:	Guardian Recall (1996)(Agumix)(Disk 07 of 15)(Data 07)[Req Install].hdm
+:	:	Guardian Recall (1996)(Agumix)(Disk 08 of 15)(Data 08)[Req Install].hdm
+:	:	Guardian Recall (1996)(Agumix)(Disk 09 of 15)(Data 09)[Req Install].hdm
+:	:	Guardian Recall (1996)(Agumix)(Disk 10 of 15)(Data 10)[Req Install].hdm
+:	:	Guardian Recall (1996)(Agumix)(Disk 11 of 15)(Data 11)[Req Install].hdm
+:	:	Guardian Recall (1996)(Agumix)(Disk 12 of 15)(Data 12)[Req Install].hdm
+:	:	Guardian Recall (1996)(Agumix)(Disk 13 of 15)(Data 13)[Req Install].hdm
+:	:	Guardian Recall (1996)(Agumix)(Disk 14 of 15)(Data 14)[Req Install].hdm
+:	:	Guardian Recall (1996)(Agumix)(Disk 15 of 15)(Data 15)[Req Install].hdm
+:	:	Idol project 2 (1995)(KSS)(Disk 1 of 8)(Disk A)[Req Install].hdm
+:	:	Idol project 2 (1995)(KSS)(Disk 2 of 8)(Disk B)[Req Install].hdm
+:	:	Idol project 2 (1995)(KSS)(Disk 3 of 8)(Disk C)[Req Install].hdm
+:	:	Idol project 2 (1995)(KSS)(Disk 4 of 8)(Disk D)[Req Install].hdm
+:	:	Idol project 2 (1995)(KSS)(Disk 5 of 8)(Disk E)[Req Install].hdm
+:	:	Idol project 2 (1995)(KSS)(Disk 6 of 8)(Disk F)[Req Install].hdm
+:	:	Idol project 2 (1995)(KSS)(Disk 7 of 8)(Disk G)[Req Install].hdm
+:	:	Idol project 2 (1995)(KSS)(Disk 8 of 8)(Disk H)[Req Install].hdm
+:	:	Isaku (1995)(Elf)(Disk 1 of 7)(Disk A).hdm
+:	:	Isaku (1995)(Elf)(Disk 2 of 7)(Disk B).hdm
+:	:	Isaku (1995)(Elf)(Disk 3 of 7)(Disk C).hdm
+:	:	Isaku (1995)(Elf)(Disk 4 of 7)(Disk D).hdm
+:	:	Isaku (1995)(Elf)(Disk 5 of 7)(Disk E).hdm
+:	:	Isaku (1995)(Elf)(Disk 6 of 7)(Disk F).hdm
+:	:	Isaku (1995)(Elf)(Disk 7 of 7)(Disk G).hdm
+:	:	Jack - Haitoku no Megami (1995)(Silky's)(Disk 1 of 5)(Disk A).hdm
+:	:	Jack - Haitoku no Megami (1995)(Silky's)(Disk 2 of 5)(Disk B).hdm
+:	:	Jack - Haitoku no Megami (1995)(Silky's)(Disk 3 of 5)(Disk C).hdm
+:	:	Jack - Haitoku no Megami (1995)(Silky's)(Disk 4 of 5)(Disk D).hdm
+:	:	Jack - Haitoku no Megami (1995)(Silky's)(Disk 5 of 5)(Disk E).hdm
+:	:	Jan Jaka Jan (1992)(Elf)(Disk 1 of 5)(Disk A).hdm
+:	:	Jan Jaka Jan (1992)(Elf)(Disk 2 of 5)(Disk B).hdm
+:	:	Jan Jaka Jan (1992)(Elf)(Disk 3 of 5)(Disk C).hdm
+:	:	Jan Jaka Jan (1992)(Elf)(Disk 4 of 5)(Disk D).hdm
+:	:	Jan Jaka Jan (1992)(Elf)(Disk 5 of 5)(Disk E).hdm
+:	:	Jango 3 (19xx)(Victor)(Disk 1 of 2).hdm
+:	:	Jango 3 (19xx)(Victor)(Disk 2 of 2).hdm
+:	:	Kakyusei (1996)(Elf)(Disk 01 of 17)(Disk A)[Req Install].hdm
+:	:	Kakyusei (1996)(Elf)(Disk 02 of 17)(Disk B)[Req Install].hdm
+:	:	Kakyusei (1996)(Elf)(Disk 03 of 17)(Disk C)[Req Install].hdm
+:	:	Kakyusei (1996)(Elf)(Disk 04 of 17)(Disk D)[Req Install].hdm
+:	:	Kakyusei (1996)(Elf)(Disk 05 of 17)(Disk E)[Req Install].hdm
+:	:	Kakyusei (1996)(Elf)(Disk 06 of 17)(Disk F)[Req Install].hdm
+:	:	Kakyusei (1996)(Elf)(Disk 07 of 17)(Disk G)[Req Install].hdm
+:	:	Kakyusei (1996)(Elf)(Disk 08 of 17)(Disk H)[Req Install].hdm
+:	:	Kakyusei (1996)(Elf)(Disk 09 of 17)(Disk I)[Req Install].hdm
+:	:	Kakyusei (1996)(Elf)(Disk 10 of 17)(Disk J)[Req Install].hdm
+:	:	Kakyusei (1996)(Elf)(Disk 11 of 17)(Disk K)[Req Install].hdm
+:	:	Kakyusei (1996)(Elf)(Disk 12 of 17)(Disk L)[Req Install].hdm
+:	:	Kakyusei (1996)(Elf)(Disk 13 of 17)(Disk M)[Req Install].hdm
+:	:	Kakyusei (1996)(Elf)(Disk 14 of 17)(Disk N)[Req Install].hdm
+:	:	Kakyusei (1996)(Elf)(Disk 15 of 17)(Disk O)[Req Install].hdm
+:	:	Kakyusei (1996)(Elf)(Disk 16 of 17)(Disk P)[Req Install].hdm
+:	:	Kakyusei (1996)(Elf)(Disk 17 of 17)(Disk Q)[Req Install].hdm
+:	:	Kerakera Hoshi (1992)(Cocktail Soft)(Disk 1 of 2)(Disk A).hdm
+:	:	Kerakera Hoshi (1992)(Cocktail Soft)(Disk 2 of 2)(Disk B).hdm
+:	:	Kids - SAP 2nd file (19xx)(Great)(Disk 1 of 3).hdm
+:	:	Kids - SAP 2nd file (19xx)(Great)(Disk 2 of 3).hdm
+:	:	Kids - SAP 2nd file (19xx)(Great)(Disk 3 of 3).hdm
+:	:	Kimidakeni Aiwo (1991)(Game Technopolis)(Disk 1 of 3)(Disk A).hdm
+:	:	Kimidakeni Aiwo (1991)(Game Technopolis)(Disk 2 of 3)(Disk B).hdm
+:	:	Kimidakeni Aiwo (1991)(Game Technopolis)(Disk 3 of 3)(Disk C).hdm
+:	:	Kohakuiro no Yuigon (19xx)(Riverhill Soft)(Disk 1 of 3).hdm
+:	:	Kohakuiro no Yuigon (19xx)(Riverhill Soft)(Disk 2 of 3).hdm
+:	:	Kohakuiro no Yuigon (19xx)(Riverhill Soft)(Disk 3 of 3).hdm
+:	:	Konseki - Kizuato (19xx)(Leaf)(Disk 1 of 7)(Disk A)[Req Install].hdm
+:	:	Konseki - Kizuato (19xx)(Leaf)(Disk 2 of 7)(Disk B)[Req Install].hdm
+:	:	Konseki - Kizuato (19xx)(Leaf)(Disk 3 of 7)(Disk C)[Req Install].hdm
+:	:	Konseki - Kizuato (19xx)(Leaf)(Disk 4 of 7)(Disk D)[Req Install].hdm
+:	:	Konseki - Kizuato (19xx)(Leaf)(Disk 5 of 7)(Disk E)[Req Install].hdm
+:	:	Konseki - Kizuato (19xx)(Leaf)(Disk 6 of 7)(Disk F)[Req Install].hdm
+:	:	Konseki - Kizuato (19xx)(Leaf)(Disk 7 of 7)(Disk G)[Req Install].hdm
+:	:	Kotetsu no Daiboken (1996)(T2)(Disk 1 of 9)[Req Install].hdm
+:	:	Kotetsu no Daiboken (1996)(T2)(Disk 2 of 9)[Req Install].hdm
+:	:	Kotetsu no Daiboken (1996)(T2)(Disk 3 of 9)[Req Install].hdm
+:	:	Kotetsu no Daiboken (1996)(T2)(Disk 4 of 9)[Req Install].hdm
+:	:	Kotetsu no Daiboken (1996)(T2)(Disk 5 of 9)[Req Install].hdm
+:	:	Kotetsu no Daiboken (1996)(T2)(Disk 6 of 9)[Req Install].hdm
+:	:	Kotetsu no Daiboken (1996)(T2)(Disk 7 of 9)[Req Install].hdm
+:	:	Kotetsu no Daiboken (1996)(T2)(Disk 8 of 9)[Req Install].hdm
+:	:	Kotetsu no Daiboken (1996)(T2)(Disk 9 of 9)[Req Install].hdm
+:	:	Kousoku Chojin (1996)(Foster)(Disk 1 of 2).hdm
+:	:	Kousoku Chojin (1996)(Foster)(Disk 2 of 2).hdm
+:	:	Kurayami (1996)(Melody)(Disk 1 of 5)[Req Install].hdm
+:	:	Kurayami (1996)(Melody)(Disk 2 of 5)[Req Install].hdm
+:	:	Kurayami (1996)(Melody)(Disk 3 of 5)[Req Install].hdm
+:	:	Kurayami (1996)(Melody)(Disk 4 of 5)[Req Install].hdm
+:	:	Kurayami (1996)(Melody)(Disk 5 of 5)[Req Install].hdm
+:	:	Kusuryubi no Kyookashiyoo (1996)(Active Software)(Disk 1 of 3)(Disk A).hdm
+:	:	Kusuryubi no Kyookashiyoo (1996)(Active Software)(Disk 2 of 3)(Disk B).hdm
+:	:	Kusuryubi no Kyookashiyoo (1996)(Active Software)(Disk 3 of 3)(Disk C).hdm
+:	:	Kyoohaku (1996)(AIL)(Disk 1 of 8)(Disk A).hdm
+:	:	Kyoohaku (1996)(AIL)(Disk 2 of 8)(Disk B).hdm
+:	:	Kyoohaku (1996)(AIL)(Disk 3 of 8)(Disk C).hdm
+:	:	Kyoohaku (1996)(AIL)(Disk 4 of 8)(Disk D).hdm
+:	:	Kyoohaku (1996)(AIL)(Disk 5 of 8)(Disk E).hdm
+:	:	Kyoohaku (1996)(AIL)(Disk 6 of 8)(Disk F).hdm
+:	:	Kyoohaku (1996)(AIL)(Disk 7 of 8)(Disk G).hdm
+:	:	Kyoohaku (1996)(AIL)(Disk 8 of 8)(Disk H).hdm
+:	:	Kyouiku Jiyushikoosei Maniacs (1995)(Tetratech)(Disk 1 of 5)[Req Install].hdm
+:	:	Kyouiku Jiyushikoosei Maniacs (1995)(Tetratech)(Disk 2 of 5)[Req Install].hdm
+:	:	Kyouiku Jiyushikoosei Maniacs (1995)(Tetratech)(Disk 3 of 5)[Req Install].hdm
+:	:	Kyouiku Jiyushikoosei Maniacs (1995)(Tetratech)(Disk 4 of 5)[Req Install].hdm
+:	:	Kyouiku Jiyushikoosei Maniacs (1995)(Tetratech)(Disk 5 of 5)[Req Install].hdm
+:	:	Lenam - Sword of Legend (1989)(Hertz Corporation)(Disk 1 of 4)(System Disk).hdm
+:	:	Lenam - Sword of Legend (1989)(Hertz Corporation)(Disk 2 of 4)(Disk A).hdm
+:	:	Lenam - Sword of Legend (1989)(Hertz Corporation)(Disk 3 of 4)(Disk B).hdm
+:	:	Lenam - Sword of Legend (1989)(Hertz Corporation)(Disk 4 of 4)(Disk C).hdm
+:	:	Libido 7 (1994)(Libido)(Disk 1 of 5)(System Disk).hdm
+:	:	Libido 7 (1994)(Libido)(Disk 1 of 5)(System Disk)[a].hdm
+:	:	Libido 7 (1994)(Libido)(Disk 2 of 5)(Prog 1).hdm
+:	:	Libido 7 (1994)(Libido)(Disk 3 of 5)(Prog 2).hdm
+:	:	Libido 7 (1994)(Libido)(Disk 4 of 5)(Prog 3).hdm
+:	:	Libido 7 (1994)(Libido)(Disk 5 of 5)(Prog 4).hdm
+:	:	Life is Music (19xx)(Koei)(Disk 1 of 3)(Disk A).hdm
+:	:	Life is Music (19xx)(Koei)(Disk 2 of 3)(Disk B).hdm
+:	:	Life is Music (19xx)(Koei)(Disk 3 of 3)(Disk C).hdm
+:	:	Lunatic Dawn 1 (1993)(Artdink)(Disk 1 of 3)(Disk A)[Req Install].hdm
+:	:	Lunatic Dawn 1 (1993)(Artdink)(Disk 2 of 3)(Disk B)[Req Install].hdm
+:	:	Lunatic Dawn 1 (1993)(Artdink)(Disk 3 of 3)(Disk C)[Req Install].hdm
+:	:	Lunatic Dawn 2 (1994)(Artdink)(Disk 1 of 4)[Req Install].hdm
+:	:	Lunatic Dawn 2 (1994)(Artdink)(Disk 2 of 4)[Req Install].hdm
+:	:	Lunatic Dawn 2 (1994)(Artdink)(Disk 3 of 4)[Req Install].hdm
+:	:	Lunatic Dawn 2 (1994)(Artdink)(Disk 4 of 4)[Req Install].hdm
+:	:	Mahjong Kyo Jidai Special 2 (19xx)(Micronet)(Disk 1 of 2)(Disk A).hdm
+:	:	Mahjong Kyo Jidai Special 2 (19xx)(Micronet)(Disk 2 of 2)(Disk B).hdm
+:	:	Mel Mel (1996)(Queen Soft)(Disk 1 of 4)(System Disk)[Req Install].hdm
+:	:	Mel Mel (1996)(Queen Soft)(Disk 2 of 4)(Data 1)[Req Install].hdm
+:	:	Mel Mel (1996)(Queen Soft)(Disk 3 of 4)(Data 2)[Req Install].hdm
+:	:	Mel Mel (1996)(Queen Soft)(Disk 4 of 4)(Data 3)[Req Install].hdm
+:	:	Memories Refrain (1996)(Petit)(Disk 1 of 6)(Disk A)[Req Install].hdm
+:	:	Memories Refrain (1996)(Petit)(Disk 2 of 6)(Disk B)[Req Install].hdm
+:	:	Memories Refrain (1996)(Petit)(Disk 3 of 6)(Disk C)[Req Install].hdm
+:	:	Memories Refrain (1996)(Petit)(Disk 4 of 6)(Disk D)[Req Install].hdm
+:	:	Memories Refrain (1996)(Petit)(Disk 5 of 6)(Disk E)[Req Install].hdm
+:	:	Memories Refrain (1996)(Petit)(Disk 6 of 6)(Disk F)[Req Install].hdm
+:	:	Merry Go Round (1996)(Mischief)(Disk 1 of 5)(Disk A)[Req Install].HDM
+:	:	Merry Go Round (1996)(Mischief)(Disk 2 of 5)(Disk B)[Req Install].HDM
+:	:	Merry Go Round (1996)(Mischief)(Disk 3 of 5)(Disk C)[Req Install].HDM
+:	:	Merry Go Round (1996)(Mischief)(Disk 4 of 5)(Disk D)[Req Install].HDM
+:	:	Merry Go Round (1996)(Mischief)(Disk 5 of 5)(Disk E)[Req Install].HDM
+:	:	Mesunko Hishiyoshitsu (1995)(Melody)(Disk 1 of 5)[Req Install].hdm
+:	:	Mesunko Hishiyoshitsu (1995)(Melody)(Disk 2 of 5)[Req Install].hdm
+:	:	Mesunko Hishiyoshitsu (1995)(Melody)(Disk 3 of 5)[Req Install].hdm
+:	:	Mesunko Hishiyoshitsu (1995)(Melody)(Disk 4 of 5)[Req Install].hdm
+:	:	Mesunko Hishiyoshitsu (1995)(Melody)(Disk 5 of 5)[Req Install].hdm
+:	:	Metal Orange (1991)(Custom)(Disk 1 of 2)(Disk A).hdm
+:	:	Metal Orange (1991)(Custom)(Disk 2 of 2)(Disk B).hdm
+:	:	Minimum Gainarock (19xx)(Silence).hdm
+:	:	Mokkoriman RPG (1994)(Illusion)(Disk 1 of 8)(Disk A)[Req Install].hdm
+:	:	Mokkoriman RPG (1994)(Illusion)(Disk 2 of 8)(Disk B)[Req Install].hdm
+:	:	Mokkoriman RPG (1994)(Illusion)(Disk 3 of 8)(Disk C)[Req Install].hdm
+:	:	Mokkoriman RPG (1994)(Illusion)(Disk 4 of 8)(Disk D)[Req Install].hdm
+:	:	Mokkoriman RPG (1994)(Illusion)(Disk 5 of 8)(Disk E)[Req Install].hdm
+:	:	Mokkoriman RPG (1994)(Illusion)(Disk 6 of 8)(Disk F)[Req Install].hdm
+:	:	Mokkoriman RPG (1994)(Illusion)(Disk 7 of 8)(Disk G)[Req Install].hdm
+:	:	Mokkoriman RPG (1994)(Illusion)(Disk 8 of 8)(Disk H)[Req Install].hdm
+:	:	Momocochan (19xx)(-)(Disk 01 of 10)(Disk A).hdm
+:	:	Momocochan (19xx)(-)(Disk 02 of 10)(Disk B).hdm
+:	:	Momocochan (19xx)(-)(Disk 03 of 10)(Disk C).hdm
+:	:	Momocochan (19xx)(-)(Disk 04 of 10)(Disk D).hdm
+:	:	Momocochan (19xx)(-)(Disk 05 of 10)(Disk E).hdm
+:	:	Momocochan (19xx)(-)(Disk 06 of 10)(Disk F).hdm
+:	:	Momocochan (19xx)(-)(Disk 07 of 10)(Disk G).hdm
+:	:	Momocochan (19xx)(-)(Disk 08 of 10)(Disk H).hdm
+:	:	Momocochan (19xx)(-)(Disk 09 of 10)(Disk I).hdm
+:	:	Momocochan (19xx)(-)(Disk 10 of 10)(Disk J).hdm
+:	:	Mujintou Monogatari (1994)(KSS)(Disk 1 of 6)(Disk A).hdm
+:	:	Mujintou Monogatari (1994)(KSS)(Disk 2 of 6)(Disk B).hdm
+:	:	Mujintou Monogatari (1994)(KSS)(Disk 3 of 6)(Disk C).hdm
+:	:	Mujintou Monogatari (1994)(KSS)(Disk 4 of 6)(Disk D).hdm
+:	:	Mujintou Monogatari (1994)(KSS)(Disk 5 of 6)(Disk E).hdm
+:	:	Mujintou Monogatari (1994)(KSS)(Disk 6 of 6)(Installation Disk).hdm
+:	:	Nanba Kosuke (1995)(Altacia)(Disk 1 of 5)(Disk A)[Req Install].hdm
+:	:	Nanba Kosuke (1995)(Altacia)(Disk 2 of 5)(Disk B)[Req Install].hdm
+:	:	Nanba Kosuke (1995)(Altacia)(Disk 3 of 5)(Disk C)[Req Install].hdm
+:	:	Nanba Kosuke (1995)(Altacia)(Disk 4 of 5)(Disk D)[Req Install].hdm
+:	:	Nanba Kosuke (1995)(Altacia)(Disk 5 of 5)(Disk E)[Req Install].hdm
+:	:	Ningiyushi no Isan (19xx)(Desire)(Disk 1 of 3)(Disk A)[Req Install].hdm
+:	:	Ningiyushi no Isan (19xx)(Desire)(Disk 2 of 3)(Disk B)[Req Install].hdm
+:	:	Ningiyushi no Isan (19xx)(Desire)(Disk 3 of 3)(Disk C)[Req Install].hdm
+:	:	Oedo Renaissance (19xx)(Neo-Geten)(Disk 1 of 4)(Disk A).hdm
+:	:	Oedo Renaissance (19xx)(Neo-Geten)(Disk 2 of 4)(Disk B).hdm
+:	:	Oedo Renaissance (19xx)(Neo-Geten)(Disk 3 of 4)(Disk C).hdm
+:	:	Oedo Renaissance (19xx)(Neo-Geten)(Disk 4 of 4)(Disk D).hdm
+:	:	Pia Carrot he Youkoso!! - We've been waiting for you (1996)(Cocktail Soft)(Disk 1 of 7)(Disk A)[Req Install].hdm
+:	:	Pia Carrot he Youkoso!! - We've been waiting for you (1996)(Cocktail Soft)(Disk 2 of 7)(Disk B)[Req Install].hdm
+:	:	Pia Carrot he Youkoso!! - We've been waiting for you (1996)(Cocktail Soft)(Disk 3 of 7)(Disk C)[Req Install].hdm
+:	:	Pia Carrot he Youkoso!! - We've been waiting for you (1996)(Cocktail Soft)(Disk 4 of 7)(Disk D)[Req Install].hdm
+:	:	Pia Carrot he Youkoso!! - We've been waiting for you (1996)(Cocktail Soft)(Disk 5 of 7)(Disk E)[Req Install].hdm
+:	:	Pia Carrot he Youkoso!! - We've been waiting for you (1996)(Cocktail Soft)(Disk 6 of 7)(Disk F)[Req Install].hdm
+:	:	Pia Carrot he Youkoso!! - We've been waiting for you (1996)(Cocktail Soft)(Disk 7 of 7)(Disk G)[Req Install].hdm
+:	:	Pick Up Mahjong Master (1994)(Arex)(Disk 1 of 3)[Req Install].hdm
+:	:	Pick Up Mahjong Master (1994)(Arex)(Disk 2 of 3)[Req Install].hdm
+:	:	Pick Up Mahjong Master (1994)(Arex)(Disk 3 of 3)[Req Install].hdm
+:	:	Queen Soft Library (1993)(Queen Soft)(Disk 1 of 4)[Req Install].hdm
+:	:	Queen Soft Library (1993)(Queen Soft)(Disk 2 of 4)[Req Install].hdm
+:	:	Queen Soft Library (1993)(Queen Soft)(Disk 3 of 4)[Req Install].hdm
+:	:	Queen Soft Library (1993)(Queen Soft)(Disk 4 of 4)[Req Install].hdm
+:	:	Rance 4 (demo) (19xx)(Alice Soft).hdm
+:	:	Revival Xanadu (1995)(Falcom)(Disk 1 of 3)(Disk A).hdm
+:	:	Revival Xanadu (1995)(Falcom)(Disk 2 of 3)(Disk B).hdm
+:	:	Revival Xanadu (1995)(Falcom)(Disk 3 of 3)(Disk C).hdm
+:	:	Revival Xanadu 2 (1995)(Falcom)(Disk 1 of 3)(Disk A).hdm
+:	:	Revival Xanadu 2 (1995)(Falcom)(Disk 2 of 3)(Disk B).hdm
+:	:	Revival Xanadu 2 (1995)(Falcom)(Disk 3 of 3)(Disk C).hdm
+:	:	Rhyme Star (19xx)(Star Craft)(Disk 1 of 3)[Req Install].hdm
+:	:	Rhyme Star (19xx)(Star Craft)(Disk 2 of 3)[Req Install].hdm
+:	:	Rhyme Star (19xx)(Star Craft)(Disk 3 of 3)[Req Install].hdm
+:	:	SA 3 (1995)(Tanaka Brothers)(Disk 1 of 2).hdm
+:	:	SA 3 (1995)(Tanaka Brothers)(Disk 2 of 2).hdm
+:	:	Sakura no Mori (1995)(Active Software)(Disk 1 of 3)(Disk A).hdm
+:	:	Sakura no Mori (1995)(Active Software)(Disk 2 of 3)(Disk B).hdm
+:	:	Sakura no Mori (1995)(Active Software)(Disk 3 of 3)(Disk C).hdm
+:	:	Sekaide Ichiban Kimiga Suki! (1990)(Cocktail Soft)(Disk 1 of 2)(Disk A).hdm
+:	:	Sekaide Ichiban Kimiga Suki! (1990)(Cocktail Soft)(Disk 2 of 2)(Disk B).hdm
+:	:	Star Platinum (1996)(Custom)(Disk 1 of 4)(Disk A).hdm
+:	:	Star Platinum (1996)(Custom)(Disk 2 of 4)(Disk B).hdm
+:	:	Star Platinum (1996)(Custom)(Disk 3 of 4)(Disk C).hdm
+:	:	Star Platinum (1996)(Custom)(Disk 4 of 4)(Disk D).hdm
+:	:	Star Trap (1996)(Fairy Dust)(Disk 01 of 10)(Disk A).hdm
+:	:	Star Trap (1996)(Fairy Dust)(Disk 02 of 10)(Disk B).hdm
+:	:	Star Trap (1996)(Fairy Dust)(Disk 03 of 10)(Disk C).hdm
+:	:	Star Trap (1996)(Fairy Dust)(Disk 04 of 10)(Disk D).hdm
+:	:	Star Trap (1996)(Fairy Dust)(Disk 05 of 10)(Disk E).hdm
+:	:	Star Trap (1996)(Fairy Dust)(Disk 06 of 10)(Disk F).hdm
+:	:	Star Trap (1996)(Fairy Dust)(Disk 07 of 10)(Disk G).hdm
+:	:	Star Trap (1996)(Fairy Dust)(Disk 08 of 10)(Disk H).hdm
+:	:	Star Trap (1996)(Fairy Dust)(Disk 09 of 10)(Disk I).hdm
+:	:	Star Trap (1996)(Fairy Dust)(Disk 10 of 10)(Disk J).hdm
+:	:	Strush (1991)(Orange House)(Disk 1 of 4)(Disk A).hdm
+:	:	Strush (1991)(Orange House)(Disk 2 of 4)(Disk B).hdm
+:	:	Strush (1991)(Orange House)(Disk 3 of 4)(Disk C).hdm
+:	:	Strush (1991)(Orange House)(Disk 4 of 4)(Disk D).hdm
+:	:	Suki! (1996)(Nikukyu)(Disk 1 of 7)(Disk A)[Req Install].hdm
+:	:	Suki! (1996)(Nikukyu)(Disk 2 of 7)(Disk B)[Req Install].hdm
+:	:	Suki! (1996)(Nikukyu)(Disk 3 of 7)(Disk C)[Req Install].hdm
+:	:	Suki! (1996)(Nikukyu)(Disk 4 of 7)(Disk D)[Req Install].hdm
+:	:	Suki! (1996)(Nikukyu)(Disk 5 of 7)(Disk E)[Req Install].hdm
+:	:	Suki! (1996)(Nikukyu)(Disk 6 of 7)(Disk F)[Req Install].hdm
+:	:	Suki! (1996)(Nikukyu)(Disk 7 of 7)(Disk G)[Req Install].hdm
+:	:	Sweet Angel (1992)(Active)(Disk 1 of 2)(Disk A).hdm
+:	:	Sweet Angel (1992)(Active)(Disk 2 of 2)(Disk B).hdm
+:	:	Sweet Emotion (1991)(Discovery)(Disk 1 of 3)(Disk A).hdm
+:	:	Sweet Emotion (1991)(Discovery)(Disk 2 of 3)(Disk B).hdm
+:	:	Sweet Emotion (1991)(Discovery)(Disk 3 of 3)(Disk C).hdm
+:	:	Time Stripper Makochan (19xx)(Foster)(Disk 1 of 2)(System Disk).hdm
+:	:	Time Stripper Makochan (19xx)(Foster)(Disk 2 of 2)(Data Disk).hdm
+:	:	Tuned Heart (19xx)(System Soft)(Disk 1 of 4)[Req Install].hdm
+:	:	Tuned Heart (19xx)(System Soft)(Disk 2 of 4)[Req Install].hdm
+:	:	Tuned Heart (19xx)(System Soft)(Disk 3 of 4)[Req Install].hdm
+:	:	Tuned Heart (19xx)(System Soft)(Disk 4 of 4)[Req Install].hdm
+:	:	Turn Over (1994)(Tear Drop)(Disk 1 of 3)(Disk A).hdm
+:	:	Turn Over (1994)(Tear Drop)(Disk 2 of 3)(Disk B).hdm
+:	:	Turn Over (1994)(Tear Drop)(Disk 3 of 3)(Disk C).hdm
+:	:	Ura Mansion Hakkin (1996)(Illusion)(Disk 1 of 5)(Disk A).hdm
+:	:	Ura Mansion Hakkin (1996)(Illusion)(Disk 2 of 5)(Disk B).hdm
+:	:	Ura Mansion Hakkin (1996)(Illusion)(Disk 3 of 5)(Disk C).hdm
+:	:	Ura Mansion Hakkin (1996)(Illusion)(Disk 4 of 5)(Disk D).hdm
+:	:	Ura Mansion Hakkin (1996)(Illusion)(Disk 5 of 5)(Disk E).hdm
+:	:	Usagi Panic 2 (19xx)(Softec)(Disk 1 of 4)(Disk A).hdm
+:	:	Usagi Panic 2 (19xx)(Softec)(Disk 2 of 4)(Disk B).hdm
+:	:	Usagi Panic 2 (19xx)(Softec)(Disk 3 of 4)(Disk C).hdm
+:	:	Usagi Panic 2 (19xx)(Softec)(Disk 4 of 4)(Disk D).hdm
+:	:	Ushinawareta Rakuen (19xx)(Silky's)(Disk 1 of 5)(Disk A).hdm
+:	:	Ushinawareta Rakuen (19xx)(Silky's)(Disk 2 of 5)(Disk B).hdm
+:	:	Ushinawareta Rakuen (19xx)(Silky's)(Disk 3 of 5)(Disk C).hdm
+:	:	Ushinawareta Rakuen (19xx)(Silky's)(Disk 4 of 5)(Disk D).hdm
+:	:	Ushinawareta Rakuen (19xx)(Silky's)(Disk 5 of 5)(Disk E).hdm
+:	:	Variable Geo 1 (demo) (19xx)(Giga).hdm
+:	:	Variable Geo 2 (demo) (19xx)(Giga).hdm
+:	:	Wasureenu Honou (19xx)(You-en-tai)(Disk 1 of 5)(Disk A)[Req Install].hdm
+:	:	Wasureenu Honou (19xx)(You-en-tai)(Disk 2 of 5)(Disk B)[Req Install].hdm
+:	:	Wasureenu Honou (19xx)(You-en-tai)(Disk 3 of 5)(Disk C)[Req Install].hdm
+:	:	Wasureenu Honou (19xx)(You-en-tai)(Disk 4 of 5)(Disk D)[Req Install].hdm
+:	:	Wasureenu Honou (19xx)(You-en-tai)(Disk 5 of 5)(Disk E)[Req Install].hdm
+:	:	Waver - The Seeker 2 (1996)(Tenshindo)(Disk 1 of 7)(Disk A)[Req Install].hdm
+:	:	Waver - The Seeker 2 (1996)(Tenshindo)(Disk 2 of 7)(Disk B)[Req Install].hdm
+:	:	Waver - The Seeker 2 (1996)(Tenshindo)(Disk 3 of 7)(Disk C)[Req Install].hdm
+:	:	Waver - The Seeker 2 (1996)(Tenshindo)(Disk 4 of 7)(Disk D)[Req Install].hdm
+:	:	Waver - The Seeker 2 (1996)(Tenshindo)(Disk 5 of 7)(Disk E)[Req Install].hdm
+:	:	Waver - The Seeker 2 (1996)(Tenshindo)(Disk 6 of 7)(Disk F)[Req Install].hdm
+:	:	Waver - The Seeker 2 (1996)(Tenshindo)(Disk 7 of 7)(Disk G)[Req Install].hdm
+:	:	Yume no Sei (19xx)(-)(Disk 1 of 3)[Req Install].hdm
+:	:	Yume no Sei (19xx)(-)(Disk 2 of 3)[Req Install].hdm
+:	:	Yume no Sei (19xx)(-)(Disk 3 of 3)[Req Install].hdm

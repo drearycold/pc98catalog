@@ -1,0 +1,1186 @@
+(ROM) NEC PC98xx - DCP-DCU 1180Games (TOSEC 0.24) (rr5%).rar
+918,386,726
+12238681903dd225752b0f3958353564ÅE0bc9cdf3321a26c02c91d183c3fbfc68c62bb876
+
+:	NEC PC98xx - DCP-DCUhave.txt
+:	NEC PC98xx - DCP-DCU
+:	:	2 Shot Diary 2 4-4 (1996)(Mink)(Disk 1 of 6)[Disk A][Req Install].dcp
+:	:	2 Shot Diary 2 4-4 (1996)(Mink)(Disk 2 of 6)[Disk B][Req Install].dcp
+:	:	2 Shot Diary 2 4-4 (1996)(Mink)(Disk 3 of 6)[Disk C][Req Install].dcp
+:	:	2 Shot Diary 2 4-4 (1996)(Mink)(Disk 4 of 6)[Disk D][Req Install].dcp
+:	:	2 Shot Diary 2 4-4 (1996)(Mink)(Disk 5 of 6)[Disk E][Req Install].dcp
+:	:	2 Shot Diary 2 4-4 (1996)(Mink)(Disk 6 of 6)[Disk F][Req Install].dcp
+:	:	Advanced Power Dolls 2 (1996)(Kogado)(Disk 1 of 9)[Req Install].dcp
+:	:	Advanced Power Dolls 2 (1996)(Kogado)(Disk 2 of 9)[Req Install].dcp
+:	:	Advanced Power Dolls 2 (1996)(Kogado)(Disk 3 of 9)[Req Install].dcp
+:	:	Advanced Power Dolls 2 (1996)(Kogado)(Disk 4 of 9)[Req Install].dcp
+:	:	Advanced Power Dolls 2 (1996)(Kogado)(Disk 5 of 9)[Req Install].dcp
+:	:	Advanced Power Dolls 2 (1996)(Kogado)(Disk 6 of 9)[Req Install].dcp
+:	:	Advanced Power Dolls 2 (1996)(Kogado)(Disk 7 of 9)[Req Install].dcp
+:	:	Advanced Power Dolls 2 (1996)(Kogado)(Disk 8 of 9)[Req Install].dcp
+:	:	Advanced Power Dolls 2 (1996)(Kogado)(Disk 9 of 9)[Req Install].dcp
+:	:	Ah! An (1993)(Wendy Magazine)(Disk 1 of 2)[Disk A].dcp
+:	:	Ah! An (1993)(Wendy Magazine)(Disk 2 of 2)[Disk B].dcp
+:	:	Ai Shimai - Futari no Kazitsu (1994)(Silky's)(Disk 1 of 4)[Disk A].dcp
+:	:	Ai Shimai - Futari no Kazitsu (1994)(Silky's)(Disk 2 of 4)[Disk B].dcp
+:	:	Ai Shimai - Futari no Kazitsu (1994)(Silky's)(Disk 3 of 4)[Disk C].dcp
+:	:	Ai Shimai - Futari no Kazitsu (1994)(Silky's)(Disk 4 of 4)[Disk D].dcp
+:	:	Akumu - Aoi Kajitsu no Sanka (1996)(Studio Mobius)(Disk 1 of 6)[Disk A].dcp
+:	:	Akumu - Aoi Kajitsu no Sanka (1996)(Studio Mobius)(Disk 2 of 6)[Disk B].dcp
+:	:	Akumu - Aoi Kajitsu no Sanka (1996)(Studio Mobius)(Disk 3 of 6)[Disk C].dcp
+:	:	Akumu - Aoi Kajitsu no Sanka (1996)(Studio Mobius)(Disk 4 of 6)[Disk D].dcp
+:	:	Akumu - Aoi Kajitsu no Sanka (1996)(Studio Mobius)(Disk 5 of 6)[Disk E].dcp
+:	:	Akumu - Aoi Kajitsu no Sanka (1996)(Studio Mobius)(Disk 6 of 6)[Disk F].dcp
+:	:	Alaskan Malamute G.C. (1992)(Home Data)(Disk 1 of 2)(System Disk).dcp
+:	:	Alaskan Malamute G.C. (1992)(Home Data)(Disk 2 of 2)(Data Disk).dcp
+:	:	Alice no Yakata 3 (1995)(Alice Soft)(Disk 1 of 6)[Disk A][Req Install].dcp
+:	:	Alice no Yakata 3 (1995)(Alice Soft)(Disk 2 of 6)[Disk B][Req Install].dcp
+:	:	Alice no Yakata 3 (1995)(Alice Soft)(Disk 3 of 6)[Disk C][Req Install].dcp
+:	:	Alice no Yakata 3 (1995)(Alice Soft)(Disk 4 of 6)[Disk D][Req Install].dcp
+:	:	Alice no Yakata 3 (1995)(Alice Soft)(Disk 5 of 6)[Disk E][Req Install].dcp
+:	:	Alice no Yakata 3 (1995)(Alice Soft)(Disk 6 of 6)[Disk F][Req Install].dcp
+:	:	Alone in the Dark (1993)(Arrow Micro-Techs)(Disk 1 of 4)[Req Install].dcu
+:	:	Alone in the Dark (1993)(Arrow Micro-Techs)(Disk 2 of 4)[Req Install].dcu
+:	:	Alone in the Dark (1993)(Arrow Micro-Techs)(Disk 3 of 4)[Req Install].dcu
+:	:	Alone in the Dark (1993)(Arrow Micro-Techs)(Disk 4 of 4)[Req Install].dcu
+:	:	Amaranth (1991)(Fuga)(Disk 1 of 3)[Disk A].dcp
+:	:	Amaranth (1991)(Fuga)(Disk 2 of 3)[Disk B].dcp
+:	:	Amaranth (1991)(Fuga)(Disk 3 of 3)[Disk C].dcp
+:	:	Amaranth III (1994)(Fuga)(Disk 1 of 5)(System Disk).dcp
+:	:	Amaranth III (1994)(Fuga)(Disk 2 of 5)[Disk A].dcp
+:	:	Amaranth III (1994)(Fuga)(Disk 3 of 5)[Disk B].dcp
+:	:	Amaranth III (1994)(Fuga)(Disk 4 of 5)[Disk C].dcp
+:	:	Amaranth III (1994)(Fuga)(Disk 5 of 5)[Disk D].dcp
+:	:	Amaranth IV (1995)(Fuga System)(Disk 1 of 7)(System Disk)[Req Install].dcu
+:	:	Amaranth IV (1995)(Fuga System)(Disk 2 of 7)[Disk A][Req Install].dcu
+:	:	Amaranth IV (1995)(Fuga System)(Disk 3 of 7)[Disk B][Req Install].dcu
+:	:	Amaranth IV (1995)(Fuga System)(Disk 4 of 7)[Disk C][Req Install].dcu
+:	:	Amaranth IV (1995)(Fuga System)(Disk 5 of 7)[Disk D][Req Install].dcu
+:	:	Amaranth IV (1995)(Fuga System)(Disk 6 of 7)[Disk E][Req Install].dcu
+:	:	Amaranth IV (1995)(Fuga System)(Disk 7 of 7)[Disk F][Req Install].dcu
+:	:	Amaranth KH (1995)(Fuga)(Disk 1 of 5)(System Disk).dcp
+:	:	Amaranth KH (1995)(Fuga)(Disk 2 of 5)(Data A).dcp
+:	:	Amaranth KH (1995)(Fuga)(Disk 3 of 5)(Data B).dcp
+:	:	Amaranth KH (1995)(Fuga)(Disk 4 of 5)(Data C).dcp
+:	:	Amaranth KH (1995)(Fuga)(Disk 5 of 5)(Data D).dcp
+:	:	Ambivalenz (1994)(Alice Soft)(Disk 1 of 7)[Disk A].dcp
+:	:	Ambivalenz (1994)(Alice Soft)(Disk 2 of 7)[Disk B].dcp
+:	:	Ambivalenz (1994)(Alice Soft)(Disk 3 of 7)[Disk C].dcp
+:	:	Ambivalenz (1994)(Alice Soft)(Disk 4 of 7)[Disk D].dcp
+:	:	Ambivalenz (1994)(Alice Soft)(Disk 5 of 7)[Disk E].dcp
+:	:	Ambivalenz (1994)(Alice Soft)(Disk 6 of 7)[Disk F].dcp
+:	:	Ambivalenz (1994)(Alice Soft)(Disk 7 of 7)[Disk G].dcp
+:	:	Angel (1993)(Cocktail Soft)(Disk 1 of 4)[Disk A].dcp
+:	:	Angel (1993)(Cocktail Soft)(Disk 2 of 4)[Disk B].dcp
+:	:	Angel (1993)(Cocktail Soft)(Disk 3 of 4)[Disk C].dcp
+:	:	Angel (1993)(Cocktail Soft)(Disk 4 of 4)[Disk D].dcp
+:	:	Angel Night - Yamiyowo Kakeru Tenshitachi no Monogatari (1996)(4x9)(Disk 1 of 6)[Disk A][Req Install].dcp
+:	:	Angel Night - Yamiyowo Kakeru Tenshitachi no Monogatari (1996)(4x9)(Disk 2 of 6)[Disk B][Req Install].dcp
+:	:	Angel Night - Yamiyowo Kakeru Tenshitachi no Monogatari (1996)(4x9)(Disk 3 of 6)[Disk C][Req Install].dcp
+:	:	Angel Night - Yamiyowo Kakeru Tenshitachi no Monogatari (1996)(4x9)(Disk 4 of 6)[Disk D][Req Install].dcp
+:	:	Angel Night - Yamiyowo Kakeru Tenshitachi no Monogatari (1996)(4x9)(Disk 5 of 6)[Disk E][Req Install].dcp
+:	:	Angel Night - Yamiyowo Kakeru Tenshitachi no Monogatari (1996)(4x9)(Disk 6 of 6)[Disk F][Req Install].dcp
+:	:	Angelus (19xx)(Enix)(Disk 1 of 2).dcp
+:	:	Angelus (19xx)(Enix)(Disk 2 of 2).dcp
+:	:	Anime Mahjong X (1994)(Sogna)(Disk 01 of 14)(System Disk).dcu
+:	:	Anime Mahjong X (1994)(Sogna)(Disk 02 of 14)(Disk 01).dcu
+:	:	Anime Mahjong X (1994)(Sogna)(Disk 03 of 14)(Disk 02).dcu
+:	:	Anime Mahjong X (1994)(Sogna)(Disk 04 of 14)(Disk 03).dcu
+:	:	Anime Mahjong X (1994)(Sogna)(Disk 05 of 14)(Disk 04).dcu
+:	:	Anime Mahjong X (1994)(Sogna)(Disk 06 of 14)(Disk 05).dcu
+:	:	Anime Mahjong X (1994)(Sogna)(Disk 07 of 14)(Disk 06).dcu
+:	:	Anime Mahjong X (1994)(Sogna)(Disk 08 of 14)(Disk 07).dcu
+:	:	Anime Mahjong X (1994)(Sogna)(Disk 09 of 14)(Disk 08).dcu
+:	:	Anime Mahjong X (1994)(Sogna)(Disk 10 of 14)(Disk 09).dcu
+:	:	Anime Mahjong X (1994)(Sogna)(Disk 11 of 14)(Disk 10).dcu
+:	:	Anime Mahjong X (1994)(Sogna)(Disk 12 of 14)(Disk 11).dcu
+:	:	Anime Mahjong X (1994)(Sogna)(Disk 13 of 14)(Disk 12).dcu
+:	:	Anime Mahjong X (1994)(Sogna)(Disk 14 of 14)(Disk 13).dcu
+:	:	Ankoku Sennen Oukoku (1993)(Katty)(Disk 1 of 3)[Disk A][Req Install].dcp
+:	:	Ankoku Sennen Oukoku (1993)(Katty)(Disk 2 of 3)[Disk B][Req Install].dcp
+:	:	Ankoku Sennen Oukoku (1993)(Katty)(Disk 3 of 3)[Disk C][Req Install].dcp
+:	:	Anniversary - Natsuyasumi no Omoide (1993)(Janis)(Disk 1 of 6)[Disk A].dcu
+:	:	Anniversary - Natsuyasumi no Omoide (1993)(Janis)(Disk 2 of 6)[Disk B].dcu
+:	:	Anniversary - Natsuyasumi no Omoide (1993)(Janis)(Disk 3 of 6)[Disk C].dcu
+:	:	Anniversary - Natsuyasumi no Omoide (1993)(Janis)(Disk 4 of 6)[Disk D].dcu
+:	:	Anniversary - Natsuyasumi no Omoide (1993)(Janis)(Disk 5 of 6)[Disk E].dcu
+:	:	Anniversary - Natsuyasumi no Omoide (1993)(Janis)(Disk 6 of 6)[Disk F].dcu
+:	:	Aokiookami to Shirokimezika Genchohishi (19xx)(Koei)(Disk 1 of 3)[Disk A].dcp
+:	:	Aokiookami to Shirokimezika Genchohishi (19xx)(Koei)(Disk 2 of 3)[Disk B].dcp
+:	:	Aokiookami to Shirokimezika Genchohishi (19xx)(Koei)(Disk 3 of 3)[Disk C].dcp
+:	:	Arabesque! (19xx)(Fairy Tale)(Disk 1 of 6)[Disk A].dcp
+:	:	Arabesque! (19xx)(Fairy Tale)(Disk 2 of 6)[Disk B].dcp
+:	:	Arabesque! (19xx)(Fairy Tale)(Disk 3 of 6)[Disk C].dcp
+:	:	Arabesque! (19xx)(Fairy Tale)(Disk 4 of 6)[Disk D].dcp
+:	:	Arabesque! (19xx)(Fairy Tale)(Disk 5 of 6)[Disk E].dcp
+:	:	Arabesque! (19xx)(Fairy Tale)(Disk 6 of 6)[Disk F].dcp
+:	:	Armist (1991)(Basement)(Disk 1 of 5).dcp
+:	:	Armist (1991)(Basement)(Disk 2 of 5).dcp
+:	:	Armist (1991)(Basement)(Disk 3 of 5).dcp
+:	:	Armist (1991)(Basement)(Disk 4 of 5).dcp
+:	:	Armist (1991)(Basement)(Disk 5 of 5).dcp
+:	:	Arquelphos (1993)(D.O.)(Disk 1 of 5)[Disk A].dcp
+:	:	Arquelphos (1993)(D.O.)(Disk 2 of 5)[Disk B].dcp
+:	:	Arquelphos (1993)(D.O.)(Disk 3 of 5)[Disk C].dcp
+:	:	Arquelphos (1993)(D.O.)(Disk 4 of 5)[Disk D].dcp
+:	:	Arquelphos (1993)(D.O.)(Disk 5 of 5)[Disk E].dcp
+:	:	Balance of Power (1985)(ASCII)(Disk 1 of 2).dcp
+:	:	Balance of Power (1985)(ASCII)(Disk 2 of 2).dcp
+:	:	Battle Queen - Saikiyoo Fighters Retuden (1996)(Space Project)(Disk 1 of 6)[Disk A][Req Install].dcp
+:	:	Battle Queen - Saikiyoo Fighters Retuden (1996)(Space Project)(Disk 2 of 6)[Disk B][Req Install].dcp
+:	:	Battle Queen - Saikiyoo Fighters Retuden (1996)(Space Project)(Disk 3 of 6)[Disk C][Req Install].dcp
+:	:	Battle Queen - Saikiyoo Fighters Retuden (1996)(Space Project)(Disk 4 of 6)[Disk D][Req Install].dcp
+:	:	Battle Queen - Saikiyoo Fighters Retuden (1996)(Space Project)(Disk 5 of 6)[Disk E][Req Install].dcp
+:	:	Battle Queen - Saikiyoo Fighters Retuden (1996)(Space Project)(Disk 6 of 6)[Disk F][Req Install].dcp
+:	:	Beast Breeders (1996)(Petit)(Disk 1 of 5)[Disk A][Req Install].dcp
+:	:	Beast Breeders (1996)(Petit)(Disk 2 of 5)[Disk B][Req Install].dcp
+:	:	Beast Breeders (1996)(Petit)(Disk 3 of 5)[Disk C][Req Install].dcp
+:	:	Beast Breeders (1996)(Petit)(Disk 4 of 5)[Disk D][Req Install].dcp
+:	:	Beast Breeders (1996)(Petit)(Disk 5 of 5)[Disk E][Req Install].dcp
+:	:	Blood Seed (1991)(Greap)(Disk 1 of 3)[Disk A].dcp
+:	:	Blood Seed (1991)(Greap)(Disk 2 of 3)[Disk B].dcp
+:	:	Blood Seed (1991)(Greap)(Disk 3 of 3)[Disk C].dcp
+:	:	Blue Garnet (1994)(Trush)(Disk 1 of 4)[Disk A][Req Install].dcp
+:	:	Blue Garnet (1994)(Trush)(Disk 2 of 4)[Disk B][Req Install].dcp
+:	:	Blue Garnet (1994)(Trush)(Disk 3 of 4)[Disk C][Req Install].dcp
+:	:	Blue Garnet (1994)(Trush)(Disk 4 of 4)[Disk D][Req Install].dcp
+:	:	Bomber Quest (1994)(Mink)(Disk 1 of 8).dcp
+:	:	Bomber Quest (1994)(Mink)(Disk 2 of 8).dcp
+:	:	Bomber Quest (1994)(Mink)(Disk 3 of 8).dcp
+:	:	Bomber Quest (1994)(Mink)(Disk 4 of 8).dcp
+:	:	Bomber Quest (1994)(Mink)(Disk 5 of 8).dcp
+:	:	Bomber Quest (1994)(Mink)(Disk 6 of 8).dcp
+:	:	Bomber Quest (1994)(Mink)(Disk 7 of 8).dcp
+:	:	Bomber Quest (1994)(Mink)(Disk 8 of 8).dcp
+:	:	Bunkasai (1996)(Ucom)(Disk 1 of 4)[Disk A].dcp
+:	:	Bunkasai (1996)(Ucom)(Disk 2 of 4)[Disk B].dcp
+:	:	Bunkasai (1996)(Ucom)(Disk 3 of 4)[Disk C].dcp
+:	:	Bunkasai (1996)(Ucom)(Disk 4 of 4)[Disk D].dcp
+:	:	Bunretsu Shiyugo Shin Twinkle Star (1993)(Studio Twinkle)(Disk 1 of 5)[Disk A].dcp
+:	:	Bunretsu Shiyugo Shin Twinkle Star (1993)(Studio Twinkle)(Disk 2 of 5)[Disk B].dcp
+:	:	Bunretsu Shiyugo Shin Twinkle Star (1993)(Studio Twinkle)(Disk 3 of 5)[Disk C].dcp
+:	:	Bunretsu Shiyugo Shin Twinkle Star (1993)(Studio Twinkle)(Disk 4 of 5)[Disk D].dcp
+:	:	Bunretsu Shiyugo Shin Twinkle Star (1993)(Studio Twinkle)(Disk 5 of 5)[Disk E].dcp
+:	:	CRW 2 (19xx)(Wiz)(Disk 1 of 5)(System Disk).dcu
+:	:	CRW 2 (19xx)(Wiz)(Disk 2 of 5)(Demo Disk).dcu
+:	:	CRW 2 (19xx)(Wiz)(Disk 3 of 5)(Data 1).dcu
+:	:	CRW 2 (19xx)(Wiz)(Disk 4 of 5)(Data 2).dcu
+:	:	CRW 2 (19xx)(Wiz)(Disk 5 of 5)(Data 3).dcu
+:	:	Can Can Bunny 5 Extra (1993)(Cocktail Soft)(Disk 1 of 8)[Disk A].dcu
+:	:	Can Can Bunny 5 Extra (1993)(Cocktail Soft)(Disk 2 of 8)[Disk B].dcu
+:	:	Can Can Bunny 5 Extra (1993)(Cocktail Soft)(Disk 3 of 8)[Disk C].dcu
+:	:	Can Can Bunny 5 Extra (1993)(Cocktail Soft)(Disk 4 of 8)[Disk D].dcu
+:	:	Can Can Bunny 5 Extra (1993)(Cocktail Soft)(Disk 5 of 8)[Disk E].dcu
+:	:	Can Can Bunny 5 Extra (1993)(Cocktail Soft)(Disk 6 of 8)[Disk F].dcu
+:	:	Can Can Bunny 5 Extra (1993)(Cocktail Soft)(Disk 7 of 8)[Disk G].dcu
+:	:	Can Can Bunny 5 Extra (1993)(Cocktail Soft)(Disk 8 of 8)[Disk H].dcu
+:	:	Can Can Bunny 5 and half Limited (1994)(Cocktail Soft)(Disk 1 of 2)[Disk A].dcp
+:	:	Can Can Bunny 5 and half Limited (1994)(Cocktail Soft)(Disk 2 of 2)[Disk B].dcp
+:	:	Carat (1992)(Custom)(Disk 1 of 2)[Disk A][Req Install].dcp
+:	:	Carat (1992)(Custom)(Disk 2 of 2)[Disk B][Req Install].dcp
+:	:	Cats part 1 (1993)(Cat's Pro.)(Disk 1 of 3)[Disk A].dcp
+:	:	Cats part 1 (1993)(Cat's Pro.)(Disk 2 of 3)[Disk B].dcp
+:	:	Cats part 1 (1993)(Cat's Pro.)(Disk 3 of 3)[Disk C].dcp
+:	:	Cherry Bomb (1994)(Pepper-Mint Kids)(Disk 1 of 4)[Disk A].dcp
+:	:	Cherry Bomb (1994)(Pepper-Mint Kids)(Disk 2 of 4)[Disk B].dcp
+:	:	Cherry Bomb (1994)(Pepper-Mint Kids)(Disk 3 of 4)[Disk C].dcp
+:	:	Cherry Bomb (1994)(Pepper-Mint Kids)(Disk 4 of 4)[Disk D].dcp
+:	:	Chookooso Crisis (1994)(Altacia)(Disk 1 of 5).dcp
+:	:	Chookooso Crisis (1994)(Altacia)(Disk 2 of 5).dcp
+:	:	Chookooso Crisis (1994)(Altacia)(Disk 3 of 5).dcp
+:	:	Chookooso Crisis (1994)(Altacia)(Disk 4 of 5).dcp
+:	:	Chookooso Crisis (1994)(Altacia)(Disk 5 of 5).dcp
+:	:	Collecter D (1993)(D.O.)(Disk 1 of 5)(System Disk).dcp
+:	:	Collecter D (1993)(D.O.)(Disk 2 of 5).dcp
+:	:	Collecter D (1993)(D.O.)(Disk 3 of 5).dcp
+:	:	Collecter D (1993)(D.O.)(Disk 4 of 5).dcp
+:	:	Collecter D (1993)(D.O.)(Disk 5 of 5).dcp
+:	:	Continental (1992)(Game Tecnopolis)(Disk 1 of 4)[Disk A].dcp
+:	:	Continental (1992)(Game Tecnopolis)(Disk 2 of 4)[Disk B].dcp
+:	:	Continental (1992)(Game Tecnopolis)(Disk 3 of 4)[Disk C].dcp
+:	:	Continental (1992)(Game Tecnopolis)(Disk 4 of 4)[Disk D].dcp
+:	:	Crystal Rinal (1994)(D.O.)(Disk 01 of 12)[Disk A].dcp
+:	:	Crystal Rinal (1994)(D.O.)(Disk 02 of 12)[Disk B].dcp
+:	:	Crystal Rinal (1994)(D.O.)(Disk 03 of 12)[Disk C].dcp
+:	:	Crystal Rinal (1994)(D.O.)(Disk 04 of 12)[Disk D].dcp
+:	:	Crystal Rinal (1994)(D.O.)(Disk 05 of 12)[Disk E].dcp
+:	:	Crystal Rinal (1994)(D.O.)(Disk 06 of 12)[Disk F].dcp
+:	:	Crystal Rinal (1994)(D.O.)(Disk 07 of 12)[Disk G].dcp
+:	:	Crystal Rinal (1994)(D.O.)(Disk 08 of 12)[Disk H].dcp
+:	:	Crystal Rinal (1994)(D.O.)(Disk 09 of 12)[Disk I].dcp
+:	:	Crystal Rinal (1994)(D.O.)(Disk 10 of 12)[Disk J].dcp
+:	:	Crystal Rinal (1994)(D.O.)(Disk 11 of 12)[Disk K].dcp
+:	:	Crystal Rinal (1994)(D.O.)(Disk 12 of 12)[Disk L].dcp
+:	:	Custom Mate 1 (1993)(Cocktail Soft)(Disk 1 of 5)[Disk A].dcp
+:	:	Custom Mate 1 (1993)(Cocktail Soft)(Disk 2 of 5)[Disk B].dcp
+:	:	Custom Mate 1 (1993)(Cocktail Soft)(Disk 3 of 5)[Disk C].dcp
+:	:	Custom Mate 1 (1993)(Cocktail Soft)(Disk 4 of 5)[Disk D].dcp
+:	:	Custom Mate 1 (1993)(Cocktail Soft)(Disk 5 of 5)[Disk E].dcp
+:	:	Custom Mate 2 (1994)(Cocktail Soft)(Disk 1 of 8)[Disk A].dcp
+:	:	Custom Mate 2 (1994)(Cocktail Soft)(Disk 2 of 8)[Disk B].dcp
+:	:	Custom Mate 2 (1994)(Cocktail Soft)(Disk 3 of 8)[Disk C].dcp
+:	:	Custom Mate 2 (1994)(Cocktail Soft)(Disk 4 of 8)[Disk D].dcp
+:	:	Custom Mate 2 (1994)(Cocktail Soft)(Disk 5 of 8)[Disk E].dcp
+:	:	Custom Mate 2 (1994)(Cocktail Soft)(Disk 6 of 8)[Disk F].dcp
+:	:	Custom Mate 2 (1994)(Cocktail Soft)(Disk 7 of 8)[Disk G].dcp
+:	:	Custom Mate 2 (1994)(Cocktail Soft)(Disk 8 of 8)[Disk H].dcp
+:	:	DS98 #10 (1992)(Compile)(Disk 1 of 3).dcp
+:	:	DS98 #10 (1992)(Compile)(Disk 2 of 3).dcp
+:	:	DS98 #10 (1992)(Compile)(Disk 3 of 3).dcp
+:	:	DS98 #11 (1992)(Compile)(Disk 1 of 3).dcp
+:	:	DS98 #11 (1992)(Compile)(Disk 2 of 3).dcp
+:	:	DS98 #11 (1992)(Compile)(Disk 3 of 3).dcp
+:	:	DS98 #12 (1992)(Compile)(Disk 1 of 3).dcp
+:	:	DS98 #12 (1992)(Compile)(Disk 2 of 3).dcp
+:	:	DS98 #12 (1992)(Compile)(Disk 3 of 3).dcp
+:	:	DS98 #13 (1992)(Compile)(Disk 1 of 3).dcp
+:	:	DS98 #13 (1992)(Compile)(Disk 2 of 3).dcp
+:	:	DS98 #13 (1992)(Compile)(Disk 3 of 3).dcp
+:	:	DS98 #14 (1992)(Compile)(Disk 1 of 3).dcp
+:	:	DS98 #14 (1992)(Compile)(Disk 2 of 3).dcp
+:	:	DS98 #14 (1992)(Compile)(Disk 3 of 3).dcp
+:	:	DS98 #15 (1992)(Compile)(Disk 1 of 3).dcp
+:	:	DS98 #15 (1992)(Compile)(Disk 2 of 3).dcp
+:	:	DS98 #15 (1992)(Compile)(Disk 3 of 3).dcp
+:	:	DS98 #16 (1992)(Compile)(Disk 1 of 3).dcp
+:	:	DS98 #16 (1992)(Compile)(Disk 2 of 3).dcp
+:	:	DS98 #16 (1992)(Compile)(Disk 3 of 3).dcp
+:	:	DS98 #17 (1992)(Compile)(Disk 1 of 3).dcp
+:	:	DS98 #17 (1992)(Compile)(Disk 2 of 3).dcp
+:	:	DS98 #17 (1992)(Compile)(Disk 3 of 3).dcp
+:	:	DS98 #18 (1992)(Compile)(Disk 1 of 3).dcp
+:	:	DS98 #18 (1992)(Compile)(Disk 2 of 3).dcp
+:	:	DS98 #18 (1992)(Compile)(Disk 3 of 3).dcp
+:	:	DS98 #9 (1992)(Compile)(Disk 1 of 3).dcp
+:	:	DS98 #9 (1992)(Compile)(Disk 2 of 3).dcp
+:	:	DS98 #9 (1992)(Compile)(Disk 3 of 3).dcp
+:	:	Dalk (1992)(Alice Soft)(Disk 1 of 6)[Disk A].dcp
+:	:	Dalk (1992)(Alice Soft)(Disk 2 of 6)[Disk B].dcp
+:	:	Dalk (1992)(Alice Soft)(Disk 3 of 6)[Disk C].dcp
+:	:	Dalk (1992)(Alice Soft)(Disk 4 of 6)[Disk D].dcp
+:	:	Dalk (1992)(Alice Soft)(Disk 5 of 6)[Disk E].dcp
+:	:	Dalk (1992)(Alice Soft)(Disk 6 of 6)[Disk F].dcp
+:	:	Dans in Due (19xx)(-)(Disk 1 of 5)[Disk A][Req Install].dcp
+:	:	Dans in Due (19xx)(-)(Disk 2 of 5)[Disk B][Req Install].dcp
+:	:	Dans in Due (19xx)(-)(Disk 3 of 5)[Disk C][Req Install].dcp
+:	:	Dans in Due (19xx)(-)(Disk 4 of 5)[Disk D][Req Install].dcp
+:	:	Dans in Due (19xx)(-)(Disk 5 of 5)[Disk E][Req Install].dcp
+:	:	Dark Gaiden (1993)(Himeya Soft)(Disk 1 of 3)[Disk A].dcp
+:	:	Dark Gaiden (1993)(Himeya Soft)(Disk 2 of 3)[Disk B].dcp
+:	:	Dark Gaiden (1993)(Himeya Soft)(Disk 3 of 3)[Disk C].dcp
+:	:	Deep (1994)(Jast)(Disk 1 of 8)[Disk A].dcp
+:	:	Deep (1994)(Jast)(Disk 2 of 8)[Disk B].dcp
+:	:	Deep (1994)(Jast)(Disk 3 of 8)[Disk C].dcp
+:	:	Deep (1994)(Jast)(Disk 4 of 8)[Disk D].dcp
+:	:	Deep (1994)(Jast)(Disk 5 of 8)[Disk E].dcp
+:	:	Deep (1994)(Jast)(Disk 6 of 8)[Disk F].dcp
+:	:	Deep (1994)(Jast)(Disk 7 of 8)[Disk G].dcp
+:	:	Deep (1994)(Jast)(Disk 8 of 8)[Disk H].dcp
+:	:	Delfoi no Shintaku (19xx)(Koei)(Disk 1 of 4)(System Disk).dcp
+:	:	Delfoi no Shintaku (19xx)(Koei)(Disk 2 of 4)[Disk A].dcp
+:	:	Delfoi no Shintaku (19xx)(Koei)(Disk 3 of 4)[Disk B].dcp
+:	:	Delfoi no Shintaku (19xx)(Koei)(Disk 4 of 4)[Disk C].dcp
+:	:	Demon City (1993)(Cocktail Soft)(Disk 1 of 5)[Disk A].dcp
+:	:	Demon City (1993)(Cocktail Soft)(Disk 2 of 5)[Disk B].dcp
+:	:	Demon City (1993)(Cocktail Soft)(Disk 3 of 5)[Disk C].dcp
+:	:	Demon City (1993)(Cocktail Soft)(Disk 4 of 5)[Disk D].dcp
+:	:	Demon City (1993)(Cocktail Soft)(Disk 5 of 5)[Disk E].dcp
+:	:	Dengeki Nurse 1 (1992)(Cocktail Soft)(Disk 1 of 5)[Disk A].dcp
+:	:	Dengeki Nurse 1 (1992)(Cocktail Soft)(Disk 2 of 5)[Disk B].dcp
+:	:	Dengeki Nurse 1 (1992)(Cocktail Soft)(Disk 3 of 5)[Disk C].dcp
+:	:	Dengeki Nurse 1 (1992)(Cocktail Soft)(Disk 4 of 5)[Disk D].dcp
+:	:	Dengeki Nurse 1 (1992)(Cocktail Soft)(Disk 5 of 5)[Disk E].dcp
+:	:	Dengeki Nurse 2 (1994)(Cocktail Soft)(Disk 1 of 7)[Disk A].dcp
+:	:	Dengeki Nurse 2 (1994)(Cocktail Soft)(Disk 2 of 7)[Disk B].dcp
+:	:	Dengeki Nurse 2 (1994)(Cocktail Soft)(Disk 3 of 7)[Disk C].dcp
+:	:	Dengeki Nurse 2 (1994)(Cocktail Soft)(Disk 4 of 7)[Disk D].dcp
+:	:	Dengeki Nurse 2 (1994)(Cocktail Soft)(Disk 5 of 7)[Disk E].dcp
+:	:	Dengeki Nurse 2 (1994)(Cocktail Soft)(Disk 6 of 7)[Disk F].dcp
+:	:	Dengeki Nurse 2 (1994)(Cocktail Soft)(Disk 7 of 7)[Disk G].dcp
+:	:	Denno Gakuen 3 (1990)(Gainax)(Disk 1 of 4)[Disk A].dcp
+:	:	Denno Gakuen 3 (1990)(Gainax)(Disk 2 of 4)[Disk B].dcp
+:	:	Denno Gakuen 3 (1990)(Gainax)(Disk 3 of 4)[Disk C].dcp
+:	:	Denno Gakuen 3 (1990)(Gainax)(Disk 4 of 4)[Disk D].dcp
+:	:	Dennoo Senati Lavian (19xx)(Wendy Magazine)(Disk 1 of 4)[Disk A][Req Install].dcp
+:	:	Dennoo Senati Lavian (19xx)(Wendy Magazine)(Disk 2 of 4)[Disk B][Req Install].dcp
+:	:	Dennoo Senati Lavian (19xx)(Wendy Magazine)(Disk 3 of 4)[Disk C][Req Install].dcp
+:	:	Dennoo Senati Lavian (19xx)(Wendy Magazine)(Disk 4 of 4)[Disk D][Req Install].dcp
+:	:	Dessert (19xx)(Queen Soft)(Disk 1 of 2)[Disk A].dcp
+:	:	Dessert (19xx)(Queen Soft)(Disk 2 of 2)[Disk B].dcp
+:	:	Doki Doki Vacance (1995)(Cocktail Soft)(Disk 1 of 8)[Disk A].dcp
+:	:	Doki Doki Vacance (1995)(Cocktail Soft)(Disk 2 of 8)[Disk B].dcp
+:	:	Doki Doki Vacance (1995)(Cocktail Soft)(Disk 3 of 8)[Disk C].dcp
+:	:	Doki Doki Vacance (1995)(Cocktail Soft)(Disk 4 of 8)[Disk D].dcp
+:	:	Doki Doki Vacance (1995)(Cocktail Soft)(Disk 5 of 8)[Disk E].dcp
+:	:	Doki Doki Vacance (1995)(Cocktail Soft)(Disk 6 of 8)[Disk F].dcp
+:	:	Doki Doki Vacance (1995)(Cocktail Soft)(Disk 7 of 8)[Disk G].dcp
+:	:	Doki Doki Vacance (1995)(Cocktail Soft)(Disk 8 of 8)[Disk H].dcp
+:	:	Doppyundonpishya (1993)(Peach Soft)(Disk 1 of 3)[Req Install].dcp
+:	:	Doppyundonpishya (1993)(Peach Soft)(Disk 2 of 3)[Req Install].dcp
+:	:	Doppyundonpishya (1993)(Peach Soft)(Disk 3 of 3)[Req Install].dcp
+:	:	Dracula Hakusyaku (1992)(Fairy Tale)(Disk 1 of 4)[Disk A].dcp
+:	:	Dracula Hakusyaku (1992)(Fairy Tale)(Disk 2 of 4)[Disk B].dcp
+:	:	Dracula Hakusyaku (1992)(Fairy Tale)(Disk 3 of 4)[Disk C].dcp
+:	:	Dracula Hakusyaku (1992)(Fairy Tale)(Disk 4 of 4)[Disk D].dcp
+:	:	Dragon Pink (1992)(Striker)(Disk 1 of 5)[Disk A].dcp
+:	:	Dragon Pink (1992)(Striker)(Disk 2 of 5)[Disk B].dcp
+:	:	Dragon Pink (1992)(Striker)(Disk 3 of 5)[Disk C].dcp
+:	:	Dragon Pink (1992)(Striker)(Disk 4 of 5)[Disk D].dcp
+:	:	Dragon Pink (1992)(Striker)(Disk 5 of 5)[Disk E].dcp
+:	:	Elemental O (1994)(Apple Pie)(Disk 01 of 10)(System Disk).dcp
+:	:	Elemental O (1994)(Apple Pie)(Disk 02 of 10)[Disk A].dcp
+:	:	Elemental O (1994)(Apple Pie)(Disk 03 of 10)[Disk B].dcp
+:	:	Elemental O (1994)(Apple Pie)(Disk 04 of 10)[Disk C].dcp
+:	:	Elemental O (1994)(Apple Pie)(Disk 05 of 10)[Disk D].dcp
+:	:	Elemental O (1994)(Apple Pie)(Disk 06 of 10)[Disk E].dcp
+:	:	Elemental O (1994)(Apple Pie)(Disk 07 of 10)[Disk F].dcp
+:	:	Elemental O (1994)(Apple Pie)(Disk 08 of 10)[Disk G].dcp
+:	:	Elemental O (1994)(Apple Pie)(Disk 09 of 10)[Disk H].dcp
+:	:	Elemental O (1994)(Apple Pie)(Disk 10 of 10)[Disk I].dcp
+:	:	Elest (19xx)(Miami Soft)(Disk 1 of 4)[Disk A].dcp
+:	:	Elest (19xx)(Miami Soft)(Disk 2 of 4)[Disk B].dcp
+:	:	Elest (19xx)(Miami Soft)(Disk 3 of 4)[Disk C].dcp
+:	:	Elest (19xx)(Miami Soft)(Disk 4 of 4)[Disk D].dcp
+:	:	Engage Errands 1 (1993)(Ponytail Soft)(Disk 1 of 3)[Disk A].dcp
+:	:	Engage Errands 1 (1993)(Ponytail Soft)(Disk 2 of 3)[Disk B].dcp
+:	:	Engage Errands 1 (1993)(Ponytail Soft)(Disk 3 of 3)[Disk C].dcp
+:	:	Engage Errands 2 (1995)(Ponytail Soft)(Disk 01 of 11)(System Disk)[Req Install].dcp
+:	:	Engage Errands 2 (1995)(Ponytail Soft)(Disk 02 of 11)(Disk 01)[Req Install].dcp
+:	:	Engage Errands 2 (1995)(Ponytail Soft)(Disk 03 of 11)(Disk 02)[Req Install].dcp
+:	:	Engage Errands 2 (1995)(Ponytail Soft)(Disk 04 of 11)(Disk 03)[Req Install].dcp
+:	:	Engage Errands 2 (1995)(Ponytail Soft)(Disk 05 of 11)(Disk 04)[Req Install].dcp
+:	:	Engage Errands 2 (1995)(Ponytail Soft)(Disk 06 of 11)(Disk 05)[Req Install].dcp
+:	:	Engage Errands 2 (1995)(Ponytail Soft)(Disk 07 of 11)(Disk 06)[Req Install].dcp
+:	:	Engage Errands 2 (1995)(Ponytail Soft)(Disk 08 of 11)(Disk 07)[Req Install].dcp
+:	:	Engage Errands 2 (1995)(Ponytail Soft)(Disk 09 of 11)(Disk 08)[Req Install].dcp
+:	:	Engage Errands 2 (1995)(Ponytail Soft)(Disk 10 of 11)(Disk 09)[Req Install].dcp
+:	:	Engage Errands 2 (1995)(Ponytail Soft)(Disk 11 of 11)(Disk 10)[Req Install].dcp
+:	:	Es no Houteishiki (19xx)(Abogado Powers)(Disk 1 of 5)[Disk A][Req Install].dcp
+:	:	Es no Houteishiki (19xx)(Abogado Powers)(Disk 2 of 5)[Disk B][Req Install].dcp
+:	:	Es no Houteishiki (19xx)(Abogado Powers)(Disk 3 of 5)[Disk C][Req Install].dcp
+:	:	Es no Houteishiki (19xx)(Abogado Powers)(Disk 4 of 5)[Disk D][Req Install].dcp
+:	:	Es no Houteishiki (19xx)(Abogado Powers)(Disk 5 of 5)[Disk E][Req Install].dcp
+:	:	Escalation 95 (1995)(Fairy Dust)(Disk 1 of 7).dcp
+:	:	Escalation 95 (1995)(Fairy Dust)(Disk 2 of 7).dcp
+:	:	Escalation 95 (1995)(Fairy Dust)(Disk 3 of 7).dcp
+:	:	Escalation 95 (1995)(Fairy Dust)(Disk 4 of 7).dcp
+:	:	Escalation 95 (1995)(Fairy Dust)(Disk 5 of 7).dcp
+:	:	Escalation 95 (1995)(Fairy Dust)(Disk 6 of 7).dcp
+:	:	Escalation 95 (1995)(Fairy Dust)(Disk 7 of 7).dcp
+:	:	Etemible (19xx)(Glodia)(Disk 1 of 4)(System Disk)[Req Install].dcp
+:	:	Etemible (19xx)(Glodia)(Disk 2 of 4)[Disk A][Req Install].dcp
+:	:	Etemible (19xx)(Glodia)(Disk 3 of 4)[Disk B][Req Install].dcp
+:	:	Etemible (19xx)(Glodia)(Disk 4 of 4)[Disk C][Req Install].dcp
+:	:	Eye of the Beholder III - Assault on Myth Drannor (1993)(Ving)(Disk 1 of 5)(Startup Disk)[Req Install].dcp
+:	:	Eye of the Beholder III - Assault on Myth Drannor (1993)(Ving)(Disk 2 of 5)(Install 1)[Req Install].dcp
+:	:	Eye of the Beholder III - Assault on Myth Drannor (1993)(Ving)(Disk 3 of 5)(Install 2)[Req Install].dcp
+:	:	Eye of the Beholder III - Assault on Myth Drannor (1993)(Ving)(Disk 4 of 5)(Install 3)[Req Install].dcp
+:	:	Eye of the Beholder III - Assault on Myth Drannor (1993)(Ving)(Disk 5 of 5)(Install 4)[Req Install].dcp
+:	:	File (1994)(May-Be Soft)(Disk 1 of 3).dcp
+:	:	File (1994)(May-Be Soft)(Disk 2 of 3).dcp
+:	:	File (1994)(May-Be Soft)(Disk 3 of 3).dcp
+:	:	File 0 (1996)(Colossus)(Disk 1 of 3)[Disk A].dcp
+:	:	File 0 (1996)(Colossus)(Disk 2 of 3)[Disk B].dcp
+:	:	File 0 (1996)(Colossus)(Disk 3 of 3)[Disk C].dcp
+:	:	Flashback (19xx)(-)(Disk 1 of 3)[Disk A][Req Install].dcp
+:	:	Flashback (19xx)(-)(Disk 2 of 3)[Disk B][Req Install].dcp
+:	:	Flashback (19xx)(-)(Disk 3 of 3)[Disk C][Req Install].dcp
+:	:	Foreigner (19xx)(Communication Group Plum)(Disk 1 of 4).dcp
+:	:	Foreigner (19xx)(Communication Group Plum)(Disk 2 of 4).dcp
+:	:	Foreigner (19xx)(Communication Group Plum)(Disk 3 of 4).dcp
+:	:	Foreigner (19xx)(Communication Group Plum)(Disk 4 of 4).dcp
+:	:	Foxy (1990)(Elf)(Disk 1 of 2)[Disk A].dcp
+:	:	Foxy (1990)(Elf)(Disk 2 of 2)[Disk B].dcp
+:	:	Gaias Lord (1993)(Orange House)(Disk 1 of 3)[Disk A].dcu
+:	:	Gaias Lord (1993)(Orange House)(Disk 2 of 3)[Disk B].dcu
+:	:	Gaias Lord (1993)(Orange House)(Disk 3 of 3)[Disk C].dcu
+:	:	Gakuen Bomber (1994)(Active Software)(Disk 1 of 3)[Disk A].dcp
+:	:	Gakuen Bomber (1994)(Active Software)(Disk 2 of 3)[Disk B].dcp
+:	:	Gakuen Bomber (1994)(Active Software)(Disk 3 of 3)[Disk C].dcp
+:	:	Gakuen Monogatari (1993)(Foresight)(Disk 1 of 4)(System Disk).dcp
+:	:	Gakuen Monogatari (1993)(Foresight)(Disk 2 of 4)(Disk 1).dcp
+:	:	Gakuen Monogatari (1993)(Foresight)(Disk 3 of 4)(Disk 2).dcp
+:	:	Gakuen Monogatari (1993)(Foresight)(Disk 4 of 4)(Disk 3).dcp
+:	:	Gakuen Monogatari 93 - The Instinct (1993)(Foresight)(Disk 1 of 7)[Disk A].dcp
+:	:	Gakuen Monogatari 93 - The Instinct (1993)(Foresight)(Disk 2 of 7)[Disk B].dcp
+:	:	Gakuen Monogatari 93 - The Instinct (1993)(Foresight)(Disk 3 of 7)[Disk C].dcp
+:	:	Gakuen Monogatari 93 - The Instinct (1993)(Foresight)(Disk 4 of 7)[Disk D].dcp
+:	:	Gakuen Monogatari 93 - The Instinct (1993)(Foresight)(Disk 5 of 7)[Disk E].dcp
+:	:	Gakuen Monogatari 93 - The Instinct (1993)(Foresight)(Disk 6 of 7)[Disk F].dcp
+:	:	Gakuen Monogatari 93 - The Instinct (1993)(Foresight)(Disk 7 of 7)[Disk G].dcp
+:	:	GaoGao! 1st Radical Sequence (1994)(4x9)(Disk 1 of 6)[Disk A][Req Install].dcp
+:	:	GaoGao! 1st Radical Sequence (1994)(4x9)(Disk 2 of 6)[Disk B][Req Install].dcp
+:	:	GaoGao! 1st Radical Sequence (1994)(4x9)(Disk 3 of 6)[Disk C][Req Install].dcp
+:	:	GaoGao! 1st Radical Sequence (1994)(4x9)(Disk 4 of 6)[Disk D][Req Install].dcp
+:	:	GaoGao! 1st Radical Sequence (1994)(4x9)(Disk 5 of 6)[Disk E][Req Install].dcp
+:	:	GaoGao! 1st Radical Sequence (1994)(4x9)(Disk 6 of 6)[Disk F][Req Install].dcp
+:	:	GaoGao! 2nd Pandora Wood (1994)(4x9)(Disk 1 of 7)(Boot Disk).dcp
+:	:	GaoGao! 2nd Pandora Wood (1994)(4x9)(Disk 2 of 7)[Disk A].dcp
+:	:	GaoGao! 2nd Pandora Wood (1994)(4x9)(Disk 3 of 7)[Disk B].dcp
+:	:	GaoGao! 2nd Pandora Wood (1994)(4x9)(Disk 4 of 7)[Disk C].dcp
+:	:	GaoGao! 2nd Pandora Wood (1994)(4x9)(Disk 5 of 7)[Disk D].dcp
+:	:	GaoGao! 2nd Pandora Wood (1994)(4x9)(Disk 6 of 7)[Disk E].dcp
+:	:	GaoGao! 2nd Pandora Wood (1994)(4x9)(Disk 7 of 7)[Disk F].dcp
+:	:	Geneitoshi - Illusion City (1991)(Micro Cabin)(Disk 1 of 7).dcu
+:	:	Geneitoshi - Illusion City (1991)(Micro Cabin)(Disk 2 of 7).dcu
+:	:	Geneitoshi - Illusion City (1991)(Micro Cabin)(Disk 3 of 7).dcu
+:	:	Geneitoshi - Illusion City (1991)(Micro Cabin)(Disk 4 of 7).dcu
+:	:	Geneitoshi - Illusion City (1991)(Micro Cabin)(Disk 5 of 7).dcu
+:	:	Geneitoshi - Illusion City (1991)(Micro Cabin)(Disk 6 of 7).dcu
+:	:	Geneitoshi - Illusion City (1991)(Micro Cabin)(Disk 7 of 7).dcu
+:	:	Giga Mortion (1994)(Inter Heart)(Disk 1 of 8)[Disk A][Req Install].dcp
+:	:	Giga Mortion (1994)(Inter Heart)(Disk 2 of 8)[Disk B][Req Install].dcp
+:	:	Giga Mortion (1994)(Inter Heart)(Disk 3 of 8)[Disk C][Req Install].dcp
+:	:	Giga Mortion (1994)(Inter Heart)(Disk 4 of 8)[Disk D][Req Install].dcp
+:	:	Giga Mortion (1994)(Inter Heart)(Disk 5 of 8)[Disk E][Req Install].dcp
+:	:	Giga Mortion (1994)(Inter Heart)(Disk 6 of 8)[Disk F][Req Install].dcp
+:	:	Giga Mortion (1994)(Inter Heart)(Disk 7 of 8)[Disk G][Req Install].dcp
+:	:	Giga Mortion (1994)(Inter Heart)(Disk 8 of 8)[Disk H][Req Install].dcp
+:	:	Ginga Eiyu Densetsu 4 (19xx)(Bothtec)(Disk 1 of 9)[Req Install].dcp
+:	:	Ginga Eiyu Densetsu 4 (19xx)(Bothtec)(Disk 2 of 9)[Req Install].dcp
+:	:	Ginga Eiyu Densetsu 4 (19xx)(Bothtec)(Disk 3 of 9)[Req Install].dcp
+:	:	Ginga Eiyu Densetsu 4 (19xx)(Bothtec)(Disk 4 of 9)[Req Install].dcp
+:	:	Ginga Eiyu Densetsu 4 (19xx)(Bothtec)(Disk 5 of 9)[Req Install].dcp
+:	:	Ginga Eiyu Densetsu 4 (19xx)(Bothtec)(Disk 6 of 9)[Req Install].dcp
+:	:	Ginga Eiyu Densetsu 4 (19xx)(Bothtec)(Disk 7 of 9)[Req Install].dcp
+:	:	Ginga Eiyu Densetsu 4 (19xx)(Bothtec)(Disk 8 of 9)[Req Install].dcp
+:	:	Ginga Eiyu Densetsu 4 (19xx)(Bothtec)(Disk 9 of 9)[Req Install].dcp
+:	:	Gloria (1996)(C's Ware)(Disk 1 of 6)[Disk A][Req Install].dcp
+:	:	Gloria (1996)(C's Ware)(Disk 2 of 6)[Disk B][Req Install].dcp
+:	:	Gloria (1996)(C's Ware)(Disk 3 of 6)[Disk C][Req Install].dcp
+:	:	Gloria (1996)(C's Ware)(Disk 4 of 6)[Disk D][Req Install].dcp
+:	:	Gloria (1996)(C's Ware)(Disk 5 of 6)[Disk E][Req Install].dcp
+:	:	Gloria (1996)(C's Ware)(Disk 6 of 6)[Disk F][Req Install].dcp
+:	:	Goice (1994)(Tenshindo)(Disk 1 of 6)[Disk A].dcp
+:	:	Goice (1994)(Tenshindo)(Disk 2 of 6)[Disk B].dcp
+:	:	Goice (1994)(Tenshindo)(Disk 3 of 6)[Disk C].dcp
+:	:	Goice (1994)(Tenshindo)(Disk 4 of 6)[Disk D].dcp
+:	:	Goice (1994)(Tenshindo)(Disk 5 of 6)[Disk E].dcp
+:	:	Goice (1994)(Tenshindo)(Disk 6 of 6)[Disk F].dcp
+:	:	Gokko Vol.01 Doctor (1993)(Mink)(Disk 1 of 6)(System Disk).dcu
+:	:	Gokko Vol.01 Doctor (1993)(Mink)(Disk 2 of 6).dcu
+:	:	Gokko Vol.01 Doctor (1993)(Mink)(Disk 3 of 6).dcu
+:	:	Gokko Vol.01 Doctor (1993)(Mink)(Disk 4 of 6).dcu
+:	:	Gokko Vol.01 Doctor (1993)(Mink)(Disk 5 of 6).dcu
+:	:	Gokko Vol.01 Doctor (1993)(Mink)(Disk 6 of 6).dcu
+:	:	Gokko Vol.02 School Gal's (1993)(Mink)(Disk 1 of 6)(System Disk).dcp
+:	:	Gokko Vol.02 School Gal's (1993)(Mink)(Disk 2 of 6).dcp
+:	:	Gokko Vol.02 School Gal's (1993)(Mink)(Disk 3 of 6).dcp
+:	:	Gokko Vol.02 School Gal's (1993)(Mink)(Disk 4 of 6).dcp
+:	:	Gokko Vol.02 School Gal's (1993)(Mink)(Disk 5 of 6).dcp
+:	:	Gokko Vol.02 School Gal's (1993)(Mink)(Disk 6 of 6).dcp
+:	:	Gokuraku Mannara (1996)(Fairy Tale)(Disk 1 of 6)[Disk A].dcu
+:	:	Gokuraku Mannara (1996)(Fairy Tale)(Disk 2 of 6)[Disk B].dcu
+:	:	Gokuraku Mannara (1996)(Fairy Tale)(Disk 3 of 6)[Disk C].dcu
+:	:	Gokuraku Mannara (1996)(Fairy Tale)(Disk 4 of 6)[Disk D].dcu
+:	:	Gokuraku Mannara (1996)(Fairy Tale)(Disk 5 of 6)[Disk E].dcu
+:	:	Gokuraku Mannara (1996)(Fairy Tale)(Disk 6 of 6)[Disk F].dcu
+:	:	Gozira (1993)(System Soft)(Disk 1 of 9)(Disk 1)[Req Install].dcp
+:	:	Gozira (1993)(System Soft)(Disk 2 of 9)(Disk 2)[Req Install].dcp
+:	:	Gozira (1993)(System Soft)(Disk 3 of 9)(Disk 3)[Req Install].dcp
+:	:	Gozira (1993)(System Soft)(Disk 4 of 9)(Disk 4)[Req Install].dcp
+:	:	Gozira (1993)(System Soft)(Disk 5 of 9)(Disk 5)[Req Install].dcp
+:	:	Gozira (1993)(System Soft)(Disk 6 of 9)(Disk 6)[Req Install].dcp
+:	:	Gozira (1993)(System Soft)(Disk 7 of 9)(Disk 7)[Req Install].dcp
+:	:	Gozira (1993)(System Soft)(Disk 8 of 9)(Disk 8)[Req Install].dcp
+:	:	Gozira (1993)(System Soft)(Disk 9 of 9)(Minigame Disk)[Req Install].dcp
+:	:	Groundseed (1996)(Studio Twinkle)(Disk 1 of 8)[Disk A][Req Install].dcp
+:	:	Groundseed (1996)(Studio Twinkle)(Disk 2 of 8)[Disk B][Req Install].dcp
+:	:	Groundseed (1996)(Studio Twinkle)(Disk 3 of 8)[Disk C][Req Install].dcp
+:	:	Groundseed (1996)(Studio Twinkle)(Disk 4 of 8)[Disk D][Req Install].dcp
+:	:	Groundseed (1996)(Studio Twinkle)(Disk 5 of 8)[Disk E][Req Install].dcp
+:	:	Groundseed (1996)(Studio Twinkle)(Disk 6 of 8)[Disk F][Req Install].dcp
+:	:	Groundseed (1996)(Studio Twinkle)(Disk 7 of 8)[Disk G][Req Install].dcp
+:	:	Groundseed (1996)(Studio Twinkle)(Disk 8 of 8)[Disk H][Req Install].dcp
+:	:	Gunblaze (1994)(Active Software)(Disk 1 of 4)[Disk A].dcp
+:	:	Gunblaze (1994)(Active Software)(Disk 2 of 4)[Disk B].dcp
+:	:	Gunblaze (1994)(Active Software)(Disk 3 of 4)[Disk C].dcp
+:	:	Gunblaze (1994)(Active Software)(Disk 4 of 4)[Disk D].dcp
+:	:	Hamlet (1993)(Panther Software)(Disk 1 of 8)(System Disk).dcp
+:	:	Hamlet (1993)(Panther Software)(Disk 2 of 8)(Opening Disk).dcp
+:	:	Hamlet (1993)(Panther Software)(Disk 3 of 8)(Disk 1).dcp
+:	:	Hamlet (1993)(Panther Software)(Disk 4 of 8)(Disk 2).dcp
+:	:	Hamlet (1993)(Panther Software)(Disk 5 of 8)(Disk 3).dcp
+:	:	Hamlet (1993)(Panther Software)(Disk 6 of 8)(Disk 4).dcp
+:	:	Hamlet (1993)(Panther Software)(Disk 7 of 8)(Disk 5).dcp
+:	:	Hamlet (1993)(Panther Software)(Disk 8 of 8)(Disk 6).dcp
+:	:	Hana no Kioku (1995)(Foster)(Disk 1 of 2)(Sysyem Disk).dcp
+:	:	Hana no Kioku (1995)(Foster)(Disk 2 of 2)(Data Disk).dcp
+:	:	Harenti Gakeun (1995)(Dynamic Production)(Disk 1 of 5)[Disk A].dcp
+:	:	Harenti Gakeun (1995)(Dynamic Production)(Disk 2 of 5)[Disk B].dcp
+:	:	Harenti Gakeun (1995)(Dynamic Production)(Disk 3 of 5)[Disk C].dcp
+:	:	Harenti Gakeun (1995)(Dynamic Production)(Disk 4 of 5)[Disk D].dcp
+:	:	Harenti Gakeun (1995)(Dynamic Production)(Disk 5 of 5)[Disk E].dcp
+:	:	Harlem Blade (1996)(Giga)(Disk 01 of 10)[Disk A][Req Install].dcp
+:	:	Harlem Blade (1996)(Giga)(Disk 02 of 10)[Disk B][Req Install].dcp
+:	:	Harlem Blade (1996)(Giga)(Disk 03 of 10)[Disk C][Req Install].dcp
+:	:	Harlem Blade (1996)(Giga)(Disk 04 of 10)[Disk D][Req Install].dcp
+:	:	Harlem Blade (1996)(Giga)(Disk 05 of 10)[Disk E][Req Install].dcp
+:	:	Harlem Blade (1996)(Giga)(Disk 06 of 10)[Disk F][Req Install].dcp
+:	:	Harlem Blade (1996)(Giga)(Disk 07 of 10)[Disk G][Req Install].dcp
+:	:	Harlem Blade (1996)(Giga)(Disk 08 of 10)[Disk H][Req Install].dcp
+:	:	Harlem Blade (1996)(Giga)(Disk 09 of 10)[Disk I][Req Install].dcp
+:	:	Harlem Blade (1996)(Giga)(Disk 10 of 10)[Disk J][Req Install].dcp
+:	:	Hotei Raoyui 2 (1996)(Queen Soft)(Disk 1 of 2)[Req Install].dcp
+:	:	Hotei Raoyui 2 (1996)(Queen Soft)(Disk 2 of 2)[Req Install].dcp
+:	:	Idol Project 2 (1995)(KSS)(Disk 1 of 8)[Disk A][Req Install].dcu
+:	:	Idol Project 2 (1995)(KSS)(Disk 2 of 8)[Disk B][Req Install].dcu
+:	:	Idol Project 2 (1995)(KSS)(Disk 3 of 8)[Disk C][Req Install].dcu
+:	:	Idol Project 2 (1995)(KSS)(Disk 4 of 8)[Disk D][Req Install].dcu
+:	:	Idol Project 2 (1995)(KSS)(Disk 5 of 8)[Disk E][Req Install].dcu
+:	:	Idol Project 2 (1995)(KSS)(Disk 6 of 8)[Disk F][Req Install].dcu
+:	:	Idol Project 2 (1995)(KSS)(Disk 7 of 8)[Disk G][Req Install].dcu
+:	:	Idol Project 2 (1995)(KSS)(Disk 8 of 8)[Disk H][Req Install].dcu
+:	:	If (1993)(Active Software)(Disk 1 of 5)(System Disk).dcp
+:	:	If (1993)(Active Software)(Disk 2 of 5).dcp
+:	:	If (1993)(Active Software)(Disk 3 of 5).dcp
+:	:	If (1993)(Active Software)(Disk 4 of 5).dcp
+:	:	If (1993)(Active Software)(Disk 5 of 5).dcp
+:	:	If 2 (1993)(Active Software)(Disk 1 of 5)(System Disk).dcp
+:	:	If 2 (1993)(Active Software)(Disk 2 of 5).dcp
+:	:	If 2 (1993)(Active Software)(Disk 3 of 5).dcp
+:	:	If 2 (1993)(Active Software)(Disk 4 of 5).dcp
+:	:	If 2 (1993)(Active Software)(Disk 5 of 5).dcp
+:	:	If 3 (1995)(Active Software)(Disk 1 of 5)(System Disk).dcp
+:	:	If 3 (1995)(Active Software)(Disk 2 of 5).dcp
+:	:	If 3 (1995)(Active Software)(Disk 3 of 5).dcp
+:	:	If 3 (1995)(Active Software)(Disk 4 of 5).dcp
+:	:	If 3 (1995)(Active Software)(Disk 5 of 5).dcp
+:	:	Ikenie (1994)(Cat's Pro.)(Disk 1 of 2).dcp
+:	:	Ikenie (1994)(Cat's Pro.)(Disk 2 of 2).dcp
+:	:	Ikuiku Pakun (1992)(Silky's)(Disk 1 of 9)(Game Disk).dcp
+:	:	Ikuiku Pakun (1992)(Silky's)(Disk 2 of 9)[Disk A].dcp
+:	:	Ikuiku Pakun (1992)(Silky's)(Disk 3 of 9)[Disk B].dcp
+:	:	Ikuiku Pakun (1992)(Silky's)(Disk 4 of 9)[Disk C].dcp
+:	:	Ikuiku Pakun (1992)(Silky's)(Disk 5 of 9)[Disk D].dcp
+:	:	Ikuiku Pakun (1992)(Silky's)(Disk 6 of 9)[Disk E].dcp
+:	:	Ikuiku Pakun (1992)(Silky's)(Disk 7 of 9)[Disk F].dcp
+:	:	Ikuiku Pakun (1992)(Silky's)(Disk 8 of 9)[Disk G].dcp
+:	:	Ikuiku Pakun (1992)(Silky's)(Disk 9 of 9)[Disk H].dcp
+:	:	Injiu Genmu 1 (1993)(Ringer Bell)(Disk 1 of 2)[Disk A].dcp
+:	:	Injiu Genmu 1 (1993)(Ringer Bell)(Disk 2 of 2)[Disk B].dcp
+:	:	Injiu Genmu 2 - Brain Burst (1994)(Ringer Bell)(Disk 1 of 4)[Disk A].dcp
+:	:	Injiu Genmu 2 - Brain Burst (1994)(Ringer Bell)(Disk 2 of 4)[Disk B].dcp
+:	:	Injiu Genmu 2 - Brain Burst (1994)(Ringer Bell)(Disk 3 of 4)[Disk C].dcp
+:	:	Injiu Genmu 2 - Brain Burst (1994)(Ringer Bell)(Disk 4 of 4)[Disk D].dcp
+:	:	Iris Serenade (1992)(Agumix)(Disk 1 of 3)[Disk A].dcp
+:	:	Iris Serenade (1992)(Agumix)(Disk 2 of 3)[Disk B].dcp
+:	:	Iris Serenade (1992)(Agumix)(Disk 3 of 3)[Disk C].dcp
+:	:	Irium (1993)(Orange House)(Disk 1 of 4)[Disk A].dcp
+:	:	Irium (1993)(Orange House)(Disk 2 of 4)[Disk B].dcp
+:	:	Irium (1993)(Orange House)(Disk 3 of 4)[Disk C].dcp
+:	:	Irium (1993)(Orange House)(Disk 4 of 4)[Disk D].dcp
+:	:	Itsuka Dokokade (1995)(Cocktail Soft)(Disk 1 of 5)[Disk A][Req Install].dcp
+:	:	Itsuka Dokokade (1995)(Cocktail Soft)(Disk 2 of 5)[Disk B][Req Install].dcp
+:	:	Itsuka Dokokade (1995)(Cocktail Soft)(Disk 3 of 5)[Disk C][Req Install].dcp
+:	:	Itsuka Dokokade (1995)(Cocktail Soft)(Disk 4 of 5)[Disk D][Req Install].dcp
+:	:	Itsuka Dokokade (1995)(Cocktail Soft)(Disk 5 of 5)[Disk E][Req Install].dcp
+:	:	J.B. Harold 3 - Dc Connection (19xx)(Riverhill Soft)(Disk 1 of 3)[Disk A].dcp
+:	:	J.B. Harold 3 - Dc Connection (19xx)(Riverhill Soft)(Disk 2 of 3)[Disk B].dcp
+:	:	J.B. Harold 3 - Dc Connection (19xx)(Riverhill Soft)(Disk 3 of 3)[Disk C].dcp
+:	:	Japanese Cult Quiz Zipang (1993)(Wild-Life)(Disk 1 of 4)[Req Install].dcp
+:	:	Japanese Cult Quiz Zipang (1993)(Wild-Life)(Disk 2 of 4)[Req Install].dcp
+:	:	Japanese Cult Quiz Zipang (1993)(Wild-Life)(Disk 3 of 4)[Req Install].dcp
+:	:	Japanese Cult Quiz Zipang (1993)(Wild-Life)(Disk 4 of 4)[Req Install].dcp
+:	:	Jealousy (1995)(Inter Heart)(Disk 1 of 6)[Disk A].dcp
+:	:	Jealousy (1995)(Inter Heart)(Disk 2 of 6)[Disk B].dcp
+:	:	Jealousy (1995)(Inter Heart)(Disk 3 of 6)[Disk C].dcp
+:	:	Jealousy (1995)(Inter Heart)(Disk 4 of 6)[Disk D].dcp
+:	:	Jealousy (1995)(Inter Heart)(Disk 5 of 6)[Disk E].dcp
+:	:	Jealousy (1995)(Inter Heart)(Disk 6 of 6)[Disk F].dcp
+:	:	Jiin (1994)(Tenshindo)(Disk 1 of 6)[Disk A].dcp
+:	:	Jiin (1994)(Tenshindo)(Disk 2 of 6)[Disk B].dcp
+:	:	Jiin (1994)(Tenshindo)(Disk 3 of 6)[Disk C].dcp
+:	:	Jiin (1994)(Tenshindo)(Disk 4 of 6)[Disk D].dcp
+:	:	Jiin (1994)(Tenshindo)(Disk 5 of 6)[Disk E].dcp
+:	:	Jiin (1994)(Tenshindo)(Disk 6 of 6)[Disk F].dcp
+:	:	Joker (1991)(Birdy Soft)(Disk 1 of 3)[Disk A].dcp
+:	:	Joker (1991)(Birdy Soft)(Disk 2 of 3)[Disk B].dcp
+:	:	Joker (1991)(Birdy Soft)(Disk 3 of 3)[Disk C].dcp
+:	:	Joker 2 (1992)(Birdy Soft)(Disk 1 of 4)[Disk A].dcp
+:	:	Joker 2 (1992)(Birdy Soft)(Disk 2 of 4)[Disk B].dcp
+:	:	Joker 2 (1992)(Birdy Soft)(Disk 3 of 4)[Disk C].dcp
+:	:	Joker 2 (1992)(Birdy Soft)(Disk 4 of 4)[Disk D].dcp
+:	:	Jonason - Kugutsu no Mai (1995)(XyZ)(Disk 1 of 6)[Req Install].dcp
+:	:	Jonason - Kugutsu no Mai (1995)(XyZ)(Disk 2 of 6)[Req Install].dcp
+:	:	Jonason - Kugutsu no Mai (1995)(XyZ)(Disk 3 of 6)[Req Install].dcp
+:	:	Jonason - Kugutsu no Mai (1995)(XyZ)(Disk 4 of 6)[Req Install].dcp
+:	:	Jonason - Kugutsu no Mai (1995)(XyZ)(Disk 5 of 6)[Req Install].dcp
+:	:	Jonason - Kugutsu no Mai (1995)(XyZ)(Disk 6 of 6)[Req Install].dcp
+:	:	Jyb (1993)(Cocktail Soft)(Disk 1 of 5)[Disk A].dcp
+:	:	Jyb (1993)(Cocktail Soft)(Disk 2 of 5)[Disk B].dcp
+:	:	Jyb (1993)(Cocktail Soft)(Disk 3 of 5)[Disk C].dcp
+:	:	Jyb (1993)(Cocktail Soft)(Disk 4 of 5)[Disk D].dcp
+:	:	Jyb (1993)(Cocktail Soft)(Disk 5 of 5)[Disk E].dcp
+:	:	Kakutou Musume (1993)(Musumeya)(Disk 1 of 5)(System Disk).dcp
+:	:	Kakutou Musume (1993)(Musumeya)(Disk 2 of 5)(Disk 1).dcp
+:	:	Kakutou Musume (1993)(Musumeya)(Disk 3 of 5)(Disk 2).dcp
+:	:	Kakutou Musume (1993)(Musumeya)(Disk 4 of 5)(Disk 3).dcp
+:	:	Kakutou Musume (1993)(Musumeya)(Disk 5 of 5)(Disk 4).dcp
+:	:	Kakyusei Special Disk (19xx)(Elf)(Disk 1 of 2).dcp
+:	:	Kakyusei Special Disk (19xx)(Elf)(Disk 2 of 2).dcp
+:	:	Kanako (1996)(Fairy Tale)(Disk 1 of 5).dcu
+:	:	Kanako (1996)(Fairy Tale)(Disk 2 of 5).dcu
+:	:	Kanako (1996)(Fairy Tale)(Disk 3 of 5).dcu
+:	:	Kanako (1996)(Fairy Tale)(Disk 4 of 5).dcu
+:	:	Kanako (1996)(Fairy Tale)(Disk 5 of 5).dcu
+:	:	Kanako-san no Yuu'utsu (1996)(D.O.)(Disk 1 of 2)[Disk A].dcu
+:	:	Kanako-san no Yuu'utsu (1996)(D.O.)(Disk 2 of 2)[Disk B].dcu
+:	:	Karei Naru Jinsei (1991)(Fairy Tale)(Disk 1 of 3).dcp
+:	:	Karei Naru Jinsei (1991)(Fairy Tale)(Disk 2 of 3).dcp
+:	:	Karei Naru Jinsei (1991)(Fairy Tale)(Disk 3 of 3).dcp
+:	:	Karei Naru Jinsei 2 (1994)(Fairy Tale)(Disk 1 of 3)[Disk A].dcp
+:	:	Karei Naru Jinsei 2 (1994)(Fairy Tale)(Disk 2 of 3)[Disk B].dcp
+:	:	Karei Naru Jinsei 2 (1994)(Fairy Tale)(Disk 3 of 3)[Disk C].dcp
+:	:	Kawarazakike no Ichizoku (1993)(Silky's)(Disk 1 of 5)[Disk A].dcu
+:	:	Kawarazakike no Ichizoku (1993)(Silky's)(Disk 2 of 5)[Disk B].dcu
+:	:	Kawarazakike no Ichizoku (1993)(Silky's)(Disk 3 of 5)[Disk C].dcu
+:	:	Kawarazakike no Ichizoku (1993)(Silky's)(Disk 4 of 5)[Disk D].dcu
+:	:	Kawarazakike no Ichizoku (1993)(Silky's)(Disk 5 of 5)[Disk E].dcu
+:	:	Kekkou Kamen (1994)(Dynamic Production)(Disk 1 of 8)[Disk A][Req Install].dcu
+:	:	Kekkou Kamen (1994)(Dynamic Production)(Disk 2 of 8)[Disk B][Req Install].dcu
+:	:	Kekkou Kamen (1994)(Dynamic Production)(Disk 3 of 8)[Disk C][Req Install].dcu
+:	:	Kekkou Kamen (1994)(Dynamic Production)(Disk 4 of 8)[Disk D][Req Install].dcu
+:	:	Kekkou Kamen (1994)(Dynamic Production)(Disk 5 of 8)[Disk E][Req Install].dcu
+:	:	Kekkou Kamen (1994)(Dynamic Production)(Disk 6 of 8)[Disk F][Req Install].dcu
+:	:	Kekkou Kamen (1994)(Dynamic Production)(Disk 7 of 8)[Disk G][Req Install].dcu
+:	:	Kekkou Kamen (1994)(Dynamic Production)(Disk 8 of 8)[Disk H][Req Install].dcu
+:	:	Kikai Jikake no Marian (1994)(Janis)(Disk 1 of 4)[Req install].dcu
+:	:	Kikai Jikake no Marian (1994)(Janis)(Disk 2 of 4)[Req install].dcu
+:	:	Kikai Jikake no Marian (1994)(Janis)(Disk 3 of 4)[Req install].dcu
+:	:	Kikai Jikake no Marian (1994)(Janis)(Disk 4 of 4)[Req install].dcu
+:	:	Kindan no Ketsuzoku (1993)(C's Ware)(Disk 1 of 3)[Disk A].dcu
+:	:	Kindan no Ketsuzoku (1993)(C's Ware)(Disk 2 of 3)[Disk B].dcu
+:	:	Kindan no Ketsuzoku (1993)(C's Ware)(Disk 3 of 3)[Disk C].dcu
+:	:	Kirishima Sinryojio no Gogo (1995)(May-Be Soft)(Disk 1 of 4)[Disk A].dcu
+:	:	Kirishima Sinryojio no Gogo (1995)(May-Be Soft)(Disk 2 of 4)[Disk B].dcu
+:	:	Kirishima Sinryojio no Gogo (1995)(May-Be Soft)(Disk 3 of 4)[Disk C].dcu
+:	:	Kirishima Sinryojio no Gogo (1995)(May-Be Soft)(Disk 4 of 4)[Disk D].dcu
+:	:	Kisou Shinden Gen-Kaiser (19xx)(TGL)(Disk 1 of 7)[Disk A].dcu
+:	:	Kisou Shinden Gen-Kaiser (19xx)(TGL)(Disk 2 of 7)[Disk B].dcu
+:	:	Kisou Shinden Gen-Kaiser (19xx)(TGL)(Disk 3 of 7)[Disk C].dcu
+:	:	Kisou Shinden Gen-Kaiser (19xx)(TGL)(Disk 4 of 7)[Disk D].dcu
+:	:	Kisou Shinden Gen-Kaiser (19xx)(TGL)(Disk 5 of 7)[Disk E].dcu
+:	:	Kisou Shinden Gen-Kaiser (19xx)(TGL)(Disk 6 of 7)[Disk F].dcu
+:	:	Kisou Shinden Gen-Kaiser (19xx)(TGL)(Disk 7 of 7)[Disk G].dcu
+:	:	Kitou Mashi Shioshi Keimeshiyo (1994)(Illusion)(Disk 1 of 7)[Disk A][Req Install].dcu
+:	:	Kitou Mashi Shioshi Keimeshiyo (1994)(Illusion)(Disk 2 of 7)[Disk B][Req Install].dcu
+:	:	Kitou Mashi Shioshi Keimeshiyo (1994)(Illusion)(Disk 3 of 7)[Disk C][Req Install].dcu
+:	:	Kitou Mashi Shioshi Keimeshiyo (1994)(Illusion)(Disk 4 of 7)[Disk D][Req Install].dcu
+:	:	Kitou Mashi Shioshi Keimeshiyo (1994)(Illusion)(Disk 5 of 7)[Disk E][Req Install].dcu
+:	:	Kitou Mashi Shioshi Keimeshiyo (1994)(Illusion)(Disk 6 of 7)[Disk F][Req Install].dcu
+:	:	Kitou Mashi Shioshi Keimeshiyo (1994)(Illusion)(Disk 7 of 7)[Disk G][Req Install].dcu
+:	:	Kookookioshi (1994)(Wishbone)(Disk 1 of 7).dcp
+:	:	Kookookioshi (1994)(Wishbone)(Disk 2 of 7).dcp
+:	:	Kookookioshi (1994)(Wishbone)(Disk 3 of 7).dcp
+:	:	Kookookioshi (1994)(Wishbone)(Disk 4 of 7).dcp
+:	:	Kookookioshi (1994)(Wishbone)(Disk 5 of 7).dcp
+:	:	Kookookioshi (1994)(Wishbone)(Disk 6 of 7).dcp
+:	:	Kookookioshi (1994)(Wishbone)(Disk 7 of 7).dcp
+:	:	Kotestu no Daiboken (1996)(T2)(Disk 1 of 9)[Disk A][Req Install].dcp
+:	:	Kotestu no Daiboken (1996)(T2)(Disk 2 of 9)[Disk B][Req Install].dcp
+:	:	Kotestu no Daiboken (1996)(T2)(Disk 3 of 9)[Disk C][Req Install].dcp
+:	:	Kotestu no Daiboken (1996)(T2)(Disk 4 of 9)[Disk D][Req Install].dcp
+:	:	Kotestu no Daiboken (1996)(T2)(Disk 5 of 9)[Disk E][Req Install].dcp
+:	:	Kotestu no Daiboken (1996)(T2)(Disk 6 of 9)[Disk F][Req Install].dcp
+:	:	Kotestu no Daiboken (1996)(T2)(Disk 7 of 9)[Disk G][Req Install].dcp
+:	:	Kotestu no Daiboken (1996)(T2)(Disk 8 of 9)[Disk H][Req Install].dcp
+:	:	Kotestu no Daiboken (1996)(T2)(Disk 9 of 9)[Disk I][Req Install].dcp
+:	:	Koukan Nikki (1994)(Fairy Dust)(Disk 1 of 7)(System Disk).dcp
+:	:	Koukan Nikki (1994)(Fairy Dust)(Disk 2 of 7).dcp
+:	:	Koukan Nikki (1994)(Fairy Dust)(Disk 3 of 7).dcp
+:	:	Koukan Nikki (1994)(Fairy Dust)(Disk 4 of 7).dcp
+:	:	Koukan Nikki (1994)(Fairy Dust)(Disk 5 of 7).dcp
+:	:	Koukan Nikki (1994)(Fairy Dust)(Disk 6 of 7).dcp
+:	:	Koukan Nikki (1994)(Fairy Dust)(Disk 7 of 7).dcp
+:	:	Kousoku Chojin (1996)(Foster)(Disk 1 of 2).dcp
+:	:	Kousoku Chojin (1996)(Foster)(Disk 2 of 2).dcp
+:	:	Kuroneko Kan (1993)(Fairy Dust)(Disk 1 of 4)[Disk A].dcp
+:	:	Kuroneko Kan (1993)(Fairy Dust)(Disk 2 of 4)[Disk B].dcp
+:	:	Kuroneko Kan (1993)(Fairy Dust)(Disk 3 of 4)[Disk C].dcp
+:	:	Kuroneko Kan (1993)(Fairy Dust)(Disk 4 of 4)[Disk D].dcp
+:	:	Kyohaku (1996)(AIL)(Disk 1 of 8)[Disk A].dcp
+:	:	Kyohaku (1996)(AIL)(Disk 2 of 8)[Disk B].dcp
+:	:	Kyohaku (1996)(AIL)(Disk 3 of 8)[Disk C].dcp
+:	:	Kyohaku (1996)(AIL)(Disk 4 of 8)[Disk D].dcp
+:	:	Kyohaku (1996)(AIL)(Disk 5 of 8)[Disk E].dcp
+:	:	Kyohaku (1996)(AIL)(Disk 6 of 8)[Disk F].dcp
+:	:	Kyohaku (1996)(AIL)(Disk 7 of 8)[Disk G].dcp
+:	:	Kyohaku (1996)(AIL)(Disk 8 of 8)[Disk H].dcp
+:	:	L'Empereur (19xx)(Koei)(Disk 1 of 2)[Disk A].dcp
+:	:	L'Empereur (19xx)(Koei)(Disk 2 of 2)[Disk B].dcp
+:	:	Last Guardian 2 (19xx)(Anjin)(Disk 1 of 7)[Req Install].dcp
+:	:	Last Guardian 2 (19xx)(Anjin)(Disk 2 of 7)[Req Install].dcp
+:	:	Last Guardian 2 (19xx)(Anjin)(Disk 3 of 7)[Req Install].dcp
+:	:	Last Guardian 2 (19xx)(Anjin)(Disk 4 of 7)[Req Install].dcp
+:	:	Last Guardian 2 (19xx)(Anjin)(Disk 5 of 7)[Req Install].dcp
+:	:	Last Guardian 2 (19xx)(Anjin)(Disk 6 of 7)[Req Install].dcp
+:	:	Last Guardian 2 (19xx)(Anjin)(Disk 7 of 7)[Req Install].dcp
+:	:	Like (1994)(Ange)(Disk 1 of 3)[Disk A].dcp
+:	:	Like (1994)(Ange)(Disk 2 of 3)[Disk B].dcp
+:	:	Like (1994)(Ange)(Disk 3 of 3)[Disk C].dcp
+:	:	Love Phantom (1996)(Love Gun)(Disk 1 of 3)[Disk A][Req Install].dcp
+:	:	Love Phantom (1996)(Love Gun)(Disk 2 of 3)[Disk B][Req Install].dcp
+:	:	Love Phantom (1996)(Love Gun)(Disk 3 of 3)[Disk C][Req Install].dcp
+:	:	Mad Paradox (1993)(Queen Soft)(Disk 1 of 6).dcp
+:	:	Mad Paradox (1993)(Queen Soft)(Disk 2 of 6).dcp
+:	:	Mad Paradox (1993)(Queen Soft)(Disk 3 of 6).dcp
+:	:	Mad Paradox (1993)(Queen Soft)(Disk 4 of 6).dcp
+:	:	Mad Paradox (1993)(Queen Soft)(Disk 5 of 6).dcp
+:	:	Mad Paradox (1993)(Queen Soft)(Disk 6 of 6).dcp
+:	:	Mahjong Sports Line (19xx)(C-Class)(Disk 1 of 2)(System Disk)[Req Install].dcp
+:	:	Mahjong Sports Line (19xx)(C-Class)(Disk 2 of 2)(Data 1)[Req Install].dcp
+:	:	Makyoden (19xx)(Create)(Disk 1 of 8)[Disk A].dcp
+:	:	Makyoden (19xx)(Create)(Disk 2 of 8)[Disk B].dcp
+:	:	Makyoden (19xx)(Create)(Disk 3 of 8)[Disk C].dcp
+:	:	Makyoden (19xx)(Create)(Disk 4 of 8)[Disk D].dcp
+:	:	Makyoden (19xx)(Create)(Disk 5 of 8)[Disk E].dcp
+:	:	Makyoden (19xx)(Create)(Disk 6 of 8)[Disk F].dcp
+:	:	Makyoden (19xx)(Create)(Disk 7 of 8)[Disk G].dcp
+:	:	Makyoden (19xx)(Create)(Disk 8 of 8)[Disk H].dcp
+:	:	Manami no Dokomade Ikuno 2 (19xx)(Wendy Magazine)(Disk 1 of 4)[Disk A][Req Install].dcp
+:	:	Manami no Dokomade Ikuno 2 (19xx)(Wendy Magazine)(Disk 2 of 4)[Disk B][Req Install].dcp
+:	:	Manami no Dokomade Ikuno 2 (19xx)(Wendy Magazine)(Disk 3 of 4)[Disk C][Req Install].dcp
+:	:	Manami no Dokomade Ikuno 2 (19xx)(Wendy Magazine)(Disk 4 of 4)[Disk D][Req Install].dcp
+:	:	Mandara Kazoku (1995)(Foresight)(Disk 1 of 2)(System Disk).dcp
+:	:	Mandara Kazoku (1995)(Foresight)(Disk 2 of 2)(Data Disk).dcp
+:	:	Mandara Kazoku (demo) (1995)(Foresight).dcp
+:	:	Marginal Points (1995)(Lunar Soft)(Disk 1 of 9)[Disk A].dcp
+:	:	Marginal Points (1995)(Lunar Soft)(Disk 2 of 9)[Disk B].dcp
+:	:	Marginal Points (1995)(Lunar Soft)(Disk 3 of 9)[Disk C].dcp
+:	:	Marginal Points (1995)(Lunar Soft)(Disk 4 of 9)[Disk D].dcp
+:	:	Marginal Points (1995)(Lunar Soft)(Disk 5 of 9)[Disk E].dcp
+:	:	Marginal Points (1995)(Lunar Soft)(Disk 6 of 9)[Disk F].dcp
+:	:	Marginal Points (1995)(Lunar Soft)(Disk 7 of 9)[Disk G].dcp
+:	:	Marginal Points (1995)(Lunar Soft)(Disk 8 of 9)[Disk H].dcp
+:	:	Marginal Points (1995)(Lunar Soft)(Disk 9 of 9)[Disk I].dcp
+:	:	Marine Philt (1993)(Fairy Tale)(Disk 1 of 6)[Disk A].dcp
+:	:	Marine Philt (1993)(Fairy Tale)(Disk 2 of 6)[Disk B].dcp
+:	:	Marine Philt (1993)(Fairy Tale)(Disk 3 of 6)[Disk C].dcp
+:	:	Marine Philt (1993)(Fairy Tale)(Disk 4 of 6)[Disk D].dcp
+:	:	Marine Philt (1993)(Fairy Tale)(Disk 5 of 6)[Disk E].dcp
+:	:	Marine Philt (1993)(Fairy Tale)(Disk 6 of 6)[Disk F].dcp
+:	:	Marines (1994)(Hervest)(Disk 1 of 3).dcp
+:	:	Marines (1994)(Hervest)(Disk 2 of 3).dcp
+:	:	Marines (1994)(Hervest)(Disk 3 of 3).dcp
+:	:	Maryu Gakuen - Yogosareta Nikutai (1994)(Peach Soft)(Disk 1 of 5)[Disk A].dcp
+:	:	Maryu Gakuen - Yogosareta Nikutai (1994)(Peach Soft)(Disk 2 of 5)[Disk B].dcp
+:	:	Maryu Gakuen - Yogosareta Nikutai (1994)(Peach Soft)(Disk 3 of 5)[Disk C].dcp
+:	:	Maryu Gakuen - Yogosareta Nikutai (1994)(Peach Soft)(Disk 4 of 5)[Disk D].dcp
+:	:	Maryu Gakuen - Yogosareta Nikutai (1994)(Peach Soft)(Disk 5 of 5)[Disk E].dcp
+:	:	Maskarade (1994)(Janis)(Disk 1 of 4)[Disk A].dcp
+:	:	Maskarade (1994)(Janis)(Disk 2 of 4)[Disk B].dcp
+:	:	Maskarade (1994)(Janis)(Disk 3 of 4)[Disk C].dcp
+:	:	Maskarade (1994)(Janis)(Disk 4 of 4)[Disk D].dcp
+:	:	Meikyuu Gakuensai (19xx)(WishBone)(Disk 1 of 7)[Disk A].dcp
+:	:	Meikyuu Gakuensai (19xx)(WishBone)(Disk 2 of 7)[Disk B].dcp
+:	:	Meikyuu Gakuensai (19xx)(WishBone)(Disk 3 of 7)[Disk C].dcp
+:	:	Meikyuu Gakuensai (19xx)(WishBone)(Disk 4 of 7)[Disk D].dcp
+:	:	Meikyuu Gakuensai (19xx)(WishBone)(Disk 5 of 7)[Disk E].dcp
+:	:	Meikyuu Gakuensai (19xx)(WishBone)(Disk 6 of 7)[Disk F].dcp
+:	:	Meikyuu Gakuensai (19xx)(WishBone)(Disk 7 of 7)[Disk G].dcp
+:	:	Metajo (19xx)(Anjin)(Disk 1 of 8)[Req Install].dcp
+:	:	Metajo (19xx)(Anjin)(Disk 2 of 8)[Req Install].dcp
+:	:	Metajo (19xx)(Anjin)(Disk 3 of 8)[Req Install].dcp
+:	:	Metajo (19xx)(Anjin)(Disk 4 of 8)[Req Install].dcp
+:	:	Metajo (19xx)(Anjin)(Disk 5 of 8)[Req Install].dcp
+:	:	Metajo (19xx)(Anjin)(Disk 6 of 8)[Req Install].dcp
+:	:	Metajo (19xx)(Anjin)(Disk 7 of 8)[Req Install].dcp
+:	:	Metajo (19xx)(Anjin)(Disk 8 of 8)[Req Install].dcp
+:	:	Mirage 1 (1991)(Discovery)(Disk 1 of 5)[Disk A].dcu
+:	:	Mirage 1 (1991)(Discovery)(Disk 2 of 5)[Disk B].dcu
+:	:	Mirage 1 (1991)(Discovery)(Disk 3 of 5)[Disk C].dcu
+:	:	Mirage 1 (1991)(Discovery)(Disk 4 of 5)[Disk D].dcu
+:	:	Mirage 1 (1991)(Discovery)(Disk 5 of 5)[Disk E].dcu
+:	:	Mirage 2 (1994)(Discovery)(Disk 1 of 5)[Disk A].dcp
+:	:	Mirage 2 (1994)(Discovery)(Disk 2 of 5)[Disk B].dcp
+:	:	Mirage 2 (1994)(Discovery)(Disk 3 of 5)[Disk C].dcp
+:	:	Mirage 2 (1994)(Discovery)(Disk 4 of 5)[Disk D].dcp
+:	:	Mirage 2 (1994)(Discovery)(Disk 5 of 5)[Disk E].dcp
+:	:	Mission (1995)(Great)(Disk 1 of 6)[Disk A][Req Install].dcp
+:	:	Mission (1995)(Great)(Disk 2 of 6)[Disk B][Req Install].dcp
+:	:	Mission (1995)(Great)(Disk 3 of 6)[Disk C][Req Install].dcp
+:	:	Mission (1995)(Great)(Disk 4 of 6)[Disk D][Req Install].dcp
+:	:	Mission (1995)(Great)(Disk 5 of 6)[Disk E][Req Install].dcp
+:	:	Mission (1995)(Great)(Disk 6 of 6)[Disk F][Req Install].dcp
+:	:	Misty Flash (1994)(Factory Team-Ten)(Disk 1 of 7)[Disk A].dcp
+:	:	Misty Flash (1994)(Factory Team-Ten)(Disk 2 of 7)[Disk B].dcp
+:	:	Misty Flash (1994)(Factory Team-Ten)(Disk 3 of 7)[Disk C].dcp
+:	:	Misty Flash (1994)(Factory Team-Ten)(Disk 4 of 7)[Disk D].dcp
+:	:	Misty Flash (1994)(Factory Team-Ten)(Disk 5 of 7)[Disk E].dcp
+:	:	Misty Flash (1994)(Factory Team-Ten)(Disk 6 of 7)[Disk F].dcp
+:	:	Misty Flash (1994)(Factory Team-Ten)(Disk 7 of 7)[Disk G].dcp
+:	:	Moon Light Enegy (1992)(Inter Heart)(Disk 1 of 4)[Disk A].dcp
+:	:	Moon Light Enegy (1992)(Inter Heart)(Disk 2 of 4)[Disk B].dcp
+:	:	Moon Light Enegy (1992)(Inter Heart)(Disk 3 of 4)[Disk C].dcp
+:	:	Moon Light Enegy (1992)(Inter Heart)(Disk 4 of 4)[Disk D].dcp
+:	:	Moon Mist (1992)(Infocom)(Disk 1 of 2).dcp
+:	:	Moon Mist (1992)(Infocom)(Disk 2 of 2).dcp
+:	:	Mujintoo Monogatari 1 (1994)(KSS)(Disk 1 of 5).dcp
+:	:	Mujintoo Monogatari 1 (1994)(KSS)(Disk 2 of 5).dcp
+:	:	Mujintoo Monogatari 1 (1994)(KSS)(Disk 3 of 5).dcp
+:	:	Mujintoo Monogatari 1 (1994)(KSS)(Disk 4 of 5).dcp
+:	:	Mujintoo Monogatari 1 (1994)(KSS)(Disk 5 of 5).dcp
+:	:	Mujintoo Monogatari 2 (1995)(KSS)(Disk 1 of 7).dcp
+:	:	Mujintoo Monogatari 2 (1995)(KSS)(Disk 2 of 7).dcp
+:	:	Mujintoo Monogatari 2 (1995)(KSS)(Disk 3 of 7).dcp
+:	:	Mujintoo Monogatari 2 (1995)(KSS)(Disk 4 of 7).dcp
+:	:	Mujintoo Monogatari 2 (1995)(KSS)(Disk 5 of 7).dcp
+:	:	Mujintoo Monogatari 2 (1995)(KSS)(Disk 6 of 7).dcp
+:	:	Mujintoo Monogatari 2 (1995)(KSS)(Disk 7 of 7).dcp
+:	:	Necronomicon (1994)(Fairy Tale)(Disk 01 of 11)[Disk A].dcp
+:	:	Necronomicon (1994)(Fairy Tale)(Disk 02 of 11)[Disk B].dcp
+:	:	Necronomicon (1994)(Fairy Tale)(Disk 03 of 11)[Disk C].dcp
+:	:	Necronomicon (1994)(Fairy Tale)(Disk 04 of 11)[Disk D].dcp
+:	:	Necronomicon (1994)(Fairy Tale)(Disk 05 of 11)[Disk E].dcp
+:	:	Necronomicon (1994)(Fairy Tale)(Disk 06 of 11)[Disk F].dcp
+:	:	Necronomicon (1994)(Fairy Tale)(Disk 07 of 11)[Disk G].dcp
+:	:	Necronomicon (1994)(Fairy Tale)(Disk 08 of 11)[Disk H].dcp
+:	:	Necronomicon (1994)(Fairy Tale)(Disk 09 of 11)[Disk I].dcp
+:	:	Necronomicon (1994)(Fairy Tale)(Disk 10 of 11)[Disk J].dcp
+:	:	Necronomicon (1994)(Fairy Tale)(Disk 11 of 11)[Disk K].dcp
+:	:	Ningyotsukai 2 (1996)(Forest)(Disk 1 of 3)(Disk 0).dcp
+:	:	Ningyotsukai 2 (1996)(Forest)(Disk 2 of 3)(Disk 1).dcp
+:	:	Ningyotsukai 2 (1996)(Forest)(Disk 3 of 3)(Disk 2).dcp
+:	:	Nonomura Byioin no Hitobito (1994)(Silky's)(Disk 1 of 5)[Disk A].dcp
+:	:	Nonomura Byioin no Hitobito (1994)(Silky's)(Disk 2 of 5)[Disk B].dcp
+:	:	Nonomura Byioin no Hitobito (1994)(Silky's)(Disk 3 of 5)[Disk C].dcp
+:	:	Nonomura Byioin no Hitobito (1994)(Silky's)(Disk 4 of 5)[Disk D].dcp
+:	:	Nonomura Byioin no Hitobito (1994)(Silky's)(Disk 5 of 5)[Disk E].dcp
+:	:	Nostalgia 1907 (19xx)(Sur de Wave)(Disk 1 of 4)(System Disk).dcp
+:	:	Nostalgia 1907 (19xx)(Sur de Wave)(Disk 2 of 4)(Disk 1).dcp
+:	:	Nostalgia 1907 (19xx)(Sur de Wave)(Disk 3 of 4)(Disk 2).dcp
+:	:	Nostalgia 1907 (19xx)(Sur de Wave)(Disk 4 of 4)(Disk 3).dcp
+:	:	Oh! Kitsunesama (1995)(Curott)(Disk 1 of 5)[Disk A][Req Install].dcp
+:	:	Oh! Kitsunesama (1995)(Curott)(Disk 2 of 5)[Disk B][Req Install].dcp
+:	:	Oh! Kitsunesama (1995)(Curott)(Disk 3 of 5)[Disk C][Req Install].dcp
+:	:	Oh! Kitsunesama (1995)(Curott)(Disk 4 of 5)[Disk D][Req Install].dcp
+:	:	Oh! Kitsunesama (1995)(Curott)(Disk 5 of 5)[Disk E][Req Install].dcp
+:	:	Oh! Pai (1993)(Silky's)(Disk 1 of 5)[Disk A].dcp
+:	:	Oh! Pai (1993)(Silky's)(Disk 2 of 5)[Disk B].dcp
+:	:	Oh! Pai (1993)(Silky's)(Disk 3 of 5)[Disk C].dcp
+:	:	Oh! Pai (1993)(Silky's)(Disk 4 of 5)[Disk D].dcp
+:	:	Oh! Pai (1993)(Silky's)(Disk 5 of 5)[Disk E].dcp
+:	:	Oogon no Rashimban (19xx)(Riverhill Soft)(Disk 1 of 3)(System Disk).dcp
+:	:	Oogon no Rashimban (19xx)(Riverhill Soft)(Disk 2 of 3)(Data 1).dcp
+:	:	Oogon no Rashimban (19xx)(Riverhill Soft)(Disk 3 of 3)(Data 2).dcp
+:	:	Panorama Club (1993)(Parsley)(Disk 1 of 4)(System Disk).dcp
+:	:	Panorama Club (1993)(Parsley)(Disk 2 of 4)(Scenario 1).dcp
+:	:	Panorama Club (1993)(Parsley)(Disk 3 of 4)(Scenario 2).dcp
+:	:	Panorama Club (1993)(Parsley)(Disk 4 of 4)(Scenario 3).dcp
+:	:	Paparazzo (1996)(U-Me Soft)(Disk 1 of 8)[Disk A].dcp
+:	:	Paparazzo (1996)(U-Me Soft)(Disk 2 of 8)[Disk B].dcp
+:	:	Paparazzo (1996)(U-Me Soft)(Disk 3 of 8)[Disk C].dcp
+:	:	Paparazzo (1996)(U-Me Soft)(Disk 4 of 8)[Disk D].dcp
+:	:	Paparazzo (1996)(U-Me Soft)(Disk 5 of 8)[Disk E].dcp
+:	:	Paparazzo (1996)(U-Me Soft)(Disk 6 of 8)[Disk F].dcp
+:	:	Paparazzo (1996)(U-Me Soft)(Disk 7 of 8)[Disk G].dcp
+:	:	Paparazzo (1996)(U-Me Soft)(Disk 8 of 8)[Disk H].dcp
+:	:	Paradise Arena (19xx)(Janis)(Disk 1 of 6)[Disk A].dcp
+:	:	Paradise Arena (19xx)(Janis)(Disk 2 of 6)[Disk B].dcp
+:	:	Paradise Arena (19xx)(Janis)(Disk 3 of 6)[Disk C].dcp
+:	:	Paradise Arena (19xx)(Janis)(Disk 4 of 6)[Disk D].dcp
+:	:	Paradise Arena (19xx)(Janis)(Disk 5 of 6)[Disk E].dcp
+:	:	Paradise Arena (19xx)(Janis)(Disk 6 of 6)[Disk F].dcp
+:	:	Phobos (19xx)(Himeya Soft)(Disk 1 of 2).dcp
+:	:	Phobos (19xx)(Himeya Soft)(Disk 2 of 2).dcp
+:	:	Pinky Ponky (1989)(Elf).dcp
+:	:	Pinky Ponky 2 (1989)(Elf).dcp
+:	:	Pinky Ponky 3 (1989)(Elf).dcp
+:	:	Ponkan (1994)(Ponytail Soft)(Disk 1 of 5)(System Disk).dcp
+:	:	Ponkan (1994)(Ponytail Soft)(Disk 2 of 5)[Disk A].dcp
+:	:	Ponkan (1994)(Ponytail Soft)(Disk 3 of 5)[Disk B].dcp
+:	:	Ponkan (1994)(Ponytail Soft)(Disk 4 of 5)[Disk C].dcp
+:	:	Ponkan (1994)(Ponytail Soft)(Disk 5 of 5)[Disk D].dcp
+:	:	Pretty Mahjong Soldier Mu (1994)(Apple Pie)(Disk 1 of 3)[Disk A].dcp
+:	:	Pretty Mahjong Soldier Mu (1994)(Apple Pie)(Disk 2 of 3)[Disk B].dcp
+:	:	Pretty Mahjong Soldier Mu (1994)(Apple Pie)(Disk 3 of 3)[Disk C].dcp
+:	:	Puyo Puyo (1993)(Compile)(Disk 1 of 2).dcp
+:	:	Puyo Puyo (1993)(Compile)(Disk 2 of 2).dcp
+:	:	Quintia Road 2 (1993)(Communication Group Plum)(Disk 1 of 5)[Disk A].dcp
+:	:	Quintia Road 2 (1993)(Communication Group Plum)(Disk 2 of 5)[Disk B].dcp
+:	:	Quintia Road 2 (1993)(Communication Group Plum)(Disk 3 of 5)[Disk C].dcp
+:	:	Quintia Road 2 (1993)(Communication Group Plum)(Disk 4 of 5)[Disk D].dcp
+:	:	Quintia Road 2 (1993)(Communication Group Plum)(Disk 5 of 5)[Disk E].dcp
+:	:	Quiz Bancho (1992)(Active Software)(Disk 1 of 2).dcu
+:	:	Quiz Bancho (1992)(Active Software)(Disk 2 of 2).dcu
+:	:	Quiz Chiryaku no Hasya - Sangokushi Kitan (19xx)(Capcom)(Disk 1 of 2)[Disk A].dcp
+:	:	Quiz Chiryaku no Hasya - Sangokushi Kitan (19xx)(Capcom)(Disk 2 of 2)[Disk B].dcp
+:	:	Quiz Tonosama no Yabo (19xx)(System Soft)(Disk 1 of 2)[Disk A].dcp
+:	:	Quiz Tonosama no Yabo (19xx)(System Soft)(Disk 2 of 2)[Disk B].dcp
+:	:	Quiz de Let's go! (1993)(Mink)(Disk 1 of 3)[Disk A].dcp
+:	:	Quiz de Let's go! (1993)(Mink)(Disk 2 of 3)[Disk B].dcp
+:	:	Quiz de Let's go! (1993)(Mink)(Disk 3 of 3)[Disk C].dcp
+:	:	Rabuyuni (19xx)(C's Ware)(Disk 1 of 7)[Disk A][Req Install].dcp
+:	:	Rabuyuni (19xx)(C's Ware)(Disk 2 of 7)[Disk B][Req Install].dcp
+:	:	Rabuyuni (19xx)(C's Ware)(Disk 3 of 7)[Disk C][Req Install].dcp
+:	:	Rabuyuni (19xx)(C's Ware)(Disk 4 of 7)[Disk D][Req Install].dcp
+:	:	Rabuyuni (19xx)(C's Ware)(Disk 5 of 7)[Disk E][Req Install].dcp
+:	:	Rabuyuni (19xx)(C's Ware)(Disk 6 of 7)[Disk F][Req Install].dcp
+:	:	Rabuyuni (19xx)(C's Ware)(Disk 7 of 7)[Disk G][Req Install].dcp
+:	:	Ragnarook (1994)(Glodia)(Disk 1 of 7)(System Disk)[Req Install].dcp
+:	:	Ragnarook (1994)(Glodia)(Disk 2 of 7)[Disk A][Req Install].dcp
+:	:	Ragnarook (1994)(Glodia)(Disk 3 of 7)[Disk B][Req Install].dcp
+:	:	Ragnarook (1994)(Glodia)(Disk 4 of 7)[Disk C][Req Install].dcp
+:	:	Ragnarook (1994)(Glodia)(Disk 5 of 7)[Disk D][Req Install].dcp
+:	:	Ragnarook (1994)(Glodia)(Disk 6 of 7)[Disk E][Req Install].dcp
+:	:	Ragnarook (1994)(Glodia)(Disk 7 of 7)[Disk F][Req Install].dcp
+:	:	Rall 3 (1994)(Fairy Dust)(Disk 01 of 10)[Req Install].dcp
+:	:	Rall 3 (1994)(Fairy Dust)(Disk 02 of 10)[Req Install].dcp
+:	:	Rall 3 (1994)(Fairy Dust)(Disk 03 of 10)[Req Install].dcp
+:	:	Rall 3 (1994)(Fairy Dust)(Disk 04 of 10)[Req Install].dcp
+:	:	Rall 3 (1994)(Fairy Dust)(Disk 05 of 10)[Req Install].dcp
+:	:	Rall 3 (1994)(Fairy Dust)(Disk 06 of 10)[Req Install].dcp
+:	:	Rall 3 (1994)(Fairy Dust)(Disk 07 of 10)[Req Install].dcp
+:	:	Rall 3 (1994)(Fairy Dust)(Disk 08 of 10)[Req Install].dcp
+:	:	Rall 3 (1994)(Fairy Dust)(Disk 09 of 10)[Req Install].dcp
+:	:	Rall 3 (1994)(Fairy Dust)(Disk 10 of 10)[Req Install].dcp
+:	:	Red Cobra (1995)(Illusion)(Disk 1 of 8)[Disk A].dcp
+:	:	Red Cobra (1995)(Illusion)(Disk 2 of 8)[Disk B].dcp
+:	:	Red Cobra (1995)(Illusion)(Disk 3 of 8)[Disk C].dcp
+:	:	Red Cobra (1995)(Illusion)(Disk 4 of 8)[Disk D].dcp
+:	:	Red Cobra (1995)(Illusion)(Disk 5 of 8)[Disk E].dcp
+:	:	Red Cobra (1995)(Illusion)(Disk 6 of 8)[Disk F].dcp
+:	:	Red Cobra (1995)(Illusion)(Disk 7 of 8)[Disk G].dcp
+:	:	Red Cobra (1995)(Illusion)(Disk 8 of 8)[Disk H].dcp
+:	:	Ribbon (1995)(BonbeeBonBon)(Disk 1 of 5)[Disk A].dcp
+:	:	Ribbon (1995)(BonbeeBonBon)(Disk 2 of 5)[Disk B].dcp
+:	:	Ribbon (1995)(BonbeeBonBon)(Disk 3 of 5)[Disk C].dcp
+:	:	Ribbon (1995)(BonbeeBonBon)(Disk 4 of 5)[Disk D].dcp
+:	:	Ribbon (1995)(BonbeeBonBon)(Disk 5 of 5)[Disk E].dcp
+:	:	Ring Master 1 (19xx)(Hobby Japan)(Disk 1 of 2).dcu
+:	:	Ring Master 1 (19xx)(Hobby Japan)(Disk 2 of 2).dcu
+:	:	Ring Master 2 (19xx)(Hobby Japan)(Disk 1 of 2).dcu
+:	:	Ring Master 2 (19xx)(Hobby Japan)(Disk 2 of 2).dcu
+:	:	Ring Out (1995)(ZyX)(Disk 1 of 4)(System Disk).dcp
+:	:	Ring Out (1995)(ZyX)(Disk 2 of 4)(Game 1).dcp
+:	:	Ring Out (1995)(ZyX)(Disk 3 of 4)(Game 2).dcp
+:	:	Ring Out (1995)(ZyX)(Disk 4 of 4)(Game 3).dcp
+:	:	Rose (1991)(Ange)(Disk 1 of 3)[Disk A].dcp
+:	:	Rose (1991)(Ange)(Disk 2 of 3)[Disk B].dcp
+:	:	Rose (1991)(Ange)(Disk 3 of 3)[Disk C].dcp
+:	:	Rouge no Densetsu (1996)(D.O.)(Disk 01 of 12)[Disk A][Req Install].dcp
+:	:	Rouge no Densetsu (1996)(D.O.)(Disk 02 of 12)[Disk B][Req Install].dcp
+:	:	Rouge no Densetsu (1996)(D.O.)(Disk 03 of 12)[Disk C][Req Install].dcp
+:	:	Rouge no Densetsu (1996)(D.O.)(Disk 04 of 12)[Disk D][Req Install].dcp
+:	:	Rouge no Densetsu (1996)(D.O.)(Disk 05 of 12)[Disk E][Req Install].dcp
+:	:	Rouge no Densetsu (1996)(D.O.)(Disk 06 of 12)[Disk F][Req Install].dcp
+:	:	Rouge no Densetsu (1996)(D.O.)(Disk 07 of 12)[Disk G][Req Install].dcp
+:	:	Rouge no Densetsu (1996)(D.O.)(Disk 08 of 12)[Disk H][Req Install].dcp
+:	:	Rouge no Densetsu (1996)(D.O.)(Disk 09 of 12)[Disk I][Req Install].dcp
+:	:	Rouge no Densetsu (1996)(D.O.)(Disk 10 of 12)[Disk J][Req Install].dcp
+:	:	Rouge no Densetsu (1996)(D.O.)(Disk 11 of 12)[Disk K][Req Install].dcp
+:	:	Rouge no Densetsu (1996)(D.O.)(Disk 12 of 12)[Disk L][Req Install].dcp
+:	:	Satyr (19xx)(-)(Disk 1 of 4)[Disk A].dcp
+:	:	Satyr (19xx)(-)(Disk 2 of 4)[Disk B].dcp
+:	:	Satyr (19xx)(-)(Disk 3 of 4)[Disk C].dcp
+:	:	Satyr (19xx)(-)(Disk 4 of 4)[Disk D].dcp
+:	:	Savage Empire, The (19xx)(Origin)(Disk 1 of 2)[Disk A].dcp
+:	:	Savage Empire, The (19xx)(Origin)(Disk 2 of 2)[Disk B].dcp
+:	:	School Girls (1995)(ScooP)(Disk 1 of 4).dcp
+:	:	School Girls (1995)(ScooP)(Disk 2 of 4).dcp
+:	:	School Girls (1995)(ScooP)(Disk 3 of 4).dcp
+:	:	School Girls (1995)(ScooP)(Disk 4 of 4).dcp
+:	:	Seek (1995)(PIL)(Disk 1 of 6)[Disk A].dcp
+:	:	Seek (1995)(PIL)(Disk 2 of 6)[Disk B].dcp
+:	:	Seek (1995)(PIL)(Disk 3 of 6)[Disk C].dcp
+:	:	Seek (1995)(PIL)(Disk 4 of 6)[Disk D].dcp
+:	:	Seek (1995)(PIL)(Disk 5 of 6)[Disk E].dcp
+:	:	Seek (1995)(PIL)(Disk 6 of 6)[Disk F].dcp
+:	:	Sengoku Kyoosha Monogatari Ransei (19xx)(-)(Disk 1 of 8)[Disk A][Req Install].dcp
+:	:	Sengoku Kyoosha Monogatari Ransei (19xx)(-)(Disk 2 of 8)[Disk B][Req Install].dcp
+:	:	Sengoku Kyoosha Monogatari Ransei (19xx)(-)(Disk 3 of 8)[Disk C][Req Install].dcp
+:	:	Sengoku Kyoosha Monogatari Ransei (19xx)(-)(Disk 4 of 8)[Disk D][Req Install].dcp
+:	:	Sengoku Kyoosha Monogatari Ransei (19xx)(-)(Disk 5 of 8)[Disk E][Req Install].dcp
+:	:	Sengoku Kyoosha Monogatari Ransei (19xx)(-)(Disk 6 of 8)[Disk F][Req Install].dcp
+:	:	Sengoku Kyoosha Monogatari Ransei (19xx)(-)(Disk 7 of 8)[Disk G][Req Install].dcp
+:	:	Sengoku Kyoosha Monogatari Ransei (19xx)(-)(Disk 8 of 8)[Disk H][Req Install].dcp
+:	:	Sexpress (1995)(Ange)(Disk 1 of 5)[Disk A][Req Install].dcp
+:	:	Sexpress (1995)(Ange)(Disk 2 of 5)[Disk B][Req Install].dcp
+:	:	Sexpress (1995)(Ange)(Disk 3 of 5)[Disk C][Req Install].dcp
+:	:	Sexpress (1995)(Ange)(Disk 4 of 5)[Disk D][Req Install].dcp
+:	:	Sexpress (1995)(Ange)(Disk 5 of 5)[Disk E][Req Install].dcp
+:	:	Shared Magic (19xx)(Heart Soft)(Disk 1 of 3)(System Disk).dcp
+:	:	Shared Magic (19xx)(Heart Soft)(Disk 2 of 3)(Data 1).dcp
+:	:	Shared Magic (19xx)(Heart Soft)(Disk 3 of 3)(Data 2).dcp
+:	:	Shinc (1993)(Libido)(Disk 1 of 4)(System Disk).dcp
+:	:	Shinc (1993)(Libido)(Disk 2 of 4)[Disk A].dcp
+:	:	Shinc (1993)(Libido)(Disk 3 of 4)[Disk B].dcp
+:	:	Shinc (1993)(Libido)(Disk 4 of 4)[Disk C].dcp
+:	:	Shinjuku Monogatari (1992)(Fairy Tale)(Disk 1 of 4)[Disk A].dcp
+:	:	Shinjuku Monogatari (1992)(Fairy Tale)(Disk 2 of 4)[Disk B].dcp
+:	:	Shinjuku Monogatari (1992)(Fairy Tale)(Disk 3 of 4)[Disk C].dcp
+:	:	Shinjuku Monogatari (1992)(Fairy Tale)(Disk 4 of 4)[Disk D].dcp
+:	:	Shizuku (1996)(Leaf)(Disk 1 of 5)[Disk A].dcp
+:	:	Shizuku (1996)(Leaf)(Disk 2 of 5)[Disk B].dcp
+:	:	Shizuku (1996)(Leaf)(Disk 3 of 5)[Disk C].dcp
+:	:	Shizuku (1996)(Leaf)(Disk 4 of 5)[Disk D].dcp
+:	:	Shizuku (1996)(Leaf)(Disk 5 of 5)[Disk E].dcp
+:	:	Shuuware no Tenshi (19xx)(Inter Heart)(Disk 1 of 6)[Disk A].dcp
+:	:	Shuuware no Tenshi (19xx)(Inter Heart)(Disk 2 of 6)[Disk B].dcp
+:	:	Shuuware no Tenshi (19xx)(Inter Heart)(Disk 3 of 6)[Disk C].dcp
+:	:	Shuuware no Tenshi (19xx)(Inter Heart)(Disk 4 of 6)[Disk D].dcp
+:	:	Shuuware no Tenshi (19xx)(Inter Heart)(Disk 5 of 6)[Disk E].dcp
+:	:	Shuuware no Tenshi (19xx)(Inter Heart)(Disk 6 of 6)[Disk F].dcp
+:	:	Suki! (1996)(Nikukyu)(Disk 1 of 7)[Disk A][Req Install].dcp
+:	:	Suki! (1996)(Nikukyu)(Disk 2 of 7)[Disk B][Req Install].dcp
+:	:	Suki! (1996)(Nikukyu)(Disk 3 of 7)[Disk C][Req Install].dcp
+:	:	Suki! (1996)(Nikukyu)(Disk 4 of 7)[Disk D][Req Install].dcp
+:	:	Suki! (1996)(Nikukyu)(Disk 5 of 7)[Disk E][Req Install].dcp
+:	:	Suki! (1996)(Nikukyu)(Disk 6 of 7)[Disk F][Req Install].dcp
+:	:	Suki! (1996)(Nikukyu)(Disk 7 of 7)[Disk G][Req Install].dcp
+:	:	Suzaku (19xx)(Wolf Team)(Disk 1 of 4)[Disk A].dcp
+:	:	Suzaku (19xx)(Wolf Team)(Disk 2 of 4)[Disk B].dcp
+:	:	Suzaku (19xx)(Wolf Team)(Disk 3 of 4)[Disk C].dcp
+:	:	Suzaku (19xx)(Wolf Team)(Disk 4 of 4)[Disk D].dcp
+:	:	Taboo (1995)(Apple Pie)(Disk 01 of 12)[Req Install].dcp
+:	:	Taboo (1995)(Apple Pie)(Disk 02 of 12)[Req Install].dcp
+:	:	Taboo (1995)(Apple Pie)(Disk 03 of 12)[Req Install].dcp
+:	:	Taboo (1995)(Apple Pie)(Disk 04 of 12)[Req Install].dcp
+:	:	Taboo (1995)(Apple Pie)(Disk 05 of 12)[Req Install].dcp
+:	:	Taboo (1995)(Apple Pie)(Disk 06 of 12)[Req Install].dcp
+:	:	Taboo (1995)(Apple Pie)(Disk 07 of 12)[Req Install].dcp
+:	:	Taboo (1995)(Apple Pie)(Disk 08 of 12)[Req Install].dcp
+:	:	Taboo (1995)(Apple Pie)(Disk 09 of 12)[Req Install].dcp
+:	:	Taboo (1995)(Apple Pie)(Disk 10 of 12)[Req Install].dcp
+:	:	Taboo (1995)(Apple Pie)(Disk 11 of 12)[Req Install].dcp
+:	:	Taboo (1995)(Apple Pie)(Disk 12 of 12)[Req Install].dcp
+:	:	Tekkaman Blade (19xx)(Syscom)(Disk 1 of 5)[Disk A].dcp
+:	:	Tekkaman Blade (19xx)(Syscom)(Disk 2 of 5)[Disk B].dcp
+:	:	Tekkaman Blade (19xx)(Syscom)(Disk 3 of 5)[Disk C].dcp
+:	:	Tekkaman Blade (19xx)(Syscom)(Disk 4 of 5)[Disk D].dcp
+:	:	Tekkaman Blade (19xx)(Syscom)(Disk 5 of 5)[Disk E].dcp
+:	:	Tenkousei (1995)(Space Project)(Disk 1 of 5)[Req Install].dcp
+:	:	Tenkousei (1995)(Space Project)(Disk 2 of 5)[Req Install].dcp
+:	:	Tenkousei (1995)(Space Project)(Disk 3 of 5)[Req Install].dcp
+:	:	Tenkousei (1995)(Space Project)(Disk 4 of 5)[Req Install].dcp
+:	:	Tenkousei (1995)(Space Project)(Disk 5 of 5)[Req Install].dcp
+:	:	Themm (1994)(Hervest)(Disk 1 of 3).dcp
+:	:	Themm (1994)(Hervest)(Disk 2 of 3).dcp
+:	:	Themm (1994)(Hervest)(Disk 3 of 3).dcp
+:	:	To Five (1994)(Palm Tree)(Disk 1 of 5)(System Disk).dcp
+:	:	To Five (1994)(Palm Tree)(Disk 2 of 5)[Disk A].dcp
+:	:	To Five (1994)(Palm Tree)(Disk 3 of 5)[Disk B].dcp
+:	:	To Five (1994)(Palm Tree)(Disk 4 of 5)[Disk C].dcp
+:	:	To Five (1994)(Palm Tree)(Disk 5 of 5)[Disk D].dcp
+:	:	To Night (1994)(Swat)(Disk 1 of 4)[Disk A][Req Install].dcp
+:	:	To Night (1994)(Swat)(Disk 2 of 4)[Disk B][Req Install].dcp
+:	:	To Night (1994)(Swat)(Disk 3 of 4)[Disk C][Req Install].dcp
+:	:	To Night (1994)(Swat)(Disk 4 of 4)[Disk D][Req Install].dcp
+:	:	Tokyo Fujoku Kikoo (1994)(Inter Heart)(Disk 1 of 5)[Req Install].dcp
+:	:	Tokyo Fujoku Kikoo (1994)(Inter Heart)(Disk 2 of 5)[Req Install].dcp
+:	:	Tokyo Fujoku Kikoo (1994)(Inter Heart)(Disk 3 of 5)[Req Install].dcp
+:	:	Tokyo Fujoku Kikoo (1994)(Inter Heart)(Disk 4 of 5)[Req Install].dcp
+:	:	Tokyo Fujoku Kikoo (1994)(Inter Heart)(Disk 5 of 5)[Req Install].dcp
+:	:	Trigger (1994)(ZyX)(Disk 1 of 7)[Req Install].dcp
+:	:	Trigger (1994)(ZyX)(Disk 2 of 7)[Req Install].dcp
+:	:	Trigger (1994)(ZyX)(Disk 3 of 7)[Req Install].dcp
+:	:	Trigger (1994)(ZyX)(Disk 4 of 7)[Req Install].dcp
+:	:	Trigger (1994)(ZyX)(Disk 5 of 7)[Req Install].dcp
+:	:	Trigger (1994)(ZyX)(Disk 6 of 7)[Req Install].dcp
+:	:	Trigger (1994)(ZyX)(Disk 7 of 7)[Req Install].dcp
+:	:	True Love (1995)(Parsley)(Disk 1 of 8).dcp
+:	:	True Love (1995)(Parsley)(Disk 2 of 8).dcp
+:	:	True Love (1995)(Parsley)(Disk 3 of 8).dcp
+:	:	True Love (1995)(Parsley)(Disk 4 of 8).dcp
+:	:	True Love (1995)(Parsley)(Disk 5 of 8).dcp
+:	:	True Love (1995)(Parsley)(Disk 6 of 8).dcp
+:	:	True Love (1995)(Parsley)(Disk 7 of 8).dcp
+:	:	True Love (1995)(Parsley)(Disk 8 of 8).dcp
+:	:	Tsumo Baka Nissi (1994)(Abogado Powers)(Disk 1 of 5)[Disk A][Req Install].dcp
+:	:	Tsumo Baka Nissi (1994)(Abogado Powers)(Disk 2 of 5)[Disk B][Req Install].dcp
+:	:	Tsumo Baka Nissi (1994)(Abogado Powers)(Disk 3 of 5)[Disk C][Req Install].dcp
+:	:	Tsumo Baka Nissi (1994)(Abogado Powers)(Disk 4 of 5)[Disk D][Req Install].dcp
+:	:	Tsumo Baka Nissi (1994)(Abogado Powers)(Disk 5 of 5)[Disk E][Req Install].dcp
+:	:	Ultima IV - The False Prophet (19xx)(Origin)(Disk 1 of 2)[Disk A].dcp
+:	:	Ultima IV - The False Prophet (19xx)(Origin)(Disk 2 of 2)[Disk B].dcp
+:	:	Ultima Underworld - The Stygian Abyss (1992)(Origin)(Disk 1 of 7)[Req Install].dcp
+:	:	Ultima Underworld - The Stygian Abyss (1992)(Origin)(Disk 2 of 7)[Req Install].dcp
+:	:	Ultima Underworld - The Stygian Abyss (1992)(Origin)(Disk 3 of 7)[Req Install].dcp
+:	:	Ultima Underworld - The Stygian Abyss (1992)(Origin)(Disk 4 of 7)[Req Install].dcp
+:	:	Ultima Underworld - The Stygian Abyss (1992)(Origin)(Disk 5 of 7)[Req Install].dcp
+:	:	Ultima Underworld - The Stygian Abyss (1992)(Origin)(Disk 6 of 7)[Req Install].dcp
+:	:	Ultima Underworld - The Stygian Abyss (1992)(Origin)(Disk 7 of 7)[Req Install].dcp
+:	:	Ura Mansion Hakkin (1996)(Illusion)(Disk 1 of 5)[Disk A].dcp
+:	:	Ura Mansion Hakkin (1996)(Illusion)(Disk 2 of 5)[Disk B].dcp
+:	:	Ura Mansion Hakkin (1996)(Illusion)(Disk 3 of 5)[Disk C].dcp
+:	:	Ura Mansion Hakkin (1996)(Illusion)(Disk 4 of 5)[Disk D].dcp
+:	:	Ura Mansion Hakkin (1996)(Illusion)(Disk 5 of 5)[Disk E].dcp
+:	:	Urotsukidouji (1990)(Fairy Tale)(Disk 1 of 2)[Disk A].dcp
+:	:	Urotsukidouji (1990)(Fairy Tale)(Disk 2 of 2)[Disk B].dcp
+:	:	Usagi Panic (19xx)(Softec)(Disk 1 of 3)[Disk A].dcp
+:	:	Usagi Panic (19xx)(Softec)(Disk 2 of 3)[Disk B].dcp
+:	:	Usagi Panic (19xx)(Softec)(Disk 3 of 3)[Disk C].dcp
+:	:	Vain Dream (19xx)(Glodia)(Disk 1 of 4)(System Disk).dcp
+:	:	Vain Dream (19xx)(Glodia)(Disk 2 of 4)[Disk A].dcp
+:	:	Vain Dream (19xx)(Glodia)(Disk 3 of 4)[Disk B].dcp
+:	:	Vain Dream (19xx)(Glodia)(Disk 4 of 4)[Disk C].dcp
+:	:	Venus (1994)(Parsley)(Disk 1 of 8)[Disk A].dcp
+:	:	Venus (1994)(Parsley)(Disk 2 of 8)[Disk B].dcp
+:	:	Venus (1994)(Parsley)(Disk 3 of 8)[Disk C].dcp
+:	:	Venus (1994)(Parsley)(Disk 4 of 8)[Disk D].dcp
+:	:	Venus (1994)(Parsley)(Disk 5 of 8)[Disk E].dcp
+:	:	Venus (1994)(Parsley)(Disk 6 of 8)[Disk F].dcp
+:	:	Venus (1994)(Parsley)(Disk 7 of 8)[Disk G].dcp
+:	:	Venus (1994)(Parsley)(Disk 8 of 8)[Disk H].dcp
+:	:	Viper 12 (1995)(Sogna)(Disk 01 of 10)(System Disk)[Req Install].dcp
+:	:	Viper 12 (1995)(Sogna)(Disk 02 of 10)(Disk 1)[Req Install].dcp
+:	:	Viper 12 (1995)(Sogna)(Disk 03 of 10)(Disk 2)[Req Install].dcp
+:	:	Viper 12 (1995)(Sogna)(Disk 04 of 10)(Disk 3)[Req Install].dcp
+:	:	Viper 12 (1995)(Sogna)(Disk 05 of 10)(Disk 4)[Req Install].dcp
+:	:	Viper 12 (1995)(Sogna)(Disk 06 of 10)(Disk 5)[Req Install].dcp
+:	:	Viper 12 (1995)(Sogna)(Disk 07 of 10)(Disk 6)[Req Install].dcp
+:	:	Viper 12 (1995)(Sogna)(Disk 08 of 10)(Disk 7)[Req Install].dcp
+:	:	Viper 12 (1995)(Sogna)(Disk 09 of 10)(Disk 8)[Req Install].dcp
+:	:	Viper 12 (1995)(Sogna)(Disk 10 of 10)(Disk 9)[Req Install].dcp
+:	:	Wonpara Wars 2 (1993)(Mink)(Disk 1 of 9).dcp
+:	:	Wonpara Wars 2 (1993)(Mink)(Disk 2 of 9).dcp
+:	:	Wonpara Wars 2 (1993)(Mink)(Disk 3 of 9).dcp
+:	:	Wonpara Wars 2 (1993)(Mink)(Disk 4 of 9).dcp
+:	:	Wonpara Wars 2 (1993)(Mink)(Disk 5 of 9).dcp
+:	:	Wonpara Wars 2 (1993)(Mink)(Disk 6 of 9).dcp
+:	:	Wonpara Wars 2 (1993)(Mink)(Disk 7 of 9).dcp
+:	:	Wonpara Wars 2 (1993)(Mink)(Disk 8 of 9).dcp
+:	:	Wonpara Wars 2 (1993)(Mink)(Disk 9 of 9).dcp
+:	:	Wrestling Angels v3 (19xx)(KSS)(Disk 01 of 10)[Disk A][Req Install].dcp
+:	:	Wrestling Angels v3 (19xx)(KSS)(Disk 02 of 10)[Disk B][Req Install].dcp
+:	:	Wrestling Angels v3 (19xx)(KSS)(Disk 03 of 10)[Disk C][Req Install].dcp
+:	:	Wrestling Angels v3 (19xx)(KSS)(Disk 04 of 10)[Disk D][Req Install].dcp
+:	:	Wrestling Angels v3 (19xx)(KSS)(Disk 05 of 10)[Disk E][Req Install].dcp
+:	:	Wrestling Angels v3 (19xx)(KSS)(Disk 06 of 10)[Disk F][Req Install].dcp
+:	:	Wrestling Angels v3 (19xx)(KSS)(Disk 07 of 10)[Disk G][Req Install].dcp
+:	:	Wrestling Angels v3 (19xx)(KSS)(Disk 08 of 10)[Disk H][Req Install].dcp
+:	:	Wrestling Angels v3 (19xx)(KSS)(Disk 09 of 10)[Disk I][Req Install].dcp
+:	:	Wrestling Angels v3 (19xx)(KSS)(Disk 10 of 10)[Disk J][Req Install].dcp
+:	:	X (1995)(Studio Mobius)(Disk 1 of 5)[Disk A].dcp
+:	:	X (1995)(Studio Mobius)(Disk 2 of 5)[Disk B].dcp
+:	:	X (1995)(Studio Mobius)(Disk 3 of 5)[Disk C].dcp
+:	:	X (1995)(Studio Mobius)(Disk 4 of 5)[Disk D].dcp
+:	:	X (1995)(Studio Mobius)(Disk 5 of 5)[Disk E].dcp
+:	:	Yan Yan no Gekitoo - Doosookai (1994)(Tenshindo)(Disk 1 of 4).dcp
+:	:	Yan Yan no Gekitoo - Doosookai (1994)(Tenshindo)(Disk 2 of 4).dcp
+:	:	Yan Yan no Gekitoo - Doosookai (1994)(Tenshindo)(Disk 3 of 4).dcp
+:	:	Yan Yan no Gekitoo - Doosookai (1994)(Tenshindo)(Disk 4 of 4).dcp
+:	:	Yokohama Eresy (1994)(FMC)(Disk 1 of 6)[Disk A].dcp
+:	:	Yokohama Eresy (1994)(FMC)(Disk 2 of 6)[Disk B].dcp
+:	:	Yokohama Eresy (1994)(FMC)(Disk 3 of 6)[Disk C].dcp
+:	:	Yokohama Eresy (1994)(FMC)(Disk 4 of 6)[Disk D].dcp
+:	:	Yokohama Eresy (1994)(FMC)(Disk 5 of 6)[Disk E].dcp
+:	:	Yokohama Eresy (1994)(FMC)(Disk 6 of 6)[Disk F].dcp
+:	:	Yumeutsutsu (19xx)(Megami)(Disk 1 of 3)(System Disk)[Req Install].dcp
+:	:	Yumeutsutsu (19xx)(Megami)(Disk 2 of 3)(Game 1)[Req Install].dcp
+:	:	Yumeutsutsu (19xx)(Megami)(Disk 3 of 3)(Game 2)[Req Install].dcp
+:	:	Yuuwaku no Toiki (1994)(May-Be Soft)(Disk 1 of 3)[Disk A][Req Install].dcp
+:	:	Yuuwaku no Toiki (1994)(May-Be Soft)(Disk 2 of 3)[Disk B][Req Install].dcp
+:	:	Yuuwaku no Toiki (1994)(May-Be Soft)(Disk 3 of 3)[Disk C][Req Install].dcp
+:	:	Zatuon Ryooiki (1994)(D.O.)(Disk 1 of 7)[Disk A].dcp
+:	:	Zatuon Ryooiki (1994)(D.O.)(Disk 2 of 7)[Disk B].dcp
+:	:	Zatuon Ryooiki (1994)(D.O.)(Disk 3 of 7)[Disk C].dcp
+:	:	Zatuon Ryooiki (1994)(D.O.)(Disk 4 of 7)[Disk D].dcp
+:	:	Zatuon Ryooiki (1994)(D.O.)(Disk 5 of 7)[Disk E].dcp
+:	:	Zatuon Ryooiki (1994)(D.O.)(Disk 6 of 7)[Disk F].dcp
+:	:	Zatuon Ryooiki (1994)(D.O.)(Disk 7 of 7)[Disk G].dcp
+:	:	Zenith (1994)(Himeya Soft)(Disk 1 of 4)[Disk A].dcp
+:	:	Zenith (1994)(Himeya Soft)(Disk 2 of 4)[Disk B].dcp
+:	:	Zenith (1994)(Himeya Soft)(Disk 3 of 4)[Disk C].dcp
+:	:	Zenith (1994)(Himeya Soft)(Disk 4 of 4)[Disk D].dcp

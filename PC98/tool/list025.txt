@@ -1,0 +1,10 @@
+You are missing 8 of 668 known SMS/SG-1000/SC-3000/SF-7000 ROMS
+
+Astro Warrior (UE) [o1] [crc-2]
+Double Dragon (UE) [!] [crc-2]
+Kenseiden (UE) [!] [crc-2]
+Quartet (UE) [o1]
+Super Magic Drive BIOS V4.1a [!]
+US-European SMS BIOS (Alex Kidd in Miracle World) (UE) [!]
+US-European SMS BIOS V2.4 (Hang On & Safari Hunt) (UE) [!]
+US-European SMS BIOS V3.4 (Hang On) (UE) [!]

@@ -1,0 +1,680 @@
+:	Sega Master System & Mark IIIhave.txt
+:	Sega Master System & Mark III
+:	:	20 em 1 (1995)(Tec Toy)(Br).sms
+:	:	Ace of Aces (1991)(Sega)(En).sms
+:	:	Action Fighter (1986)(Sega)(En).sms
+:	:	Action Fighter (1986)(Sega)(Jp).sms
+:	:	Addams Family, The (1990)(Acclaim)(En).sms
+:	:	Aerial Assult (1990)(Sega)(En).sms
+:	:	After Burner (1987)(Sega)(En).sms
+:	:	After Burner (1987)(Sega)(En)[b].sms
+:	:	Air Rescue (1992)(Sega)(En).sms
+:	:	Air Rescue (1992)(Sega)(En)[b].sms
+:	:	Air Rescue (1992)(Sega)(En)[tr Br].sms
+:	:	Air Rescue (1992)(Sega)(En)[tr Br][b].sms
+:	:	Akai Koudan Zillion (1987)(Sega)(Jp-En).sms
+:	:	Aladdin (1994)(Sega)(En).sms
+:	:	Aladdin (1994)(Sega)(En)[tr Fr].sms
+:	:	Aleste (1988)(Sega)(Jp).sms
+:	:	Alex Kidd - BMX Trial (1987)(Sega)(Jp).sms
+:	:	Alex Kidd - High Tech World (1989)(Sega)(En).sms
+:	:	Alex Kidd - High Tech World (1989)(Sega)(En)[tr De].sms
+:	:	Alex Kidd - The Lost Stars (1988)(Sega)(En).sms
+:	:	Alex Kidd - The Lost Stars (1988)(Sega)(En)[b].sms
+:	:	Alex Kidd in Miracle World (1986)(Sega)(En).sms
+:	:	Alex Kidd in Miracle World (1986)(Sega)(En)[o].sms
+:	:	Alex Kidd in Miracle World (1986)(Sega)(En)[tr Br].sms
+:	:	Alex Kidd in Miracle World (1986)(Sega)(En)[tr Br][a2].sms
+:	:	Alex Kidd in Miracle World (1986)(Sega)(En)[tr Br][a].sms
+:	:	Alex Kidd in Miracle World (1986)(Sega)(En)[tr Br][o].sms
+:	:	Alex Kidd in Miracle World (1986)(Sega)(En)[tr Fr].sms
+:	:	Alex Kidd in Miracle World (1986)(Sega)(En)[u].sms
+:	:	Alex Kidd in Miracle World (1986)(Sega)(Jp).sms
+:	:	Alex Kidd in Miracle World (1986)(Sega)(US).sms
+:	:	Alex Kidd in Shinobi World (1990)(Sega)(En).sms
+:	:	Alex Kidd in Shinobi World (1990)(Sega)(En)[b2].sms
+:	:	Alex Kidd in Shinobi World (1990)(Sega)(En)[b].sms
+:	:	Alf (1989)(Sega)(En).sms
+:	:	Alien 3 (1992)(Acclaim)(En).sms
+:	:	Alien Storm (1991)(Sega)(En).sms
+:	:	Alien Syndrome (1987)(Sega)(En).sms
+:	:	Altered Beast (1988)(Sega)(En).sms
+:	:	American Baseball (1989)(Sega)(En).sms
+:	:	American Pro Football (1989)(Sega)(En).sms
+:	:	Andre Agassi Tennis (1993)(TecMagik)(En).sms
+:	:	Andre Agassi Tennis (1993)(TecMagik)(En)[tr Br].sms
+:	:	Anmitsu Hime (1987)(Sega)(Jp).sms
+:	:	Arcade Smash Hits (1992)(Virgin)(En).sms
+:	:	Argos no ju-jiken (1988)(Salio)(Jp).sms
+:	:	Argos no ju-jiken (1988)(Salio)(Jp)[a].sms
+:	:	Ashura (1986)(Sega)(Jp).sms
+:	:	Assault City (1990)(Sega)(En).sms
+:	:	Assault City (1990)(Sega)(En)[lightgun version].sms
+:	:	Asterix (1991)(Sega)(En).sms
+:	:	Asterix (1991)(Sega)(En)[a].sms
+:	:	Asterix and the Great Rescue (1994)(Sega)(M5).sms
+:	:	Asterix and the Secret Mission (1993)(Sega)(M3).sms
+:	:	Astro Flash (1985)(Sega)(Jp).sms
+:	:	Astro Warrior (1986)(Sega)(En).sms
+:	:	Astro Warrior (1986)(Sega)(En)[b].sms
+:	:	Astro Warrior (1986)(Sega)(En)[o][b2].sms
+:	:	Astro Warrior (1986)(Sega)(En)[o][b].sms
+:	:	Ayrton Senna's Super Monaco GP II (1992)(Sega)(En).sms
+:	:	Aztec Adventure - The Golden Road To Paradise (1987)(Sega)(En-Jp).sms
+:	:	Aztec Adventure - The Golden Road To Paradise (1987)(Sega)(En-Jp)[o].sms
+:	:	Back to the Future 2 (1990)(Mirrorsoft)(En).sms
+:	:	Back to the Future 3 (1991)(Mirrorsoft)(En).sms
+:	:	Baku Baku Animal (1996)(Sega)(Br).sms
+:	:	Bank Panic (1987)(Sega)(En).sms
+:	:	Bank Panic (1987)(Sega)(En)[a].sms
+:	:	Barcelona '92 - Olympic Gold (1992)(Sega)(M8)[Game Gear dump].sms
+:	:	Barcelona '92 - Olympic Gold (1992)(Sega)(M8)[a][Game Gear dump].sms
+:	:	Barcelona '92 - Olympic Gold (1992)(Sega)(M8)[b][Game Gear dump].sms
+:	:	Bart vs. the Space Mutants (1992)(Acclaim)(En).sms
+:	:	Bart vs. the World (1993)(Acclaim)(En).sms
+:	:	Basket Ball Nightmare (1989)(Sega)(En).sms
+:	:	Basket Ball Nightmare (1989)(Sega)(En)[b].sms
+:	:	Batman Returns (1992)(Sega)(En).sms
+:	:	Battle Out Run (1989)(Sega)(En).sms
+:	:	Battlemaniacs (1994)(Virgin)(En).sms
+:	:	Black Belt (1986)(Sega)(En).sms
+:	:	Black Belt (1986)(Sega)(En)[o].sms
+:	:	Blade Eagle 3D (1988)(Sega)(En).sms
+:	:	Blade Eagle 3D (1998)(Sega)(En)[tr Br].sms
+:	:	Bomber Raid (1988)(Sega)(En).sms
+:	:	Bomber Raid (1988)(Sega)(En)[b].sms
+:	:	Bonanza Bros. (1991)(Sega)(En).sms
+:	:	Bonkers Wax Up! (1994)(Sega)(En).sms
+:	:	Borgman (1988)(Sega)(Jp).sms
+:	:	Bram Stoker's Dracula (1992)(Sony)(En).sms
+:	:	Bram Stoker's Dracula (1992)(Sony)(En)[tr Br].sms
+:	:	Bubble Bobble (1991)(Taito)(En).sms
+:	:	Bubble Bobble (1991)(Taito)(En)[tr Fr].sms
+:	:	Buggy Run (1993)(Sega)(En).sms
+:	:	California Games (1989)(Sega)(En).sms
+:	:	California Games (1999)(Sega)(En)[tr Br].sms
+:	:	California Games 2 (1993)(Sega)(En).sms
+:	:	California Games 2 (1993)(Sega)(En)[b].sms
+:	:	Captain Silver (1988)(Sega)(UK).sms
+:	:	Captain Silver (1988)(Sega)(UK)[b].sms
+:	:	Captain Silver (1989)(Sega)(US).sms
+:	:	Casino Games (1989)(Sega)(En).sms
+:	:	Casino Games (1989)(Sega)(En)[b2].sms
+:	:	Casino Games (1989)(Sega)(En)[b].sms
+:	:	Castelo Ra Tim Bum (1997)(Sega)(Br).sms
+:	:	Castelo Ra Tim Bum (1997)(Sega)(Br)[b].sms
+:	:	Castle Of Illusion staring Mickey Mouse (1990)(Sega)(En).sms
+:	:	Castle Of Illusion staring Mickey Mouse (1991)(Sega)(Jp)[Game Gear dump].sms
+:	:	Castle Of Illusion staring Mickey Mouse (1991)(Sega)(Jp)[a][Game Gear dump].sms
+:	:	Champions Of Europe (1992)(TecMagik)(En).sms
+:	:	Championship Hockey (1992)(U.S. Gold)(En).sms
+:	:	Chapolim x Dracula - Um Duelo Assustador (1993)(Sega)(Br).sms
+:	:	Chase H.Q. (1991)(Taito)(En)[Game Gear dump].sms
+:	:	Chase H.Q. (1991)(Taito)(En)[b][Game Gear dump].sms
+:	:	Chase H.Q. (1991)(Taito)(En)[o][Game Gear dump].sms
+:	:	Chase H.Q. (1991)(Taito)(En)[o][b][Game Gear dump].sms
+:	:	Checkstate v1.0 (1999)(Dave)(PD).sms
+:	:	Cheese Cat-Astrophe staring Speedy Gonzales' (1995)(Sega)(M4).sms
+:	:	Cheese Cat-Astrophe staring Speedy Gonzales' (1995)(Sega)(M4)[u].sms
+:	:	Choplifter (1985)(Sega)(En).sms
+:	:	Choplifter (1985)(Sega)(En)[o].sms
+:	:	Choplifter (1985)(Sega)(En)[o][b2].sms
+:	:	Choplifter (1985)(Sega)(En)[o][b].sms
+:	:	Chuck Rock (1992)(Virgin)(En).sms
+:	:	Chuck Rock II - Son of Chuck (1993)(Core Design)(En).sms
+:	:	Cloud Master (1989)(Hot B. Co.)(Jp).sms
+:	:	Cloud Master (1989)(Hot B. Co.)(Jp)[b].sms
+:	:	Columns (1990)(Sega)(En).sms
+:	:	Cool Spot (1993)(Virgin)(En).sms
+:	:	Cool Spot (1993)(Virgin)(En)[b].sms
+:	:	Copyright Violation (2002)(Heliophobe)(PD).sms
+:	:	Cosmic Spacehead (1993)(Codemasters)(M4).sms
+:	:	Cyber Shinobi, The - Shinobi part 2 (1990)(Sega)(En).sms
+:	:	Cyber Shinobi, The - Shinobi part 2 (1990)(Sega)(En)[tr Fr].sms
+:	:	Cyborg Hunter (1988)(Sega)(En).sms
+:	:	Cyborg Hunter (1988)(Sega)(En)[tr Br].sms
+:	:	Daffy Duck in Hollywood (1994)(Sega)(M5).sms
+:	:	Damiana v2.0 (2000)(-)(PD).sms
+:	:	Danan - The Jungle Fighter (1990)(Sega)(En).sms
+:	:	Dead Angle (1989)(Sega)(En).sms
+:	:	Dead Angle (1989)(Sega)(En)[b].sms
+:	:	Deep Duck Trouble staring Donald Duck (1993)(Sega)(En).sms
+:	:	Desert Speedtrap staring Road Runner and Wile E. Coyote (1993)(Sega)(M5).sms
+:	:	Desert Strike (1992)(Domark)(M4).sms
+:	:	Desert Strike (1992)(Domark)(M4)[b2].sms
+:	:	Desert Strike (1992)(Domark)(M4)[b].sms
+:	:	Dick Tracy (1990)(Sega)(En).sms
+:	:	Dodgeball King (1995)(Game Line Co.)[Kr].sms
+:	:	Double Dragon (1988)(Sega)(En).sms
+:	:	Double Dragon (1988)(Sega)(En)[a].sms
+:	:	Double Dragon (1988)(Sega)(En)[b].sms
+:	:	Double Hawk (1990)(Sega)(En).sms
+:	:	Double Hawk (1990)(Sega)(En)[b].sms
+:	:	Double Target (1987)(Sega)(Jp).sms
+:	:	Dr. Robotnik's Mean Bean Machine (1993)(Sega)(En).sms
+:	:	Dragon (1993)(Virgin)(En).sms
+:	:	Dragon Crystal (1991)(Sega)(En).sms
+:	:	Dynamite Duke (1991)(Sega)(En).sms
+:	:	Dynamite Duke (1991)(Sega)(En)[b].sms
+:	:	Dynamite Dux (1989)(Sega)(En).sms
+:	:	E-Swat - City Under Siege (1990)(Sega)(En).sms
+:	:	E-Swat - City Under Siege (1990)(Sega)(En)[a].sms
+:	:	Ecco (1993)(Sega)(En).sms
+:	:	Ecco - The Tides of Time (1994)(Sega)(Br).sms
+:	:	Enduro Racer (1987)(Sega)(En).sms
+:	:	Enduro Racer (1987)(Sega)(En)[b].sms
+:	:	Enduro Racer (1987)(Sega)(En)[tr Br].sms
+:	:	Enduro Racer (1987)(Sega)(Jp).sms
+:	:	Excellent Dizzy (1994)(Codemasters)(M5)[Game Gear dump].sms
+:	:	F-16 Fighter (1985)(Sega)(En).sms
+:	:	F-16 Fighting Falcon (1985)(Sega)(Jp).sms
+:	:	F1 (1993)(Domark)(En).sms
+:	:	Fantastic Dizzy (1993)(Codemasters)(M4)[Game Gear dump].sms
+:	:	Fantasy Zone (1986)(Sega)(En).sms
+:	:	Fantasy Zone (1986)(Sega)(En)[o].sms
+:	:	Fantasy Zone - The Maze (1987)(Sega)(En).sms
+:	:	Fantasy Zone - The Maze (1987)(Sega)(En)[o].sms
+:	:	Fantasy Zone II - The Tears of Opa-Opa (1987)(Sega)(En).sms
+:	:	Fantasy Zone II - The Tears of Opa-Opa (1987)(Sega)(En)[b].sms
+:	:	Fantasy Zone II - The Tears of Opa-Opa (1987)(Sega)(Jp).sms
+:	:	Final Bubble Bobble (1988)(Taito)(Jp).sms
+:	:	Fire and Forget II (1990)(Titus)(En).sms
+:	:	Flash, The (1993)(Sega)(En).sms
+:	:	Flintstones, The (1990)(Grandslam)(En).sms
+:	:	Forgotten Worlds (1991)(Sega)(En).sms
+:	:	G-Loc Air Battle - Loss of Consciousness by G-Force (1991)(Sega)(En).sms
+:	:	GP Rider (1993)(Sega)(En).sms
+:	:	Gain Ground (1990)(Sega)(En).sms
+:	:	Galactic Protector (1988)(Sega)(Jp).sms
+:	:	Galaxy Force (1989)(Sega)(UK).sms
+:	:	Galaxy Force (1989)(Sega)(US).sms
+:	:	Game Box Esportes Radicais (1989)(Sega)(Br).sms
+:	:	Gangster Town (1987)(Sega)(En).sms
+:	:	Gauntlet (1990)(U.S. Gold)(En).sms
+:	:	Gauntlet (1990)(U.S. Gold)(En)[b].sms
+:	:	George Foreman's KO Boxing (1992)(Acclaim)(En).sms
+:	:	Geraldinho (1999)(Sega)(Br).sms
+:	:	Ghost House (1986)(Sega)(En).sms
+:	:	Ghost House (1986)(Sega)(En)[o2].sms
+:	:	Ghost House (1986)(Sega)(En)[o3].sms
+:	:	Ghost House (1986)(Sega)(En)[o].sms
+:	:	Ghost House (1986)(Sega)(En)[o][b2].sms
+:	:	Ghost House (1986)(Sega)(En)[o][b].sms
+:	:	Ghost House (1986)(Sega)(En)[tr Br].sms
+:	:	Ghost House (1986)(Sega)(Jp).sms
+:	:	Ghostbusters (1986)(Sega)(En).sms
+:	:	Ghouls 'n Ghosts (1990)(Sega)(En).sms
+:	:	Ghouls 'n Ghosts (1990)(Sega)(En)[tr Br].sms
+:	:	Global Defense (1987)(Sega)(En).sms
+:	:	Global Defense (1987)(Sega)(En)[o].sms
+:	:	Golden Axe (1989)(Sega)(En).sms
+:	:	Golden Axe (1989)(Sega)(En)[b].sms
+:	:	Golden Axe Warrior (1991)(Sega)(En).sms
+:	:	Golden Axe Warrior (1991)(Sega)(En)[tr Br].sms
+:	:	Golden Axe Warrior (1991)(Sega)(En)[tr Br][a].sms
+:	:	Golden Axe Warrior (1991)(Sega)(En)[tr Br][a][incomplete].sms
+:	:	Golden Axe Warrior (1991)(Sega)(En)[tr De].sms
+:	:	Golden Axe Warrior (1991)(Sega)(En)[tr Fr].sms
+:	:	Golfamania (1990)(Sega)(En).sms
+:	:	Golfamania (1990)(Sega)(En)[a].sms
+:	:	Golvellius (1988)(Sega)(En).sms
+:	:	Golvellius (1988)(Sega)(En)[tr Br].sms
+:	:	Golvellius (1988)(Sega)(En)[tr De].sms
+:	:	Golvellius (1988)(Sega)(En)[tr Fr].sms
+:	:	Golvellius (1988)(Sega)(Jp).sms
+:	:	Good Advice (2000)(Nicolas Warren)(PD).sms
+:	:	Great Baseball (1985)(Sega)(Jp).sms
+:	:	Great Baseball (1987)(Sega)(En).sms
+:	:	Great Basketball (1987)(Sega)(En).sms
+:	:	Great Football (1987)(Sega)(En).sms
+:	:	Great Football (1987)(Sega)(En)[o].sms
+:	:	Great Golf (1986)(Sega)(Jp).sms
+:	:	Great Golf (1987)(Sega)(En).sms
+:	:	Great Golf (1987)(Sega)(En)[o].sms
+:	:	Great Golf (1987)(Sega)(En)[o][b].sms
+:	:	Great Ice Hockey (1986)(Sega)(En).sms
+:	:	Great Soccer (1985)(Sega)(Jp).sms
+:	:	Great Soccer (1987)(Sega)(En).sms
+:	:	Great Soccer (1987)(Sega)(En)[o].sms
+:	:	Great Volley Ball (1987)(Sega)(En).sms
+:	:	Great Volley Ball (1987)(Sega)(En)[b].sms
+:	:	Great Volley Ball (1987)(Sega)(Jp).sms
+:	:	Haja no Fuuin (1987)(Sega)(Jp).sms
+:	:	Hang On & Safari Hunt (1986)(Sega)(En)[b].sms
+:	:	Hang On (1985)(Sega)(En).sms
+:	:	Hang On (1985)(Sega)(En)[tr Br].sms
+:	:	Hang On (1985)(Sega)(En)[tr Br][a].sms
+:	:	Hang On (1985)(Sega)(Jp).sms
+:	:	Happy Looser (2001)(Omar Cornut)(PD).sms
+:	:	Heavyweight Champ (1991)(Sega)(En).sms
+:	:	Heroes of the Lance (1991)(U.S. Gold)(En).sms
+:	:	High School Kimengumi (1986)(Sega)(Jp).sms
+:	:	Hokuto no Ken (1986)(Sega)(Jp).sms
+:	:	Hokuto no Ken (1986)(Sega)[Cn].sms
+:	:	Home Alone (1993)(Sega)(En).sms
+:	:	Hook (1992)(Sony)(En).sms
+:	:	Hook (1992)(Sony)(En)[tr Br].sms
+:	:	Hoshi Wo Sagashite (1988)(Sega)(Jp).sms
+:	:	Impossible Mission (1986)(Sega)(En).sms
+:	:	Incredible Crash Dummies, The (1993)(Acclaim)(En).sms
+:	:	Incredible Hulk, The (1994)(U.S. Gold)(En).sms
+:	:	Indiana Jones and the Last Crusade (1990)(Lucasarts)(En).sms
+:	:	James Bond 007 - The Duel (1993)(Domark)(Br).sms
+:	:	James Bond 007 - The Duel (1993)(Domark)(Br)[b].sms
+:	:	James Bond 007 - The Duel (1993)(Domark)(En).sms
+:	:	James Pond II - Codename Robocod (19xx)(Sega)(En).sms
+:	:	James Pond II - Codename Robocod (19xx)(Sega)(En)[b].sms
+:	:	Joe Montana Football (1990)(Sega)(En).sms
+:	:	Jogos de Verao II (1993)(Sega)(Br).sms
+:	:	Jungle Book (1993)(Virgin)(En).sms
+:	:	Jungle Book (1993)(Virgin)(En)[b].sms
+:	:	Jungle Book (1993)(Virgin)(En)[tr Br][b].sms
+:	:	Jurassic Park (1993)(Sega)(En).sms
+:	:	Kenseiden (1988)(Sega)(En).sms
+:	:	Kenseiden (1988)(Sega)(En)[tr Br].sms
+:	:	Kenseiden (1988)(Sega)(En)[tr Fr].sms
+:	:	Kenseiden (1988)(Sega)(Jp).sms
+:	:	King's Quest (1989)(Parker Brothers)(En).sms
+:	:	Klax (1991)(Tengen)(En).sms
+:	:	Klax (1991)(Tengen)(En)[b2].sms
+:	:	Klax (1991)(Tengen)(En)[b].sms
+:	:	Klax (1991)(Tengen)(En)[u][b].sms
+:	:	Krusty's Fun House (1993)(Acclaim)(En).sms
+:	:	Kujakuou (1988)(Sega)(Jp)[b].sms
+:	:	Kung Fu Kid (1987)(Sega)(En).sms
+:	:	Kung Fu Kid (1987)(Sega)(En)[o].sms
+:	:	Land of Illusion starring Mickey Mouse (1992)(Sega)(En).sms
+:	:	Laser Ghost (1991)(Sega)(En).sms
+:	:	Legend of Illusion starring Mickey Mouse (1994)(Sega)(Br).sms
+:	:	Lemmings (1992)(Sega)(En).sms
+:	:	Lemmings (1992)(Sega)(En)[a].sms
+:	:	Line of Fire (1991)(Sega)(En).sms
+:	:	Lion King, The (1994)(Sega)(En).sms
+:	:	Lord of Sword (1988)(Sega)(Jp).sms
+:	:	Lord of the Sword (1988)(Sega)(En).sms
+:	:	Lord of the Sword (1988)(Sega)(En)[b].sms
+:	:	Loretta no Shouzou (1987)(Sega)(Jp).sms
+:	:	Lucky Dime Caper, The starring Donald Duck (1991)(Sega)(En).sms
+:	:	Lucky Dime Caper, The starring Donald Duck (1991)(Sega)(En)[tr Br].sms
+:	:	Machine Gun Joe (1986)(Sega)(Jp).sms
+:	:	Magic Drive Plus Bios (199x)(Sega)(En).sms
+:	:	Mahjong Sengoku Jidai (1987)(Sega)(Jp).sms
+:	:	Mahjong Sengoku Jidai (1987)(Sega)(Jp)[o].sms
+:	:	Mahjong Sengoku Jidai (1987)(Sega)(Jp)[o][b].sms
+:	:	Makai Retsuden (1987)(Sega)(Jp).sms
+:	:	Marble Madness (1991)(Tengen)(En).sms
+:	:	Marble Madness (1991)(Tengen)(En)[b].sms
+:	:	Master of Darkness (1992)(Sega)(En).sms
+:	:	Master of Darkness (1992)(Sega)(En)[b].sms
+:	:	Masters of Combat (1993)(Sega)(En).sms
+:	:	Masters of Combat (1993)(Sega)(En)[b].sms
+:	:	Maze Hunter 3D (1987)(Sega)(En).sms
+:	:	Maze Walker (1987)(Sega)(Jp).sms
+:	:	Mega Drive 6-Button Pad Test (2001)(Charles MacDonald)(PD).sms
+:	:	Megumi Rescue (1988)(Sega)(Jp).sms
+:	:	Mercs (1991)(Sega)(En).sms
+:	:	Michael Jackson's Moonwalker (1990)(Sega)(En).sms
+:	:	Michael Jackson's Moonwalker (1990)(Sega)(En)[b].sms
+:	:	Mick & Mack as the Global Gladiators (1992)(Virgin)(En).sms
+:	:	Mick & Mack as the Global Gladiators (1992)(Virgin)(En)[b].sms
+:	:	Mick & Mack as the Global Gladiators (1992)(Virgin)(En)[o].sms
+:	:	Mick & Mack as the Global Gladiators (1992)(Virgin)(En)[o][b].sms
+:	:	Mickey's Ultimate Challenge (1994)(Sega)(Br).sms
+:	:	Mickey's Ultimate Challenge (1994)(Sega)(Br)[o].sms
+:	:	Micro Machines (1993)(Codemasters)(En).sms
+:	:	Micro Machines (1993)(Codemasters)(En)[u][b].sms
+:	:	Miracle Warriors (1988)(Sega)(En).sms
+:	:	Miracle Warriors (1988)(Sega)(En)[b].sms
+:	:	Missile Defense 3D (1987)(Sega)(En).sms
+:	:	Monica no Castelo do Dragao (1991)(Tec Toy)(Br)[b].sms
+:	:	Monica no Castelo do Dragao (1991)(Tec Toy)(Br)[h RHW][Magali no Castelo do Dragao].sms
+:	:	Monopoly (1987)(Sega)(En).sms
+:	:	Monopoly (1987)(Sega)(En)[cart label Mono Poly].sms
+:	:	Montezuma's Revenge (1989)(Parker Borthers)(US).sms
+:	:	Mortal Kombat (1993)(Acclaim)(En).sms
+:	:	Mortal Kombat 3 (1995)(Sega)(Br).sms
+:	:	Mortal Kombat II (1994)(Accalim)(En).sms
+:	:	Mortal Kombat II (1994)(Accalim)(En)[b].sms
+:	:	Ms. Pac-Man (1991)(Tengen)(En).sms
+:	:	My Hero (1986)(Sega)(En).sms
+:	:	My Hero (1986)(Sega)(En)[o2].sms
+:	:	My Hero (1986)(Sega)(En)[o3].sms
+:	:	My Hero (1986)(Sega)(En)[o].sms
+:	:	My Hero (1986)(Sega)(Jp).sms
+:	:	Nekyuu Kousien (1988)(Sega)(Jp).sms
+:	:	New Zealand Story, The (1992)(TecMagik)(En).sms
+:	:	New Zealand Story, The (1992)(TecMagik)(En)[b].sms
+:	:	Ninja Gaiden (1992)(Sega)(En).sms
+:	:	Ninja Gaiden (1992)(Sega)(En)[a].sms
+:	:	Ninja Gaiden (1992)(Sega)(En)[tr De].sms
+:	:	Ninja Gaiden (1992)(Sega)(En)[tr Fr].sms
+:	:	Ninja Gaiden (1992)(Sega)(En)[tr Fr][a].sms
+:	:	Ninja, The (1986)(Sega)(En).sms
+:	:	Ninja, The (1986)(Sega)(En)[o2].sms
+:	:	Ninja, The (1986)(Sega)(En)[o].sms
+:	:	Not Only Words (2001)(Maxim)(PD).sms
+:	:	Only Words (1991)(Mike G)(PD).sms
+:	:	Opa Opa (1997)(Sega)(Jp).sms
+:	:	Operation Wolf (1989)(Taito)(En).sms
+:	:	Operation Wolf (1989)(Taito)(En)[tr Fr].sms
+:	:	Ottifants, The (1993)(Sega)(M5).sms
+:	:	Out Run (1987)(Sega)(En).sms
+:	:	Out Run (1987)(Sega)(En)[a].sms
+:	:	Out Run (1987)(Sega)(En)[b].sms
+:	:	Out Run 3D (1989)(Sega)(En).sms
+:	:	Out Run Europa (1991)(Sega)(En)[Game Gear dump].sms
+:	:	Out Run Europa (1991)(Sega)(En)[b][Game Gear dump].sms
+:	:	Out Run Europa (1991)(Sega)(En)[tr Br][Game Gear dump].sms
+:	:	PGA Tour Golf (1993)(Tengen)(En).sms
+:	:	Pac-Mania (1991)(TecMagik)(En).sms
+:	:	Pac-Mania (1991)(TecMagik)(En)[o].sms
+:	:	Pac-Mania (1991)(TecMagik)(En)[o][b].sms
+:	:	Page Frame Register Detect v1.00 (2001)(Eric Quinn)(PD).sms
+:	:	Page Frame Register Detect v2.00 (2001)(Eric Quinn)(PD).sms
+:	:	Palette Test (2001)(Charles MacDonald)(PD).sms
+:	:	Paperboy (1990)(Tengen)(En).sms
+:	:	Paperboy (1990)(Tengen)(En)[b].sms
+:	:	Paperboy (1990)(Tengen)(US).sms
+:	:	Paperboy (1990)(Tengen)(US)[b].sms
+:	:	Parlour Games (1987)(Sega)(En).sms
+:	:	Party Games (1987)(Sega)(Jp).sms
+:	:	Pat Riley Basketball (1989)(Sega)(En)(proto).sms
+:	:	Penguin Land (1987)(Sega)(En).sms
+:	:	Penguin Land (1987)(Sega)(Jp).sms
+:	:	Phantasy Star (1987)(Sega)(Jp).sms
+:	:	Phantasy Star (1987)(Sega)(Jp)[Saturn rip].sms
+:	:	Phantasy Star (1987)(Sega)(Jp)[tr En][b].sms
+:	:	Phantasy Star (1987)(Sega)[Kr].sms
+:	:	Phantasy Star (1988)(Sega)(Br).sms
+:	:	Phantasy Star (1988)(Sega)(En).sms
+:	:	Phantasy Star (1988)(Sega)(En)[b].sms
+:	:	Phantasy Star (1988)(Sega)(En)[h HK01].sms
+:	:	Phantasy Star (1988)(Sega)(En)[tr Fr].sms
+:	:	Photo (2002)(Maxim)(PD).sms
+:	:	Pit Fighter (1990)(Atari Games)(Br).sms
+:	:	Pit Fighter (1990)(Atari Games)(En).sms
+:	:	Pit Fighter (1990)(Atari Games)(En)[b].sms
+:	:	Pit Pot & Astro Warrior (1986)(Sega)(En).sms
+:	:	Pit Pot & Astro Warrior (1986)(Sega)(En)[o].sms
+:	:	Pit Pot & Astro Warrior (1986)(Sega)(En)[o][b].sms
+:	:	Pit Pot (1985)(Sega)(Jp).sms
+:	:	Populous (1991)(TecMagik)(En).sms
+:	:	Poseidon Wars 3D (1989)(Sega)(En).sms
+:	:	Power Strike (1988)(Sega)(En).sms
+:	:	Power Strike (1988)(Sega)(En)[o].sms
+:	:	Power Strike II (1993)(Sega)(En).sms
+:	:	Power Strike II (1993)(Sega)(En)[b].sms
+:	:	Predator 2 (1992)(Acclaim)(En).sms
+:	:	Predator 2 (1992)(Acclaim)(En)[Game Gear dump].sms
+:	:	Prince of Persia (1992)(Sega)(En)[Game Gear dump].sms
+:	:	Prince of Persia (1992)(Sega)(En)[a][Game Gear dump].sms
+:	:	Prince of Persia (1992)(Sega)(En)[b2][Game Gear dump].sms
+:	:	Prince of Persia (1992)(Sega)(En)[b][Game Gear dump].sms
+:	:	Pro Wrestling (1986)(Sega)(En).sms
+:	:	Pro Wrestling (1986)(Sega)(En)[o2].sms
+:	:	Pro Wrestling (1986)(Sega)(En)[o].sms
+:	:	Psychic World (1991)(Sega)(En).sms
+:	:	Psychic World (1991)(Sega)(En)[tr De].sms
+:	:	Psycho Fox (1989)(Sega)(En).sms
+:	:	Psycho Fox (1989)(Sega)(En)[h RHW][Jornada do Mymo II].sms
+:	:	Psycho Fox (1989)(Sega)(En)[h RHW][Jornada do Mymo].sms
+:	:	Psycho Fox (1989)(Sega)(En)[h RHW][Natal do Mymo].sms
+:	:	Psycho Fox (1989)(Sega)(En)[h RHW][R.H.W. 2000].sms
+:	:	Psycho Fox (1989)(Sega)(En)[h RHW][Sonic the Hedgehog vs. Os Mauniks].sms
+:	:	Psycho Fox (1989)(Sega)(En)[h RHW][Treinamento do Mymo].sms
+:	:	Psycho Fox (1989)(Sega)(En)[h RHW][a][Jornada do Mymo].sms
+:	:	Psycho Fox (1989)(Sega)(En)[h RHW][b][Jornada do Mymo].sms
+:	:	Psycho Fox (1989)(Sega)(En)[h][Master Smash Brothers].sms
+:	:	Psycho Fox (1989)(Sega)(En)[h][Pokemon Master].sms
+:	:	Putt & Putter (1992)(Sega)(En).sms
+:	:	Putt & Putter (1992)(Sega)(En)[a].sms
+:	:	Quartet (1987)(Sega)(En).sms
+:	:	Quartet (1987)(Sega)(En)[o].sms
+:	:	Quest for the Shaven Yak starring Ren Hoek & Stimpy (1993)(Sega)(Br).sms
+:	:	R-Type (1988)(Sega)(En).sms
+:	:	R-Type (1988)(Sega)(En)[tr Br].sms
+:	:	R-Type (1988)(Sega)(En)[tr Br][a].sms
+:	:	R.C. Grand Prix (1989)(Absolute Entertainment)(En).sms
+:	:	R.C. Grand Prix (1992)(Absolute Entertainment)(En)[Game Gear dump].sms
+:	:	R.C. Grand Prix (1992)(Absolute Entertainment)(En)[b][Game Gear dump].sms
+:	:	Rainbow Islands - The Story of Bubble Bobble 2 (1993)(Sega)(En).sms
+:	:	Rambo (1986)(Sega)(En).sms
+:	:	Rambo III (1988)(Sega)(En).sms
+:	:	Rampage (1988)(Sega)(En).sms
+:	:	Rampart (1991)(Tengen)(En).sms
+:	:	Rastan (1988)(Taito)(En).sms
+:	:	Rastan (1988)(Taito)(En)[b].sms
+:	:	Reggie Jackson Base-Ball (1988)(Sega)(US).sms
+:	:	Renegade (1993)(Sega)(En).sms
+:	:	Renegade (1993)(Sega)(En)[tr Br].sms
+:	:	Rescue Mission (1987)(Sega)(En).sms
+:	:	Road Rash (1992)(U.S. Gold)(En).sms
+:	:	Road Rash (1992)(U.S. Gold)(En)[h][credits removed].sms
+:	:	RoboCop 3 (1993)(Acclaim)(En).sms
+:	:	RoboCop versus The Terminator (1993)(Virgin)(En).sms
+:	:	Rocky (1987)(Sega)(En).sms
+:	:	Rocky (1987)(Sega)(En)[b].sms
+:	:	Running Battle (1991)(Sega)(En).sms
+:	:	S.D.I. (1987)(Sega)(Jp).sms
+:	:	SMS Boot Loader v0.9 (2001)(Omar Cornut)(PD).sms
+:	:	SMS Cast - A Tribute to Loose Logic (2002)(Omar Cornut)(PD).sms
+:	:	SMS Chip-8 Interpreter v0.1 (2002)(Maxim)(PD).sms
+:	:	SMS Palette (2001)(Omar Cornut)(PD).sms
+:	:	SMS Power Demo v0.32 (1999)(Omar Cornut)(PD).sms
+:	:	SMSC Text Demo v0.0 (1997)(SMSC)(PD)[Basic].sms
+:	:	SMSC Text Demo v1.0 (1997)(SMSC)(PD)[One].sms
+:	:	SMSC Text Demo v2.0 (1997)(SMSC)(PD)[Two].sms
+:	:	SMSC Text Demo v2.1 (1997)(SMSC)(PD)[Two01].sms
+:	:	Sagaia (1992)(Taito)(En).sms
+:	:	Sagaia (1992)(Taito)(En)[b].sms
+:	:	Sangokushi III (1994)(Game Line Co.)[Kr].sms
+:	:	Sapo Xule O Mestre do Kung Fu (1995)(Sega)(Br).sms
+:	:	Sapo Xule SOS Lagoa Poluida (1995)(Sega)(Br).sms
+:	:	Sapo Xule vs. Os Invasores Do Brejo (1995)(Sega)(Br).sms
+:	:	Satellite-7 (1985)(Sega)(Jp).sms
+:	:	Scramble Spirits (1988)(Sega)(En).sms
+:	:	Scramble Spirits (1988)(Sega)(En)[b].sms
+:	:	Scroll Test (2001)(Charles MacDonald)(PD).sms
+:	:	Secret Commando (1986)(Sega)(En).sms
+:	:	Secret Commando (1986)(Sega)(En)[o].sms
+:	:	Sega Chess (1991)(Sega)(En).sms
+:	:	Sega Chess (1991)(Sega)(En)[tr Sp].sms
+:	:	Sega Master System Bios v1.3 (1986)(Sega)(En).sms
+:	:	Sega Master System Bios v1.3 (1986)(Sega)(En)[h][auto plays Snail Game].sms
+:	:	Sega Master System Bios v2.1 (1987)(Sega)(Jp).sms
+:	:	Sega Master System Bios v2.4 (198x)(Sega)(En)[Hang On & Safari Hunt].sms
+:	:	Sega Master System Bios v3.4 (198x)(Sega)(En)[Hang On].sms
+:	:	Sega Master System Bios vx.x (1990)(Sega)(En)[Alex Kidd in Miracle World].sms
+:	:	Sega Master System Bios vx.x (1991)(Sega)(Eu)[Sonic the Hedgehog].sms
+:	:	Sega World Tournament Golf (1993)(Sega)(En).sms
+:	:	Seishyun Scandal (1986)(Sega)(Jp).sms
+:	:	Sensible Soccer (1993)(Sony)(En).sms
+:	:	Shadow Dancer (1991)(Sega)(En).sms
+:	:	Shadow of the Beast (1991)(TecMagik)(En).sms
+:	:	Shanghai (1988)(Sega)(En).sms
+:	:	Shanghai (1988)(Sega)(En)[o].sms
+:	:	Shinobi (1987)(Sega)(En).sms
+:	:	Shinobi (1987)(Sega)(En)[b].sms
+:	:	Shooting Gallery (1987)(Sega)(En).sms
+:	:	Simple Sprite Demo v2.0 (200x)(Heliophobe)(PD).sms
+:	:	Sitio do Picapau Amarelo (1997)(Tec Toy)(Br).sms
+:	:	Slap Shot (1990)(Sega)(En).sms
+:	:	Slap Shot (1990)(Sega)(En)[b].sms
+:	:	Smash T.V. (1990)(Acclaim)(En).sms
+:	:	Smurfs 2, The (1995)(Infogrames)(M4).sms
+:	:	Smurfs, The (1994)(Infogrames)(M4).sms
+:	:	Snail Music Demo (2000)(Eric Quinn)(PD).sms
+:	:	Solomon's Key (1988)(Salio)(Jp).sms
+:	:	Sonic Blast (1996)(Sega)(Br).sms
+:	:	Sonic Chaos (1993)(Sega)(En).sms
+:	:	Sonic Chaos (1993)(Sega)(En)[b].sms
+:	:	Sonic Spinball (1994)(Sega)(En).sms
+:	:	Sonic the Hedgehog (1991)(Sega)(En).sms
+:	:	Sonic the Hedgehog 2 v1.00 (1992)(Sega)(En).sms
+:	:	Sonic the Hedgehog 2 v2.20 (1992)(Sega)(En).sms
+:	:	Sound Test Program v1.1 (2001)(Heliophobe)(En).sms
+:	:	Space Gun (1992)(Taito)(En).sms
+:	:	Space Harrier (1986)(Sega)(En).sms
+:	:	Space Harrier (1986)(Sega)(Eu).sms
+:	:	Space Harrier (1986)(Sega)(Eu)[b].sms
+:	:	Space Harrier 3D (1988)(Sega)(En).sms
+:	:	Special Criminal Investigation (1992)(Taito)(En).sms
+:	:	Speedball (1990)(Mirrorsoft)(En).sms
+:	:	Speedball (1992)(Virgin)(En).sms
+:	:	Speedball II (1992)(Virgin)(En).sms
+:	:	Spellcaster (1989)(Sega)(En).sms
+:	:	Spellcaster (1989)(Sega)(En)[h][text changed].sms
+:	:	Spellcaster (1989)(Sega)(En)[tr Fr].sms
+:	:	Spider-Man - Return of the Sinister Six (1992)(Acclaim)(En).sms
+:	:	Spider-Man vs. The Kingpin (1990)(Sega)(En).sms
+:	:	Sport Pad Soccer (1987)(Sega)(Jp).sms
+:	:	Spy vs. Spy (1986)(Sega)(En).sms
+:	:	Spy vs. Spy (1986)(Sega)(Jp).sms
+:	:	Star Wars (1993)(U.S. Gold)(En).sms
+:	:	Street Fighter II (1997)(Tec Toy)(Br).sms
+:	:	Street Fighter II (1997)(Tec Toy)(Br)[b2].sms
+:	:	Street Fighter II (1997)(Tec Toy)(Br)[b].sms
+:	:	Streets of Rage (1993)(Sega)(En).sms
+:	:	Streets of Rage (1993)(Sega)(En)[b].sms
+:	:	Streets of Rage (1993)(Sega)(En)[tr Fr].sms
+:	:	Streets of Rage (1993)(Sega)(En)[tr Fr][b].sms
+:	:	Streets of Rage II (1993)(Sega)(En).sms
+:	:	Strider (1991)(Sega)(En).sms
+:	:	Strider (1991)(Sega)(En)[b].sms
+:	:	Strider (1991)(Sega)(En)[tr Br].sms
+:	:	Strider (1991)(Sega)(En)[tr Br][a].sms
+:	:	Strider (1991)(Sega)(En)[tr Br][b].sms
+:	:	Strider II (1992)(U.S. Gold)(En).sms
+:	:	Submarine Attack (1990)(Sega)(En).sms
+:	:	Sukeban Deka II (1987)(Sega)(Jp).sms
+:	:	Summer Games (1988)(Sega)(En).sms
+:	:	Super Futebol (199x)(Sega)(Br)[b].sms
+:	:	Super Kick Off (1991)(U.S. Gold)(M8).sms
+:	:	Super Kick Off (1991)(U.S. Gold)(M8)[Game Gear dump].sms
+:	:	Super Kick Off (1991)(U.S. Gold)(M8)[b].sms
+:	:	Super Magic Drive Bios v3.0 (1991)(Sega)(En).sms
+:	:	Super Magic Drive Bios v4.1a (1993)(Sega)(En).sms
+:	:	Super Monaco GP (1990)(Sega)(En).sms
+:	:	Super Off Road (199x)(Virgin)(En).sms
+:	:	Super Racing (1988)(Sega)(Jp).sms
+:	:	Super Space Invaders (199x)(Domark)(En).sms
+:	:	Super Tennis (1986)(Sega)(En).sms
+:	:	Super Tetris (19xx)(-)[Kr].sms
+:	:	Super Tetris (19xx)(-)[o][Kr].sms
+:	:	Super Wonder Boy - Monster World (1988)(Sega)(Jp).sms
+:	:	Superman (1992)(Virgin)(En).sms
+:	:	Taz-Mania (1992)(Sega)(En).sms
+:	:	Taz-Mania (1992)(Sega)(En)[a].sms
+:	:	Taz-Mania (1992)(Sega)(En)[tr Br][a].sms
+:	:	Teddy Boy (1985)(Sega)(En).sms
+:	:	Teddy Boy (1985)(Sega)(En)[h CBT][Master Zelda].sms
+:	:	Teddy Boy (1985)(Sega)(En)[h RHW][Felipe em Acao].sms
+:	:	Teddy Boy (1985)(Sega)(En)[h RHW][Master Zelda].sms
+:	:	Teddy Boy (1985)(Sega)(En)[h RHW][Pokemon Amarelo].sms
+:	:	Teddy Boy (1985)(Sega)(En)[h RHW][Pokemon Azul].sms
+:	:	Teddy Boy (1985)(Sega)(En)[h RHW][Pokemon Secreto].sms
+:	:	Teddy Boy (1985)(Sega)(En)[h RHW][Pokemon Vermelho].sms
+:	:	Teddy Boy (1985)(Sega)(En)[h RHW][Rodrigo II em - Mate O Leonardo].sms
+:	:	Teddy Boy (1985)(Sega)(En)[h RHW][Sonic Boy 3 - Eggman's Room].sms
+:	:	Teddy Boy (1985)(Sega)(En)[h RHW][Teddy Boy & Geraldinho].sms
+:	:	Teddy Boy (1985)(Sega)(En)[h][Master Mario Bros].sms
+:	:	Teddy Boy (1985)(Sega)(En)[h][Rodrigo II em - Mate O Papai Noel].sms
+:	:	Teddy Boy Blues (1985)(Sega)(Jp).sms
+:	:	Temco World Cup '92 (1992)(Sega)(En).sms
+:	:	Temco World Cup '93 (1993)(Sega)(En).sms
+:	:	Tennis Ace (1989)(Sega)(En).sms
+:	:	Tensai Bakabon (1988)(Sega)(Jp).sms
+:	:	Terminator 2 - Judgment Day (1993)(Acclaim)(En).sms
+:	:	Terminator 2 - The Arcade Game (1993)(Acclaim)(En).sms
+:	:	Terminator, The (1992)(Virgin)(En).sms
+:	:	Tetracycline v1.0 (2000)(Heliophobe)(PD).sms
+:	:	Tetracycline v3.0 (2000)(Heliophobe)(PD).sms
+:	:	Tetracycline v4.0 (2000)(Heliophobe)(PD).sms
+:	:	Thunder Blade (1988)(Sega)(En).sms
+:	:	Thunder Blade (1988)(Sega)(Jp).sms
+:	:	Time Soldiers (1989)(Sega)(En).sms
+:	:	Time Soldiers (1989)(Sega)(En)[tr Br].sms
+:	:	Time Soldiers (1989)(Sega)(En)[tr Br][a].sms
+:	:	Tom and Jerry - The Movie (1992)(Sega)(En).sms
+:	:	Tom and Jerry - The Movie (1992)(Sega)(En)[a].sms
+:	:	Tom and Jerry - The Movie (1992)(Sega)(En)[b2].sms
+:	:	Tom and Jerry - The Movie (1992)(Sega)(En)[b].sms
+:	:	Toto World 3 (1993)(Open Corp)[Kr].sms
+:	:	Transbot (1986)(Sega)(En).sms
+:	:	Transbot (1986)(Sega)(En)[o2].sms
+:	:	Transbot (1986)(Sega)(En)[o3].sms
+:	:	Transbot (1986)(Sega)(En)[o].sms
+:	:	Trap Shooting & !Marksman Shooting & Safari Hunt (1986)(Sega)(En).sms
+:	:	Trivial Pursuit (1992)(Domark)(En).sms
+:	:	Turma da Monica em O Resgate (1993)(Tec Toy)(Br).sms
+:	:	Ultima IV (1990)(Sega)(En).sms
+:	:	Ultima IV (1990)(Sega)(En)[a].sms
+:	:	Ultima IV (1990)(Sega)(En)[tr De].sms
+:	:	Ultimate Soccer (1993)(Sega)(M5).sms
+:	:	Ultimate Soccer (1993)(Sega)(M5)[b].sms
+:	:	V Counter Test (2001)(Charles MacDonald)(PD).sms
+:	:	Vampire (1992)(Sega)(En).sms
+:	:	Vampire (1992)(Sega)(En)[b].sms
+:	:	Vampire (1992)(Sega)(En)[tr Fr].sms
+:	:	Vigilante (1988)(Sega)(En).sms
+:	:	Virtua Fighter Animation (1996)(Sega)(Br).sms
+:	:	WWF WrestleMania Steel Cage Challenge (1993)(Acclaim)(En)[Game Gear dump].sms
+:	:	Wanted (1989)(Sega)(En).sms
+:	:	Where in the World is Carmen Sandiego (1988)(Parker Brothers)(US).sms
+:	:	Wimbledon (1992)(Sega)(En).sms
+:	:	Wimbledon II (1993)(Sega)(En).sms
+:	:	Wolfchild (1993)(Virgin)(En).sms
+:	:	Wonder Boy (1986)(Sega)(En).sms
+:	:	Wonder Boy (1986)(Sega)(En)[h RHW][Rodrigo O Resgate].sms
+:	:	Wonder Boy (1986)(Sega)(En)[h RHW][a][Rodrigo O Resgate].sms
+:	:	Wonder Boy (1986)(Sega)(En)[h RHW][o][Rodrigo O Resgate].sms
+:	:	Wonder Boy (1986)(Sega)(En)[h RHW][o][a][Rodrigo O Resgate].sms
+:	:	Wonder Boy (1986)(Sega)(En)[o].sms
+:	:	Wonder Boy III (1989)(Sega)(En).sms
+:	:	Wonder Boy III (1989)(Sega)(En)[h RHW][Dragon's Curse].sms
+:	:	Wonder Boy III (1989)(Sega)(En)[h RHW][Guerreiro Lobo].sms
+:	:	Wonder Boy III (1989)(Sega)(En)[h RHW][Sonic-Boy II].sms
+:	:	Wonder Boy III (1989)(Sega)(En)[tr Fr].sms
+:	:	Wonder Boy III (1989)(Sega)(En)[tr Se][Metalhead][v0.7].sms
+:	:	Wonder Boy in Monster Land (1988)(Sega)(En).sms
+:	:	Wonder Boy in Monster Land (1988)(Sega)(En)[h RHW][Sonic Boy].sms
+:	:	Wonder Boy in Monster Land (1988)(Sega)(En)[h][Master Mega Man].sms
+:	:	Wonder Boy in Monster Land (1988)(Sega)(En)[tr Fr].sms
+:	:	Wonder Boy in Monster World (1992)(Sega)(En)(beta).sms
+:	:	Wonder Boy in Monster World (1992)(Sega)(En)(beta)[b].sms
+:	:	Wonder Boy in Monster World (1993)(Sega)(En).sms
+:	:	Wonder Boy in Monster World (1993)(Sega)(En)[h RHW][Sonic Boy 4].sms
+:	:	Wonder Boy in Monster World (1993)(Sega)(En)[h][Monica 3].sms
+:	:	Wonder Boy in Monster World (1993)(Sega)(En)[h][Treinamento do Guerreiro Lobo].sms
+:	:	Wonder Boy in Monster World (1993)(Sega)(En)[h][a][Treinamento do Guerreiro Lobo].sms
+:	:	Wonder Boy in Monster World (1993)(Sega)(En)[tr Fr].sms
+:	:	Woody Pop (1987)(Sega)(Jp).sms
+:	:	World Class Leader Board (1991)(U.S. Gold)(En).sms
+:	:	World Cup Italia '90 (1990)(Sega)(En).sms
+:	:	World Cup Italia '90 (1990)(Sega)(En)[tr Br].sms
+:	:	World Cup USA '94 (1994)(U.S. Gold)(En).sms
+:	:	World Games (1986)(Epyx)(En).sms
+:	:	World Grand Prix (1986)(Sega)(En).sms
+:	:	World Grand Prix (1986)(Sega)(En)[o].sms
+:	:	World Grand Prix (1986)(Sega)(Jp).sms
+:	:	X-Men - Mojo World (1996)(Sega)(Br).sms
+:	:	XVII Olympic Winter Olympics Games, The - Lillehammer 1994 (1993)(U.S. Gold)(M8).sms
+:	:	Xenon 2 (1992)(Virgin)(En).sms
+:	:	Xenon 2 (1992)(Virgin)(En)[b].sms
+:	:	Xenon 2 (199x)(Image Works)(En).sms
+:	:	Ys - Ancient Ys Vanished Omen (1988)(Sega)(En).sms
+:	:	Ys - Ancient Ys Vanished Omen (1988)(Sega)(En)[tr Fr].sms
+:	:	Ys - Ancient Ys Vanished Omen (1988)(Sega)(Jp).sms
+:	:	ZEXALL v0.12 (2003)(Maxim & Eric Quinn)(PD)[SDSC version].sms
+:	:	ZEXALL v0.12 (2003)(Maxim & Eric Quinn)(PD)[VDP version].sms
+:	:	Zaxxon 3D (1987)(Sega)(En).sms
+:	:	Zillion (1987)(Sega)(En).sms
+:	:	Zillion (1987)(Sega)(En)[o].sms
+:	:	Zillion (1987)(Sega)(En)[o][b].sms
+:	:	Zillion (1987)(Sega)(En)[tr Br].sms
+:	:	Zillion (1987)(Sega)(En)[tr Br][o].sms
+:	:	Zillion II - Tri Formation (1987)(Sega)(En).sms
+:	:	Zillion II - Tri Formation (1987)(Sega)(En)[b].sms
+:	:	Zillion II - Tri Formation (1987)(Sega)(En)[o].sms
+:	:	Zool (1993)(Sega)(En).sms
+:	:	Zoop's Birthday Card (2000)(Heliophobe)(PD).sms

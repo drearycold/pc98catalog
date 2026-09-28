@@ -1,0 +1,430 @@
+(ROM) No-Intro NEC PC Engine - TurboGrafx 16 (20050626) (rr5%).rar
+104,032,235
+99f4b2698ad09e330356f4569b935304ÅEcf5919821e71b9e3927f8c3a14e4a3bfab91576d
+
+:	PCE
+:	:	1941 - Counter Attack (Super Grafx) (J) [a].zip
+:	:	1941 - Counter Attack (Super Grafx) (J).zip
+:	:	1943 Kai (J).zip
+:	:	21 Emon - Mezase Hotel Ou!! (J).zip
+:	:	AV Poker (J).zip
+:	:	Adventure Island (J).zip
+:	:	Aero Blasters (J).zip
+:	:	Aero Blasters (U).zip
+:	:	After Burner II (J).zip
+:	:	Air Zonk (U).zip
+:	:	Aldynes (Super Grafx) (J).zip
+:	:	Alien Crush (J).zip
+:	:	Alien Crush (U).zip
+:	:	Ankoku Densetsu (J).zip
+:	:	Aoi Blink (J).zip
+:	:	Appare Gateball (J).zip
+:	:	Armed Formation F (J).zip
+:	:	Artist Tool (J).zip
+:	:	Atomic Robo-Kid Special (J).zip
+:	:	Ballistix (J).zip
+:	:	Ballistix (U).zip
+:	:	Bari Bari Densetsu (J).zip
+:	:	Barunba (J).zip
+:	:	Batman (J).zip
+:	:	Battle Ace (Super Grafx) (J).zip
+:	:	Battle Lode Runner (J).zip
+:	:	Battle Royale (U).zip
+:	:	Be Ball (J).zip
+:	:	Benkei Gaiden (J) [a].zip
+:	:	Benkei Gaiden (J).zip
+:	:	Bikkuriman World (J) [a].zip
+:	:	Bikkuriman World (J).zip
+:	:	Blazing Lazers (U).zip
+:	:	Blodia (J).zip
+:	:	Bloody Wolf (U).zip
+:	:	Body Conquest II (J).zip
+:	:	Bomberman '93 (J).zip
+:	:	Bomberman '93 (Special Version) (J).zip
+:	:	Bomberman '93 (U).zip
+:	:	Bomberman '94 (J).zip
+:	:	Bomberman (J).zip
+:	:	Bomberman (U).zip
+:	:	Bomberman - Users Battle (J).zip
+:	:	Bonk III - Bonk's Big Adventure (U).zip
+:	:	Bonk's Adventure (U).zip
+:	:	Bonk's Revenge (U).zip
+:	:	Bouken Danshaku Don - The Lost Sunheart (J).zip
+:	:	Boxyboy (U).zip
+:	:	Bravoman (U).zip
+:	:	Break In (J).zip
+:	:	Bubblegum Crash! - Knight Sabers 2034 (J).zip
+:	:	Bull Fight - Ring no Haja (J).zip
+:	:	Burning Angels (J).zip
+:	:	Busou Keiji - Cyber Cross (J).zip
+:	:	Cadash (J).zip
+:	:	Cadash (U).zip
+:	:	Champion Wrestler (J).zip
+:	:	Champions Forever Boxing (U).zip
+:	:	Chew Man Fu (U).zip
+:	:	Chibi Maruko Chan - Quiz de Piihyara (J).zip
+:	:	Chikudenya Toubei - Kubikiri Yakata Yori (J) [a].zip
+:	:	Chikudenya Toubei - Kubikiri Yakata Yori (J).zip
+:	:	China Warrior (U).zip
+:	:	Chouzetsu Rinjin - Bravoman (J).zip
+:	:	Circus Lido (J).zip
+:	:	City Hunter (J).zip
+:	:	Columns (J).zip
+:	:	Coryoon - Child of Dragon (J) [a].zip
+:	:	Coryoon - Child of Dragon (J).zip
+:	:	Cratermaze (U).zip
+:	:	Cross Wiber - Cyber Combat Police (J).zip
+:	:	Cyber Core (J).zip
+:	:	Cyber Core (U).zip
+:	:	Cyber Dodge (J).zip
+:	:	Cyber Knight (J).zip
+:	:	Dai Makaimura (Super Grafx) (J).zip
+:	:	Dai Senpu (J).zip
+:	:	Daichi Kun Crisis - Do Natural (J).zip
+:	:	Darius Alpha (J).zip
+:	:	Darius Plus (Super Grafx-compatible) (J).zip
+:	:	Darkwing Duck (U).zip
+:	:	Davis Cup Tennis (U).zip
+:	:	Dead Moon (J).zip
+:	:	Dead Moon (U).zip
+:	:	Deep Blue (U).zip
+:	:	Deep Blue - Kaitei Shinwa (J).zip
+:	:	Detana!! TwinBee (J).zip
+:	:	Devil Crash - Naxat Pinball (J).zip
+:	:	Devil's Crush - Naxat Pinball (U).zip
+:	:	Die Hard (J).zip
+:	:	Digital Champ (J).zip
+:	:	Don Doko Don! (J).zip
+:	:	Doraemon - Meikyuu Dai Sakusen (J).zip
+:	:	Doraemon - Nobita no Dorabian Night (J).zip
+:	:	Double Dungeons - W (J).zip
+:	:	Double Dungeons - W (U).zip
+:	:	Download (J) [a].zip
+:	:	Download (J).zip
+:	:	Dragon Egg! (J).zip
+:	:	Dragon Saber - After Story of Dragon Spirit (J) [a].zip
+:	:	Dragon Saber - After Story of Dragon Spirit (J).zip
+:	:	Dragon Spirit (J).zip
+:	:	Dragon Spirit (U).zip
+:	:	Dragon's Curse (U).zip
+:	:	Drop Rock Hora Hora (J) [a].zip
+:	:	Drop Rock Hora Hora (J).zip
+:	:	Drop.Off (U).zip
+:	:	Dungeon Explorer (J).zip
+:	:	Dungeon Explorer (U).zip
+:	:	Energy (J).zip
+:	:	F-1 Dream (J).zip
+:	:	F-1 Pilot - You're King of Kings (J).zip
+:	:	F1 Circus '91 - World Championship (J).zip
+:	:	F1 Circus '92 - The Speed of Sound (J).zip
+:	:	F1 Circus (J) [a].zip
+:	:	F1 Circus (J).zip
+:	:	F1 Triple Battle (J).zip
+:	:	Falcon (U).zip
+:	:	Fantasy Zone (J).zip
+:	:	Fantasy Zone (U).zip
+:	:	Fighting Run (J).zip
+:	:	Final Blaster (J).zip
+:	:	Final Lap Twin (J).zip
+:	:	Final Lap Twin (U).zip
+:	:	Final Match Tennis (J).zip
+:	:	Final Soldier (J).zip
+:	:	Final Soldier (Special Version) (J).zip
+:	:	Fire Pro Wrestling - Combination Tag (J).zip
+:	:	Fire Pro Wrestling 2 - 2nd Bout (J).zip
+:	:	Fire Pro Wrestling 3 - Legend Bout (J).zip
+:	:	Formation Soccer - Human Cup '90 (J).zip
+:	:	Formation Soccer - On J. League (J).zip
+:	:	Fushigi no Yume no Alice (J).zip
+:	:	Gai Flame (J).zip
+:	:	Gaia no Monshou (J).zip
+:	:	Galaga '88 (J).zip
+:	:	Galaga '90 (U).zip
+:	:	Ganbare! Golf Boys (J).zip
+:	:	Gekisha Boy (J).zip
+:	:	Genji Tsuushin Agedama (J).zip
+:	:	Genpei Toumaden (J).zip
+:	:	Genpei Toumaden Ni no Maki (J).zip
+:	:	Ghost Manor (U).zip
+:	:	Gokuraku! Chuuka Taisen (J).zip
+:	:	Gomola Speed (J).zip
+:	:	Gradius (J).zip
+:	:	Gunboat (U).zip
+:	:	Gunhed (J).zip
+:	:	Gunhed - Hudson Gunhed Taikai (J).zip
+:	:	Hana Taaka Daka! (J).zip
+:	:	Hanii in the Sky (J).zip
+:	:	Hanii on the Road (J).zip
+:	:	Hatris (J).zip
+:	:	Heavy Unit (J).zip
+:	:	Hisou Kihei - Xserd (J).zip
+:	:	Hit the Ice - VHL the Official Video Hockey League (J).zip
+:	:	Hit the Ice - VHL the Official Video Hockey League (U).zip
+:	:	Honoo no Toukyuuji Dodge Danpei (J).zip
+:	:	Idol Hanafuda Fan Club (J).zip
+:	:	Image Fight (J).zip
+:	:	Impossamole (U).zip
+:	:	J. League Greatest Eleven (J).zip
+:	:	J.J. & Jeff (U).zip
+:	:	Jack Nicklaus' Greatest 18 Holes of Major Championship Golf (J).zip
+:	:	Jack Nicklaus' Turbo Golf (U).zip
+:	:	Jackie Chan (J).zip
+:	:	Jackie Chan's Action Kung Fu (U).zip
+:	:	Jigoku Meguri (J).zip
+:	:	Jinmu Denshou (J) [a].zip
+:	:	Jinmu Denshou (J).zip
+:	:	Juuouki (J) [a].zip
+:	:	Juuouki (J).zip
+:	:	Kaizou Choujin Shubibinman (J).zip
+:	:	Kaizou Choujin Shubibinman 2 - Aratanaru Teki (J).zip
+:	:	Kato Chan & Ken Chan (J).zip
+:	:	Kattobi! Takuhai Kun (J).zip
+:	:	Keith Courage in Alpha Zones (U).zip
+:	:	KickBall (J).zip
+:	:	Kiki Kaikai (J).zip
+:	:	King of Casino (J).zip
+:	:	King of Casino (U).zip
+:	:	Klax (J).zip
+:	:	Klax (U).zip
+:	:	Knight Rider Special (J).zip
+:	:	Kore ga Pro Yakyuu '89 (J).zip
+:	:	Kore ga Pro Yakyuu '90 (J).zip
+:	:	Kung Fu, The (J).zip
+:	:	Kyuukyoku Mahjong - Idol Graphics (J).zip
+:	:	Kyuukyoku Mahjong II (J).zip
+:	:	Kyuukyoku Tiger (J).zip
+:	:	Lady Sword (J) [a].zip
+:	:	Lady Sword (J).zip
+:	:	Legend of Hero Tonma (J).zip
+:	:	Legend of Hero Tonma (U).zip
+:	:	Legendary Axe II, The (U).zip
+:	:	Legendary Axe, The (U).zip
+:	:	Lode Runner - Lost Labyrinth (J).zip
+:	:	Madou Ou - Granzooto (Super Grafx) (J).zip
+:	:	Maerchen Maze (J).zip
+:	:	Magical Chase (J).zip
+:	:	Magical Chase (U).zip
+:	:	Mahjong Gakuen - Touma Soushirou Toujou (J).zip
+:	:	Mahjong Gakuen Mild - Touma Soushirou Toujou (J) [a].zip
+:	:	Mahjong Gakuen Mild - Touma Soushirou Toujou (J).zip
+:	:	Mahjong Gokuu Special (J).zip
+:	:	Mahjong Haou Den - Kaiser's Quest (J).zip
+:	:	Mahjong Shikyaku Retsuden - Mahjong Wars (J).zip
+:	:	Maison Ikkoku (J).zip
+:	:	Majin Eiyuu Den Wataru (J).zip
+:	:	Makai Hakken Den Shada (J).zip
+:	:	Makai Prince Dorabocchan (J).zip
+:	:	Makyou Densetsu (J).zip
+:	:	Maniac Puroresu - Asu heno Tatakai (J).zip
+:	:	Mesopotamia (J).zip
+:	:	Metal Stoker (J).zip
+:	:	Military Madness (U).zip
+:	:	Mizubaku Dai Bouken (J).zip
+:	:	Momotarou Densetsu Gaiden Dai 1 Shuu (J).zip
+:	:	Momotarou Densetsu II (J).zip
+:	:	Momotarou Densetsu Turbo (J).zip
+:	:	Momotarou Katsugeki (J).zip
+:	:	Monster Puroresu (J).zip
+:	:	Morita Shougi PC (J).zip
+:	:	Moto Roader (J).zip
+:	:	Moto Roader (U).zip
+:	:	Moto Roader II (J) [a].zip
+:	:	Moto Roader II (J).zip
+:	:	Mr. Heli no Daibouken (J) [a].zip
+:	:	Mr. Heli no Daibouken (J).zip
+:	:	NHK Taiga Drama - Taiheiki (J).zip
+:	:	Narazumono Sentai Butai - Bloody Wolf (J).zip
+:	:	Naxat Open (J).zip
+:	:	Naxat Stadium (J).zip
+:	:	Nazo no Mascarade (J).zip
+:	:	Necromancer (J).zip
+:	:	Necros no Yousai (J).zip
+:	:	Nectaris (J).zip
+:	:	Nekketsu Koukou Dodgeball Bu - PC Bangai Hen (J).zip
+:	:	Nekketsu Koukou Dodgeball Bu - Soccer PC Hen (J).zip
+:	:	Neutopia (J).zip
+:	:	Neutopia (U).zip
+:	:	Neutopia II (J).zip
+:	:	Neutopia II (U).zip
+:	:	New Adventure Island (U).zip
+:	:	New Zealand Story, The (J).zip
+:	:	Night Creatures (U).zip
+:	:	Niko Niko Pun (J).zip
+:	:	Ninja Ryuuken Den (J).zip
+:	:	Ninja Spirit (U).zip
+:	:	Ninja Warriors, The (J).zip
+:	:	Obocchama Kun (J).zip
+:	:	Operation Wolf (J).zip
+:	:	Order of the Griffon (U).zip
+:	:	Ordyne (J).zip
+:	:	Ordyne (U).zip
+:	:	Out Live (J).zip
+:	:	Out Run (J).zip
+:	:	Override (J).zip
+:	:	P-47 - The Freedom Fighter (J).zip
+:	:	PC Denjin - Punkic Cyborgs (J) [a].zip
+:	:	PC Denjin - Punkic Cyborgs (J).zip
+:	:	PC Genjin - Pithecanthropus Computerurus (J) [a].zip
+:	:	PC Genjin - Pithecanthropus Computerurus (J).zip
+:	:	PC Genjin 2 - Pithecanthropus Computerurus (J).zip
+:	:	PC Genjin 3 - Pithecanthropus Computerurus (J).zip
+:	:	PC Genjin 3 - Pithecanthropus Computerurus (Taikenban) (J).zip
+:	:	PC Pachi-Slot (J).zip
+:	:	Pac-Land (J).zip
+:	:	Pac-Land (U).zip
+:	:	Pachio Kun - Juuban Shoubu (J).zip
+:	:	Panza Kick Boxing (U).zip
+:	:	Paranoia (J).zip
+:	:	Parasol Stars - The Story of Bubble Bobble III (J).zip
+:	:	Parasol Stars - The Story of Bubble Bobble III (U).zip
+:	:	Parodius da! - Shinwa Kara Owarai he (J).zip
+:	:	Populous (J) [a].zip
+:	:	Populous (J).zip
+:	:	Power Drift (J) [a].zip
+:	:	Power Drift (J).zip
+:	:	Power Eleven (J).zip
+:	:	Power Gate (J).zip
+:	:	Power Golf (J).zip
+:	:	Power Golf (U).zip
+:	:	Power League '93 (J).zip
+:	:	Power League (All Star Version) (J).zip
+:	:	Power League (J).zip
+:	:	Power League II (J).zip
+:	:	Power League III (J).zip
+:	:	Power League IV (J).zip
+:	:	Power League V (J).zip
+:	:	Power Sports (J).zip
+:	:	Power Tennis (J).zip
+:	:	Pro Tennis World Court (J).zip
+:	:	Pro Yakyuu World Stadium '91 (J).zip
+:	:	Pro Yakyuu World Stadium (J).zip
+:	:	Psycho Chaser (J).zip
+:	:	Psychosis (U).zip
+:	:	Puzzle Boy (J).zip
+:	:	Puzznic (J).zip
+:	:	Quiz Toukou Shashin (J).zip
+:	:	R-Type (U).zip
+:	:	R-Type Part-1 (J).zip
+:	:	R-Type Part-2 (J).zip
+:	:	Rabio Lepus Special (J).zip
+:	:	Racing Damashii (J).zip
+:	:	Raiden (J).zip
+:	:	Raiden (U).zip
+:	:	Rastan Saga II (J).zip
+:	:	Rock-On (J).zip
+:	:	Ryukyu (J).zip
+:	:	Sadakichi 7 Series - Hideyoshi no Ougon (J).zip
+:	:	Saigo no Nindou - Ninja Spirit (J).zip
+:	:	Salamander (J).zip
+:	:	Samurai-Ghost (U).zip
+:	:	Sekigahara (J).zip
+:	:	Sengoku Mahjong (J).zip
+:	:	Shanghai (J).zip
+:	:	Shinobi (J).zip
+:	:	Shiryou Sensen (J).zip
+:	:	Shockman (U).zip
+:	:	Shougi Shodan Icchokusen (J).zip
+:	:	Shougi Shoshinsha Muyou (J).zip
+:	:	SideArms - Hyper Dyne (J).zip
+:	:	SideArms - Hyper Dyne (U).zip
+:	:	Silent Debuggers (J).zip
+:	:	Silent Debuggers (U).zip
+:	:	Sindibad Chitei no Dai Makyuu (J).zip
+:	:	Sinistron (U).zip
+:	:	Skweek (J).zip
+:	:	Soldier Blade (J).zip
+:	:	Soldier Blade (U).zip
+:	:	Soldier Blade Special - Caravan Stage (J).zip
+:	:	Somer Assault (U).zip
+:	:	Son Son II (J).zip
+:	:	Sonic Spike - World Championship Beach Volleyball (U).zip
+:	:	Soukoban World (J).zip
+:	:	Space Harrier (J).zip
+:	:	Space Harrier (U).zip
+:	:	Space Invaders - Fukkatsu no Hi (J).zip
+:	:	Special Criminal Investigation (J).zip
+:	:	Spin Pair (J).zip
+:	:	Spiral Wave (J).zip
+:	:	Splatterhouse (J).zip
+:	:	Splatterhouse (U).zip
+:	:	Stratego (J).zip
+:	:	Street Fighter II' - Champion Edition (J).zip
+:	:	Strip Fighter II (J).zip
+:	:	Super Metal Crusher (J).zip
+:	:	Super Momotarou Dentetsu (J).zip
+:	:	Super Momotarou Dentetsu II (J).zip
+:	:	Super Star Soldier (J).zip
+:	:	Super Star Soldier (U).zip
+:	:	Super Volleyball (J).zip
+:	:	Super Volleyball (U).zip
+:	:	Susanoo Densetsu (J).zip
+:	:	TV Sports Basketball (J).zip
+:	:	TV Sports Basketball (U).zip
+:	:	TV Sports Football (J).zip
+:	:	TV Sports Football (U).zip
+:	:	TV Sports Hockey (J).zip
+:	:	TV Sports Hockey (U).zip
+:	:	Taito Chase H.Q. (J).zip
+:	:	Taito Chase H.Q. (U).zip
+:	:	Takahashi Meijin no Shin Boukenjima (J).zip
+:	:	Takeda Shingen (J) [a].zip
+:	:	Takeda Shingen (J).zip
+:	:	Takin' It to the Hoop (U).zip
+:	:	TaleSpin (U).zip
+:	:	Tatsujin (J) (Proto).zip
+:	:	Tatsujin (J).zip
+:	:	Tatsunoko Fighter (J).zip
+:	:	Tennokoe Bank (J).zip
+:	:	Tenseiryuu - Saint Dragon (J).zip
+:	:	Terra Cresta II - Mandoraa no Gyakushuu (J).zip
+:	:	Thunder Blade (J).zip
+:	:	Tiger Road (U).zip
+:	:	Time Cruise (U).zip
+:	:	Time Cruise II (J).zip
+:	:	Timeball (U).zip
+:	:	Titan (J).zip
+:	:	Toilet Kids (J).zip
+:	:	Tora heno Michi (J).zip
+:	:	Toshi Tensou Keikaku - Eternal City (J).zip
+:	:	Tower of Druaga, The (J).zip
+:	:	Toy Shop Boys (J).zip
+:	:	Tricky (J).zip
+:	:	Tricky Kick (U).zip
+:	:	Tsuppari Oozumou - Heisei Ban (J).zip
+:	:	Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (J).zip
+:	:	Turrican (U).zip
+:	:	USA Pro Basketball (J).zip
+:	:	Veigues - Tactical Gladiator (J).zip
+:	:	Veigues - Tactical Gladiator (U).zip
+:	:	Victory Run (J).zip
+:	:	Victory Run (U).zip
+:	:	Vigilante (J).zip
+:	:	Vigilante (U).zip
+:	:	Violent Soldier (J).zip
+:	:	Volfied (J).zip
+:	:	W-Ring - The Double Rings (J).zip
+:	:	Wai Wai Mahjong - Yukaina Janyuu Tachi (J).zip
+:	:	Walkuere no Densetsu (J).zip
+:	:	Wallaby!! - Usagi no Kuni no Kangaroo Race (J).zip
+:	:	Winning Shot (J).zip
+:	:	Wonder Momo (J).zip
+:	:	World Beach Volley (J).zip
+:	:	World Circuit (J).zip
+:	:	World Class Baseball (U).zip
+:	:	World Court Tennis (U).zip
+:	:	World Jockey (J).zip
+:	:	World Sports Competition (U).zip
+:	:	Xevious - Fardraut Densetsu (J).zip
+:	:	Yo, Bro (U).zip
+:	:	Youkai Douchuuki (J).zip
+:	:	Yuu Yuu Jinsei - Victory Life (J).zip
+:	:	Zero 4 Champ (J) (v1.5).zip
+:	:	Zero 4 Champ (J).zip
+:	:	Zipang (J).zip
+:	:	[CD] CD-ROM System (J) (v1.0).zip
+:	:	[CD] CD-ROM System (J) (v2.0).zip
+:	:	[CD] CD-ROM System (J) (v2.1).zip
+:	:	[CD] Games Express CD Card (J).zip
+:	:	[CD] Super CD-ROM System (J) (v3.0).zip
+:	:	[CD] TurboGrafx CD Super System Card (U) (v3.0).zip
+:	:	[CD] TurboGrafx CD System Card (U) (v2.0).zip

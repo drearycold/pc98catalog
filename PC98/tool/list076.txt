@@ -1,0 +1,107 @@
+[ファイル名],[サイズ]
+0401 - Lunar Legend (J).zip,6504172 Byte
+0402 - Super Mario World (E).zip,1594513 Byte
+0403 - Breath of Fire 2 (U).zip,2352583 Byte
+0404 - Spider-Man - The Movie (U).zip,3667897 Byte
+0405 - Star X (U).zip,2971990 Byte
+0406 - The Scorpion King - Sword of Osiris (E).zip,1224031 Byte
+0407 - Tetris Worlds (J).zip,1774005 Byte
+0408 - Spiderman - Mysterio's Menace (J).zip,4035705 Byte
+0409 - Blender Bros. (U).zip,2588760 Byte
+0410 - Rockman Zero (J).zip,3674472 Byte
+0411 - Advance GT2 (J).zip,5309884 Byte
+0412 - Winning Eleven World Soccer (J).zip,2841525 Byte
+0413 - Tennis no Oji Sama (J).zip,2786651 Byte
+0414 - Kashiramoji D - Another Story (J).zip,3027045 Byte
+0415 - Penny Racers (E).zip,3160190 Byte
+0416 - Sweet Cookie Pie (J).zip,1592427 Byte
+0417 - Dinotopia - The Timestone Pirates (U).zip,4456261 Byte
+0418 - Koro Koro Puzzle Happy Panechu! (J).zip,2487392 Byte
+0419 - Kurohige no Golf Shiyouyo (J).zip,2986160 Byte
+0420 - Keitai Denjuu Telefang 2 - Power Version (J).zip,5659252 Byte
+0421 - Keitai Denjuu Telefang 2 - Speed Version (J).zip,5663397 Byte
+0422 - Kaeru B Back (J).zip,5868906 Byte
+0423 - Desert Strike Advance (U).zip,2285379 Byte
+0424 - All-Star Baseball 2003 (U).zip,2181582 Byte
+0425 - NASCAR Heat 2002 (U).zip,1901367 Byte
+0426 - Formation Soccer 2002 (J).zip,2628736 Byte
+0427 - Doraemon Board Game (J).zip,1844935 Byte
+0428 - Animal Mania (J).zip,3173004 Byte
+0429 - Kami no Kijutsu - Illusion of the Evil Eyes (J).zip,4205345 Byte
+0431 - Gekitou! Car Battler Go! (J).zip,3364771 Byte
+0432 - Tactics Ogre - The Knight of Lodis (U).zip,4467487 Byte
+0433 - Tiger Woods PGA Tour Golf (U).zip,4630486 Byte
+0434 - Dragon Ball Z - The Legacy Of Goku (U).zip,4679174 Byte
+0435 - Hitsuji no Kimochi (J).zip,6138566 Byte
+0436 - Jinsei Game Advance (J).zip,4466785 Byte
+0437 - Spy Hunter (U).zip,3995669 Byte
+0438 - Davis Cup (E).zip,1294269 Byte
+0439 - Total Soccer Manager (E).zip,1247080 Byte
+0440 - Downforce (U).zip,2014655 Byte
+0441 - Youkaidou (J).zip,3885777 Byte
+0442 - Backyard Baseball (U).zip,2860434 Byte
+0443 - Golden Sun (I).zip,7178373 Byte
+0444 - GT Championship (E).zip,2267731 Byte
+0445？_-_Sheep_(e).zip,3073245 Byte
+0446 - Roland Garros 2002 - Next Generation Tennis (E).zip,2235868 Byte
+0447 - Dragon Ball Z - The Collectible Card Game (U).zip,3653329 Byte
+0448 - Tottoko Hamutarou 3 - Love Love Daibouken Dechu (J).zip,4562016 Byte
+0449 - Star Wars Episode II - Attack Of The Clones (U).zip,3820743 Byte
+0450 - Spirit - Stallion Of The Cimarron (U).zip,1400997 Byte
+0451 - Earthworm Jim 2 (U).zip,2770083 Byte
+0452 - Bomberman Max 2 Blue (U).zip,4554905 Byte
+0453 - Bomberman Max 2 Red (U).zip,4551571 Byte
+0454 - Frogger Advance - The Great Quest (U).zip,3693197 Byte
+0455？_-_Muppet_Pinball_Mayhem_(u).zip,2013616 Byte
+0456 - Hey Arnold! The Movie (U).zip,2572144 Byte
+0457 - Spider-Man - The Movie (F).zip,3672898 Byte
+0458 - Punch King (U).zip,2716758 Byte
+0459 - Gremlins - Stripe vs Gizmo (E).zip,1594669 Byte
+0460？_Castlevania_White_Night_Concerto_JAP_GBA-EURASIA.zip,5197955 Byte
+0461 - ZooCube (U).zip,1126731 Byte
+0464 - Zone of the Enders - The Fist of Mars (E).zip,5265954 Byte
+0465 - Scooby-Doo and the Cyber Chase (E).zip,1780154 Byte
+0466 - The Ripping Friends (E).zip,1985632 Byte
+0467 - Tony Hawk's Pro Skater 3 (F).zip,4482262 Byte
+0468？_Megaman_Battle_Network_2_USA_GBA-MODE7.zip,4013197 Byte
+0469 - Konami Collectors Series - Arcade Advanced (J).zip,2051570 Byte
+0470 - Motocross Maniacs Advance (J).zip,2157656 Byte
+0471 - Ice Age (E).zip,1984564 Byte
+0472 - Nicktoons Racing (U).zip,2187655 Byte
+0473 - V-Rally 3 (E).zip,2596051 Byte
+0474 - Britneys Dance Beat (E).zip,7207283 Byte
+0477？_Family_Tennis_Advance_JAP_GBA-EURASIA.zip,2060414 Byte
+0478_Droopys_Tennis_Open.zip,1711420 Byte
+0479 - CT Special Forces (E).zip,1956029 Byte
+0480 - Pinball of the Dead (U).zip,4246807 Byte
+0481 - GT Advance 2 Rally Racing (U).zip,4018947 Byte
+0482 - Star X (E).zip,2933599 Byte
+0483 - LEGO Soccer Mania (E).zip,4523314 Byte
+0484 - Maniac Racer Advance (E).zip,1953355 Byte
+0485 - Star Wars Episode II - Attack Of The Clones (E).zip,3809951 Byte
+0486 - Dokapon Monster Hunter (E).zip,3373801 Byte
+0487 - Pro Tennis WTA Tour (E).zip,1859032 Byte
+0488 - Disneys Lilo & Stitch (E).zip,3562885 Byte
+0489 - Ougon no Taiyou - Ushinawareshi Toki (J).zip,13070616 Byte
+0490 - Aero The Acrobat (U).zip,1621198 Byte
+0491 - Medabots AX - Rokusho Version (U).zip,3543586 Byte
+0492 - Medabots AX - Metabee Version (U).zip,3542701 Byte
+0493 - Yu-Gi-Oh! Duel Monsters 7 - Kettou Toshi Densetsu (J).zip,9921865 Byte
+0494 - Pinball Of The Dead (J).zip,4253743 Byte
+0495 - Beyblade - Ikuze! Gekitou! Chou Jiryoku Battle! (J).zip,3190806 Byte
+0496 - Pinball Challenge Deluxe (E).zip,2099260 Byte
+0497 - Chessmaster (E).zip,1645749 Byte
+0498 - Stuart Little 2 (U).zip,3174547 Byte
+0499 - Monster Gate (J).zip,3802625 Byte
+0500 - Kong - The Animated Series (E).zip,2458591 Byte
+
+ファイル数合計 = 95 個
+ファイルサイズ合計 = 324196367 Byte
+
+0430
+0462
+0463
+0475
+0476
+不足
+

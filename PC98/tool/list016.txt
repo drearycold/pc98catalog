@@ -1,0 +1,1617 @@
+:	:	11 Sprite Demo (Piero Cavina) (PD).zip
+:	:	128-in-1 Junior Console (Chip 1) (64K) (PAL) [!].zip
+:	:	128-in-1 Junior Console (Chip 2) (64K) (PAL) [!].zip
+:	:	128-in-1 Junior Console (Chip 3) (64K) (PAL) [!].zip
+:	:	128-in-1 Junior Console (Chip 4) (64K) (PAL) [!].zip
+:	:	2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].zip
+:	:	2 Pak Special Black - Challenge, Surfing (HES) (PAL) [a1][!].zip
+:	:	2 Pak Special Dark Blue - Planet Patrol, Wall Defender (1990) (HES) (PAL) [!].zip
+:	:	2 Pak Special Green - Hoppy, Alien Force (HES) (PAL) [!].zip
+:	:	2 Pak Special Green - Hoppy, Alien Force (HES) (PAL) [a1][!].zip
+:	:	2 Pak Special Magenta - CaveBlast,City War (1992) (HES) (PAL) [!].zip
+:	:	2 Pak Special Yellow - Star Warrior, Frogger (1990) (HES) (PAL) [!].zip
+:	:	2 Pak Special Yellow - Star Warrior, Frogger (1990) (HES) (PAL) [a1][!].zip
+:	:	2-in-1 - Freeway and Tennis [p1].zip
+:	:	2-in-1 - Frostbite and River Raid [p1].zip
+:	:	20 Sprites at Once Demo 1 (PD).zip
+:	:	20 Sprites at Once Demo 2 (PD).zip
+:	:	20 Sprites at Once Demo 3 (PD).zip
+:	:	20 Sprites at Once Demo 4 (PD).zip
+:	:	20 Sprites at Once Demo 5 (PD).zip
+:	:	2600 Collison Demo 1 (PD).zip
+:	:	2600 Collison Demo 2 (PD).zip
+:	:	2600 Digital Clock (Demo 1) (PD).zip
+:	:	2600 Digital Clock (Demo 2) (PD).zip
+:	:	2600 Digital Clock (Demo 3) (PD).zip
+:	:	2600 Digital Clock (V b1) (PD).zip
+:	:	2600 Digital Clock (V b2) (PD).zip
+:	:	2600 Digital Clock (V x.xx) (PD) [a1].zip
+:	:	2600 Digital Clock (V x.xx) (PD).zip
+:	:	2Pak Black - Challenge, Surfing (HES) (PAL) [!].zip
+:	:	3-D Tic-Tac-Toe (1978) (Atari) (PAL) [!].zip
+:	:	3-D Tic-Tac-Toe (1978) (Atari) (PAL) [p1][o1].zip
+:	:	3-D Tic-Tac-Toe (1978) (Atari) [o1].zip
+:	:	3-D Tic-Tac-Toe (1978) (Atari).zip
+:	:	3-D Tic-Tac-Toe (32-in-1) (Atari) (PAL) [!].zip
+:	:	32-in-1 (Atari) (PAL) [!].zip
+:	:	4 Pak (Dark Green) [p1][!].zip
+:	:	4 Pak (Light Green) [p1][!].zip
+:	:	A-Team, The (Atari) (Prototype) [!].zip
+:	:	Acid Drop (1992) (Salu) (PAL) [!].zip
+:	:	Action Force (1983) (Parker Bros) (PAL) [!].zip
+:	:	Action Force (1983) (Parker Bros).zip
+:	:	Adventure (1978) (Atari) (PAL) [!].zip
+:	:	Adventure (1978) (Atari).zip
+:	:	Adventures of Tron (1983) (Mattel).zip
+:	:	Adventures on GX-12 (Telegames) (PAL) [!].zip
+:	:	Air Raid.zip
+:	:	Air Raiders (1982) (Mattel) (PAL) [p1][!].zip
+:	:	Air Raiders (1982) (Mattel) [!].zip
+:	:	Air-Sea Battle (1977) (Atari) (PAL) [!].zip
+:	:	Air-Sea Battle (1977) (Atari) (PAL) [p1][o1][!].zip
+:	:	Air-Sea Battle (1977) (Atari) [o1].zip
+:	:	Air-Sea Battle (1977) (Atari).zip
+:	:	Air-Sea Battle (1977) [o1][h1].zip
+:	:	Air-Sea Battle (32-in-1) (Atari) (PAL) [!].zip
+:	:	Airlock (1982) (Data Age).zip
+:	:	Alice's Abenteuer (Starsoft) (PAL) [!].zip
+:	:	Alien (1982) (20th Century Fox).zip
+:	:	Alien (CCE).zip
+:	:	Alien Invaders Plus (Space Invaders hack) [h1].zip
+:	:	Alien's Return (ITT Family Games) (PAL) [!].zip
+:	:	Aligator People (20th Century Fox) (Prototype) [!].zip
+:	:	Alpha Beam with Ernie (1983) (Atari) (PAL) [!].zip
+:	:	Alpha Beam with Ernie (1983) (Atari).zip
+:	:	Amanda Invaders (PD) [o1].zip
+:	:	Amanda Invaders (PD).zip
+:	:	Amidar (1983) (Parker Bros) (PAL) [!].zip
+:	:	Amidar (1983) (Parker Bros).zip
+:	:	Angling (Ariola) (PAL) [!].zip
+:	:	Angriff der Luftflotten (AKA Paris Attack) (Starsoft) (PAL) [!].zip
+:	:	Apples and Dolls (CCE).zip
+:	:	Aquaventure (1983) (Atari) (Prototype).zip
+:	:	Aquaventure (CCE).zip
+:	:	Arcade Golf (1979) (Sears) [o1].zip
+:	:	Arcade Golf (1979) (Sears).zip
+:	:	Armor Ambush (1982) (Mattel) [!].zip
+:	:	Armor Ambush (1982) (Telegames) (PAL) [!].zip
+:	:	Artillery Duel (1983) (Xonox) (PAL) [!].zip
+:	:	Artillery Duel (1983) (Xonox) [!].zip
+:	:	Artillery Duel (1983) (Xonox) [a1][!].zip
+:	:	Assault (Bomb).zip
+:	:	Asterix (1988) (Atari) (PAL) [!].zip
+:	:	Asterix (1988) (Atari) (PAL) [a1][!].zip
+:	:	Asteroids (1979) (Atari) (PAL) [!].zip
+:	:	Asteroids (1979) (Atari).zip
+:	:	Asteroids 2 (Asteroids hack) [h1].zip
+:	:	Asteroids [p1].zip
+:	:	Astroblast (1982) (Mattel) [!].zip
+:	:	Astroblast (1982) (Mattel) [a1].zip
+:	:	Astrowar (Starsoft).zip
+:	:	Atari 2600 Invaders [h1].zip
+:	:	Atari Invaders (Invaders Hack by Ataripoll) (PD).zip
+:	:	Atari Video Cube (1982) (Atari).zip
+:	:	Atlantis (1982) (Imagic) (PAL) [!].zip
+:	:	Atlantis (1982) (Imagic) (PAL) [p1][!].zip
+:	:	Atlantis (1982) (Imagic) [!].zip
+:	:	Atlantis (1982) (Imagic) [o1].zip
+:	:	Atlantis (Activision) [a1].zip
+:	:	Atlantis (Activision).zip
+:	:	Atlantis (CCE).zip
+:	:	Atlantis II (1982) (Imagic) [!].zip
+:	:	Aufruhr im Zoo (Starsoft) (PAL) [!].zip
+:	:	Autorennen (AKA Grand Prix) (Ariola) (PAL) [!].zip
+:	:	BMX Air Master (1989) (TNT Games) (PAL) [!].zip
+:	:	BMX Air Master (1989) (TNT Games).zip
+:	:	Bachelor Party (1982) (Mystique).zip
+:	:	Bachelorette Party (1982) (Mystique-Playaround).zip
+:	:	Backgammon (1978) (Atari) (PAL) [!].zip
+:	:	Backgammon (1978) (Atari).zip
+:	:	Bank Heist (1983) (20th Century Fox) (w Skull Island Label) (PAL) [!].zip
+:	:	Bank Heist (1983) (20th Century Fox).zip
+:	:	Barber Pole Demo (PD).zip
+:	:	Barnstorming (1982) (Activision) (PAL) [p1][!].zip
+:	:	Barnstorming (1982) (Activision) [!].zip
+:	:	Barnstorming (1982) (Activision) [o1].zip
+:	:	Barnstorming (CCE).zip
+:	:	Bars and Text Demo (PD).zip
+:	:	Bars and Text Demo 2 (PD).zip
+:	:	Bars and Text Demo 3 (PD).zip
+:	:	Base Attack (AKA Z-Tack,Laser-Loop,Sky Scrapper) (HomeVision) (PAL) [!].zip
+:	:	Basic Programming (1978) (Atari) (PAL) [!].zip
+:	:	Basic Programming (1978) (Atari).zip
+:	:	Basketball (1978) (Atari) (PAL) [!].zip
+:	:	Basketball (1978) (Atari) [o1].zip
+:	:	Basketball (1978) (Atari).zip
+:	:	Basketball (32-in-1) (Atari) (PAL) [!].zip
+:	:	Battlezone (1983) (Atari) (PAL) [!].zip
+:	:	Battlezone (1983) (Atari).zip
+:	:	Beamrider (1983) (Activision) (PAL) [!].zip
+:	:	Beamrider (1983) (Activision) [b1].zip
+:	:	Beamrider (1983) (Activision).zip
+:	:	Beany Bopper (1982) (20th Century Fox).zip
+:	:	Beany Bopper (CCE).zip
+:	:	Beast Invaders (double shot hack).zip
+:	:	Beat 'Em and Eat 'Em (1982) (Mystique) [!].zip
+:	:	Berenstain Bears (1982) (Coleco).zip
+:	:	Bermuda (PAL).zip
+:	:	Bermuda (Rainbow Vision) (PAL) [!].zip
+:	:	Bermuda (Starsoft) (PAL) [!].zip
+:	:	Bermuda Triangle (1982) (Data Age) [!].zip
+:	:	Berzerk (1982) (Atari) (PAL) [!].zip
+:	:	Berzerk (1982) (Atari) (PAL) [p1][!].zip
+:	:	Berzerk (1982) (Atari) (PAL) [p2][!].zip
+:	:	Berzerk (1982) (Atari).zip
+:	:	Berzerk (CCE).zip
+:	:	Better Space Invaders (1999) (Rob Kudla) [!].zip
+:	:	Bi! Bi! (AKA Ungeheuer der Tiefe) (Starsoft) (PAL) [!].zip
+:	:	Big - Move This Demo (PD).zip
+:	:	Big - Move This Demo 2 (PD).zip
+:	:	Big Bird's Egg Catch (1983) (Atari) (PAL) [!].zip
+:	:	Big Bird's Egg Catch (1983) (Atari).zip
+:	:	Billard (Starsoft) (PAL) [!].zip
+:	:	Bionic Breakthrough (1984) (Atari) (Prototype).zip
+:	:	Black Hole (Starsoft) (PAL) [!].zip
+:	:	Black and White Fast Scolling Demo (PD).zip
+:	:	Blackjack (1977) (Atari) (PAL) [p1][!].zip
+:	:	Blackjack (1977) (Atari) (PAL) [p1][o1][!].zip
+:	:	Blackjack (1977) (Atari) [!].zip
+:	:	Blackjack (1977) (Atari) [a1].zip
+:	:	Blackjack (1977) (Atari) [o1].zip
+:	:	Blackjack (32-in-1) (Atari) (PAL) [!].zip
+:	:	Blue Dot Demo (PD).zip
+:	:	Blue and White Sprite Demo (PD).zip
+:	:	Blueprint (1983) (CBS Electronics) (PAL) [!].zip
+:	:	Blueprint (1983) (CBS Electronics).zip
+:	:	Bobby geht nach Hause (Starsoft) (PAL) [!].zip
+:	:	Bobby is Going Home (Bitcorp) (PAL) [!].zip
+:	:	Bobby is Going Home (CCE) (PAL).zip
+:	:	Bobby is Going Home (Rentacom) (Brazil) [!].zip
+:	:	Bogey Blaster (Telegames) (PAL) [!].zip
+:	:	Bogey Blaster (Telegames) (PAL) [a1].zip
+:	:	Boing! (1983) (First Star Software) (PAL) [!].zip
+:	:	Boing! (PD) [a1].zip
+:	:	Boing! (PD) [a2].zip
+:	:	Boing! (PD).zip
+:	:	Boom Bang (AKA Crackpots) (Cooper Black) (PAL).zip
+:	:	Boom Bang (AKA Kampf dem Steinfresser) (Starsoft) (PAL) [!].zip
+:	:	Bowling (1978) (Atari) (PAL) [!].zip
+:	:	Bowling (1978) (Atari) [!].zip
+:	:	Bowling (1978) (Atari) [b1].zip
+:	:	Bowling (1978) (Atari) [b2].zip
+:	:	Bowling (1978) (Atari) [o1].zip
+:	:	Bowling (32-in-1) (Atari) (PAL) [!].zip
+:	:	Bowling (Dactar) (PAL) [p1][!].zip
+:	:	Boxen (Ariola) (PAL) [!].zip
+:	:	Boxing (1981) (Activision) (PAL) [!].zip
+:	:	Boxing (1981) (Activision) [!].zip
+:	:	Boxing (1981) (Activision) [o1].zip
+:	:	Boxing (1981) (Activision) [o2].zip
+:	:	Boxing (32-in-1) (Atari) (PAL) [!].zip
+:	:	Boxing (Activision) (PAL) [p1][!].zip
+:	:	Boxing (Dactar) (PAL) [p1][!].zip
+:	:	Brain Games (1982) (Atari) (PAL) [!].zip
+:	:	Brain Games (1982) (Atari) [o1].zip
+:	:	Brain Games (1982) (Atari).zip
+:	:	Breakdown (AKA Capture) (Dynamics-Goliath) (PAL) [!].zip
+:	:	Breakout - Breakaway IV (1978) (Atari) (PAL) [!].zip
+:	:	Breakout - Breakaway IV (1978) (Atari) [o1].zip
+:	:	Breakout - Breakaway IV (1978) (Atari) [o2].zip
+:	:	Breakout - Breakaway IV (1978) (Atari) [t1].zip
+:	:	Breakout - Breakaway IV (1978) (Atari).zip
+:	:	Brick Kick (PAL) [p1][!].zip
+:	:	Brick Kick (R.J.P.G.).zip
+:	:	Bridge (1981) (Activision) [!].zip
+:	:	Buck Rogers - Planet of Zoom (1983) (Sega) [!].zip
+:	:	Bugs (1982) (Data Age).zip
+:	:	Bugs Bunny (Atari) (Prototype) [!].zip
+:	:	Bump 'N' Jump (1983) (Mattel) [b1].zip
+:	:	Bump 'N' Jump (1983) (Mattel).zip
+:	:	Bump 'N' Jump (Telegames) (PAL) [!].zip
+:	:	Bumper Bash (1983) (Spectravideo) (PAL) [!].zip
+:	:	Bumper Bash (1983) (Spectravideo).zip
+:	:	Burgertime (1982) (Mattel).zip
+:	:	Burning Desire (1982) (Playaround).zip
+:	:	Cakewalk (CommaVid).zip
+:	:	California Games (1988) (Epyx) (PAL) [!].zip
+:	:	California Games (1988) (Epyx).zip
+:	:	Candi (Space Invaders hack) [h1].zip
+:	:	Candi (Space Invaders hack) [h1][o1].zip
+:	:	Canguru (Zirok) (Brazil) [!].zip
+:	:	Canyon Bomber (1978) (Atari) [o1].zip
+:	:	Canyon Bomber (1978) (Atari).zip
+:	:	Carnival (1982) (Coleco).zip
+:	:	Carnival (1983) (CBS Electronics) (PAL) [!].zip
+:	:	Carnival (CCE).zip
+:	:	Casino (1978) (Atari) (PAL) [!].zip
+:	:	Cat Trax (1983) (UA).zip
+:	:	Cathouse Blues (1982) (Mystique).zip
+:	:	Centipede (1982) (Atari) (PAL) [!].zip
+:	:	Centipede (1982) (Atari) (Prototype) (PAL) [!].zip
+:	:	Centipede (1982) (Atari).zip
+:	:	Centipede 2k (2000) (PD).zip
+:	:	Challenge (Funvision) (PAL) [a1].zip
+:	:	Challenge (Funvision) (PAL).zip
+:	:	Challenge of...NEXAR (1982) (Spectravideo) (PAL) [p1][!].zip
+:	:	Challenge of...NEXAR (1982) (Spectravideo).zip
+:	:	Challenge of...NEXAR (Spectravideo) (PAL) [!].zip
+:	:	Championship Soccer (AKA Pele's Soccer) (Atari) (PAL) [!].zip
+:	:	Championship Soccer (AKA Pele's Soccer) [p1].zip
+:	:	Championship Soccer (AKA Pele's Soccer).zip
+:	:	Chase the Chuckwagon (1983) (Spectravideo).zip
+:	:	Checkers (1980) (Activision) [o1].zip
+:	:	Checkers (1980) (Activision).zip
+:	:	Checkers (32-in-1) (Atari) (PAL) [!].zip
+:	:	China Syndrome (1982) (Spectravideo).zip
+:	:	Chinese Character Demo (PD).zip
+:	:	Chopper Command (1982) (Activision) (PAL) [!].zip
+:	:	Chopper Command (1982) (Activision) [!].zip
+:	:	Chopper Command (1982) (Activision) [o1].zip
+:	:	Chopper Command (1982) (Supervision) (PAL) [p1] [!].zip
+:	:	Chopper Command (CCE).zip
+:	:	Chuck Norris Superkicks (Xonox).zip
+:	:	Circus Atari (1978) (Atari) (Joystick).zip
+:	:	Circus Atari (1978) (Atari) (PAL) [!].zip
+:	:	Circus Atari (1978) (Atari) (Paddles).zip
+:	:	Coconuts (1982) (Telesys).zip
+:	:	Code Breaker (1978) (Atari) (PAL) [!].zip
+:	:	Code Breaker (1978) (Atari) [o1].zip
+:	:	Code Breaker (1978) (Atari).zip
+:	:	Col 'N (HomeVision).zip
+:	:	Color Bar Generator (Videosoft).zip
+:	:	Colors Demo (PD).zip
+:	:	Colours Selector (PAL) (PD).zip
+:	:	Combat (1977) (Atari) [!].zip
+:	:	Combat (32-in-1) (Atari) (PAL) [!].zip
+:	:	Combat (Atari) (PAL) [!].zip
+:	:	Combat II (1982) (Atari) (Prototype) [!].zip
+:	:	Commando (1988) (Activision) (PAL) [!].zip
+:	:	Commando (1988) (Atari).zip
+:	:	Commando Raid (1982) (US Games) (PAL) [p1][!].zip
+:	:	Commando Raid (1982) (US Games).zip
+:	:	Communist Mutants From Space (1982) (Starpath) (PAL).zip
+:	:	Communist Mutants From Space (1982) (Starpath) [a1].zip
+:	:	Communist Mutants From Space (1982) (Starpath).zip
+:	:	Communist Mutants From Space (Preview) (1982) (Starpath) (PAL).zip
+:	:	Communist Mutants From Space (Preview) (1982) (Starpath).zip
+:	:	CompuMate (Spectravideo & Universum) (PAL) [!].zip
+:	:	Concentration (1978) (Atari) [o1].zip
+:	:	Concentration (1978) (Atari).zip
+:	:	Condor Attack (CCE).zip
+:	:	Condor Attack (High-Score Games) (PAL) [!].zip
+:	:	Confrontation (1983) (Answer Software).zip
+:	:	Congo Bongo (1983) (Sega).zip
+:	:	Console Wars (PD).zip
+:	:	Cookie Monster Munch (1983) (Atari) (PAL) [!].zip
+:	:	Cookie Monster Munch (1983) (Atari) (Prototype) (PAL).zip
+:	:	Corrida da Matematica (CCE).zip
+:	:	Cosmic Ark (1982) (Imagic) (PAL) [!].zip
+:	:	Cosmic Ark (1982) (Imagic) (PAL) [p1][!].zip
+:	:	Cosmic Ark (1982) (Imagic) [!].zip
+:	:	Cosmic Ark (CCE).zip
+:	:	Cosmic Avenger (PAL) [p1][!].zip
+:	:	Cosmic Commuter (1984) (Activision) [!].zip
+:	:	Cosmic Commuter (1984) (Activision) [o1].zip
+:	:	Cosmic Commuter (CCE).zip
+:	:	Cosmic Corridor (Zimag).zip
+:	:	Cosmic Creeps (1982) (Telesys) (PAL) [p1][!].zip
+:	:	Cosmic Creeps (1982) (Telesys).zip
+:	:	Cosmic Swarm (1982) (CommaVid) (PAL) [!].zip
+:	:	Cosmic Swarm (1982) (CommaVid) (PAL) [p1][o1][!].zip
+:	:	Cosmic Swarm (1982) (CommaVid) [a1].zip
+:	:	Cosmic Swarm (1982) (CommaVid) [o1].zip
+:	:	Cosmic Swarm (32-in-1) (Atari) (PAL) [!].zip
+:	:	Cosmic Town (ITT Family Games) (PAL) [!].zip
+:	:	Counter Demo (PD).zip
+:	:	Crackpots (1983) (Activision) (PAL) [p1][!].zip
+:	:	Crackpots (1983) (Activision) (PAL) [p2][!].zip
+:	:	Crackpots (1983) (Activision) [!].zip
+:	:	Crackpots (1983) (Activision) [o1].zip
+:	:	Crackpots (CCE).zip
+:	:	Crash Dive (1983) (20th Century Fox).zip
+:	:	Crazy Climber (1983) (Atari).zip
+:	:	Criminal Pursuit.zip
+:	:	Cross Force (1982) (Spectravision) (PAL) [!].zip
+:	:	Cross Force (1982) (Spectravision) (PAL) [p1][!].zip
+:	:	Cross Force (1982) (Spectravision).zip
+:	:	Crossbow (1987) (Atari) (PAL) [!].zip
+:	:	Crossbow (1987) (Atari).zip
+:	:	Cruise Missile (1982) (Froggo).zip
+:	:	Crypts of Chaos (1982) (20th Century Fox).zip
+:	:	Crystal Castles (1984) (Atari) (NTSC-Prototype) [!].zip
+:	:	Crystal Castles (1984) (Atari) (PAL) [!].zip
+:	:	Crystal Castles (1984) (Atari) [p1].zip
+:	:	Crystal Castles (1984) (Atari).zip
+:	:	Cubicolor (Rob Fulop).zip
+:	:	Cubis (1997) (Eckhard Stolberg).zip
+:	:	Cubis (6K) (1997) (Eckhard Stolberg).zip
+:	:	Cubis (EM) (1997) (Eckhard Stolberg).zip
+:	:	Cubo Magico (CCE).zip
+:	:	Custer's Revenge (1982) (Mystique).zip
+:	:	Dancing Plate (PAL) [p1][!].zip
+:	:	Dancing Plates (PAL).zip
+:	:	Dare Diver (1977) (Sears).zip
+:	:	Dark Cavern (1982) (Mattel) [!].zip
+:	:	Dark Chambers (1988) (Atari) (PAL) [!].zip
+:	:	Dark Chambers (1988) (Atari).zip
+:	:	Dark Mage (4K) (PD).zip
+:	:	Dark Mage (8K) (PD).zip
+:	:	Dark Mage (SuperCharger) (PD).zip
+:	:	Dark Mage (final beta) (PD).zip
+:	:	Dark Mage (rough beta) (PD).zip
+:	:	Deadly Duck (1982) (20th Century Fox).zip
+:	:	Death Trap (1983) (Avalon Hill).zip
+:	:	Decathlon (1983) (Activision) (PAL) [!].zip
+:	:	Decathlon (1983) (Activision).zip
+:	:	Defender (1981) (Atari) (PAL) [!].zip
+:	:	Defender (1981) (Atari) (PAL) [p1][!].zip
+:	:	Defender (1981) (Atari).zip
+:	:	Defender (CCE).zip
+:	:	Defender II (1984) (Atari) (PAL) [!].zip
+:	:	Defender II (1984) (Atari) [b1].zip
+:	:	Defender II (1984) (Atari).zip
+:	:	Demolition Herby (1982) (Telesys) (PAL) [p1][!].zip
+:	:	Demolition Herby (1982) (Telesys).zip
+:	:	Demon Attack (1982) (Imagic) (PAL) [!].zip
+:	:	Demon Attack (1982) (Imagic) (PAL) [p1][!].zip
+:	:	Demon Attack (1982) (Imagic) [t1].zip
+:	:	Demon Attack (1982) (Imagic).zip
+:	:	Demon Attack (1983) (Activision).zip
+:	:	Demons to Diamonds (1982) (Atari) (PAL) [!].zip
+:	:	Demons to Diamonds (1982) (CCE).zip
+:	:	Demons to Diamonds (1982).zip
+:	:	Demons!.zip
+:	:	Der Geheimkurier (Starsoft) (PAL) [!].zip
+:	:	Der Vielfrass (Starsoft) (PAL) [!].zip
+:	:	Der Vielfrass (Starsoft) (PAL) [p1][!].zip
+:	:	Der hungrige Panda (Starsoft) (PAL) [!].zip
+:	:	Der kleine Baer (Starsoft) (PAL) [!].zip
+:	:	Desert Falcon (1987) (Atari) (PAL) [!].zip
+:	:	Desert Falcon (1987) (Atari).zip
+:	:	Diagnostic Cartridge.zip
+:	:	Dice Puzzle (Panda) (PAL) [p1][!].zip
+:	:	Dice Puzzle (Panda) (PAL).zip
+:	:	Die Ente und der Wolf (Starsoft) (PAL) [!].zip
+:	:	Die Ratte und die Karotten (Starsoft) (PAL) [!].zip
+:	:	Die Springteufel (Starsoft) (PAL) [!].zip
+:	:	Die Unterwasser-Bestien (Starsoft) (PAL) [!].zip
+:	:	Die hungrigen Froesche (Starsoft) (PAL) [!].zip
+:	:	Dig Dug (1983) (Atari) (PAL) (Version 1) [!].zip
+:	:	Dig Dug (1983) (Atari) (PAL) (Version 2) [!].zip
+:	:	Dig Dug (1983) (Atari).zip
+:	:	Dishaster (Zimag) (PAL).zip
+:	:	Dodge 'em (1980) (Atari) [a1].zip
+:	:	Dodge 'em (1980) (Atari).zip
+:	:	Dodge 'em (Atari) (PAL) [!].zip
+:	:	Dodge 'em (Atari) (PAL) [p1][!].zip
+:	:	Dolphin (1983) (Activision) [!].zip
+:	:	Dolphin (1983) (Activision) [o1].zip
+:	:	Dolphin (CCE).zip
+:	:	Domino (Ishido) (PD) [b1].zip
+:	:	Domino (Ishido) (PD).zip
+:	:	Donald Duck's Speedboat (Atari) (Prototype) (PAL).zip
+:	:	Donkey Kong (1983) (CBS Electronics) (PAL) [!].zip
+:	:	Donkey Kong (1983) (CBS Electronics) (PAL) [a1][!].zip
+:	:	Donkey Kong (1983) (CBS Electronics) (PAL) [a2][!].zip
+:	:	Donkey Kong (198x).zip
+:	:	Donkey Kong Junior (CBS Electronics) (PAL) [!].zip
+:	:	Donkey Kong Junior (CCE).zip
+:	:	Donkey Kong Junior (Coleco) [b1].zip
+:	:	Donkey Kong Junior (Coleco).zip
+:	:	Doomzerk (PD).zip
+:	:	Double Dragon (1989) (Activision) (PAL) [!].zip
+:	:	Double Dragon (1989) (Activision).zip
+:	:	Double Dragon (CCE).zip
+:	:	Double Dunk (1989) (Atari) (PAL) [!].zip
+:	:	Double Dunk (1989) (Atari).zip
+:	:	Dragon Defender (PAL).zip
+:	:	Dragonfire (1982) (Imagic) (PAL) [!].zip
+:	:	Dragonfire (1982) (Imagic) (PAL) [p1][!].zip
+:	:	Dragonfire (1982) (Imagic).zip
+:	:	Dragonstomper (1 of 3) (1982) (Starpath) (PAL).zip
+:	:	Dragonstomper (1 of 3) (1982) (Starpath).zip
+:	:	Dragonstomper (1982) (Starpath) [a1].zip
+:	:	Dragonstomper (1982) (Starpath) [a2].zip
+:	:	Dragonstomper (1982) (Starpath).zip
+:	:	Dragonstomper (2 of 3) (1982) (Starpath) (PAL).zip
+:	:	Dragonstomper (2 of 3) (1982) (Starpath).zip
+:	:	Dragonstomper (3 of 3) (1982) (Starpath) (PAL).zip
+:	:	Dragonstomper (3 of 3) (1982) (Starpath).zip
+:	:	Dragonstomper (Preview) (1982) (Starpath) (PAL).zip
+:	:	Dragonstomper (Preview) (1982) (Starpath) [a1].zip
+:	:	Dragonstomper (Preview) (1982) (Starpath).zip
+:	:	Dragster (1980) (Activision) (PAL) [!].zip
+:	:	Dragster (1980) (Activision) [!].zip
+:	:	Dragster (1980) (Activision) [o1].zip
+:	:	Dragster (1980) (Activision) [o2].zip
+:	:	Droid Demo 2 (PD).zip
+:	:	Droid Demo 2-M (PD).zip
+:	:	Droid Demo 22 (PD).zip
+:	:	Dschungle Boy (AKA Tom Boy) (Starsoft) (PAL) [!].zip
+:	:	Duck Shoot (Kampf um die Schatzinsel) (Starsoft) (PAL) [!].zip
+:	:	Dukes of Hazzard (Atari) (Prototype).zip
+:	:	Dukes of Hazzard V2 (Atari) (Prototype) [!].zip
+:	:	Dumbo's Flying Circus (1983) (Atari) (Prototype) (PAL).zip
+:	:	E.T. The Extra-Terrestrial (1982) (Atari) (PAL) [!].zip
+:	:	E.T. The Extra-Terrestrial (1982) (Atari).zip
+:	:	E.T. The Extra-Terrestrial (CCE).zip
+:	:	Earth Attack (Zellers) [!].zip
+:	:	Earth Dies Screaming (1983) (20th Century Fox) (PAL) [p1][!].zip
+:	:	Earth Dies Screaming (1983) (20th Century Fox).zip
+:	:	Eckhard Stolberg's Scrolling Text Demo 1 (PD).zip
+:	:	Eckhard Stolberg's Scrolling Text Demo 2 (PD).zip
+:	:	Eckhard Stolberg's Scrolling Text Demo 3 (PD).zip
+:	:	Eckhard Stolberg's Scrolling Text Demo 4 (PD).zip
+:	:	Eddie Invaders (Hack).zip
+:	:	Eddy Langfinger, der Museumsdieb (Starsoft) (PAL) [!].zip
+:	:	Edtris (1994) (Ed Federmeyer).zip
+:	:	Edtris (1995) (Ed Federmeyer).zip
+:	:	Eggomania (1982) (US Games).zip
+:	:	Eishockey-Fieber (Starsoft) (PAL) [!].zip
+:	:	Eli's Ladder (Simage).zip
+:	:	Elk Attack (1987) (Atari).zip
+:	:	Encounter at L5 (1982) (Data Age).zip
+:	:	Enduro (1983) (Activision) (PAL) [!].zip
+:	:	Enduro (1983) (Activision) (PAL) [p1][!].zip
+:	:	Enduro (1983) (Activision) [o1].zip
+:	:	Enduro (1983) (Activision) [p1].zip
+:	:	Enduro (1983) (Activision).zip
+:	:	Enduro (CCE).zip
+:	:	Enduro (Digivision) (Brazil) (PAL) [p1][!].zip
+:	:	Enduro (Digivision) (PAL) [p1][!].zip
+:	:	Entombed (1982) (US Games) [!].zip
+:	:	Escape Demo (PD).zip
+:	:	Escape from the Mindmaster (1 of 4) (1982) (Starpath) (PAL).zip
+:	:	Escape from the Mindmaster (1 of 4) (1982) (Starpath).zip
+:	:	Escape from the Mindmaster (1982) (Starpath) [a1].zip
+:	:	Escape from the Mindmaster (1982) (Starpath).zip
+:	:	Escape from the Mindmaster (2 of 4) (1982) (Starpath) (PAL).zip
+:	:	Escape from the Mindmaster (2 of 4) (1982) (Starpath).zip
+:	:	Escape from the Mindmaster (3 of 4) (1982) (Starpath) (PAL).zip
+:	:	Escape from the Mindmaster (3 of 4) (1982) (Starpath).zip
+:	:	Escape from the Mindmaster (4 of 4) (1982) (Starpath) (PAL).zip
+:	:	Escape from the Mindmaster (4 of 4) (1982) (Starpath).zip
+:	:	Escape from the Mindmaster (Preview) (1982) (Starpath) (PAL).zip
+:	:	Escape from the Mindmaster (Preview) (1982) (Starpath).zip
+:	:	Espial (1983) (Tigervision) [b1].zip
+:	:	Espial (1983) (Tigervision) [b2].zip
+:	:	Espial (1983) (Tigervision).zip
+:	:	Excalibur 39 (PD).zip
+:	:	Excalibur Demo (PD).zip
+:	:	Exocet (AKA Space Eagle) (Panda) (PAL).zip
+:	:	Exocet (AKA Space Eagle) (Sancho-Goliath) (PAL) [!].zip
+:	:	Exorcise (Adventure Hack).zip
+:	:	Fantastic Voyage (1982) (20th Century Fox) [!].zip
+:	:	Farmyard Fun.zip
+:	:	Fast Eddie (1982) (20th Century Fox) [!].zip
+:	:	Fast Eddie (1983) (Activision).zip
+:	:	Fast Eddie (CCE).zip
+:	:	Fast Eddie (PAL) [p1][!].zip
+:	:	Fast Food (1982) (Telesys).zip
+:	:	Fast Food (Zirok) (Brazil) [!].zip
+:	:	Fatal Run (1990) (Atari) (PAL) [!].zip
+:	:	Fathom (1983) (Imagic) (PAL) [!].zip
+:	:	Fathom (1983) (Imagic) [b1].zip
+:	:	Fathom (1983) (Imagic).zip
+:	:	Felix Return (Goliath) (PAL) [!].zip
+:	:	Festival (PAL) [p1][!].zip
+:	:	Feuerwehr im Einsatz (Starsoft) (PAL) [!].zip
+:	:	Final Approach (1982) (Apollo).zip
+:	:	Fire Bird (Video Game Program) (PAL) [!].zip
+:	:	Fire Birds (AKA Scorpion) (ITT Family Games) (PAL) [!].zip
+:	:	Fire Fighter (1982) (Imagic) (PAL) [!].zip
+:	:	Fire Fighter (1982) (Imagic).zip
+:	:	Fire Fly (1983) (Mythicon) [!].zip
+:	:	Fire Spinner (PAL) [p1][!].zip
+:	:	Fire Spinner.zip
+:	:	Fireball (1982) (Starpath) (PAL).zip
+:	:	Fireball (1982) (Starpath) [a1].zip
+:	:	Fireball (1982) (Starpath).zip
+:	:	Fireball (Preview) (1982) (Starpath) (PAL).zip
+:	:	Fireball (Preview) (1982) (Starpath).zip
+:	:	Fisher Price (CCE) (PAL) [!].zip
+:	:	Fishing Derby (1980) (Activision) (PAL) [!].zip
+:	:	Fishing Derby (1980) (Activision) (PAL) [h1].zip
+:	:	Fishing Derby (1980) (Activision) (PAL) [p1][!].zip
+:	:	Fishing Derby (1980) (Activision) (PAL) [p2][o1][!].zip
+:	:	Fishing Derby (1980) (Activision) [!].zip
+:	:	Fishing Derby (1980) (Activision) [o1].zip
+:	:	Fishing Derby (1980) (Activision) [o2].zip
+:	:	Fishing Derby (32-in-1) (Atari) (PAL) [!].zip
+:	:	Fishing Derby (CCE).zip
+:	:	Flag Capture (1978) (Atari) [o1].zip
+:	:	Flag Capture (1978) (Atari).zip
+:	:	Flag Capture (32-in-1) (Atari) (PAL) [!].zip
+:	:	Flash Gordon (1983) (20th Century Fox) (PAL) [p1][!].zip
+:	:	Flash Gordon (1983) (20th Century Fox) [!].zip
+:	:	Flippern (Starsoft) (PAL) [!].zip
+:	:	Football (1978) (Atari) [o1].zip
+:	:	Football (1978) (Atari).zip
+:	:	Football (32-in-1) (Atari) (PAL) [!].zip
+:	:	Football (AKA Fussball) (Ariola) (PAL) [!].zip
+:	:	Forest (Sancho) (PAL) [!].zip
+:	:	Fox & Goat (Starsoft) (PAL) [!].zip
+:	:	Fox & Goat (Starsoft) (PAL) [p1][!].zip
+:	:	Frame Timed Sound Effects (Eckhard Stolberg) (PD).zip
+:	:	Frame Timed Sound Effects-EM (Eckhard Stolberg) (PD).zip
+:	:	Frankenstein's Monster (1983) (Data Age).zip
+:	:	Freeway (1981) (Activision) (PAL) [!].zip
+:	:	Freeway (1981) (Activision) [!].zip
+:	:	Freeway (1981) (Activision) [o1].zip
+:	:	Freeway (1981) (Activision) [o2].zip
+:	:	Freeway (32-in-1) (Atari) (PAL) [!].zip
+:	:	Freeway (AKA Rabbits) (PAL) [p1][!].zip
+:	:	Freeway (CCE).zip
+:	:	Freeway (Dactar) (PAL) [p1][!].zip
+:	:	Frog Pond (Atari) (Prototype).zip
+:	:	Frogger (1982) (Parker Bros) (PAL) [!].zip
+:	:	Frogger (1982) (Parker Bros).zip
+:	:	Frogger (1982) (Starpath) (PAL).zip
+:	:	Frogger (Official version by Sega) (1982) (Starpath) [a1].zip
+:	:	Frogger (Official version by Sega) (1982) (Starpath).zip
+:	:	Frogger (Preview) (1982) (Starpath) [a1].zip
+:	:	Frogger (Preview) (1982) (Starpath).zip
+:	:	Frogger II - Threedeep! (1983) (Parker Bros).zip
+:	:	Frogs and Flies (1982) (Mattel) (PAL) [p1][!].zip
+:	:	Frogs and Flies (1982) (Mattel) [!].zip
+:	:	Front Line (1982) (Coleco).zip
+:	:	Frostbite (1983) (Activision) (PAL) [!].zip
+:	:	Frostbite (1983) (Activision) (PAL) [p1][!].zip
+:	:	Frostbite (1983) (Activision) (PAL) [p2][!].zip
+:	:	Frostbite (1983) (Activision).zip
+:	:	Frostbite (1983) (CCE).zip
+:	:	Frostbite (Digitel) (Brazil) (PAL) [p1][!].zip
+:	:	Frostbite (Digivision) (PAL) [p1][!].zip
+:	:	Frostbite [o1].zip
+:	:	Fuchs & Schweinchen Schlau (Starsoft) (PAL) [!].zip
+:	:	Fun with Numbers (1977) (Atari) (PAL) [!].zip
+:	:	Fun with Numbers (1977) (Atari).zip
+:	:	Fun with Numbers (32-in-1) (Atari) (PAL) [!].zip
+:	:	G.I. Joe - Cobra Strike (1983) (Parker Bros) [!].zip
+:	:	GREGXM Demo (PD).zip
+:	:	Galactic (G) (Funvision) (PAL) [!].zip
+:	:	Galactic (G) (Funvision) (PAL) [p1][!].zip
+:	:	Galaga (River Raid clone) [p1].zip
+:	:	Galaxian (1983) (Atari) (PAL) [!].zip
+:	:	Galaxian (1983) (Atari) [!].zip
+:	:	Galaxian (1983) (CCE).zip
+:	:	Gangster (Ariola) (PAL) [!].zip
+:	:	Gangster Alley (1982) (Spectravision).zip
+:	:	Gangster Alley (1983) (Spectravideo) (PAL) [!].zip
+:	:	Gangster Alley (1983) (Spectravideo) (PAL) [p1][!].zip
+:	:	Garfield (Prototype).zip
+:	:	Gas Hog (1983) (Spectravideo).zip
+:	:	Gas Hog (AKA Marspatrouille) (1983) (Spectravideo) (PAL) [!].zip
+:	:	Gauntlet (1983) (Answer Software).zip
+:	:	Gefaehrliche Maeusejagt (Starsoft) (PAL) [!].zip
+:	:	Gefecht im All (Starsoft) (PAL) [!].zip
+:	:	Ghost Manor (1983) (Xonox) (PAL) [!].zip
+:	:	Ghost Manor (1983) (Xonox) [o1].zip
+:	:	Ghost Manor (1983) (Xonox).zip
+:	:	Ghostbusters (1985) (Activision) (PAL) [!].zip
+:	:	Ghostbusters (1985) (Activision).zip
+:	:	Ghostbusters II (1992) (Salu) (PAL) [!].zip
+:	:	Gigolo (1982) (Mystique).zip
+:	:	Glacier Patrol.zip
+:	:	Glib (1983) (Selchow & Righter).zip
+:	:	Golf (1978) (Atari) (PAL) [!].zip
+:	:	Golf (1978) (Atari) [!].zip
+:	:	Golf (1978) (Atari) [o1].zip
+:	:	Golf (32-in-1) (Atari) (PAL) [!].zip
+:	:	Gopher (1982) (Carrere Video) (PAL) [!].zip
+:	:	Gopher (1982) (US Games) (PAL) [p1][!].zip
+:	:	Gopher (1982) (US Games).zip
+:	:	Gorf (1982) (CBS Electronics) (PAL) [!].zip
+:	:	Gorf (1982) (CBS Electronics).zip
+:	:	Gorilla Kong (DK Hack).zip
+:	:	Grand Prix (1982) (Activision) (PAL) [!].zip
+:	:	Grand Prix (1982) (Activision) [!].zip
+:	:	Grand Prix (1982) (Activision) [o1].zip
+:	:	Grand Prix (CCE).zip
+:	:	Gravitar (1988) (Atari) [!].zip
+:	:	Gravitar (1988) (Atari) [a1][!].zip
+:	:	Gravitar (1988) (CCE).zip
+:	:	Great Escape (Bomb).zip
+:	:	Green Bar Text Demo (PD).zip
+:	:	Green and Yellow Number 1 Demo (PD).zip
+:	:	Green and Yellow Number 1 Demo 2 (PD).zip
+:	:	Gremlins (1984) (Atari).zip
+:	:	Grid Demo (PD).zip
+:	:	Grid and Purple Dot Demo (PD).zip
+:	:	Ground Zero (Rainbow Vision) (PAL) [!].zip
+:	:	Grover's Music Maker (Atari) (Prototype) (PAL).zip
+:	:	Guardian (1982) (Apollo).zip
+:	:	Gyruss (1984) (Parker Bros) [b1].zip
+:	:	Gyruss (1984) (Parker Bros).zip
+:	:	H.E.R.O. (1984) (Activision) (PAL) [!].zip
+:	:	H.E.R.O. (1984) (Activision) [a1].zip
+:	:	H.E.R.O. (1984) (Activision) [a2].zip
+:	:	H.E.R.O. (1984) (Activision) [a3].zip
+:	:	H.E.R.O. (1984) (Activision) [o1].zip
+:	:	H.E.R.O. (1984) (CCE).zip
+:	:	Halloween (AKA Sexta Fiera 13) (Wizard Video) [!].zip
+:	:	Halloween (AKA Sexta Fiera 13) (Wizard Video) [a1][!].zip
+:	:	Hangman (1978) (Atari).zip
+:	:	Harbor Escape (1983) (Panda).zip
+:	:	Haunted House (1981) (Atari) (PAL) [!].zip
+:	:	Haunted House (1981) (Atari).zip
+:	:	Hell Driver (ITT Family Games) (PAL) [!].zip
+:	:	Hili Ball (Starsoft) (PAL) [!].zip
+:	:	Hili Ball (Starsoft) (PAL) [p1][!].zip
+:	:	Hole Hunter.zip
+:	:	Holey Moley (Atari) (Prototype).zip
+:	:	Home Run Baseball (1978) (PAL) [p1][!].zip
+:	:	Home Run Baseball (1978) (PAL) [p1][o1][!].zip
+:	:	Home Run Baseball (1978) [o1].zip
+:	:	Home Run Baseball (1978).zip
+:	:	Home Run Baseball (32-in-1) (Atari) (PAL) [!].zip
+:	:	Horizonal Color Bars Demo (PD).zip
+:	:	Horizonal Color Bars Demo 2 (PD).zip
+:	:	Horizontally Scrolling Playfield Thing (Rob Kudla) (PD).zip
+:	:	Hozer Video Demo (PD).zip
+:	:	Human Cannonball (AKA Cannon Man) (1978) (Atari) [o1].zip
+:	:	Human Cannonball (AKA Cannon Man) (1978) (Atari).zip
+:	:	Human Cannonball (AKA Cannon Man) (1979) (Atari) (PAL) [!].zip
+:	:	Human Cannonball (AKA Cannon Man) (1979) (Atari) (PAL) [p1][!].zip
+:	:	Human Cannonball (AKA Cannon Man) (1979) (Atari) (PAL) [p1][o1][!].zip
+:	:	Human Cannonball (AKA Cannon Man) (32-in-1) (Atari) (PAL) [!].zip
+:	:	Hunt & Score (Atari) (PAL) [!].zip
+:	:	I Want My Mommy (AKA Ursinho Esperto) (Zimag).zip
+:	:	I.Q. 180.zip
+:	:	Ice Hockey (1981) (Activision) (PAL) [!].zip
+:	:	Ice Hockey (1981) (Activision) [!].zip
+:	:	Ice Hockey (1981) (Activision) [o1].zip
+:	:	Ice Hockey (CCE).zip
+:	:	Ice Hockey (PAL) [p1][!].zip
+:	:	Ikari Warriors (1990) (Atari) (PAL).zip
+:	:	Im Reich der Spinne (Starsoft) (PAL) [!].zip
+:	:	Im Schutz der Drachen (Starsoft) (PAL) [p1][!].zip
+:	:	Imagic Selector.zip
+:	:	Immies & Aggies (CCE).zip
+:	:	Immies & Aggies (Emag) (PAL) [p1][!].zip
+:	:	Indy 500 (1978) (Atari) (PAL) [!].zip
+:	:	Indy 500 (1978) (Atari) (PAL) [p1][o1][!].zip
+:	:	Indy 500 (1978) (Atari) [!].zip
+:	:	Indy 500 (1978) (Atari) [h1].zip
+:	:	Indy 500 (1978) (Atari) [o1].zip
+:	:	Infiltrate (1982) (Apollo) [!].zip
+:	:	International Soccer (1982) (Mattel) (PAL) [p1][!].zip
+:	:	International Soccer (1982) (Mattel) [a1].zip
+:	:	International Soccer (1982) (Mattel).zip
+:	:	International Soccer (1982) (Telegames) (PAL) [!].zip
+:	:	Inv (4-24-97) (PD).zip
+:	:	Inv (Alpha 1) (PD).zip
+:	:	Inv (Alpha 2) (PD).zip
+:	:	Inv (Beta) (PD).zip
+:	:	Inv (V2.1) (1-3-98) (PD).zip
+:	:	Inv 2 (Eric Mooney) (PD).zip
+:	:	Invader Sprites in a Line Demo (PD).zip
+:	:	J-Pac (Pac-Man Hack).zip
+:	:	JKH Text Scrolling Demo (PD).zip
+:	:	James Bond 007 (1983) (Parker Bros) [b1].zip
+:	:	James Bond 007 (1983) (Parker Bros).zip
+:	:	Jawbreaker (1982) (CCE).zip
+:	:	Jawbreaker (1982) (Tigervision) (PAL) [!].zip
+:	:	Jawbreaker (1982) (Tigervision) (PAL) [p1][!].zip
+:	:	Jawbreaker (1982) (Tigervision) (PAL) [p2][!].zip
+:	:	John K Harvey's Equalizer (NTSC) (PD) [a1].zip
+:	:	John K Harvey's Equalizer (NTSC) (PD).zip
+:	:	John K Harvey's Equalizer (PAL) (PD).zip
+:	:	Journey - Escape (1982) (Data Age).zip
+:	:	Joust (1982) (Atari) (PAL) [!].zip
+:	:	Joust (1982) (Atari).zip
+:	:	Jr. Pac-Man (1984) (Atari) (PAL) [!].zip
+:	:	Jr. Pac-Man (1984) (Atari).zip
+:	:	Jumping Jack (Dynamics) (PAL) [!].zip
+:	:	Jungle Fever (1982) (Playaround).zip
+:	:	Jungle Hunt (1982) (Atari) (PAL) [!].zip
+:	:	Jungle Hunt (1982) (Atari).zip
+:	:	Jungle Hunt (1982) (CCE).zip
+:	:	KC Pacman (Hack).zip
+:	:	Kabobber (Activision) (Prototype).zip
+:	:	Kaboom! (1981) (Activision) (PAL) [!].zip
+:	:	Kaboom! (1981) (Activision) [!].zip
+:	:	Kaboom! (1981) (Activision) [o1].zip
+:	:	Kaboom! (1981) (Activision) [o2].zip
+:	:	Kaboom! (CCE).zip
+:	:	Kamikaze Saucers.zip
+:	:	Kangaroo (1983) (Atari) (PAL) [!].zip
+:	:	Kangaroo (1983) (Atari).zip
+:	:	Karate (1982) (Froggo).zip
+:	:	Karate (PAL) [p1][!].zip
+:	:	Keystone Kapers (1983) (Activision) (PAL) [!].zip
+:	:	Keystone Kapers (1983) (Activision) (PAL) [p1][!].zip
+:	:	Keystone Kapers (1983) (Activision) [a1][o1].zip
+:	:	Keystone Kapers (1983) (Activision).zip
+:	:	Keystone Kapers (CCE).zip
+:	:	Keystone Kapers (Digivision) (Brazil) [p1][!].zip
+:	:	Keystone Keypers (Zirok) (Brazil) [p1][!].zip
+:	:	Killer Satellites (1982) (Starpath) (PAL).zip
+:	:	Killer Satellites (1982) (Starpath) (Preview).zip
+:	:	Killer Satellites (1982) (Starpath).zip
+:	:	King Arthur (Starsoft) (PAL) [!].zip
+:	:	King Kong (1982) (Tigervision) (PAL) [!].zip
+:	:	King Kong (1982) (Tigervision).zip
+:	:	Klax (1990) (Atari) (PAL) [!].zip
+:	:	Klax (1990) (Atari).zip
+:	:	Knight on the Town (1982) (Playaround).zip
+:	:	Kool Aid Man (1982) (Mattel).zip
+:	:	Krieg Der Sterne (Atlantis-Ariola) (PAL) [!].zip
+:	:	Krull (1983) (Atari).zip
+:	:	Krull (CCE).zip
+:	:	Kung Fu (PAL) [!].zip
+:	:	Kung Fu Master (1984) (Activision) (PAL) [!].zip
+:	:	Kung Fu Master (1984) (Activision).zip
+:	:	Kung Fu Master (CCE).zip
+:	:	Kung Fu Sprite Demo (PD).zip
+:	:	Kung Fu Sprite Demo 2 (PD).zip
+:	:	Labyrinth (Starsoft) (PAL) [!].zip
+:	:	Lady in Wading (1982) (Playaround) [b1].zip
+:	:	Lady in Wading (1982) (Playaround).zip
+:	:	Landung in der Normandie (Starsoft) (PAL) [p1][!].zip
+:	:	Landungskommando (Starsoft) (PAL) [!].zip
+:	:	Laser Base (AKA World End) (ITT Family Games) (PAL) [!].zip
+:	:	Laser Blast (1981) (Activision) [!].zip
+:	:	Laser Blast (1981) (Activision) [o1].zip
+:	:	Laser Blast (1981) (Activision) [o2].zip
+:	:	Laser Blast (1982) (Activision) (PAL) [!].zip
+:	:	Laser Blast (1982) (Activision) (PAL) [p1][o1][!].zip
+:	:	Laser Blast (32-in-1) (Atari) (PAL) [!].zip
+:	:	Laser Blast (CCE).zip
+:	:	Laser Gates (1983) (CCE).zip
+:	:	Laser Gates (1983) (Imagic) (PAL) [!].zip
+:	:	Laser Volley (1983) (Zellers).zip
+:	:	Lightbulb Lightens, The (PD) (Non Functional).zip
+:	:	Lilly Adventure (Starsoft) (PAL) [!].zip
+:	:	Lines Demo (PAL) (PD).zip
+:	:	Lochjaw (1982) (Apollo).zip
+:	:	Lock 'N' Chase (1982) (Mattel) (PAL) [p1][!].zip
+:	:	Lock 'N' Chase (1982) (Mattel) [!].zip
+:	:	Lock 'N' Chase (1982) (Telegames) (PAL) [!].zip
+:	:	London Blitz (1983) (Avalon Hill).zip
+:	:	Lost Luggage (1981) (Apollo) (NTSC) [!].zip
+:	:	Lost Luggage (1981) (Apollo) [a1].zip
+:	:	M.A.D. (1982) (Carrere Video) (PAL) [!].zip
+:	:	M.A.D. (1982) (US Games).zip
+:	:	M.A.S.H. (1982) (20th Century Fox).zip
+:	:	M.A.S.H. (CCE) (no logo) (PAL) [!].zip
+:	:	M.A.S.H. (CCE).zip
+:	:	Magicard (CommaVid).zip
+:	:	Malagai (1983) (Answer Software).zip
+:	:	Mangia' (1983) (Spectravideo) (PAL) [!].zip
+:	:	Mangia' (1983) (Spectravideo).zip
+:	:	Many Blue Bars Demo (PD).zip
+:	:	Many Blue Bars and Text Demo (PD).zip
+:	:	Many Blue Bars and Text Demo 2 (PD).zip
+:	:	Many Blue Bars and Text Demo 3 (PD).zip
+:	:	Many Blue Bars and Text Demo 4 (PD).zip
+:	:	Marauder (1982) (Tigervision) (PAL) [!].zip
+:	:	Marauder (1982) (Tigervision) [b1].zip
+:	:	Marauder (1982) (Tigervision).zip
+:	:	Marine Wars (1983) (Konami) [!].zip
+:	:	Marineflieger (Starsoft) (PAL) [!].zip
+:	:	Mario Bros. (1983) (Atari) (PAL) [!].zip
+:	:	Mario Bros. (1983) (Atari).zip
+:	:	Mario Bros. (1983) (CCE).zip
+:	:	Mark's Sound Demo (PD).zip
+:	:	Master Builder (1983) (Spectravideo) (PAL) [!].zip
+:	:	Master Builder (1983) (Spectravideo).zip
+:	:	Masters of the Universe - The Power of He-Man (1983) (Mattel).zip
+:	:	Math Gran Prix (1982) (Atari) (PAL) [!].zip
+:	:	Math Gran Prix (1982) (Atari).zip
+:	:	Matt Demo (PD).zip
+:	:	Maze (1978) (Sears) [o1].zip
+:	:	Maze (1978) (Sears).zip
+:	:	Maze Craze (1978) (Atari) (PAL) [!].zip
+:	:	Maze Craze (1978) (Atari).zip
+:	:	Mega Force (1982) (20th Century Fox) (PAL) [!].zip
+:	:	Mega Force (1982) (20th Century Fox) (PAL) [a1].zip
+:	:	Mega Force (1982) (20th Century Fox).zip
+:	:	Mega Funpak - Pac-Man, Planet Patrol, Skeet Shoot, Battles of Gorf (HES) (PAL) [!].zip
+:	:	Megaboy (Brazil) (PAL) [!].zip
+:	:	Megamania (1982) (Activision) (PAL) [!].zip
+:	:	Megamania (1982) (Activision) (PAL) [p1][!].zip
+:	:	Megamania (1982) (Activision) [!].zip
+:	:	Megamania (1982) (Activision) [o1].zip
+:	:	Megamania (CCE).zip
+:	:	Mein Weg (Starsoft) (PAL) [!].zip
+:	:	Merlin's Walls (Standard Edition) (1999) (ebivision) [!].zip
+:	:	Meteor Defense (ITT Family Games) (PAL) [!].zip
+:	:	Midnight Magic (1984) (Atari) (PAL) [!].zip
+:	:	Midnight Magic (1984) (Atari).zip
+:	:	Millipede (1984) (Atari) (PAL) [!].zip
+:	:	Millipede (1984) (Atari).zip
+:	:	Milpede (Atari) (Prototype).zip
+:	:	Miner 2049er (1982) (Tigervision) [b1].zip
+:	:	Miner 2049er (1982) (Tigervision) [b2].zip
+:	:	Miner 2049er (1982) (Tigervision).zip
+:	:	Miner 2049er Volume II (1983) (Tigervision) [b1].zip
+:	:	Miner 2049er Volume II (1983) (Tigervision) [b2].zip
+:	:	Miner 2049er Volume II (1983) (Tigervision).zip
+:	:	Mines of Minos (1982) (CommaVid) (PAL) [!].zip
+:	:	Mines of Minos (1982) (CommaVid) (PAL) [p1][!].zip
+:	:	Mines of Minos (1982) (CommaVid).zip
+:	:	Minesweeper (V.09) (PD).zip
+:	:	Minesweeper (V.099) (PD).zip
+:	:	Miniature Golf (1979) (Atari) (PAL) [!].zip
+:	:	Miniature Golf (1979) (Atari) (PAL) [p1][o1][!].zip
+:	:	Miniature Golf (32-in-1) (Atari) (PAL) [!].zip
+:	:	Miss Pack Man (Video Game Program) (PAL) [p1][!].zip
+:	:	Miss Piggy's Wedding (Prototype) [!].zip
+:	:	Missile Command (1981) (Atari) (PAL) [!].zip
+:	:	Missile Command (1981) (Atari) (PAL) [p1][!].zip
+:	:	Missile Command (1981) (Atari) [!].zip
+:	:	Missile Command (1981) (Atari) [h1].zip
+:	:	Missile Control (AKA Raketen-Angriff) (Ariola) (PAL) [!].zip
+:	:	Missile Control (AKA Raketen-Angriff) (Ariola) (PAL) [p1][!].zip
+:	:	Missile War (Goliath) (PAL) [!].zip
+:	:	Mission 3000 A.D. (Bitcorp) (PAL) [!].zip
+:	:	Misterious Thief, A (CCE).zip
+:	:	Mogul Maniac (1983) (Amiga).zip
+:	:	Mondo Pong V1 (Piero Cavina) (PD).zip
+:	:	Mondo Pong V2 (Piero Cavina) (PD).zip
+:	:	Monster aus dem All (1983) (Rainbow Vision) (PAL) [!].zip
+:	:	Monstercise.zip
+:	:	Montezuma's Revenge - Starring Panama Joe (1983) (Parker Bros).zip
+:	:	Moon Patrol (1983) (Atari) (PAL) [!].zip
+:	:	Moon Patrol (1983) (Atari).zip
+:	:	Moon Patrol (CCE).zip
+:	:	Moonsweeper (1983) (Imagic) (PAL) [!].zip
+:	:	Moonsweeper (1983) (Imagic) [b1].zip
+:	:	Moonsweeper (1983) (Imagic).zip
+:	:	Moto Laser (CCE).zip
+:	:	Motocross (Starsoft) (PAL) [!].zip
+:	:	Motocross (Starsoft) (PAL) [a1][!].zip
+:	:	Motocross (Starsoft) (PAL) [b1].zip
+:	:	Motocross Racer (1983) (Xonox).zip
+:	:	Motocross Racer - Joystick (1983) (Xonox).zip
+:	:	Motorodeo (1990) (Atari) (PAL).zip
+:	:	Mountain King (1983) (CBS Electronics).zip
+:	:	Mountain Man (AKA Winterjagt) (ITT Family Games) (PAL) [!].zip
+:	:	Mouse Trap (1982) (CBS Electronics) (PAL) [!].zip
+:	:	Mouse Trap (1982) (Coleco).zip
+:	:	Movable Grid Demo (PD).zip
+:	:	Move a Blue Blob Demo (PD).zip
+:	:	Move a Blue Blob Demo 2 (PD).zip
+:	:	Moving Blue Ladder Demo (PD).zip
+:	:	Moving Maze Demo (PD).zip
+:	:	Mr. Do! (1983) (CBS Electronics) (PAL) [!].zip
+:	:	Mr. Do! (1983) (CBS Electronics).zip
+:	:	Mr. Do!'s Castle (1983) (Parker Bros).zip
+:	:	Mr. Postman (1983) (Bitcorp) (PAL) [!].zip
+:	:	Mr. Postman (CCE).zip
+:	:	Mr. Postman.zip
+:	:	Mr. T (AKA Fast Eddie) (Starsoft) (PAL) [!].zip
+:	:	Ms. Pac-Man (1982) (Atari) (PAL) [!].zip
+:	:	Ms. Pac-Man (1982) (Atari).zip
+:	:	Ms. Pac-Man (1982) (CCE).zip
+:	:	Multi-Color Demo 0 (PD).zip
+:	:	Multi-Color Demo 1 (PD).zip
+:	:	Multi-Color Demo 2 (PD).zip
+:	:	Multi-Color Demo 3 (PD).zip
+:	:	Multi-Color Demo 4 (PD).zip
+:	:	Multi-Color Demo 5 (PD).zip
+:	:	Multi-Color Demo 6 (PD).zip
+:	:	Multi-Color Demo 7 (PD).zip
+:	:	Multi-Sprite Demo (PD).zip
+:	:	Multi-Sprite Demo V1.1 (Piero Cavina) (PD).zip
+:	:	Multi-Sprite Demo V2.0 (Piero Cavina) (PD).zip
+:	:	Multi-Sprite Game V1.0 (Piero Cavina) (PD).zip
+:	:	Multi-Sprite Game V2.1 (Piero Cavina) (PD).zip
+:	:	Music Machine (1983) (Sparrow).zip
+:	:	My Golf (1990) (HES) (PAL) [!].zip
+:	:	My Golf (1990).zip
+:	:	My Golf (CCE).zip
+:	:	Name This Game (AKA Octopus) (1982) (US Games) [!].zip
+:	:	Name This Game (AKA Octopus) (PAL) [p1][!].zip
+:	:	Night Driver (1978) (Atari) (PAL) [!].zip
+:	:	Night Driver (1978) (Atari) [o1].zip
+:	:	Night Driver (1978) (Atari).zip
+:	:	Night Stalker (Telegames) (PAL) [!].zip
+:	:	Night Stalker (Telegames) (PAL) [a1].zip
+:	:	Nightmare (CCE).zip
+:	:	Nightmare (Sancho) (PAL) [!].zip
+:	:	Nightmare.zip
+:	:	No Escape! (1983) (Imagic) (PAL) [!].zip
+:	:	No Escape! (1983) (Imagic) [!].zip
+:	:	No Escape! (1983) (Imagic) [a1].zip
+:	:	Nuts (Technovision) (PAL).zip
+:	:	Obelix (1983) (Atari) (PAL) [!].zip
+:	:	Obelix (1983) (Atari).zip
+:	:	Ocean City Defender (Zellers).zip
+:	:	Octopus (AKA Name That Game) (Carrere Video) (PAL) [!].zip
+:	:	Off Your Rocker (1983) (Amiga).zip
+:	:	Off the Wall (1989) (Atari) (PAL) [!].zip
+:	:	Off the Wall (1989) (Atari) (PAL) [b1].zip
+:	:	Off the Wall (1989) (Atari) (PAL) [o1].zip
+:	:	Oink! (1983) (Activision) (PAL) [!].zip
+:	:	Oink! (1983) (Activision) (PAL) [p1][!].zip
+:	:	Oink! (1983) (Activision) [!].zip
+:	:	Oink! (1983) (Activision) [o1].zip
+:	:	Oink! (CCE).zip
+:	:	Okie Dokie (4K) (PD).zip
+:	:	Okie Dokie (Older) (PD).zip
+:	:	Okie Dokie (PD).zip
+:	:	Omega Race (1983) (CBS Electronics) [o1].zip
+:	:	Omega Race (1983) (CBS Electronics).zip
+:	:	One Blue Bar Demo (PD).zip
+:	:	Oscar's Trash Race (1983) (Atari) (PAL) [!].zip
+:	:	Oscar's Trash Race (1983) (Atari) (Prototype) (PAL).zip
+:	:	Othello (1978) (Atari) (PAL) [!].zip
+:	:	Othello (1978) (Atari) (PAL) [p1][o1][!].zip
+:	:	Othello (1978) (Atari).zip
+:	:	Othello (1978) [p1].zip
+:	:	Othello (1978) [p1][o1].zip
+:	:	Othello (32-in-1) (Atari) (PAL) [!].zip
+:	:	Out of Control (1983) (Avalon Hill).zip
+:	:	Outlaw (32-in-1) (Atari) (PAL) [!].zip
+:	:	Outlaw - GunSlinger (1978) (Atari) (PAL) [!].zip
+:	:	Outlaw - GunSlinger (1978) (Atari) [o1].zip
+:	:	Outlaw - GunSlinger (1978) (Atari).zip
+:	:	Overhead Adventure Demo 1 (PD).zip
+:	:	Overhead Adventure Demo 2 (PD).zip
+:	:	Overhead Adventure Demo 3 (PD).zip
+:	:	Overhead Adventure Demo 4 (PD).zip
+:	:	Overhead Adventure Demo 5 (PD).zip
+:	:	Overhead Adventure Demo 6 (PD).zip
+:	:	Oystron (V2.7) (PD).zip
+:	:	Oystron (V2.8) (PD).zip
+:	:	Oystron (V2.82) (PD).zip
+:	:	Oystron (V2.85) (PD).zip
+:	:	Oystron (V2.9) (PD).zip
+:	:	Oystron X.zip
+:	:	PCMSG 2.0 (PD).zip
+:	:	PCMSG 2.2 (PD).zip
+:	:	PCMSG 2.3 (PD).zip
+:	:	PCMSG 2.4 (PD).zip
+:	:	PCMSG 2.5 (PD).zip
+:	:	PCMSG 2.6 (Oystron Pre-release demo) (PD).zip
+:	:	PIEROXM Demo (PD).zip
+:	:	Pac Ghost Sprite Demo (PD).zip
+:	:	Pac Ghost Sprite Demo 2 (PD).zip
+:	:	Pac Invaders (ZUT).zip
+:	:	Pac Kong (Funvision) (PAL) [!].zip
+:	:	Pac Kong (Goliath) (PAL) [!].zip
+:	:	Pac Kong (PAL).zip
+:	:	Pac Kong (Starsoft) (PAL) [!].zip
+:	:	Pac-2600 (PD).zip
+:	:	Pac-Man (1981) (Atari) [h1].zip
+:	:	Pac-Man (1981) (Atari) [h2].zip
+:	:	Pac-Man (1981) (Atari).zip
+:	:	Pac-Man (Atari) (PAL) [!].zip
+:	:	Pac-Man (Atari) (PAL) [p1][!].zip
+:	:	Pac-Man (CCE) (PAL) [!].zip
+:	:	Pac-Man (CCE).zip
+:	:	Pac-Space.zip
+:	:	Panda Chase (HomeVision).zip
+:	:	Parachute (HomeVision) (PAL).zip
+:	:	Party Mix (1 of 3) (1982) (Starpath) (PAL).zip
+:	:	Party Mix (1 of 3) (1982) (Starpath).zip
+:	:	Party Mix (1982) (Starpath).zip
+:	:	Party Mix (2 of 3) (1982) (Starpath) (PAL).zip
+:	:	Party Mix (2 of 3) (1982) (Starpath).zip
+:	:	Party Mix (3 of 3) (1982) (Starpath) (PAL).zip
+:	:	Party Mix (3 of 3) (1982) (Starpath).zip
+:	:	Party Mix (Preview) (1982) (Starpath) (PAL).zip
+:	:	Party Mix (Preview) (1982) (Starpath).zip
+:	:	Peek-A-Boo.zip
+:	:	Pengo (1984) (Atari).zip
+:	:	Pepsi Invaders (Atari) (Prototype).zip
+:	:	Pete Rose Baseball (1988) (Absolute).zip
+:	:	Peter Penguin (Jagt auf Diamanten-Frisco) (ITT) (PAL) [!].zip
+:	:	Phantom Panzer II (Starsoft) (PAL) [!].zip
+:	:	Phantom Tank (Bitcorp) (PAL) [!].zip
+:	:	Phantom Tank (Bitcorp) (PAL) [p1][!].zip
+:	:	Phantom Tank (CCE).zip
+:	:	Phantom UFO (PAL) [p1][!].zip
+:	:	Pharaoh's Curse (TechnoVision) (PAL) [!].zip
+:	:	Pharaoh's Curse (TechnoVision) (PAL) [p1][!].zip
+:	:	Pharoah's Curse (TechnoVision) (PAL) [h1].zip
+:	:	Phaser Patrol (1982) (Starpath) (PAL).zip
+:	:	Phaser Patrol (1982) (Starpath) [a1].zip
+:	:	Phaser Patrol (1982) (Starpath).zip
+:	:	Philly Flasher (1982) (Playaround).zip
+:	:	Phoenix (1982) (Atari) (PAL) [!].zip
+:	:	Phoenix (1982) (Atari).zip
+:	:	Phoenix (1982) (CCE).zip
+:	:	Pick 'n Pile (1990) (Salu) (PAL) [!].zip
+:	:	Picnic (1982) (US Games).zip
+:	:	Piece o' Cake (1982) (US Games).zip
+:	:	Pigs in Space starring Miss Piggy (1986) (Atari) (PAL) [!].zip
+:	:	Pigs in Space starring Miss Piggy (1986) (Atari).zip
+:	:	Pitfall 2 (1984) (Activision) (PAL) [!].zip
+:	:	Pitfall 2 Plus [h1].zip
+:	:	Pitfall II - Lost Caverns (1984) (Activision) [b1].zip
+:	:	Pitfall II - Lost Caverns (1984) (Activision) [b2].zip
+:	:	Pitfall II - Lost Caverns (1984) (Activision).zip
+:	:	Pitfall! (1982) (Activision) (Beta).zip
+:	:	Pitfall! (1982) (Activision) (PAL) [!].zip
+:	:	Pitfall! (1982) (Activision) [!].zip
+:	:	Pitfall! (1982) (Activision) [o1].zip
+:	:	Pitfall! (CCE).zip
+:	:	Pitfall! (No Walls hack) [h1].zip
+:	:	Pitfall! (Steroids hack) [h1].zip
+:	:	Pitfall! (says 1985) [h1].zip
+:	:	Planet Patrol (1982) (Play Video) (PAL) [p3][!].zip
+:	:	Planet Patrol (1982) (Spectravision) (PAL) [p1][!].zip
+:	:	Planet Patrol (1982) (Spectravision) (PAL) [p2][!].zip
+:	:	Planet Patrol (1982) (Spectravision).zip
+:	:	Planet Patrol (CCE).zip
+:	:	Planet Patrol (Spectravideo) (PAL) [!].zip
+:	:	Plaque Attack (1983) (Activision) (PAL) [!].zip
+:	:	Plaque Attack (1983) (Activision) [!].zip
+:	:	Plaque Attack (1983) (Activision) [o1].zip
+:	:	Plaque Attack (Activision) (PAL) [p1][!].zip
+:	:	Plaque Attack (CCE).zip
+:	:	Poker Plus (1978) (Sears).zip
+:	:	Polaris (1983) (Tigervision) (maybe beta).zip
+:	:	Polaris (1983) (Tigervision) [b1].zip
+:	:	Polaris (1983) (Tigervision).zip
+:	:	Pole Position (1983) (Atari) (PAL) [!].zip
+:	:	Pole Position (1983) (Atari) [b1].zip
+:	:	Pole Position (1983) (Atari).zip
+:	:	Pole Position (1983) (CCE).zip
+:	:	Polo (Atari) (Prototype) [!].zip
+:	:	Polo (Atari) (Prototype) [o1].zip
+:	:	Pooyan (1982) (Konami-Gakken) (PAL) [!].zip
+:	:	Pooyan (1982) (Konami-Gakken) (PAL) [p1][!].zip
+:	:	Pooyan (1982) (Konami-Gakken).zip
+:	:	Popeye (1983) (Parker Bros) (PAL) [!].zip
+:	:	Popeye (1983) (Parker Bros).zip
+:	:	Porky's (1983) (20th Century Fox).zip
+:	:	Pressure Cooker (1983) (Activision) (PAL) [!].zip
+:	:	Pressure Cooker (1983) (Activision).zip
+:	:	Pressure Cooker (CCE).zip
+:	:	Pressure Gauge 2 Beta.zip
+:	:	Pressure Gauge.zip
+:	:	Private Eye (1983) (Activision) (PAL) [!].zip
+:	:	Private Eye (1983) (Activision) [b1].zip
+:	:	Private Eye (1983) (Activision).zip
+:	:	Private Eye (CCE).zip
+:	:	Pro Wrestling (Absolute-Activision) (PAL) [!].zip
+:	:	Purple Bar Demo (PD).zip
+:	:	Purple Bar Demo 2 (PD).zip
+:	:	Purple Cross Demo (PD).zip
+:	:	Puzzle (Colin Hughes) (PD).zip
+:	:	Puzzled World (Cooper Black) (PAL) [p1].zip
+:	:	Pygmy (Starsoft) (PAL) [!].zip
+:	:	Pyramid War (AKA Wuestenschlacht) (Rainbow Vision) (PAL) [!].zip
+:	:	Pyramid War (Suntek) (PAL).zip
+:	:	Q-bert (1983) (Parker Bros) (PAL) [!].zip
+:	:	Q-bert (1983) (Parker Bros) (PAL) [b1].zip
+:	:	Q-bert (1988) (Atari) (PAL) [!].zip
+:	:	Q-bert (1988) (Atari) [!].zip
+:	:	Q-bert's Qubes (1983) (Parker Bros) [a1].zip
+:	:	Q-bert's Qubes (1983) (Parker Bros).zip
+:	:	Qb (2.07) (NTSC).zip
+:	:	Qb (2.07) (PAL).zip
+:	:	Qb (2.07) (Stella).zip
+:	:	Qb (2.15) (NTSC).zip
+:	:	Qb (2.15) (PAL).zip
+:	:	Qb (2.15) (Stella).zip
+:	:	Quadrun (Atari).zip
+:	:	Quest for Quintana Roo (Sunrise).zip
+:	:	Quest for Quintana Roo (Telegames) (PAL) [!].zip
+:	:	Quick Step! (1983) (Imagic) (PAL) [!].zip
+:	:	Quick Step! (1983) (Imagic) (PAL) [a1][!].zip
+:	:	Quick Step! (1983) (Imagic).zip
+:	:	RUN Platform Demo (PD).zip
+:	:	Rabbit Transit (1982) (Starpath) (PAL).zip
+:	:	Rabbit Transit (1982) (Starpath) [a1].zip
+:	:	Rabbit Transit (1982) (Starpath).zip
+:	:	Rabbit Transit (Preview) (1982) (Starpath).zip
+:	:	Race Demo (PD).zip
+:	:	Racquetball (1981) (Apollo) (PAL).zip
+:	:	Racquetball (1981) (Apollo) [!].zip
+:	:	Rad Action Pak - Kung-Fu,Frostb,Freeway (1990) (HES) (PAL) [!].zip
+:	:	Radar (CCE) (PAL) [!].zip
+:	:	Radar Lock (1989) (Atari) (PAL) [!].zip
+:	:	Radar Lock (1989) (Atari).zip
+:	:	Raft Rider (1982) (US Games).zip
+:	:	Raiders of the Lost Ark (1982) (Atari) (PAL) [!].zip
+:	:	Raiders of the Lost Ark (1982) (Atari).zip
+:	:	Ram It (1982) (Telegames) (PAL) [!].zip
+:	:	Ram It (1982) (Telegames) (PAL) [p1][!].zip
+:	:	Rampage! (1989) (Activision) (PAL) [!].zip
+:	:	Rampage! (1989) (Activision) [b1].zip
+:	:	Rampage! (1989) (Activision).zip
+:	:	Raumpatrouille (Starsoft) (PAL) [!].zip
+:	:	Reactor (1982) (Parker Bros) (PAL) [!].zip
+:	:	Reactor (1982) (Parker Bros).zip
+:	:	RealSports Baseball (1982) (Atari).zip
+:	:	RealSports Basketball (Atari) (Prototype) (PAL) [!].zip
+:	:	RealSports Boxing (1987) (Atari) (PAL) [!].zip
+:	:	RealSports Boxing (1987) (Atari).zip
+:	:	RealSports Football (1982) (Atari).zip
+:	:	RealSports Soccer (1983) (Atari) (PAL) [!].zip
+:	:	RealSports Soccer (1983) (Atari).zip
+:	:	RealSports Tennis (1983) (Atari) (PAL) [!].zip
+:	:	RealSports Tennis (1983) (Atari) [o1].zip
+:	:	RealSports Tennis (1983) (Atari).zip
+:	:	RealSports Tennis (CCE).zip
+:	:	RealSports Volleyball (1982) (Atari) (PAL) [!].zip
+:	:	RealSports Volleyball (1982) (Atari).zip
+:	:	Red And White Checkerboard Demo (PD).zip
+:	:	Red Pong Number 2 Demo (PD).zip
+:	:	Red Pong Number 2 Demo 2 (PD).zip
+:	:	Register Twiddler Demo (PD).zip
+:	:	Register Twiddler Demo 2 (PD).zip
+:	:	Rescue 1 Demo (This Planet Sucks proto) (PD).zip
+:	:	Rescue 2 Demo (This Planet Sucks proto) (PD).zip
+:	:	Rescue 3 Demo (This Planet Sucks proto) (PD).zip
+:	:	Rescue 4 Demo (This Planet Sucks proto) (PD).zip
+:	:	Rescue Bira Bira.zip
+:	:	Rescue Terra I (1982) (Venture Vision).zip
+:	:	Resgate Espacial (CCE).zip
+:	:	Revenge of the Beefsteak Tomatoes (1983) (20th Century Fox) [!].zip
+:	:	Riddle of the Sphinx (1982) (Imagic) (PAL) [!].zip
+:	:	Riddle of the Sphinx (1982) (Imagic).zip
+:	:	River Patrol (1984) (Tigervision).zip
+:	:	River Raid (1982) (Activision) (PAL) [!].zip
+:	:	River Raid (1982) (Activision) (PAL) [p1][!].zip
+:	:	River Raid (1982) (Activision) [!].zip
+:	:	River Raid (1982) (Activision) [a1].zip
+:	:	River Raid (1982) (Activision) [o1].zip
+:	:	River Raid (1982) (Activision) [t1].zip
+:	:	River Raid (Brazil).zip
+:	:	River Raid (CCE).zip
+:	:	River Raid (Polyvox).zip
+:	:	River Raid (SpkSoft 98) [h1].zip
+:	:	River Raid (SpkSoft) [h1].zip
+:	:	River Raid II (1988) (Activision) (PAL) [!].zip
+:	:	River Raid II (1988) (Activision) [a1].zip
+:	:	River Raid II (1988) (Activision).zip
+:	:	River Raid II (AKA Katastrophen-Einsatz) (Starsoft) (PAL) [!].zip
+:	:	Road Runner (1989) (Atari) (PAL) [!].zip
+:	:	Road Runner (1989) (Atari) (PAL) [a1].zip
+:	:	Road Runner (CCE).zip
+:	:	Robin Hood (1983) (Xonox) (PAL) [!].zip
+:	:	Robin Hood (1983) (Xonox) (PAL) [a1][!].zip
+:	:	Robin Hood (Starsoft) (PAL) [!].zip
+:	:	Robin Hood (Xonox).zip
+:	:	Robot Fight (AKA Space Robot) (HomeVision) (PAL) [!].zip
+:	:	Robot Tank (1983) (Activision) (PAL) [!].zip
+:	:	Robot Tank (1983) (Activision).zip
+:	:	Roc n' Rope (1984) (Coleco).zip
+:	:	Roc n' Rope (CBS Electronics) (PAL) [!].zip
+:	:	Rodeo Champ (PAL) [p1][!].zip
+:	:	Room of Doom (CommaVid) (PAL) [!].zip
+:	:	Room of Doom (CommaVid).zip
+:	:	SALT Diagnostics.zip
+:	:	Sabotage (Ultravison).zip
+:	:	Saboteur.zip
+:	:	Save Mary (1990) (Atari) (Prototype) [!].zip
+:	:	Save Our Ship (PAL) [p1][!].zip
+:	:	Save Our Ship (TechnoVision) (PAL) [!].zip
+:	:	Save Our Ship.zip
+:	:	Schiessbude (Starsoft) (PAL) [!].zip
+:	:	Schnapp die Apfeldiebe (AKA Catch Time) (Starsoft) (PAL) [!].zip
+:	:	Schnecke und Eichhoernchen (1983) (Bitcorp) (PAL) [!].zip
+:	:	Schussel, der Polizistenschreck (Starsoft) (PAL) [!].zip
+:	:	Scroller Demo (Bob Colbert) (PD).zip
+:	:	Scuba Diver (Panda).zip
+:	:	Sea Hawk (1987) (Froggo).zip
+:	:	Sea Hawk (1987) (Panda).zip
+:	:	Sea Hawk (AKA Overkill-RVision) (1982) (Sancho) (PAL) [!].zip
+:	:	Sea Hawk (CCE).zip
+:	:	Sea Hunt (1987) (Froggo).zip
+:	:	Sea Hunt (CCE).zip
+:	:	Sea Monster (Bitcorp) (PAL) [!].zip
+:	:	Sea Monster (Bitcorp) (PAL) [b1].zip
+:	:	Sea Monster (Bitcorp) (PAL) [p1][!].zip
+:	:	Seaquest (1983) (Activision) (PAL) [!].zip
+:	:	Seaquest (1983) (Activision) (PAL) [p1][!].zip
+:	:	Seaquest (1983) (Activision) [o1].zip
+:	:	Seaquest (1983) (Activision).zip
+:	:	Seaquest (CCE).zip
+:	:	Secret Agent (Data Age) (Prototype).zip
+:	:	Secret Quest (1989) (Atari) (PAL) [!].zip
+:	:	Secret Quest (1989) (Atari).zip
+:	:	See Saw (Cooper Black) (PAL) [p1][!].zip
+:	:	See Saw (Starsoft) (PAL) [!].zip
+:	:	Sentinel (1990) (Atari).zip
+:	:	Sesam, Oeffne Dich (AKA Open Sesame) (Bitcorp) (PAL) [!].zip
+:	:	Sesam, Oeffne Dich (AKA Open Sesame) (Bitcorp) (PAL) [p1][!].zip
+:	:	Shark Attack (1982) (Apollo).zip
+:	:	Ship Demo (PD).zip
+:	:	Ship Demo (V 10) (PD).zip
+:	:	Ship Demo (V 15) (PD).zip
+:	:	Ship Demo (V 1501) (PD).zip
+:	:	Ship Demo (V 1502) (PD).zip
+:	:	Shootin' Gallery (1982) (Imagic).zip
+:	:	Shooting Arcade (1989) (Atari) (Prototype).zip
+:	:	Shuttle Orbiter (1983) (Avalon Hill).zip
+:	:	Sinistar (Atari) (Prototype).zip
+:	:	Sinistar (Atari).zip
+:	:	Sir Lancelot (1983) (Xonox) (PAL) [!].zip
+:	:	Sir Lancelot (1983) (Xonox) [a1].zip
+:	:	Sir Lancelot (1983) (Xonox).zip
+:	:	Skate Boardin' (1987) (Absolute).zip
+:	:	Skate Boardin' (1987) (Activision) (PAL) [!].zip
+:	:	Skeet Shoot (1981) (Apollo) [o1].zip
+:	:	Skeet Shoot (1981) (Apollo).zip
+:	:	Ski Hunt.zip
+:	:	Ski Run.zip
+:	:	Skiing (1980) (Activision) (PAL) [!].zip
+:	:	Skiing (1980) (Activision) [!].zip
+:	:	Skiing (1980) (Activision) [o1].zip
+:	:	Skiing (1980) (Activision) [o2].zip
+:	:	Skiing (1980) (Dactar) (PAL) [p1][!].zip
+:	:	Skiing (32-in-1) (Atari) (PAL) [!].zip
+:	:	Skindiver (AKA Aquatak) (Sancho) (PAL) [!].zip
+:	:	Sky Diver (1978) (Atari) (PAL) [!].zip
+:	:	Sky Diver (1978) (Atari) (PAL) [p1][!].zip
+:	:	Sky Diver (1978) (Atari).zip
+:	:	Sky Diver (32-in-1) (Atari) (PAL) [!].zip
+:	:	Sky Jinks (1982) (Activision) (PAL) [!].zip
+:	:	Sky Jinks (1982) (Activision) (PAL) [p1][!].zip
+:	:	Sky Jinks (1982) (Activision) [!].zip
+:	:	Sky Jinks (1982) (Activision) [b1].zip
+:	:	Sky Jinks (1982) (Activision) [o1].zip
+:	:	Sky Jinks (1982) (Activision) [o2].zip
+:	:	Sky Jinks (CCE).zip
+:	:	Sky Patrol (Imagic) (Prototype).zip
+:	:	Sky Skipper (1983) (Parker Bros) (PAL) [!].zip
+:	:	Sky Skipper (1983) (Parker Bros).zip
+:	:	Slot Machine (1979) (Atari) (PAL) [!].zip
+:	:	Slot Machine (1979) (Atari) (PAL) [p1][o1][!].zip
+:	:	Slot Machine (1979) (Atari) [h1][o1].zip
+:	:	Slot Machine (1979) (Atari).zip
+:	:	Slot Machine (32-in-1) (Atari) (PAL) [!].zip
+:	:	Slot Racers (1978) (Atari) (PAL) [!].zip
+:	:	Slot Racers (1978) (Atari) (PAL) [p1][o1][!].zip
+:	:	Slot Racers (32-in-1) (Atari) (PAL) [!].zip
+:	:	Smash Hit Pak - Frogr,Stampede,Seaqst,Boxng,Ski (HES) (PAL) [!].zip
+:	:	Smurfs - Rescue in Gargamel's Castle (1982) (Coleco) (PAL).zip
+:	:	Smurfs - Rescue in Gargamel's Castle (1982) (Coleco).zip
+:	:	Smurfs - Rescue in Gargamel's Castle (CBS Electronics) (PAL) [!].zip
+:	:	Smurfs Save the Day (1983) (Coleco).zip
+:	:	Snail Against Squirrel (1983) (CCE).zip
+:	:	Snail Against Squirrel (PAL) [p1][!].zip
+:	:	Sneek 'n Peek (1982) (CCE).zip
+:	:	Sneek 'n Peek (1982) (PAL) [p1][!].zip
+:	:	Snoopy and the Red Baron (1983) (Atari) (PAL) [!].zip
+:	:	Snoopy and the Red Baron (1983) (Atari).zip
+:	:	Snoopy and the Red Baron (CCE).zip
+:	:	Solar Fox (1983) (CBS Electronics) (PAL) [!].zip
+:	:	Solar Fox (1983) (CBS Electronics).zip
+:	:	Solar Storm (1983) (Imagic) (PAL) [!].zip
+:	:	Solar Storm (1983) (Imagic).zip
+:	:	Solaris (1986) (Atari) (PAL) [!].zip
+:	:	Solaris (1986) (Atari).zip
+:	:	Sorcerer (1983) (Mythicon) [!].zip
+:	:	Sorcerer's Apprentice (1983) (Atari) (PAL) [!].zip
+:	:	Sorcerer's Apprentice (1983) (Atari).zip
+:	:	Sound Paddle (V1) (PD).zip
+:	:	Sound Paddle (V2) (PD).zip
+:	:	Sound X (1994) (Ed Federmeyer).zip
+:	:	Sound X (1996) (Ed Federmeyer).zip
+:	:	Sound X6 (1994) (Ed Federmeyer).zip
+:	:	Space Attack (1982) (Mattel).zip
+:	:	Space Attack (1982) (Telegames) (PAL) [!].zip
+:	:	Space Canyon (Panda).zip
+:	:	Space Cavern (1981) (Apollo) (PAL) [p1][!].zip
+:	:	Space Cavern (1981) (Apollo) [!].zip
+:	:	Space Invaders (1978) (Atari) (PAL) [!].zip
+:	:	Space Invaders (1978) (Atari) (PAL) [p1][!].zip
+:	:	Space Invaders (1978) (Atari) [a1].zip
+:	:	Space Invaders (1978) (Atari) [h1].zip
+:	:	Space Invaders (1978) (Atari) [t1].zip
+:	:	Space Invaders (1978) (Atari).zip
+:	:	Space Invaders (Explosion hack) [h1].zip
+:	:	Space Invaders 2 (Space Invaders hack) [o1].zip
+:	:	Space Invaders 2 (Space Invaders hack).zip
+:	:	Space Jockey (1982) (Carrere Video) (PAL) [!].zip
+:	:	Space Jockey (1982) (PAL) [p1][!].zip
+:	:	Space Jockey (1982) (US Games) [!].zip
+:	:	Space Jockey (1982) (US Games) [o1].zip
+:	:	Space Jockey (32-in-1) (Atari) (PAL) [!].zip
+:	:	Space Raid (PAL) [!].zip
+:	:	Space Raid.zip
+:	:	Space Robot (AKA Robot Fight) (Dimax).zip
+:	:	Space Shuttle - Journey Into Space (1983) (Activision) (PAL) [!].zip
+:	:	Space Shuttle - Journey Into Space (1983) (Activision).zip
+:	:	Space Tunnel (Bitcorp) (PAL).zip
+:	:	Space Tunnel (Cooper Black) (PAL) [p1].zip
+:	:	Space War (1978) (Atari) (PAL) [!].zip
+:	:	Space War (1978) (Atari) (PAL) [p1][o1][!].zip
+:	:	Space War (1978) (Atari) [b1].zip
+:	:	Space War (1978) (Atari) [o1].zip
+:	:	Space War (1978) (Atari).zip
+:	:	Space War (32-in-1) (Atari) (PAL) [!].zip
+:	:	SpaceMaster X-7 (1983) (20th Century Fox).zip
+:	:	Spacechase (1981) (Apollo) [!].zip
+:	:	Spider Fighter (1983) (Activision) (PAL) [!].zip
+:	:	Spider Fighter (1983) (Activision) [!].zip
+:	:	Spider Fighter (1983) (Activision) [o1].zip
+:	:	Spider Kong (AKA Karate) (Goliath-Funvision) (PAL) [!].zip
+:	:	Spider Kong (AKA Karate) (Goliath-Funvision) (PAL) [p1][!].zip
+:	:	Spider-Man (1982) (Parker Bros) (PAL) [!].zip
+:	:	Spider-Man (1982) (Parker Bros) (PAL) [p1][!].zip
+:	:	Spider-Man (1982) (Parker Bros).zip
+:	:	Spiderdroid (1987) (Froggo).zip
+:	:	Spike's Peak (1983) (Xonox) (PAL) [!].zip
+:	:	Spike's Peak (1983) (Xonox).zip
+:	:	Spitfire Attack (1983) (Milton Bradley) [!].zip
+:	:	Split Screen (Ballblazer) Demo (PD).zip
+:	:	Sports Action Pak - End,Hock,Fish,Drag (1988) (Activision) (PAL) [!].zip
+:	:	Springer (1982) (Tigervision).zip
+:	:	Sprint Master (1988) (Atari) (PAL) [!].zip
+:	:	Sprint Master (1988) (Atari).zip
+:	:	Spy Hunter (1983) (Sega).zip
+:	:	Spy vs. Spy (PAL) [p1][!].zip
+:	:	Squeeze Box (1982) (US Games) [!].zip
+:	:	Sssnake (1982) (Data Age).zip
+:	:	Stampede (1981) (Activision) (PAL) [!].zip
+:	:	Stampede (1981) (Activision) (PAL) [p1][!].zip
+:	:	Stampede (1981) (Activision) (PAL) [p1][o1][!].zip
+:	:	Stampede (1981) (Activision) [!].zip
+:	:	Stampede (1981) (Activision) [o1].zip
+:	:	Stampede (1981) (Activision) [o2].zip
+:	:	Stampede (32-in-1) (Atari) (PAL) [!].zip
+:	:	Star Fox (1982) (Mythicon) [!].zip
+:	:	Star Gunner (1982) (Telesys).zip
+:	:	Star Raiders (1982) (Atari) (PAL) [!].zip
+:	:	Star Raiders (1982) (Atari).zip
+:	:	Star Ship - Outer Space (1977) [o1].zip
+:	:	Star Ship - Outer Space (1977).zip
+:	:	Star Strike (1982) (Mattel).zip
+:	:	Star Strike (Telegames) (PAL) [!].zip
+:	:	Star Trek - Strategic Operations Simulator (1983) (Sega).zip
+:	:	Star Voyager (1982) (Imagic) (PAL) [!].zip
+:	:	Star Voyager (1982) (Imagic).zip
+:	:	Star Voyager (CCE).zip
+:	:	Star Wars - Death Star Battle (1983) (Parker Bros) (PAL) [!].zip
+:	:	Star Wars - Death Star Battle (1983) (Parker Bros).zip
+:	:	Star Wars - Jedi Arena (1983) (Parker Bros) (PAL) [!].zip
+:	:	Star Wars - Jedi Arena (1983) (Parker Bros).zip
+:	:	Star Wars - The Arcade Game (1983) (Parker Bros) (PAL) [!].zip
+:	:	Star Wars - The Arcade Game (1983) (Parker Bros).zip
+:	:	Star Wars - The Empire Strikes Back (1982) (Parker Bros) (PAL) [!].zip
+:	:	Star Wars - The Empire Strikes Back (1982) (Parker Bros).zip
+:	:	Stargate (1984) (Atari) (PAL) [!].zip
+:	:	Stargate (1984) (Atari) [o1].zip
+:	:	Stargate (1984) (Atari).zip
+:	:	Starmaster (1982) (Activision) (PAL) [!].zip
+:	:	Starmaster (1982) (Activision) (PAL) [p1][!].zip
+:	:	Starmaster (1982) (Activision).zip
+:	:	Steeplechase (1980) (Sears) [o1].zip
+:	:	Steeplechase (1980) (Sears).zip
+:	:	Stell-A-Sketch (PD) [a1].zip
+:	:	Stell-A-Sketch (PD).zip
+:	:	Stellar Track (1980) (Sears).zip
+:	:	Stopp die Gangster (Starsoft) (PAL) [!].zip
+:	:	Strahlen der Teufelsvoegel (PAL) [p1].zip
+:	:	Strategy X (1982) (Gakken) (PAL) [!].zip
+:	:	Strategy X (1982) (Gakken) (PAL) [p1][!].zip
+:	:	Strawberry Shortcake - Musical Match-Ups (1983) (Parker Bros) (PAL) [!].zip
+:	:	Strawberry Shortcake - Musical Match-Ups (1983) (Parker Bros).zip
+:	:	Street Racer - Speedway II (1978) (Atari) (PAL) [!].zip
+:	:	Street Racer - Speedway II (1978) (Atari) (PAL) [p1][o1][!].zip
+:	:	Street Racer - Speedway II (1978) (Atari) [o1].zip
+:	:	Street Racer - Speedway II (1978) (Atari).zip
+:	:	Stronghold (CommaVid).zip
+:	:	Stunt Cycle (Atari) (Prototype).zip
+:	:	Sub Rescue (Real Title Unknown).zip
+:	:	Sub Scan (1982) (Sega) (PAL) [p1][!].zip
+:	:	Sub Scan (1983) (Sega).zip
+:	:	Submarine Commander (1982) (Sears).zip
+:	:	Subterrenea (1983) (Imagic) (PAL) [!].zip
+:	:	Subterrenea (1983) (Imagic).zip
+:	:	Sucky Zepplin (Nick Bensema) (PD).zip
+:	:	Suicide Mission (1982) (Starpath) (PAL).zip
+:	:	Suicide Mission (1982) (Starpath) [a1].zip
+:	:	Suicide Mission (1982) (Starpath).zip
+:	:	Suicide Mission (Preview) (1982) (Starpath) (PAL).zip
+:	:	Suicide Mission (Preview) (1982) (Starpath).zip
+:	:	Suicide Mission (no title screen) (1982) (Starpath).zip
+:	:	Summer Games (1987) (Epyx) (PAL) [!].zip
+:	:	Summer Games (1987) (Epyx).zip
+:	:	Super Action Pak - Pitf,GPrix,LaserB,Barn (1988) (Activision) (PAL) [!].zip
+:	:	Super Baseball (1988) (Atari).zip
+:	:	Super Baseball (CCE).zip
+:	:	Super Box (CCE).zip
+:	:	Super Breakout (1978) (Atari) (PAL) [!].zip
+:	:	Super Breakout (1978) (Atari) (PAL) [a1].zip
+:	:	Super Breakout (1978) (Atari).zip
+:	:	Super Challenge Baseball (1982) (Mattel) (PAL) [!].zip
+:	:	Super Challenge Football (1982) (Mattel).zip
+:	:	Super Circus (PAL) [!].zip
+:	:	Super Cobra (1982) (Parker Bros) (PAL) [!].zip
+:	:	Super Cobra (1982) (Parker Bros) [b1].zip
+:	:	Super Cobra (1982) (Parker Bros).zip
+:	:	Super Ferrari (Quelle).zip
+:	:	Super Ferrari (Rainbow Vision) (PAL) [!].zip
+:	:	Super Ferrari (Starsoft) (PAL) [!].zip
+:	:	Super Football (1988) (Atari) (PAL) [!].zip
+:	:	Super Football (1988) (Atari).zip
+:	:	Super Futebol (CCE).zip
+:	:	Super Futebol.zip
+:	:	Super Hit Pak - RRaid,GPrix,Fishing,SkyJ,Chckrs (Activision) (PAL) [!].zip
+:	:	Super Kung-Fu (1983) (Xonox) (PAL) [!].zip
+:	:	Super VoleyBall (CCE).zip
+:	:	Super-Cowboy beim Rodeo (Starsoft) (PAL) [!].zip
+:	:	SuperCharger - Escape from the Mindmaster (4 of 4) (1982) (Starpath) [a1].zip
+:	:	SuperCharger Loader (1982) (Starpath) [b1].zip
+:	:	Superman (1978) (Atari) (PAL) [!].zip
+:	:	Superman (1978) (Atari) (PAL) [a1][!].zip
+:	:	Superman (1978) (Atari) (PAL) [p1][!].zip
+:	:	Superman (1978) (Atari) (PAL) [p2][!].zip
+:	:	Superman (1978) (Atari) [a1].zip
+:	:	Superman (1978) (Atari).zip
+:	:	Superman (CCE).zip
+:	:	Surf's Up (Amiga).zip
+:	:	Surfer's Paradise - But Danger Below! (Video Gems) (PAL).zip
+:	:	Surround (1978) (Atari) (PAL) [!].zip
+:	:	Surround (1978) (Atari) (PAL) [p1][o1][!].zip
+:	:	Surround (1978) (Atari) [a1].zip
+:	:	Surround (1978) (Atari) [o1].zip
+:	:	Surround (1978) (Atari).zip
+:	:	Surround (32-in-1) (Atari) (PAL) [!].zip
+:	:	Survival Island (1 of 3) (1983) (Starpath) (PAL).zip
+:	:	Survival Island (1 of 3) (1983) (Starpath).zip
+:	:	Survival Island (1982) (Starpath) [a1].zip
+:	:	Survival Island (1982) (Starpath).zip
+:	:	Survival Island (2 of 3) (1983) (Starpath) (PAL).zip
+:	:	Survival Island (2 of 3) (1983) (Starpath).zip
+:	:	Survival Island (3 of 3) (1983) (Starpath) (PAL).zip
+:	:	Survival Island (3 of 3) (1983) (Starpath).zip
+:	:	Survival Run (1983) (Milton Bradley).zip
+:	:	Sweat! - The Decathalon Game (1 of 2) (1982) (Starpath) (Prototype).zip
+:	:	Sweat! - The Decathalon Game (1982) (Starpath) (Prototype).zip
+:	:	Sweat! - The Decathalon Game (2 of 2) (1982) (Starpath) (Prototype).zip
+:	:	Sword of Saros (1983) (Starpath) (PAL).zip
+:	:	Sword of Saros (1983) (Starpath) [a1].zip
+:	:	Sword of Saros (1983) (Starpath).zip
+:	:	SwordQuest - Earthworld (1982) (Atari) (PAL) [!].zip
+:	:	SwordQuest - Earthworld (1982) (Atari) [!].zip
+:	:	SwordQuest - Earthworld (1982) (Atari) [a1][!].zip
+:	:	SwordQuest - Fireworld (1982) (Atari) (PAL) [!].zip
+:	:	SwordQuest - Fireworld (1982) (Atari).zip
+:	:	SwordQuest - Waterworld (1983) (Atari).zip
+:	:	T.F. Space Invaders.zip
+:	:	TRON - Deadly Discs (1983) (Mattel).zip
+:	:	TRON - Deadly Discs (1983) (Telegames) (PAL) [!].zip
+:	:	Tac Scan (1982) (Sega) (PAL) [p1][!].zip
+:	:	Tac Scan (1983) (Sega).zip
+:	:	Tank Brigade (Panda).zip
+:	:	Tank Plus (1977) (Sears) [a1].zip
+:	:	Tank Plus (1977) (Sears).zip
+:	:	Tanks But No Tanks (Zimag).zip
+:	:	Tape Worm (1982) (Spectravideo) (PAL) [!].zip
+:	:	Tape Worm (1982) (Spectravideo).zip
+:	:	Tapper (1983) (Sega).zip
+:	:	Task Force (1987) (Froggo).zip
+:	:	Tax Avoiders (1982) (American Videogame).zip
+:	:	Taz (1983) (Atari) [!].zip
+:	:	Taz (1983) (Atari) [a1][!].zip
+:	:	Teddy Apple (HomeVision) (PAL) [!].zip
+:	:	Telepathy (Prototype) (Atari) [!].zip
+:	:	Teller-Jonglieren! (AKA Tanzende Teller) (Starsoft) (PAL) [!].zip
+:	:	Tempest (Atari) (Prototype) [!].zip
+:	:	Tennis (1981) (Activision) (PAL) [!].zip
+:	:	Tennis (1981) (Activision) (PAL) [p1][o1].zip
+:	:	Tennis (1981) (Activision) [!].zip
+:	:	Tennis (1981) (Activision) [o1].zip
+:	:	Tennis (1981) (Activision) [o2].zip
+:	:	Tennis (32-in-1) (Atari) (PAL) [!].zip
+:	:	Tennis (Dactar) (PAL) [p1][!].zip
+:	:	Tennis (Pet Boat) (PAL) [p1][!].zip
+:	:	Tennis (Starsoft) (PAL) [!].zip
+:	:	Test Cartridge.zip
+:	:	Test Tape - Standalone (Atari).zip
+:	:	Tetris 2600 (Colin Hughes) [o1].zip
+:	:	Tetris 2600 (Colin Hughes).zip
+:	:	Texas Chainsaw Massacre, The (1983) (Wizard Video Games).zip
+:	:	This Planet Sucks (16K).zip
+:	:	This Planet Sucks [a1].zip
+:	:	This Planet Sucks [a2].zip
+:	:	This Planet Sucks.zip
+:	:	Threshold (1982) (Tigervision) (PAL) [!].zip
+:	:	Threshold (1982) (Tigervision).zip
+:	:	Thrust Demo (V0.1) (PD).zip
+:	:	Thrust Demo (V0.2) (PD).zip
+:	:	Thrust Demo (V0.9) (PD).zip
+:	:	Thrust Demo (V1.0) (PD).zip
+:	:	Thrust Demo (V1.2) (PD).zip
+:	:	Thunderground (1983) (Sega) (PAL) [p1][!].zip
+:	:	Thunderground (1983) (Sega).zip
+:	:	Time Machine (AKA Great Escape,Asteroid Belt) (PAL) [!].zip
+:	:	Time Pilot (1983) (Coleco) [b1].zip
+:	:	Time Pilot (1983) (Coleco).zip
+:	:	Time Race (Goliath) (PAL) [!].zip
+:	:	Time Race 2 (Funvision) (PAL) [!].zip
+:	:	Time Test Demo (PAL) (PD).zip
+:	:	Time Warp (CCE) (PAL) [!].zip
+:	:	Time Warp (CCE).zip
+:	:	Title Match Pro Wrestling (1987) (Absolute) [a1].zip
+:	:	Title Match Pro Wrestling (1987) (Absolute).zip
+:	:	Title Match Pro Wrestling (1989) (Activision).zip
+:	:	Tom Boy (Suntek) (PAL).zip
+:	:	Tom's Eierjagd (Starsoft) (PAL) [!].zip
+:	:	Tomarc the Barbarian (1983) (Xonox).zip
+:	:	Tomcat - The F-14 Flight Simulator (1988) (Absolute) [!].zip
+:	:	Tooth Protectors (DSD-Camelot).zip
+:	:	Top Gun (AKA Air Patrol) (Starsoft) (PAL) [!].zip
+:	:	Towering Inferno (1982) (US Games) [!].zip
+:	:	Track and Field (1984) (Atari).zip
+:	:	Traffic.zip
+:	:	Trick Shot (1982) (Imagic) (PAL) [!].zip
+:	:	Trick Shot (1982) (Imagic).zip
+:	:	Tuby Bird (AKA Vogel Flieh) (Starsoft) (PAL) [!].zip
+:	:	Tunnel Runner (1983) (CBS Electronics) [!].zip
+:	:	Tunnel Runner (1983) (CBS Electronics) [a1][!].zip
+:	:	Turmoil (1982) (20th Century Fox).zip
+:	:	Turmoil (198x) (Activision).zip
+:	:	Tutankham (1983) (Parker Bros) (PAL) [!].zip
+:	:	Tutankham (1983) (Parker Bros).zip
+:	:	UFO Patrol.zip
+:	:	Universal Chaos (Telegames) (PAL).zip
+:	:	Up 'n Down (1983) (Sega).zip
+:	:	Vanguard (1982) (Atari) (PAL) [!].zip
+:	:	Vanguard (1982) (Atari).zip
+:	:	Vanguard (CCE).zip
+:	:	Venture (1982) (CBS Electronics) (PAL) [!].zip
+:	:	Venture (1982) (Coleco) [!].zip
+:	:	Venture (1988) (Atari) (PAL) [!].zip
+:	:	Vertical Rainbow Demo (PD).zip
+:	:	Video Checkers (1978) (Atari) (PAL) [!].zip
+:	:	Video Checkers (1978) (Atari).zip
+:	:	Video Chess (1978) (Atari) (PAL) [!].zip
+:	:	Video Chess (1978) (Atari).zip
+:	:	Video Cube (CCE).zip
+:	:	Video Jogger (Exus) (PAL).zip
+:	:	Video Olympics (1978) (Atari) (PAL) [!].zip
+:	:	Video Olympics (1978) (Atari) [o1].zip
+:	:	Video Olympics (1978) (Atari).zip
+:	:	Video Pinball (1980) (Atari) (PAL) [!].zip
+:	:	Video Pinball (1980) (Atari) (PAL) [p1][!].zip
+:	:	Video Pinball (1980) (Atari).zip
+:	:	Video Reflex (Exus) (PAL).zip
+:	:	Video Simon (Mark De Smet).zip
+:	:	Video Time Machine (Chris Cracknell).zip
+:	:	Virtual Pet (Demo 1) (PD).zip
+:	:	Virtual Pet (Demo 2 update) (PD).zip
+:	:	Virtual Pet (V007) (after Demo 2 update) (PD).zip
+:	:	Volleyball (Dactar) (PAL) [p1][!].zip
+:	:	Volleyball (Starsoft) (PAL) [!].zip
+:	:	Vom Himmel durch die Hoelle (Rainbow Vision) (PAL) [!].zip
+:	:	Wabbit (1982) (Apollo).zip
+:	:	Wachroboter Jagt Jupy (AKA Hey! Stop!) (Starsoft) (PAL) [!].zip
+:	:	Walker.zip
+:	:	Wall Ball (1983) (Avalon Hill).zip
+:	:	Wall Defender (Bomb).zip
+:	:	Warlords (1981) (Atari) (PAL) [!].zip
+:	:	Warlords (1981) (Atari).zip
+:	:	Warplock (1982) (Data Age).zip
+:	:	Weltraum Tunnel (Bitcorp) (PAL) [!].zip
+:	:	Weltraum Tunnel (Starsoft) (PAL) [!].zip
+:	:	Wing War (Imagic) (PAL) [!].zip
+:	:	Wing War (Imagic) (PAL) [a1][!].zip
+:	:	Winter Games (1987) (Epyx) (PAL) [!].zip
+:	:	Winter Games (1987) (Epyx).zip
+:	:	Wizard [o1].zip
+:	:	Wizard of Wor (1982) (CBS Electronics) (PAL) [!].zip
+:	:	Wizard of Wor (1982) (CBS Electronics).zip
+:	:	Wizard.zip
+:	:	Word Zapper (1982) (US Games) (PAL) [p1][!].zip
+:	:	Word Zapper (1982) (US Games) [!].zip
+:	:	Worm War I (1982) (20th Century Fox) (PAL) [p1][!].zip
+:	:	Worm War I (1982) (20th Century Fox).zip
+:	:	Worm War I (CCE).zip
+:	:	X-Doom V.26 (PD).zip
+:	:	X-Doom V.27 (PD).zip
+:	:	X-Man (1983) (CosmoVision-Universal Gamex) [a1].zip
+:	:	X-Man (1983) (CosmoVision-Universal Gamex).zip
+:	:	Xenophobe (1990) (Atari) (PAL) [!].zip
+:	:	Xenophobe (1990) (Atari) (PAL) [a1].zip
+:	:	Xevious (Atari) (Prototype).zip
+:	:	Xevious (CCE).zip
+:	:	Yar's Revenge (1981) (Atari) (PAL) [!].zip
+:	:	Yar's Revenge (1981) (Atari) [a1].zip
+:	:	Yar's Revenge (1981) (Atari).zip
+:	:	Year 1999, The (Rainbow Vision) (PAL) [!].zip
+:	:	Z-Tack (Bomb).zip
+:	:	Zaxxon (1983) (CBS Electronics) (PAL) [!].zip
+:	:	Zaxxon (1983) (CBS Electronics).zip
+:	:	Zoo Fun (HomeVision).zip
